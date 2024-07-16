@@ -1,0 +1,185 @@
+0:
+100:Yes
+200:No
+300:Saving system data.
+400:Please do not turn off the power.
+500:The game cannot be played
+600:until the install process is complete.
+700:Please wait for the install to finish.
+800:The game cannot be played 
+900:until the download process is complete.
+1000:Please wait for the download to finish.
+1100:All unsaved game progress will be lost.
+1200:Return to Title Menu?
+1300:Yes
+1400:No
+1500:All unsaved game progress will be lost.
+1600:Return to Title Menu?
+1700:Yes
+1800:No
+1900:Return to Title Menu?
+2000:Yes
+2100:No
+2200:Skip “Warning Theater”?
+2300:Yes
+2400:No
+2500:Return all settings on this page to their defaults?
+2600:Yes
+2700:No
+2800:All settings on this page have been returned to their defaults.
+2850:Changing Language.
+2900:Save system data?
+3000:Yes
+3100:No
+3200:Checking system data.
+3300:System data already exists.
+3400:Overwite?
+3500:Yes
+3600:No
+3700:Saving system data.
+3800:Please do not turn off the power.
+3900:Failed to save system data.
+4000:Try again?
+4100:Yes
+4200:No
+4300:System data is corrupted.
+4400:Overwriting it will erase the damaged data.
+4500:Overwrite damaged data?
+4600:Overwrite
+4700:Cancel
+4800:Load this data?
+4900:Load
+5000:Don’t Load
+5100:This save file cannot be loaded
+5200:until installation is complete.
+5300:Please wait for the install to finish.
+5400:This save data cannot be loaded until
+5500:until download is complete.
+5600:Please wait for the download to finish.
+5700:Load this data?
+5800:All unsaved game progress will be lost.
+5900:Load
+6000:Don’t Load
+6100:All save data files are locked.
+6200:If you lock all save data files,
+6201:you will not be able to quicksave.
+6300:If you want to use the quicksave function,
+6400:please unlock unused save data files.
+6500:All save data files are locked.
+6600:If you lock all save data files,
+6601:you will not be able to quicksave.
+6700:If you want to use the quicksave function,
+6800:please unlock unused save data files.
+6900:Save data already exists.
+7000:Overwriting it will erase your previous save data.
+7100:Overwite this save file?
+7200:Overwrite
+7300:Cancel
+7400:This save data is locked.
+7500:If you wish to overwrite it, please unlock it.
+7600:A save file is damaged.
+7700:Overwriting it will erase your previous save data.
+7800:Overwite this save file?
+7900:Overwrite
+8000:Cancel
+8100:Saving. Please do not turn off the power.
+8200:Failed to save play data.
+8300:Try again?
+8400:Yes
+8500:No
+8600:Saving. Please do not turn off the power.
+8700:Save system data?
+8800:Yes
+8900:No
+9000:Checking system data.
+9100:System data already exists.
+9200:Overwite?
+9300:Yes
+9400:No
+9500:Saving system data.
+9600:Please do not turn off the power.
+9700:Failed to save system data.
+9800:Try again?
+9900:Yes
+10000:No
+10100:System data is corrupted.
+10200:Overwriting it will erase the damaged data.
+10300:Overwrite damaged data?
+10400:Overwrite
+10500:Cancel
+10600:Checking trophies.
+10700:Please do not turn off the power.
+10800:Insufficient space on memory card.
+10900:At least ~~ MB are needed to create
+11000:trophy and system data.
+11100:Please close the game 
+11200:and free up sufficient space.
+11300:Failed to load trophy data.
+11400:Please close the game and try again.
+11500:Checking system data.
+11600:If you have save data from the demo,
+11601: you can use it in the full game.
+11700:Once you create a system data file,
+11800:however, this will no longer be possible.
+11900:If you say “No,”
+11901:you will not load your demo save data.
+12000:Load your demo save data?
+12100:Yes
+12200:No
+12300:Checking demo save data.
+12400:Demo save data not found.
+12500:Demo system data is corrupted.
+12600:Save data cannot be used.
+12700:Demo save data found.
+12800:You can import this data into the full game.
+12900:Load your demo save data?
+13000:Yes
+13100:No
+13200:Loading demo save data.
+13300:Failed to import save data.
+13400:Successfully imported save data.
+13500:Loading system data.
+13600:System data not found.
+13700:System data will now be created.
+13800:Creating system data.
+13900:Please do not turn off the power.
+14000:System data is corrupted.
+14100:Repairing system data.
+14200:Repairing system data.
+14300:Please do not turn off the power.
+14400:This system data belongs to another users.
+14500:You will not be able to acquire any trophies with it.
+14501:
+14502:Loading system data.
+14600:System data is corrupted.
+14700:It will be overwritten the next time your system data is saved.
+14701:(Your previous save file will be lost.)
+14800:Failed to load system data.
+14900:Please exit the game and retry.
+15000:Failed to create system data.
+15100:Please exit the game and retry.
+15200:Please select your language.
+15300:
+15400:English
+15500:Japanese
+20000:You do not have the rights needed to open this save file.
+20001:Please wait for the content to finish downloading.
+21200:Close the game?
+21300:All unsaved game progress will be lost.
+21400:Yes
+21500:No
+30000:
+30001:
+30002:
+30003:
+30004:
+30005:
+30006:
+30007:
+30008:
+30009:
+30010:
+30011:
+30012:
+30013:
+30014:
