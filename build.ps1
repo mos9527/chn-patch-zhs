@@ -21,7 +21,6 @@ cmd /c invoke.cmd compile
 
 Write-Host "Packing script CPKs"
 Set-Location ..\.temp
-..\.bin\cpk.exe -r mes00.cpk -o ..\.temp\mes00
 ..\.bin\cpk.exe -r mes01.cpk -o ..\.temp\mes01
 
 Set-Location ..
