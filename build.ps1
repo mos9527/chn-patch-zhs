@@ -25,3 +25,5 @@ Set-Location ..\.temp
 
 Set-Location ..
 
+# TODO: Implement CoZ's file hook here. Testing for now.
+Copy-Item -Path ".temp\mes01.cpk" -Destination "H:\Etc\SteamLibrary\steamapps\common\CHAOS;HEAD NOAH\Data\mes01.cpk" -Recurse -Force
