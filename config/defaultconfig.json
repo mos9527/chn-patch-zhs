@@ -1,6 +1,6 @@
 {
     "__schema_version": 5,
-    "fontPath": "languagebarrier/VL-PGothic-Regular.ttf",
+    "fontPath": "languagebarrier/fonts/VL-PGothic-Regular.ttf",
     "karaokeSubs": "all",
     "showAllSettings": false,
     "newTextSystem": true,

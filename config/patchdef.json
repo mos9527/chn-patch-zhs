@@ -35,7 +35,7 @@
 				"type1Punctuation": "  、。?!~”ー)〕]}〉》”’】☆★々ぁぃぅぇぉっゃゅょァィゥェォッャュョ…–.,-% /:;*&)ﾟ^>+=\\´ヽ＼Ⅱ♪゜・∀）ノ･ωДﾉ＾；ε／'@,ü",
 				"type2Punctuation": "“’‘(〔[{〈《“‘【/-'@%~*&`ﾟ^>+$=\\´’゜・∀）ノ･ωДﾉ＾#；（￣ε／”@ü",
 				"redoDialogueWordwrap": true,
-				"fontPath": "languagebarrier/VL-PGothic-Regular.ttf"
+				"fontPath": "languagebarrier/fonts/VL-PGothic-Regular.ttf"
 			}
 		},
 		"hideAutoSkip": {
