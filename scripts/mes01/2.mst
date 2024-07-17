@@ -1,34 +1,34 @@
-0:Damaged Data
-100:No Data
-200:Play Time
-300:Save Date
+0:破損データ
+100:Ｎｏ ｄａｔａ
+200:プレイ時間
+300:セーブ日時
 400:／
 500:：
 600:Ｎｏ．
-700:Total Play Time
-800:Minutes
-900:Seconds
-1000:Hours
-1100:.
+700:総プレイ時間
+800:分
+900:秒
+1000:時間
+1100:．
 1200:％
 1300:／
 1400:？？／？？
 1500:？？？？？？
-1600:Ending
-1700:Scene title
-1800:Event CG
-1900:BGM
+1600:エンディング
+1700:シーンタイトル
+1800:イベントＣＧ
+1900:ＢＧＭ
 2000:
-2100:“
-2200:”
-2300:New
-2400:Unread
+2100:『
+2200:』
+2300:新規
+2400:未読
 2500:＿
 2600:・
-2700:
-2800:Start from this chapter?
-2900:Yes
-3000:No
+2700:】
+2800:この章の最初から開始しますか？
+2900:はい
+3000:いいえ
 3100:
 3200:
 3300:
@@ -40,13 +40,13 @@
 3900:
 4000:
 4100:
-4200:
+4200:？？？
 4300:
 4400:
-4500:
-4600:
-4700:
-4800:
+4500:マップ移動
+4600:　あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや　ゆ　よらりるれろわ　を　んぁぃぅぇぉゃゅょっーがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ
+4700:　ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ
+4800:　０１２３４５６７８９
 4900:
 5000:
 5100:
@@ -108,87 +108,86 @@
 10070:播放语音
 10080:恢复默认值
 10090:开关角色语音
-10100:翻页
-10110:Next CG
-10120:Hide Guide
-10130:Zoom
-20000:Chapter 1
+10100:下一个CG
+10120:操作ガイド非表示
+10130:ズーム
+20000:第１章
 20010:Ｅｙｅｓ ｉｎ ｅｙｅｓ
-20020:Chapter 2
+20020:第２章
 20030:Ｃｌｉｃｋ ｍｅ
-20040:Chapter 3
-20050:Shogun
-20060:Chapter 4
+20040:第３章
+20050:将軍
+20060:第４章
 20070:Ｄｉ-Ｓｗｏｒｄ
-20080:Chapter 5
-20090:Delusions
-20100:Chapter 6
+20080:第５章
+20090:妄想
+20100:第６章
 20110:Ｎｏａｈ
-20120:Chapter 7
+20120:第７章
 20130:ｐｓｙｃｈｏｐａｔｈ
-20140:Chapter 8
+20140:第８章
 20150:Ｉｒ２
-20160:Chapter 9
+20160:第９章
 20170:ｇｉｇａ-ｌｏ-ｍａｎｉａｃ
-20180:Chapter 10
+20180:第１０章
 20190:ｓｉｌｅｎｔ ｓｋｙ
-20200:Chapter 10
+20200:第１０章
 20210:ｃｒｙｉｎｇ ｓｋｙ
-20220:Chapter 9 Rimi: 
-20230:Anima Archetype
-20240:Chapter 8 Sena: 
-20250:Deus Ex Machina
-20260:Chapter 8 Yua: 
-20270:Moon and Sun
-20280:Chapter 8 Kozue: 
-20290:A Disease that Leads to Slaughter
-20300:Chapter 8 Ayase: 
-20310:A Bloody Contract for Your Sins
-20320:Chapter 7 Nanami:
+20220:第９章　梨深編
+20230:アニマの像
+20240:第８章　セナ編
+20250:デウス・エクス・マキナ
+20260:第８章　優愛編
+20270:月と太陽
+20280:第８章　梢編
+20290:殺戮に至る病
+20300:第８章　あやせ編
+20310:罪過に契約の血を
+20320:第７章　七海編
 20330:ｄａｙｄｒｅａｍ
-20340:Chapter 10
+20340:第１０章
 20350:ｂｌｕｅ ｓｋｙ
-25000:Chapter 1
-25010:Ｅｙｅｓ ｉｎ ｅｙｅｓ
-25020:Chapter 2
-25030:Ｃｌｉｃｋ ｍｅ
-25040:Chapter 3
-25050:Shogun
-25060:Chapter 4
-25070:Ｄｉ-Ｓｗｏｒｄ
-25080:Chapter 5
-25090:Delusions
-25100:Chapter 6
-25110:Ｎｏａｈ
-25120:Chapter 7
-25130:ｐｓｙｃｈｏｐａｔｈ
-25140:Chapter 8
-25150:Ｉｒ２
-25160:Chapter 9
-25170:ｇｉｇａ-ｌｏ-ｍａｎｉａｃ
-25180:Chapter 10
-25190:ｓｉｌｅｎｔ ｓｋｙ
-25200:Chapter 10
-25210:ｃｒｙｉｎｇ ｓｋｙ
-25220:Chapter 9 Rimi: 
-25230:Anima Archetype
-25240:Chapter 8 Sena: 
-25250:Deus Ex Machina
-25260:Chapter 8 Yua: 
-25270:Moon and Sun
-25280:Chapter 8 Kozue: 
-25290:A Disease that Leads to Slaughter
-25300:Chapter 8 Ayase: 
-25310:A Bloody Contract for Your Sins
-25320:Chapter 7 Nanami:
-25330:ｄａｙｄｒｅａｍ
-25340:Chapter 10
-25350:ｂｌｕｅ ｓｋｙ
-30000:Anima Archetype
-30010:Moon and Sun
-30020:Deus Ex Machina
-30030:A Disease that Leads to Slaughter
-30040:A Bloody Contract for Your Sins
+25000:【第１章】
+25010:【Ｅｙｅｓ ｉｎ ｅｙｅｓ】
+25020:【第２章】
+25030:【Ｃｌｉｃｋ ｍｅ】
+25040:【第３章】
+25050:【将軍】
+25060:【第４章】
+25070:【Ｄｉ-Ｓｗｏｒｄ】
+25080:【第５章】
+25090:【妄想】
+25100:【第６章】
+25110:【Ｎｏａｈ】
+25120:【第７章】
+25130:【ｐｓｙｃｈｏｐａｔｈ】
+25140:【第８章】
+25150:【Ｉｒ２】
+25160:【第９章】
+25170:【ｇｉｇａ-ｌｏ-ｍａｎｉａｃ】
+25180:【第１０章】
+25190:【ｓｉｌｅｎｔ ｓｋｙ】
+25200:【第１０章】
+25210:【ｃｒｙｉｎｇ ｓｋｙ】
+25220:【第９章　梨深編】
+25230:【アニマの像】
+25240:【第８章　セナ編】
+25250:【デウス・エクス・マキナ】
+25260:【第８章　優愛編】
+25270:【月と太陽】
+25280:【第８章　梢編】
+25290:【殺戮に至る病】
+25300:【第８章　あやせ編】
+25310:【罪過に契約の血を】
+25320:【第７章　七海編】
+25330:【ｄａｙｄｒｅａｍ】
+25340:【第１０章】
+25350:【ｂｌｕｅ ｓｋｙ】
+30000:アニマの像
+30010:月と太陽
+30020:デウス・エクス・マキナ
+30030:殺戮の至る病
+30040:罪過に契約の血を
 30050:ｄａｙｄｒｅａｍ
 30060:ｓｉｌｅｎｔ ｓｋｙ
 30070:ｃｒｙｉｎｇ ｓｋｙ
@@ -202,244 +201,244 @@
 40060:
 40070:
 40080:
-40090:I guess I'll sing this song for you! But don't think you're special!
+40090:聴かせてあげなくもないわよっ！　あなただからよ。
 40100:M.I.L
-40110:Takeshi Abo
+40110:阿保 剛
 40120:Silence
-40130:Toshimichi Isoe
+40130:磯江俊道
 40140:Adventure
-40150:Takeshi Abo
+40150:阿保 剛
 40160:Soliloquy
-40170:Takeshi Abo
+40170:阿保 剛
 40180:SHIBUYA
-40190:Takeshi Abo
+40190:阿保 剛
 40200:Delusion
-40210:Takeshi Abo
+40210:阿保 剛
 40220:Fear
-40230:Toshimichi Isoe
+40230:磯江俊道
 40240:SEIRA
-40250:Takeshi Abo
+40250:阿保 剛
 40260:Girls
-40270:Takeshi Abo
+40270:阿保 剛
 40280:Gradually Panic
-40290:Toshimichi Isoe
+40290:磯江俊道
 40300:Tender hearts
-40310:Takeshi Abo
+40310:阿保 剛
 40320:Doubt
-40330:Takeshi Abo
+40330:阿保 剛
 40340:Mysterious
-40350:Toshimichi Isoe
+40350:磯江俊道
 40360:Virtual reality
-40370:Takeshi Abo
+40370:阿保 剛
 40380:I'm rounder
-40390:Takeshi Abo
+40390:阿保 剛
 40400:In the ward
-40410:Takeshi Abo
+40410:阿保 剛
 40420:Town Vanguard
-40430:Yoh Ohyama
+40430:大山 曜
 40440:Pity
-40450:Takeshi Abo
+40450:阿保 剛
 40460:Detective
-40470:Takeshi Abo
+40470:阿保 剛
 40480:Distorted theory
-40490:Takeshi Abo
+40490:阿保 剛
 40500:Truth and false
-40510:Takeshi Abo
+40510:阿保 剛
 40520:White out
-40530:Shintaro Jinbo
+40530:神保伸太郎
 40540:Shogun
-40550:Yoh Ohyama
+40550:大山 曜
 40560:Last Battle
-40570:Yoh Ohyama
+40570:大山 曜
 40580:Convert
-40590:Takeshi Abo
+40590:阿保 剛
 40600:Final chapter
-40610:Takeshi Abo
+40610:阿保 剛
 40620:Colors
-40630:Takeshi Abo
+40630:阿保 剛
 40640:Real link
-40650:Takeshi Abo
+40650:阿保 剛
 40660:Silent sky
-40670:Takeshi Abo
+40670:阿保 剛
 40680:Find the blue
-40690:ITO KANAKO
+40690:いとうかなこ
 40700:Desire Blue sky
-40710:ITO KANAKO
-40720:KURAI
-40730:ITO KANAKO
-40740:Gladiale
-40750:FES VA Yui Sakakibara
-40760:A Bloody Contract for Your Sins
-40770:FES VA Yui Sakakibara
+40710:いとうかなこ
+40720:クライ
+40730:いとうかなこ
+40740:グラジオール
+40750:FES cv. 榊原ゆい
+40760:罪過に契約の血を
+40770:FES cv. 榊原ゆい
 40780:fake me
-40790:ITO KANAKO
+40790:いとうかなこ
 40800:Trust in me
-40810:Rimi Sakihata VA Eri Kitamura
+40810:咲畑梨深 cv.喜多村英梨
 40820:Love Power
-40830:Nanami Nishijou VA Ui Miyazaki
+40830:西條七海 cv. 宮崎羽衣
 40840:WHITE LILY
-40850:Yua Kusunoki VA Chiaki Takahashi
-40860:Heart's Darkness Ripped Apart
-40870:Ayase Kishimoto VA Yui Sakakibara
+40850:楠 優愛 cv. たかはし智秋
+40860:心の闇を切り裂いて
+40870:岸本あやせ cv. 榊原ゆい
 40880:Calling
-40890:Sena Aoi VA Hitomi Nabatame
-40900:Hear the Tiny Voices
-40910:Kozue Orihara VA Ayumi Tsuji
+40890:蒼井セナ cv. 生天目仁美
+40900:ちいさな声に気づいて
+40910:折原 梢 cv. 辻 あゆみ
 40920:A WILL
-40930:ITOKANAKO
-40940:The Gospel of Hallelujah
-40950:FES VA Yui Sakakibara
-40960:Esoteric Necklace
-40970:FES VA Yui Sakakibara
+40930:いとうかなこ
+40940:アレルイヤの福音〜使徒からの手紙第二編より〜
+40950:FES cv. 榊原ゆい
+40960:密教の首飾り〜グラジオール列王記邪心編より〜
+40970:FES cv. 榊原ゆい
 40980:Fetishism Ark
-40990:ITO KANAKO
-41000:Innocence
-41010:FES VA Yui Sakakibara
-41020:Chaos Logic
-41030:ITO KANAKO
-60000:″,
-60100:Takumi
-60200:Rimi
-60300:Girl
+40990:いとうかなこ
+41000:イノセンス
+41010:FES cv. 榊原ゆい
+41020:カオスロジック
+41030:いとうかなこ
+60000:
+60100:拓巳
+60200:梨深
+60300:少女
 60400:？？？
-60500:Nanami
-60600:Yua
-60700:Girl
-60800:Mia
-60900:Ayase
+60500:七海
+60600:優愛
+60700:女子
+60800:美愛
+60900:あやせ
 61000:ＦＥＳ
-61100:Sena
-61200:Kozue
-61300:Transfer Student
-61400:Seira
-61500:Misumi
-61600:Shogun
-61700:Ban
-61800:Man
-61900:Middle-Aged Detective
-62000:Suwa
-62100:Young Detective
-62200:Hazuki
-62300:Nurse
-62400:Momose
-62500:Takashina
-62600:Doctor
-62700:Norose
-62800:Man Ａ
-62900:Hatano
-63000:Sena's Father
-63100:Boy
-63200:Takumi
-63300:KnightHeart
-63400:Fujita
-63500:Anzawa
-63600:Man B
-63700:Takagi
-63800:Man Ｃ
-63900:Ozawa
-64000:Yamai
-64100:matsunaga
-64200:Hayashibara
-64300:Kuramochi
-64400:Old Man
-64500:Monitor Man Ａ
-64600:Inohana
-64700:Monitor Man Ｂ
-64800:Kamio
-64900:Minako
-65000:Kozue's Mother
-65100:Mother
-65200:Police
-65300:Detective
-65400:Otaku １
-65500:Otaku ２
-65600:Porter Ａ
-65700:Porter Ｂ
-65800:Porter Ｃ
-65900:Newscaster Ａ
-66000:Newscaster Ｂ
-66100:Newscaster Ｃ
-66200:Commentator １
-66300:Commentator ２
-66400:Phone
-66500:Housewife Ａ
-66600:Housewife Ｂ
-66700:Girl A
-66800:Girl B
-66900:Girl C
-67000:Girl D
-67100:Girl E
-67200:Girl F
-67300:Student Ａ
-67400:Student Ｂ
-67500:Student Ｃ
-67600:teenage girl Ａ
-67700:teenage girl Ｂ
-67800:Cashier
-67900:Cashier
-68000:Photo Booth
-68100:Like Zombies
-68200:Protestors
-68300:Backpack Man
-68400:People
-68500:College Student
-68600:Ota
-68700:Child １
-68800:Scary Man C
-68900:Teacher
-69000:Ambulance Tech
-69100:Math Teacher
-69200:Student
-69300:Police
-69400:Mother
-69500:Cleaner A
-69600:Cleaner B
-69700:teenage boy Ａ
-69800:teenage boy Ｂ
-69900:Boy Ｃ
-70000:Boy Ｄ
-70100:Boy Ｅ
-70200:Male Survivor A
-70300:Head Nurse
-70400:Nurse A
-70500:Crowd Members
-70600:Crowd Member 1
-70700:Crowd Member 2
-70800:Crowd Member 3
-70900:Crowd Member 4
-71000:Crowd Member 5
-71100:Crowd Member 6
-71200:Crowd Member 7
-71300:Crowd Member 8
-71400:Psychiatrist
-71500:Gossip Reporter A
-71600:Gossip Reporter B
-71700:Gossip Reporter C
-71800:Young Girl Ａ
-71900:Young Man Ａ
-72000:Young Man Ｂ
-72100:Pedestrians
-72200:Female Pedestrian 1
-72300:Female Pedestrian 2
-72400:Female Pedestrian 3
-72500:Female Pedestrian 4
-72600:Pedestrian １
-72700:Pedestrian ２
-72800:Passerby Ａ
-72900:Passerby Ｂ
-73000:Passerby Ｃ
-73100:Passerby Ｄ
-73200:Conductor
+61100:セナ
+61200:梢
+61300:転校生
+61400:星来
+61500:三住
+61600:将軍
+61700:判
+61800:男
+61900:中年刑事
+62000:諏訪
+62100:青年刑事
+62200:葉月
+62300:看護師
+62400:百瀬
+62500:高科
+62600:医師
+62700:野呂瀬
+62800:男Ａ
+62900:波多野
+63000:セナの父
+63100:少年
+63200:タクミ
+63300:ナイトハルト
+63400:藤田
+63500:安沢
+63600:男Ｂ
+63700:鷹木
+63800:男Ｃ
+63900:小沢
+64000:山井
+64100:松永
+64200:林原
+64300:倉持
+64400:老人
+64500:モニタの男Ａ
+64600:猪鼻
+64700:モニタの男Ｂ
+64800:神尾
+64900:美菜子
+65000:梢の母
+65100:母親
+65200:警官
+65300:刑事
+65400:オタク１
+65500:オタク２
+65600:ポーターＡ
+65700:ポーターＢ
+65800:ポーターＣ
+65900:キャスターＡ
+66000:キャスターＢ
+66100:キャスターＣ
+66200:コメンテーター１
+66300:コメンテーター２
+66400:ケータイアナウンス
+66500:主婦Ａ
+66600:主婦Ｂ
+66700:女子Ａ
+66800:女子Ｂ
+66900:女子Ｃ
+67000:女子Ｄ
+67100:女子Ｅ
+67200:女子Ｆ
+67300:生徒Ａ
+67400:生徒Ｂ
+67500:生徒Ｃ
+67600:女子高生Ａ
+67700:女子高生Ｂ
+67800:コンビニ店員
+67900:ショップ店員
+68000:シール機
+68100:ゾンビ風集団
+68200:デモ隊
+68300:リュック男
+68400:人々
+68500:大学生
+68600:太田
+68700:子供１
+68800:怖いお兄さんＣ
+68900:担任
+69000:救急隊員
+69100:数学教師
+69200:日直
+69300:機動隊
+69400:母親１
+69500:清掃員Ａ
+69600:清掃員Ｂ
+69700:男子高校生Ａ
+69800:男子高校生Ｂ
+69900:男子Ｃ
+70000:男子Ｄ
+70100:男子Ｅ
+70200:男性被災者Ａ
+70300:看護師長
+70400:看護師Ａ
+70500:祭参加者コール
+70600:祭参加者１
+70700:祭参加者２
+70800:祭参加者３
+70900:祭参加者４
+71000:祭参加者５
+71100:祭参加者６
+71200:祭参加者７
+71300:祭参加者８
+71400:精神科医
+71500:芸能レポーターＡ
+71600:芸能レポーターＢ
+71700:芸能レポーターＣ
+71800:若い女Ａ
+71900:若い男Ａ
+72000:若い男Ｂ
+72100:通行人たち
+72200:通行人女１
+72300:通行人女２
+72400:通行人女３
+72500:通行人女４
+72600:通行人男１
+72700:通行人男２
+72800:通行人Ａ
+72900:通行人Ｂ
+73000:通行人Ｃ
+73100:通行人Ｄ
+73200:駅員
 73300:ＯＬ
-73400:Kozupii
-73500:Kozupii？
-73600:Rimi＆Kozue
-73700:Rimi＆Transfer Student
-73800:Takumi＆Sena
-73900:Yua＆Mia
-74000:Everybody
-74100:Students
-80000:″,
+73400:こずぴぃ
+73500:こずぴぃ？
+73600:梨深＆梢
+73700:梨深＆転校生
+73800:拓巳＆セナ
+73900:優愛＆美愛
+74000:みんな
+74100:生徒たち
+80000:
 80100:拓巳
 80200:梨深
 80300:少女
@@ -581,6 +580,6 @@
 93900:優愛＆美愛
 94000:みんな
 94100:生徒たち
-110000:<0x1D40>号已登出。即将回到<0x1D41><0x1D42>画面。
-110010:游<0x1D43>手柄已拔出，<0x1D44>重新<0x1D45>接。
-110020:<0x1D46>始游<0x1D43>前<0x1D44>登<0x1D47><0x1D40>号。
+110000:サインアウトされました。タイトル画面に戻ります。
+110010:ゲームパッドが外されました。ゲームパッドを接続してください。
+110020:ゲームを遊ぶためにはサインインしてください。

@@ -18,11 +18,20 @@
 		"redoDialogueWordwrap": true,
 		"useNewTextSystem": true,
 		"spaceWidthPixels": 13,
-		"archiveRedirection": {
-			"mes00": "c0mes01",
+		"archiveRedirection": {			
+			"mes00": "c0mes00",
 			"mes01": "c0mes01",
-			"c0data": "c0data"
+			"c0data": "c0data"			
 		},
+		"fmv": {
+			"fonts": [
+				"LXGWHeartSerif.ttf"
+			],
+			"subs": {
+				"58": "mvinter01.ass"
+			},
+			"videoRedirection": {}
+		},		
 		"singleTextLineFixes": [],
 		"fileRedirection": {
 			"system": {
@@ -53,6 +62,18 @@
 				"type2Punctuation": "“’‘(〔[{〈《“‘【/-'@%~*&`ﾟ^>+$=\\´’゜・∀）ノ･ωДﾉ＾#；（￣ε／”@ü",
 				"redoDialogueWordwrap": true,
 				"fontPath": "languagebarrier/fonts/LXGWHeartSerif.ttf"
+			}
+		},
+		"karaokeSubs": {
+			"type": "choice",
+			"choices": {
+				"all": {
+					"fmv": {
+						"subs": {
+							"32": "mvdemo.ass"
+						}
+					}
+				}
 			}
 		},
 		"hideAutoSkip": {

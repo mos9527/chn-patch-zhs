@@ -28,7 +28,7 @@ cd chn-patch-zhs
 在 [Release](https://github.com/mos9527/chn-patch-zhs/releases) 页面下载最新版本的 `Release.zip`，解压到游戏目录即可。
 
 ## 翻译进度
-**注:** 文本源来自官方**英语**脚本，CG源来自官方**日语**脚本
+**注:** 文本源来自官方**日语**脚本，CG源来自官方**日语**脚本
 
 ### 参加人员
 - [mos9527](https://github.com/mos9527)

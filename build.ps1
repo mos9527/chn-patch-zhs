@@ -18,6 +18,8 @@ if ($args -notcontains '--no-update') {
     Invoke-WebRequest -Uri "https://github.com/mos9527/LanguageBarrier/releases/download/latest/dinput8_chn.dll" -OutFile .\.bin\dinput8.dll
 }
 
+# mes00 为官方日语脚本
+# mes01 以此为基础进行翻译，对于英语模式
 Remove-Item -Path ".temp" -Recurse -ErrorAction Ignore | Out-Null
 New-Item -ErrorAction Ignore -ItemType Directory -Path ".temp" | Out-Null
 
@@ -26,13 +28,16 @@ New-Item -ErrorAction Ignore -ItemType Directory -Path "dist" | Out-Null
 
 Write-Host "Building Charset"
 $CharsetPath = ".bin\MgsScriptTools\mgs-spec-bank\charset\chaos_head_noah-zhs.utf8"
-python .\scripts\build_charset.py .\scripts\mes01 $CharsetPath
+# 包括两个mes的所有字符
+python .\scripts\build_charset.py .\scripts $CharsetPath
 python .bin\MgsScriptTools\mgs-spec-bank\charset\generate_from_charset.py $CharsetPath .bin\MgsScriptTools\mgs-spec-bank\charset\chaos_head_noah-zhs.json
 
 Write-Host "Compiling scripts"
+.bin\MgsScriptTools\MgsScriptTools.exe compile --bank-directory .bin\MgsScriptTools\mgs-spec-bank --compiled-directory .temp\mes00 --decompiled-directory scripts\mes00_original --string-syntax Sc3Tools --charset chaos_head_noah-zhs  --flag-set chaos_head_windows --instruction-sets base,chaos_head_noah
 .bin\MgsScriptTools\MgsScriptTools.exe compile --bank-directory .bin\MgsScriptTools\mgs-spec-bank --compiled-directory .temp\mes01 --decompiled-directory scripts\mes01 --string-syntax Sc3Tools --charset chaos_head_noah-zhs  --flag-set chaos_head_windows --instruction-sets base,chaos_head_noah
 
 Write-Host "Packing script CPKs"
+.bin\cpk.exe -r .temp\mes00.cpk -o .temp\mes00
 .bin\cpk.exe -r .temp\mes01.cpk -o .temp\mes01
 
 Write-Host "Packing c0data"
@@ -41,10 +46,15 @@ Write-Host "Packing c0data"
 Write-Host "Copying files"
 New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\LanguageBarrier" | Out-Null
 New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\LanguageBarrier\fonts" | Out-Null
+New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\LanguageBarrier\subs" | Out-Null
+New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\LanguageBarrier\subs\fonts" | Out-Null
 New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\HEAD NOAH" | Out-Null
 Copy-Item -Path ".temp\c0data.cpk" -Destination dist\LanguageBarrier\c0data.cpk -Recurse -Force
+Copy-Item -Path ".temp\mes00.cpk" -Destination dist\LanguageBarrier\c0mes00.cpk -Recurse -Force
 Copy-Item -Path ".temp\mes01.cpk" -Destination dist\LanguageBarrier\c0mes01.cpk -Recurse -Force
 Copy-Item -Path "data\fonts\*" -Destination dist\LanguageBarrier\fonts\ -Recurse -Force
+Copy-Item -Path "data\subs\*" -Destination dist\LanguageBarrier\subs\ -Recurse -Force
+Copy-Item -Path "data\fonts\*" -Destination dist\LanguageBarrier\subs\fonts -Recurse -Force
 Copy-Item -Path "data\dll\*" -Destination "dist\HEAD NOAH" -Recurse -Force
 Copy-Item -Path ".bin\dinput8.dll" -Destination "dist\HEAD NOAH\dinput8.dll" -Recurse -Force
 
