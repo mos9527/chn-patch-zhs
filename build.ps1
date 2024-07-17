@@ -1,3 +1,9 @@
+if ($args -contains '--help') {
+    Write-Host "Usage: build.ps1 [--no-update] [--game-path=<path>]"
+    Write-Host "  --no-update: 不更新依赖文件；可选择在第一次运行后使用"
+    Write-Host "  --game-path=<path>: 游戏目录（如C:\Program Files (x86)\Steam\steamapps\common\CHAOS;HEAD NOAH)；指定将自动安装补丁至此目录"
+    exit
+}
 if ($args -notcontains '--no-update') {
     Write-Host "Updating dependencies"
     
@@ -47,8 +53,14 @@ Copy-Item -Path config\*.bin -Destination dist\LanguageBarrier\ -Recurse -Force
 Write-Host "Updating config"
 python config\update_config.py $CharsetPath ".bin\MgsScriptTools\mgs-spec-bank\charset\chaos_head_noah-zhs.json" dist\LanguageBarrier\patchdef.json
 
-$GamePath = "C:\Program Files (x86)\Steam\steamapps\common\CHAOS;HEAD NOAH"
-if (Test-Path $GamePath) {
+$GamePath = $args | Where-Object {$_ -match "--game-path=(.+)"} | ForEach-Object { $Matches[1] }
+if ($null -ne $GamePath -and (Test-Path $GamePath)) {
     Write-Host "Copying to game directory"
-    Copy-Item -Path "dist\*" -Destination "$GamePath" -Recurse -Force
+    Copy-Item -Path "dist\*" -Destination $GamePath -Recurse -Force
 }
+
+Write-Host "Packing distribution"
+Remove-Item -Path "Release.zip" -ErrorAction Ignore | Out-Null
+Compress-Archive -Path .\dist\* -Destination Release.zip
+
+Write-Host "All done. Going home."
