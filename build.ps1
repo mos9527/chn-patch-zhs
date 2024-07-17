@@ -3,9 +3,6 @@ if ($args -notcontains '--no-update') {
     
     Remove-Item -Path ".bin" -Recurse -ErrorAction Ignore | Out-Null
     New-Item -ErrorAction Ignore -ItemType Directory -Path ".bin" | Out-Null
-    # MgsFontGen-DX
-    Invoke-WebRequest -Uri "https://github.com/mos9527/mgsfontgen-dx/releases/download/latest/mgsfontgen-dx.zip" -OutFile .\.bin\mgsfontgen-dx.zip
-    Expand-Archive -Path .\.bin\mgsfontgen-dx.zip -DestinationPath .\.bin\mgsfontgen-dx
     # MgsScriptTools
     Invoke-WebRequest -Uri "https://github.com/mos9527/MgsScriptTools/releases/download/latest/net6.0.zip" -OutFile .\.bin\MgsScriptTools.zip
     Expand-Archive -Path .\.bin\MgsScriptTools.zip -DestinationPath .\.bin\MgsScriptTools    
@@ -32,10 +29,14 @@ Write-Host "Compiling scripts"
 Write-Host "Packing script CPKs"
 .bin\cpk.exe -r .temp\mes01.cpk -o .temp\mes01
 
+Write-Host "Packing c0data"
+.bin\cpk.exe -r .temp\c0data.cpk -o data\c0data
+
 Write-Host "Copying files"
 New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\LanguageBarrier" | Out-Null
 New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\LanguageBarrier\fonts" | Out-Null
 New-Item -ErrorAction Ignore -ItemType Directory -Path "dist\HEAD NOAH" | Out-Null
+Copy-Item -Path ".temp\c0data.cpk" -Destination dist\LanguageBarrier\c0data.cpk -Recurse -Force
 Copy-Item -Path ".temp\mes01.cpk" -Destination dist\LanguageBarrier\c0mes01.cpk -Recurse -Force
 Copy-Item -Path "data\fonts\*" -Destination dist\LanguageBarrier\fonts\ -Recurse -Force
 Copy-Item -Path "data\dll\*" -Destination "dist\HEAD NOAH" -Recurse -Force
@@ -44,9 +45,9 @@ Copy-Item -Path ".bin\dinput8.dll" -Destination "dist\HEAD NOAH\dinput8.dll" -Re
 Copy-Item -Path config\*.json -Destination dist\LanguageBarrier\ -Recurse -Force
 Copy-Item -Path config\*.bin -Destination dist\LanguageBarrier\ -Recurse -Force
 Write-Host "Updating config"
-python config\update_config.py $CharsetPath dist\LanguageBarrier\patchdef.json
+python config\update_config.py $CharsetPath ".bin\MgsScriptTools\mgs-spec-bank\charset\chaos_head_noah-zhs.json" dist\LanguageBarrier\patchdef.json
 
-$GamePath = "C:\Etc\SteamLibrary\steamapps\common\CHAOS;HEAD NOAH"
+$GamePath = "C:\Program Files (x86)\Steam\steamapps\common\CHAOS;HEAD NOAH"
 if (Test-Path $GamePath) {
     Write-Host "Copying to game directory"
     Copy-Item -Path "dist\*" -Destination "$GamePath" -Recurse -Force
