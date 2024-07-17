@@ -21,7 +21,8 @@
 		"archiveRedirection": {			
 			"mes00": "c0mes00",
 			"mes01": "c0mes01",
-			"c0data": "c0data"			
+			"c0data": "c0data",
+			"movie_eng": "c0data"
 		},
 		"fmv": {
 			"fonts": [
