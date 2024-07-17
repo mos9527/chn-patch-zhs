@@ -56,6 +56,8 @@ python config\update_config.py $CharsetPath ".bin\MgsScriptTools\mgs-spec-bank\c
 $GamePath = $args | Where-Object {$_ -match "--game-path=(.+)"} | ForEach-Object { $Matches[1] }
 if ($null -ne $GamePath -and (Test-Path $GamePath)) {
     Write-Host "Copying to game directory"
+    Remove-Item -Path "$GamePath\LanguageBarrier" -Recurse -ErrorAction Ignore | Out-Null
+    Remove-Item -Path "$GamePath\HEAD NOAH" -Recurse -ErrorAction Ignore | Out-Null
     Copy-Item -Path "dist\*" -Destination $GamePath -Recurse -Force
 }
 

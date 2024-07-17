@@ -24,6 +24,7 @@ cd chn-patch-zhs
 `.\build.ps1 --no-update --game-path="C:\Program Files (x86)\Steam\steamapps\common\CHAOS;HEAD NOAH"`
 
 ## 直接安装
+**注：** 安装前请将（若存在）已有的`HEAD NOAH`, `LanguageBarrier`文件夹删除（否则字库缓存可能过期）
 在 [Release](https://github.com/mos9527/chn-patch-zhs/releases) 页面下载最新版本的 `Release.zip`，解压到游戏目录即可。
 
 ## 翻译进度
@@ -37,6 +38,7 @@ cd chn-patch-zhs
 [→文件传送门](https://github.com/mos9527/chn-patch-zhs/tree/master/scripts/mes01)
 | 内容 | 进度 | 翻译 | 校对 | 审核 |
 | --- | --- | --- | --- | --- |
+| 系统 | 100% | mos9527 | mos9527 | mos9527 |
 | 序章 | 100% | mos9527 | mos9527 | mos9527 |
 
 ### CG进度
@@ -49,6 +51,7 @@ cd chn-patch-zhs
 ## 感谢
 - [霞鹜铭心宋(补丁所用默认字体)](https://github.com/lxgw/LxgwHeartSerif)
 - https://github.com/CommitteeOfZero/chn-patch
+- https://zh.moegirl.org.cn/混沌之脑
 
 ## 工具链接
 - https://github.com/mos9527/mages-tools

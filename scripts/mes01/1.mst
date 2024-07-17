@@ -1,170 +1,167 @@
 0:
-100:Yes
-200:No
-300:Saving system data.
-400:Please do not turn off the power.
-500:The game cannot be played
-600:until the install process is complete.
-700:Please wait for the install to finish.
-800:The game cannot be played 
-900:until the download process is complete.
-1000:Please wait for the download to finish.
-1100:All unsaved game progress will be lost.
-1200:Return to Title Menu?
-1300:Yes
-1400:No
-1500:All unsaved game progress will be lost.
-1600:Return to Title Menu?
-1700:Yes
-1800:No
-1900:Return to Title Menu?
-2000:Yes
-2100:No
-2200:Skip “Warning Theater”?
-2300:Yes
-2400:No
-2500:Return all settings on this page to their defaults?
-2600:Yes
-2700:No
-2800:All settings on this page have been returned to their defaults.
-2850:Changing Language.
-2900:Save system data?
-3000:Yes
-3100:No
-3200:Checking system data.
-3300:System data already exists.
-3400:Overwite?
-3500:Yes
-3600:No
-3700:Saving system data.
-3800:Please do not turn off the power.
-3900:Failed to save system data.
-4000:Try again?
-4100:Yes
-4200:No
-4300:System data is corrupted.
-4400:Overwriting it will erase the damaged data.
-4500:Overwrite damaged data?
-4600:Overwrite
-4700:Cancel
-4800:Load this data?
-4900:Load
-5000:Don’t Load
-5100:This save file cannot be loaded
-5200:until installation is complete.
-5300:Please wait for the install to finish.
-5400:This save data cannot be loaded until
-5500:until download is complete.
-5600:Please wait for the download to finish.
-5700:Load this data?
-5800:All unsaved game progress will be lost.
-5900:Load
-6000:Don’t Load
-6100:All save data files are locked.
-6200:If you lock all save data files,
-6201:you will not be able to quicksave.
-6300:If you want to use the quicksave function,
-6400:please unlock unused save data files.
-6500:All save data files are locked.
-6600:If you lock all save data files,
-6601:you will not be able to quicksave.
-6700:If you want to use the quicksave function,
-6800:please unlock unused save data files.
-6900:Save data already exists.
-7000:Overwriting it will erase your previous save data.
-7100:Overwite this save file?
-7200:Overwrite
-7300:Cancel
-7400:This save data is locked.
-7500:If you wish to overwrite it, please unlock it.
-7600:A save file is damaged.
-7700:Overwriting it will erase your previous save data.
-7800:Overwite this save file?
-7900:Overwrite
-8000:Cancel
-8100:Saving. Please do not turn off the power.
-8200:Failed to save play data.
-8300:Try again?
-8400:Yes
-8500:No
-8600:Saving. Please do not turn off the power.
-8700:Save system data?
-8800:Yes
-8900:No
-9000:Checking system data.
-9100:System data already exists.
-9200:Overwite?
-9300:Yes
-9400:No
-9500:Saving system data.
-9600:Please do not turn off the power.
-9700:Failed to save system data.
-9800:Try again?
-9900:Yes
-10000:No
-10100:System data is corrupted.
-10200:Overwriting it will erase the damaged data.
-10300:Overwrite damaged data?
-10400:Overwrite
-10500:Cancel
-10600:Checking trophies.
-10700:Please do not turn off the power.
-10800:Insufficient space on memory card.
-10900:At least ~~ MB are needed to create
-11000:trophy and system data.
-11100:Please close the game 
-11200:and free up sufficient space.
-11300:Failed to load trophy data.
-11400:Please close the game and try again.
-11500:Checking system data.
-11600:If you have save data from the demo,
-11601: you can use it in the full game.
-11700:Once you create a system data file,
-11800:however, this will no longer be possible.
-11900:If you say “No,”
-11901:you will not load your demo save data.
-12000:Load your demo save data?
-12100:Yes
-12200:No
-12300:Checking demo save data.
-12400:Demo save data not found.
-12500:Demo system data is corrupted.
-12600:Save data cannot be used.
-12700:Demo save data found.
-12800:You can import this data into the full game.
-12900:Load your demo save data?
-13000:Yes
-13100:No
-13200:Loading demo save data.
-13300:Failed to import save data.
-13400:Successfully imported save data.
-13500:Loading system data.
-13600:System data not found.
-13700:System data will now be created.
-13800:Creating system data.
-13900:Please do not turn off the power.
-14000:System data is corrupted.
-14100:Repairing system data.
-14200:Repairing system data.
-14300:Please do not turn off the power.
-14400:This system data belongs to another users.
-14500:You will not be able to acquire any trophies with it.
-14501:
-14502:Loading system data.
-14600:System data is corrupted.
-14700:It will be overwritten the next time your system data is saved.
-14701:(Your previous save file will be lost.)
-14800:Failed to load system data.
-14900:Please exit the game and retry.
-15000:Failed to create system data.
-15100:Please exit the game and retry.
-15200:Please select your language.
+100:是的
+200:否
+300:正在保存系统数据。
+400:请勿切断电源。
+500:在安装完成前,游戏无法开始。
+600:请耐心等待安装完成。
+800:在下载完成前,游戏无法开始。 
+900:请耐心等待下载完成。
+1100:所有未保存的游戏进度将会丢失。
+1200:返回标题菜单?
+1300:是的
+1400:否
+1500:所有未保存的游戏进度将会丢失。
+1600:返回标题菜单?
+1700:是的
+1800:否
+1900:返回标题菜单?
+2000:是的
+2100:否  
+2200:跳过"警告剧场"?
+2300:是的
+2400:否
+2500:将该页面的所有设置恢复为默认值?
+2600:是的
+2700:否
+2800:该页面的所有设置已恢复为默认值。
+2850:正在切换语言。
+2900:保存系统数据?
+3000:是的
+3100:否
+3200:正在检查系统数据。
+3300:系统数据已存在。
+3400:覆盖?
+3500:是的
+3600:否
+3700:正在保存系统数据。
+3800:请勿切断电源。
+3900:保存系统数据失败。
+4000:重试?
+4100:是的
+4200:否
+4300:系统数据已损坏。
+4400:覆盖将会删除已损坏的数据。
+4500:覆盖损坏的数据?
+4600:覆盖
+4700:取消
+4800:加载此数据?
+4900:加载
+5000:不加载
+5100:在完成安装前,此存档文件无法加载。
+5300:请耐心等待安装完成。  
+5400:在完成下载前,
+5500:此存档文件无法加载。
+5600:请耐心等待下载完成。
+5700:加载此数据?
+5800:所有未保存的游戏进度将会丢失。
+5900:加载
+6000:不加载
+6100:所有存档文件均已锁定。
+6200:如果锁定所有存档文件,
+6201:您将无法进行快捷存档。
+6300:如果您想使用快捷存档功能,
+6400:请解锁未使用的存档文件。
+6500:所有存档文件均已锁定。
+6600:如果锁定所有存档文件,  
+6601:您将无法进行快捷存档。
+6700:如果您想使用快捷存档功能,
+6800:请解锁未使用的存档文件。
+6900:存档数据已存在。
+7000:覆盖将会删除您之前的存档数据。
+7100:覆盖此存档文件?
+7200:覆盖
+7300:取消
+7400:此存档文件已锁定。  
+7500:如果您希望覆盖它,请先解锁。
+7600:一份存档文件已损坏。
+7700:覆盖将会删除您之前的存档数据。  
+7800:覆盖此存档文件?
+7900:覆盖
+8000:取消
+8100:正在保存,请勿切断电源。
+8200:保存游戏数据失败。
+8300:重试?
+8400:是的
+8500:否
+8600:正在保存,请勿切断电源。
+8700:保存系统数据?
+8800:是的
+8900:否
+9000:正在检查系统数据。
+9100:系统数据已存在。
+9200:覆盖?
+9300:是的
+9400:否
+9500:正在保存系统数据。
+9600:请勿切断电源。
+9700:保存系统数据失败。 
+9800:重试?
+9900:是的
+10000:否
+10100:系统数据已损坏。
+10200:覆盖将会删除已损坏的数据。
+10300:覆盖损坏的数据?
+10400:覆盖
+10500:取消
+10600:正在检查奖杯。
+10700:请勿切断电源。
+10800:存储卡空间不足。
+10900:至少需要~~MB的空间来创建
+11000:奖杯和系统数据。
+11100:请退出游戏
+11200:并释放足够的空间。
+11300:读取奖杯数据失败。
+11400:请退出游戏并重试。 
+11500:正在检查系统数据。
+11600:如果您有从体验版继承的存档数据,
+11601:您可以在完整版中使用它。
+11700:然而,一旦您创建了系统数据文件,
+11800:您就无法继续使用体验版存档。
+11900:如果您选择"否",
+11901:您将无法加载体验版存档。
+12000:加载体验版存档?
+12100:是的
+12200:否
+12300:正在检查体验版存档数据。
+12400:未找到体验版存档。
+12500:体验版系统数据已损坏。
+12600:无法使用存档数据。
+12700:找到体验版存档数据。
+12800:您可以导入此数据至完整版。
+12900:加载体验版存档?
+13000:是的
+13100:否
+13200:正在加载体验版存档。
+13300:导入存档数据失败。
+13400:成功导入存档数据。
+13500:正在加载系统数据。
+13600:未找到系统数据。
+13700:系统数据将被创建。
+13800:正在创建系统数据。
+13900:请勿切断电源。
+14000:系统数据已损坏。
+14100:正在修复系统数据。
+14200:正在修复系统数据。
+14300:请勿切断电源。
+14400:此系统数据属于其他用户。
+14500:您无法获取任何奖杯。
+14501:  
+14502:正在加载系统数据。
+14600:系统数据已损坏。
+14700:下次保存系统数据时将被覆盖。
+14701:(您之前的存档将丢失。)
+14800:加载系统数据失败。
+14900:请退出游戏并重试。
+15000:创建系统数据失败。 
+15100:请退出游戏并重试。
+15200:请选择您的语言。
 15300:
-15400:English
-15500:Japanese
-20000:You do not have the rights needed to open this save file.
-20001:Please wait for the content to finish downloading.
-21200:要退出游戏吗？
+15400:英语
+15500:日语
+20000:您没有权限打开此存档文件。 
+20001:请等待内容下载完成。
+21200:要退出游戏吗?
 21300:您将丢失所有未保存的进度。
 21400:确定
 21500:取消
