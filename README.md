@@ -45,8 +45,8 @@ cd chn-patch-zhs
 [→文件传送门](https://github.com/mos9527/chn-patch-zhs/tree/master/data/c0data)
 | 内容 | 进度 | 翻译 | 校对 | 审核 |
 | --- | --- | --- | --- | --- |
-| 警告 | 0% | mos9527 | mos9527 | mos9527 |
-| 主菜单 | 0% | mos9527 | mos9527 | mos9527 |
+| UI | 100% | mos9527 | mos9527 | mos9527 |
+
 
 ## 感谢
 - [霞鹜铭心宋(补丁所用默认字体)](https://github.com/lxgw/LxgwHeartSerif)

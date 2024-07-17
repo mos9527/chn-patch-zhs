@@ -98,17 +98,17 @@
 9700:
 9800:
 9900:
-10000:Back
-10010:Okay
-10020:Data lock
+10000:返回
+10010:确定
+10020:锁定存档
 10030:Play
 10040:Stop
 10050:Change Play Mode
-10060:TIPS Scroll
-10070:Play Voice
-10080:Return to Default
-10090:Turn On/Off Character Voices
-10100:Change Page
+10060:TIPS 翻页
+10070:播放语音
+10080:恢复默认值
+10090:开关角色语音
+10100:翻页
 10110:Next CG
 10120:Hide Guide
 10130:Zoom
