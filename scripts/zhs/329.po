@@ -129,7 +129,7 @@ msgstr "3800:[name]拓巳[line]Ah![%p]"
 msgid "3900:あまりの痛みに、反射的に髪を離してしまった。[linebreak]その隙を突かれ、手も床に押し付けられてしまった。[%p]"
 msgstr "3900:It hurt so bad, I let go. When I did, she pinned my hand to the floor.[%p]"
 
-msgid "4000:[name]優愛[line]「はぁ、はぁ、あなた、でしょ？　あなたなのよ……！」[%p]"
+msgid "4000:[name]優愛[line]「はぁ、はぁ、あなた、でしょ？\u3000あなたなのよ……！」[%p]"
 msgstr "4000:[name]優愛[line]Hahh... Hahh... It's you, isn't it? It's you![%p]"
 
 msgid "4100:優愛の眼鏡は、もみ合ったせいでわずかにずれてしまっている。[linebreak]その奥の瞳には、僕が髪を引っ張ったせいか涙が浮かんでいる。[%p]"
@@ -141,7 +141,7 @@ msgstr "4200:But her eyes were endlessly cold as she stared at me, just like at 
 msgid "4300:[name]優愛[line]「あなたが、はぁ、はぁ、殺した……っ」[%p]"
 msgstr "4300:[name]優愛[line]You... hahh... hahh... killed her.[%p]"
 
-msgid "4400:いったいなんの話だ……！？[linebreak]相変わらず僕のことをニュージェネ犯人だって主張する気か！？[linebreak]なにが殺しただよ！　お前が殺しに来たんだろ！[%p]"
+msgid "4400:いったいなんの話だ……！？[linebreak]相変わらず僕のことをニュージェネ犯人だって主張する気か！？[linebreak]なにが殺しただよ！\u3000お前が殺しに来たんだろ！[%p]"
 msgstr "4400:What was she talking about? Was she still saying I was the NewGen killer? I didn't kill anybody! She was the one who was here to kill me![%p]"
 
 msgid "4500:優愛の冷たい視線を見つめ返していると、恐ろしくてしょうがない。[%p]"
@@ -183,7 +183,7 @@ msgstr "5600:DID... Dissociative Identity Disorder. Multiple personalities.[%p]"
 msgid "5700:＠カフェで今みたいにもみ合ったとき、優愛はそう言っていた。[linebreak]でもそんなのはこの女の妄想だ！[linebreak]優愛が僕以上に僕のことを知っているもんか！[%p]"
 msgstr "5700:That's what she'd said at @Café when we'd fought like this. But that was just her delusion. How could Yua know more about me than I knew myself?[%p]"
 
-msgid "5800:[name]優愛[line]「西條くん、まだ知らないの？　自覚できていないの？」[%p]"
+msgid "5800:[name]優愛[line]「西條くん、まだ知らないの？\u3000自覚できていないの？」[%p]"
 msgstr "5800:[name]優愛[line]Nishijo, do you still not know? You're still not aware of it?[%p]"
 
 msgid "5900:[name]優愛[line]「なにも知りませんでした、で許されると思ってるの？」[%p]"

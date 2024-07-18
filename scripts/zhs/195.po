@@ -243,7 +243,7 @@ msgstr "7600:[name]あやせ[line]...[%p]"
 msgid "7700:あやせはこの男に見覚えがある。故に、警戒の目で男を見つめた。[%p]"
 msgstr "7700:Ayase recognized the man. Thus, she looked at him suspiciously.[%p]"
 
-msgid "7800:[name]男[line]「どうも。あ、別に怪しいもんじゃないッスよ？　自分は――」[%p]"
+msgid "7800:[name]男[line]「どうも。あ、別に怪しいもんじゃないッスよ？\u3000自分は――」[%p]"
 msgstr "7800:[name]男[line]Hey there. Oh, don't worry. I'm not here to hurt you. I'm...[%p]"
 
 msgid "7900:[name]あやせ[line]「知ってるわ」[%p]"
@@ -609,7 +609,7 @@ msgstr "19800:He grinned as he pressed the button to reject the call. He turned 
 msgid "19900:[name]青年刑事[line]「あやせちゃんは映画見るッスか？」[%p]"
 msgstr "19900:[name]青年刑事[line]You a movie buff, Ayase?[%p]"
 
-msgid "20000:[name]青年刑事[line]「『スパークウォーズ』って知らない？　それに出てくるダーススパイダー伯爵のテーマなんス、今のメロディ」[%p]"
+msgid "20000:[name]青年刑事[line]「『スパークウォーズ』って知らない？\u3000それに出てくるダーススパイダー伯爵のテーマなんス、今のメロディ」[%p]"
 msgstr "20000:[name]青年刑事[line]You ever heard of Spark Wars? That was Count Darth Spider's theme. He's a character from the movie.[%p]"
 
 msgid "20100:彼女は映画になど興味はなかった。[%p]"

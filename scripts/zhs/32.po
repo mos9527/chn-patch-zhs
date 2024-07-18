@@ -195,7 +195,7 @@ msgstr "6000:[name]？？？[line]Even if you try to stop me, I'm going to awake
 msgid "6100:少年の言葉を背中で受けた彼女は、ドアを開けたところで一度だけ立ち止まった。廊下の外は無人。誰もいない。声も、物音もしない。[%p]"
 msgstr "6100:As she opened the door, she came to a stop. The hallway was empty. No one was there. That meant no voices, and no other sounds.[%p]"
 
-msgid "6200:[name]少女[line]「ねえ、あたしたちって、なんなんだろう？　誰にも存在を知られずに、ここにもう１年以上いる」[%p]"
+msgid "6200:[name]少女[line]「ねえ、あたしたちって、なんなんだろう？\u3000誰にも存在を知られずに、ここにもう１年以上いる」[%p]"
 msgstr "6200:[name]少女[line]Hey, what do you think the two of us are, really? We've been here for over a year with nobody noticing us.[%p]"
 
 msgid "6300:[name]少女[line]「ここにいると、自分っていう存在は幻なんじゃないかって、思えてきちゃうの」[%p]"

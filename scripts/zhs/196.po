@@ -15,10 +15,10 @@ msgstr "0:梨深ルート有り"
 msgid "100:梨深ルート無し"
 msgstr "100:梨深ルート無し"
 
-msgid "200:[name]星来[line]「この……ぼけなすっ！　ずっと、待ってた……待ってたんだからね……っ」[%p]"
+msgid "200:[name]星来[line]「この……ぼけなすっ！\u3000ずっと、待ってた……待ってたんだからね……っ」[%p]"
 msgstr "200:[name]星来[line]You... dork! I was waiting... waiting for you for so long.[%p]"
 
-msgid "300:[name]星来[line]「あなたのことなんか……大嫌い……！　でも、大好きっ！」[%p]"
+msgid "300:[name]星来[line]「あなたのことなんか……大嫌い……！\u3000でも、大好きっ！」[%p]"
 msgstr "300:[name]星来[line]I... hate you! But I love you![%p]"
 
 msgid "400:[name]拓巳[line]「…………」[%p]"
@@ -123,13 +123,13 @@ msgstr "3600:[name]拓巳[line]Hahh... I'm such a loser.[%p]"
 msgid "3700:のろのろとイスから立ち上がり、代わりにソファに倒れ込んだ。[%p]"
 msgstr "3700:I slowly stood up from my chair, and then went over and collapsed on the sofa.[%p]"
 
-msgid "3800:[name]星来[line]「きゃあ！　あなた、なんでここにいんの！？」[%p]"
+msgid "3800:[name]星来[line]「きゃあ！\u3000あなた、なんでここにいんの！？」[%p]"
 msgstr "3800:[name]星来[line]Kyaah! What are you doing here?[%p]"
 
-msgid "3900:[name]星来[line]「こ、これはその、違うんだからねっ！　あたしは別にさ、立ち食いそばが好物なわけじゃないんさっ」[%p]"
+msgid "3900:[name]星来[line]「こ、これはその、違うんだからねっ！\u3000あたしは別にさ、立ち食いそばが好物なわけじゃないんさっ」[%p]"
 msgstr "3900:[name]星来[line]T-This isn't what it looks like! I-It's not like eating cheap soba at a roadside stall is one of my favorite things to do, okay?[%p]"
 
-msgid "4000:[name]星来[line]「って、なにニヤニヤしてんの、このぼけなす！　もぉ怒った！」[%p]"
+msgid "4000:[name]星来[line]「って、なにニヤニヤしてんの、このぼけなす！\u3000もぉ怒った！」[%p]"
 msgstr "4000:[name]星来[line]Hey, what are you smiling at, dork? Now I'm mad![%p]"
 
 msgid "4100:[name]星来[line]「うなれぇっ、サムライ☆コンデンサ！」[%p]"
@@ -201,55 +201,55 @@ msgstr "6200:I gulped and began to read, being careful not to miss a single word
 msgid "6300:『その目だれの目？』[%p]"
 msgstr "6300:Whose Eyes Are Those?[%p]"
 
-msgid "6400:４年３組　西條拓巳[%p]"
+msgid "6400:４年３組\u3000西條拓巳[%p]"
 msgstr "6400:By Takumi Nishijo, Class 4-3.[%p]"
 
-msgid "6500:　ぼくはよく夢を見ます。夢の中では大人になってるぼくがタイムマシンにのって今のぼくのところにワープして来ます。大人のぼくは、ぜんぜんにていませんでした。[%p]"
+msgid "6500:\u3000ぼくはよく夢を見ます。夢の中では大人になってるぼくがタイムマシンにのって今のぼくのところにワープして来ます。大人のぼくは、ぜんぜんにていませんでした。[%p]"
 msgstr "6500:I dream a lot. In my dream, I'm a grown-up and I get in a time machine and go see myself in the present. The grown-up me doesn't look like me at all.[%p]"
 
-msgid "6600:　あと、タイムマシンにはいっぱいボタンがついていて、おすとシャワーが出たりシャンプーも出た。大人のぼくに使いかたを聞いたら、きょうりゅう時代とか、原始時代とかにも行けると言いました。[%p]"
+msgid "6600:\u3000あと、タイムマシンにはいっぱいボタンがついていて、おすとシャワーが出たりシャンプーも出た。大人のぼくに使いかたを聞いたら、きょうりゅう時代とか、原始時代とかにも行けると言いました。[%p]"
 msgstr "6600:Also, there are a lot of buttons in the time machine. One turns on a shower. One gives you shampoo. I asked the grown-up me how it works and he said it can go to caveman times or dinosaur times.[%p]"
 
-msgid "6700:　苦手な授業はなにと聞いてきたから算数と言いました。そうしたら算数のべん強ができるようになるスイッチもあると言いました。[%p]"
+msgid "6700:\u3000苦手な授業はなにと聞いてきたから算数と言いました。そうしたら算数のべん強ができるようになるスイッチもあると言いました。[%p]"
 msgstr "6700:He asked me what was my worst class, and I said math. He said there's even a switch that will make you good at math.[%p]"
 
-msgid "6800:　ぼくがスイッチをおそうとしたら、おこりました。自分でど力をしてがんばらないとだめだそうです。[%p]"
+msgid "6800:\u3000ぼくがスイッチをおそうとしたら、おこりました。自分でど力をしてがんばらないとだめだそうです。[%p]"
 msgstr "6800:I tried to flip the switch, and he got mad. He said I need to study harder instead.[%p]"
 
-msgid "6900:　大人のぼくは１回おこっただけで、あとはやさしかったから良かった。あと、ぼくがけっこんする女子とかも教えてくれました。それはひみつです。[%p]"
+msgid "6900:\u3000大人のぼくは１回おこっただけで、あとはやさしかったから良かった。あと、ぼくがけっこんする女子とかも教えてくれました。それはひみつです。[%p]"
 msgstr "6900:The grown-up me only got mad the one time, and other than that he was nice. He told me which girl I'm going to marry and stuff, too. But that's a secret.[%p]"
 
-msgid "7000:　あと、神さまのことも聞きました。いると言っていました。[%p]"
+msgid "7000:\u3000あと、神さまのことも聞きました。いると言っていました。[%p]"
 msgstr "7000:I also asked about God. He said God's real.[%p]"
 
-msgid "7100:　ぼくもいると思います。神さまはどこでも見ているから、悪いことをすると地ごくに行かされるとお母さんも言っていました。[%p]"
+msgid "7100:\u3000ぼくもいると思います。神さまはどこでも見ているから、悪いことをすると地ごくに行かされるとお母さんも言っていました。[%p]"
 msgstr "7100:I think he's real, too. Mom said that God sees everything, so if I do bad stuff, he'll send me to hell.[%p]"
 
-msgid "7200:　だから悪いことはぜったいにいけないと思う。妹とも仲良くしないとだめです。[%p]"
+msgid "7200:\u3000だから悪いことはぜったいにいけないと思う。妹とも仲良くしないとだめです。[%p]"
 msgstr "7200:So, I think I shouldn't do any bad stuff at all. I need to be nice to my little sister, too.[%p]"
 
-msgid "7300:　お母さんは、悪いことをすると神さまじゃなくて、こわい人が見てくると言っていました。[%p]"
+msgid "7300:\u3000お母さんは、悪いことをすると神さまじゃなくて、こわい人が見てくると言っていました。[%p]"
 msgstr "7300:Mom said when you do bad things, it's not God that sees it and comes for you, but the scary man.[%p]"
 
-msgid "7400:　こわい人は、その目だれの目というオバケだった。見られると地ごくに行かされます。[%p]"
+msgid "7400:\u3000こわい人は、その目だれの目というオバケだった。見られると地ごくに行かされます。[%p]"
 msgstr "7400:The scary man is the “Whose eyes are those?” monster. If he looks at you, you go to hell.[%p]"
 
-msgid "7500:　神さまの目も、その目だれの目も、空にも、家の天じょうにも、かべにも、学校にもいっぱいあって、いつもぼくを見ています。[%p]"
+msgid "7500:\u3000神さまの目も、その目だれの目も、空にも、家の天じょうにも、かべにも、学校にもいっぱいあって、いつもぼくを見ています。[%p]"
 msgstr "7500:God's eyes and the “Whose eyes are those?” eyes are everywhere and there are lots of them. They're in the sky and on the ceiling and the walls and at school.[%p]"
 
-msgid "7600:　だからべん強も、良いことも、いっぱいやらないといけないと思います。でも、いつも見ているから、おふろとかトイレとかははずかしいです。[%p]"
+msgid "7600:\u3000だからべん強も、良いことも、いっぱいやらないといけないと思います。でも、いつも見ているから、おふろとかトイレとかははずかしいです。[%p]"
 msgstr "7600:So, I need to study a lot and do lots of good things, I think. But since they're always watching it's embarrassing to go to the toilet or take a bath.[%p]"
 
-msgid "7700:　あと、ぼくは小さい時から、ねてない時も目をつむっただけで、時々ゆめを見る。頭の中がゲームみたいになるし、マンガみたいになります。[%p]"
+msgid "7700:\u3000あと、ぼくは小さい時から、ねてない時も目をつむっただけで、時々ゆめを見る。頭の中がゲームみたいになるし、マンガみたいになります。[%p]"
 msgstr "7700:Also, ever since I was little, when I'm not sleeping, and I just close my eyes, I'll sometimes dream. My mind is like a game. Or a manga.[%p]"
 
-msgid "7800:　でもそれをやると、その目だれの目が出てくるのでやりたくない。お母さんに聞いたら、それはやっちゃだめと言いました。[%p]"
+msgid "7800:\u3000でもそれをやると、その目だれの目が出てくるのでやりたくない。お母さんに聞いたら、それはやっちゃだめと言いました。[%p]"
 msgstr "7800:But when I do that the “Whose eyes are those?” comes and so I don't want to do it. I asked Mom and she said never do it.[%p]"
 
-msgid "7900:　でも、今作文を書いている時も、ゆめの中で大人のぼくにタイムマシンのことを聞いたら、知っていると言っていました。でもぼくが子どもだから、おしえてくれませんでした。[%p]"
+msgid "7900:\u3000でも、今作文を書いている時も、ゆめの中で大人のぼくにタイムマシンのことを聞いたら、知っていると言っていました。でもぼくが子どもだから、おしえてくれませんでした。[%p]"
 msgstr "7900:But even when I'm writing this essay, I ask grown-up me in my dream about the time machine and he says he knows about it. But I'm a kid, so he wouldn't tell me.[%p]"
 
-msgid "8000:　だからこれからは、良いことをいっぱいして、その目だれの目をたおしたいです。（おわり）[%p]"
+msgid "8000:\u3000だからこれからは、良いことをいっぱいして、その目だれの目をたおしたいです。（おわり）[%p]"
 msgstr "8000:So, from now on I want to do lots of good things so I can beat the “Whose eyes are those?” monster. (The End)[%p]"
 
 msgid "8100:[name]拓巳[line]「…………」[%p]"
@@ -321,7 +321,7 @@ msgstr "10200:Shogun: Sorry for scaring you."
 msgid "10300:ナイトハルト：ぜんぜん無問題"
 msgstr "10300:KnightHeart: Nah, s'cool man."
 
-msgid "10400:ナイトハルト：なんでＲＯＭってたの？　半年ＲＯＭれって誰かに言われた？"
+msgid "10400:ナイトハルト：なんでＲＯＭってたの？\u3000半年ＲＯＭれって誰かに言われた？"
 msgstr "10400:KnightHeart: Why were you lurking? Did somebody tell you you had to lurk for 6 months before you could type?"
 
 msgid "10500:将軍：考え事したり"

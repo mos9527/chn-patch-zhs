@@ -1185,7 +1185,7 @@ msgstr "39000:I didn't want to admit this could be real. Was this a delusion?[%p
 msgid "39100:妄想ならいいのに。[linebreak]妄想であってくれ……。[%p]"
 msgstr "39100:I hoped it was a delusion. Please be a delusion.[%p]"
 
-msgid "39200:[name]梨深[line]「タク……！　タク！　タクーっ！」[%p]"
+msgid "39200:[name]梨深[line]「タク……！\u3000タク！\u3000タクーっ！」[%p]"
 msgstr "39200:[name]梨深[line]Taku! Taku! Taku![%p]"
 
 msgid "39300:梨深が、僕を呼んでる……。[linebreak]悲しそうな声で、呼んでる……。[%p]"

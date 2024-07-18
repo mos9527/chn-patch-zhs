@@ -30,7 +30,7 @@ msgstr "500:on top of the pedestrian bridge over Meiji Street, as the cars came 
 msgid "600:その雑音を気にする素振りすら見せず、橋の手すりにもたれかかって、人々からＦＥＳと呼ばれている少女は歌う。[%p]"
 msgstr "600:The girl they called FES leaned up against the bridge's safety rail, seemingly oblivious to the noise below.[%p]"
 
-msgid "700:[name]ＦＥＳ[line]「月夜の光が　示された従者よ――」[%p]"
+msgid "700:[name]ＦＥＳ[line]「月夜の光が\u3000示された従者よ――」[%p]"
 msgstr "700:[name]ＦＥＳ[line]Followers guided by the light of the moon…[%p]"
 
 msgid "800:ギャラリーは誰もいなかった。[linebreak]彼女がストリートで歌えばおそらく１００人以上が立ち止まり、その歌声を聴きたがるだろう。[%p]"
@@ -39,7 +39,7 @@ msgstr "800:She had no audience. If she'd done a real street performance, she pr
 msgid "900:だがＦＥＳは今、意識的に、密やかな夜のとばりの中へと自らの存在を溶け込ませていた。[%p]"
 msgstr "900:But for now, FES had chosen instead to hide herself behind the veil of night.[%p]"
 
-msgid "1000:[name]ＦＥＳ[line]「この場所へ繋がる　幻の道――」[%p]"
+msgid "1000:[name]ＦＥＳ[line]「この場所へ繋がる\u3000幻の道――」[%p]"
 msgstr "1000:[name]ＦＥＳ[line]A path of illusions that leads to this place...[%p]"
 
 msgid "1100:ただ静かにこの場にたたずむだけでいい。[%p]"
@@ -48,7 +48,7 @@ msgstr "1100:All she had to do was stand here in the silence.[%p]"
 msgid "1200:そうすることで、闇と一体化して、この渋谷という街の汚れきった空気から一瞬でも解放される気がする。[linebreak]ＦＥＳはそう感じていた。[%p]"
 msgstr "1200:Then she could be one with the darkness, and for a moment, at least, freed from the filthy air of Shibuya. That's how it seemed to her, anyway.[%p]"
 
-msgid "1300:[name]ＦＥＳ[line]「叫びはいつしか　沈黙に変わって――」[%p]"
+msgid "1300:[name]ＦＥＳ[line]「叫びはいつしか\u3000沈黙に変わって――」[%p]"
 msgstr "1300:[name]ＦＥＳ[line]The shouts soon turn to silence...[%p]"
 
 msgid "1400:ふとＦＥＳは、夜空を見上げる。[%p]"
@@ -60,7 +60,7 @@ msgstr "1500:The clouds that had covered it were slowly parting, and a faint ray
 msgid "1600:だが、渋谷の煌々とした街の灯に照らされ、星のためらいがちな瞬きはかき消されてしまっている。[%p]"
 msgstr "1600:But the bright, dazzling lights of Shibuya were hiding the hesitant twinkling of the stars.[%p]"
 
-msgid "1700:[name]ＦＥＳ[line]「落ちてゆく安息　風に手と手を繋いで……」[%p]"
+msgid "1700:[name]ＦＥＳ[line]「落ちてゆく安息\u3000風に手と手を繋いで……」[%p]"
 msgstr "1700:[name]ＦＥＳ[line]Feeling peace as you fall, two hands clasping in the wind...[%p]"
 
 msgid "1800:ＦＥＳは口を閉ざし、ゆっくりと手を空へと掲げる。[%p]"

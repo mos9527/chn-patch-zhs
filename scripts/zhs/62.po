@@ -102,7 +102,7 @@ msgstr "2900:[name]葉月[line]Now, please wait in the waiting room.[%p]"
 msgid "3000:[name]葉月[line]「お薬が出てますから」[%p]"
 msgstr "3000:[name]葉月[line]You'll be given some medicine.[%p]"
 
-msgid "3100:[name]拓巳[line]「え？　く、薬……？」[%p]"
+msgid "3100:[name]拓巳[line]「え？\u3000く、薬……？」[%p]"
 msgstr "3100:[name]拓巳[line]Huh? M-Medicine?[%p]"
 
 msgid "3200:薬が出るの？[linebreak]先生はそんなこと一言も言ってなかったけど……。[%p]"

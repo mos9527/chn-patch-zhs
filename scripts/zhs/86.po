@@ -15,7 +15,7 @@ msgstr "0:[name]拓巳[line]Uwah, the post-awakening costume is so hot. You can 
 msgid "100:[name]拓巳[line]「ふひひ。顔かわいいよ顔、原作再現度はいまいちだけど、ぷんぷんと漂うエロスがキジマヨシオらしさだよな。これはこれで[color index="A0FF0000"]ＧＪ[color index="800000"]」[%p]"
 msgstr "100:[name]拓巳[line]Fweheheh. Her face is so cute... it's not quite like in the anime, but it's every bit as sexy as you'd expect from Yoshio Kijima. [color index="A0FF0000"]GJ[color index="800000"], man.[%p]"
 
-msgid "200:[name]拓巳[line]「上着キャストオフとか！　この角度からじゃほとんど全裸にしか見えん！　ひょーほぅ！」[%p]"
+msgid "200:[name]拓巳[line]「上着キャストオフとか！\u3000この角度からじゃほとんど全裸にしか見えん！\u3000ひょーほぅ！」[%p]"
 msgstr "200:[name]拓巳[line]Oh, wow, her jacket can cast off, too. From this angle, she looks practically naked! Yahoo![%p]"
 
 msgid "300:[name]拓巳[line]「髪の動きがいいよなー。覚醒バージョンは髪が命って持論があるわけだが間違ってなかったな」[%p]"
@@ -24,10 +24,10 @@ msgstr "300:[name]拓巳[line]The way her hair seems like it's moving is great. 
 msgid "400:[name]拓巳[line]「さーて、それではお待ちかね、パンツ行ってみようかー。[linebreak]どれどれ……」[%p]"
 msgstr "400:[name]拓巳[line]Now, it's finally time for the panties. Let me see![%p]"
 
-msgid "500:[name]拓巳[line]「ふむふむ、Ｖゾーンの作り込みいいよー。シワの付き方リアルだし……って、お、おおー、こ、これ……ス、スージーさん……？　すげっ、ふひひ、マジでスゲーッ！　クオリティ[color index="A0FF0000"]高杉[color index="800000"]！」[%p]"
+msgid "500:[name]拓巳[line]「ふむふむ、Ｖゾーンの作り込みいいよー。シワの付き方リアルだし……って、お、おおー、こ、これ……ス、スージーさん……？\u3000すげっ、ふひひ、マジでスゲーッ！\u3000クオリティ[color index="A0FF0000"]高杉[color index="800000"]！」[%p]"
 msgstr "500:[name]拓巳[line]Hmm, they obviously put a lot of effort into designing the V-zone. The way it wrinkles is very realistic. Oh, is this... a crease?! Wow! Fweheheh. This is awesome! Truly, [color index="A0FF0000"]Takasugi[color index="800000"] quality![%p]"
 
-msgid "600:[name]拓巳[line]「これ星来たん５作目にして早くも最高傑作爆誕じゃね？　これ以上すごいのなんて出せないってマジで。やっぱキジマは神！」[%p]"
+msgid "600:[name]拓巳[line]「これ星来たん５作目にして早くも最高傑作爆誕じゃね？\u3000これ以上すごいのなんて出せないってマジで。やっぱキジマは神！」[%p]"
 msgstr "600:[name]拓巳[line]I think the fifth Seira figure might turn out to be the greatest of them all! I don't think they could make a better one, really. Kijima's a true master![%p]"
 
 msgid "700:新しい星来たんを慎重にＰＣモニタの横に立たせる。[linebreak]ふひひ、星来エロいよ星来。[%p]"

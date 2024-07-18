@@ -78,7 +78,7 @@ msgstr "2100:[name]拓巳[line]W-Why?[%p]"
 msgid "2200:[name]拓巳[line]「なんでだよぉっ！」[%p]"
 msgstr "2200:[name]拓巳[line]WHY?![%p]"
 
-msgid "2300:こいつも……梨深も結局は敵だったの？[linebreak]ずっと僕を騙してたの？　優愛のときみたいに、僕を欺いて、僕をハメようとしてたの？[%p]"
+msgid "2300:こいつも……梨深も結局は敵だったの？[linebreak]ずっと僕を騙してたの？\u3000優愛のときみたいに、僕を欺いて、僕をハメようとしてたの？[%p]"
 msgstr "2300:Was she my enemy, too? Had she been lying to me the whole time? Was she tricking me and trying to set me up, like Yua?[%p]"
 
 msgid "2400:梨深も『将軍』の手下？[linebreak]梨深がニュージェネの真犯人だっていう、最初の僕の推理は、正しかったの？[%p]"
@@ -126,7 +126,7 @@ msgstr "3700:[name]拓巳[line]Y-You... demon girl![%p]"
 msgid "3800:[name]梨深[line]「タク……ごめん……」[%p]"
 msgstr "3800:[name]梨深[line]Taku... I'm sorry.[%p]"
 
-msgid "3900:[name]拓巳[line]「ごめんで済むかよ！　な、何様だよ！」[%p]"
+msgid "3900:[name]拓巳[line]「ごめんで済むかよ！\u3000な、何様だよ！」[%p]"
 msgstr "3900:[name]拓巳[line]“Sorry” isn't good enough! W-Who the hell do you think you are?[%p]"
 
 msgid "4000:気が付けば僕は泣いていた。[linebreak]こんな裏切りは、ないよ……。[%p]"
@@ -135,7 +135,7 @@ msgstr "4000:I was crying. How could she just betray me like that?[%p]"
 msgid "4100:優愛のときとは比べものにならない怒りと悔しさ。[linebreak]梨深は、僕の気持ちを踏みにじったんだ！[%p]"
 msgstr "4100:I felt angry and frustrated, far more than I'd been when Yua had done the same thing. Rimi had toyed with my feelings![%p]"
 
-msgid "4200:許せない……！　許せない……！　許せない……！　許せない……！[linebreak]許せない……！　許せない……！　殺したい……！　許せない……！[linebreak]殺したい……！　許せない……！　許せない……！　殺したい……！[%p]"
+msgid "4200:許せない……！\u3000許せない……！\u3000許せない……！\u3000許せない……！[linebreak]許せない……！\u3000許せない……！\u3000殺したい……！\u3000許せない……！[linebreak]殺したい……！\u3000許せない……！\u3000許せない……！\u3000殺したい……！[%p]"
 msgstr "4200:I'll make you pay! I'll make you pay! I'll make you pay! I'll make you pay! I'll make you pay! I'll make you pay! I want to kill you! I'll make you pay! I want to kill you! I'll make you pay! I'll make you pay! I want to kill you![%p]"
 
 msgid "4300:手首をきつく握りしめてやると、梨深は苦痛に顔を歪めた。[linebreak]でも僕の方が苦痛なんだ。僕はお前に心をズタズタにされたんだ。[%p]"

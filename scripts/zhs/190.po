@@ -48,7 +48,7 @@ msgstr "1100:[name]野呂瀬[line]And sadly, the influence of the Committee of 3
 msgid "1200:[name]野呂瀬[line]「……ただ、いずれ近いうちに……そのシステムも崩壊する。世界の支配構造は組み替えられる」[%p]"
 msgstr "1200:[name]野呂瀬[line]But soon, that system's going to collapse. The ruling structure of the world will be rebuilt.[%p]"
 
-msgid "1300:[name]野呂瀬[line]「楽しみですか？　クク、私もですよ」[%p]"
+msgid "1300:[name]野呂瀬[line]「楽しみですか？\u3000クク、私もですよ」[%p]"
 msgstr "1300:[name]野呂瀬[line]Are you looking forward to that? Heh. So am I.[%p]"
 
 msgid "1400:[name]野呂瀬[line]「ここまで、ずいぶん時間がかかってしまいました」[%p]"

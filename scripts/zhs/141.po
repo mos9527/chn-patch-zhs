@@ -18,7 +18,7 @@ msgstr "100:It was on the second floor of an aging mixed-used building.[%p]"
 msgid "200:フロアの奥にある壁一面の窓から陽光が射し込み、舞い踊る埃をさながらパウダースノーのように見せている。[%p]"
 msgstr "200:Light poured in from the huge window in the back that covered the whole wall, making the dust in the air look like powder snow.[%p]"
 
-msgid "300:その窓に貼られた『信用調査　フリージア』という文字が、窓際のデスクに影となって落ちていた。[%p]"
+msgid "300:その窓に貼られた『信用調査\u3000フリージア』という文字が、窓際のデスクに影となって落ちていた。[%p]"
 msgstr "300:The letters on the window that read “Trustworthiness Investigation Company Freesia” cast shadows on the desks beneath it.[%p]"
 
 msgid "400:デスクは全部で２０個ほどが隙間なくびっしりと並べられていた。[linebreak]どれも資料と思しき紙やファイルが山積みされて崩れそうになっており、その光景は出版社を思わせる。[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:[name]百瀬[line]Miho, some tea for me and my guest![%p]"
 msgid "3100:あっさりと態度を１８０度変えた百瀬は、部下にそう頼んだ後、判から受け取った袋の中身を吟味する。[%p]"
 msgstr "3100:Momose's attitude changed completely. She called out to one of her employees and opened the bag to examine the goodies.[%p]"
 
-msgid "3200:[name]百瀬[line]「あら、栗ようかん！　今が旬なのよね〜。分かってるじゃない」[%p]"
+msgid "3200:[name]百瀬[line]「あら、栗ようかん！\u3000今が旬なのよね〜。分かってるじゃない」[%p]"
 msgstr "3200:[name]百瀬[line]Ooh! Chestnut yokan! It's just the season for this! You always know exactly what to get me.[%p]"
 
 msgid "3300:[name]百瀬[line]「バンちゃん、そんなところに突っ立ってないで座って」[%p]"
@@ -135,7 +135,7 @@ msgstr "4000:Then she popped open her mouth and tossed the first piece of chestn
 msgid "4100:彼女は和菓子に目がないのだ。[linebreak]判がここに情報を貰いに来るときは、必ずこの差し入れが必要だった。[%p]"
 msgstr "4100:Momose was a woman who loved Japanese confections. Whenever he wanted to know something, Ban had to bring her some kind of treat.[%p]"
 
-msgid "4200:[name]百瀬[line]「んん！　おいひいわほれ！」[%p]"
+msgid "4200:[name]百瀬[line]「んん！\u3000おいひいわほれ！」[%p]"
 msgstr "4200:[name]百瀬[line]Mm! This is so good![%p]"
 
 msgid "4300:[name]判[line]「人に言えた義理じゃないけどよ、[linebreak]ちったぁダイエットしたらどうだい？」[%p]"
@@ -321,7 +321,7 @@ msgstr "10200:[name]判[line]A change, huh?[%p]"
 msgid "10300:[name]百瀬[line]「そう、駅前のスクランブル交差点で火山が噴火する程のエネルギーが必要なの」[%p]"
 msgstr "10300:[name]百瀬[line]Yeah. You'd need enough energy for a volcano to blow up right in front of Shibuya Scramble Crossing.[%p]"
 
-msgid "10400:[name]判[line]「火山！？　そんなに大きな力なのか！？」[%p]"
+msgid "10400:[name]判[line]「火山！？\u3000そんなに大きな力なのか！？」[%p]"
 msgstr "10400:[name]判[line]A volcano?! It's that powerful?[%p]"
 
 msgid "10500:[name]百瀬[line]「それくらい、今のＧＥレートはあり得ない状況なのよ」[%p]"

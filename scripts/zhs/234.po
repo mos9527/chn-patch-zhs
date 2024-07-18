@@ -33,7 +33,7 @@ msgstr "600:[name]タクミ[line]This is your mental world, but it's also mine.[
 msgid "700:梨深がこっちを振り向く。[linebreak]怪訝な顔で、見つめてくる。[%p]"
 msgstr "700:Rimi turned to look at me. She seemed confused.[%p]"
 
-msgid "800:[name]梨深[line]「あなた、誰？　ここには、あたし以外はいないはずなのに」[%p]"
+msgid "800:[name]梨深[line]「あなた、誰？\u3000ここには、あたし以外はいないはずなのに」[%p]"
 msgstr "800:[name]梨深[line]Who are you? There shouldn't be anybody here but me...[%p]"
 
 msgid "900:[name]梨深[line]「あなたは、別のあたし？」[%p]"
@@ -42,10 +42,10 @@ msgstr "900:[name]梨深[line]Are you another me?[%p]"
 msgid "1000:[name]タクミ[line]「違うよ」[%p]"
 msgstr "1000:[name]タクミ[line]No.[%p]"
 
-msgid "1100:[name]梨深[line]「だったら、誰？　どうやってここに来たの？」[%p]"
+msgid "1100:[name]梨深[line]「だったら、誰？\u3000どうやってここに来たの？」[%p]"
 msgstr "1100:[name]梨深[line]Then who are you? How'd you get here?[%p]"
 
-msgid "1200:[name]梨深[line]「あたしの心の中だよ？　ずっと、暗闇しかなかった。光は、あたしに当たるスポットライトだけ」[%p]"
+msgid "1200:[name]梨深[line]「あたしの心の中だよ？\u3000ずっと、暗闇しかなかった。光は、あたしに当たるスポットライトだけ」[%p]"
 msgstr "1200:[name]梨深[line]This is my mind! There was only darkness here for such a long time. The only light was the spotlight that fell on me.[%p]"
 
 msgid "1300:[name]梨深[line]「それなのに、あなたが来た途端に、暗闇がなくなって、空ができた」[%p]"
@@ -87,7 +87,7 @@ msgstr "2400:[name]梨深[line]I'm sure all the personalities that came before m
 msgid "2500:[name]梨深[line]「でも、せっかくあなたが空を持ってきてくれたから」[%p]"
 msgstr "2500:[name]梨深[line]But since you brought me the sky...[%p]"
 
-msgid "2600:[name]梨深[line]「この光景を、記憶に刻んでおいて、いいかな？　次のあたしが、またこうして想像できるように」[%p]"
+msgid "2600:[name]梨深[line]「この光景を、記憶に刻んでおいて、いいかな？\u3000次のあたしが、またこうして想像できるように」[%p]"
 msgstr "2600:[name]梨深[line]Is it okay if I remember it? So that the next me can imagine it.[%p]"
 
 msgid "2700:[name]タクミ[line]「死にたいの？」[%p]"
@@ -156,7 +156,7 @@ msgstr "4700:And we both had the same Gigalomaniac power... though whether we sh
 msgid "4800:[name]七海[line]「おにぃ、お客さんだよ」[%p]"
 msgstr "4800:[name]七海[line]Brother, you've got a guest.[%p]"
 
-msgid "4900:[name]七海[line]「ねえねえ、誰？　カノジョさん？　いつの間に？」[%p]"
+msgid "4900:[name]七海[line]「ねえねえ、誰？\u3000カノジョさん？\u3000いつの間に？」[%p]"
 msgstr "4900:[name]七海[line]Hey, who is it? Your girlfriend? When did you get a girlfriend?[%p]"
 
 msgid "5000:[name]七海[line]「やるねえ、おにぃってば」[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:[name]七海[line]Oh, right![%p]"
 msgid "5900:僕たちの様子を窺っていた七海が、なにかを思い出したかのように手を叩いた。[%p]"
 msgstr "5900:Nanami had been watching us carefully. Suddenly she clapped her hands together like she'd remembered something.[%p]"
 
-msgid "6000:[name]七海[line]「ナナ、お洗濯してこなくちゃ。[linebreak]梨深さん、でしたっけ？　どうぞごゆっくり〜」[%p]"
+msgid "6000:[name]七海[line]「ナナ、お洗濯してこなくちゃ。[linebreak]梨深さん、でしたっけ？\u3000どうぞごゆっくり〜」[%p]"
 msgstr "6000:[name]七海[line]I have to go do the laundry. Rimi, was it? You two kids have fun![%p]"
 
 msgid "6100:七海が出ていく。[linebreak]それを僕と梨深は２人してぼんやりと見送った。[%p]"

@@ -162,7 +162,7 @@ msgstr "4900:I could be on TV, but I didn't like being in front of people, so I 
 msgid "5000:そしてカリスマ社長として大儲け。会社には美人秘書をたくさんはべらせてハーレム状態。当然ながら全員フラグが立ってて僕にメロメロだ。[%p]"
 msgstr "5000:Then I'd make a ton of money as a famous CEO. I'd have a bunch of pretty girls as secretaries in my own personal harem. Of course, they'd all be totally in love with me.[%p]"
 
-msgid "5100:家は六本木の高層マンションで、かわいいメイドさんを何人も雇う。まさに僕専用メイドカフェって感じ。もちろん、甘くて濃厚な“夜のご奉仕”も……なんつって！　なんつって！[%p]"
+msgid "5100:家は六本木の高層マンションで、かわいいメイドさんを何人も雇う。まさに僕専用メイドカフェって感じ。もちろん、甘くて濃厚な“夜のご奉仕”も……なんつって！\u3000なんつって！[%p]"
 msgstr "5100:I'd have a high-rise condo in Roppongi and lots of cute maids at my service. Like my own personal maid café! And of course, they'd be willing to “serve” me at night, too... Just kidding! Just kidding![%p]"
 
 msgid "5200:[name]拓巳[line]「ふひ……ふひひ……まさに勝ち組……」[%p]"
@@ -216,7 +216,7 @@ msgstr "6700:And he didn't seem happy to see me again, like in my dream.[%p]"
 msgid "6800:[name]拓巳[line]「え、あ、あの、西條、です」[%p]"
 msgstr "6800:[name]拓巳[line]Um, I'm, uh... Nishijo.[%p]"
 
-msgid "6900:[name]高科[line]「うん？　ああ、これはご丁寧に」[%p]"
+msgid "6900:[name]高科[line]「うん？\u3000ああ、これはご丁寧に」[%p]"
 msgstr "6900:[name]高科[line]Hmm? Oh, nice to meet you.[%p]"
 
 msgid "7000:[name]高科[line]「高科です。初めまして」[%p]"
@@ -267,7 +267,7 @@ msgstr "8400:[name]高科[line]The killings?[%p]"
 msgid "8500:[name]拓巳[line]「ニ、ニュージェネの……犯人だよっ……！」[%p]"
 msgstr "8500:[name]拓巳[line]She's the NewGen killer![%p]"
 
-msgid "8600:[name]拓巳[line]「ま、間違いないんだっ！　僕は、じ、事件現場で、死体を、は、張り付けにしてる最中の、あの女を、み、見たんだっ」[%p]"
+msgid "8600:[name]拓巳[line]「ま、間違いないんだっ！\u3000僕は、じ、事件現場で、死体を、は、張り付けにしてる最中の、あの女を、み、見たんだっ」[%p]"
 msgstr "8600:[name]拓巳[line]I-I'm sure of it. I-I saw her staking a corpse... to the wall.[%p]"
 
 msgid "8700:[name]高科[line]「大丈夫だ、なにも心配いらないから」[%p]"
@@ -315,7 +315,7 @@ msgstr "10000:[name]高科[line]Because the girl you're talking about...[%p]"
 msgid "10100:[name]高科[line]「この世には存在しないからだよ」[%p]"
 msgstr "10100:[name]高科[line]She doesn't exist.[%p]"
 
-msgid "10200:[name]拓巳[line]「……は？　で、でも……」[%p]"
+msgid "10200:[name]拓巳[line]「……は？\u3000で、でも……」[%p]"
 msgstr "10200:[name]拓巳[line]Huh? But... But...[%p]"
 
 msgid "10300:[name]高科[line]「君は自分の妄想に怯えているだけなんだ」[%p]"
@@ -360,7 +360,7 @@ msgstr "11500:[name]高科[line]this hospital.[%p]"
 msgid "11600:[name]拓巳[line]「…………」[%p]"
 msgstr "11600:[name]拓巳[line]...[%p]"
 
-msgid "11700:どういう……こと……？[linebreak]え？　え？　先生は、いったいなにを……[%p]"
+msgid "11700:どういう……こと……？[linebreak]え？\u3000え？\u3000先生は、いったいなにを……[%p]"
 msgstr "11700:What did he mean? Huh? Huh? What was he saying?[%p]"
 
 msgid "11800:[name]高科[line]「君はこの病院の精神科に、７年間入院している。そのことは分かるだろう？」[%p]"
@@ -432,7 +432,7 @@ msgstr "13900:[name]高科[line]Do you really think so?[%p]"
 msgid "14000:先生が、カルテになにかを書き込みながらつぶやく。[%p]"
 msgstr "14000:He wrote something on my chart as he whispered.[%p]"
 
-msgid "14100:なにを書いているのか僕には読めない。[linebreak]日本語じゃなかった。英語？　いや、ドイツ語？[%p]"
+msgid "14100:なにを書いているのか僕には読めない。[linebreak]日本語じゃなかった。英語？\u3000いや、ドイツ語？[%p]"
 msgstr "14100:I couldn't read what he was writing. It wasn't Japanese. English? No, German?[%p]"
 
 msgid "14200:[name]高科[line]「だとしたら、君の精神はまだ異常だっていうことだよ」[%p]"
@@ -540,7 +540,7 @@ msgstr "17500:He didn't start by telling me that all my memories were delusions.
 msgid "17600:[name]拓巳[line]「え、あ、あの、西條、です」[%p]"
 msgstr "17600:[name]拓巳[line]Um, I'm, uh... Nishijo.[%p]"
 
-msgid "17700:[name]高科[line]「うん？　ああ、これはご丁寧に」[%p]"
+msgid "17700:[name]高科[line]「うん？\u3000ああ、これはご丁寧に」[%p]"
 msgstr "17700:[name]高科[line]Hmm? Oh, nice to meet you.[%p]"
 
 msgid "17800:[name]高科[line]「高科です。初めまして」[%p]"
@@ -588,7 +588,7 @@ msgstr "19100:I couldn't handle it, so I decided to remind him.[%p]"
 msgid "19200:[name]拓巳[line]「え、あ、あの、西條、です」[%p]"
 msgstr "19200:[name]拓巳[line]Um, I'm, uh... Nishijo.[%p]"
 
-msgid "19300:[name]高科[line]「うん？　ああ、これはご丁寧に」[%p]"
+msgid "19300:[name]高科[line]「うん？\u3000ああ、これはご丁寧に」[%p]"
 msgstr "19300:[name]高科[line]Hmm? Oh, nice to meet you.[%p]"
 
 msgid "19400:[name]高科[line]「高科です。初めまして」[%p]"
@@ -678,7 +678,7 @@ msgstr "22100:[name]拓巳[line]I don't... know.[%p]"
 msgid "22200:[name]高科[line]「なるほど」[%p]"
 msgstr "22200:[name]高科[line]I see.[%p]"
 
-msgid "22300:[name]高科[line]「ちなみに、その知り合いとはどういう関係だろう？　恋人？」[%p]"
+msgid "22300:[name]高科[line]「ちなみに、その知り合いとはどういう関係だろう？\u3000恋人？」[%p]"
 msgstr "22300:[name]高科[line]Can you tell me more about your relationship with this person? A girlfriend, perhaps?[%p]"
 
 msgid "22400:[name]拓巳[line]「はあ……？」[%p]"
@@ -729,7 +729,7 @@ msgstr "23800:I nodded, weakly, before forcing myself to speak.[%p]"
 msgid "23900:[name]拓巳[line]「ぼ、僕……ね、寝て、ない……んです……」[%p]"
 msgstr "23900:[name]拓巳[line]I-I wasn't... sleeping.[%p]"
 
-msgid "24000:[name]高科[line]「もしかして怖いのかな？　でもそんなに深刻になる必要はないよ」[%p]"
+msgid "24000:[name]高科[line]「もしかして怖いのかな？\u3000でもそんなに深刻になる必要はないよ」[%p]"
 msgstr "24000:[name]高科[line]Are you scared? You don't need to be so worried.[%p]"
 
 msgid "24100:[name]拓巳[line]「あ、いや……その……」[%p]"
@@ -777,7 +777,7 @@ msgstr "25400:[name]高科[line]The brain isn't as active as it normally is, so 
 msgid "25500:[name]高科[line]「原因としては、精神的なストレスを抱えてるときになりやすいんだ」[%p]"
 msgstr "25500:[name]高科[line]It happens often during periods of extreme psychological stress.[%p]"
 
-msgid "25600:[name]高科[line]「子供に多い症状だけど、成人でもよくある症状なんだよ。これで分かっただろう？　深刻になることはないって言った意味が」[%p]"
+msgid "25600:[name]高科[line]「子供に多い症状だけど、成人でもよくある症状なんだよ。これで分かっただろう？\u3000深刻になることはないって言った意味が」[%p]"
 msgstr "25600:[name]高科[line]Sleepwalking is most common in children, but happens to adults as well. You understand now, right? It's not something you need to be so worried about.[%p]"
 
 msgid "25700:[name]拓巳[line]「はあ……」[%p]"
@@ -810,7 +810,7 @@ msgstr "26500:[name]高科[line]or if some kind of obsessive-compulsiveness comp
 msgid "26600:[name]高科[line]「それに君の精神状態についても、特定の条件下じゃないとダメかもしれない。自宅のベッドの上ならリラックスできるけど、ここじゃリラックスのしようがないわけだ」[%p]"
 msgstr "26600:[name]高科[line]It's also possible that your mind needs to be in a certain mental state. For example, you could feel relaxed at home, but not here.[%p]"
 
-msgid "26700:[name]高科[line]「どうする？　とりあえず寝ていってみるかい？」[%p]"
+msgid "26700:[name]高科[line]「どうする？\u3000とりあえず寝ていってみるかい？」[%p]"
 msgstr "26700:[name]高科[line]Well? Want to try taking a nap here?[%p]"
 
 msgid "26800:調べてもらうことには損はないはず。[linebreak]夢遊病じゃないって証明できた後で、本来するつもりだった質問をしてみよう。[%p]"
@@ -894,7 +894,7 @@ msgstr "29300:Fweheheh. Seira, you're so cute. Seira...[%p]"
 msgid "29400:やっぱり星来たんは僕の理想の嫁。[linebreak]星来たん以上の女はいない。[%p]"
 msgstr "29400:Seira was my ideal wife, after all. No girl could ever be better than her.[%p]"
 
-msgid "29500:三次元？　なにそれ？[%p]"
+msgid "29500:三次元？\u3000なにそれ？[%p]"
 msgstr "29500:3D? Who cares about 3D?[%p]"
 
 msgid "29600:ああ、早く帰りたい。[linebreak]帰って星来たんに“おかえり”って笑顔で出迎えられたい。[%p]"

@@ -105,7 +105,7 @@ msgstr "3000:The hallway was empty and dark, and in the middle of it was an empt
 msgid "3100:ほぼ同時に、何者かが階段を駆け上がっていく音もした。[%p]"
 msgstr "3100:And at almost the same time, they heard the sound of someone running up the stairs.[%p]"
 
-msgid "3200:[name]判[line]「とにかく優愛ちゃんは帰れ！　いいな！」[%p]"
+msgid "3200:[name]判[line]「とにかく優愛ちゃんは帰れ！\u3000いいな！」[%p]"
 msgstr "3200:[name]判[line]Just leave! Go![%p]"
 
 msgid "3300:そう釘を刺しながら、すでに判は走り出していた。優愛の返事を聞かず、靴音を追って階段を駆け上がる。[%p]"

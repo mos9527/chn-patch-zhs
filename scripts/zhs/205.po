@@ -72,7 +72,7 @@ msgstr "1900:[name]判[line]Oh, so it's not just me.[%p]"
 msgid "2000:[name]判[line]「優愛ちゃんの場合は心配だな。[linebreak]ストーカーに付け狙われてたりしたら……」[%p]"
 msgstr "2000:[name]判[line]In your case, that's pretty worrying. If you've got a stalker...[%p]"
 
-msgid "2100:[name]優愛[line]「そ、そんな……！　怖いこと言わないでください……」[%p]"
+msgid "2100:[name]優愛[line]「そ、そんな……！\u3000怖いこと言わないでください……」[%p]"
 msgstr "2100:[name]優愛[line]H-Hey... Don't scare me like that![%p]"
 
 msgid "2200:[name]判[line]「安心しな。そんなヤツがいたら俺が逮捕してやるから」[%p]"
@@ -180,10 +180,10 @@ msgstr "5500:Why did he keep emphasizing it? It probably wasn't deliberate, but 
 msgid "5600:[name]判[line]「これ、メイドインチャイナってラベルに書いてあるだけなんだけど、メーカーとか分かる？」[%p]"
 msgstr "5600:[name]判[line]These say “Made in China” on the label. Do you know who the manufacturer is?[%p]"
 
-msgid "5700:[name]ショップ店員[line]「は？　メーカー？」[%p]"
+msgid "5700:[name]ショップ店員[line]「は？\u3000メーカー？」[%p]"
 msgstr "5700:[name]ショップ店員[line]Huh? Manufacturer?[%p]"
 
-msgid "5800:[name]ショップ店員[line]「っつーか、ゲロカエルんにブランドとかねーし。ゲロカエルんはゲロカエルんじゃね？　それで完結してね？」[%p]"
+msgid "5800:[name]ショップ店員[line]「っつーか、ゲロカエルんにブランドとかねーし。ゲロカエルんはゲロカエルんじゃね？\u3000それで完結してね？」[%p]"
 msgstr "5800:[name]ショップ店員[line]Look, Gero Froggies don't have a brand. Gero Froggies are Gero Froggies. That's good enough, right?[%p]"
 
 msgid "5900:[name]ショップ店員[line]「おっさん、マジウケんだけど」[%p]"
@@ -228,7 +228,7 @@ msgstr "7100:Yua pointed towards a parked truck. Several cardboard boxes were be
 msgid "7200:そしてそれは、先ほどのゲロカエルんショップの裏へと続々と運び込まれていた。[%p]"
 msgstr "7200:They were being carried into the back of the Gero Froggy shop.[%p]"
 
-msgid "7300:[name]判[line]「おっ！　明日発売になる、ゲジカエルんの新作か」[%p]"
+msgid "7300:[name]判[line]「おっ！\u3000明日発売になる、ゲジカエルんの新作か」[%p]"
 msgstr "7300:[name]判[line]Ooh! That's tomorrow's new Genji Frog, huh?[%p]"
 
 msgid "7400:[name]優愛[line]「あ、あの、ゲロカエルんです――」[%p]"

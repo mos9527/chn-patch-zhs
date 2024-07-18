@@ -84,7 +84,7 @@ msgstr "2300:But the audience knew better than to shout over her. There was sile
 msgid "2400:[name]ＦＥＳ[line]「[color index="A0FF0000"]コキュートス[color index="800000"]への門が閉じているからかもしれない」[%p]"
 msgstr "2400:[name]ＦＥＳ[line]Maybe it's because the gate to [color index="A0FF0000"]Cocytus[color index="800000"] is closed.[%p]"
 
-msgid "2500:な、なんだって……？[linebreak]コキュートス？　何語だ？[%p]"
+msgid "2500:な、なんだって……？[linebreak]コキュートス？\u3000何語だ？[%p]"
 msgstr "2500:W-What did she say? Cocytus? What language was that?[%p]"
 
 msgid "2600:[name]ＦＥＳ[line]「世界の均衡は、“大いなる意志”が生まれてから数千年間保たれていた」[%p]"

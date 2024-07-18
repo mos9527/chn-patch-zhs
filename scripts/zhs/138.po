@@ -39,7 +39,7 @@ msgstr "800:[name]男Ａ[line]Now, cover your left eye with your hand.[%p]"
 msgid "900:[name]男Ａ[line]「そのまま右目だけで、図の左側にあるドットを見つめて下さい」[%p]"
 msgstr "900:[name]男Ａ[line]Stare at the dot, using only your right eye.[%p]"
 
-msgid "1000:[name]男Ａ[line]「いかがですか？　ドットを見つめる目の端の方に、リングも存在しますか？」[%p]"
+msgid "1000:[name]男Ａ[line]「いかがですか？\u3000ドットを見つめる目の端の方に、リングも存在しますか？」[%p]"
 msgstr "1000:[name]男Ａ[line]Well? Can you see the ring in the corner of your eye as you look at the dot?[%p]"
 
 msgid "1100:[name]男Ｃ[line]「いくらドットだけを見つめていても、隣にあるリングがついでに見えているのは当然だと思うがな」[%p]"

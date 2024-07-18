@@ -309,7 +309,7 @@ msgstr "9800:So, what happened a moment ago had been a delusion.[%p]"
 msgid "9900:僕は身体の緊張を解いた。[linebreak]でもそれでホッと一安心、なんて心理状態にはなれなかった。[%p]"
 msgstr "9900:I untensed. But I still wasn't ready to relax and let my guard down.[%p]"
 
-msgid "10000:昨日の地震で怪我人が殺到してベッドが満杯だった、とか？　たまたま精神科にある空きベッドを使っただけなのかもしれない。[%p]"
+msgid "10000:昨日の地震で怪我人が殺到してベッドが満杯だった、とか？\u3000たまたま精神科にある空きベッドを使っただけなのかもしれない。[%p]"
 msgstr "10000:Maybe the beds were all full because so many people were hurt in the earthquake yesterday? Maybe the beds in the mental ward had been the only ones open?[%p]"
 
 msgid "10100:それとももしかして、僕が倒れたのは精神的要因って判断されたのかな？[%p]"
@@ -378,7 +378,7 @@ msgstr "12100:[name]拓巳[line]Nana... Waaah...[%p]"
 msgid "12200:ボロボロと、涙がこぼれた。[%p]"
 msgstr "12200:The tears came pouring down face.[%p]"
 
-msgid "12300:[name]葉月[line]「ど、どうしました？　どこか痛みます？」[%p]"
+msgid "12300:[name]葉月[line]「ど、どうしました？\u3000どこか痛みます？」[%p]"
 msgstr "12300:[name]葉月[line]W-What's wrong? Does it hurt somewhere?[%p]"
 
 msgid "12400:僕は何度もかぶりを振りながら、泣き続けた。[%p]"
@@ -549,10 +549,10 @@ msgstr "17800:[name]拓巳[line]I-Is t-that true?![%p]"
 msgid "17900:思わずベッドから立ち上がり、葉月さんに詰め寄ってしまう。[%p]"
 msgstr "17900:I was so excited that I got out of bed and went over to her.[%p]"
 
-msgid "18000:[name]葉月[line]「は、はい？　なにがです？」[%p]"
+msgid "18000:[name]葉月[line]「は、はい？\u3000なにがです？」[%p]"
 msgstr "18000:[name]葉月[line]I-I'm sorry? Is what true?[%p]"
 
-msgid "18100:[name]拓巳[line]「な、な、七海が！？　い、妹が、七海が、ここに、き、来てたんですか！？」[%p]"
+msgid "18100:[name]拓巳[line]「な、な、七海が！？\u3000い、妹が、七海が、ここに、き、来てたんですか！？」[%p]"
 msgstr "18100:[name]拓巳[line]N-Nanami? My little sister... c-came here?[%p]"
 
 msgid "18200:[name]葉月[line]「いえ、その……はっきりお名前を聞いたわけでは……」[%p]"
@@ -573,10 +573,10 @@ msgstr "18600:[name]葉月[line]I-I told you, she went home last night.[%p]"
 msgid "18700:[name]葉月[line]「西條さんの、お母様と、一緒に……」[%p]"
 msgstr "18700:[name]葉月[line]Her and your mom.[%p]"
 
-msgid "18800:[name]拓巳[line]「ケガ！　ケガとか、し、してませんでしたか！？」[%p]"
+msgid "18800:[name]拓巳[line]「ケガ！\u3000ケガとか、し、してませんでしたか！？」[%p]"
 msgstr "18800:[name]拓巳[line]Was she hurt? W-Was Nanami hurt?[%p]"
 
-msgid "18900:[name]葉月[line]「はい？　いえ、特には……」[%p]"
+msgid "18900:[name]葉月[line]「はい？\u3000いえ、特には……」[%p]"
 msgstr "18900:[name]葉月[line]I'm sorry? No, not in any way that I could see.[%p]"
 
 msgid "19000:[name]拓巳[line]「元気だったん、で、ですね！？[linebreak]七海は、げ、元気だったんですね！？」[%p]"

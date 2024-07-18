@@ -30,7 +30,7 @@ msgstr "500:Only to find the lobby sofas packed with old people.[%p]"
 msgid "600:なんでだよ！[%p]"
 msgstr "600:How?[%p]"
 
-msgid "700:開院時間直後なのになんでもうこんなに人がいるんだよ！[linebreak]フライングするなんてズルいぞ！　ちゃんと時間通りに来いよ！[%p]"
+msgid "700:開院時間直後なのになんでもうこんなに人がいるんだよ！[linebreak]フライングするなんてズルいぞ！\u3000ちゃんと時間通りに来いよ！[%p]"
 msgstr "700:How could there be this many people here when it had just opened? Had they all cheated and got here before it opened somehow? That's not fair![%p]"
 
 msgid "800:心の中で悪態をつきつつも、やむなく待つことにした。[%p]"

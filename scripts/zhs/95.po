@@ -138,7 +138,7 @@ msgstr "4100:[name]梨深[line]Hello, Daisuke Misumi. Daisuki Misumi... Daisuke 
 msgid "4200:梨深は、３回、確かめるようにその名を口にした。[%p]"
 msgstr "4200:Rimi said the name three times, as if feeling it out.[%p]"
 
-msgid "4300:[name]三住[line]「なんで３回言った？　しかもフルネーム」[%p]"
+msgid "4300:[name]三住[line]「なんで３回言った？\u3000しかもフルネーム」[%p]"
 msgstr "4300:[name]三住[line]Why'd you say my name three times? And my full name, too.[%p]"
 
 msgid "4400:[name]梨深[line]「たはは。そういう気分だったからだよ。ええと……大ちん」[%p]"

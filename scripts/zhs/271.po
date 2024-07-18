@@ -33,7 +33,7 @@ msgstr "600:[name]あやせ[line]The wicked hearts.[%p]"
 msgid "700:[name]あやせ[line]「誰でも持っているものなの、人ならば。そしてこの邪心が、グラジオールの糧となり、形を作り出していく」[%p]"
 msgstr "700:[name]あやせ[line]Every human has them. These wicked hearts are what feed Gladiale and give him shape.[%p]"
 
-msgid "800:[name]あやせ[line]「見えた？　人々の負の妄想が」[%p]"
+msgid "800:[name]あやせ[line]「見えた？\u3000人々の負の妄想が」[%p]"
 msgstr "800:[name]あやせ[line]Could you see them? People's negative delusions?[%p]"
 
 msgid "900:負の妄想って、まさか、ノイズとともに変化する、人々の非道で残虐な振る舞いのこと？[%p]"
@@ -81,7 +81,7 @@ msgstr "2200:[name]拓巳[line]I-I can't![%p]"
 msgid "2300:たまらず、あやせの肩をつかんで押しのけた。[linebreak]あやせはショックを受けたかのように、目を見開く。[%p]"
 msgstr "2300:I grabbed Ayase's shoulder and pushed her away. Ayase's eyes went wide, like she was shocked by what I'd done.[%p]"
 
-msgid "2400:[name]あやせ[line]「なぜ……？　あきらめるの……？」[%p]"
+msgid "2400:[name]あやせ[line]「なぜ……？\u3000あきらめるの……？」[%p]"
 msgstr "2400:[name]あやせ[line]Why? Are you giving up?[%p]"
 
 msgid "2500:[name]拓巳[line]「僕は、あやせが思うほど、すごい人間じゃ、ない……」[%p]"

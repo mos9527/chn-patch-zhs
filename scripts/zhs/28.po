@@ -81,7 +81,7 @@ msgstr "2200:Grimm: It's all happening right near your house, lol"
 msgid "2300:ナイトハルト：ざっと見てきた"
 msgstr "2300:KnightHeart: I took a quick look."
 
-msgid "2400:グリム：どうだ？　ガクブルしてきた？"
+msgid "2400:グリム：どうだ？\u3000ガクブルしてきた？"
 msgstr "2400:Grimm: Well? Starting to shake and shiver?"
 
 msgid "2500:ナイトハルト：べっつにー。興味なし"
@@ -171,7 +171,7 @@ msgstr "5200:Shogun: Sorry for scaring you."
 msgid "5300:ナイトハルト：ぜんぜん無問題"
 msgstr "5300:KnightHeart: Nah, s'cool man."
 
-msgid "5400:ナイトハルト：なんでＲＯＭってたの？　半年ＲＯＭれって誰かに言われた？"
+msgid "5400:ナイトハルト：なんでＲＯＭってたの？\u3000半年ＲＯＭれって誰かに言われた？"
 msgstr "5400:KnightHeart: Why were you lurking? Did somebody tell you to lurk for six months before you could type?"
 
 msgid "5500:将軍：考え事したり"
@@ -300,7 +300,7 @@ msgstr "9500:KnightHeart stopped reacting. He guessed that the boy was looking a
 msgid "9600:それはナイトハルトにとっては辛いことなのかもしれなかったが、“彼”にはその画像を見てもらわなければならない理由があった。[%p]"
 msgstr "9600:It might not have been a pleasant experience for KnightHeart, but there was a reason he had to make sure they were seen.[%p]"
 
-msgid "9700:[name]？？？[line]「怖いかい……？　でもだからこそ、君は目覚めることができるんだ」[%p]"
+msgid "9700:[name]？？？[line]「怖いかい……？\u3000でもだからこそ、君は目覚めることができるんだ」[%p]"
 msgstr "9700:[name]？？？[line]Are you scared? Because that's what will cause you to awaken.[%p]"
 
 msgid "9800:独り言を続けながら、“彼”は最後の言葉を打ち込んだ。[%p]"

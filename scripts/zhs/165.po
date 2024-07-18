@@ -87,7 +87,7 @@ msgstr "2400:She handed him the box.[%p]"
 msgid "2500:[name]タクミ[line]「ありがとう」[%p]"
 msgstr "2500:[name]タクミ[line]Thank you.[%p]"
 
-msgid "2600:[name]梨深[line]「治せるかな？　治せるよね？」[%p]"
+msgid "2600:[name]梨深[line]「治せるかな？\u3000治せるよね？」[%p]"
 msgstr "2600:[name]梨深[line]Can they reattach it? They can, right?[%p]"
 
 msgid "2700:[name]タクミ[line]「分からない……。でもこの病院なら、冷凍保存しておける設備がある」[%p]"

@@ -114,7 +114,7 @@ msgstr "3300:[name]拓巳[line]Huh?[%p]"
 msgid "3400:なんだ、これ……？[%p]"
 msgstr "3400:What was this?[%p]"
 
-msgid "3500:[name]拓巳[line]「はあ……はあ……え？　え？　……な、え？　なんだ、これ……」[%p]"
+msgid "3500:[name]拓巳[line]「はあ……はあ……え？\u3000え？\u3000……な、え？\u3000なんだ、これ……」[%p]"
 msgstr "3500:[name]拓巳[line]Hahh... Hahh... Huh? Huh? Huh? What's going on here?[%p]"
 
 msgid "3600:そこに写っていたのは――[%p]"
@@ -147,7 +147,7 @@ msgstr "4400:If this photo showed what happened on the 29th, it would be a photo
 msgid "4500:[name]優愛[line][margin top="266"][center]「あなたには、予知能力がありますか？」[%e]"
 msgstr "4500:[name]優愛[line][margin top="266"][center]Can you see the future?[%e]"
 
-msgid "4600:[name]拓巳[line]「うるさい！　そんなはずはないんだ！」[%p]"
+msgid "4600:[name]拓巳[line]「うるさい！\u3000そんなはずはないんだ！」[%p]"
 msgstr "4600:[name]拓巳[line]Shut up! That's impossible![%p]"
 
 msgid "4700:足許にあった空のペットボトルを蹴り飛ばしながら、ペイントソフトを閉じる。[%p]"

@@ -36,7 +36,7 @@ msgstr "700:She needed to get home and do more research. She needed to find proo
 msgid "800:それを判刑事に突きつけて、自分が正しいって証明するんだ――[%p]"
 msgstr "800:Then she'd show it to Ban and prove she was right.[%p]"
 
-msgid "900:[name]諏訪[line]「あっれ〜？　楠さんのところのお嬢さんじゃないッスか！」[%p]"
+msgid "900:[name]諏訪[line]「あっれ〜？\u3000楠さんのところのお嬢さんじゃないッスか！」[%p]"
 msgstr "900:[name]諏訪[line]Oh? If it isn't young Miss Kusunoki![%p]"
 
 msgid "1000:不意に声をかけられて、優愛はビクッと身を震わせ、立ち止まった。[%p]"
@@ -84,7 +84,7 @@ msgstr "2300:But she did remember a detective who was nice enough to listen to e
 msgid "2400:[name]諏訪[line]「さっきまで、判刑事と一緒だったんじゃないッスか？」[%p]"
 msgstr "2400:[name]諏訪[line]You were just with Ban a moment ago, weren't you?[%p]"
 
-msgid "2500:[name]優愛[line]「え？　判さんと、お知り合いなんですか？」[%p]"
+msgid "2500:[name]優愛[line]「え？\u3000判さんと、お知り合いなんですか？」[%p]"
 msgstr "2500:[name]優愛[line]Huh? You know Ban?[%p]"
 
 msgid "2600:[name]諏訪[line]「そりゃ、同じ警視庁捜査一課ッスから。自分の先輩ッスよ、いつも怒られてまス」[%p]"
@@ -117,13 +117,13 @@ msgstr "3400:[name]優愛[line]Huh? R-Really?[%p]"
 msgid "3500:優愛には、そんな話は初耳だった。[linebreak]ついつい、諏訪に詰め寄ってしまう。[%p]"
 msgstr "3500:Yua hadn't heard anything about this. She found herself edging closer to him.[%p]"
 
-msgid "3600:[name]諏訪[line]「ええ。どんなものだと思うッスか？　まあ、最近別の事件でマスコミが散々取り上げてるんで、有名だと思うんスけど。なんと、ダーススパイダーのヘルメットッス！」[%p]"
+msgid "3600:[name]諏訪[line]「ええ。どんなものだと思うッスか？\u3000まあ、最近別の事件でマスコミが散々取り上げてるんで、有名だと思うんスけど。なんと、ダーススパイダーのヘルメットッス！」[%p]"
 msgstr "3600:[name]諏訪[line]Yes. Want to guess what it is? The media's been talking about it all the time lately because of another case, so I bet you could if you tried. Get this: It's a Darth Spider helmet![%p]"
 
 msgid "3700:[name]優愛[line]「それを……『集団ダイブ』の犯人も、かぶっていたんですか？」[%p]"
 msgstr "3700:[name]優愛[line]And the killer behind the Group Dive murder... was wearing it?[%p]"
 
-msgid "3800:[name]諏訪[line]「そう。ネットに事件の様子を撮影したビデオが流出したッスよね？　あれを解析した結果、分かったんスよ〜」[%p]"
+msgid "3800:[name]諏訪[line]「そう。ネットに事件の様子を撮影したビデオが流出したッスよね？\u3000あれを解析した結果、分かったんスよ〜」[%p]"
 msgstr "3800:[name]諏訪[line]Yup. There was that video that went online, right? We ran a bunch of analyses on it and found that out.[%p]"
 
 msgid "3900:[name]諏訪[line]「それにしても、ダーススパイダーと言えば、例の渋谷エスパー騒動の少年が有名ッスよね。西條拓巳くん、でしたっけ？」[%p]"

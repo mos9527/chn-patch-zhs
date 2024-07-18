@@ -33,7 +33,7 @@ msgstr "600:If I wanted to, I could visualize them down to the slightest detail.
 msgid "700:なんとなくイメージが固まってきたところで、奥歯を噛みしめ、剣を握る両手に力をこめる。[%p]"
 msgstr "700:When the image seemed firm in my mind, I grit my teeth and clutched the sword tight with both hands.[%p]"
 
-msgid "800:現実になれ……！　現実になれ……！　現実になれ……！　現実になれ……！　現実になれ……！　現実になれ……！　現実になれ……！　現実になれ……！[%p]"
+msgid "800:現実になれ……！\u3000現実になれ……！\u3000現実になれ……！\u3000現実になれ……！\u3000現実になれ……！\u3000現実になれ……！\u3000現実になれ……！\u3000現実になれ……！[%p]"
 msgstr "800:Become real! Become real! Become real! Become real![linebreak]Become real! Become real! Become real! Become real![%p]"
 
 msgid "900:念じる。[linebreak]ただそれだけを考える。[%p]"
@@ -501,7 +501,7 @@ msgstr "16200:[name]梨深[line]Today's your first time?[%p]"
 msgid "16300:今度はコクコクとうなずく。[%p]"
 msgstr "16300:I nodded fiercely.[%p]"
 
-msgid "16400:[name]梨深[line]「チャンバラごっこの相手役、あたしがしようか？　よく分からないけど」[%p]"
+msgid "16400:[name]梨深[line]「チャンバラごっこの相手役、あたしがしようか？\u3000よく分からないけど」[%p]"
 msgstr "16400:[name]梨深[line]You want me to be your pretend opponent? I mean, I guess I can.[%p]"
 
 msgid "16500:僕は激しく首を横に振った。[%p]"
@@ -558,7 +558,7 @@ msgstr "18100:I was relieved.[%p]"
 msgid "18200:嫌われたわけじゃなかったんだ。よかった……。[%p]"
 msgstr "18200:She hadn't started hating me. Good.[%p]"
 
-msgid "18300:[name]梨深[line]「そもそもそれ、どこで買ってきたの？　高かったんじゃない？」[%p]"
+msgid "18300:[name]梨深[line]「そもそもそれ、どこで買ってきたの？\u3000高かったんじゃない？」[%p]"
 msgstr "18300:[name]梨深[line]Where'd you even get that thing? It must've been expensive, right?[%p]"
 
 msgid "18400:[name]拓巳[line]「い、一万円……。渋谷の……雑貨屋で……」[%p]"
@@ -642,7 +642,7 @@ msgstr "20900:[name]拓巳[line]A-And... they're not toys.[%p]"
 msgid "21000:[name]梨深[line]「あ、ゴメン」[%p]"
 msgstr "21000:[name]梨深[line]Oh, sorry.[%p]"
 
-msgid "21100:[name]拓巳[line]「ほ、本物は、光るんだ……！　それに、すごい、そ、存在感で……」[%p]"
+msgid "21100:[name]拓巳[line]「ほ、本物は、光るんだ……！\u3000それに、すごい、そ、存在感で……」[%p]"
 msgstr "21100:[name]拓巳[line]The real ones light up. They look... really... powerful.[%p]"
 
 msgid "21200:[name]拓巳[line]「僕……そ、それを、探してる……」[%p]"
@@ -693,7 +693,7 @@ msgstr "22600:But Rimi had appeared out of nowhere to help me before, when I nee
 msgid "22700:だから、もしかしたら――[%p]"
 msgstr "22700:So maybe...[%p]"
 
-msgid "22800:[name]梨深[line]「とにかく。もし本物があったとしても、それこそ買ったりしちゃダメだよ？　今タクが持ってるのはオモチャだからいいけど、本物ってことは銃刀法違反になっちゃうんだから！」[%p]"
+msgid "22800:[name]梨深[line]「とにかく。もし本物があったとしても、それこそ買ったりしちゃダメだよ？\u3000今タクが持ってるのはオモチャだからいいけど、本物ってことは銃刀法違反になっちゃうんだから！」[%p]"
 msgstr "22800:[name]梨深[line]Anyway... even if there is a real one, you'd better not buy it, okay? What you've got now is a toy, so it's okay, but real swords are illegal![%p]"
 
 msgid "22900:[name]拓巳[line]「…………」[%p]"
@@ -726,7 +726,7 @@ msgstr "23700:Her voice was coming right next to me. She was sitting right besid
 msgid "23800:密閉した、薄暗い部屋で、ふたりきり。しかも、こんな隣り合って座っているなんて……。[%p]"
 msgstr "23800:We were alone in a dark room, just the two of us. And she was sitting right next to me![%p]"
 
-msgid "23900:緊急事態だ……！　緊急事態発生！[%p]"
+msgid "23900:緊急事態だ……！\u3000緊急事態発生！[%p]"
 msgstr "23900:Emergency! We have an emergency here![%p]"
 
 msgid "24000:[name]梨深[line]「タクに女子の知り合いがあたし以外にいたなんて……ちょっとビックリ」[%p]"

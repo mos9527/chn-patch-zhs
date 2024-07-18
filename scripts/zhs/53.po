@@ -42,7 +42,7 @@ msgstr "900:[name]拓巳[line]...[%p]"
 msgid "1000:やばい、声をかけられた！[%p]"
 msgstr "1000:Crap! She talked to me![%p]"
 
-msgid "1100:まさかカツアゲされる？　それとも僕の顔が気に入らないって言って、ＤＱＮグループのたまり場に連れて行かれてリンチか！？[%p]"
+msgid "1100:まさかカツアゲされる？\u3000それとも僕の顔が気に入らないって言って、ＤＱＮグループのたまり場に連れて行かれてリンチか！？[%p]"
 msgstr "1100:Was she going to mug me? Or was she going to say she didn't like my face, and then take me to her group of DQN friends so they could beat me up?[%p]"
 
 msgid "1200:そ、そ、そんなの勘弁してよ……。[linebreak]僕がなにをしたって言うんだよ……。[%p]"

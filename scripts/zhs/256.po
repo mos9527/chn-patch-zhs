@@ -66,10 +66,10 @@ msgstr "1700:She looked really stupid. It was funny. And there was something on 
 msgid "1800:こーどがたくさんでてる。[linebreak]おもちゃみたい。[linebreak]“なんとかせんたいへんしんせっと”みたいな。[%p]"
 msgstr "1800:It had lots of cords. Like a toy. Like one of those morphing ranger helmets.[%p]"
 
-msgid "1900:[name]野呂瀬[line]「×しいことでもあったのですか？　にしじょうたくみ」[%p]"
+msgid "1900:[name]野呂瀬[line]「×しいことでもあったのですか？\u3000にしじょうたくみ」[%p]"
 msgstr "1900:[name]野呂瀬[line]What are you so xxxx about, Takumi Nishijo?[%p]"
 
-msgid "2000:みたことないおじさんだ。[linebreak]だれ？　だれ？　だれ？[%p]"
+msgid "2000:みたことないおじさんだ。[linebreak]だれ？\u3000だれ？\u3000だれ？[%p]"
 msgstr "2000:It was a man she'd never seen. Who? Who? Who?[%p]"
 
 msgid "2100:[name]野呂瀬[line]「なるほど、×××に×××と××をしんくろさせているのですか。ずいぶんと××きですね」[%p]"

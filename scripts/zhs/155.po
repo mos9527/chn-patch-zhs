@@ -126,7 +126,7 @@ msgstr "3700:Hazuki wasn't sure what to do. She turned to leave, but Suwa got in
 msgid "3800:[name]葉月[line]「こ、困ります……」[%p]"
 msgstr "3800:[name]葉月[line]P-Please leave me alone.[%p]"
 
-msgid "3900:[name]諏訪[line]「迷惑はかけないッス！　だから頼んまスよ！」[%p]"
+msgid "3900:[name]諏訪[line]「迷惑はかけないッス！\u3000だから頼んまスよ！」[%p]"
 msgstr "3900:[name]諏訪[line]I'll make sure it doesn't get back to you! So please![%p]"
 
 msgid "4000:ついには、諏訪はその場に膝をついて、土下座し始めた。[%p]"

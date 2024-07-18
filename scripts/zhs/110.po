@@ -93,7 +93,7 @@ msgstr "2600:[name]拓巳[line]Oh...[%p]"
 msgid "2700:あの顔……見たことあるぞ……。[linebreak]もしかして先週僕のクラスに転校してきた子じゃないか？[%p]"
 msgstr "2700:I'd seen her face somewhere before. Was she the one who'd transferred into my class last week?[%p]"
 
-msgid "2800:名前は……なんだっけ？　覚えてない……。[%p]"
+msgid "2800:名前は……なんだっけ？\u3000覚えてない……。[%p]"
 msgstr "2800:What was her name again? I couldn't remember.[%p]"
 
 msgid "2900:しかもあの子、泣いてるし……。[%p]"
@@ -240,7 +240,7 @@ msgstr "7500:I was hoping that the bell would ring, but when I looked over at th
 msgid "7600:[name]三住[line]「そういやタク。ここに来る途中で梢ちゃん見なかったか？」[%p]"
 msgstr "7600:[name]三住[line]Hey, Taku. Did you see Kozue on your way here?[%p]"
 
-msgid "7700:梢ちゃん？　って誰？[%p]"
+msgid "7700:梢ちゃん？\u3000って誰？[%p]"
 msgstr "7700:Kozue? Who's that?[%p]"
 
 msgid "7800:[name]三住[line]「ああ、そっか。どうせお前のことだから覚えてねえとは思ったけど、マジでそうだったんだな」[%p]"
@@ -291,13 +291,13 @@ msgstr "9200:I wasn't sure how to answer that.[%p]"
 msgid "9300:僕は曖昧にうなずいた。[linebreak]どうやらそれを彼は肯定だと受け取ったらしい。[%p]"
 msgstr "9300:I gave him a vague nod. He seemed to take it as a yes.[%p]"
 
-msgid "9400:[name]三住[line]「だろー？　俺、一目で気にいっちまったよ。なんか守ってやりたくなるんだよなー」[%p]"
+msgid "9400:[name]三住[line]「だろー？\u3000俺、一目で気にいっちまったよ。なんか守ってやりたくなるんだよなー」[%p]"
 msgstr "9400:[name]三住[line]Right? I liked her at first sight. She's the kind of girl who makes you feel like you have to protect her, right?[%p]"
 
 msgid "9500:[name]三住[line]「男子みんなも同じ意見でよ、どいつもかわいいって言ってんだ。けどよ、女子の間じゃあんま評判よくねーんだよな」[%p]"
 msgstr "9500:[name]三住[line]All the guys in class agree. They all think she's cute, but the girls don't really like her.[%p]"
 
-msgid "9600:[name]三住[line]「まだ転校してきたばっかだぜ？　それなのに早くも“ウザい”みてーな意見まで出てきてんだよ」[%p]"
+msgid "9600:[name]三住[line]「まだ転校してきたばっかだぜ？\u3000それなのに早くも“ウザい”みてーな意見まで出てきてんだよ」[%p]"
 msgstr "9600:[name]三住[line]She just transferred here, right? But some of them are even saying she's “annoying.”[%p]"
 
 msgid "9700:[name]三住[line]「このクラスの女子って性格悪いヤツ多すぎだ」[%p]"
@@ -309,7 +309,7 @@ msgstr "9800:[name]梨深[line]That's your fault, isn't it, Dai-chin?[%p]"
 msgid "9900:[name]梨深[line]「だいたいその“ウザい”って言ったの、[linebreak]どうせ大ちんのカノジョでしょ？」[%p]"
 msgstr "9900:[name]梨深[line]Let me guess. The one who said she was “annoying” was your girlfriend, right?[%p]"
 
-msgid "10000:[name]三住[line]「ん？　ああ、そうだけど」[%p]"
+msgid "10000:[name]三住[line]「ん？\u3000ああ、そうだけど」[%p]"
 msgstr "10000:[name]三住[line]Hmm? Oh, yeah. Why?[%p]"
 
 msgid "10100:[name]梨深[line]「そりゃカノジョにしてみればウザいに決まってるよー。自分のカレシが目の前で折原さんを口説きに行っちゃってたらさ」[%p]"

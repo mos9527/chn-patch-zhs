@@ -138,7 +138,7 @@ msgstr "4100:[name]七海[line]Brother, open up…[%p]"
 msgid "4200:[name]拓巳[line]「な……なみ……？」[%p]"
 msgstr "4200:[name]拓巳[line]N-Nanami?[%p]"
 
-msgid "4300:え？　なんで？[linebreak]とっさに、ベッドの上を見る。[%p]"
+msgid "4300:え？\u3000なんで？[linebreak]とっさに、ベッドの上を見る。[%p]"
 msgstr "4300:Huh? Why? I looked over at the bed.[%p]"
 
 msgid "4400:そこに七海が寝ているはずだ。白いシーツが、ふくらんでるじゃないか。[%p]"

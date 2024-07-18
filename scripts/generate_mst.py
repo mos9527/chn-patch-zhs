@@ -5,6 +5,13 @@ if len(sys.argv) != 3:
     sys.exit(1)
 id_index = 'msgid '
 language_index = 'msgstr '
+
+import escaped_bytes
+def unescape_string(s):
+    for repl, char in escaped_bytes.escaped_bytes.items():
+        s = s.replace(char, repl)
+    return s
+
 for root, dirs, files in os.walk(sys.argv[2]):
     for file in files:
         if file.lower().endswith('.po'):
@@ -17,5 +24,5 @@ for root, dirs, files in os.walk(sys.argv[2]):
                     strs = (line[len(language_index)+1:-2] for line in lines if str(line).startswith(language_index))
                     for iid, sstr in zip(ids, strs):
                         if iid:
-                            if sstr: fout.write('%s\n' % sstr)
-                            else: fout.write('%s\n' % iid)
+                            if sstr: fout.write('%s\n' % unescape_string(sstr))
+                            else: fout.write('%s\n' % unescape_string(iid))

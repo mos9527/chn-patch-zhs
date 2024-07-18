@@ -30,7 +30,7 @@ msgstr "500:[name]判[line]Off working on his own today.[%p]"
 msgid "600:[name]百瀬[line]「若い子をこき使って、バンちゃんは楽してるわけね」[%p]"
 msgstr "600:[name]百瀬[line]So, you're slacking off while the kid does all the work, huh?[%p]"
 
-msgid "700:[name]判[line]「……いやいや、俺もちゃんとやってるよ？　昨日だって徹夜でいろいろ調べてたんだぜ」[%p]"
+msgid "700:[name]判[line]「……いやいや、俺もちゃんとやってるよ？\u3000昨日だって徹夜でいろいろ調べてたんだぜ」[%p]"
 msgstr "700:[name]判[line]No, I'm working too, you know. I was up all night doing research, I'll have you know.[%p]"
 
 msgid "800:[name]判[line]「おかげで最近の女子高生の生態については、かなり詳しくなった」[%p]"
@@ -360,7 +360,7 @@ msgstr "11500:He quickly took it out and looked at the LCD screen. It was showin
 msgid "11600:[name]判[line]「もしもし。どうしたぁ？」[%p]"
 msgstr "11600:[name]判[line]Hello? What is it?[%p]"
 
-msgid "11700:[name]諏訪[line]「先輩！　７番目ッス！」[%p]"
+msgid "11700:[name]諏訪[line]「先輩！\u3000７番目ッス！」[%p]"
 msgstr "11700:[name]諏訪[line]It's happened! The seventh murder![%p]"
 
 msgid "11800:[name]判[line]「なんだと？」[%p]"
@@ -429,7 +429,7 @@ msgstr "13800:[name]諏訪[line]Um, are you serious?[%p]"
 msgid "13900:[name]諏訪[line]「映画オタクの自分でも、さすがにその意見には同意しかねるッス」[%p]"
 msgstr "13900:[name]諏訪[line]I'm a big movie buff, but even I can't get behind you on that one.[%p]"
 
-msgid "14000:[name]判[line]「単なる例えだ！　バカが！」[%p]"
+msgid "14000:[name]判[line]「単なる例えだ！\u3000バカが！」[%p]"
 msgstr "14000:[name]判[line]It's called an example, you idiot![%p]"
 
 msgid "14100:[name]判[line]「いいからさっさと捜査に戻れ」[%p]"

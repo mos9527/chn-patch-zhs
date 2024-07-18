@@ -195,7 +195,7 @@ msgstr "6000:[name]波多野[line]I was wrong. That's all there is to it.[%p]"
 msgid "6100:[name]セナ[line]「お前には……失望した……」[%p]"
 msgstr "6100:[name]セナ[line]I'm... disappointed in you.[%p]"
 
-msgid "6200:[name]波多野[line]「まだ、期待していたのか？　なにを？」[%p]"
+msgid "6200:[name]波多野[line]「まだ、期待していたのか？\u3000なにを？」[%p]"
 msgstr "6200:[name]波多野[line]You were still expecting something from me? What?[%p]"
 
 msgid "6300:[name]セナ[line]「…………」[%p]"
@@ -321,7 +321,7 @@ msgstr "10200:—A bullet?[%p]"
 msgid "10300:突き飛ばされ、仰向けに倒れたセナは、とっさに顔を上げ、銃を撃った何者かの姿を探した。[%p]"
 msgstr "10300:Sena had fallen flat on her back. She looked up quickly and tried to find the man who'd fired the gun.[%p]"
 
-msgid "10400:[name]男[line]「おっとぉ！　ミスったッス！」[%p]"
+msgid "10400:[name]男[line]「おっとぉ！\u3000ミスったッス！」[%p]"
 msgstr "10400:[name]男[line]Oops! I missed![%p]"
 
 msgid "10500:その男は、渋谷駅へと続くトンネルと、神泉駅のトンネルの境、そこだけぽっかりと空が見える踏切に立っていた。[linebreak]手には、拳銃。[%p]"
@@ -333,7 +333,7 @@ msgstr "10600:[name]男[line]Pretty good shot from this distance, though, don't 
 msgid "10700:セナの横に、父が倒れ込む。[linebreak]すでにその半身は血で染まり。[%p]"
 msgstr "10700:Sena's father fell down next to her. His chest was already covered in blood.[%p]"
 
-msgid "10800:――まさか、かばった？　私を？[%p]"
+msgid "10800:――まさか、かばった？\u3000私を？[%p]"
 msgstr "10800:Had he protected me? Me, of all people?[%p]"
 
 msgid "10900:信じられない思いで、セナはタイルの上に広がっていく血だまりを見つめた。[%p]"
@@ -471,13 +471,13 @@ msgstr "15200:The girl in the reflection wasn't crying at all.[%p]"
 msgid "15300:[name]梢[line]「お前は誰？」[%p]"
 msgstr "15300:[name]梢[line]“Who are you?”[%p]"
 
-msgid "15400:[name]梢[line]「お前は誰？　お前は誰？　お前は誰？　お前は誰？　お前は誰？[linebreak]お前は誰？　お前は誰？　お前は誰？　お前は誰？　お前は誰？[linebreak]お前は誰？　お前は誰？」[%p]"
+msgid "15400:[name]梢[line]「お前は誰？\u3000お前は誰？\u3000お前は誰？\u3000お前は誰？\u3000お前は誰？[linebreak]お前は誰？\u3000お前は誰？\u3000お前は誰？\u3000お前は誰？\u3000お前は誰？[linebreak]お前は誰？\u3000お前は誰？」[%p]"
 msgstr "15400:[name]梢[line]“Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?” “Who are you?”[%p]"
 
 msgid "15500:[name]梢[line]「私は誰？」[%p]"
 msgstr "15500:[name]梢[line]“Who am I?”[%p]"
 
-msgid "15600:[name]梢[line]「私は誰？　私は誰？　私は誰？　私は誰？　私は誰？　私は誰？[linebreak]私は誰？　私は誰？　私は誰？　私は誰？　私は誰？　私は誰？[linebreak]私は誰？　私は誰？　私は誰？」[%p]"
+msgid "15600:[name]梢[line]「私は誰？\u3000私は誰？\u3000私は誰？\u3000私は誰？\u3000私は誰？\u3000私は誰？[linebreak]私は誰？\u3000私は誰？\u3000私は誰？\u3000私は誰？\u3000私は誰？\u3000私は誰？[linebreak]私は誰？\u3000私は誰？\u3000私は誰？」[%p]"
 msgstr "15600:[name]梢[line]“Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?” “Who am I?”[%p]"
 
 msgid "15700:[color index="A0FF0000"]ゲシュタルト崩壊[color index="800000"]に陥る。[%p]"

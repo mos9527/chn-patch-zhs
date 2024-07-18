@@ -318,7 +318,7 @@ msgstr "10100:[name]拓巳[line]B-But it's gone. It disappeared.[%p]"
 msgid "10200:[name]セナ[line]「消した。私の妄想だからな」[%p]"
 msgstr "10200:[name]セナ[line]I got rid of it. It was my delusion, after all.[%p]"
 
-msgid "10300:妄想？　なにを言ってるんだ？[%p]"
+msgid "10300:妄想？\u3000なにを言ってるんだ？[%p]"
 msgstr "10300:Delusion? What was she talking about?[%p]"
 
 msgid "10400:[name]拓巳[line]「じゃ、じゃあ、剣は？」[%p]"
@@ -327,7 +327,7 @@ msgstr "10400:[name]拓巳[line]T-Then what about the sword?[%p]"
 msgid "10500:[name]セナ[line]「お前も持っているだろ？」[%p]"
 msgstr "10500:[name]セナ[line]You have one too, right?[%p]"
 
-msgid "10600:はあ？　僕が持ってるって？　持ってるわけないだろ！[linebreak]ダメだ、会話が噛み合わない……。[%p]"
+msgid "10600:はあ？\u3000僕が持ってるって？\u3000持ってるわけないだろ！[linebreak]ダメだ、会話が噛み合わない……。[%p]"
 msgstr "10600:Huh? She thought I had one? Of course I didn't! This conversation wasn't making any sense.[%p]"
 
 msgid "10700:[name]セナ[line]「それより――」[%p]"

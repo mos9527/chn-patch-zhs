@@ -63,7 +63,7 @@ msgstr "1600:It was amazing that Nanami could feel at home here. The sheer numbe
 msgid "1700:っていうか、なにが楽しくて妹と２人でマクディに来なくちゃいけないんだよ。[%p]"
 msgstr "1700:Why did I have to be here with my sister at a MacD's, anyway?[%p]"
 
-msgid "1800:[name]七海[line]「ねーねー、着信メロディはどうする？　なんか希望ある？」[%p]"
+msgid "1800:[name]七海[line]「ねーねー、着信メロディはどうする？\u3000なんか希望ある？」[%p]"
 msgstr "1800:[name]七海[line]Hey, what do you want for your ringtone? Any suggestions?[%p]"
 
 msgid "1900:七海は僕のケータイをいじりながら、こっちを見ずに聞いてくる。[%p]"
@@ -81,7 +81,7 @@ msgstr "2200:[name]七海[line]You're such an otaku, Brother.[%p]"
 msgid "2300:き、希望を聞いてきたのはそっちだろ！[linebreak]そもそも僕のケータイなんだから、僕の好きにさせろよ！[%p]"
 msgstr "2300:Y-You were the one who asked me! It's my phone anyway! Let me put what I want on it![%p]"
 
-msgid "2400:[name]七海[line]「あ、そだ。大村カレラの新曲にしたら？　あれ、すごくいい曲だよ。最近のナナのお気に入り」[%p]"
+msgid "2400:[name]七海[line]「あ、そだ。大村カレラの新曲にしたら？\u3000あれ、すごくいい曲だよ。最近のナナのお気に入り」[%p]"
 msgstr "2400:[name]七海[line]Oh, I know. Why not the new song from Karera Omura? It's a great song. It's my favorite lately.[%p]"
 
 msgid "2500:[name]拓巳[line]「そ、それこそ、却下だ……」[%p]"
@@ -120,7 +120,7 @@ msgstr "3500:[name]七海[line]It's the new Bug-Eyed Gero Froggy. It just came o
 msgid "3600:[name]拓巳[line]「はあ……？」[%p]"
 msgstr "3600:[name]拓巳[line]Huh?[%p]"
 
-msgid "3700:[name]七海[line]「知らないんだ〜？　やっぱ遅れてるなぁ、おにぃは」[%p]"
+msgid "3700:[name]七海[line]「知らないんだ〜？\u3000やっぱ遅れてるなぁ、おにぃは」[%p]"
 msgstr "3700:[name]七海[line]You don't know about it? Wow, you are behind the times.[%p]"
 
 msgid "3800:[name]七海[line]「ゲロカエルんって、毎週金曜日に新作が発売されてるんだよ」[%p]"
@@ -156,7 +156,7 @@ msgstr "4700:Wow... had she memorized them all? Wait a second, did that mean...[
 msgid "4800:[name]拓巳[line]「お、おま、コンプリートしてる……の？」[%p]"
 msgstr "4800:[name]拓巳[line]Do you have the complete set?[%p]"
 
-msgid "4900:[name]七海[line]「もっちろんだよ！　全部集めなきゃ意味ないもん」[%p]"
+msgid "4900:[name]七海[line]「もっちろんだよ！\u3000全部集めなきゃ意味ないもん」[%p]"
 msgstr "4900:[name]七海[line]Of course! You have to get the full set or it doesn't count.[%p]"
 
 msgid "5000:[name]七海[line]「毎週、買うのに行列ができるんだからね！」[%p]"
@@ -171,7 +171,7 @@ msgstr "5200:Why had she started giving me a lecture about Gero Froggy, anyway?[
 msgid "5300:[name]七海[line]「というわけで、このギョロリゲロカエルん、あげる」[%p]"
 msgstr "5300:[name]七海[line]So, here's your Bug-Eyed Gero Froggy.[%p]"
 
-msgid "5400:[name]拓巳[line]「え……？　な、なんで……？」[%p]"
+msgid "5400:[name]拓巳[line]「え……？\u3000な、なんで……？」[%p]"
 msgstr "5400:[name]拓巳[line]Huh? W-Why?[%p]"
 
 msgid "5500:[name]七海[line]「このストラップをケータイに付ければ、少しは女子から“お、やるな”っていう目で見てもらえるから」[%p]"

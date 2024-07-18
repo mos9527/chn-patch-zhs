@@ -75,7 +75,7 @@ msgstr "2000:I shivered as I imagined what would happen then, and I stopped movi
 msgid "2100:死にたくない……。[linebreak]こんなところで、誰にも知られないままぺしゃんこになって死ぬのはイヤだ……。[%p]"
 msgstr "2100:I don't want to die. I don't want to die here, crushed, without anyone knowing where I am.[%p]"
 
-msgid "2200:早く救助に来てくれ！　レスキュー隊でも自衛隊でもなんでもいいから、とにかく僕をここから助け出してくれ！[%p]"
+msgid "2200:早く救助に来てくれ！\u3000レスキュー隊でも自衛隊でもなんでもいいから、とにかく僕をここから助け出してくれ！[%p]"
 msgstr "2200:Someone, please come save me! The self-defense force, the rescue squad, I don't care who! Just come save me![%p]"
 
 msgid "2300:人の声が聞こえてこないかと思って、耳を澄ましてみる。[linebreak]けど、無音。不気味なほどに、なにも聞こえない。[linebreak]聞こえるのは、セナの呼吸する音だけ。[%p]"
@@ -219,7 +219,7 @@ msgstr "6800:And then, after a moment, her face began to turn red. Her eyes went
 msgid "6900:[name]セナ[line]「……っ。こ、これは、どうなってる！？」[%p]"
 msgstr "6900:[name]セナ[line]...! W-What's going on?[%p]"
 
-msgid "7000:[name]拓巳[line]「う、動いちゃ、ダメだ……！　瓦礫に、押し潰されちゃうから……！」[%p]"
+msgid "7000:[name]拓巳[line]「う、動いちゃ、ダメだ……！\u3000瓦礫に、押し潰されちゃうから……！」[%p]"
 msgstr "7000:[name]拓巳[line]D-Don't move! The rubble will crush you![%p]"
 
 msgid "7100:[name]セナ[line]「……瓦礫、だと？」[%p]"
@@ -282,7 +282,7 @@ msgstr "8900:[name]セナ[line]We're going to create a shared awareness between 
 msgid "9000:目を見ろ、って……。[linebreak]密着してるだけでも恥ずかしいのに、見つめ合ったりしたら、それこそ理性が崩壊するじゃないか！[%p]"
 msgstr "9000:Look in her eyes? It was already embarrassing enough, being so close. If I looked into her eyes, I might lose control entirely![%p]"
 
-msgid "9100:[name]セナ[line]「ぐずぐずするな。聞こえなかったのか？　私の目を見ろ」[%p]"
+msgid "9100:[name]セナ[line]「ぐずぐずするな。聞こえなかったのか？\u3000私の目を見ろ」[%p]"
 msgstr "9100:[name]セナ[line]Stop wasting time. Did you not hear me? Look into my eyes.[%p]"
 
 msgid "9200:急かしてくるセナの声に、渋々従う。[linebreak]セナの瞳に、視線をやる。[linebreak]向こうもまっすぐにこっちを見つめ返してくる。[%p]"
@@ -336,7 +336,7 @@ msgstr "10700:[name]セナ[line]We're so close, it's embarrassing.[%p]"
 msgid "10800:あのセナが、まるでゆでだこみたいに顔を真っ赤にしている様は、すごく新鮮だ。[%p]"
 msgstr "10800:Seeing Sena's face this red was a new experience.[%p]"
 
-msgid "10900:なんだ、その萌え仕草は。[linebreak]さてはこいつ、三次元女子じゃないな？　こんなかわいい子が三次元のはずがない！　セナかわいいよセナ。[%p]"
+msgid "10900:なんだ、その萌え仕草は。[linebreak]さてはこいつ、三次元女子じゃないな？\u3000こんなかわいい子が三次元のはずがない！\u3000セナかわいいよセナ。[%p]"
 msgstr "10900:It was really moe. Wait, maybe she wasn't 3D at all! No 3D girl could be this cute! Sena, you're so cute! Sena![%p]"
 
 msgid "11000:[name]セナ[line]「はぁ、はぁ、くっ、暑いな……」[%p]"
@@ -390,7 +390,7 @@ msgstr "12500:A drop of her sweat fell into my mouth. It was salty.[%p]"
 msgid "12600:[name]拓巳[line]「か、勘弁して……」[%p]"
 msgstr "12600:[name]拓巳[line]P-Please no.[%p]"
 
-msgid "12700:泣きそうになった。理性が、ぶっ飛びそう。[linebreak]だって今、僕は、僕は、セナの本気汁を！　口に含んじゃったんだぞ！[%p]"
+msgid "12700:泣きそうになった。理性が、ぶっ飛びそう。[linebreak]だって今、僕は、僕は、セナの本気汁を！\u3000口に含んじゃったんだぞ！[%p]"
 msgstr "12700:I thought I was going to cry. My mind was about to shatter into a million pieces. I'd just tasted her sweat! It had fallen into my mouth![%p]"
 
 msgid "12800:[name]セナ[line]「おい、西條……」[%p]"

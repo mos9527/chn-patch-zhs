@@ -126,10 +126,10 @@ msgstr "3700:I kept talking to try and shake it out of my mind.[%p]"
 msgid "3800:[name]拓巳[line]「僕は現在アウェイ……じゃなかった、渋谷でひとり暮らしをしてる。[%p]"
 msgstr "3800:[name]拓巳[line]Right now, I live alone, away from home... I mean, in Shibuya.[%p]"
 
-msgid "3900:[name]拓巳[line]　このＫＵＲＥＮＡＩ会館ビルは、父さんの経営するビル会社の管理下にあるんだけど、[%p]"
+msgid "3900:[name]拓巳[line]\u3000このＫＵＲＥＮＡＩ会館ビルは、父さんの経営するビル会社の管理下にあるんだけど、[%p]"
 msgstr "3900:[name]拓巳[line]I live on top of the Kurenai Building, which my dad's real estate company owns.[%p]"
 
-msgid "4000:[name]拓巳[line]　その屋上に設置されたコンテナハウスを格安で借りてるんだ」[%p]"
+msgid "4000:[name]拓巳[line]\u3000その屋上に設置されたコンテナハウスを格安で借りてるんだ」[%p]"
 msgstr "4000:[name]拓巳[line]They rent me a really cheap little house here made out of a shipping container.[%p]"
 
 msgid "4100:[name]拓巳[line]「街の環境は最悪。僕が住んでる神泉町は、小さな坂が多いから疲れるし。すぐ近くにラブホ街もあるし」[%p]"
@@ -171,10 +171,10 @@ msgstr "5200:[name]拓巳[line]So yeah, this town, with its [color index="A0FF00
 msgid "5300:[name]拓巳[line]「でもこの部屋の住み心地はまあまあ我慢できるレベル。[%p]"
 msgstr "5300:[name]拓巳[line]This room, though, isn't so bad.[%p]"
 
-msgid "5400:[name]拓巳[line]　ＰＣとネット環境は最高水準クラスがそろってるからね。[%p]"
+msgid "5400:[name]拓巳[line]\u3000ＰＣとネット環境は最高水準クラスがそろってるからね。[%p]"
 msgstr "5400:[name]拓巳[line]My computer and my internet connection are both first-rate.[%p]"
 
-msgid "5500:[name]拓巳[line]　まぁ、学生にしては上等の基地じゃないかな。[linebreak]あ、だから僕はこの部屋のことをベースって呼んでる」[%p]"
+msgid "5500:[name]拓巳[line]\u3000まぁ、学生にしては上等の基地じゃないかな。[linebreak]あ、だから僕はこの部屋のことをベースって呼んでる」[%p]"
 msgstr "5500:[name]拓巳[line]For a student, I guess it's a pretty good base of operations. Oh, that's why I called this room “The Base.”[%p]"
 
 msgid "5600:相変わらず部屋の中には僕以外に動くものはなにもない。[%p]"
@@ -228,7 +228,7 @@ msgstr "7100:I breathed a sigh of relief and tossed the bottle into a corner, th
 msgid "7200:部屋の一番奥に鎮座しているのが僕のマイＰＣ。[%p]"
 msgstr "7200:The PC sat in the far corner of my room.[%p]"
 
-msgid "7300:モニタの横にいるのは、今一番お気に入りのアニメ、[linebreak]ブラチュー――『ブラッドチューン　ＴＨＥ ＡＮＩＭＡＴＩＯＮ』の[linebreak][color index="A0FF0000"][ruby-base]星来[ruby-text-start]せいら[ruby-text-end]たん（１／８スケール・覚醒前ｖｅｒ）[color index="800000"]だ。[%p]"
+msgid "7300:モニタの横にいるのは、今一番お気に入りのアニメ、[linebreak]ブラチュー――『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』の[linebreak][color index="A0FF0000"][ruby-base]星来[ruby-text-start]せいら[ruby-text-end]たん（１／８スケール・覚醒前ｖｅｒ）[color index="800000"]だ。[%p]"
 msgstr "7300:Next to the monitor was a figure from my favorite anime, BT, or Blood Tune THE ANIMATION: [color index="A0FF0000"]Seira-tan [1/8th Scale, Pre-Awakening version][color index="800000"].[%p]"
 
 msgid "7400:萌えるポーズを取って僕に微笑みかけてくれている。[%p]"

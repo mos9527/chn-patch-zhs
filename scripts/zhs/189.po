@@ -126,7 +126,7 @@ msgstr "3700:[name]三住[line]But... I thought about a lot of things, and I've 
 msgid "3800:[name]三住[line]「よろしくな」[%p]"
 msgstr "3800:[name]三住[line]Okay?[%p]"
 
-msgid "3900:あっけらかんと、そう言ってくる。[linebreak]こんな僕に、今まで通りに接するって？[linebreak]僕みたいなキモオタに？　打算もなにもなく？[%p]"
+msgid "3900:あっけらかんと、そう言ってくる。[linebreak]こんな僕に、今まで通りに接するって？[linebreak]僕みたいなキモオタに？\u3000打算もなにもなく？[%p]"
 msgstr "3900:He said this so casually. He was going to treat me just like he had before? Even though I was a creepy loser? Without wanting anything in return?[%p]"
 
 msgid "4000:やばい、濡れた。[linebreak]三住くんになら掘られてもいい。[%p]"

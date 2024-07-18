@@ -4,6 +4,12 @@ if len(sys.argv) < 3:
     print('Usage: python generate_pot.py <output dir> <input dir 1> <input dir 2> ...')
     sys.exit(1)
 
+import escaped_bytes
+def escape_string(s):
+    for char, repl in escaped_bytes.escaped_bytes.items():
+        s = s.replace(char, repl)
+    return s
+
 translations = defaultdict(list)
 for src in sys.argv[2:]:
     for root, dirs, files in os.walk(src):
@@ -28,9 +34,9 @@ for file, lines in translations.items():
 ''')
         for line in range(0, len(lines[0])):
             if len(lines) != 1:
-                output.write('msgid "%s"\n' % lines[0][line].strip())
-                output.write('msgstr "%s"\n' % lines[1][line].strip())
+                output.write('msgid "%s"\n' % escape_string(lines[0][line].strip()))
+                output.write('msgstr "%s"\n' % escape_string(lines[1][line].strip()))
             else:
-                output.write('msgid "%s"\n' % lines[0][line].strip())
-                output.write('msgstr "%s"\n' % lines[0][line].strip())
+                output.write('msgid "%s"\n' % escape_string(lines[0][line].strip()))
+                output.write('msgstr "%s"\n' % escape_string(lines[0][line].strip()))
             output.write('\n')

@@ -240,7 +240,7 @@ msgstr "7500:Why did I see her covered in blood during the Crucified murder?[%p]
 msgid "7600:僕と梨深とは１年生の頃からクラスメイトで仲がよかったらしいけど、その記憶がすっぽり抜け落ちているのはどうしてなのか……。[%p]"
 msgstr "7600:If she and I were friends since my first year of school, why didn't I remember it?[%p]"
 
-msgid "7700:[name]梨深[line]「タク？　体調悪いの？」[%p]"
+msgid "7700:[name]梨深[line]「タク？\u3000体調悪いの？」[%p]"
 msgstr "7700:[name]梨深[line]Taku? Are you not feeling well?[%p]"
 
 msgid "7800:梨深が困った顔で首を傾げている。[%p]"

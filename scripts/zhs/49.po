@@ -39,7 +39,7 @@ msgstr "800:KnightHeart: She has to be."
 msgid "900:ナイトハルト：なあ、聞いてる？＞グリム"
 msgstr "900:KnightHeart: Hey, are you listening? > Grimm"
 
-msgid "1000:グリム：そ　れ　な　ん　て　エ　ロ　ゲ　？"
+msgid "1000:グリム：そ\u3000れ\u3000な\u3000ん\u3000て\u3000エ\u3000ロ\u3000ゲ\u3000？"
 msgstr "1000:Grimm: What's the name of this H-game?"
 
 msgid "1100:[name]拓巳[line]「…………」[%p]"
@@ -57,7 +57,7 @@ msgstr "1400:But that was the answer I got. To be fair, this was the same reacti
 msgid "1500:ナイトハルト：グリムに相談した僕がバカだった"
 msgstr "1500:KnightHeart: I was an idiot to ask you in the first place."
 
-msgid "1600:グリム：ちょｗｗおまｗｗマジで！？　フラグ立ちまくりじゃん！"
+msgid "1600:グリム：ちょｗｗおまｗｗマジで！？\u3000フラグ立ちまくりじゃん！"
 msgstr "1600:Grimm: Wait, lol. You're serious?! Man, you're such a [alt-linebreak]lucky bastard!"
 
 msgid "1700:グリム：おまい、やることはしっかりやってるんだなｗｗｗ"
@@ -96,7 +96,7 @@ msgstr "2700:Grimm: This guy's a goner. Somebody needs to do something about him
 msgid "2800:[name]星来[line]「メールだよ〜、ぼけなす♪」[%p]"
 msgstr "2800:[name]星来[line]You've got mail, dork![%p]"
 
-msgid "2900:お？　星来たんの声が聞こえてきた。[linebreak]メールが届いたときには、今の音声が鳴るように設定してあるんだ。[%p]"
+msgid "2900:お？\u3000星来たんの声が聞こえてきた。[linebreak]メールが届いたときには、今の音声が鳴るように設定してあるんだ。[%p]"
 msgstr "2900:Huh? I just heard Seira-tan's voice. I'd set that voice to play whenever I got an email.[%p]"
 
 msgid "3000:何気なくメールソフトをチェックしてみると、差出人の名前欄には――[%p]"
@@ -114,8 +114,8 @@ msgstr "3300:KnightHeart: I got an email."
 msgid "3400:ナイトハルト：今"
 msgstr "3400:KnightHeart: Just now."
 
-msgid "3500:グリム：ｷﾀ━(ﾟ∀ﾟ)━(∀ﾟ)━(ﾟ　)━(　　)━(　　)━(　ﾟ)━(ﾟ∀)━(ﾟ∀ﾟ)━！！"
-msgstr "3500:Grimm: Hooray! ━(ﾟ∀ﾟ)━(∀ﾟ)━(ﾟ　)━(　　)━(　　)━[alt-linebreak](　ﾟ)━( ﾟ∀)━(ﾟ∀ﾟ)━！！"
+msgid "3500:グリム：ｷﾀ━(ﾟ∀ﾟ)━(∀ﾟ)━(ﾟ\u3000)━(\u3000\u3000)━(\u3000\u3000)━(\u3000ﾟ)━(ﾟ∀)━(ﾟ∀ﾟ)━！！"
+msgstr "3500:Grimm: Hooray! ━(ﾟ∀ﾟ)━(∀ﾟ)━(ﾟ\u3000)━(\u3000\u3000)━(\u3000\u3000)━[alt-linebreak](\u3000ﾟ)━( ﾟ∀)━(ﾟ∀ﾟ)━！！"
 
 msgid "3600:三次元女子からのメール……。こんなのもらったのは初めてだ……。[linebreak]ゴクリと息を呑んで、メールを開いてみる。[%p]"
 msgstr "3600:An email... from a 3D girl. I'd never gotten one before. I gulped and opened it.[%p]"
@@ -138,7 +138,7 @@ msgstr "4100:KnightHeart: It's totally normal."
 msgid "4200:ナイトハルト：挨拶みたいなもの"
 msgstr "4200:KnightHeart: Basically just a hello."
 
-msgid "4300:グリム：いいからうｐ！　うｐ！"
+msgid "4300:グリム：いいからうｐ！\u3000うｐ！"
 msgstr "4300:Grimm: Shut up and upload it. Upload!"
 
 msgid "4400:ナイトハルト：こんばんは。○○です。"
@@ -261,7 +261,7 @@ msgstr "8200:Grimm: Get her to go along with all your weird-ass [alt-linebreak]f
 msgid "8300:そ、それは、かなりいいかも……。[%p]"
 msgstr "8300:T-That... actually sounded pretty appealing.[%p]"
 
-msgid "8400:いやいやいや！　それこそ思うつぼだ！[%p]"
+msgid "8400:いやいやいや！\u3000それこそ思うつぼだ！[%p]"
 msgstr "8400:No, no, no. That was just what she wanted me to think![%p]"
 
 msgid "8500:グリム：逆ナンされたんだからもっと喜べよｗ"

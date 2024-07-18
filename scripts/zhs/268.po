@@ -111,16 +111,16 @@ msgstr "3200:I took a quick look at her. She was a few steps in front of me.[%p]
 msgid "3300:さすがのあやせも、この渋谷の惨状に顔色を蒼白にさせている。[linebreak]辛さに耐えるかのように唇を噛み、黙々と歩いていた。[%p]"
 msgstr "3300:This was enough to rattle even her, from the look of it. She bit her lip as if it would her help endure the pain, and walked on silently.[%p]"
 
-msgid "3400:[name]男性被災者Ａ[line]「おいみんな！　ここは危ないから、避難場所へ行こう！」[%p]"
+msgid "3400:[name]男性被災者Ａ[line]「おいみんな！\u3000ここは危ないから、避難場所へ行こう！」[%p]"
 msgstr "3400:[name]男性被災者Ａ[line]Hey, everyone! It's dangerous here! Let's get to a shelter![%p]"
 
 msgid "3500:そう叫んでいるのは、スーツを着た中年の男だ。[linebreak]周囲には僕らも含めて、生き延びることができた人間がかなりの数、残っている。そうした人たちに呼びかけているようだった。[%p]"
 msgstr "3500:The speaker was a middle-aged man in a suit. A good number of people were still alive, including us. He seemed to be speaking to the survivors.[%p]"
 
-msgid "3600:[name]男性被災者Ａ[line]「救助を待ってたら、日が暮れてしまう！　避難場所まで行けば、きっとなんとかなる！　ここにとどまっているよりずっとマシだ！」[%p]"
+msgid "3600:[name]男性被災者Ａ[line]「救助を待ってたら、日が暮れてしまう！\u3000避難場所まで行けば、きっとなんとかなる！\u3000ここにとどまっているよりずっとマシだ！」[%p]"
 msgstr "3600:[name]男性被災者Ａ[line]We'll be here all day if we wait for rescue! But if we can get to the shelters, we'll be fine! It'll be a lot better than staying here![%p]"
 
-msgid "3700:[name]男性被災者Ａ[line]「辛いかもしれないが、立って、歩こうじゃないか！　俺たちには、亡くなった人たちの分まで、生きなくちゃならない使命があるんだ！」[%p]"
+msgid "3700:[name]男性被災者Ａ[line]「辛いかもしれないが、立って、歩こうじゃないか！\u3000俺たちには、亡くなった人たちの分まで、生きなくちゃならない使命があるんだ！」[%p]"
 msgstr "3700:[name]男性被災者Ａ[line]I know it's hard, but stand up and let's go! We have a duty to live on, for the sake of the ones who died here![%p]"
 
 msgid "3800:ずいぶん元気なおっさんだな、と思った。[%p]"
@@ -135,7 +135,7 @@ msgstr "4000:Ayase ignored him. She seemed to be heading somewhere. I had no cho
 msgid "4100:ズキリ、と刺すような痛みがこめかみに走った。[linebreak]代々木からここまで歩いてくる途中、何度か襲われた痛みだった。[%p]"
 msgstr "4100:I felt a stabbing pain in my temples. The same pain had hit me several times on the way here from Yoyogi.[%p]"
 
-msgid "4200:[name]男性被災者Ａ[line]「頼むよ、みんな！　立ってくれ！　どうして分からないんだ、ここは危ないんだって！　瓦礫の下敷きになったらどうするんだ！」[%p]"
+msgid "4200:[name]男性被災者Ａ[line]「頼むよ、みんな！\u3000立ってくれ！\u3000どうして分からないんだ、ここは危ないんだって！\u3000瓦礫の下敷きになったらどうするんだ！」[%p]"
 msgstr "4200:[name]男性被災者Ａ[line]Please, everyone! Stand up! Why can't you understand that this place is dangerous? What if you get crushed by rubble?[%p]"
 
 msgid "4300:[name]男性被災者Ａ[line]「俺は、みんなに生きていてほしいんだよ！」[%p]"
@@ -186,13 +186,13 @@ msgstr "5700:The man's laugh was pissing me off. I turned over to him, and for s
 msgid "5800:アサルトライフルを構えていた。[%p]"
 msgstr "5800:There was an assault rifle in his hands.[%p]"
 
-msgid "5900:[name]男性被災者Ａ[line]「今なら警察いないから殺し放題じゃないか！　あははははは！」[%p]"
+msgid "5900:[name]男性被災者Ａ[line]「今なら警察いないから殺し放題じゃないか！\u3000あははははは！」[%p]"
 msgstr "5900:[name]男性被災者Ａ[line]There are no cops here now! I can kill anybody I want! Ahahah![%p]"
 
 msgid "6000:その銃を、男は唐突に乱射した。[%p]"
 msgstr "6000:He suddenly started firing the gun.[%p]"
 
-msgid "6100:[name]男性被災者Ａ[line]「あひひひひ！　うひひひひ！」[%p]"
+msgid "6100:[name]男性被災者Ａ[line]「あひひひひ！\u3000うひひひひ！」[%p]"
 msgstr "6100:[name]男性被災者Ａ[line]Ahahahaha! Wahahaha![%p]"
 
 msgid "6200:とっさに身を伏せる。[%p]"
@@ -207,13 +207,13 @@ msgstr "6400:At least, I thought I had been! I was right in front of him when he
 msgid "6500:でも痛みは襲ってこなくて。[linebreak]恐る恐る顔を上げると。[%p]"
 msgstr "6500:But I didn't feel any pain. I looked up, terrified.[%p]"
 
-msgid "6600:[name]男性被災者Ａ[line]「避難場所に行けば水や食料、それに毛布もある！　ここにとどまっていても意味はないんだ！」[%p]"
+msgid "6600:[name]男性被災者Ａ[line]「避難場所に行けば水や食料、それに毛布もある！\u3000ここにとどまっていても意味はないんだ！」[%p]"
 msgstr "6600:[name]男性被災者Ａ[line]There's water, food, and blankets at the shelter! There's no point in staying here![%p]"
 
 msgid "6700:男は銃なんて持ってなくて、また周囲の人々に訴えかけていた。[%p]"
 msgstr "6700:He didn't have a gun. He was yelling to the people around him.[%p]"
 
-msgid "6800:[name]男性被災者Ａ[line]「さあ、生きる気力を持とう！　無駄死に――」[%p]"
+msgid "6800:[name]男性被災者Ａ[line]「さあ、生きる気力を持とう！\u3000無駄死に――」[%p]"
 msgstr "6800:[name]男性被災者Ａ[line]Come on! Find the strength to live! You don't want to die here—[%p]"
 
 msgid "6900:異変は唐突だった。[%p]"

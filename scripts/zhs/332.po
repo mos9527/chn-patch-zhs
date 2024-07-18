@@ -102,7 +102,7 @@ msgstr "2900:I'd never had a girl stare at me for this long, from this distance.
 msgid "3000:例えば恋人同士で、甘ったるい会話とかしてるなら別にいいよ！[%p]"
 msgstr "3000:I mean, if she was my girlfriend, and we were having a nice romantic chat, that would be one thing![%p]"
 
-msgid "3100:でも優愛は真顔で、冷たい目で、同じ言葉を延々と繰り返し続けてるんだぞ！　こんなシチュエーション、普通は存在しない。[%p]"
+msgid "3100:でも優愛は真顔で、冷たい目で、同じ言葉を延々と繰り返し続けてるんだぞ！\u3000こんなシチュエーション、普通は存在しない。[%p]"
 msgstr "3100:But all she was doing was staring at me with a blank expression and cold eyes, and mumbling “eat” over and over! This wasn't something that normally happened to people.[%p]"
 
 msgid "3200:[name]優愛[line]「食べて」[%p]"

@@ -240,7 +240,7 @@ msgstr "7500:His daughter, whom he hadn't seen for nearly two years, had been br
 msgid "7600:“彼”の姿を認めて、娘は戸惑いの表情を浮かべた。[%p]"
 msgstr "7600:When she saw him, she seemed confused.[%p]"
 
-msgid "7700:[name]セナ[line]「父さん！　これはどういうこと？　母さんに、なにをしたの？」[%p]"
+msgid "7700:[name]セナ[line]「父さん！\u3000これはどういうこと？\u3000母さんに、なにをしたの？」[%p]"
 msgstr "7700:[name]セナ[line]Dad! What's going on here? What did you do to Mom?[%p]"
 
 msgid "7800:[name]セナ[line]「母さんが抱いているのは……いったい……」[%p]"
@@ -291,7 +291,7 @@ msgstr "9200:[unk07 unk="120"] and killing herself by stabbing out her own eyes.
 msgid "9300:やがて包丁で自らの目をえぐって死んだ。"
 msgstr "9300:before grabbing a knife… and killing herself by stabbing out her own eyes."
 
-msgid "9400:[name]セナ[line]「母さん！　母さんっ！」[%p]"
+msgid "9400:[name]セナ[line]「母さん！\u3000母さんっ！」[%p]"
 msgstr "9400:[name]セナ[line]Mom! Mom![%p]"
 
 msgid "9500:娘が、マジックミラーの向こうで母の無惨な最期を見て、泣き叫んでいた。[%p]"

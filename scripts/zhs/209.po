@@ -129,7 +129,7 @@ msgstr "3800:[name]梢[line]That's... That's impossible![%p]"
 msgid "3900:[name]梢[line]「だってこずぴぃとセナしゃんと拓巳しゃんは、お友達だも〜ん」[%p]"
 msgstr "3900:[name]梢[line]'Cause Kozupii and Sena are both friends with Takumi now![%p]"
 
-msgid "4000:[name]梢[line]「ね？　ね？　そうでしょー拓巳しゃん」[%p]"
+msgid "4000:[name]梢[line]「ね？\u3000ね？\u3000そうでしょー拓巳しゃん」[%p]"
 msgstr "4000:[name]梢[line]Right? Right? Right, Takumi?![%p]"
 
 msgid "4100:[name]拓巳[line]「…………」[%p]"

@@ -33,7 +33,7 @@ msgstr "600:I needed a way to get out.[%p]"
 msgid "700:ともかく片付けとＯＳの再フォーマットをなんとか終えた僕は、すぐさまＰＣに向かいエンスーをインストールした。バゼラードにログインしてみる。[%p]"
 msgstr "700:When my OS was finally back, I headed over to my computer and installed ESO. I tried logging into Baselard.[%p]"
 
-msgid "800:[name]拓巳[line]「や、やった……やった……！　ナイトハルトは消えてない……！　装備とかも全部無事だ。よかった……よかった……ぁ」[%p]"
+msgid "800:[name]拓巳[line]「や、やった……やった……！\u3000ナイトハルトは消えてない……！\u3000装備とかも全部無事だ。よかった……よかった……ぁ」[%p]"
 msgstr "800:[name]拓巳[line]Y-Yes! Hooray! KnightHeart is still there. His equipment and everything are all safe. Yes! Yes![%p]"
 
 msgid "900:感動のあまり、イスから立ち上がって拳を振り上げようとしたけど、それすらもしんどくて、途中でやめた。[%p]"
@@ -132,7 +132,7 @@ msgstr "3900:Or maybe it wasn't God, but Shogun, looking at me from satellite or
 msgid "4000:うう……逃げ出したい……。[%p]"
 msgstr "4000:I wanted to run away.[%p]"
 
-msgid "4100:でもどこへ？　日本のどこにいたって捕捉されちゃうんだぞ……。[%p]"
+msgid "4100:でもどこへ？\u3000日本のどこにいたって捕捉されちゃうんだぞ……。[%p]"
 msgstr "4100:But where? He could find me anywhere in Japan.[%p]"
 
 msgid "4200:蒋軍：久しぶり"

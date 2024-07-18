@@ -147,13 +147,13 @@ msgstr "4400:"
 msgid "4500:マップ移動"
 msgstr "4500:"
 
-msgid "4600:　あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや　ゆ　よらりるれろわ　を　んぁぃぅぇぉゃゅょっーがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ"
+msgid "4600:\u3000あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや\u3000ゆ\u3000よらりるれろわ\u3000を\u3000んぁぃぅぇぉゃゅょっーがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ"
 msgstr "4600:"
 
-msgid "4700:　ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
+msgid "4700:\u3000ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
 msgstr "4700:"
 
-msgid "4800:　０１２３４５６７８９"
+msgid "4800:\u3000０１２３４５６７８９"
 msgstr "4800:"
 
 msgid "4900:"
@@ -417,37 +417,37 @@ msgstr "20200:Chapter 10"
 msgid "20210:ｃｒｙｉｎｇ ｓｋｙ"
 msgstr "20210:ｃｒｙｉｎｇ ｓｋｙ"
 
-msgid "20220:第９章　梨深編"
+msgid "20220:第９章\u3000梨深編"
 msgstr "20220:Chapter 9 Rimi:"
 
 msgid "20230:アニマの像"
 msgstr "20230:Anima Archetype"
 
-msgid "20240:第８章　セナ編"
+msgid "20240:第８章\u3000セナ編"
 msgstr "20240:Chapter 8 Sena:"
 
 msgid "20250:デウス・エクス・マキナ"
 msgstr "20250:Deus Ex Machina"
 
-msgid "20260:第８章　優愛編"
+msgid "20260:第８章\u3000優愛編"
 msgstr "20260:Chapter 8 Yua:"
 
 msgid "20270:月と太陽"
 msgstr "20270:Moon and Sun"
 
-msgid "20280:第８章　梢編"
+msgid "20280:第８章\u3000梢編"
 msgstr "20280:Chapter 8 Kozue:"
 
 msgid "20290:殺戮に至る病"
 msgstr "20290:A Disease that Leads to Slaughter"
 
-msgid "20300:第８章　あやせ編"
+msgid "20300:第８章\u3000あやせ編"
 msgstr "20300:Chapter 8 Ayase:"
 
 msgid "20310:罪過に契約の血を"
 msgstr "20310:A Bloody Contract for Your Sins"
 
-msgid "20320:第７章　七海編"
+msgid "20320:第７章\u3000七海編"
 msgstr "20320:Chapter 7 Nanami:"
 
 msgid "20330:ｄａｙｄｒｅａｍ"
@@ -525,37 +525,37 @@ msgstr "25200:Chapter 10"
 msgid "25210:【ｃｒｙｉｎｇ ｓｋｙ】"
 msgstr "25210:ｃｒｙｉｎｇ ｓｋｙ"
 
-msgid "25220:【第９章　梨深編】"
+msgid "25220:【第９章\u3000梨深編】"
 msgstr "25220:Chapter 9 Rimi:"
 
 msgid "25230:【アニマの像】"
 msgstr "25230:Anima Archetype"
 
-msgid "25240:【第８章　セナ編】"
+msgid "25240:【第８章\u3000セナ編】"
 msgstr "25240:Chapter 8 Sena:"
 
 msgid "25250:【デウス・エクス・マキナ】"
 msgstr "25250:Deus Ex Machina"
 
-msgid "25260:【第８章　優愛編】"
+msgid "25260:【第８章\u3000優愛編】"
 msgstr "25260:Chapter 8 Yua:"
 
 msgid "25270:【月と太陽】"
 msgstr "25270:Moon and Sun"
 
-msgid "25280:【第８章　梢編】"
+msgid "25280:【第８章\u3000梢編】"
 msgstr "25280:Chapter 8 Kozue:"
 
 msgid "25290:【殺戮に至る病】"
 msgstr "25290:A Disease that Leads to Slaughter"
 
-msgid "25300:【第８章　あやせ編】"
+msgid "25300:【第８章\u3000あやせ編】"
 msgstr "25300:Chapter 8 Ayase:"
 
 msgid "25310:【罪過に契約の血を】"
 msgstr "25310:A Bloody Contract for Your Sins"
 
-msgid "25320:【第７章　七海編】"
+msgid "25320:【第７章\u3000七海編】"
 msgstr "25320:Chapter 7 Nanami:"
 
 msgid "25330:【ｄａｙｄｒｅａｍ】"
@@ -621,7 +621,7 @@ msgstr "40070:"
 msgid "40080:"
 msgstr "40080:"
 
-msgid "40090:聴かせてあげなくもないわよっ！　あなただからよ。"
+msgid "40090:聴かせてあげなくもないわよっ！\u3000あなただからよ。"
 msgstr "40090:I guess I'll sing this song for you! But don't think you're special!"
 
 msgid "40100:M.I.L"

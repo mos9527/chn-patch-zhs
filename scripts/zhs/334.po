@@ -111,10 +111,10 @@ msgstr "3200:The real Shogun was still lurking out there. If I was really lucky,
 msgid "3300:なにより優愛は、ニュージェネの真犯人を――『将軍』を、恨んでいる。敵の敵は味方なんだ。[linebreak]優愛と僕は利害が一致している。[%p]"
 msgstr "3300:She hated the person behind the NewGen killings. And the enemy of my enemy was my friend. She and I wanted the same thing.[%p]"
 
-msgid "3400:[name]拓巳[line]「ふひひ、ぼ、ぼ、僕って、頭よくね？　天才じゃね？」[%p]"
+msgid "3400:[name]拓巳[line]「ふひひ、ぼ、ぼ、僕って、頭よくね？\u3000天才じゃね？」[%p]"
 msgstr "3400:[name]拓巳[line]Fweheheh. I-I'm really smart, aren't I? I'm a genius![%p]"
 
-msgid "3500:[name]星来[line]「うん、タッキーってば天才！　あたしさ、ますますタッキーのこと、好きになっちゃった……」[%p]"
+msgid "3500:[name]星来[line]「うん、タッキーってば天才！\u3000あたしさ、ますますタッキーのこと、好きになっちゃった……」[%p]"
 msgstr "3500:[name]星来[line]Yup, you're a genius, Takky! I'm more in love with you than ever![%p]"
 
 msgid "3600:だから、今は耐えるんだ……。[%p]"

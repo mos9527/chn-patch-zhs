@@ -168,7 +168,7 @@ msgstr "5100:[name]拓巳[line]S-She's telling them I'm the NewGen killer![%p]"
 msgid "5200:優愛は僕をはめようとしてるんだ。[%p]"
 msgstr "5200:Yua tried to get me arrested.[%p]"
 
-msgid "5300:くそっ！　あの女と『将軍』のせいで僕の人生は破滅寸前だ！[%p]"
+msgid "5300:くそっ！\u3000あの女と『将軍』のせいで僕の人生は破滅寸前だ！[%p]"
 msgstr "5300:Damn it! She and Shogun were on the verge of destroying my life![%p]"
 
 msgid "5400:[name]ＦＥＳ[line]「そう……」[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:[name]拓巳[line]I-I'm innocent![%p]"
 msgid "5900:つい興奮して叫んでしまった。[linebreak]地下道に、僕の声が大きく反響する。[linebreak]でももう止まらなかった。[%p]"
 msgstr "5900:I got so excited, I yelled. My voice echoed loudly throughout the tunnel. But I couldn't control myself anymore.[%p]"
 
-msgid "6000:[name]拓巳[line]「じ、じ、事件を、もく、目撃した、だけだっ！　証拠品、を勝手に持ち、持ち帰っちゃったけど！　そ、それだけっ！」[%p]"
+msgid "6000:[name]拓巳[line]「じ、じ、事件を、もく、目撃した、だけだっ！\u3000証拠品、を勝手に持ち、持ち帰っちゃったけど！\u3000そ、それだけっ！」[%p]"
 msgstr "6000:[name]拓巳[line]I-I just happened to see the murder, that's all! O-Okay, maybe I took some evidence home. B-But that's all![%p]"
 
 msgid "6100:[name]拓巳[line]「僕、こ、殺してないっ！」[%p]"
@@ -210,13 +210,13 @@ msgstr "6500:[name]ＦＥＳ[line]By a Greater Being.[%p]"
 msgid "6600:[name]拓巳[line]「は……？」[%p]"
 msgstr "6600:[name]拓巳[line]What?[%p]"
 
-msgid "6700:ま　た　メ　ン　ヘ　ラ　か　！　？"
+msgid "6700:ま\u3000た\u3000メ\u3000ン\u3000ヘ\u3000ラ\u3000か\u3000！\u3000？"
 msgstr "6700:ANOTHER CRAZY CHICK?"
 
-msgid "6800:[linebreak]ま　た　中　２　病　か　！　？[%p]"
+msgid "6800:[linebreak]ま\u3000た\u3000中\u3000２\u3000病\u3000か\u3000！\u3000？[%p]"
 msgstr "6800:[linebreak]ANOTHER LUNATIC?[%p]"
 
-msgid "6900:ま　た　メ　ン　ヘ　ラ　か　！　？ま　た　中　２　病　か　！　？"
+msgid "6900:ま\u3000た\u3000メ\u3000ン\u3000ヘ\u3000ラ\u3000か\u3000！\u3000？ま\u3000た\u3000中\u3000２\u3000病\u3000か\u3000！\u3000？"
 msgstr "6900:ANOTHER CRAZY CHICK? ANOTHER LUNATIC?"
 
 msgid "7000:[name]ＦＥＳ[line]「キミの見たものが事実だったか幻だったかは、些細なこと」[%p]"

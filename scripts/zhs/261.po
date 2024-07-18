@@ -33,7 +33,7 @@ msgstr "600:But still, Ayase... Ayase might be able to help somehow.[%p]"
 msgid "700:三住くんは正面の入り口から中に入り、ロビーに来たところで途方に暮れたように周囲を見回した。[%p]"
 msgstr "700:Misumi had gone in through the front door, but when he got to the lobby, he didn't seem sure what to do.[%p]"
 
-msgid "800:どうしたの？　と声をかけてみると。[%p]"
+msgid "800:どうしたの？\u3000と声をかけてみると。[%p]"
 msgstr "800:I asked him what was wrong.[%p]"
 
 msgid "900:[name]三住[line]「いや、岸本の病室ってどこなんだろうなって思ってよ」[%p]"

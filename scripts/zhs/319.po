@@ -123,7 +123,7 @@ msgstr "3600:KIN(OZENV.$ fell silent at his question.[%p]"
 msgid "3700:禁（０漸Ｖ・＄：時間だ"
 msgstr "3700:KIN(OZENV.$: It's time."
 
-msgid "3800:[name]波多野[line]「時間？　時間とは、なんのことだ……？」[%p]"
+msgid "3800:[name]波多野[line]「時間？\u3000時間とは、なんのことだ……？」[%p]"
 msgstr "3800:[name]波多野[line]Time? What's time?[%p]"
 
 msgid "3900:禁（０漸Ｖ・＄：３００人委員会はあくまで、"
@@ -141,7 +141,7 @@ msgstr "4200:KIN(OZENV.$: as Inohana and Kuramochi were."
 msgid "4300:禁（０漸Ｖ・＄：それは君たちも例外ではない"
 msgstr "4300:KIN(OZENV.$: And the three of you are no exception."
 
-msgid "4400:[name]波多野[line]「君たち、だと……？　まさか、セナや西條拓巳も……」[%p]"
+msgid "4400:[name]波多野[line]「君たち、だと……？\u3000まさか、セナや西條拓巳も……」[%p]"
 msgstr "4400:[name]波多野[line]The three of us? You don't mean Sena and Takumi Nishijo as well…[%p]"
 
 msgid "4500:禁（０漸Ｖ・＄：君たちは我らと接触した時点で駒となり"

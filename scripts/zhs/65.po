@@ -51,7 +51,7 @@ msgstr "1200:But Ban didn't notice. He took a deep breath while waving a paper f
 msgid "1300:[name]松永[line]「警部補。判警部補。聞いているのか？」[%p]"
 msgstr "1300:[name]松永[line]Lieutenant. Lieutenant Ban. Are you listening to me?[%p]"
 
-msgid "1400:[name]青年刑事[line]「呼ばれてるッスよ……！　判さんの報告待ちなんスから……！　ちょっと！」[%p]"
+msgid "1400:[name]青年刑事[line]「呼ばれてるッスよ……！\u3000判さんの報告待ちなんスから……！\u3000ちょっと！」[%p]"
 msgstr "1400:[name]青年刑事[line]He's calling you! They're all waiting for your report! Hey![%p]"
 
 msgid "1500:隣から相棒である新人の[ruby-base][ruby-center-per-char]諏訪[ruby-text-start]すわ[ruby-text-end]に耳打ちされ、判はようやく自分が呼ばれていることに気付いた。[%p]"

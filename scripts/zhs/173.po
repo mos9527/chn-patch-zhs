@@ -69,7 +69,7 @@ msgstr "1800:[name]女子Ａ[line]Oh no! What if he uses his powers on me? He'll
 msgid "1900:[name]女子Ｂ[line]「西條、ヘンタイじゃーん」[%p]"
 msgstr "1900:[name]女子Ｂ[line]Nishijo, you're a pervert![%p]"
 
-msgid "2000:[name]生徒Ｃ[line]「お、ヤベ！　こっち見た！　石にされる前に目をそらせ！」[%p]"
+msgid "2000:[name]生徒Ｃ[line]「お、ヤベ！\u3000こっち見た！\u3000石にされる前に目をそらせ！」[%p]"
 msgstr "2000:[name]生徒Ｃ[line]Oh no! He's looking at us! Look away before he turns you to stone![%p]"
 
 msgid "2100:[name]生徒Ｂ[line]「大丈夫。実際のところただのキモオタだから」[%p]"

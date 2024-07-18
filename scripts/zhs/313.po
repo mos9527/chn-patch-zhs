@@ -111,7 +111,7 @@ msgstr "3200:[name]拓巳[line]C-Can you make a security camera believe it, too?
 msgid "3300:[name]セナ[line]「やろうと思えばできるかもな。試したことはない。それにやる必要もない」[%p]"
 msgstr "3300:[name]セナ[line]I could if I wanted to, maybe. I've never tried it. And I don't need to it.[%p]"
 
-msgid "3400:[name]拓巳[line]「な、なんで！？　ば、ば、バレちゃうじゃないか！」[%p]"
+msgid "3400:[name]拓巳[line]「な、なんで！？\u3000ば、ば、バレちゃうじゃないか！」[%p]"
 msgstr "3400:[name]拓巳[line]W-Why? T-They'll find us![%p]"
 
 msgid "3500:[name]拓巳[line]「あ、あり得ない……。す、す、[color index="A0FF0000"]スニーキングミッション[color index="800000"]では、監視カメラは最初に壊すでしょ、常識的に考えて……」[%p]"
@@ -126,10 +126,10 @@ msgstr "3700:[name]セナ[line]I told you. You need to stand out.[%p]"
 msgid "3800:だから、意味が分からないってば。[%p]"
 msgstr "3800:I had no idea what she meant.[%p]"
 
-msgid "3900:矛盾してるじゃないか。“希の社員だと思い込ませた”っていうカモフラージュ方法を取りながら、“目立つことが必要”なんてさ。[linebreak]結局どっちなんだ？　なにがしたいんだ？[%p]"
+msgid "3900:矛盾してるじゃないか。“希の社員だと思い込ませた”っていうカモフラージュ方法を取りながら、“目立つことが必要”なんてさ。[linebreak]結局どっちなんだ？\u3000なにがしたいんだ？[%p]"
 msgstr "3900:She was contradicting herself, wasn't she? She wanted to camouflage us by making everyone believe we were Nozomi employees, but I also needed to stand out? Which was it? What was she trying to accomplish here?[%p]"
 
-msgid "4000:誰も彼も、思わせぶりなことしか言おうとしない。[linebreak]僕を、バカにしてるのか！？　どうせ言ったって西條拓巳は理解できないだろうとか、思ってるのか！？[%p]"
+msgid "4000:誰も彼も、思わせぶりなことしか言おうとしない。[linebreak]僕を、バカにしてるのか！？\u3000どうせ言ったって西條拓巳は理解できないだろうとか、思ってるのか！？[%p]"
 msgstr "4000:No one ever explained to me what the hell they were actually talking about. Did they all think I was stupid? Did they all just think there was no point in telling Takumi Nishijo, since he wouldn't be able to understand it?[%p]"
 
 msgid "4100:うう、くそぅ、僕は、頭はいいんだぞ……。[linebreak]絶対に、ＩＱじゃセナより上だね。間違いない。[%p]"
@@ -279,7 +279,7 @@ msgstr "8800:Whenever she said the name, her expression would darken for a momen
 msgid "8900:[name]セナ[line]「……安心しろ、西條。これは交換条件だ。お前におとりになってもらう代わりに、私はお前を守る」[%p]"
 msgstr "8900:[name]セナ[line]Don't worry, Nishijo. We're making a fair trade. You're being my bait. And in exchange, I'll protect you.[%p]"
 
-msgid "9000:[name]セナ[line]「それにお前だって、『将軍』の正体を知りたいだろ？　脅威を排除するにはこちらから攻撃――」[%p]"
+msgid "9000:[name]セナ[line]「それにお前だって、『将軍』の正体を知りたいだろ？\u3000脅威を排除するにはこちらから攻撃――」[%p]"
 msgstr "9000:[name]セナ[line]And you want to know who Shogun really is, right? If you want to get rid of a threat, the best thing to do is go on the offensive, and—[%p]"
 
 msgid "9100:不意にセナは口をつぐんだ。[linebreak]不思議そうに眉根を寄せる。壁に預けていた背中を離し、この狭い踊り場で、長大なディソードを構える。[%p]"
@@ -318,7 +318,7 @@ msgstr "10100:And I couldn't hear a voice, either. I could tell what was going o
 msgid "10200:『将軍』だ……！[linebreak]ヤツが、はるか上空の人工衛星から思考盗撮をしていて、“声”を聞かせているんだ！[%p]"
 msgstr "10200:Shogun! He was using satellites in the sky far above us to read her mind, and speak to her![%p]"
 
-msgid "10300:[name]拓巳[line]「セ、セナ！　その声を、聞いちゃ、ダメだ……っ！」[%p]"
+msgid "10300:[name]拓巳[line]「セ、セナ！\u3000その声を、聞いちゃ、ダメだ……っ！」[%p]"
 msgstr "10300:[name]拓巳[line]S-Sena! Don't listen to that voice![%p]"
 
 msgid "10400:[name]セナ[line]「…………」[%p]"
@@ -336,7 +336,7 @@ msgstr "10700:[name]セナ[line]It looks like Shogun isn't working with Nozomi.[
 msgid "10800:やっぱりだ……！[linebreak]『将軍』の声をセナは聞いたんだ！[%p]"
 msgstr "10800:I knew it! Sena had heard Shogun's voice![%p]"
 
-msgid "10900:[name]拓巳[line]「だ、だ、騙されてるっ！　あいつは、て、敵だよっ！　し、信じちゃ、ダメだ……っ！」[%p]"
+msgid "10900:[name]拓巳[line]「だ、だ、騙されてるっ！\u3000あいつは、て、敵だよっ！\u3000し、信じちゃ、ダメだ……っ！」[%p]"
 msgstr "10900:[name]拓巳[line]H-He's lying to you! He's my e-enemy! D-Don't believe him![%p]"
 
 msgid "11000:[name]セナ[line]「音だ……」[%p]"
@@ -351,7 +351,7 @@ msgstr "11200:My hand was on her shoulder. She grabbed it and held it tight. Her
 msgid "11300:僕は顔をしかめ――[%p]"
 msgstr "11300:I winced—[%p]"
 
-msgid "11400:[name]セナ[line]「西條、音がしている！　気を付けろ――」[%p]"
+msgid "11400:[name]セナ[line]「西條、音がしている！\u3000気を付けろ――」[%p]"
 msgstr "11400:[name]セナ[line]Nishijo, that's the sound! Be careful![%p]"
 
 msgid "11500:頭の中で、閃光が爆ぜた。[linebreak]浮かび上がったのは、映像。[%p]"
@@ -375,7 +375,7 @@ msgstr "12000:I could see every detail. I was sure of who I'd seen.[%p]"
 msgid "12100:七海だ。[%p]"
 msgstr "12100:It was Nanami.[%p]"
 
-msgid "12200:[name]拓巳[line]「な、な、七海がっ！　なな、七海が、こ、このビルの、どこかに！」[%p]"
+msgid "12200:[name]拓巳[line]「な、な、七海がっ！\u3000なな、七海が、こ、このビルの、どこかに！」[%p]"
 msgstr "12200:[name]拓巳[line]N-Nanami! Nana... Nanami is somewhere in this building![%p]"
 
 msgid "12300:やっぱり『将軍』に連れ去られていたんだ！[linebreak]手首だって、妄想なんかじゃなくて、ホントだったんだ！[%p]"
@@ -390,7 +390,7 @@ msgstr "12500:I hadn't been able to save her, and now she was suffering.[%p]"
 msgid "12600:だから、探さないと。[linebreak]今度こそ、僕がなんとかしないと……。[%p]"
 msgstr "12600:I had to find her. This time, I had to save her![%p]"
 
-msgid "12700:[name]セナ[line]「落ち着け、西條！　これは罠の可能性が――」[%p]"
+msgid "12700:[name]セナ[line]「落ち着け、西條！\u3000これは罠の可能性が――」[%p]"
 msgstr "12700:[name]セナ[line]Calm down, Nishijo! It might be a trap—[%p]"
 
 msgid "12800:[name]拓巳[line]「さ、さっき、君だって、し、『将軍』の言葉を信じたじゃないか！」[%p]"

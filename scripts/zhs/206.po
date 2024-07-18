@@ -51,7 +51,7 @@ msgstr "1200:[name]梨深[line]What's wrong?[%p]"
 msgid "1300:[name]拓巳[line]「……こ、これから、実家に、か、帰ってみようと、おも、思うんだ」[%p]"
 msgstr "1300:[name]拓巳[line]U-Um, I'm thinking of going back to my parents' house.[%p]"
 
-msgid "1400:[name]梨深[line]「これから？　急だね」[%p]"
+msgid "1400:[name]梨深[line]「これから？\u3000急だね」[%p]"
 msgstr "1400:[name]梨深[line]Right now? That's sudden.[%p]"
 
 msgid "1500:[name]拓巳[line]「あ、歩いても、３０分も、かからないところなんだ……」[%p]"

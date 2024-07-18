@@ -117,7 +117,7 @@ msgstr "3400:[name]モニタの男Ａ[line]Indeed. It's probably your fault, Ino
 msgid "3500:[name]モニタの男Ｂ[line]「私はただ、３００人委員会のプランを実行したまでだがな。世界人間牧場計画の一環としては、悪くないプログラムだったよ」[%p]"
 msgstr "3500:[name]モニタの男Ｂ[line]I was simply carrying out the Committee of 300's plan. It's another excellent step toward the Human Cultivation Project.[%p]"
 
-msgid "3600:なんだ？　こいつら、何者だ……？[%p]"
+msgid "3600:なんだ？\u3000こいつら、何者だ……？[%p]"
 msgstr "3600:What? Who were these people?[%p]"
 
 msgid "3700:[name]モニタの男Ａ[line]「それを潰したのも猪鼻先生だというのが、なんとも滑稽なところだよ。３００人委員会も予想外だっただろうね」[%p]"
@@ -345,7 +345,7 @@ msgstr "11000:[name]セナ[line]Human emotions are just electrical signals in th
 msgid "11100:[name]セナ[line]「その電気信号に干渉する技術は、世界中で研究されてる。案外、とっくに実用化されてるかもしれない。ましてや沈黙の兵器……ノアⅡなら、造作もないことだ……」[%p]"
 msgstr "11100:[name]セナ[line]They're doing research all over the world to find a way to interfere with those electric signals. It's possible that they've already reached the point where they can be used in practical applications. Especially with a silent weapon... like Noah II.[%p]"
 
-msgid "11200:[name]セナ[line]「分かっただろう？　世界は電気仕掛けだと、私が言った意味が」[%p]"
+msgid "11200:[name]セナ[line]「分かっただろう？\u3000世界は電気仕掛けだと、私が言った意味が」[%p]"
 msgstr "11200:[name]セナ[line]You understand now, right? What I meant when I said the whole world runs on electricity.[%p]"
 
 msgid "11300:プログラム、みたいなものなのかな……。[linebreak]０と１の羅列。[linebreak]それは容易にいじることができる。[%p]"

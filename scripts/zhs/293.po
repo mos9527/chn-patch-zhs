@@ -9,13 +9,13 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:[name]星来[line]「朝だよー！　ほら起きて！　起きなさーい！」[%p]"
+msgid "0:[name]星来[line]「朝だよー！\u3000ほら起きて！\u3000起きなさーい！」[%p]"
 msgstr "0:[name]星来[line]It's morning! Wake up, come on! WAKE UP![%p]"
 
 msgid "100:[name]星来[line]「起きたら、おはようのキスしてあげるからさ……って、あたしなに言ってんだろバカバカ今の忘れて！」[%p]"
 msgstr "100:[name]星来[line]If you get up, I'll give you a good morning kiss! Wait, what am I saying? Forget I ever said that, dummy![%p]"
 
-msgid "200:[name]星来[line]「ちょっと！　いつまで寝てるんさ、このぼけなす！」[%p]"
+msgid "200:[name]星来[line]「ちょっと！\u3000いつまで寝てるんさ、このぼけなす！」[%p]"
 msgstr "200:[name]星来[line]Hey! Hey, how long are you gonna be sleeping, dork?[%p]"
 
 msgid "300:星来たんの声で目を覚ますと、相変わらず七海の姿はなかった。[linebreak]あいつ、僕に一言もなしに帰ったのか。[linebreak]それとも、学校に行ったのかな？[%p]"
@@ -45,7 +45,7 @@ msgstr "1000:[name]七海[line]No, I didn't. I told you I was staying the night.
 msgid "1100:[name]拓巳[line]「ということは、や、やっぱり、昨日の深夜のあれは、い、いたずらだったんだな……。も、もう二度と、やるな……」[%p]"
 msgstr "1100:[name]拓巳[line]S-So that thing last night w-was a prank, then. N-Never do something like that again.[%p]"
 
-msgid "1200:[name]七海[line]「いたずら？　なんのこと？」[%p]"
+msgid "1200:[name]七海[line]「いたずら？\u3000なんのこと？」[%p]"
 msgstr "1200:[name]七海[line]A prank? What are you talking about?[%p]"
 
 msgid "1300:七海は首を傾げてとぼけている。[linebreak]あくまで、しらを切るつもりか。[%p]"
@@ -72,7 +72,7 @@ msgstr "1900:[name]拓巳[line]N-Nothing.[%p]"
 msgid "2000:七海は裾を手で伸ばし、足の付け根を隠すようにした。[%p]"
 msgstr "2000:She pulled down the hem to cover the top of her legs.[%p]"
 
-msgid "2100:[name]拓巳[line]「ちょ、そ、そんな伸ばすな！　そのトレーナー、貴重なんだぞ！」[%p]"
+msgid "2100:[name]拓巳[line]「ちょ、そ、そんな伸ばすな！\u3000そのトレーナー、貴重なんだぞ！」[%p]"
 msgstr "2100:[name]拓巳[line]Hey, don't stretch that! That sweatshirt's really rare![%p]"
 
 msgid "2200:[name]七海[line]「ナナよりトレーナーが心配なんだ。おにぃのバカ」[%p]"

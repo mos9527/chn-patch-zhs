@@ -129,7 +129,7 @@ msgstr "3800:Fweheheh. I could be such a horndog sometimes... Fweheheh.[%p]"
 msgid "3900:そういう展開だったらどんなに楽だろう、と思っていると、僕の思いが通じたのかひとりの三次元女が店から現れた。[%p]"
 msgstr "3900:Everything would be so much easier if that happened, I told myself. And maybe my wish was heard by someone, because a 3D girl did come out of the shop.[%p]"
 
-msgid "4000:ただ、妄想と違って服装はやたらと派手で、それどこの民族衣装？　って聞きたくなりそうなものだし、表情は逆にすごく陰気そうだった。[%p]"
+msgid "4000:ただ、妄想と違って服装はやたらと派手で、それどこの民族衣装？\u3000って聞きたくなりそうなものだし、表情は逆にすごく陰気そうだった。[%p]"
 msgstr "4000:Her outfit wasn't anything like I'd expected, though. It was some kind of ethnic clothing? It looked really flashy, but the girl herself seemed really gloomy.[%p]"
 
 msgid "4100:髪はソバージュみたいにチリチリのボンバヘッドで、その上から巻き付けているバンダナにはなんだか不気味な模様が描かれている。[%p]"

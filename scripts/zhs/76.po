@@ -60,7 +60,7 @@ msgstr "1500:Grimm: And what happened to the body is just messed up!"
 msgid "1600:グリム＞全身の皮膚が緑色に変色してるんだお！"
 msgstr "1600:Grimm: All its skin turned green!"
 
-msgid "1700:グリム＞こええええ！　マジこえええええ！(;´Д｀)"
+msgid "1700:グリム＞こええええ！\u3000マジこえええええ！(;´Д｀)"
 msgstr "1700:Grimm: Scary! Super scary! (;´Д｀)"
 
 msgid "1800:グリム＞漏れ、オカルト説もあながち間違ってないかも、とか最近思い始めてきたお"
@@ -78,7 +78,7 @@ msgstr "2100:I came close to imagining it in my mind. But I managed to shake off
 msgid "2200:くそぅ、グリムのヤツ、絶対わざと奇襲のようなマネをしているに違いない。[%p]"
 msgstr "2200:Damn that Grimm. He was deliberately trying to ambush me. I knew it.[%p]"
 
-msgid "2300:グリム＞あり？　ありり？"
+msgid "2300:グリム＞あり？\u3000ありり？"
 msgstr "2300:Grimm: Huh? Huh-Huh?"
 
 msgid "2400:グリム＞リアクションなし？(´・ω・｀)"

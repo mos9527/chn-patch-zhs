@@ -45,7 +45,7 @@ msgstr "1000:[name]あやせ[line]Shinsen Station.[%p]"
 msgid "1100:いったいそこになにがあるって言うんだ？[%p]"
 msgstr "1100:What would she want to do there?[%p]"
 
-msgid "1200:神泉駅から学校へ行くつもりなのかな？　それとも僕のベースが目的地だったりして。でもあやせは僕のベースの場所は知らないはずだし……。[%p]"
+msgid "1200:神泉駅から学校へ行くつもりなのかな？\u3000それとも僕のベースが目的地だったりして。でもあやせは僕のベースの場所は知らないはずだし……。[%p]"
 msgstr "1200:Was she planning on heading to school? Or maybe she wanted to go the Base? But Ayase didn't know where I lived.[%p]"
 
 msgid "1300:そう言えば星来たんは無事だろうか。[linebreak]あの地震でＫＵＲＥＮＡＩ会館ビルも倒壊していて、僕の嫁たちが瓦礫に埋もれていたらどうしよう……。[%p]"
@@ -81,7 +81,7 @@ msgstr "2200:It was Sena and Kozupii![%p]"
 msgid "2300:だけど様子がおかしい。[linebreak]僕らの足音は聞こえているはずなのに、こっちを見ようともしない。[linebreak]へたり込んだまま、顔も上げず、動かない。[%p]"
 msgstr "2300:But something was wrong. They must've heard my footsteps, but they didn't move to look up. They were just sitting there, unmoving.[%p]"
 
-msgid "2400:[name]拓巳[line]「セ、セナ……？　こずぴぃ……？」[%p]"
+msgid "2400:[name]拓巳[line]「セ、セナ……？\u3000こずぴぃ……？」[%p]"
 msgstr "2400:[name]拓巳[line]S-Sena... Kozupii?[%p]"
 
 msgid "2500:呼びかけてみる。[linebreak]それでも２人は動かない。[linebreak]いったい、どうしたって言うんだ？[%p]"
@@ -153,7 +153,7 @@ msgstr "4600:Everything rusted and rotted.[%p]"
 msgid "4700:こずぴぃから強烈な腐臭が漂う。[%p]"
 msgstr "4700:A terrible smell was coming from Kozupii.[%p]"
 
-msgid "4800:そのこずぴぃが、ゆらりと立ち上がった。[linebreak]全身が赤く染まっている。[linebreak]それは血？　それとも錆？[%p]"
+msgid "4800:そのこずぴぃが、ゆらりと立ち上がった。[linebreak]全身が赤く染まっている。[linebreak]それは血？\u3000それとも錆？[%p]"
 msgstr "4800:She slowly stood up. Her entire body was red. Was it blood? Was it rust?[%p]"
 
 msgid "4900:[name]梢[line]「殺してやる……」[%p]"
@@ -222,7 +222,7 @@ msgstr "6900:What was she doing? Her hair was covering her face, and I couldn't 
 msgid "7000:するとゆっくりとセナは顔を上げた。[linebreak]男の肩は血まみれだった。肉がミンチ状になっていて、ピンク色の筋肉がテラテラと光っているのが見えた。[%p]"
 msgstr "7000:Slowly, Sena raised up her head. The man's shoulder was covered in blood. I could see the raw exposed meat, and pink glistening muscle.[%p]"
 
-msgid "7100:いや……それは血？　筋肉？　赤錆？[%p]"
+msgid "7100:いや……それは血？\u3000筋肉？\u3000赤錆？[%p]"
 msgstr "7100:No... was that blood? Muscle? Rust?[%p]"
 
 msgid "7200:[name]セナ[line]「ほうふぁん……おいひいよ……」[%p]"

@@ -81,7 +81,7 @@ msgstr "2200:I stood in the middle of the street and closed my eyes.[%p]"
 msgid "2300:今の、中途半端に知ってしまっている状態が、一番厄介だ。[%p]"
 msgstr "2300:My biggest problem right now was that I knew some things, but not everything.[%p]"
 
-msgid "2400:『将軍』とかディソードとか。知りたくもないことだったけど、知ってしまった。かと言って、じゃあそれってなんなの？　って聞かれたら答えられない。[%p]"
+msgid "2400:『将軍』とかディソードとか。知りたくもないことだったけど、知ってしまった。かと言って、じゃあそれってなんなの？\u3000って聞かれたら答えられない。[%p]"
 msgstr "2400:I knew about things like Shogun and the Di-Sword, things I didn't even want to know. But if somebody asked me what they were, I couldn't explain.[%p]"
 
 msgid "2500:僕は答えを知らない。[%p]"
@@ -285,7 +285,7 @@ msgstr "9000:I tried to open my eyes, but my eyelids wouldn't move. The darkness
 msgid "9100:[name]男Ｂ[line]「んだよ、もうノビたのか？」[%p]"
 msgstr "9100:[name]男Ｂ[line]Oh, is he out already?[%p]"
 
-msgid "9200:[name]男Ｃ[line]「どうする？　このくらいにしとく？」[%p]"
+msgid "9200:[name]男Ｃ[line]「どうする？\u3000このくらいにしとく？」[%p]"
 msgstr "9200:[name]男Ｃ[line]What do we do? Leave him?[%p]"
 
 msgid "9300:[name]男Ａ[line]「もうちょっと痛めつけといた方がいいんじゃね？」[%p]"
@@ -342,6 +342,6 @@ msgstr "10900:[name]男Ａ[line]Aah! W-What is that? Hey, s-stop![%p]"
 msgid "11000:[name]男Ａ[line]「や、やめて……やだ……」[%p]"
 msgstr "11000:[name]男Ａ[line]Stop... No![%p]"
 
-msgid "11100:[name]男Ａ[line]「ごばっ！　ぐがっ！　あ、ごぽっ……う、う……」[%p]"
+msgid "11100:[name]男Ａ[line]「ごばっ！\u3000ぐがっ！\u3000あ、ごぽっ……う、う……」[%p]"
 msgstr "11100:[name]男Ａ[line]Gbwah! Gah...! Aagh....[%p]"
 

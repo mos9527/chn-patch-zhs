@@ -96,7 +96,7 @@ msgstr "2700:I hadn't been able to help her... but here I was, too gloomy to eve
 msgid "2800:ホント、最低の兄だ……。[%p]"
 msgstr "2800:I was a really awful big brother.[%p]"
 
-msgid "2900:[name]梨深[line]「ねえ、タク？　おーい、もしもーし？」[%p]"
+msgid "2900:[name]梨深[line]「ねえ、タク？\u3000おーい、もしもーし？」[%p]"
 msgstr "2900:[name]梨深[line]Hey, Taku? Hello? Hello?[%p]"
 
 msgid "3000:[name]梨深[line]「怒ってるならそう言ってよ。無視されるのって、けっこう……傷ついちゃうな……」[%p]"
@@ -123,7 +123,7 @@ msgstr "3600:She poked a finger into my cheek and pushed.[%p]"
 msgid "3700:少し迷ってから、うなずいてみる。すると人差し指で頬をグリグリと突っつかれた。"
 msgstr "3700:I hesitated a moment before nodding. She poked a finger into my cheek and pushed."
 
-msgid "3800:[name]梨深[line]「ビシィッ！　てっきり無視されたかと思ったよー」[%p]"
+msgid "3800:[name]梨深[line]「ビシィッ！\u3000てっきり無視されたかと思ったよー」[%p]"
 msgstr "3800:[name]梨深[line]Snap! I thought you were ignoring me![%p]"
 
 msgid "3900:[name]梨深[line]「まぎらわしいことしない！」[%p]"
@@ -138,7 +138,7 @@ msgstr "4100:[name]梨深[line]You okay?[%p]"
 msgid "4200:ようやくグリグリをやめた梨深が、いつもの言葉をつぶやく。[linebreak]そう、いつも、梨深はその言葉で僕のことを案じてくれる。[%p]"
 msgstr "4200:Rimi whispered, finally pulling back her hand. Yeah. That was always what she said when she was worried about me.[%p]"
 
-msgid "4300:[name]梨深[line]「お昼ぐらいから、顔色よくないよ？　元気もないみたいだし」[%p]"
+msgid "4300:[name]梨深[line]「お昼ぐらいから、顔色よくないよ？\u3000元気もないみたいだし」[%p]"
 msgstr "4300:[name]梨深[line]You've been kind of pale since lunchtime. You seem kind of down today.[%p]"
 
 msgid "4400:[name]梨深[line]「もしかして誰かにひどいこと言われた？」[%p]"
@@ -201,7 +201,7 @@ msgstr "6200:I sighed and turned on the computer.[%p]"
 msgid "6300:そんなに言うなら掃除してくれればいいのに……。ため息をつきながら、ＰＣの電源を入れる。"
 msgstr "6300:If it's that bad, then you clean it. I sighed and turned on the computer."
 
-msgid "6400:[name]梨深[line]「ちょっとちょっとー、帰ってくるなりパソコン？　友達が来てるんだから、少しはおもてなししてあげようっていう気持ちにはならないのかなあ？」[%p]"
+msgid "6400:[name]梨深[line]「ちょっとちょっとー、帰ってくるなりパソコン？\u3000友達が来てるんだから、少しはおもてなししてあげようっていう気持ちにはならないのかなあ？」[%p]"
 msgstr "6400:[name]梨深[line]Hey! Are you turning on your computer the minute you walk in the door? You've got a friend over. Why don't you offer her something to drink or something?[%p]"
 
 msgid "6500:[name]梨深[line]「ねえ、お話、しようよ」[%p]"

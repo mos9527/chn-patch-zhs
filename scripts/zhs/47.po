@@ -18,7 +18,7 @@ msgstr "100:[name]日直[line]Stand![%p]"
 msgid "200:[name]日直[line]「礼」[%p]"
 msgstr "200:[name]日直[line]Bow![%p]"
 
-msgid "300:数学の教師――あの先生、なんて名前だったっけ？　まあどうでもいいや――が教室から出て行くと、これでようやく今日のすべての授業が終了した。[%p]"
+msgid "300:数学の教師――あの先生、なんて名前だったっけ？\u3000まあどうでもいいや――が教室から出て行くと、これでようやく今日のすべての授業が終了した。[%p]"
 msgstr "300:The math teacher... what was their name again? Well, it didn't matter... left the room, and the school day came to an end.[%p]"
 
 msgid "400:みんなは、これからどこかへ寄っていく相談をしたり、部活がある生徒は同じ部員同士で集まってそれぞれ部室へ向かい、さっさと帰り支度を始めるヤツも多い。[%p]"
@@ -60,13 +60,13 @@ msgstr "1500:Yeah, that was the way. She was in a different grade than me, anywa
 msgid "1600:そう覚悟を決めて立ち上がった。[%p]"
 msgstr "1600:I made my decision and stood up.[%p]"
 
-msgid "1700:[name]三住[line]「タク！　なにしてんだ？」[%p]"
+msgid "1700:[name]三住[line]「タク！\u3000なにしてんだ？」[%p]"
 msgstr "1700:[name]三住[line]Taku! What are you up to?[%p]"
 
 msgid "1800:背中を思い切り叩かれた。[linebreak]誰の仕業かは、顔を見なくても分かった。[linebreak]クラスで僕に話しかけてくる物好きは、三住くんしかいない。[%p]"
 msgstr "1800:Someone slapped me on the back, hard. I didn't need to turn around to see who it was. The only person in the class weird enough to talk to me was Misumi.[%p]"
 
-msgid "1900:[name]三住[line]「お前、帰らないのか？　いつもならチャイムが鳴ると同時に消えるのによ。俺、密かに“拓巳の音速直帰”って名付けてたんだぜ？」[%p]"
+msgid "1900:[name]三住[line]「お前、帰らないのか？\u3000いつもならチャイムが鳴ると同時に消えるのによ。俺、密かに“拓巳の音速直帰”って名付けてたんだぜ？」[%p]"
 msgstr "1900:[name]三住[line]You're not going home? You usually disappear the second the bell rings. I've even got a name for it! “Takumi's Sonic Boom Dash.”[%p]"
 
 msgid "2000:[name]拓巳[line]「も、もう、帰るよ……」[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:Don't forget, Takumi. Your goal is to stand out at school as little
 msgid "3100:[name]拓巳[line]「別に、誰も待ってないよ……」[%p]"
 msgstr "3100:[name]拓巳[line]I-I'm not waiting for anybody.[%p]"
 
-msgid "3200:[name]三住[line]「そうかあ？　だったら今の間はなんだよ？」[%p]"
+msgid "3200:[name]三住[line]「そうかあ？\u3000だったら今の間はなんだよ？」[%p]"
 msgstr "3200:[name]三住[line]Yeah? Then what was that pause?[%p]"
 
 msgid "3300:[name]拓巳[line]「そ、それは……」[%p]"
@@ -126,7 +126,7 @@ msgstr "3700:I turned toward the voice, feeling sheer terror. Yua was standing t
 msgid "3800:なんてことだ……。三住くんのせいで逃げるタイミングを失っちゃった……。[%p]"
 msgstr "3800:Oh no... Thanks to Misumi, I'd lost my chance to run away.[%p]"
 
-msgid "3900:[name]三住[line]「ちょっ、おい、な、なんだありゃ！？　どういうことだ！？」[%p]"
+msgid "3900:[name]三住[line]「ちょっ、おい、な、なんだありゃ！？\u3000どういうことだ！？」[%p]"
 msgstr "3900:[name]三住[line]Hey, what? What's going on? What's happening here?[%p]"
 
 msgid "4000:三住くんが珍しく動揺してあたふたしている。[linebreak]僕の肩に腕を回してきて、据わった目を向けてくる。[%p]"
@@ -153,7 +153,7 @@ msgstr "4600:[name]三住[line]You're a hikikomori. Where did you meet a girl th
 msgid "4700:[name]拓巳[line]「き、昨日、急に付きまとわれて……」[%p]"
 msgstr "4700:[name]拓巳[line]S-She started following me yesterday.[%p]"
 
-msgid "4800:[name]三住[line]「そりゃつまりアレか？[linebreak]逆ナンされたってことか？　ええ、このこの！」[%p]"
+msgid "4800:[name]三住[line]「そりゃつまりアレか？[linebreak]逆ナンされたってことか？\u3000ええ、このこの！」[%p]"
 msgstr "4800:[name]三住[line]So, what? She asked you out, not the other way around? You lucky dog![%p]"
 
 msgid "4900:顎をつかまれてガクガクとされる。[linebreak]それでようやく、三住くんは僕を解放した。[%p]"
@@ -258,7 +258,7 @@ msgstr "8100:[name]拓巳[line]Huh? Y-Yeah.[%p]"
 msgid "8200:[name]優愛[line]「わたし、１ヵ所だけいまいちよく分からないところがあったんですけど」[%p]"
 msgstr "8200:[name]優愛[line]There was one part I didn't really get.[%p]"
 
-msgid "8300:[name]優愛[line]「ススムくんが、星来ちゃんのピンチに駆けつけてきて、助けてくれますよね？　でもどうしてススムくんは、星来ちゃんが危ないって分かったのかなあって」[%p]"
+msgid "8300:[name]優愛[line]「ススムくんが、星来ちゃんのピンチに駆けつけてきて、助けてくれますよね？\u3000でもどうしてススムくんは、星来ちゃんが危ないって分かったのかなあって」[%p]"
 msgstr "8300:[name]優愛[line]Susumu came to save Seira when she was in trouble, right? But how did Susumu know that she was in danger?[%p]"
 
 msgid "8400:[name]拓巳[line]「あ、あれは、えっと、先週の回に伏線があったんだ。星来のケータイが鳴ってるシーンが、一瞬だけ挿入されてて、着信表示でススムの名前が、出てる……」[%p]"
@@ -273,7 +273,7 @@ msgstr "8600:[name]優愛[line]Yeah, I remember that scene.[%p]"
 msgid "8700:[name]拓巳[line]「ヤマタクはそういう細かい伏線をあちこちに張るのが好きなんだ。金ゴルでも似たようなことやってた」[%p]"
 msgstr "8700:[name]拓巳[line]Yamataku loves putting in little foreshadowing bits like that. He did the same thing in Golden Goal.[%p]"
 
-msgid "8800:[name]優愛[line]「ヤマタク？　金ゴル？」[%p]"
+msgid "8800:[name]優愛[line]「ヤマタク？\u3000金ゴル？」[%p]"
 msgstr "8800:[name]優愛[line]Yamataku? Golden Goal?[%p]"
 
 msgid "8900:[name]拓巳[line]「ヤ、ヤマタクっていうのは、ブラチューの監督の愛称だよ。で、ヤマタクがブラチューの前に監督やってたアニメが金ゴル」[%p]"

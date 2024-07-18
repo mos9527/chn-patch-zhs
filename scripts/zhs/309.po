@@ -201,7 +201,7 @@ msgstr "6200:[name]タクミ[line]He didn't wake up. Now, there's nothing I can 
 msgid "6300:[name]タクミ[line]「だからせめて、僕の最期の妄想を、君に」[%p]"
 msgstr "6300:[name]タクミ[line]But at least... I can give you my final delusion.[%p]"
 
-msgid "6400:[name]梨深[line]「な、なに言ってるの！？　あなたはそんなことしなくても――」[%p]"
+msgid "6400:[name]梨深[line]「な、なに言ってるの！？\u3000あなたはそんなことしなくても――」[%p]"
 msgstr "6400:[name]梨深[line]W-What are you talking about? You don't need to—[%p]"
 
 msgid "6500:梨深は、この場にいない相手に向かって叫んだ。[%p]"
@@ -339,7 +339,7 @@ msgstr "10800:It wasn't a cross. It was a stake. The same as the cross-shaped st
 msgid "10900:野呂瀬はそれを見てせせら笑う。[%p]"
 msgstr "10900:Norose chuckled as he looked at it.[%p]"
 
-msgid "11000:[name]野呂瀬[line]「私を殺す？　そのような玩具でですか？」[%p]"
+msgid "11000:[name]野呂瀬[line]「私を殺す？\u3000そのような玩具でですか？」[%p]"
 msgstr "11000:[name]野呂瀬[line]Kill me? With that toy?[%p]"
 
 msgid "11100:[name]野呂瀬[line]「ずいぶんと、ナメられたものですね」[%p]"
@@ -387,7 +387,7 @@ msgstr "12400:[name]梨深[line]Gaah... Aahhh...[%p]"
 msgid "12500:剣の先端がすでに血まみれになっている梨深の身をさらに抉り、深く食い込んでいく。それはまるで昆虫に虫ピンを刺しているかのようだった。[%p]"
 msgstr "12500:The tip of the blade dug even deeper into her bloody body. It was like he was pinning an insect to a block.[%p]"
 
-msgid "12600:[name]野呂瀬[line]「それで、私を殺すと言いましたか？　それとも私の聞き間違いでしょうか？」[%p]"
+msgid "12600:[name]野呂瀬[line]「それで、私を殺すと言いましたか？\u3000それとも私の聞き間違いでしょうか？」[%p]"
 msgstr "12600:[name]野呂瀬[line]So, you said you were going to kill me? Or did I hear you wrong?[%p]"
 
 msgid "12700:[name]梨深[line]「はあっ、はあっ、ぐすっ、はあ、うぅ、く……っ」[%p]"

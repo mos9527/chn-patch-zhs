@@ -33,7 +33,7 @@ msgstr "600:Yua appeared, holding a tray in one hand. She sat across from me and
 msgid "700:[name]美愛[line]「うん、待った」[%p]"
 msgstr "700:[name]美愛[line]Yeah, I did.[%p]"
 
-msgid "800:[name]優愛[line]「５分くらい、おまけしてほしいな。あ、美愛ちゃんもチキンバーガー？　わたしもだよ」[%p]"
+msgid "800:[name]優愛[line]「５分くらい、おまけしてほしいな。あ、美愛ちゃんもチキンバーガー？\u3000わたしもだよ」[%p]"
 msgstr "800:[name]優愛[line]Jeez, I wasn't even five minutes late. Oh, you got a chicken sandwich? Me too.[%p]"
 
 msgid "900:そう言って、トレーに置かれたチキンバーガーを指し示す。[linebreak]双子なんだから、好みが似るのは当然。いちいち確認しなくたっていいのに、優愛ちゃんは嬉しそう。[%p]"
@@ -45,7 +45,7 @@ msgstr "1000:[name]優愛[line]This is the first time we've ever hung out like t
 msgid "1100:わたしは通ってる学校が渋谷じゃないし、家に帰ればいつでも会えるんだから、わざわざ学校帰りに渋谷で会う機会なんてない。ただそれだけ。[%p]"
 msgstr "1100:My school wasn't in Shibuya, and I could always see her at home. I'd never had a reason to come to Shibuya after school to see her.[%p]"
 
-msgid "1200:[name]優愛[line]「わたしにお願いしたいことって、なに？　わたしにできることなら、なんでも言ってね」[%p]"
+msgid "1200:[name]優愛[line]「わたしにお願いしたいことって、なに？\u3000わたしにできることなら、なんでも言ってね」[%p]"
 msgstr "1200:[name]優愛[line]So, what did you want me to do? I'll do anything I can.[%p]"
 
 msgid "1300:わたしはチキンバーガーを平らげ、アイスティでのどを潤わせてから、優愛ちゃんの方へ身を乗り出した。[%p]"
@@ -84,7 +84,7 @@ msgstr "2300:[name]優愛[line]You are pretty shy, Mia.[%p]"
 msgid "2400:[name]美愛[line]「人見知りじゃない。人に合わすのが苦手なだけ」[%p]"
 msgstr "2400:[name]美愛[line]I'm not shy. I just have trouble getting along with people.[%p]"
 
-msgid "2500:[name]優愛[line]「うふふ、そういうことにしておいてあげる。で、大丈夫なの？　初めての人たち相手に、うまく話せそう？」[%p]"
+msgid "2500:[name]優愛[line]「うふふ、そういうことにしておいてあげる。で、大丈夫なの？\u3000初めての人たち相手に、うまく話せそう？」[%p]"
 msgstr "2500:[name]優愛[line]Heheh. Sure, if you say so. So, are you going to be okay? Do you think you can talk to them even though it's your first time meeting them?[%p]"
 
 msgid "2600:[name]美愛[line]「本当は、会おうと思ってたんだけど……今になって、やっぱり……」[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:Yua was sharp. She usually knew what I was going to say before I sa
 msgid "3100:[name]美愛[line]「……そういうこと。お願い、していい？」[%p]"
 msgstr "3100:[name]美愛[line]Yeah. Can you help me out?[%p]"
 
-msgid "3200:[name]優愛[line]「別にいいけど、美愛ちゃんはそれでいいの？　友達を作れるチャンスなのに」[%p]"
+msgid "3200:[name]優愛[line]「別にいいけど、美愛ちゃんはそれでいいの？\u3000友達を作れるチャンスなのに」[%p]"
 msgstr "3200:[name]優愛[line]Sure, but are you sure about this? This is your chance to make some friends.[%p]"
 
 msgid "3300:[name]美愛[line]「そんな、小学生みたいな扱いしないでよ。別に、友達を作りたいわけじゃないし」[%p]"
@@ -129,7 +129,7 @@ msgstr "3800:[name]優愛[line]If we're going to do it, it'll be more fun to go 
 msgid "3900:[name]美愛[line]「なんでそんなにはしゃいでるの？」[%p]"
 msgstr "3900:[name]美愛[line]Why are you so excited?[%p]"
 
-msgid "4000:[name]優愛[line]「美愛ちゃんから頼み事されるなんて、滅多にないでしょ？　だから、嬉しいの」[%p]"
+msgid "4000:[name]優愛[line]「美愛ちゃんから頼み事されるなんて、滅多にないでしょ？\u3000だから、嬉しいの」[%p]"
 msgstr "4000:[name]優愛[line]You never ask me to do anything for you. So, I'm happy.[%p]"
 
 msgid "4100:[name]美愛[line]「優愛ちゃん、バカみたい」[%p]"
@@ -156,13 +156,13 @@ msgstr "4700:[name]優愛[line]Oh, but with the glasses, it's obvious. I can jus
 msgid "4800:[name]美愛[line]「初対面の相手なんだから、ここまでしなくてもよかったのに」[%p]"
 msgstr "4800:[name]美愛[line]I've never met these people before. You didn't have to go this far.[%p]"
 
-msgid "4900:[name]優愛[line]「もう、まだ言ってるし。待ち合わせの時間、そろそろなんでしょう？　それまで打ち合わせしておこうよ。わたし、アニメのことちっとも分からないけど、なにを話せばいいの？」[%p]"
+msgid "4900:[name]優愛[line]「もう、まだ言ってるし。待ち合わせの時間、そろそろなんでしょう？\u3000それまで打ち合わせしておこうよ。わたし、アニメのことちっとも分からないけど、なにを話せばいいの？」[%p]"
 msgstr "4900:[name]優愛[line]Aw, are you still saying that? It's almost time for the meet-up, right? Let's go over the plan with the rest of the time we've got. I don't know anything about anime. What am I supposed to talk about?[%p]"
 
 msgid "5000:[name]美愛[line]「適当に相づち打ってればいいよ。どうせ１回こっきりしか会わない人たちなんだし」[%p]"
 msgstr "5000:[name]美愛[line]Just play along with whatever they say. I'm never going to see any of these people again.[%p]"
 
-msgid "5100:[name]優愛[line]「そんなことないよ。この出会いを通して、お友達付き合いすることになるかもしれないでしょう？　もしかしたら、カレシもできちゃうかも」[%p]"
+msgid "5100:[name]優愛[line]「そんなことないよ。この出会いを通して、お友達付き合いすることになるかもしれないでしょう？\u3000もしかしたら、カレシもできちゃうかも」[%p]"
 msgstr "5100:[name]優愛[line]That's not true. You might make some friends, right? You might even get a boyfriend.[%p]"
 
 msgid "5200:[name]美愛[line]「興味ない」[%p]"

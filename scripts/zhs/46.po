@@ -264,7 +264,7 @@ msgstr "8300:[name]拓巳[line]D-Don't touch the figures.[%p]"
 msgid "8400:[name]優愛[line]「は、はい。いえ、違うんです……」[%p]"
 msgstr "8400:[name]優愛[line]O-Okay. No, that's not it.[%p]"
 
-msgid "8500:[name]優愛[line]「その……ブラチューの同人誌、って言うんですか？　それが、落ちてまして……ちょっと中身を見てみたら……」[%p]"
+msgid "8500:[name]優愛[line]「その……ブラチューの同人誌、って言うんですか？\u3000それが、落ちてまして……ちょっと中身を見てみたら……」[%p]"
 msgstr "8500:[name]優愛[line]Um... there was a Blood Tune... dojinshi, is that what they call it? It was lying on the ground, and I looked inside.[%p]"
 
 msgid "8600:ブラチューの同人誌……。[linebreak]エ、エロいやつだ……。[%p]"
@@ -294,7 +294,7 @@ msgstr "9300:I gulped as my body tensed up.[%p]"
 msgid "9400:[name]優愛[line]「さっき言った……フィギュアの予約、一緒に行ってもらえませんか？」[%p]"
 msgstr "9400:[name]優愛[line]Would you go... reserve that figure with me?[%p]"
 
-msgid "9500:[name]拓巳[line]「え？　ええ？」[%p]"
+msgid "9500:[name]拓巳[line]「え？\u3000ええ？」[%p]"
 msgstr "9500:[name]拓巳[line]Huh? Huh?![%p]"
 
 msgid "9600:[name]優愛[line]「わたし、そういう、アニメショップみたいなところって、今まで行ったことなくて……」[%p]"
@@ -462,7 +462,7 @@ msgstr "14900:I reluctantly agreed. Yua looked happy.[%p]"
 msgid "15000:そんな顔をしたって騙されないんだからな。[%p]"
 msgstr "15000:But she couldn't fool me, okay?[%p]"
 
-msgid "15100:[name]優愛[line]「西條くんは何組？　明日、放課後に迎えに行きますよ」[%p]"
+msgid "15100:[name]優愛[line]「西條くんは何組？\u3000明日、放課後に迎えに行きますよ」[%p]"
 msgstr "15100:[name]優愛[line]What class are you in? I'll go there after school ends.[%p]"
 
 msgid "15200:[name]拓巳[line]「……Ｂ組」[%p]"
@@ -510,7 +510,7 @@ msgstr "16500:I felt a grin coming on, but forced myself to stop.[%p]"
 msgid "16600:[name]拓巳[line]「あの女、絶対僕に惚れてる。間違いないね。ふひひ」[%p]"
 msgstr "16600:[name]拓巳[line]She's in love with me. I'm sure of it. Fweheheh![%p]"
 
-msgid "16700:[name]拓巳[line]「ま、付き合うか付き合わないかは僕に選択肢があるわけだし？　あの女を情け容赦なく振ってやるさ」[%p]"
+msgid "16700:[name]拓巳[line]「ま、付き合うか付き合わないかは僕に選択肢があるわけだし？\u3000あの女を情け容赦なく振ってやるさ」[%p]"
 msgstr "16700:[name]拓巳[line]Well, it's up to me whether I actually date her or not, right? I'll just dump her. Brutally and without mercy.[%p]"
 
 msgid "16800:[name]拓巳[line]「“お前は僕の女にふさわしくない。星来よりいい女になって出直してこい。まあ一生無理だけどな。なにしろ星来は永遠の１７歳だからな”みたいな。ふひひひひひひひ」[%p]"

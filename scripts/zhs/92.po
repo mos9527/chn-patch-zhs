@@ -114,13 +114,13 @@ msgstr "3300:Who the hell did she think she was anyway? This was why 3D girls wo
 msgid "3400:[name]七海[line]「別に脅かしてないよ。いつもみたいにおにぃの生存確認しに来てあげたんじゃん。なのにおにぃ、いないんだもん」[%p]"
 msgstr "3400:[name]七海[line]I wasn't trying to scare you. I just came to see if you were alive, like I always do. But you weren't here.[%p]"
 
-msgid "3500:[name]七海[line]「なんでナナが、３０分もおにぃのこと心配しながら待ってなくちゃいけないわけ？　ナナの貴重な時間が無駄に消えてっちゃったじゃん。おにぃのバカ」[%p]"
+msgid "3500:[name]七海[line]「なんでナナが、３０分もおにぃのこと心配しながら待ってなくちゃいけないわけ？\u3000ナナの貴重な時間が無駄に消えてっちゃったじゃん。おにぃのバカ」[%p]"
 msgstr "3500:[name]七海[line]I had to waste thirty minutes standing here worrying about you! I wasted a lot of valuable time because of you. Brother, you jerk.[%p]"
 
 msgid "3600:心配……？[linebreak]こいつが僕のことを心配してたって？[linebreak]そんな見え透いた嘘に騙されるもんか。[%p]"
 msgstr "3600:Worry? She was worried about me? I refused to be fooled by such an obvious lie.[%p]"
 
-msgid "3700:[name]七海[line]「で、どこ行ってたの？　出かけるなんて珍しいじゃん。ケータイにかけても繋がんないし」[%p]"
+msgid "3700:[name]七海[line]「で、どこ行ってたの？\u3000出かけるなんて珍しいじゃん。ケータイにかけても繋がんないし」[%p]"
 msgstr "3700:[name]七海[line]So, where did you go? You almost never leave your room. And you weren't picking up your phone, either.[%p]"
 
 msgid "3800:ケータイはベースに置きっぱなしだ。[linebreak]どうせ持ち歩いてたって誰からもかかってこないんだから意味がない。[%p]"
@@ -135,7 +135,7 @@ msgstr "4000:[name]七海[line]Did you buy it just now?[%p]"
 msgid "4100:七海は不思議そうに剣を眺めている。[%p]"
 msgstr "4100:She was staring at the sword, looking a little confused.[%p]"
 
-msgid "4200:[name]七海[line]「あ、分かった。アニメのおもちゃかなんかでしょ？　ホント、おにぃってオタクさんだね」[%p]"
+msgid "4200:[name]七海[line]「あ、分かった。アニメのおもちゃかなんかでしょ？\u3000ホント、おにぃってオタクさんだね」[%p]"
 msgstr "4200:[name]七海[line]Oh, I get it. It's some kind of anime toy, right? You really are an otaku.[%p]"
 
 msgid "4300:[name]七海[line]「しかもこのおもちゃ、ちっとも似合ってないよ」[%p]"
@@ -150,7 +150,7 @@ msgstr "4500:[name]拓巳[line]...[%p]"
 msgid "4600:僕は七海を無視してコンテナハウスの扉にかけておいた南京錠を外すと、中に入ろうとした。[%p]"
 msgstr "4600:I ignored Nanami and opened the padlock on my room, then tried to head inside.[%p]"
 
-msgid "4700:[name]七海[line]「ちょ、ちょっと！　無視すんなー！」[%p]"
+msgid "4700:[name]七海[line]「ちょ、ちょっと！\u3000無視すんなー！」[%p]"
 msgstr "4700:[name]七海[line]Hey! Don't ignore me![%p]"
 
 msgid "4800:[name]拓巳[line]「か、帰れ……」[%p]"
@@ -174,7 +174,7 @@ msgstr "5300:She pouted at me.[%p]"
 msgid "5400:[name]拓巳[line]「お土産……？」[%p]"
 msgstr "5400:[name]拓巳[line]A present?[%p]"
 
-msgid "5500:[name]七海[line]「そ！　お母さんが持ってけって。ほら」[%p]"
+msgid "5500:[name]七海[line]「そ！\u3000お母さんが持ってけって。ほら」[%p]"
 msgstr "5500:[name]七海[line]Yep! Mom said to bring it to you. Here.[%p]"
 
 msgid "5600:七海が差し出してきたのは、みかんだった。[linebreak]赤いネットの中に、１０個近く入っている。[%p]"
@@ -192,7 +192,7 @@ msgstr "5900:[name]七海[line]Anyway, I want to rest a little before I go, so I
 msgid "6000:[name]拓巳[line]「帰れ……」[%p]"
 msgstr "6000:[name]拓巳[line]Go home.[%p]"
 
-msgid "6100:[name]七海[line]「もー！　妹がお土産持ってきてしかも一緒に食べてあげるって言ってるんだよ！？　もっと喜びなよ！」[%p]"
+msgid "6100:[name]七海[line]「もー！\u3000妹がお土産持ってきてしかも一緒に食べてあげるって言ってるんだよ！？\u3000もっと喜びなよ！」[%p]"
 msgstr "6100:[name]七海[line]I can't believe you! Your little sister is here with a present, and she's offering to eat it with you! You should be happy![%p]"
 
 msgid "6200:七海と一緒にみかんを食べることのどこに喜ぶ要素があるって言うんだ。[%p]"
@@ -204,7 +204,7 @@ msgstr "6300:She probably just wanted to eat some herself. She always was a big 
 msgid "6400:七海は空気も読まずに、先にベースの中に入っていった。仕方なく僕も続く。[%p]"
 msgstr "6400:Nanami went inside the Base, ignoring my protests. I had no choice but to follow.[%p]"
 
-msgid "6500:[name]七海[line]「お茶ある？　あったかいのがいいな」[%p]"
+msgid "6500:[name]七海[line]「お茶ある？\u3000あったかいのがいいな」[%p]"
 msgstr "6500:[name]七海[line]Got any tea? I'd like something hot.[%p]"
 
 msgid "6600:あるわけないだろ……。僕は基本的にコーラしか飲まないんだから。[%p]"
@@ -213,7 +213,7 @@ msgstr "6600:Of course not. I only drink soda.[%p]"
 msgid "6700:七海はソファに座って、さっそくみかんを取り出し始める。僕はため息をつくと、ディソードをＰＣデスクの横に立て掛けた。ポケットに入れてあったバングルは不要だからポイ。[%p]"
 msgstr "6700:Nanami sat down on the sofa and took out an orange. I sighed and set the Di-Sword up against my computer desk. I didn't need the bangle, so I tossed it off into a corner.[%p]"
 
-msgid "6800:[name]七海[line]「あれ？　それなに？」[%p]"
+msgid "6800:[name]七海[line]「あれ？\u3000それなに？」[%p]"
 msgstr "6800:[name]七海[line]Huh? What's that?[%p]"
 
 msgid "6900:僕が床に放り捨てたバングルを、七海がめざとく見つけて拾い上げた。[%p]"
@@ -222,7 +222,7 @@ msgstr "6900:Nanami quickly picked it up off the floor.[%p]"
 msgid "7000:[name]七海[line]「へえ〜、かわいいバングルじゃん」[%p]"
 msgstr "7000:[name]七海[line]Hey, this is cute![%p]"
 
-msgid "7100:[name]七海[line]「これも買ってきたの？　おにぃにしてはいいセンス」[%p]"
+msgid "7100:[name]七海[line]「これも買ってきたの？\u3000おにぃにしてはいいセンス」[%p]"
 msgstr "7100:[name]七海[line]Did you buy this, too? It's actually pretty nice, particularly for something you bought.[%p]"
 
 msgid "7200:かわいい、だって？[linebreak]どこがだよ。どう見ても５００円くらいで買える安物じゃないか。[linebreak]七海ってセンス悪すぎだな。[%p]"
@@ -258,13 +258,13 @@ msgstr "8100:It's not a present, it's just some junk you want…[%p]"
 msgid "8200:[name]拓巳[line]「か、勝手に持ってけば……」[%p]"
 msgstr "8200:[name]拓巳[line]F-Fine, take it.[%p]"
 
-msgid "8300:[name]七海[line]「ホント！？　やったー」[%p]"
+msgid "8300:[name]七海[line]「ホント！？\u3000やったー」[%p]"
 msgstr "8300:[name]七海[line]Really? Yay![%p]"
 
 msgid "8400:現金なヤツめ。[linebreak]僕が許可するなり、さっそくバングルを腕にはめている。そんな安物で喜べるなんて安っぽい妹だ、ふひひ。[%p]"
 msgstr "8400:She was certainly easy to please. As soon as I gave the okay, she quickly put the bangle on her arm. Such a cheap little sister, enjoying such a cheap gift. Fweheheh.[%p]"
 
-msgid "8500:[name]七海[line]「へっへ〜。おにぃ、どう？　似合う？」[%p]"
+msgid "8500:[name]七海[line]「へっへ〜。おにぃ、どう？\u3000似合う？」[%p]"
 msgstr "8500:[name]七海[line]Heheh. Well, brother? Does it look good on me?[%p]"
 
 msgid "8600:[name]拓巳[line]「ぜ、全然……」[%p]"
@@ -330,7 +330,7 @@ msgstr "10500:[name]七海[line]Grr![%p]"
 msgid "10600:七海は肩を怒らせ、僕をじっとにらみつけてくる。その瞳がやがてじわじわと潤んできて――[%p]"
 msgstr "10600:She glared at me, shoulders heaving with rage. Eventually, her eyes started to tear up.[%p]"
 
-msgid "10700:[name]七海[line]「分かったよ！　そんなに邪魔なら帰るっ！」[%p]"
+msgid "10700:[name]七海[line]「分かったよ！\u3000そんなに邪魔なら帰るっ！」[%p]"
 msgstr "10700:[name]七海[line]Fine! If I'm really bothering you that much, then I'll leave![%p]"
 
 msgid "10800:[name]拓巳[line]「ああ、さっさと、頼む……」[%p]"
@@ -342,7 +342,7 @@ msgstr "10900:[name]七海[line]Waaah![%p]"
 msgid "11000:[name]七海[line]「おにぃのバカ！[linebreak]おにぃなんて、みかんの皮で目つぶし食らって失明しちゃえー！」[%p]"
 msgstr "11000:[name]七海[line]Brother, you jerk! I hope you get an orange peel in your eye and go blind![%p]"
 
-msgid "11100:[name]七海[line]「あとバングルは返さないかんね！　バーカ！」[%p]"
+msgid "11100:[name]七海[line]「あとバングルは返さないかんね！\u3000バーカ！」[%p]"
 msgstr "11100:[name]七海[line]And I'm not giving back this bangle, either! Jerk![%p]"
 
 msgid "11200:室内に響き渡るキンキンした声で叫ぶと、七海は自分のカバンを持ってものすごい勢いで飛び出していった。[%p]"

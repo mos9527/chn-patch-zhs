@@ -159,7 +159,7 @@ msgstr "4800:[name]あやせ[line]No.[%p]"
 msgid "4900:[name]あやせ[line]「時間がないの」[%p]"
 msgstr "4900:[name]あやせ[line]There's no time.[%p]"
 
-msgid "5000:[name]百瀬[line]「もしかしたら、他の、ええと、黒騎士、だったかしら？　その人たちだって避難場所にいるかもしれないでしょう？」[%p]"
+msgid "5000:[name]百瀬[line]「もしかしたら、他の、ええと、黒騎士、だったかしら？\u3000その人たちだって避難場所にいるかもしれないでしょう？」[%p]"
 msgstr "5000:[name]百瀬[line]You don't think the other, um... Black Knights, was it? You don't think they're at the evacuation shelters?[%p]"
 
 msgid "5100:[name]優愛[line]「そ、そうですよ、岸本さん、あの、わたしも、避難場所に、行くべきだと……」[%p]"
@@ -174,7 +174,7 @@ msgstr "5300:She was staring down a street on Dogenzaka Hill, which was now comp
 msgid "5400:[name]あやせ[line]「いた」[%p]"
 msgstr "5400:[name]あやせ[line]There.[%p]"
 
-msgid "5500:[name]百瀬[line]「ええ？　いたって、なにが……」[%p]"
+msgid "5500:[name]百瀬[line]「ええ？\u3000いたって、なにが……」[%p]"
 msgstr "5500:[name]百瀬[line]Huh? What's there?[%p]"
 
 msgid "5600:あやせの視線の先に、駅の方から歩いてくる、ひとりの少女の姿。[%p]"
@@ -195,7 +195,7 @@ msgstr "6000:Momose ran towards the girl, Nanami Nishijo, her plump body shaking
 msgid "6100:七海の抱えているディソードが気になったものの、今は詮索することはやめ、その小柄な身体を支える。[%p]"
 msgstr "6100:She was concerned about the Di-Sword in Nanami's hands, but for now, she was more concerned about helping her. She grabbed her tiny body and helped her stay upright.[%p]"
 
-msgid "6200:[name]百瀬[line]「大丈夫？　よく頑張ったわね、今、病院に連れていってあげるから。[linebreak]気をしっかり持つのよ」[%p]"
+msgid "6200:[name]百瀬[line]「大丈夫？\u3000よく頑張ったわね、今、病院に連れていってあげるから。[linebreak]気をしっかり持つのよ」[%p]"
 msgstr "6200:[name]百瀬[line]Are you okay? You did a great job getting this far. I'll make sure you get to a hospital. So just hang in there.[%p]"
 
 msgid "6300:励ましの言葉をかける百瀬に、七海はぼんやりとした目を向けた。[%p]"
@@ -204,7 +204,7 @@ msgstr "6300:Nanami just looked at her with vacant eyes.[%p]"
 msgid "6400:[name]七海[line]「バ……グル……」[%p]"
 msgstr "6400:[name]七海[line]Ban...gle...[%p]"
 
-msgid "6500:[name]百瀬[line]「え？　なんて言ったの？」[%p]"
+msgid "6500:[name]百瀬[line]「え？\u3000なんて言ったの？」[%p]"
 msgstr "6500:[name]百瀬[line]Huh? What did you say?[%p]"
 
 msgid "6600:[name]七海[line]「ナナの、バングル……どこ？」[%p]"
@@ -300,7 +300,7 @@ msgstr "9500:[name]あやせ[line]...[%p]"
 msgid "9600:[name]あやせ[line]「咲畑梨深も、７人の黒騎士のひとりよ」[%p]"
 msgstr "9600:[name]あやせ[line]Rimi Sakihata is one of the seven Black Knights.[%p]"
 
-msgid "9700:[name]優愛[line]「え？　そ、そう、なんですか？」[%p]"
+msgid "9700:[name]優愛[line]「え？\u3000そ、そう、なんですか？」[%p]"
 msgstr "9700:[name]優愛[line]Huh? I-Is that right?[%p]"
 
 msgid "9800:あやせは、昨日の病院での出来事を思い出した。[linebreak]そこで話しかけてきた梨深の、申し訳なさそうな声がよみがえる。[%p]"
@@ -315,7 +315,7 @@ msgstr "10000:[name]梨深[line]Leave Taku alone.[%p]"
 msgid "10100:[name]梨深[line]「目覚めさせたく、ないの」[%p]"
 msgstr "10100:[name]梨深[line]I don't want him to wake up.[%p]"
 
-msgid "10200:[name]あやせ[line]「キミには自覚がないの？　黒騎士のひとりとしての」[%p]"
+msgid "10200:[name]あやせ[line]「キミには自覚がないの？\u3000黒騎士のひとりとしての」[%p]"
 msgstr "10200:[name]あやせ[line]Don't you know who you are? What your role is, as a Black Knight?[%p]"
 
 msgid "10300:[name]梨深[line]「あたしが、ひとりでなんとかするから」[%p]"

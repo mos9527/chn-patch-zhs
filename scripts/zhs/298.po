@@ -36,7 +36,7 @@ msgstr "700:As nocturnal as I was, though, I couldn't go to sleep as early as Na
 msgid "800:まあ、今はとっくに日付も変わっちゃってるけど、僕にとってはそれは“早い時間”なんだ。[linebreak]いつもは、空が白み始めてから寝てるからね。[%p]"
 msgstr "800:Well, it was past midnight, so maybe it wasn't early. But even that was early for me. I always went to sleep around the time the sun started to come up.[%p]"
 
-msgid "900:というわけでソファに座ったまま、こうしてぼんやりしている。[linebreak]七海はもう寝たのかな？　寝息は特に聞こえてこないけど。[%p]"
+msgid "900:というわけでソファに座ったまま、こうしてぼんやりしている。[linebreak]七海はもう寝たのかな？\u3000寝息は特に聞こえてこないけど。[%p]"
 msgstr "900:So here I was, sitting on the sofa, just staring into space. Had Nanami gone to sleep? I couldn't hear the sound of her snoring.[%p]"
 
 msgid "1000:と、そんな僕の考えが伝わったかのように、七海がもぞもぞと寝返りを打ち、顔を出した。[%p]"
@@ -60,7 +60,7 @@ msgstr "1500:[name]七海[line]Um, want to sleep in the bed?[%p]"
 msgid "1600:[name]拓巳[line]「な……！？」[%p]"
 msgstr "1600:[name]拓巳[line]What?[%p]"
 
-msgid "1700:[name]七海[line]「あ、別に、ナナが一緒に寝たいわけじゃないよ？　ほらっ、ダメダメおにぃは、怖くて怖くて１人じゃ寝付けないみたいだから、ホントはイヤだけど、今日だけは特別、ってことで……」[%p]"
+msgid "1700:[name]七海[line]「あ、別に、ナナが一緒に寝たいわけじゃないよ？\u3000ほらっ、ダメダメおにぃは、怖くて怖くて１人じゃ寝付けないみたいだから、ホントはイヤだけど、今日だけは特別、ってことで……」[%p]"
 msgstr "1700:[name]七海[line]Oh, um. It's not like I want to sleep in the same bed as you, okay? But you know, you're such a loser and a scaredy-cat that you probably can't sleep on your own, so you know... just for today...[%p]"
 
 msgid "1800:だんだん、言葉に勢いがなくなっていく。[linebreak]強がってはいるけど、結局のところ七海自身が怖くて眠れないらしい。[%p]"
@@ -144,7 +144,7 @@ msgstr "4300:[name]七海[line]But... I just want you to know... that I don't ha
 msgid "4400:い、いきなりなにを言い出すんだ、こいつは……？[%p]"
 msgstr "4400:W-What was she talking about?[%p]"
 
-msgid "4500:[name]七海[line]「おにぃって、前、入院してたでしょ？　それで――」[%p]"
+msgid "4500:[name]七海[line]「おにぃって、前、入院してたでしょ？\u3000それで――」[%p]"
 msgstr "4500:[name]七海[line]You were in the hospital before, right? And then...[%p]"
 
 msgid "4600:[name]拓巳[line]「に、入院は、してない。通院、してただけだ」[%p]"

@@ -63,7 +63,7 @@ msgstr "1600:At the time, she wasn't mad at him for never being home. But she ha
 msgid "1700:いつもは穏やかな表情を浮かべ、落ち着いた物腰の父が、ひどく興奮した様子で家に帰ってきたのが、６年半ほど前のある日のことだった。[%p]"
 msgstr "1700:Then one day about six and a half years ago, her normally calm and quiet father came home in a flurry of excitement.[%p]"
 
-msgid "1800:[name]セナの父[line]「セナ、父さんは、すごい発見をしたぞ！　これは、ノーベル賞どころの騒ぎじゃない！」[%p]"
+msgid "1800:[name]セナの父[line]「セナ、父さんは、すごい発見をしたぞ！\u3000これは、ノーベル賞どころの騒ぎじゃない！」[%p]"
 msgstr "1800:[name]セナの父[line]Sena, your dad's made a huge discovery! This is bigger than even a Nobel prize![%p]"
 
 msgid "1900:[name]セナ[line]「なにが、そんなにすごいの？」[%p]"
@@ -81,10 +81,10 @@ msgstr "2200:[name]セナの父[line]I've been searching for so long... It wasn'
 msgid "2300:[name]セナの父[line]「だが、この公式があれば、計画は次の段階に進めるんだ」[%p]"
 msgstr "2300:[name]セナの父[line]But with this formula, we can go to the next stage.[%p]"
 
-msgid "2400:[name]セナの父[line]「まさか、あんなところで見つけるなんて、思いもしなかったよ！　これはまさに、神光の救いだね」[%p]"
+msgid "2400:[name]セナの父[line]「まさか、あんなところで見つけるなんて、思いもしなかったよ！\u3000これはまさに、神光の救いだね」[%p]"
 msgstr "2400:[name]セナの父[line]I can't believe where I found it, too! It must be the guidance of the Divine Light![%p]"
 
-msgid "2500:[name]セナの父[line]「東京駅だ。たまたま通りかかったんだ。本当に偶然だった。セナは東京駅に行ったことはあったかな？　やたら広いだろう、あの駅の構内は」[%p]"
+msgid "2500:[name]セナの父[line]「東京駅だ。たまたま通りかかったんだ。本当に偶然だった。セナは東京駅に行ったことはあったかな？\u3000やたら広いだろう、あの駅の構内は」[%p]"
 msgstr "2500:[name]セナの父[line]Tokyo Station. I just happened to be passing by. It was a total coincidence. Sena, have you ever been to Tokyo Station? It's really big, you know.[%p]"
 
 msgid "2600:[name]セナの父[line]「その構内の一角に、たくさんの作文が展示されていたんだ。文部省の、全国なんとか作文コンクールとか、そんな名前の展覧会だったよ」[%p]"
@@ -93,7 +93,7 @@ msgstr "2600:[name]セナの父[line]But in one corner, they had a display of a 
 msgid "2700:[name]セナの父[line]「優秀な子供たちの作文が、飾ってあってね」[%p]"
 msgstr "2700:[name]セナの父[line]The winning essays were up on display.[%p]"
 
-msgid "2800:[name]セナの父[line]「セナ、知ってるかい？　もしかして、応募したりしたかい？」[%p]"
+msgid "2800:[name]セナの父[line]「セナ、知ってるかい？\u3000もしかして、応募したりしたかい？」[%p]"
 msgstr "2800:[name]セナの父[line]Sena, did you know about it? Did you maybe apply?[%p]"
 
 msgid "2900:[name]セナ[line]「分かんない。たぶん、知らない」[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:[name]セナの父[line]Well, if you had, I'm sure you would've won
 msgid "3100:[name]セナ[line]「そんなことないよ。私、作文は苦手」[%p]"
 msgstr "3100:[name]セナ[line]No, I'm not good at writing.[%p]"
 
-msgid "3200:[name]セナの父[line]「そうか？　もっと自信を持つべきだと思うがなあ」[%p]"
+msgid "3200:[name]セナの父[line]「そうか？\u3000もっと自信を持つべきだと思うがなあ」[%p]"
 msgstr "3200:[name]セナの父[line]You sure? I think you should be more confident.[%p]"
 
 msgid "3300:[name]セナ[line]「ねえ、作文が、すごい大発見だったんだ？」[%p]"
@@ -138,7 +138,7 @@ msgstr "4100:[name]セナ[line]Can a math problem change the world?[%p]"
 msgid "4200:[name]セナの父[line]「ああ、変えられるよ。父さんの研究はね、世界を変えることなんだ」[%p]"
 msgstr "4200:[name]セナの父[line]Yeah, it sure can. Daddy's research is going to change the world forever.[%p]"
 
-msgid "4300:[name]セナ[line]「ホント？　信じられないなあ」[%p]"
+msgid "4300:[name]セナ[line]「ホント？\u3000信じられないなあ」[%p]"
 msgstr "4300:[name]セナ[line]Really? I don't know if I believe that.[%p]"
 
 msgid "4400:[name]セナの父[line]「いつか、証明してあげるよ。見ていてくれ、セナ」[%p]"

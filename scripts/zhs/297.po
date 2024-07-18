@@ -15,7 +15,7 @@ msgstr "0:After dinner...[%p]"
 msgid "100:[name]拓巳[line]「な、七海、話がある」[%p]"
 msgstr "100:[name]拓巳[line]N-Nanami, I need to talk to you.[%p]"
 
-msgid "200:[name]七海[line]「んー？　なに？」[%p]"
+msgid "200:[name]七海[line]「んー？\u3000なに？」[%p]"
 msgstr "200:[name]七海[line]Hmm? What?[%p]"
 
 msgid "300:七海は、部屋の隅に積み上げてあったマンガ本を読んでいた。[linebreak]顔を上げず、おざなりな感じで返事をしてくる。[%p]"
@@ -24,7 +24,7 @@ msgstr "300:She was reading one of the manga volumes I had piled in the corner o
 msgid "400:[name]拓巳[line]「ま、真面目な話だから、ちゃんと、聞けよ……」[%p]"
 msgstr "400:[name]拓巳[line]T-This is important. L-Listen to me.[%p]"
 
-msgid "500:[name]七海[line]「ど、どうしたの？　急に改まっちゃって」[%p]"
+msgid "500:[name]七海[line]「ど、どうしたの？\u3000急に改まっちゃって」[%p]"
 msgstr "500:[name]七海[line]W-What is it? What's so important?[%p]"
 
 msgid "600:七海は戸惑ったように本を閉じると、姿勢を正した。[%p]"
@@ -48,7 +48,7 @@ msgstr "1100:This wasn't normal.[%p]"
 msgid "1200:七海はなぜそうなったのか、自分自身でも分からないって言ってた。[linebreak]軽い記憶喪失状態だった。[%p]"
 msgstr "1200:Nanami had said she didn't know how she'd ended up like that. She had mild amnesia.[%p]"
 
-msgid "1300:今はどうなんだろう？　快復したんだろうか。[linebreak]目の前にいる七海は、すっかりいつもの七海に戻ってるようだけど……。[%p]"
+msgid "1300:今はどうなんだろう？\u3000快復したんだろうか。[linebreak]目の前にいる七海は、すっかりいつもの七海に戻ってるようだけど……。[%p]"
 msgstr "1300:But what about now? Had she gotten better? The Nanami in front of me sure seemed like the Nanami I knew.[%p]"
 
 msgid "1400:僕の問いかけに、七海はすぐに表情を曇らせて、小さく首を左右に振った。[%p]"
@@ -69,7 +69,7 @@ msgstr "1800:[name]七海[line]I was trying not to think about it, actually. I d
 msgid "1900:[name]七海[line]「おかげで、制服がなくなった理由、ごまかすの大変だったよぉ。えへへ」[%p]"
 msgstr "1900:[name]七海[line]It was really hard to keep her from asking what had happened to my uniform! Ehehe.[%p]"
 
-msgid "2000:やっぱり、病院に連れて行った方がいいのかな。[linebreak]記憶喪失って、何科なんだろう？　精神科？[%p]"
+msgid "2000:やっぱり、病院に連れて行った方がいいのかな。[linebreak]記憶喪失って、何科なんだろう？\u3000精神科？[%p]"
 msgstr "2000:Maybe I should take her to a hospital after all. What kind of doctors handled amnesia? Psychiatrists?[%p]"
 
 msgid "2100:――だとしたら、高科先生に診てもらうのがいいかも。[%p]"

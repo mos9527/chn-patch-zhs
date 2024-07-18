@@ -144,7 +144,7 @@ msgstr "4300:[name]あやせ[line]Mmph...[%p]"
 msgid "4400:と、いきなり快感が激痛に変わった。[linebreak]あやせが僕の指をきつく噛む。[%p]"
 msgstr "4400:Suddenly, the pleasure turned into terrible pain. Ayase bit down hard on my fingertip.[%p]"
 
-msgid "4500:[name]拓巳[line]「い、て、ててて！　やめ、ちょっ……！」[%p]"
+msgid "4500:[name]拓巳[line]「い、て、ててて！\u3000やめ、ちょっ……！」[%p]"
 msgstr "4500:[name]拓巳[line]O-Ow! Stop! Hey![%p]"
 
 msgid "4600:骨ごと噛み千切られるかと思った。[linebreak]それくらいの痛みだった。[%p]"
@@ -192,7 +192,7 @@ msgstr "5900:Ayase finally spoke to him for the first time. But for some reason,
 msgid "6000:[name]あやせ[line]「逃がさないわよ」[%p]"
 msgstr "6000:[name]あやせ[line]I won't let you go.[%p]"
 
-msgid "6100:[name]三住[line]「はあ？　なになに、俺の相手してくれんの？」[%p]"
+msgid "6100:[name]三住[line]「はあ？\u3000なになに、俺の相手してくれんの？」[%p]"
 msgstr "6100:[name]三住[line]Huh? What? You're actually going to talk to me?[%p]"
 
 msgid "6200:[name]あやせ[line]「ええ。そうね」[%p]"
@@ -243,7 +243,7 @@ msgstr "7600:[name]三住[line]“Kill me”? That's going a little far, isn't i
 msgid "7700:[name]三住[line]「まあ、岸本に嫌われてるのは分かってたけどよ。まさか面と向かってそんなこと言われるとは思わなかったぜ」[%p]"
 msgstr "7700:[name]三住[line]I mean, I know you don't really like me. But I didn't think you'd say something like that right to my face.[%p]"
 
-msgid "7800:[name]三住[line]「それで、えーっと、なんだっけ？　ぐらびとーん？　じゃしん？」[%p]"
+msgid "7800:[name]三住[line]「それで、えーっと、なんだっけ？\u3000ぐらびとーん？\u3000じゃしん？」[%p]"
 msgstr "7800:[name]三住[line]So, um... what was this all about again? Gladitron? Wicked hats?[%p]"
 
 msgid "7900:[name]三住[line]「なんのことだか、俺にはさっぱり分かんねえんだけどな」[%p]"

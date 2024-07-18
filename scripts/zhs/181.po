@@ -39,7 +39,7 @@ msgstr "800:Don't worry, Seira-tan, you're still my wife.[%p]"
 msgid "900:そもそも、こずぴぃなんていうアホっぽいキャラにまったく覚えがないんだけど……。[%p]"
 msgstr "900:And anyway, I didn't recognize this kind of stupid-sounding “Kozupii” character at all.[%p]"
 
-msgid "1000:[name]こずぴぃ？[line]「えう……アホっぽい？　ぽい？」[%p]"
+msgid "1000:[name]こずぴぃ？[line]「えう……アホっぽい？\u3000ぽい？」[%p]"
 msgstr "1000:[name]こずぴぃ？[line]Huh? Stupid-sounding... Stupid?[%p]"
 
 msgid "1100:[name]こずぴぃ？[line]「でもでーもー、ホントに幻聴や妄想じゃーなーくてっ」[%p]"
@@ -60,7 +60,7 @@ msgstr "1500:Huh? N-No way. That was just a coincidence, right?[%p]"
 msgid "1600:それにうなずいたように見えただけで、もしかしたら僕の勘違いかもしれないし。[%p]"
 msgstr "1600:Or maybe she'd only looked like she'd nodded, and I was mistaken?[%p]"
 
-msgid "1700:[name]こずぴぃ？[line]「だーかーらー！　こずぴぃがこずぴぃなのー！」[%p]"
+msgid "1700:[name]こずぴぃ？[line]「だーかーらー！\u3000こずぴぃがこずぴぃなのー！」[%p]"
 msgstr "1700:[name]こずぴぃ？[line]I'm telling you... Kozupii is Kozupii![%p]"
 
 msgid "1800:そんなわけあるはずがないでしょ！[linebreak]こんなテレパシーのような真似をできるもんか！[%p]"
@@ -204,7 +204,7 @@ msgstr "6300:I jerked my head up towards the sky.[%p]"
 msgid "6400:まさか『将軍』からの音声攻撃！？[linebreak]僕の思考を監視してる！？[%p]"
 msgstr "6400:Was this an audio attack from Shogun?! Was he reading my mind?![%p]"
 
-msgid "6500:[name]？？？[line]「しょ〜ぐん？　ぐん？」[%p]"
+msgid "6500:[name]？？？[line]「しょ〜ぐん？\u3000ぐん？」[%p]"
 msgstr "6500:[name]？？？[line]Shogun...? Gun?[%p]"
 
 msgid "6600:人工衛星から、僕を攻撃してきている！[%p]"
@@ -276,7 +276,7 @@ msgstr "8700:[name]こずぴぃ[line]Kozupii is Kozupii, nora.[%p]"
 msgid "8800:[name]拓巳[line]「え……？」[%p]"
 msgstr "8800:[name]拓巳[line]Huh...?[%p]"
 
-msgid "8900:[name]こずぴぃ[line]「こ・ず・ぴぃ・が！　こ・ず・ぴぃ・なの！」[%p]"
+msgid "8900:[name]こずぴぃ[line]「こ・ず・ぴぃ・が！\u3000こ・ず・ぴぃ・なの！」[%p]"
 msgstr "8900:[name]こずぴぃ[line]Kozupii! Is! Kozupii![%p]"
 
 msgid "9000:[name]こずぴぃ[line]「それとこずぴぃは、“転校生”じゃなくて、折原梢、なのら」[%p]"
@@ -363,7 +363,7 @@ msgstr "11600:[name]こずぴぃ？[line]Kozupii is Kozupii, nora.[%p]"
 msgid "11700:[name]拓巳[line]「え……？」[%p]"
 msgstr "11700:[name]拓巳[line]Huh?[%p]"
 
-msgid "11800:[name]こずぴぃ[line]「こ・ず・ぴぃ・が！　こ・ず・ぴぃ・なの！」[%p]"
+msgid "11800:[name]こずぴぃ[line]「こ・ず・ぴぃ・が！\u3000こ・ず・ぴぃ・なの！」[%p]"
 msgstr "11800:[name]こずぴぃ[line]Kozupii! Is! Kozupii![%p]"
 
 msgid "11900:[name]こずぴぃ[line]「それとこずぴぃは、“転校生”じゃなくて、折原梢、なのら」[%p]"
@@ -501,7 +501,7 @@ msgstr "16200:I'd only met Kozupii a few times at school, but now she was like a
 msgid "16300:それにリアルでは無口なのに、心の声は、こんなにも、その……[%p]"
 msgstr "16300:And even though in the real world she was completely silent, in her mind she was...[%p]"
 
-msgid "16400:[name]梢[line]「あっ、今、うるさーい女って考えたー！　うぷー！」[%p]"
+msgid "16400:[name]梢[line]「あっ、今、うるさーい女って考えたー！\u3000うぷー！」[%p]"
 msgstr "16400:[name]梢[line]You just thought I was annoying, didn't you! Uboooh![%p]"
 
 msgid "16500:……心の声で話ができるっていうのは、便利だけど、鬱陶しい。[%p]"
@@ -606,7 +606,7 @@ msgstr "19700:[name]梢[line]She's your girlfriend, nora![%p]"
 msgid "19800:ち、違うよ……！[%p]"
 msgstr "19800:N-No she's not.[%p]"
 
-msgid "19900:[name]梢[line]「違うのー？　てっきりてっきり、そうだとばーぁっかり思ってた」[%p]"
+msgid "19900:[name]梢[line]「違うのー？\u3000てっきりてっきり、そうだとばーぁっかり思ってた」[%p]"
 msgstr "19900:[name]梢[line]She's not? I was soooo sure she was.[%p]"
 
 msgid "20000:[name]拓巳[line]「…………」[%p]"
@@ -723,7 +723,7 @@ msgstr "23600:[name]梢[line]It doesn't really feel like I'm talking, though?[%p
 msgid "23700:[name]梢[line]「考えてるだけ。それが流れ込むだけ。[linebreak]相手にはビビーッて。相手からはドバーッて」[%p]"
 msgstr "23700:[name]梢[line]It's just thinking. And listening. I go beep-beep! And they go boop-boop.[%p]"
 
-msgid "23800:[name]梢[line]「慣れてないと、自分の思考と相手の思考がごちゃごちゃーってなって、うにゃあ？　ってなるの」[%p]"
+msgid "23800:[name]梢[line]「慣れてないと、自分の思考と相手の思考がごちゃごちゃーってなって、うにゃあ？\u3000ってなるの」[%p]"
 msgstr "23800:[name]梢[line]If you're not used to it, your thoughts and their thoughts get mixed up, and then you go unyah![%p]"
 
 msgid "23900:に、日本語でおｋ……。[%p]"
@@ -822,7 +822,7 @@ msgstr "26900:Kozupii let out a gasp next to me. Her eyes went wide as she looke
 msgid "27000:[name]梢[line]「カ、カップル……」[%p]"
 msgstr "27000:[name]梢[line]A-A couple...![%p]"
 
-msgid "27100:ち、違う！　あくまで例えだよ、た・と・え！[%p]"
+msgid "27100:ち、違う！\u3000あくまで例えだよ、た・と・え！[%p]"
 msgstr "27100:N-No! It was just a hypothetical![%p]"
 
 msgid "27200:[name]梢[line]「またふひゃーってさせられたのらー」[%p]"
@@ -888,10 +888,10 @@ msgstr "29100:You'd know I wasn't up there pretending to be a psychic for attent
 msgid "29200:[name]梢[line]「うん。だからだーから、価値はなくなくないよ。"
 msgstr "29200:[name]梢[line]Yeah. So, so, you're not not not worthless!"
 
-msgid "29300:う？　なくなく？」[%p]"
+msgid "29300:う？\u3000なくなく？」[%p]"
 msgstr "29300: Huh? Not not not?[%p]"
 
-msgid "29400:[name]梢[line]「うん。だからだーから、価値はなくなくないよ。う？　なくなく？」"
+msgid "29400:[name]梢[line]「うん。だからだーから、価値はなくなくないよ。う？\u3000なくなく？」"
 msgstr "29400:[name]梢[line]Yeah. So, so, you don't not have value! Huh? “Don't not?”"
 
 msgid "29500:でも……結局、ダメだったんだ。[linebreak]僕は七海を……妹を助けるよりも、自分の命を優先した。[linebreak]ギリギリになって、逃げた……。[%p]"
@@ -927,7 +927,7 @@ msgstr "30400:I had no choice but to quickly follow, trying my best not to look 
 msgid "30500:上りエスカレーターに乗ると、こずぴぃは後ろに立つ僕に振り返った。小柄な彼女は一段上にいて、それでちょうど背の高さが同じぐらいになった。[%p]"
 msgstr "30500:When we got on the up escalator, Kozupii turned around to look at me. She was a step above me, but she was so tiny we were at about the same height.[%p]"
 
-msgid "30600:[name]梢[line]「七海しゃんは助かったんだよね？　だーったら、西條くんが頑張ったおかげだよ」[%p]"
+msgid "30600:[name]梢[line]「七海しゃんは助かったんだよね？\u3000だーったら、西條くんが頑張ったおかげだよ」[%p]"
 msgstr "30600:[name]梢[line]Nanami's safe though, right? If she is, it's because of you.[%p]"
 
 msgid "30700:僕の力で助かったわけじゃない。[linebreak]僕はなにもしてないのと同じだよ……。[%p]"

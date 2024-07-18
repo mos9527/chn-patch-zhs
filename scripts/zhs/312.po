@@ -60,13 +60,13 @@ msgstr "1500:I was following Japanese tradition, you see. If you went to see som
 msgid "1600:報酬は１日３本のガルガリ君。[linebreak]これならセナだってきっと食いついてくるはず……！[%p]"
 msgstr "1600:I'd pay her three Garugari-kun popsicles a day. With an offer like that, Sena was sure to agree![%p]"
 
-msgid "1700:[name]セナ[line]「くれるのか？　ありがとう」[%p]"
+msgid "1700:[name]セナ[line]「くれるのか？\u3000ありがとう」[%p]"
 msgstr "1700:[name]セナ[line]You're giving them to me? Thanks.[%p]"
 
 msgid "1800:セナは意外と素直に受け取ってくれた。[linebreak]ふひひ……、僕の作戦にまんまと引っかかったな。[%p]"
 msgstr "1800:Sena took them, with much less questioning than I'd thought. Heheh... she'd fallen for my trap.[%p]"
 
-msgid "1900:[name]セナ[line]「西條は何味が好きだ？　私は断然ソーダ味だな」[%p]"
+msgid "1900:[name]セナ[line]「西條は何味が好きだ？\u3000私は断然ソーダ味だな」[%p]"
 msgstr "1900:[name]セナ[line]What's your favorite flavor, Nishijo? Mine's soda.[%p]"
 
 msgid "2000:セナは、いそいそと袋を破いて、中のアイスを取り出している。[linebreak]気のせいだろうか、心なしか、その口元が綻んでいるような……。[linebreak]どんだけガルガリ君好きなんだよ。食べ過ぎるとお腹壊すぞ。[%p]"
@@ -75,7 +75,7 @@ msgstr "2000:She ripped open the plastic and took out the popsicle. Maybe I was 
 msgid "2100:[name]拓巳[line]「ぼ、僕は、コーラ味……」[%p]"
 msgstr "2100:[name]拓巳[line]I-I like the cola ones.[%p]"
 
-msgid "2200:[name]セナ[line]「なん……だと？　コーラ味なんて邪道だ。ふざけるな」[%p]"
+msgid "2200:[name]セナ[line]「なん……だと？\u3000コーラ味なんて邪道だ。ふざけるな」[%p]"
 msgstr "2200:[name]セナ[line]What? The cola ones taste awful. Only idiots like them.[%p]"
 
 msgid "2300:[name]拓巳[line]「す、すいません……」[%p]"
@@ -120,7 +120,7 @@ msgstr "3500:[name]拓巳[line]H-He's reading my mind![%p]"
 msgid "3600:[name]セナ[line]「思考盗撮か……。そいつ、何者だ？」[%p]"
 msgstr "3600:[name]セナ[line]Mind-reading, huh? Who is he?[%p]"
 
-msgid "3700:[name]拓巳[line]「し、知るもんかっ！　ぼ、ぼ、僕が、聞きたいぐらいだっ！」[%p]"
+msgid "3700:[name]拓巳[line]「し、知るもんかっ！\u3000ぼ、ぼ、僕が、聞きたいぐらいだっ！」[%p]"
 msgstr "3700:[name]拓巳[line]I-I don't know! I-I was hoping you could tell me![%p]"
 
 msgid "3800:[name]セナ[line]「この渋谷で思考盗撮できる連中なんて、限られてる。ギガロマニアックスか、あるいは、希の連中か……」[%p]"
@@ -171,7 +171,7 @@ msgstr "5200:[name]セナ[line]You don't, huh?[%p]"
 msgid "5300:冷たい視線を投げかけられているのを感じる。[linebreak]自分でも情けないって分かってるから、うなだれるしかない。[%p]"
 msgstr "5300:I could feel her cold gaze. I knew how pathetic I looked. I couldn't look up[%p]"
 
-msgid "5400:[name]セナ[line]「だが、その『将軍』というヤツは気になるな……。もし希の人間なら、ニュージェネ事件も連中が起こしてるということか？　だとしたら、それを捨て置くわけには……」[%p]"
+msgid "5400:[name]セナ[line]「だが、その『将軍』というヤツは気になるな……。もし希の人間なら、ニュージェネ事件も連中が起こしてるということか？\u3000だとしたら、それを捨て置くわけには……」[%p]"
 msgstr "5400:[name]セナ[line]I'm curious about this Shogun character, though. If he's with Nozomi, does that mean he's behind NewGen? If so, I can't let this opportunity slip away.[%p]"
 
 msgid "5500:セナは窓の外を眺めて、ブツブツ言っている。[linebreak]難しい顔をして――でもガルガリ君をかじりながら、考えを巡らせてる様子だった。[%p]"
@@ -237,13 +237,13 @@ msgstr "7400:[name]セナ[line]We're going to break in.[%p]"
 msgid "7500:の、乗り込むって……つまり敵の本拠地に！？[%p]"
 msgstr "7500:B-Break in? To the enemy's HQ?[%p]"
 
-msgid "7600:いやいやいや！　なに考えてるんだ、このバカ女……！[linebreak]自殺願望でも持ってるのか！？[linebreak]失敗だ、この女を頼った僕がバカだった！[%p]"
+msgid "7600:いやいやいや！\u3000なに考えてるんだ、このバカ女……！[linebreak]自殺願望でも持ってるのか！？[linebreak]失敗だ、この女を頼った僕がバカだった！[%p]"
 msgstr "7600:No, no, no! What was this idiot thinking? Was she suicidal or something? I'd screwed up! I was an idiot to go to her for help![%p]"
 
-msgid "7700:い、行くもんか！　そんなところに行くのはゴメンだ！[%p]"
+msgid "7700:い、行くもんか！\u3000そんなところに行くのはゴメンだ！[%p]"
 msgstr "7700:I-I'm not going! I'm definitely not going there![%p]"
 
-msgid "7800:僕は“ムチャしやがって”って見送る方であって、断じて星になる方じゃない！　そういうタイプの人間じゃないんだ！[%p]"
+msgid "7800:僕は“ムチャしやがって”って見送る方であって、断じて星になる方じゃない！\u3000そういうタイプの人間じゃないんだ！[%p]"
 msgstr "7800:I'm the guy who says to the hero, “You can't go! It's suicide!” Not the hero who actually goes and commits suicide![%p]"
 
 msgid "7900:口をパクパクさせている僕に構わず、セナはさっさとドアから出て行った。僕は断固としてこの場から動かないと決める。[%p]"
@@ -258,7 +258,7 @@ msgstr "8100:[name]拓巳[line]W-What?![%p]"
 msgid "8200:いつの間にか、僕の身体に白い鎖が巻き付いていた。[linebreak]しかもかなりきつい。無理矢理外そうとしても、びくともしない。[%p]"
 msgstr "8200:There was a white chain wrapped around me. It was wrapped tight, too. I tried to pull it off, but it didn't move.[%p]"
 
-msgid "8300:誰が、いつこれを！？　どうなってるんだ！？[%p]"
+msgid "8300:誰が、いつこれを！？\u3000どうなってるんだ！？[%p]"
 msgstr "8300:Who'd put it there? When? What was going on here?[%p]"
 
 msgid "8400:[name]セナ[line]「グズグズするな」[%p]"

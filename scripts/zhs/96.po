@@ -33,7 +33,7 @@ msgstr "600:Like usual, I reached my seat without any issues and sat down.[%p]"
 msgid "700:すぐに机に顔を突っ伏す。[linebreak]これでホームルームまでは危険はない。[linebreak]と安堵したのもつかの間、背中を軽く叩かれる。[%p]"
 msgstr "700:I quickly put my head down on the desk. Now I'd be safe for the rest of homeroom. Or so I thought, until I was lightly tapped on the back.[%p]"
 
-msgid "800:[name]三住[line]「よー、タク！　今週は３回も学校来てんじゃねーか。マジメだな」[%p]"
+msgid "800:[name]三住[line]「よー、タク！\u3000今週は３回も学校来てんじゃねーか。マジメだな」[%p]"
 msgstr "800:[name]三住[line]Hey, Taku! You came to school three whole times this week. You're turning into a teacher's pet.[%p]"
 
 msgid "900:[name]拓巳[line]「…………」[%p]"
@@ -54,7 +54,7 @@ msgstr "1300:He'd acted like the demon girl was in our class. That was impossibl
 msgid "1400:もしかしたら今の三住くんは、悪魔女に洗脳されてしまっているかもしれない。[linebreak]それどころか、中の人が入れ替わっている可能性だってある。[%p]"
 msgstr "1400:Maybe the demon girl had brainwashed him. Or maybe he'd become somebody else entirely.[%p]"
 
-msgid "1500:[name]三住[line]「おーい、どうした？　早くも爆睡モードか？」[%p]"
+msgid "1500:[name]三住[line]「おーい、どうした？\u3000早くも爆睡モードか？」[%p]"
 msgstr "1500:[name]三住[line]Hey, what's wrong? You in sleep mode already?[%p]"
 
 msgid "1600:いきなり電子音が教室に響いた。[linebreak]僕の胸のあたりにかすかな振動を感じる。[%p]"
@@ -84,7 +84,7 @@ msgstr "2300:But if I did, Misumi would know that I wasn't asleep. And I didn't 
 msgid "2400:ただ、出なかったら出なかったで、クラスのみんなの迷惑になる。今、教室中に僕のケータイの音が響き渡っている状況からして相当にまずい。目立っちゃいけないのに、これはすごくまずい……。[%p]"
 msgstr "2400:If I didn't answer, though, it would annoy the rest of the class. Having my phone's ringtone drown out the rest of the classroom was bad. I needed to stay invisible! This was really bad![%p]"
 
-msgid "2500:[name]三住[line]「おーい。出ないのか？　マジで寝てる？」[%p]"
+msgid "2500:[name]三住[line]「おーい。出ないのか？\u3000マジで寝てる？」[%p]"
 msgstr "2500:[name]三住[line]Hey. You're not going to answer? Are you actually asleep?[%p]"
 
 msgid "2600:[name]拓巳[line]「…………」[%p]"
@@ -102,7 +102,7 @@ msgstr "2900:I let out a sigh of relief, being careful not to let Misumi hear me
 msgid "3000:留守電機能の使い方を覚えておいて正解だった。[%p]"
 msgstr "3000:I was glad I'd learned how to set up voice mail.[%p]"
 
-msgid "3100:[name]三住[line]「なあタク。相手は誰だ〜？　まさか女か？　この前一緒に帰ったあの眼鏡の子だろ？　そうなんだろ？」[%p]"
+msgid "3100:[name]三住[line]「なあタク。相手は誰だ〜？\u3000まさか女か？\u3000この前一緒に帰ったあの眼鏡の子だろ？\u3000そうなんだろ？」[%p]"
 msgstr "3100:[name]三住[line]Hey Taku. Who was that? A girl? It's the girl you were walking home with, isn't it? It is, right?[%p]"
 
 msgid "3200:くそ、うるさいなあ……。[%p]"

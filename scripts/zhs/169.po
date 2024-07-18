@@ -63,7 +63,7 @@ msgstr "1600:My mental state was completely different than it was when I'd left.
 msgid "1700:もちろん今は清々しい気分だ。むしろ昨日の自分に言ってやりたいね。[%p]"
 msgstr "1700:Now I felt great, of course. If anything, I wished I could speak to the me who'd left here yesterday.[%p]"
 
-msgid "1800:お前、釣られすぎm9(^Д^)ﾌﾟｷﾞｬｰ[linebreak]そんなに必死にならなくても七海は大丈夫っすからｗｗｗ　ふひひｗｗ[%p]"
+msgid "1800:お前、釣られすぎm9(^Д^)ﾌﾟｷﾞｬｰ[linebreak]そんなに必死にならなくても七海は大丈夫っすからｗｗｗ\u3000ふひひｗｗ[%p]"
 msgstr "1800:“You're about to get trolled! m9(^Д^)” “You don't need to worry so much, Nanami's fine lolol fweheheh”[%p]"
 
 msgid "1900:――みたいな。[%p]"
@@ -153,7 +153,7 @@ msgstr "4600:What should I do? Should I throw it away?[%p]"
 msgid "4700:でももし仮に七海の腕だったら、捨てるのはまずい気がするし……。[%p]"
 msgstr "4700:But if it was Nanami's, it would be a bad idea to throw it away, right?[%p]"
 
-msgid "4800:そもそも人の手首をゴミとして捨てていいの？[linebreak]捨てるとしたら燃えるゴミ？　燃えないゴミ？[%p]"
+msgid "4800:そもそも人の手首をゴミとして捨てていいの？[linebreak]捨てるとしたら燃えるゴミ？\u3000燃えないゴミ？[%p]"
 msgstr "4800:Could you even put severed human hands in the garbage? Was that against the rules? If you could, would it be burnable garbage? Non-burnable garbage?[%p]"
 
 msgid "4900:僕は頭を掻きむしった。[%p]"

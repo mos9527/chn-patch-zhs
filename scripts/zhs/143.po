@@ -57,7 +57,7 @@ msgstr "1400:She winced after she said that, then put a hand to her forehead.[%p
 msgid "1500:廊下から聞こえてくるザワザワとしたクラスメイトたちの声や、“おい、しっかりしろ！”と倒れている生徒に呼びかける教師の声を、優愛はどこか遠い出来事のように聞いていた。[%p]"
 msgstr "1500:She could hear the voices of her classmates talking noisily outside, and her teacher shouting at the fallen students to wake up, but all of this seemed to be happening very far away.[%p]"
 
-msgid "1600:[name]優愛[line]「は……はい？　え、ええ……」[%p]"
+msgid "1600:[name]優愛[line]「は……はい？\u3000え、ええ……」[%p]"
 msgstr "1600:[name]優愛[line]I-I'm sorry? Y-Yes...[%p]"
 
 msgid "1700:[name]優愛[line]「あの……あなたは……？」[%p]"

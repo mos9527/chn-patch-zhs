@@ -90,19 +90,19 @@ msgstr "2500:Ugh... damn it. This was just awful. Everything was just awful.[%p]
 msgid "2600:うめき声を上げながら立ち上がり、フィギュアが無事かどうかを確かめる。[%p]"
 msgstr "2600:I moaned, then started to see if my figures were okay.[%p]"
 
-msgid "2700:[name]拓巳[line]「うっげー！？　『塵骸魔京』のイグニスたんの剣がーぁ……！」[%p]"
+msgid "2700:[name]拓巳[line]「うっげー！？\u3000『塵骸魔京』のイグニスたんの剣がーぁ……！」[%p]"
 msgstr "2700:[name]拓巳[line]Uhgwah! The sword for my Ignis-tan from Jingai Makyo![%p]"
 
 msgid "2800:ぽっきりと折れてしまっていた。[linebreak]これ、ネットオークションでプレミア価格で買ったやつなのに！[%p]"
 msgstr "2800:It had broken clean in two. I'd bought that thing in an online auction and had to pay a whole bunch for it![%p]"
 
-msgid "2900:[name]拓巳[line]「ふざけんな！　ふっざけんなよぅ！」[%p]"
+msgid "2900:[name]拓巳[line]「ふざけんな！\u3000ふっざけんなよぅ！」[%p]"
 msgstr "2900:[name]拓巳[line]Damn it! Damn it all![%p]"
 
 msgid "3000:なんとか刀をくっつけようとしてみるけど、折れた部分を接着することはできても、完全に修復するのは不可能だった。これじゃもう価値なしだ。[%p]"
 msgstr "3000:I tried to put the sword back together, but even gluing it together wouldn't really fix it. It was worthless now.[%p]"
 
-msgid "3100:[name]拓巳[line]「マジで勘弁してくれよ！　くそ、くそぉっ！」[%p]"
+msgid "3100:[name]拓巳[line]「マジで勘弁してくれよ！\u3000くそ、くそぉっ！」[%p]"
 msgstr "3100:[name]拓巳[line]Come on! This is bullshit![%p]"
 
 msgid "3200:むかむかして、イスを足で蹴り上げた。[linebreak]涙が出た。[%p]"
@@ -165,7 +165,7 @@ msgstr "5000:Psychopaths like her always thought that way. That was her way of m
 msgid "5100:[name]拓巳[line]「……頭がおかしいよ」[%p]"
 msgstr "5100:[name]拓巳[line]She's crazy.[%p]"
 
-msgid "5200:[name]拓巳[line]「でもどうしてそれを僕に……。そもそもあの女は、ナイトハルトが僕だってどうやって知った？　僕の名前をどうやって知った？」[%p]"
+msgid "5200:[name]拓巳[line]「でもどうしてそれを僕に……。そもそもあの女は、ナイトハルトが僕だってどうやって知った？\u3000僕の名前をどうやって知った？」[%p]"
 msgstr "5200:[name]拓巳[line]But why me? How did she know that I was KnightHeart, anyway? How did she find out my name?[%p]"
 
 msgid "5300:うう、どうしたらいいんだろう……。[%p]"
@@ -216,7 +216,7 @@ msgstr "6700:[name]星来[line]Just forget all about the 3D world! Think of it a
 msgid "6800:[name]星来[line]「関係ないこと考えたってムダムダさ♪」[%p]"
 msgstr "6800:[name]星来[line]And if it has nothing to do with you, then there's no point in thinking about it at all! ♪[%p]"
 
-msgid "6900:[name]星来[line]「いいこと教えたげる。引きこもりって最強なんよ？　だって誰にも会わないっしょ。つまり誰にも攻撃されない。これぞ最強の自己防衛方法なわけさ」[%p]"
+msgid "6900:[name]星来[line]「いいこと教えたげる。引きこもりって最強なんよ？\u3000だって誰にも会わないっしょ。つまり誰にも攻撃されない。これぞ最強の自己防衛方法なわけさ」[%p]"
 msgstr "6900:[name]星来[line]Let me give you some advice. Hikikomori are the strongest people in the world! They don't have to interact with anyone, which means nobody can attack them. Being a hikikomori is the strongest way to protect yourself.[%p]"
 
 msgid "7000:[name]星来[line]「だからタッキーは引きこもりになるべきなんさ。簡単っしょ♪」[%p]"

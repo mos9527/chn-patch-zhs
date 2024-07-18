@@ -75,7 +75,7 @@ msgstr "2000:I came back to my senses and looked around. I could see a badly-ben
 msgid "2100:慌てて駆け寄り、抱き起こした。[%p]"
 msgstr "2100:I ran over to him and held him in my arms.[%p]"
 
-msgid "2200:[name]拓巳[line]「ねえ！　おい、しっかりして！」[%p]"
+msgid "2200:[name]拓巳[line]「ねえ！\u3000おい、しっかりして！」[%p]"
 msgstr "2200:[name]拓巳[line]Hey! Hey, wake up![%p]"
 
 msgid "2300:呼びかけても、反応はない。[linebreak]心の声も、聞こえない。[%p]"
@@ -168,16 +168,16 @@ msgstr "5100:I ran out of strength halfway up one of the less steep hills in Dog
 msgid "5200:額の汗を拭いながら、僕は息を整えるために立ち止まった。[%p]"
 msgstr "5200:I wiped the sweat from my brow and stopped to catch my breath.[%p]"
 
-msgid "5300:[name]あやせ[line]「空へと突き出た　戒めの祭壇」[%p]"
+msgid "5300:[name]あやせ[line]「空へと突き出た\u3000戒めの祭壇」[%p]"
 msgstr "5300:[name]あやせ[line]An altar of admonition, piercing the sky.[%p]"
 
-msgid "5400:[name]あやせ[line]「主への冒涜　報いの責め苦」[%p]"
+msgid "5400:[name]あやせ[line]「主への冒涜\u3000報いの責め苦」[%p]"
 msgstr "5400:[name]あやせ[line]A blasphemy unto the lord, a torture much-deserved.[%p]"
 
-msgid "5500:[name]あやせ[line]「その目に習って　歩み続くがいい」[%p]"
+msgid "5500:[name]あやせ[line]「その目に習って\u3000歩み続くがいい」[%p]"
 msgstr "5500:[name]あやせ[line]Follow, keep walking, as your eyes would lead you.[%p]"
 
-msgid "5600:[name]あやせ[line]「一つまた一つと　闇に手と手を繋いで」[%p]"
+msgid "5600:[name]あやせ[line]「一つまた一つと\u3000闇に手と手を繋いで」[%p]"
 msgstr "5600:[name]あやせ[line]One, and then another, clasping hands in the darkness.[%p]"
 
 msgid "5700:すると、かすかに聞こえてきた、誰かの声。[%p]"
@@ -240,7 +240,7 @@ msgstr "7500:[name]拓巳[line]Nanami's down here?[%p]"
 msgid "7600:どうしてここに？[linebreak]野呂瀬っていう男に捕らえられたんじゃなかったの？[%p]"
 msgstr "7600:Why was she here? Didn't that Norose guy have her?[%p]"
 
-msgid "7700:[name]拓巳[line]「七海！　七海っ！」[%p]"
+msgid "7700:[name]拓巳[line]「七海！\u3000七海っ！」[%p]"
 msgstr "7700:[name]拓巳[line]Nanami! Nanami![%p]"
 
 msgid "7800:身体の痛みに耐えて立ち上がり叫んでみたけど、返事はない。[%p]"

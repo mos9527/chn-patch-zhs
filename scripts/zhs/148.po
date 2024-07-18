@@ -162,7 +162,7 @@ msgstr "4900:[name]梨深[line]...[%p]"
 msgid "5000:[name]梨深[line]「頭……急に、痛くなって……きた……」[%p]"
 msgstr "5000:[name]梨深[line]My head... suddenly hurts…[%p]"
 
-msgid "5100:[name]拓巳[line]「え？　え……？」[%p]"
+msgid "5100:[name]拓巳[line]「え？\u3000え……？」[%p]"
 msgstr "5100:[name]拓巳[line]Huh? Huh?[%p]"
 
 msgid "5200:[name]梨深[line]「う、う……痛い……割れ……そう……」[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:Was Shogun attacking?[%p]"
 msgid "5900:[name]梨深[line]「あ、あああああっ！」[%p]"
 msgstr "5900:[name]梨深[line]A-Aaah![%p]"
 
-msgid "6000:[name]梨深[line]「痛い痛い痛い痛い！　割れるっ！　割れそう……！」[%p]"
+msgid "6000:[name]梨深[line]「痛い痛い痛い痛い！\u3000割れるっ！\u3000割れそう……！」[%p]"
 msgstr "6000:[name]梨深[line]It hurts! It hurts! It hurts so much! It's gonna split... It's gonna split open![%p]"
 
 msgid "6100:[name]梨深[line]「ぎ、ぎ……ぎ、ぐ、いやああああああっ――」[%p]"
@@ -279,7 +279,7 @@ msgstr "8800:And then, with perfect timing, there was a knock at the door.[%p]"
 msgid "8900:[name]拓巳[line]「梨深……っ」[%p]"
 msgstr "8900:[name]拓巳[line]Rimi...[%p]"
 
-msgid "9000:梨深だ！　梨深はやっぱり来てくれたんだ！[%p]"
+msgid "9000:梨深だ！\u3000梨深はやっぱり来てくれたんだ！[%p]"
 msgstr "9000:Rimi! Rimi had come after all![%p]"
 
 msgid "9100:救われた気分になって、扉の方へと向かう。[%p]"
@@ -474,7 +474,7 @@ msgstr "15300:I opened my eyes a little.[%p]"
 msgid "15400:なにも、変わっていなかった。[linebreak]これは、オモチャだ。[%p]"
 msgstr "15400:Nothing had changed. It was just a toy.[%p]"
 
-msgid "15500:[name]拓巳[line]「くそぅ！　くそうくそうくそう！　この役立たず！」[%p]"
+msgid "15500:[name]拓巳[line]「くそぅ！\u3000くそうくそうくそう！\u3000この役立たず！」[%p]"
 msgstr "15500:[name]拓巳[line]Damn it! Damn it! Damn it! Damn it! Useless piece of shit![%p]"
 
 msgid "15600:オモチャ剣を床に叩きつけ、[%p]"

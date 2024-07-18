@@ -12,7 +12,7 @@
 msgid "0:[name]ＦＥＳ[line]「私、好きな人がいるのよ」[%p]"
 msgstr "0:[name]ＦＥＳ[line]There's a boy I like already.[%p]"
 
-msgid "100:[name]三住[line]「え？　マジ？　なになに？　それって俺のこと〜？」[%p]"
+msgid "100:[name]三住[line]「え？\u3000マジ？\u3000なになに？\u3000それって俺のこと〜？」[%p]"
 msgstr "100:[name]三住[line]Huh? Really? What? Is it me?[%p]"
 
 msgid "200:[name]ＦＥＳ[line]「そこの人」[%p]"
@@ -171,7 +171,7 @@ msgstr "5200:[name]ＦＥＳ[line]You shouldn't have anything to do with him.[%p
 msgid "5300:[name]ＦＥＳ[line]「こんな人とは」[%p]"
 msgstr "5300:[name]ＦＥＳ[line]It's best to avoid guys like that.[%p]"
 
-msgid "5400:[name]三住[line]「おいおい、こんな人呼ばわりはひどくね？　っていうか、こんな人ってどんな人だよぉ」[%p]"
+msgid "5400:[name]三住[line]「おいおい、こんな人呼ばわりはひどくね？\u3000っていうか、こんな人ってどんな人だよぉ」[%p]"
 msgstr "5400:[name]三住[line]Hey, what's that supposed to mean? And what's wrong with me, exactly?[%p]"
 
 msgid "5500:[name]ＦＥＳ[line]「……鬱陶しい人」[%p]"
@@ -198,7 +198,7 @@ msgstr "6100:Fights weren't my thing, whether they were verbal or physical. And 
 msgid "6200:巻き込まれないように、さっさと退散しようかな――[%p]"
 msgstr "6200:Maybe I should leave before anything else happens.[%p]"
 
-msgid "6300:[name]三住[line]「なに？　もしかして岸本さんさぁ、俺のことバカにしてる？」[%p]"
+msgid "6300:[name]三住[line]「なに？\u3000もしかして岸本さんさぁ、俺のことバカにしてる？」[%p]"
 msgstr "6300:[name]三住[line]What? Are you making fun of me?[%p]"
 
 msgid "6400:[name]ＦＥＳ[line]「別に」[%p]"
@@ -276,7 +276,7 @@ msgstr "8700:It had all happened in the time it took for me to blink. The next t
 msgid "8800:[name]三住[line]「あ、がああああああああっ！」[%p]"
 msgstr "8800:[name]三住[line]Agyaaah![%p]"
 
-msgid "8900:[name]三住[line]「手が……！　俺っ、俺のっ、腕、ううう、腕がぁぁぁっ！」[%p]"
+msgid "8900:[name]三住[line]「手が……！\u3000俺っ、俺のっ、腕、ううう、腕がぁぁぁっ！」[%p]"
 msgstr "8900:[name]三住[line]My hand! My... My arm... Gwahh... My arm![%p]"
 
 msgid "9000:三住くんはその場に倒れ込み、[linebreak]床に落ちている自分の手を拾い上げて必死にくっつけようとしている。[%p]"

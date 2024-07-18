@@ -39,7 +39,7 @@ msgstr "800:Terror ran down my spine.[%p]"
 msgid "900:梨深への認識が、僕を救ってくれる女の子から、得体の知れない存在へと変わっていく。[%p]"
 msgstr "900:In my mind, Rimi was changing from my savior into some strange creature I didn't understand.[%p]"
 
-msgid "1000:[name]拓巳[line]「殺すんだなっ！？　やっぱり、君が殺人犯なんだ……！」[%p]"
+msgid "1000:[name]拓巳[line]「殺すんだなっ！？\u3000やっぱり、君が殺人犯なんだ……！」[%p]"
 msgstr "1000:[name]拓巳[line]You're going to kill me, aren't you? I knew you were a murderer![%p]"
 
 msgid "1100:[name]梨深[line]「…………」[%p]"
@@ -87,7 +87,7 @@ msgstr "2400:[name]拓巳[line]I shouldn't be able to say anything more than... 
 msgid "2500:[name]梨深[line]「タクは生まれた瞬間からタクだった」[%p]"
 msgstr "2500:[name]梨深[line]You were you from the moment you were born.[%p]"
 
-msgid "2600:[name]拓巳[line]「き、君が、その目で見たって、言いたいの？　確かに僕らは、１年半前から、友達、だった、らしいね。ぼ、僕は、覚えてないけど……」[%p]"
+msgid "2600:[name]拓巳[line]「き、君が、その目で見たって、言いたいの？\u3000確かに僕らは、１年半前から、友達、だった、らしいね。ぼ、僕は、覚えてないけど……」[%p]"
 msgstr "2600:[name]拓巳[line]Are you telling me you saw it with your own eyes? S-Supposedly we were friends a year and a half ago. Not that I-I remember it.[%p]"
 
 msgid "2700:[name]梨深[line]「あたしとあなたが会ったのは、１ヶ月前」[%p]"
@@ -105,13 +105,13 @@ msgstr "3000:Rimi was crazy. Rimi was crazy, just like the rest of them.[%p]"
 msgid "3100:セナやあやせとは比べものにならないくらいの、スーパーデンパ女だ……。[%p]"
 msgstr "3100:She was super crazy, even crazier than Sena and Ayase.[%p]"
 
-msgid "3200:[name]拓巳[line]「だ、誰が、僕を、妄想したの？　言って、みてよ」[%p]"
+msgid "3200:[name]拓巳[line]「だ、誰が、僕を、妄想したの？\u3000言って、みてよ」[%p]"
 msgstr "3200:[name]拓巳[line]T-Then whose delusion am I? Tell me.[%p]"
 
 msgid "3300:[name]梨深[line]「ニシジョウタクミくんだよ」[%p]"
 msgstr "3300:[name]梨深[line]Takumi Nishijo.[%p]"
 
-msgid "3400:[name]拓巳[line]「はい、ダ、ダウト〜。ぼ、僕は、妄想なんでしょ？　その僕が妄想して、僕を作ったって？　矛盾してるじゃないか。はい、論破、し、終了」[%p]"
+msgid "3400:[name]拓巳[line]「はい、ダ、ダウト〜。ぼ、僕は、妄想なんでしょ？\u3000その僕が妄想して、僕を作ったって？\u3000矛盾してるじゃないか。はい、論破、し、終了」[%p]"
 msgstr "3400:[name]拓巳[line]Hah, y-yeah right. I'm a delusion, right? You're telling me I invented a delusion of myself? Y-You just contradicted yourself. Y-Yeah. That's b-bullshit.[%p]"
 
 msgid "3500:[name]梨深[line]「…………」[%p]"
@@ -153,7 +153,7 @@ msgstr "4600:[name]梨深[line]You should know that the things you do are slowly
 msgid "4700:[name]拓巳[line]「そ、そうだ、な、な、七海は！？」[%p]"
 msgstr "4700:[name]拓巳[line]R-Right! What about N-Nanami?![%p]"
 
-msgid "4800:[name]拓巳[line]「ぼ、僕が、妄想だったら！　僕と、血、血が繋がってる七海も、両親も、妄想ってこと！？　そんなのムチャクチャ――」[%p]"
+msgid "4800:[name]拓巳[line]「ぼ、僕が、妄想だったら！\u3000僕と、血、血が繋がってる七海も、両親も、妄想ってこと！？\u3000そんなのムチャクチャ――」[%p]"
 msgstr "4800:[name]拓巳[line]If I'm a delusion... T-Then my sister and my parents a delusion, too. And that's just crazy.[%p]"
 
 msgid "4900:[name]梨深[line]「ナナちゃんは、いるよ」[%p]"

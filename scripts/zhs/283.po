@@ -93,7 +93,7 @@ msgstr "2600:This time it was a cell phone shutter sound, not a wheelchair.[%p]"
 msgid "2700:周囲へ視線を巡らせる。[%p]"
 msgstr "2700:I looked around.[%p]"
 
-msgid "2800:誰だ？　誰が撮った？[%p]"
+msgid "2800:誰だ？\u3000誰が撮った？[%p]"
 msgstr "2800:Who? Who'd taken the photo?[%p]"
 
 msgid "2900:誰も僕を見ていない。[linebreak]ケータイを取り出しているヤツもいない。[%p]"
@@ -198,7 +198,7 @@ msgstr "6100:No, not “like” she was covered in blood. She was covered in blo
 msgid "6200:悲鳴をあげそうになった。でも声にならなかった。[%p]"
 msgstr "6200:I almost screamed, but I was too shaken to even do so.[%p]"
 
-msgid "6300:こずぴぃ！　しっかりして！　こずぴぃ！[%p]"
+msgid "6300:こずぴぃ！\u3000しっかりして！\u3000こずぴぃ！[%p]"
 msgstr "6300:Kozupii! Snap out of it! Kozupii![%p]"
 
 msgid "6400:心の中で呼びかけてみると、こずぴぃがそれに気付いてのろのろと顔を上げた。目は涙で濡れて、赤く充血している。[%p]"
@@ -213,7 +213,7 @@ msgstr "6600:She grabbed onto my waist.[%p]"
 msgid "6700:[name]拓巳[line]「ちょっ、な、なにを……！」[%p]"
 msgstr "6700:[name]拓巳[line]W-What are you doing?[%p]"
 
-msgid "6800:[name]梢[line]「拓巳しゃんは、こずぴぃの敵？　味方？」[%p]"
+msgid "6800:[name]梢[line]「拓巳しゃんは、こずぴぃの敵？\u3000味方？」[%p]"
 msgstr "6800:[name]梢[line]Takumi, are you my enemy? My friend?[%p]"
 
 msgid "6900:ど、どういう意味……？[%p]"
@@ -273,7 +273,7 @@ msgstr "8600:School. The roof. Red. A sea of blood. The overpowering smell of bl
 msgid "8700:ハッと我に返る。[linebreak]今のは、なんだ！？[%p]"
 msgstr "8700:I came back to my senses. What did I just see?![%p]"
 
-msgid "8800:見えていたのは学校の屋上だった。[linebreak]あの映像はなんなんだ？　ただの妄想？[linebreak]それにしてはいつもと少し違った。[%p]"
+msgid "8800:見えていたのは学校の屋上だった。[linebreak]あの映像はなんなんだ？\u3000ただの妄想？[linebreak]それにしてはいつもと少し違った。[%p]"
 msgstr "8800:That was the school's roof, I could tell that much. But what was that? Just a delusion? It felt a little different than usual.[%p]"
 
 msgid "8900:もしかして、僕の妄想じゃなくて、こずぴぃの妄想？[linebreak]“他人の負の妄想が見えるのがギガロマニアックスだ”とかなんとか、セナが言っていたような気がする。[%p]"

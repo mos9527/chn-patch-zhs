@@ -45,7 +45,7 @@ msgstr "1000:I headed to my seat and pretended to fall asleep. And then I called
 msgid "1100:――こずぴぃ。聞こえる？[%p]"
 msgstr "1100:Kozupii, can you hear me?[%p]"
 
-msgid "1200:[name]梢[line]「はいはーい？　なんでしょー？」[%p]"
+msgid "1200:[name]梢[line]「はいはーい？\u3000なんでしょー？」[%p]"
 msgstr "1200:[name]梢[line]Yup-yup! What is it?[%p]"
 
 msgid "1300:僕を、助けて。このままじゃ、僕は、殺される。[%p]"
@@ -63,13 +63,13 @@ msgstr "1600:[name]梢[line]Hmm...?[%p]"
 msgid "1700:[name]梢[line]「それよりそーれーよーりー」[%p]"
 msgstr "1700:[name]梢[line]First! First![%p]"
 
-msgid "1800:[name]梢[line]「拓巳しゃん、こずぴぃのこと、バカそうって思ってるでーしょ？　でーしょ？」[%p]"
+msgid "1800:[name]梢[line]「拓巳しゃん、こずぴぃのこと、バカそうって思ってるでーしょ？\u3000でーしょ？」[%p]"
 msgstr "1800:[name]梢[line]Takumi, you were thinking that Kozupii is pretty stupid, weren't you? Weren't you?[%p]"
 
 msgid "1900:う……。バレてる……。[%p]"
 msgstr "1900:Uh... Crap. She found me out.[%p]"
 
-msgid "2000:[name]梢[line]「うぷー。やっぱーり！　拓巳しゃん、ひどいのー」[%p]"
+msgid "2000:[name]梢[line]「うぷー。やっぱーり！\u3000拓巳しゃん、ひどいのー」[%p]"
 msgstr "2000:[name]梢[line]Upoooh! I knew it! Takumi, you're mean![%p]"
 
 msgid "2100:[name]梢[line]「それにそーれーに、[linebreak]こずぴぃはね、誰でもドカバキーッてするわけじゃ、ないよー？」[%p]"
@@ -93,7 +93,7 @@ msgstr "2600:I just want to live my quiet hikikomori life![%p]"
 msgid "2700:周りの方からちょっかいをかけてくるんだ！[%p]"
 msgstr "2700:Everybody else just won't leave me alone![%p]"
 
-msgid "2800:なんなんだよ、くそっ！　なんで僕が、こんな目に合わなくちゃいけないんだ！[%p]"
+msgid "2800:なんなんだよ、くそっ！\u3000なんで僕が、こんな目に合わなくちゃいけないんだ！[%p]"
 msgstr "2800:Why won't they leave me alone, damn it? Why does all this stuff have to happen to me?[%p]"
 
 msgid "2900:僕は悪くない。なにも悪くない。悪いのは周りのバカなＤＱＮどもだ。そして『将軍』だ。[%p]"

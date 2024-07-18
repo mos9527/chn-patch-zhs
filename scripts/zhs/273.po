@@ -129,7 +129,7 @@ msgstr "3800:The thought terrified me.[%p]"
 msgid "3900:渋谷が、ホントに腐り落ちようとしている――[%p]"
 msgstr "3900:Shibuya was really about to rot away.[%p]"
 
-msgid "4000:[name]拓巳[line]「あやせが、も、妄想すればいい……！　グ、グラジオールを倒す妄想を……！」[%p]"
+msgid "4000:[name]拓巳[line]「あやせが、も、妄想すればいい……！\u3000グ、グラジオールを倒す妄想を……！」[%p]"
 msgstr "4000:[name]拓巳[line]Ayase, y-you need to come up with a delusion! O-One that defeats Gladiale![%p]"
 
 msgid "4100:たまらず叫んでいた。[linebreak]けれど、あやせは首を左右に振る。[%p]"
@@ -216,7 +216,7 @@ msgstr "6700:[name]拓巳[line]So, sing![%p]"
 msgid "6800:[name]拓巳[line]「グラジオールを倒す歌を、歌ってよ、ＦＥＳ……！」[%p]"
 msgstr "6800:[name]拓巳[line]Sing a song that defeats Gladiale, FES![%p]"
 
-msgid "6900:[name]あやせ[line]「歌えと言うの……？　この状況で？」[%p]"
+msgid "6900:[name]あやせ[line]「歌えと言うの……？\u3000この状況で？」[%p]"
 msgstr "6900:[name]あやせ[line]You want me to sing? Here?[%p]"
 
 msgid "7000:[name]拓巳[line]「“歌を歌うことで導きが現れる”って、[linebreak]前に言ってたじゃないか……！」[%p]"
@@ -234,7 +234,7 @@ msgstr "7300:[name]あやせ[line]Takumi...[%p]"
 msgid "7400:あやせが僕に手を伸ばしてくる。[linebreak]僕の手を、強く握りしめてくる。[%p]"
 msgstr "7400:Ayase reached out her hand to me. I grabbed it and held it tight.[%p]"
 
-msgid "7500:[name]あやせ[line]「拓巳は……好き？　私の、歌」[%p]"
+msgid "7500:[name]あやせ[line]「拓巳は……好き？\u3000私の、歌」[%p]"
 msgstr "7500:[name]あやせ[line]Do you like them, Takumi? My songs.[%p]"
 
 msgid "7600:[name]拓巳[line]「……う、うん」[%p]"
@@ -270,19 +270,19 @@ msgstr "8500:[name]あやせ[line]“A Bloody Contract for Your Sins.”[%p]"
 msgid "8600:静かに曲名をつぶやき、歌い出す。[linebreak]真っ暗な空へ向けて、その声を響かせた――[%p]"
 msgstr "8600:She whispered the name of the song, and began to sing. Her voice echoed towards the dark black sky.[%p]"
 
-msgid "8700:[name]あやせ[line]「杭を打て　杭を打て――」[%p]"
+msgid "8700:[name]あやせ[line]「杭を打て\u3000杭を打て――」[%p]"
 msgstr "8700:[name]あやせ[line]Pound in the stake... Pound in the stake...[%p]"
 
-msgid "8800:[name]あやせ[line]「闇夜を切り裂き　月光を浴びて――」[%p]"
+msgid "8800:[name]あやせ[line]「闇夜を切り裂き\u3000月光を浴びて――」[%p]"
 msgstr "8800:[name]あやせ[line]Tear through the darkness and bathe in the moonlight.[%p]"
 
-msgid "8900:[name]あやせ[line]「幾千もの鉄槌は　汝の痛みとなりて　今解き放たれる――」[%p]"
+msgid "8900:[name]あやせ[line]「幾千もの鉄槌は\u3000汝の痛みとなりて\u3000今解き放たれる――」[%p]"
 msgstr "8900:[name]あやせ[line]Ten thousand iron hammers, bringing you pain, now unleashed.[%p]"
 
-msgid "9000:[name]あやせ[line]「やがて叫びは宙に舞い　夜空は紅く染まるだろう――」[%p]"
+msgid "9000:[name]あやせ[line]「やがて叫びは宙に舞い\u3000夜空は紅く染まるだろう――」[%p]"
 msgstr "9000:[name]あやせ[line]Your screams dance in the air, staining the night sky red.[%p]"
 
-msgid "9100:[name]あやせ[line]「十字の杭は力となり　やがて聖域へと辿り着く……」[%p]"
+msgid "9100:[name]あやせ[line]「十字の杭は力となり\u3000やがて聖域へと辿り着く……」[%p]"
 msgstr "9100:[name]あやせ[line]The crucifix stakes will grant you power, and bring you to the holy land.[%p]"
 
 msgid "9200:歌詞が、ヒントになった。[%p]"

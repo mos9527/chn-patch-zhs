@@ -129,7 +129,7 @@ msgstr "3800:[name]タクミ[line]Using my power advances the disease. Essential
 msgid "3900:[name]拓巳[line]「……どうして」[%p]"
 msgstr "3900:[name]拓巳[line]Why?[%p]"
 
-msgid "4000:[name]拓巳[line]「どうして、僕みたいな、キモオタの、ヘタレ野郎を作ったの？　もっと、強くて、行動的で、かっこいいイケメンにすればよかったのに……」[%p]"
+msgid "4000:[name]拓巳[line]「どうして、僕みたいな、キモオタの、ヘタレ野郎を作ったの？\u3000もっと、強くて、行動的で、かっこいいイケメンにすればよかったのに……」[%p]"
 msgstr "4000:[name]拓巳[line]Why did you make a loser, a creepy otaku, like me? Couldn't you have made somebody stronger? More handsome? More aggressive?[%p]"
 
 msgid "4100:[name]タクミ[line]「人をひとり――しかもギガロマニアックスの力を使える人間を生み出すのは、簡単なことじゃなかった」[%p]"

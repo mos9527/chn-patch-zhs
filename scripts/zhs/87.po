@@ -69,7 +69,7 @@ msgstr "1800:Maybe I was just being an idiot.[%p]"
 msgid "1900:“視線の主”なんていなくて、僕はイスに座ったままひとり延々と自分の妄想に怯えて震え続けているっていうのが真相だったら、本気でバカすぎ――[%p]"
 msgstr "1900:If there was nobody there, and I was just sitting in my chair, scared to death of my own delusions, I'd look like the world's biggest moron.[%p]"
 
-msgid "2000:[name]？？？[line]「ん？　あれ、タク？　固まってる？」[%p]"
+msgid "2000:[name]？？？[line]「ん？\u3000あれ、タク？\u3000固まってる？」[%p]"
 msgstr "2000:[name]？？？[line]Huh? Taku? Did you freeze up?[%p]"
 
 msgid "2100:[name]拓巳[line]「――っ！」[%p]"
@@ -111,7 +111,7 @@ msgstr "3200:I knew it![%p]"
 msgid "3300:[name]拓巳[line]「こ、こ……こ……っ」[%p]"
 msgstr "3300:[name]拓巳[line]D-D-D-D...[%p]"
 
-msgid "3400:殺さないで！　って叫ぼうとしたけど、あまりの恐怖でうまく声が出ない。[%p]"
+msgid "3400:殺さないで！\u3000って叫ぼうとしたけど、あまりの恐怖でうまく声が出ない。[%p]"
 msgstr "3400:“Don't kill me!” I tried to scream, but I was too scared to get the words out.[%p]"
 
 msgid "3500:[name]少女[line]「？？？」[%p]"
@@ -129,7 +129,7 @@ msgstr "3800:I tried to hide under my desk to put as much distance between us as
 msgid "3900:[name]少女[line]「プッ。なにやってるの、タク」[%p]"
 msgstr "3900:[name]少女[line]Bfft! What are you doing, Taku?[%p]"
 
-msgid "4000:[name]少女[line]「今、すっごい音したよ？　ゴツンッて」[%p]"
+msgid "4000:[name]少女[line]「今、すっごい音したよ？\u3000ゴツンッて」[%p]"
 msgstr "4000:[name]少女[line]That was a really loud noise you just made. “Bang.”[%p]"
 
 msgid "4100:なおも悪魔女は楽しそうな笑顔を崩さない。[%p]"
@@ -210,7 +210,7 @@ msgstr "6500:[name]拓巳[line]...[%p]"
 msgid "6600:この女……いったいなにを考えてるんだ……？[linebreak]僕を殺しに来たわけじゃないのか？[%p]"
 msgstr "6600:What was this girl thinking? Hadn't she come here to kill me?[%p]"
 
-msgid "6700:[name]少女[line]「ほら、立てる？　立とう！」[%p]"
+msgid "6700:[name]少女[line]「ほら、立てる？\u3000立とう！」[%p]"
 msgstr "6700:[name]少女[line]Come on, can you stand up? Give it a try![%p]"
 
 msgid "6800:ソファから立ち上がった悪魔が、僕に向かって手を差しのべてきた。[%p]"
@@ -270,7 +270,7 @@ msgstr "8500:[name]拓巳[line]Y-You're going to kill me, right?[%p]"
 msgid "8600:[name]拓巳[line]「そ、それとも、優愛とか、『将軍』とかがいる、ば、場所に連れてって――」[%p]"
 msgstr "8600:[name]拓巳[line]Or are you going to take me to where Yua and Shogun are waiting?[%p]"
 
-msgid "8700:[name]少女[line]「ゆあ？　ショウグン？　誰それ？」[%p]"
+msgid "8700:[name]少女[line]「ゆあ？\u3000ショウグン？\u3000誰それ？」[%p]"
 msgstr "8700:[name]少女[line]Yua? Shogun? Who's that?[%p]"
 
 msgid "8800:３人でよってたかって無抵抗の僕を集団リンチとかする気かもしれない……。[%p]"
@@ -297,7 +297,7 @@ msgstr "9400:[name]少女[line]Come on, stop being so scared. You're really tryi
 msgid "9500:[name]拓巳[line]「お、お願いだ……もう二度と、誰にも……し、喋らないから……だから、み、見逃して……」[%p]"
 msgstr "9500:[name]拓巳[line]P-Please... I'll never tell anyone, so let me go.[%p]"
 
-msgid "9600:[name]少女[line]「もしもーし、タク！　ちょっと落ち着こう？」[%p]"
+msgid "9600:[name]少女[line]「もしもーし、タク！\u3000ちょっと落ち着こう？」[%p]"
 msgstr "9600:[name]少女[line]Hello? Taku? Calm down a little.[%p]"
 
 msgid "9700:この女、馴れ馴れしくタクって呼びやがって……。[%p]"
@@ -333,13 +333,13 @@ msgstr "10600:[name]少女[line]Taku, you talk to yourself a lot.[%p]"
 msgid "10700:[name]少女[line]「――前から思ってたことだけど」[%p]"
 msgstr "10700:[name]少女[line]I've always thought this, but...[%p]"
 
-msgid "10800:前から……？　それっていつから？[linebreak]っていうか、僕は今独り言を言っていたの？[%p]"
+msgid "10800:前から……？\u3000それっていつから？[linebreak]っていうか、僕は今独り言を言っていたの？[%p]"
 msgstr "10800:Always? Since when was “always”? Wait, was I talking to myself?[%p]"
 
 msgid "10900:自分ではまったく自覚がない。[%p]"
 msgstr "10900:I couldn't tell.[%p]"
 
-msgid "11000:ホントに？　ホントのホントに独り言を言ってた？[linebreak]この女が嘘を言っている可能性は？[linebreak]心を読まれた可能性は？[%p]"
+msgid "11000:ホントに？\u3000ホントのホントに独り言を言ってた？[linebreak]この女が嘘を言っている可能性は？[linebreak]心を読まれた可能性は？[%p]"
 msgstr "11000:Really? Was I really, really talking to myself? Or was it possible she was lying? Was it possible she read my mind?[%p]"
 
 msgid "11100:[name]少女[line]「タクの名前を知らないわけないよー。[linebreak]あたし、物覚えはそんなによくない方だけど――」[%p]"
@@ -357,7 +357,7 @@ msgstr "11400:[name]少女[line]Or is this your way of saying I'm stupid? I mean
 msgid "11500:[name]少女[line]「面と向かってそういうこと言われると傷ついちゃうな」[%p]"
 msgstr "11500:[name]少女[line]But it kind of hurts to hear it to my face.[%p]"
 
-msgid "11600:頭がおかしいのか……？[linebreak]誰の頭が？　僕の？　この女の？[%p]"
+msgid "11600:頭がおかしいのか……？[linebreak]誰の頭が？\u3000僕の？\u3000この女の？[%p]"
 msgstr "11600:Was she crazy? Wait, how could I be sure she was the crazy one? Was I crazy? Or was she?[%p]"
 
 msgid "11700:[name]拓巳[line]「も、もしかして……て、転校生……？」[%p]"
@@ -420,7 +420,7 @@ msgstr "13500:[name]拓巳[line]...[%p]"
 msgid "13600:[name]拓巳[line]「リ……ミ……」[%p]"
 msgstr "13600:[name]拓巳[line]Ri...mi?[%p]"
 
-msgid "13700:[name]少女[line]「そう！　正解！　賞金５０円プレゼント！」[%p]"
+msgid "13700:[name]少女[line]「そう！\u3000正解！\u3000賞金５０円プレゼント！」[%p]"
 msgstr "13700:[name]少女[line]That's right! Correct! You win a prize of 50 yen![%p]"
 
 msgid "13800:[name]拓巳[line]「え……！？」[%p]"
@@ -495,7 +495,7 @@ msgstr "16000:Which was it? Was what this girl was saying true?[%p]"
 msgid "16100:いや、クラスメイトかどうかは問題じゃない。少なくとも厳然たる事実としてあるのは、この女が人殺しということで――[%p]"
 msgstr "16100:No, it didn't matter whether or not she was a classmate. The one thing I was sure of was that she was a murderer.[%p]"
 
-msgid "16200:[name]梨深[line]「もしかして本気で思い出せないの？　さっき頭打ったせいで記憶喪失になっちゃった？」[%p]"
+msgid "16200:[name]梨深[line]「もしかして本気で思い出せないの？\u3000さっき頭打ったせいで記憶喪失になっちゃった？」[%p]"
 msgstr "16200:[name]梨深[line]Are you telling me you really can't remember? Did hitting your head just now give you amnesia?[%p]"
 
 msgid "16300:悪魔女が僕の頭に手を伸ばしてくる。[%p]"
@@ -516,7 +516,7 @@ msgstr "16700:[name]梨深[line]Okay, ask Dai-chin, then.[%p]"
 msgid "16800:[name]梨深[line]「そしたらタクも思い出せるかも」[%p]"
 msgstr "16800:[name]梨深[line]Maybe then you'll remember.[%p]"
 
-msgid "16900:だ、大ちん？[linebreak]なんだそれ？　人名か？　それともなにかの暗号？　悪魔の呪文――？[%p]"
+msgid "16900:だ、大ちん？[linebreak]なんだそれ？\u3000人名か？\u3000それともなにかの暗号？\u3000悪魔の呪文――？[%p]"
 msgstr "16900:D-Dai-chin? What the hell was that? A person's name? Some kind of code? A demon spell?[%p]"
 
 msgid "17000:[name]梨深[line]「大ちんだよ、大ちん。三住大輔！」[%p]"
@@ -570,10 +570,10 @@ msgstr "18500:Actually, it was a more girly hand than I expected, so my heart st
 msgid "18600:い、いや、惑わされるな！[%p]"
 msgstr "18600:No, I couldn't let her fool me![%p]"
 
-msgid "18700:こいつは悪魔だ！　誘惑なんかされるもんか！　僕は三次元に興味はないんだ！[linebreak]星来たん、僕に力をくれ！[%p]"
+msgid "18700:こいつは悪魔だ！\u3000誘惑なんかされるもんか！\u3000僕は三次元に興味はないんだ！[linebreak]星来たん、僕に力をくれ！[%p]"
 msgstr "18700:She was a demon! I couldn't let her tempt me! I wasn't into 3D girls! Seira-tan, give me power![%p]"
 
-msgid "18800:[name]梨深[line]「タク、ケータイ使ったことないの？　電話機は耳に当てるんだよー？」[%p]"
+msgid "18800:[name]梨深[line]「タク、ケータイ使ったことないの？\u3000電話機は耳に当てるんだよー？」[%p]"
 msgstr "18800:[name]梨深[line]Taku, have you never used a cell phone? Put it up to your ear![%p]"
 
 msgid "18900:至近距離から、悪魔女が首を傾げつつ僕の顔をのぞき込んでくる。[%p]"
@@ -666,7 +666,7 @@ msgstr "21700:W-Why didn't he find it surprising at all?[%p]"
 msgid "21800:それじゃまるで、僕が悪魔女と一緒にいるっていうシチュエーションが、日常的なことみたいに聞こえるじゃないか……。[%p]"
 msgstr "21800:It almost sounded like he expected us to be together.[%p]"
 
-msgid "21900:[name]三住[line]「またリミに振り回されてるのか？　大変だなお前も」[%p]"
+msgid "21900:[name]三住[line]「またリミに振り回されてるのか？\u3000大変だなお前も」[%p]"
 msgstr "21900:[name]三住[line]Rimi got you doing something crazy again? You've got it rough too, huh?[%p]"
 
 msgid "22000:[name]三住[line]「でもよ、ひとつだけ言っていいか？」[%p]"
@@ -738,13 +738,13 @@ msgstr "24100:I wasn't sure where to start. I could feel someone looking at me f
 msgid "24200:首筋のチリチリとした感覚はいまだ消えない。[linebreak]悪魔女は、どんな顔をして僕を見ているんだろう。[linebreak]振り返って、確かめたい。でも、怖くてできない……。[%p]"
 msgstr "24200:And the prickling on the back of my neck was still there. What kind of face was she making? I wanted to look back and see. But I was too scared.[%p]"
 
-msgid "24300:[name]三住[line]「で、なんなんだ？　今、俺も女と一緒なんだよ。なるべく手短に頼むわ」[%p]"
+msgid "24300:[name]三住[line]「で、なんなんだ？\u3000今、俺も女と一緒なんだよ。なるべく手短に頼むわ」[%p]"
 msgstr "24300:[name]三住[line]So, what is it? I'm with a girl right now. Make it quick.[%p]"
 
 msgid "24400:[name]拓巳[line]「そ、そのっ、えっ……と……！」[%p]"
 msgstr "24400:[name]拓巳[line]Um, well...[%p]"
 
-msgid "24500:[name]三住[line]「なんだよ？　早く言えって」[%p]"
+msgid "24500:[name]三住[line]「なんだよ？\u3000早く言えって」[%p]"
 msgstr "24500:[name]三住[line]What is it? Come on, spit it out.[%p]"
 
 msgid "24600:[name]拓巳[line]「…………ウ、ウ、ウチの」[%p]"
@@ -816,7 +816,7 @@ msgstr "26700:[name]三住[line]What kind of stupid question is that, especially
 msgid "26800:[name]拓巳[line]「…………」[%p]"
 msgstr "26800:[name]拓巳[line]...[%p]"
 
-msgid "26900:[name]三住[line]「分かった、お前もしかして、梨深になにか指図されてんだろ？[linebreak]イタズラか？　ドッキリか？」[%p]"
+msgid "26900:[name]三住[line]「分かった、お前もしかして、梨深になにか指図されてんだろ？[linebreak]イタズラか？\u3000ドッキリか？」[%p]"
 msgstr "26900:[name]三住[line]Okay, I get it. Rimi put you up to this, right. Is this a prank? Some kind of game?[%p]"
 
 msgid "27000:[name]三住[line]「じゃあ梨深に伝えといてくれ。[linebreak]“お前の低レベルのドッキリに引っかかるほど俺はバカじゃねえ”ってな」[%p]"
@@ -825,7 +825,7 @@ msgstr "27000:[name]三住[line]Tell this to Rimi, then. “I'm not stupid enoug
 msgid "27100:[name]拓巳[line]「ホ、ホント……！？」[%p]"
 msgstr "27100:[name]拓巳[line]R-Really?![%p]"
 
-msgid "27200:[name]三住[line]「ん？　なにが？」[%p]"
+msgid "27200:[name]三住[line]「ん？\u3000なにが？」[%p]"
 msgstr "27200:[name]三住[line]Hmm? Really what?[%p]"
 
 msgid "27300:[name]拓巳[line]「ホントに、ク、クラス、メイト……？」[%p]"
@@ -939,7 +939,7 @@ msgstr "30800:Or maybe there was some kind of accident that took my memories of 
 msgid "30900:いずれにせよ、僕は自分が分からない……。[%p]"
 msgstr "30900:What the hell was wrong with me?[%p]"
 
-msgid "31000:記憶喪失？　夢遊病？　それ以外のなにか？[%p]"
+msgid "31000:記憶喪失？\u3000夢遊病？\u3000それ以外のなにか？[%p]"
 msgstr "31000:Amnesia? Sleepwalking? Something else?[%p]"
 
 msgid "31100:[name]梨深[line]「大丈夫？」[%p]"
@@ -963,7 +963,7 @@ msgstr "31600:Her face was closer than I thought it would be. What color were he
 msgid "31700:[name]拓巳[line]「なんで……」[%p]"
 msgstr "31700:[name]拓巳[line]Why?[%p]"
 
-msgid "31800:[name]梨深[line]「ん？　なになに？」[%p]"
+msgid "31800:[name]梨深[line]「ん？\u3000なになに？」[%p]"
 msgstr "31800:[name]梨深[line]Hmm? What?[%p]"
 
 msgid "31900:[name]拓巳[line]「ここにいる……？」[%p]"
@@ -990,7 +990,7 @@ msgstr "32500:I handed back the phone. As I watched her take it, I asked again.[
 msgid "32600:[name]拓巳[line]「なんで……」[%p]"
 msgstr "32600:[name]拓巳[line]Why?[%p]"
 
-msgid "32700:[name]梨深[line]「ん？　今度はなに？」[%p]"
+msgid "32700:[name]梨深[line]「ん？\u3000今度はなに？」[%p]"
 msgstr "32700:[name]梨深[line]Hmm? Now what?[%p]"
 
 msgid "32800:[name]拓巳[line]「ここにいる……？」[%p]"
@@ -1059,7 +1059,7 @@ msgstr "34800:Maybe I was just being an idiot.[%p]"
 msgid "34900:“視線の主”なんていなくて、僕はイスに座ったままひとり延々と自分の妄想に怯えて震え続けているっていうのが真相だったら、本気でバカすぎ――[%p]"
 msgstr "34900:If there was nobody there, and I was just sitting in my chair, scared to death of my own delusions, I'd look like the world's biggest moron.[%p]"
 
-msgid "35000:[name]梨深[line]「ん？　あれ、タク？　固まってる？」[%p]"
+msgid "35000:[name]梨深[line]「ん？\u3000あれ、タク？\u3000固まってる？」[%p]"
 msgstr "35000:[name]梨深[line]Hmm? Taku? Did you freeze up?[%p]"
 
 msgid "35100:[name]拓巳[line]「――っ！」[%p]"
@@ -1101,7 +1101,7 @@ msgstr "36200:I knew it![%p]"
 msgid "36300:[name]拓巳[line]「こ、こ……こ……っ」[%p]"
 msgstr "36300:[name]拓巳[line]D-D-D-D...[%p]"
 
-msgid "36400:殺さないで！　って叫ぼうとしたけど、あまりの恐怖でうまく声が出ない。[%p]"
+msgid "36400:殺さないで！\u3000って叫ぼうとしたけど、あまりの恐怖でうまく声が出ない。[%p]"
 msgstr "36400:“Don't kill me!” I tried to scream, but I was too scared to get the words out.[%p]"
 
 msgid "36500:[name]少女[line]「？？？」[%p]"
@@ -1119,7 +1119,7 @@ msgstr "36800:I tried to hide under my desk to put as much distance between us a
 msgid "36900:[name]少女[line]「プッ。なにやってるの、タク」[%p]"
 msgstr "36900:[name]少女[line]Bfft! What are you doing, Taku?[%p]"
 
-msgid "37000:[name]少女[line]「今、すっごい音したよ？　ゴツンッて」[%p]"
+msgid "37000:[name]少女[line]「今、すっごい音したよ？\u3000ゴツンッて」[%p]"
 msgstr "37000:[name]少女[line]That was a really loud noise you just made. “Bang.”[%p]"
 
 msgid "37100:なおも悪魔女は楽しそうな笑顔を崩さない。[%p]"
@@ -1200,7 +1200,7 @@ msgstr "39500:[name]拓巳[line]...[%p]"
 msgid "39600:この女……いったいなにを考えてるんだ……？[linebreak]僕を殺しに来たわけじゃないのか？[%p]"
 msgstr "39600:What was this girl thinking? Hadn't she come here to kill me?[%p]"
 
-msgid "39700:[name]少女[line]「ほら、立てる？　立とう！」[%p]"
+msgid "39700:[name]少女[line]「ほら、立てる？\u3000立とう！」[%p]"
 msgstr "39700:[name]少女[line]Come on, can you stand up? Give it a try![%p]"
 
 msgid "39800:ソファから立ち上がった悪魔が、僕に向かって手を差しのべてきた。[%p]"
@@ -1260,7 +1260,7 @@ msgstr "41500:[name]拓巳[line]Y-You're going to kill me, right?[%p]"
 msgid "41600:[name]拓巳[line]「そ、それとも、優愛とか、『将軍』とかがいる、ば、場所に連れてって――」[%p]"
 msgstr "41600:[name]拓巳[line]Or are you going to take me to where Yua and Shogun are waiting?[%p]"
 
-msgid "41700:[name]少女[line]「ゆあ？　ショウグン？　誰それ？」[%p]"
+msgid "41700:[name]少女[line]「ゆあ？\u3000ショウグン？\u3000誰それ？」[%p]"
 msgstr "41700:[name]少女[line]Yua? Shogun? Who's that?[%p]"
 
 msgid "41800:３人でよってたかって無抵抗の僕を集団リンチとかする気かもしれない……。[%p]"
@@ -1287,7 +1287,7 @@ msgstr "42400:[name]少女[line]Come on, stop being so scared. You're really try
 msgid "42500:[name]拓巳[line]「お、お願いだ……もう二度と、誰にも……し、喋らないから……だから、み、見逃して……」[%p]"
 msgstr "42500:[name]拓巳[line]P-Please... I'll never tell anyone, so let me go.[%p]"
 
-msgid "42600:[name]少女[line]「もしもーし、タク！　ちょっと落ち着こう？」[%p]"
+msgid "42600:[name]少女[line]「もしもーし、タク！\u3000ちょっと落ち着こう？」[%p]"
 msgstr "42600:[name]少女[line]Hello? Taku? Calm down a little.[%p]"
 
 msgid "42700:この女、馴れ馴れしくタクって呼びやがって……。[%p]"
@@ -1323,13 +1323,13 @@ msgstr "43600:[name]少女[line]Taku, you talk to yourself a lot.[%p]"
 msgid "43700:[name]少女[line]「――前から思ってたことだけど」[%p]"
 msgstr "43700:[name]少女[line]I've always thought this, but...[%p]"
 
-msgid "43800:前から……？　それっていつから？[linebreak]っていうか、僕は今独り言を言っていたの？[%p]"
+msgid "43800:前から……？\u3000それっていつから？[linebreak]っていうか、僕は今独り言を言っていたの？[%p]"
 msgstr "43800:Always? Since when was “always”? Wait, was I talking to myself?[%p]"
 
 msgid "43900:自分ではまったく自覚がない。[%p]"
 msgstr "43900:I couldn't tell.[%p]"
 
-msgid "44000:ホントに？　ホントのホントに独り言を言ってた？[linebreak]この女が嘘を言っている可能性は？[linebreak]心を読まれた可能性は？[%p]"
+msgid "44000:ホントに？\u3000ホントのホントに独り言を言ってた？[linebreak]この女が嘘を言っている可能性は？[linebreak]心を読まれた可能性は？[%p]"
 msgstr "44000:Really? Was I really, really talking to myself? Or was it possible she was lying? Was it possible she read my mind?[%p]"
 
 msgid "44100:[name]少女[line]「タクの名前を知らないわけないよー。[linebreak]あたし、物覚えはそんなによくない方だけど――」[%p]"
@@ -1347,7 +1347,7 @@ msgstr "44400:[name]少女[line]Or is this your way of saying I'm stupid? I mean
 msgid "44500:[name]少女[line]「面と向かってそういうこと言われると傷ついちゃうな」[%p]"
 msgstr "44500:[name]少女[line]But it kind of hurts to hear it to my face.[%p]"
 
-msgid "44600:頭がおかしいのか……？[linebreak]誰の頭が？　僕の？　この女の？[%p]"
+msgid "44600:頭がおかしいのか……？[linebreak]誰の頭が？\u3000僕の？\u3000この女の？[%p]"
 msgstr "44600:Was she crazy? Wait, how could I be sure she was the crazy one? Was I crazy? Or was she?[%p]"
 
 msgid "44700:[name]拓巳[line]「も、もしかして……て、転校生……？」[%p]"
@@ -1407,7 +1407,7 @@ msgstr "46400:[name]拓巳[line]...[%p]"
 msgid "46500:[name]拓巳[line]「リ……ミ……」[%p]"
 msgstr "46500:[name]拓巳[line]Ri...mi?[%p]"
 
-msgid "46600:[name]少女[line]「そう！　正解！　賞金５０円プレゼント！」[%p]"
+msgid "46600:[name]少女[line]「そう！\u3000正解！\u3000賞金５０円プレゼント！」[%p]"
 msgstr "46600:[name]少女[line]That's right! Correct! You win a prize of 50 yen![%p]"
 
 msgid "46700:[name]拓巳[line]「え……！？」[%p]"
@@ -1482,7 +1482,7 @@ msgstr "48900:Which was it? Was what this girl was saying true?[%p]"
 msgid "49000:いや、クラスメイトかどうかは問題じゃない。少なくとも厳然たる事実としてあるのは、この女が人殺しということで――[%p]"
 msgstr "49000:No, it didn't matter whether or not she was a classmate. The one thing I was sure of was that she was a murderer.[%p]"
 
-msgid "49100:[name]梨深[line]「もしかして本気で思い出せないの？　さっき頭打ったせいで記憶喪失になっちゃった？」[%p]"
+msgid "49100:[name]梨深[line]「もしかして本気で思い出せないの？\u3000さっき頭打ったせいで記憶喪失になっちゃった？」[%p]"
 msgstr "49100:[name]梨深[line]Are you telling me you really can't remember? Did hitting your head just now give you amnesia?[%p]"
 
 msgid "49200:悪魔女が僕の頭に手を伸ばしてくる。[%p]"
@@ -1503,7 +1503,7 @@ msgstr "49600:[name]梨深[line]Okay, ask Dai-chin, then.[%p]"
 msgid "49700:[name]梨深[line]「そしたらタクも思い出せるかも」[%p]"
 msgstr "49700:[name]梨深[line]Maybe then you'll remember.[%p]"
 
-msgid "49800:だ、大ちん？[linebreak]なんだそれ？　人名か？　それともなにかの暗号？　悪魔の呪文――？[%p]"
+msgid "49800:だ、大ちん？[linebreak]なんだそれ？\u3000人名か？\u3000それともなにかの暗号？\u3000悪魔の呪文――？[%p]"
 msgstr "49800:D-Dai-chin? What the hell was that? A person's name? Some kind of code? A demon spell?[%p]"
 
 msgid "49900:[name]梨深[line]「大ちんだよ、大ちん。三住大輔！」[%p]"
@@ -1557,10 +1557,10 @@ msgstr "51400:Actually, it was a more girly hand than I expected, so my heart st
 msgid "51500:い、いや、惑わされるな！[%p]"
 msgstr "51500:No, I couldn't let her fool me![%p]"
 
-msgid "51600:こいつは悪魔だ！　誘惑なんかされるもんか！　僕は三次元に興味はないんだ！[linebreak]星来たん、僕に力をくれ！[%p]"
+msgid "51600:こいつは悪魔だ！\u3000誘惑なんかされるもんか！\u3000僕は三次元に興味はないんだ！[linebreak]星来たん、僕に力をくれ！[%p]"
 msgstr "51600:She was a demon! I couldn't let her tempt me! I wasn't into 3D girls! Seira-tan, give me power![%p]"
 
-msgid "51700:[name]梨深[line]「タク、ケータイ使ったことないの？　電話機は耳に当てるんだよー？」[%p]"
+msgid "51700:[name]梨深[line]「タク、ケータイ使ったことないの？\u3000電話機は耳に当てるんだよー？」[%p]"
 msgstr "51700:[name]梨深[line]Taku, have you never used a cell phone? Put it up to your ear![%p]"
 
 msgid "51800:至近距離から、悪魔女が首を傾げつつ僕の顔をのぞき込んでくる。[%p]"
@@ -1638,7 +1638,7 @@ msgstr "54100:W-Why didn't he find it surprising at all?[%p]"
 msgid "54200:それじゃまるで、僕が悪魔女と一緒にいるっていうシチュエーションが、日常的なことみたいに聞こえるじゃないか……。[%p]"
 msgstr "54200:It almost sounded like he expected us to be together.[%p]"
 
-msgid "54300:[name]三住[line]「またリミに振り回されてるのか？　大変だなお前も」[%p]"
+msgid "54300:[name]三住[line]「またリミに振り回されてるのか？\u3000大変だなお前も」[%p]"
 msgstr "54300:[name]三住[line]Rimi got you doing something crazy again? You've got it rough too, huh?[%p]"
 
 msgid "54400:[name]三住[line]「でもよ、ひとつだけ言っていい？」[%p]"
@@ -1710,13 +1710,13 @@ msgstr "56500:I wasn't sure where to start. I could feel someone looking at me f
 msgid "56600:首筋のチリチリとした感覚はいまだ消えない。[linebreak]悪魔女は、どんな顔をして僕を見ているんだろう。[linebreak]振り返って、確かめたい。でも、怖くてできない……。[%p]"
 msgstr "56600:And the prickling on the back of my neck was still there. What kind of face was she making? I wanted to look back and see. But I was too scared.[%p]"
 
-msgid "56700:[name]三住[line]「で、なんなんだ？　今、俺も女と一緒なんだよ。なるべく手短に頼むわ」[%p]"
+msgid "56700:[name]三住[line]「で、なんなんだ？\u3000今、俺も女と一緒なんだよ。なるべく手短に頼むわ」[%p]"
 msgstr "56700:[name]三住[line]So, what is it? I'm with a girl right now. Make it quick.[%p]"
 
 msgid "56800:[name]拓巳[line]「そ、そのっ、えっ……と……！」[%p]"
 msgstr "56800:[name]拓巳[line]Um, well...[%p]"
 
-msgid "56900:[name]三住[line]「なんだよ？　早く言えって」[%p]"
+msgid "56900:[name]三住[line]「なんだよ？\u3000早く言えって」[%p]"
 msgstr "56900:[name]三住[line]What is it? Come on, spit it out.[%p]"
 
 msgid "57000:[name]拓巳[line]「…………ウ、ウ、ウチの」[%p]"
@@ -1788,7 +1788,7 @@ msgstr "59100:[name]三住[line]What kind of stupid question is that, especially
 msgid "59200:[name]拓巳[line]「…………」[%p]"
 msgstr "59200:[name]拓巳[line]...[%p]"
 
-msgid "59300:[name]三住[line]「分かった、お前もしかして、梨深になにか指図されてんだろ？[linebreak]イタズラか？　ドッキリか？」[%p]"
+msgid "59300:[name]三住[line]「分かった、お前もしかして、梨深になにか指図されてんだろ？[linebreak]イタズラか？\u3000ドッキリか？」[%p]"
 msgstr "59300:[name]三住[line]Okay, I get it. Rimi put you up to this, right. Is this a prank? Some kind of game?[%p]"
 
 msgid "59400:[name]三住[line]「じゃあ梨深に伝えといてくれ。[linebreak]“お前の低レベルのドッキリに引っかかるほど俺はバカじゃねえ”ってな」[%p]"
@@ -1797,7 +1797,7 @@ msgstr "59400:[name]三住[line]Tell this to Rimi, then. “I'm not stupid enoug
 msgid "59500:[name]拓巳[line]「ホ、ホント……！？」[%p]"
 msgstr "59500:[name]拓巳[line]R-Really?![%p]"
 
-msgid "59600:[name]三住[line]「ん？　なにが？」[%p]"
+msgid "59600:[name]三住[line]「ん？\u3000なにが？」[%p]"
 msgstr "59600:[name]三住[line]Hmm? Really what?[%p]"
 
 msgid "59700:[name]拓巳[line]「ホントに、ク、クラス、メイト……？」[%p]"
@@ -1911,7 +1911,7 @@ msgstr "63200:Or maybe there was some kind of accident that took my memories of 
 msgid "63300:いずれにせよ、僕は自分が分からない……。[%p]"
 msgstr "63300:What the hell was wrong with me?[%p]"
 
-msgid "63400:記憶喪失？　夢遊病？　それ以外のなにか？[%p]"
+msgid "63400:記憶喪失？\u3000夢遊病？\u3000それ以外のなにか？[%p]"
 msgstr "63400:Amnesia? Sleepwalking? Something else?[%p]"
 
 msgid "63500:[name]梨深[line]「大丈夫？」[%p]"
@@ -1935,7 +1935,7 @@ msgstr "64000:Her face was closer than I thought it would be. What color were he
 msgid "64100:[name]拓巳[line]「なんで……」[%p]"
 msgstr "64100:[name]拓巳[line]Why?[%p]"
 
-msgid "64200:[name]梨深[line]「ん？　なになに？」[%p]"
+msgid "64200:[name]梨深[line]「ん？\u3000なになに？」[%p]"
 msgstr "64200:[name]梨深[line]Hmm? What?[%p]"
 
 msgid "64300:[name]拓巳[line]「ここにいる……？」[%p]"
@@ -1962,7 +1962,7 @@ msgstr "64900:I handed back the phone. As I watched her take it, I asked again.[
 msgid "65000:[name]拓巳[line]「なんで……」[%p]"
 msgstr "65000:[name]拓巳[line]Why?[%p]"
 
-msgid "65100:[name]梨深[line]「ん？　今度はなに？」[%p]"
+msgid "65100:[name]梨深[line]「ん？\u3000今度はなに？」[%p]"
 msgstr "65100:[name]梨深[line]Hmm? Now what?[%p]"
 
 msgid "65200:[name]拓巳[line]「ここにいる……？」[%p]"
@@ -2025,7 +2025,7 @@ msgstr "67000:No, I wasn't getting any packages today.[%p]"
 msgid "67100:七海……？[%p]"
 msgstr "67100:Nanami?[%p]"
 
-msgid "67200:いや、七海ならもっと激しく乱暴に扉を叩く。[linebreak]そして“おにぃ！　開けろー！”って外で騒ぐはずだ。[%p]"
+msgid "67200:いや、七海ならもっと激しく乱暴に扉を叩く。[linebreak]そして“おにぃ！\u3000開けろー！”って外で騒ぐはずだ。[%p]"
 msgstr "67200:No, Nanami would pound louder and harder. And then she'd scream “Brother! Open up!” I'd recognize it if it were her.[%p]"
 
 msgid "67300:優愛……？[%p]"
@@ -2166,7 +2166,7 @@ msgstr "71700:It was because I'd talked to those cops! She'd used her clairvoyan
 msgid "71800:[name]拓巳[line]「こ、こ……こ……っ」[%p]"
 msgstr "71800:[name]拓巳[line]D-D-D-D...[%p]"
 
-msgid "71900:殺さないで！　って叫ぼうとしたけど、あまりの恐怖でうまく声が出ない。[%p]"
+msgid "71900:殺さないで！\u3000って叫ぼうとしたけど、あまりの恐怖でうまく声が出ない。[%p]"
 msgstr "71900:Don't kill me! I tried to scream, but I was too scared to get the words out.[%p]"
 
 msgid "72000:[name]少女[line]「？？？」[%p]"
@@ -2283,7 +2283,7 @@ msgstr "75600:[name]拓巳[line]...[%p]"
 msgid "75700:この女……いったいなにを考えてるんだ……？[linebreak]僕を殺しに来たわけじゃないのか？[%p]"
 msgstr "75700:What was this girl thinking? Hadn't she come here to kill me?[%p]"
 
-msgid "75800:[name]少女[line]「ほら、立てる？　立とう！」[%p]"
+msgid "75800:[name]少女[line]「ほら、立てる？\u3000立とう！」[%p]"
 msgstr "75800:[name]少女[line]Come on, can you stand up? Give it a try![%p]"
 
 msgid "75900:悪魔は僕の方に歩み寄り、手を差しのべてきた。[%p]"
@@ -2343,7 +2343,7 @@ msgstr "77600:[name]拓巳[line]Y-You're going to kill me, right?[%p]"
 msgid "77700:[name]拓巳[line]「そ、それとも、優愛とか、『将軍』とかがいる、ば、場所に連れてって――」[%p]"
 msgstr "77700:[name]拓巳[line]Or are you going to take me to where Yua and Shogun are waiting?[%p]"
 
-msgid "77800:[name]少女[line]「ゆあ？　ショウグン？　誰それ？」[%p]"
+msgid "77800:[name]少女[line]「ゆあ？\u3000ショウグン？\u3000誰それ？」[%p]"
 msgstr "77800:[name]少女[line]Yua? Shogun? Who are they?[%p]"
 
 msgid "77900:３人でよってたかって無抵抗の僕を集団リンチとかする気かもしれない……。[%p]"
@@ -2370,7 +2370,7 @@ msgstr "78500:[name]少女[line]Come on, stop being so scared. You're really try
 msgid "78600:[name]拓巳[line]「お、お願いだ……もう二度と、誰にも……し、喋らないから……だから、み、見逃して……」[%p]"
 msgstr "78600:[name]拓巳[line]P-Please... I'll never tell anyone, so let me go.[%p]"
 
-msgid "78700:[name]少女[line]「もしもーし、タク！　ちょっと落ち着こう？」[%p]"
+msgid "78700:[name]少女[line]「もしもーし、タク！\u3000ちょっと落ち着こう？」[%p]"
 msgstr "78700:[name]少女[line]Hello? Taku? Calm down a little.[%p]"
 
 msgid "78800:この女、馴れ馴れしくタクって呼びやがって……。[%p]"
@@ -2406,13 +2406,13 @@ msgstr "79700:[name]少女[line]Taku, you talk to yourself a lot.[%p]"
 msgid "79800:[name]少女[line]「――前から思ってたことだけど」[%p]"
 msgstr "79800:[name]少女[line]I've always thought this, but...[%p]"
 
-msgid "79900:前から……？　それっていつから？[linebreak]っていうか、僕は今独り言を言っていたの？[%p]"
+msgid "79900:前から……？\u3000それっていつから？[linebreak]っていうか、僕は今独り言を言っていたの？[%p]"
 msgstr "79900:Always? Since when was “always”? Wait, was I talking to myself?[%p]"
 
 msgid "80000:自分ではまったく自覚がない。[%p]"
 msgstr "80000:I couldn't tell.[%p]"
 
-msgid "80100:ホントに？　ホントのホントに独り言を言ってた？[linebreak]この女が嘘を言っている可能性は？[linebreak]心を読まれた可能性は？[%p]"
+msgid "80100:ホントに？\u3000ホントのホントに独り言を言ってた？[linebreak]この女が嘘を言っている可能性は？[linebreak]心を読まれた可能性は？[%p]"
 msgstr "80100:Really? Was I really, really talking to myself? Or was it possible she was lying? Was it possible she read my mind?[%p]"
 
 msgid "80200:[name]少女[line]「タクの名前を知らないわけないよー。[linebreak]あたし、物覚えはそんなによくない方だけど――」[%p]"
@@ -2430,7 +2430,7 @@ msgstr "80500:[name]少女[line]Or is this your way of saying I'm stupid? I mean
 msgid "80600:[name]少女[line]「面と向かってそういうこと言われると傷ついちゃうな」[%p]"
 msgstr "80600:[name]少女[line]But it kind of hurts to hear it to my face.[%p]"
 
-msgid "80700:頭がおかしいのか……？[linebreak]誰の頭が？　僕の？　この女の？[%p]"
+msgid "80700:頭がおかしいのか……？[linebreak]誰の頭が？\u3000僕の？\u3000この女の？[%p]"
 msgstr "80700:Was she crazy? Wait, how could I be sure she was the crazy one? Was I crazy? Or was she?[%p]"
 
 msgid "80800:[name]拓巳[line]「も、もしかして……て、転校生……？」[%p]"
@@ -2496,7 +2496,7 @@ msgstr "82700:[name]拓巳[line]...[%p]"
 msgid "82800:[name]梨深[line]「って、リアクションなしかーい！」[%p]"
 msgstr "82800:[name]梨深[line]Wait, you're not even reacting?[%p]"
 
-msgid "82900:[name]梨深[line]「サ・キ・ハ・タ・リ・ミ！　思い出した？」[%p]"
+msgid "82900:[name]梨深[line]「サ・キ・ハ・タ・リ・ミ！\u3000思い出した？」[%p]"
 msgstr "82900:[name]梨深[line]RI. MI. SA. KI. HA. TA. Do you remember now?[%p]"
 
 msgid "83000:[name]拓巳[line]「…………」[%p]"
@@ -2538,13 +2538,13 @@ msgstr "84100:Which was it? Was what this girl was saying true?[%p]"
 msgid "84200:いや、クラスメイトかどうかは問題じゃない。少なくとも厳然たる事実としてあるのは、この女が人殺しということで――[%p]"
 msgstr "84200:No, it didn't matter whether or not she was a classmate. The one thing I was sure of was that she was a murderer...[%p]"
 
-msgid "84300:[name]梨深[line]「タク、記憶力ゼロ？　まあいいや……」[%p]"
+msgid "84300:[name]梨深[line]「タク、記憶力ゼロ？\u3000まあいいや……」[%p]"
 msgstr "84300:[name]梨深[line]Taku, does your memory just not work at all? Well, whatever.[%p]"
 
 msgid "84400:[name]梨深[line]「じゃあ、“大ちん”に聞いてみて」[%p]"
 msgstr "84400:[name]梨深[line]Okay, ask Dai-chin, then.[%p]"
 
-msgid "84500:だ、大ちん？[linebreak]なんだそれ？　人名か？　それともなにかの暗号？　悪魔の呪文――？[%p]"
+msgid "84500:だ、大ちん？[linebreak]なんだそれ？\u3000人名か？\u3000それともなにかの暗号？\u3000悪魔の呪文――？[%p]"
 msgstr "84500:D-Dai-chin? What the hell was that? A person's name? Some kind of code? A demon spell?[%p]"
 
 msgid "84600:[name]梨深[line]「大ちんだよ、大ちん。三住大輔！」[%p]"
@@ -2577,7 +2577,7 @@ msgstr "85400:I froze. The demon girl seemed confused, before going around to my
 msgid "85500:彼女の髪が揺れて、シャンプーのいい香りが僕の鼻先まで漂ってきた。[%p]"
 msgstr "85500:Her hair rustled a little, and I could smell the sweet scent of her shampoo.[%p]"
 
-msgid "85600:でもこいつは悪魔だ！　誘惑なんかされるもんか！[linebreak]僕は三次元に興味はないんだ！[linebreak]星来たん、僕に力をくれ！[%p]"
+msgid "85600:でもこいつは悪魔だ！\u3000誘惑なんかされるもんか！[linebreak]僕は三次元に興味はないんだ！[linebreak]星来たん、僕に力をくれ！[%p]"
 msgstr "85600:She was a demon! I couldn't let her tempt me! I wasn't into 3D girls! Seira-tan, give me power![%p]"
 
 msgid "85700:[name]梨深[line]「もしかして番号知らない？」[%p]"
@@ -2742,13 +2742,13 @@ msgstr "90900:[name]三住[line]If you don't need anything, I'm gonna hang up. I
 msgid "91000:[name]拓巳[line]「ま、待っ……！」[%p]"
 msgstr "91000:[name]拓巳[line]W-Wait...[%p]"
 
-msgid "91100:[name]三住[line]「だから、なんだよ？　用があるなら早く言えって」[%p]"
+msgid "91100:[name]三住[line]「だから、なんだよ？\u3000用があるなら早く言えって」[%p]"
 msgstr "91100:[name]三住[line]Well, what is it? If you have something to say, then say it.[%p]"
 
 msgid "91200:[name]拓巳[line]「そ、そのっ、えっ……と……！」[%p]"
 msgstr "91200:[name]拓巳[line]Um, well...[%p]"
 
-msgid "91300:[name]三住[line]「なんだよ？　早く言えって」[%p]"
+msgid "91300:[name]三住[line]「なんだよ？\u3000早く言えって」[%p]"
 msgstr "91300:[name]三住[line]What is it? Come on, spit it out.[%p]"
 
 msgid "91400:[name]拓巳[line]「…………ウ、ウ、ウチの」[%p]"
@@ -2928,7 +2928,7 @@ msgstr "97100:Or maybe there was some kind of accident that took my memories of 
 msgid "97200:いずれにせよ、僕は自分が分からない……。[%p]"
 msgstr "97200:What the hell was wrong with me?[%p]"
 
-msgid "97300:記憶喪失？　夢遊病？　それ以外のなにか？[%p]"
+msgid "97300:記憶喪失？\u3000夢遊病？\u3000それ以外のなにか？[%p]"
 msgstr "97300:Amnesia? Sleepwalking? Something else?[%p]"
 
 msgid "97400:[name]梨深[line]「大丈夫？」[%p]"
@@ -2952,7 +2952,7 @@ msgstr "97900:Her face was closer than I thought it would be. What color were he
 msgid "98000:[name]拓巳[line]「なんで……」[%p]"
 msgstr "98000:[name]拓巳[line]Why?[%p]"
 
-msgid "98100:[name]梨深[line]「ん？　なになに？」[%p]"
+msgid "98100:[name]梨深[line]「ん？\u3000なになに？」[%p]"
 msgstr "98100:[name]梨深[line]Hmm? What?[%p]"
 
 msgid "98200:[name]拓巳[line]「ここにいる……？」[%p]"
@@ -2973,7 +2973,7 @@ msgstr "98600:[name]拓巳[line]...[%p]"
 msgid "98700:[name]拓巳[line]「なんで……」[%p]"
 msgstr "98700:[name]拓巳[line]Why?[%p]"
 
-msgid "98800:[name]梨深[line]「ん？　今度はなに？」[%p]"
+msgid "98800:[name]梨深[line]「ん？\u3000今度はなに？」[%p]"
 msgstr "98800:[name]梨深[line]Hmm? Now what?[%p]"
 
 msgid "98900:[name]拓巳[line]「ここにいる……？」[%p]"
@@ -2985,7 +2985,7 @@ msgstr "99000:I didn't mean “why were you able to get inside.”[%p]"
 msgid "99100:こいつがここに来た理由はなんだ？[linebreak]僕を殺しに来たならとっくに実行してるはずなのに、どうしてなにもしない？[%p]"
 msgstr "99100:What was she even doing here? If she came here to kill me, why wasn't she doing anything?[%p]"
 
-msgid "99200:[name]梨深[line]「ああ、ここに来た理由？　えっとねぇ――」[%p]"
+msgid "99200:[name]梨深[line]「ああ、ここに来た理由？\u3000えっとねぇ――」[%p]"
 msgstr "99200:[name]梨深[line]Oh, the reason I came? Well...[%p]"
 
 msgid "99300:悪魔女はカバンの中から……[%p]"
@@ -3003,7 +3003,7 @@ msgstr "99600:[name]梨深[line]I brought you the handout for your post-graduati
 msgid "99700:ついそれを受け取ってしまう。[linebreak]確かに『進路希望調査』と書かれていて、第３希望まで書ける空欄があった。[%p]"
 msgstr "99700:I took it from her. It said “Post-Graduation Plans,” with three blocks below for first preference, second preference, and third preference.[%p]"
 
-msgid "99800:……ホントに、それだけか？　それだけなのか？[%p]"
+msgid "99800:……ホントに、それだけか？\u3000それだけなのか？[%p]"
 msgstr "99800:Was that really it? Was that the only reason?[%p]"
 
 msgid "99900:[name]拓巳[line]「か、帰って……よ……」[%p]"

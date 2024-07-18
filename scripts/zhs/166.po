@@ -81,7 +81,7 @@ msgstr "2200:[name]七海[line]Brother, Brother! I brought you something![%p]"
 msgid "2300:[name]七海[line]「はい、これ。プレゼント！」[%p]"
 msgstr "2300:[name]七海[line]Look! A present![%p]"
 
-msgid "2400:[name]七海[line]「手編みの帽子なんだよ。すごいでしょ？　すごいでしょー？」[%p]"
+msgid "2400:[name]七海[line]「手編みの帽子なんだよ。すごいでしょ？\u3000すごいでしょー？」[%p]"
 msgstr "2400:[name]七海[line]It's a hand-knit cap. It's great, isn't it? Isn't it?[%p]"
 
 msgid "2500:[name]七海[line]「もう冬だしね、ナナね、帽子好きだから、編んだの！」[%p]"
@@ -93,10 +93,10 @@ msgstr "2600:[name]七海[line]Use it, okay?[%p]"
 msgid "2700:[name]七海[line]「…………」[%p]"
 msgstr "2700:[name]七海[line]...[%p]"
 
-msgid "2800:[name]七海[line]「おにぃ！　無視しないでよー！」[%p]"
+msgid "2800:[name]七海[line]「おにぃ！\u3000無視しないでよー！」[%p]"
 msgstr "2800:[name]七海[line]Brother! Don't ignore me![%p]"
 
-msgid "2900:[name]七海[line]「あー！　ごはん、残してるじゃん！　せっかくのカレーなのに」[%p]"
+msgid "2900:[name]七海[line]「あー！\u3000ごはん、残してるじゃん！\u3000せっかくのカレーなのに」[%p]"
 msgstr "2900:[name]七海[line]Hey! You didn't finish your meal! And it's curry today, too![%p]"
 
 msgid "3000:[name]七海[line]「ちゃんと食べないとダメなんだよー」[%p]"
@@ -108,7 +108,7 @@ msgstr "3100:[name]七海[line]Hey, is it true that hospital food isn't very goo
 msgid "3200:[name]七海[line]「でも食べないとダメー」[%p]"
 msgstr "3200:[name]七海[line]But you need to eat![%p]"
 
-msgid "3300:[name]七海[line]「起きろー、おにぃ！　食べずに寝たら[linebreak]夜になっておなかすいちゃうんだからー！」[%p]"
+msgid "3300:[name]七海[line]「起きろー、おにぃ！\u3000食べずに寝たら[linebreak]夜になっておなかすいちゃうんだからー！」[%p]"
 msgstr "3300:[name]七海[line]Get up, Brother! If you go to sleep without eating, you'll get hungry in the middle of the night![%p]"
 
 msgid "3400:誰かの手が、僕の背中に回される。[linebreak]そして無理矢理、身体を起こされる。[%p]"
@@ -324,7 +324,7 @@ msgstr "10300:They surrounded me with microphones, cameras, and lighting. There 
 msgid "10400:そのあまりの勢いに、僕は恐怖すら覚えた。[linebreak]逃げ出したかったけど、一歩も動けなかった。[linebreak]もみくちゃだった。[%p]"
 msgstr "10400:The sheer intensity of them all terrified me. I wanted to run, but I couldn't move an inch. They were crushing me.[%p]"
 
-msgid "10500:[name]芸能レポーターＡ[line]「西條くん！　西條くん！　透視はどうなっちゃったのかな？」[%p]"
+msgid "10500:[name]芸能レポーターＡ[line]「西條くん！\u3000西條くん！\u3000透視はどうなっちゃったのかな？」[%p]"
 msgstr "10500:[name]芸能レポーターＡ[line]Nishijo! Nishijo! What did your psychic powers tell you?[%p]"
 
 msgid "10600:[name]芸能レポーターＢ[line]「結局、ニュージェネの犯人は誰なのか分からないということですか？」[%p]"
@@ -333,13 +333,13 @@ msgstr "10600:[name]芸能レポーターＢ[line]Does this mean you failed to f
 msgid "10700:[name]芸能レポーターＡ[line]「そのダーススパイダーのヘルメットは[linebreak]なにか超能力と関係あるのかな？」[%p]"
 msgstr "10700:[name]芸能レポーターＡ[line]Does that Darth Spider helmet have something to do with your powers?[%p]"
 
-msgid "10800:[name]芸能レポーターＣ[line]「西條さん！　答えてくれませんかぁ？　これで終わりなんて言うなら、電波ジャックですよ！？」[%p]"
+msgid "10800:[name]芸能レポーターＣ[line]「西條さん！\u3000答えてくれませんかぁ？\u3000これで終わりなんて言うなら、電波ジャックですよ！？」[%p]"
 msgstr "10800:[name]芸能レポーターＣ[line]Nishijo! Would you please answer us? If this is the end of the show, you just hijacked the airwaves for nothing![%p]"
 
-msgid "10900:[name]芸能レポーターＢ[line]「結局なにがしたかったんです？　ニュージェネに便乗した売名行為ですか？　不謹慎だと思わないんですか！？」[%p]"
+msgid "10900:[name]芸能レポーターＢ[line]「結局なにがしたかったんです？\u3000ニュージェネに便乗した売名行為ですか？\u3000不謹慎だと思わないんですか！？」[%p]"
 msgstr "10900:[name]芸能レポーターＢ[line]What was the point of all this? Are you trying to use the NewGen murders to get famous? Don't you think that's a little inappropriate?[%p]"
 
-msgid "11000:[name]芸能レポーターＡ[line]「ユーリ・ブライトマンさんとは最近話したかな？　どんなことを話した？」[%p]"
+msgid "11000:[name]芸能レポーターＡ[line]「ユーリ・ブライトマンさんとは最近話したかな？\u3000どんなことを話した？」[%p]"
 msgstr "11000:[name]芸能レポーターＡ[line]Have you talked to Yuri Brightman lately? What did you talk about?[%p]"
 
 msgid "11100:[name]芸能レポーターＣ[line]「地震とニュージェネについてなにか関係あると思いますかぁ？」[%p]"

@@ -21,7 +21,7 @@ msgstr "200:I couldn't get what I'd just seen on the roof out of my head. The sc
 msgid "300:あてもなく校内を走った。[linebreak]ホームルームが始まっているから廊下に人影はない。[linebreak]こずぴぃは追ってこなかった。[%p]"
 msgstr "300:I ran through the school with no real idea of where I was going. Homeroom had started and there were no students in the hallways. Kozupii didn't follow.[%p]"
 
-msgid "400:どうしよう……。どうしよう……。どうしよう……。[linebreak]逃げてきてよかったのか？　こずぴぃのところに残るべきだったのか？[%p]"
+msgid "400:どうしよう……。どうしよう……。どうしよう……。[linebreak]逃げてきてよかったのか？\u3000こずぴぃのところに残るべきだったのか？[%p]"
 msgstr "400:What should I do? What should I do? What should I do? Was running the right move? Should I have stayed with Kozupii?[%p]"
 
 msgid "500:逃げたことで、こずぴぃに“敵”って認識されたらまずいんじゃないか？[%p]"
@@ -51,7 +51,7 @@ msgstr "1200:The DQN didn't take out his phone. If he had, I might've snapped an
 msgid "1300:[name]生徒Ｃ[line]「クラスの女子が授業ボイコットしたみてえでよ。誰も来ねえから俺ら今、探してるわけよ」[%p]"
 msgstr "1300:[name]生徒Ｃ[line]The girls in the class are all playing hooky today or something. We're out looking for them.[%p]"
 
-msgid "1400:[name]生徒Ｃ[line]「でもダルいと思わねえ？　三住はミナコが心配みてえだけどよ、どうせ集団でサボってるだけだろ。そう思うよなエスパー？」[%p]"
+msgid "1400:[name]生徒Ｃ[line]「でもダルいと思わねえ？\u3000三住はミナコが心配みてえだけどよ、どうせ集団でサボってるだけだろ。そう思うよなエスパー？」[%p]"
 msgstr "1400:[name]生徒Ｃ[line]I really don't know why we're bothering, though. Misumi's worried about Minako, but they're probably all just hanging out somewhere or something. Don't you think so, boy psychic?[%p]"
 
 msgid "1500:僕は答えなかった。[linebreak]すると腰を蹴られた。[%p]"
@@ -66,7 +66,7 @@ msgstr "1700:[name]三住[line]Knock it off.[%p]"
 msgid "1800:三住くんが口を開く。なおも僕に暴力を振るおうとするＤＱＮを止めた。[%p]"
 msgstr "1800:Misumi spoke for the first time. The DQN was still trying to hurt me, but Misumi stopped him.[%p]"
 
-msgid "1900:[name]三住[line]「タク。ミナコ見なかったか？　チャイム鳴るまでいたんだけどよ。今はメールしても電話しても返ってこねえんだ」[%p]"
+msgid "1900:[name]三住[line]「タク。ミナコ見なかったか？\u3000チャイム鳴るまでいたんだけどよ。今はメールしても電話しても返ってこねえんだ」[%p]"
 msgstr "1900:[name]三住[line]Taku, you seen Minako? She was here until the bell rang. Now she's not picking up her phone or answering my texts.[%p]"
 
 msgid "2000:言えない……。[linebreak]あの屋上の惨劇を言うことはできない。[%p]"
@@ -123,7 +123,7 @@ msgstr "3600:Someone said my name.[%p]"
 msgid "3700:その呼び方をする女子は、僕の知る限り、１人しかいなくて。[linebreak]おずおずと顔を上げると、差し出されている手が目に入った。[%p]"
 msgstr "3700:There was only one girl that called me that. I looked up and saw that someone was offering me a hand again.[%p]"
 
-msgid "3800:[name]梨深[line]「どうしたの？　そんなに慌てて。どこかケガしてない？」[%p]"
+msgid "3800:[name]梨深[line]「どうしたの？\u3000そんなに慌てて。どこかケガしてない？」[%p]"
 msgstr "3800:[name]梨深[line]What's wrong? Why are you in such a hurry? Are you hurt?[%p]"
 
 msgid "3900:梨深だ……。[linebreak]梨深が、いる……。[%p]"
@@ -138,7 +138,7 @@ msgstr "4100:I was about to cry, but didn't want to embarrass myself. I held bac
 msgid "4200:梨深の手は温かい。[linebreak]僕を引っ張り起こしてくれた。[%p]"
 msgstr "4200:It was warm. Rimi helped me to my feet.[%p]"
 
-msgid "4300:[name]梨深[line]「ホントに大丈夫？　かなり派手に転んでたけど」[%p]"
+msgid "4300:[name]梨深[line]「ホントに大丈夫？\u3000かなり派手に転んでたけど」[%p]"
 msgstr "4300:[name]梨深[line]You sure you're okay? That looked like a nasty fall.[%p]"
 
 msgid "4400:僕の全身をためつすがめつしつつ、服をはたいて埃を払ってくれた。[%p]"
@@ -150,7 +150,7 @@ msgstr "4500:[name]拓巳[line]R-Rimi, where have...[%p]"
 msgid "4600:今まで、どこに行っていたんだろう。[linebreak]どうして連絡をくれなかったんだろう。[linebreak]僕を守ってくれるって言ったのに。[%p]"
 msgstr "4600:Where have you been? Why didn't you contact me? Didn't you say you were going to protect me?[%p]"
 
-msgid "4700:[name]梨深[line]「ああ、あたし？　あたしは今日は遅刻。たはは……」[%p]"
+msgid "4700:[name]梨深[line]「ああ、あたし？\u3000あたしは今日は遅刻。たはは……」[%p]"
 msgstr "4700:[name]梨深[line]Oh, me? I was late today. Tahaha...[%p]"
 
 msgid "4800:いや、そんなことを聞いてるんじゃないんだけど……。[%p]"

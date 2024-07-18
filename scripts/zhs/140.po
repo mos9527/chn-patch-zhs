@@ -129,7 +129,7 @@ msgstr "3800:Um... Did that mean this was real?[%p]"
 msgid "3900:そうだと悟って、一気に照れくさくなってきた。[linebreak]たまらず顔を伏せる。[%p]"
 msgstr "3900:I realized it was, and suddenly became extremely embarrassed. I looked down.[%p]"
 
-msgid "4000:[name]梨深[line]「どしたの？　顔赤いよ？」[%p]"
+msgid "4000:[name]梨深[line]「どしたの？\u3000顔赤いよ？」[%p]"
 msgstr "4000:[name]梨深[line]What's wrong? Your face is all red.[%p]"
 
 msgid "4100:そう言う梨深の頬も、ほんのり朱に染まっているように見える。[%p]"
@@ -183,7 +183,7 @@ msgstr "5600:What was this sound?[%p]"
 msgid "5700:[name]？？？[line]「ふふ……」[%p]"
 msgstr "5700:[name]？？？[line]Heheh.[%p]"
 
-msgid "5800:[name]梨深[line]「どう？　答え分からない？」[%p]"
+msgid "5800:[name]梨深[line]「どう？\u3000答え分からない？」[%p]"
 msgstr "5800:[name]梨深[line]Well? You still don't know?[%p]"
 
 msgid "5900:……誰か、いる。[%p]"
@@ -432,7 +432,7 @@ msgstr "13900:[name]梨深[line]Taku, you're...[%p]"
 msgid "14000:[name]梨深[line]「意外とモテるよね」[%p]"
 msgstr "14000:[name]梨深[line]pretty popular with girls, huh?[%p]"
 
-msgid "14100:[name]拓巳[line]「っ！？　ゲホゲホゲホ」[%p]"
+msgid "14100:[name]拓巳[line]「っ！？\u3000ゲホゲホゲホ」[%p]"
 msgstr "14100:[name]拓巳[line]...! Cough, cough, cough...[%p]"
 
 msgid "14200:たまらずむせちゃったじゃないか。[linebreak]いったいなにを言い出すんだよ……。[%p]"
@@ -756,7 +756,7 @@ msgstr "24700:[name]梨深[line]You're overthinking things.[%p]"
 msgid "24800:そんな風に、あっけらかんと笑い飛ばされた。[%p]"
 msgstr "24800:She just laughed it away.[%p]"
 
-msgid "24900:[name]梨深[line]「そう考えてることだって、タクの妄想なんだよ？　分かってる？」[%p]"
+msgid "24900:[name]梨深[line]「そう考えてることだって、タクの妄想なんだよ？\u3000分かってる？」[%p]"
 msgstr "24900:[name]梨深[line]This is just a delusion you're having. Do you understand that?[%p]"
 
 msgid "25000:[name]拓巳[line]「…………」[%p]"

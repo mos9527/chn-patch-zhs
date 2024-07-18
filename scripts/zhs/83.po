@@ -75,7 +75,7 @@ msgstr "2000:We were on the third floor. If he slipped and fell, he'd snap his n
 msgid "2100:と、三住くんはますます身を乗り出し、窓の下にある昇降口を見下ろした。[%p]"
 msgstr "2100:He leaned forward even further, and looked down at the entrance to the school.[%p]"
 
-msgid "2200:[name]三住[line]「おっ、噂をすればなんとやらだ、[linebreak]タク！　岸本を発見した！　もうすぐここに来るぜ」[%p]"
+msgid "2200:[name]三住[line]「おっ、噂をすればなんとやらだ、[linebreak]タク！\u3000岸本を発見した！\u3000もうすぐここに来るぜ」[%p]"
 msgstr "2200:[name]三住[line]Oh, great timing! Taku! I found Kishimoto! She's coming here now.[%p]"
 
 msgid "2300:[name]拓巳[line]「え……」[%p]"
@@ -123,16 +123,16 @@ msgstr "3600:He was an inspiration! An idol! But not someone I wanted to copy. N
 msgid "3700:[name]三住[line]「あ、俺、三住大輔。よっろしくー♪」[%p]"
 msgstr "3700:[name]三住[line]Hey, I'm Daisuke Misumi. Nice to meet you.[%p]"
 
-msgid "3800:[name]三住[line]「おっと、初対面とか思ってるだろ？　でも違うんだなーこれが」[%p]"
+msgid "3800:[name]三住[line]「おっと、初対面とか思ってるだろ？\u3000でも違うんだなーこれが」[%p]"
 msgstr "3800:[name]三住[line]Oh, you think it's our first time meeting, right? But it's not![%p]"
 
 msgid "3900:[name]三住[line]「俺さ、こないだファンタズムのライブ行ったんだよねー。[linebreak]だから君に会うのは二度目」[%p]"
 msgstr "3900:[name]三住[line]I went to Phantasm's concert the other day, you see. So, we've actually met once before.[%p]"
 
-msgid "4000:[name]三住[line]「で、そんとき君の歌声に、こう、なんつーの？　ビビッて来ちゃったんだ」[%p]"
+msgid "4000:[name]三住[line]「で、そんとき君の歌声に、こう、なんつーの？\u3000ビビッて来ちゃったんだ」[%p]"
 msgstr "4000:[name]三住[line]And you know, the way you were singing then... It was just, like, awesome, you know?[%p]"
 
-msgid "4100:[name]三住[line]「別に俺、ミーハーとかじゃねえよ？　惹かれたのはさ、詞とか君の可愛さとかそういうところもあるけど、でもなにより一番すげえって思ったのは、やっぱバンドとしての完成度っつーか」[%p]"
+msgid "4100:[name]三住[line]「別に俺、ミーハーとかじゃねえよ？\u3000惹かれたのはさ、詞とか君の可愛さとかそういうところもあるけど、でもなにより一番すげえって思ったのは、やっぱバンドとしての完成度っつーか」[%p]"
 msgstr "4100:[name]三住[line]I mean, I'm not a trend-chaser. The lyrics and the fact that you're cute, that was a part of it. But what really amazed me was just how good your band was.[%p]"
 
 msgid "4200:[name]三住[line]「あの音あっての君の歌声っつーの？」[%p]"
@@ -141,7 +141,7 @@ msgstr "4200:[name]三住[line]Like, it's the perfect match for your vocals![%p]
 msgid "4300:[name]三住[line]「ちなみに俺も実はバンドやりたいなーって思っててさ、よかったらああいういいバンドメンバーを見つけるコツとか、バンドの先輩としての心得みたいなもの教えてくんねーかな？」[%p]"
 msgstr "4300:[name]三住[line]You know, I've been thinking I want to start a band. Could you tell me how to find good band members, or, like, give me some band-related advice?[%p]"
 
-msgid "4400:[name]三住[line]「あ、今すぐじゃ迷惑だろうから、そうだなあ、放課後とかヒマ？　どっかでふたりきりでじっくり話さない？」[%p]"
+msgid "4400:[name]三住[line]「あ、今すぐじゃ迷惑だろうから、そうだなあ、放課後とかヒマ？\u3000どっかでふたりきりでじっくり話さない？」[%p]"
 msgstr "4400:[name]三住[line]Oh, I know you're probably busy now. You got time after school? Want to go somewhere where we can have a nice long chat?[%p]"
 
 msgid "4500:三住くんは休まず喋り続ける。[linebreak]普段とは口調も違ってるし、声だって明らかに作ってる。[%p]"
@@ -162,7 +162,7 @@ msgstr "4900:FES didn't even look at him.[%p]"
 msgid "5000:まるでなにも聞こえていないかのように、相変わらずトボトボとした歩調で廊下を歩き続けている。[%p]"
 msgstr "5000:She walked right down the hallway as if she didn't hear anything at all.[%p]"
 
-msgid "5100:[name]三住[line]「な、なあ？　聞いてる？」[%p]"
+msgid "5100:[name]三住[line]「な、なあ？\u3000聞いてる？」[%p]"
 msgstr "5100:[name]三住[line]H-Hello? Are you listening?[%p]"
 
 msgid "5200:[name]ＦＥＳ[line]「…………」[%p]"
@@ -174,12 +174,12 @@ msgstr "5300:FES suddenly stopped. She looked up, ever so slightly and slowly...
 msgid "5400:僕を、見た。[%p]"
 msgstr "5400:And looked right at me.[%p]"
 
-msgid "5500:え？　僕！？[%p]"
+msgid "5500:え？\u3000僕！？[%p]"
 msgstr "5500:Huh? Me?[%p]"
 
 msgid "5600:そう言えば、ライブのときもＦＥＳにじっと見られたような気がする。[%p]"
 msgstr "5600:I remembered how it felt like FES was looking at me at the concert.[%p]"
 
-msgid "5700:そもそもここ２週間ぐらい、やけに三次元女に見つめられる機会が多い。[linebreak]いったいなんなんだ？　モテ期か？[%p]"
+msgid "5700:そもそもここ２週間ぐらい、やけに三次元女に見つめられる機会が多い。[linebreak]いったいなんなんだ？\u3000モテ期か？[%p]"
 msgstr "5700:Over the last two weeks, a lot of 3D girls had been staring at me. What was going on with that? Had I suddenly gotten really attractive?[%p]"
 

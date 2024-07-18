@@ -159,7 +159,7 @@ msgstr "4800:[name]三住[line]Hey! Hey! Hey![%p]"
 msgid "4900:僕の祈りは通じなかった。[%p]"
 msgstr "4900:My prayer went unheard.[%p]"
 
-msgid "5000:[name]三住[line]「タク、てめーいつの間に！？　今、岸本と話してたよな！？」[%p]"
+msgid "5000:[name]三住[line]「タク、てめーいつの間に！？\u3000今、岸本と話してたよな！？」[%p]"
 msgstr "5000:[name]三住[line]Taku, when did you... You were talking to Kishimoto just now, weren't you?[%p]"
 
 msgid "5100:[name]拓巳[line]「…………」[%p]"
@@ -168,7 +168,7 @@ msgstr "5100:[name]拓巳[line]...[%p]"
 msgid "5200:黙り込むしかない。[linebreak]顔を上げられない。[%p]"
 msgstr "5200:The most I could do was shut up. I couldn't look up.[%p]"
 
-msgid "5300:[name]三住[line]「岸本が誰かとまともに会話してるとこ、初めて見たぜ！　いったいどんな手使ったんだよ！？」[%p]"
+msgid "5300:[name]三住[line]「岸本が誰かとまともに会話してるとこ、初めて見たぜ！\u3000いったいどんな手使ったんだよ！？」[%p]"
 msgstr "5300:[name]三住[line]I've never seen somebody actually talk to Kishimoto! How the hell did you pull that off?[%p]"
 
 msgid "5400:頼むから、教室中に響き渡るような大声を出さないでよ。[%p]"
@@ -186,7 +186,7 @@ msgstr "5700:It's not like I'd have a chance anyway.[%p]"
 msgid "5800:だからそんなに騒がないで……。[%p]"
 msgstr "5800:So please, just calm down.[%p]"
 
-msgid "5900:[name]三住[line]「なあタク！　教えろって――」[%p]"
+msgid "5900:[name]三住[line]「なあタク！\u3000教えろって――」[%p]"
 msgstr "5900:[name]三住[line]Come on, Taku! Tell me![%p]"
 
 msgid "6000:[name]梨深[line]「大ちん！」[%p]"
@@ -198,7 +198,7 @@ msgstr "6100:Rimi interrupted.[%p]"
 msgid "6200:[name]梨深[line]「落ち着けー。タクが困ってるでしょ」[%p]"
 msgstr "6200:[name]梨深[line]Calm down. You can see he's upset, right?[%p]"
 
-msgid "6300:[name]三住[line]「お？　ああ、わりーわりー」[%p]"
+msgid "6300:[name]三住[line]「お？\u3000ああ、わりーわりー」[%p]"
 msgstr "6300:[name]三住[line]Huh? Oh, sorry. Sorry.[%p]"
 
 msgid "6400:三住くんは声を小さくすると、僕の背中を軽くポンポンと叩く。[%p]"
@@ -309,7 +309,7 @@ msgstr "9800:[name]梢[line]...[%p]"
 msgid "9900:[name]梨深[line]「あ、また泣いた……」[%p]"
 msgstr "9900:[name]梨深[line]Oh, she's crying again.[%p]"
 
-msgid "10000:[name]梨深[line]「大丈夫かな？　すごい音してたけど」[%p]"
+msgid "10000:[name]梨深[line]「大丈夫かな？\u3000すごい音してたけど」[%p]"
 msgstr "10000:[name]梨深[line]Is she okay? That was a huge noise.[%p]"
 
 msgid "10100:梨深は心配そうにつぶやくと、誰よりも早く転校生に駆け寄っていった。[%p]"

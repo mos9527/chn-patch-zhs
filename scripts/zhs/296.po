@@ -24,7 +24,7 @@ msgstr "300:I clutched my phone tight in my hand, checking every minute to see i
 msgid "400:こっちから電話もしてみたけど、電源が入ってないか電波が届かないっていうアナウンスが出るだけだった。[%p]"
 msgstr "400:I'd tried to call her, but only got a message saying the phone was off or out of the service area.[%p]"
 
-msgid "500:どうして、帰ってこないんだ？[linebreak]家で親になにか言われたのかな？　なにかってなんだ？[%p]"
+msgid "500:どうして、帰ってこないんだ？[linebreak]家で親になにか言われたのかな？\u3000なにかってなんだ？[%p]"
 msgstr "500:Why hadn't she come back? Did our parents say something to her when she got home? Like what?[%p]"
 
 msgid "600:“いくら兄妹とは言え、年頃の男女が狭い部屋で一夜を明かすなんていけません”とか？"
@@ -72,7 +72,7 @@ msgstr "1900:[name]拓巳[line]...![%p]"
 msgid "2000:手に握っていた僕のケータイが、ブルブルと震え出した。[linebreak]すぐさま受信ボタンを押して繋げる。[%p]"
 msgstr "2000:The phone in my hands suddenly started to vibrate. I hit the button to start the call almost immediately.[%p]"
 
-msgid "2100:[name]拓巳[line]「も、もしもしっ！　七海！」[%p]"
+msgid "2100:[name]拓巳[line]「も、もしもしっ！\u3000七海！」[%p]"
 msgstr "2100:[name]拓巳[line]H-Hello? Nanami![%p]"
 
 msgid "2200:[name]七海[line]「…………」[%p]"
@@ -93,10 +93,10 @@ msgstr "2600:I froze. Had Shogun kidnapped her, after all?[%p]"
 msgid "2700:[name]七海[line]「どうして……」[%p]"
 msgstr "2700:[name]七海[line]Why?[%p]"
 
-msgid "2800:[name]七海[line]「どうして、見捨てたの……？　ねえ、おにぃ……」[%p]"
+msgid "2800:[name]七海[line]「どうして、見捨てたの……？\u3000ねえ、おにぃ……」[%p]"
 msgstr "2800:[name]七海[line]Why did you abandon me? Tell me, Brother.[%p]"
 
-msgid "2900:[name]拓巳[line]「『将軍』か！？　あいつに、な、な、なにかされたの！？」[%p]"
+msgid "2900:[name]拓巳[line]「『将軍』か！？\u3000あいつに、な、な、なにかされたの！？」[%p]"
 msgstr "2900:[name]拓巳[line]Is it Shogun?! Did he... d-do something to you?[%p]"
 
 msgid "3000:[name]七海[line]「うぅ……痛いよ……」[%p]"
@@ -162,7 +162,7 @@ msgstr "4900:That was the most likely of the possibilities I'd been considering.
 msgid "5000:[name]拓巳[line]「さ、さっきの電話は……？」[%p]"
 msgstr "5000:[name]拓巳[line]W-What was that call, then?[%p]"
 
-msgid "5100:[name]七海[line]「電話って？　ああ、メールで遅れるって伝えておけばよかったね」[%p]"
+msgid "5100:[name]七海[line]「電話って？\u3000ああ、メールで遅れるって伝えておけばよかったね」[%p]"
 msgstr "5100:[name]七海[line]Call? Oh, I should've sent you a message saying I was running late, yeah.[%p]"
 
 msgid "5200:[name]拓巳[line]「そ、そうじゃなくて、[linebreak]電話、してきただろ……、僕の、ケータイに……」[%p]"
@@ -174,10 +174,10 @@ msgstr "5300:[name]七海[line]No, I didn't. You're going senile, Brother.[%p]"
 msgid "5400:いたって脳天気に、七海はそう答えた。[linebreak]会話がかみ合わない……。[%p]"
 msgstr "5400:She answered with a smile. This conversation wasn't making sense.[%p]"
 
-msgid "5500:[name]七海[line]「それより、今日の晩ご飯、なんだと思う？　へへ〜、なんと、ハンバーグだよ。ナナの手作りだよ。これから作るから、おにぃも手伝ってね」[%p]"
+msgid "5500:[name]七海[line]「それより、今日の晩ご飯、なんだと思う？\u3000へへ〜、なんと、ハンバーグだよ。ナナの手作りだよ。これから作るから、おにぃも手伝ってね」[%p]"
 msgstr "5500:[name]七海[line]Anyway, what do you think we're having for dinner tonight? Heheh... It's Salisbury steak! I'm making it myself! Help me out, okay?[%p]"
 
-msgid "5600:[name]拓巳[line]「ちょ、ま、待て！　待てよ！　電話したよな！？　右手を返せとか、言ったよな！？」[%p]"
+msgid "5600:[name]拓巳[line]「ちょ、ま、待て！\u3000待てよ！\u3000電話したよな！？\u3000右手を返せとか、言ったよな！？」[%p]"
 msgstr "5600:[name]拓巳[line]W-Wait! Hold it! You called me, right? You told me you wanted me to give your right hand back, or something?[%p]"
 
 msgid "5700:[name]七海[line]「もー、しつこい。言ってないってば。[linebreak]誰かと間違えてるんじゃないの？」[%p]"

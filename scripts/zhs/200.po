@@ -120,7 +120,7 @@ msgstr "3500:[name]セナ[line]...?[%p]"
 msgid "3600:眉をひそめつつ、置かれていた作文用紙を手に取る。[%p]"
 msgstr "3600:Her eyes narrowed as she picked up an old sheet of essay paper.[%p]"
 
-msgid "3700:[name]梢[line]「あっ！　あっ！　あーーっ！」[%p]"
+msgid "3700:[name]梢[line]「あっ！\u3000あっ！\u3000あーーっ！」[%p]"
 msgstr "3700:[name]梢[line]Hey! Hey! Hey![%p]"
 
 msgid "3800:[name]梢[line]「“その目だれの目？”だぁ！」[%p]"
@@ -132,7 +132,7 @@ msgstr "3900:Kozue had been looking over Sena's shoulder. She was jumping up and
 msgid "4000:[name]梢[line]「やっぱり、拓巳しゃんが“その目だれの目？”の人だったのらー！」[%p]"
 msgstr "4000:[name]梢[line]I knew it! Takumi was the “Whose eyes are those?” guy![%p]"
 
-msgid "4100:[name]梢[line]「こずぴぃは、ぱんぱかぱーん！　だったぽーん！」[%p]"
+msgid "4100:[name]梢[line]「こずぴぃは、ぱんぱかぱーん！\u3000だったぽーん！」[%p]"
 msgstr "4100:[name]梢[line]Kozupii was right! Pan-paka-pan! Pon![%p]"
 
 msgid "4200:[name]セナ[line]「…………」[%p]"
@@ -153,7 +153,7 @@ msgstr "4600:[name]セナ[line]This... is...![%p]"
 msgid "4700:そこに描かれていたもの。それは――[%p]"
 msgstr "4700:What she saw there... was...[%p]"
 
-msgid "4800:[name]梢[line]「うぴー？　人がいっぱーいだね。これロボットさん？」[%p]"
+msgid "4800:[name]梢[line]「うぴー？\u3000人がいっぱーいだね。これロボットさん？」[%p]"
 msgstr "4800:[name]梢[line]Upiih? There are lots of people. And is this a robot?[%p]"
 
 msgid "4900:[name]梢[line]「あいあーるに、だって」[%p]"

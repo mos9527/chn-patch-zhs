@@ -24,7 +24,7 @@ msgstr "300:Ban sighed and sat down in the chair he'd dragged over from one of t
 msgid "400:自らのデスクでノートＰＣのキーボードを叩いていた百瀬が、彼の陰気くさい様子を一瞥して眉をひそめた。[%p]"
 msgstr "400:Momose was in front of him, typing into her laptop. She looked up at the gloom on his face and furrowed her brow.[%p]"
 
-msgid "500:[name]百瀬[line]「なあに？　来るなりため息なんてついて」[%p]"
+msgid "500:[name]百瀬[line]「なあに？\u3000来るなりため息なんてついて」[%p]"
 msgstr "500:[name]百瀬[line]What is it? You haven't been here for more than a minute and you're already sighing.[%p]"
 
 msgid "600:[name]判[line]「なあ、モモちゃん」[%p]"
@@ -45,7 +45,7 @@ msgstr "1000:[name]百瀬[line]You mean like into a box or something?[%p]"
 msgid "1100:[name]判[line]「んー、いや、そうじゃなくて……」[%p]"
 msgstr "1100:[name]判[line]No, not like that.[%p]"
 
-msgid "1200:[name]百瀬[line]「いったいなにが言いたいわけ？　宴会芸でも覚えたいの？」[%p]"
+msgid "1200:[name]百瀬[line]「いったいなにが言いたいわけ？\u3000宴会芸でも覚えたいの？」[%p]"
 msgstr "1200:[name]百瀬[line]What are you even talking about? Trying to learn a new party trick?[%p]"
 
 msgid "1300:[name]判[line]「いや、分かんねえならいいんだ。たぶん関係ないことだからさ」[%p]"
@@ -162,7 +162,7 @@ msgstr "4900:[name]百瀬[line]It's changing too much in too short a time.[%p]"
 msgid "5000:[name]百瀬[line]「１０年ぐらい前までさかのぼって調べてみたんだけど、ここ５年くらいはずっとそんな調子なのよ」[%p]"
 msgstr "5000:[name]百瀬[line]I looked back over the past decade, and it's been like this for about 5 years.[%p]"
 
-msgid "5100:[name]判[line]「前に太田教授、だっけか？　その人が言ってた、えーと、なんだっけ？　ＧＥレートが半年前から増加してるとかなんとか、その辺と関係あんのかい？」[%p]"
+msgid "5100:[name]判[line]「前に太田教授、だっけか？\u3000その人が言ってた、えーと、なんだっけ？\u3000ＧＥレートが半年前から増加してるとかなんとか、その辺と関係あんのかい？」[%p]"
 msgstr "5100:[name]判[line]Who was that guy? Dr. Oota? That stuff he was saying... about how the rate's been going up in the past six months. Does that have anything to do with it?[%p]"
 
 msgid "5200:[name]百瀬[line]「太田教授の調査では、ＧＥレートはそんなに細かい変動は起こさないっていうことなのよ」[%p]"
@@ -171,7 +171,7 @@ msgstr "5200:[name]百瀬[line]Dr. Oota's research showed that the GE rate shoul
 msgid "5300:[name]判[line]「なんらかの異常が起こってて、そこに人為的なものを感じるってことか」[%p]"
 msgstr "5300:[name]判[line]So, something unusual's going on, and you think somebody's doing it deliberately?[%p]"
 
-msgid "5400:[name]諏訪[line]「でも５年ッスよ？　それだけ続いてれば、異常じゃなくて正常な状態と言えなくもないんじゃないスか？」[%p]"
+msgid "5400:[name]諏訪[line]「でも５年ッスよ？\u3000それだけ続いてれば、異常じゃなくて正常な状態と言えなくもないんじゃないスか？」[%p]"
 msgstr "5400:[name]諏訪[line]But it's been going on for five years, right? At that point it's not unusual. It's normal.[%p]"
 
 msgid "5500:[name]百瀬[line]「もうひとつあるの」[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:[name]諏訪[line]Man, I wish we got Saturdays and Sundays off. I h
 msgid "5900:しょんぼりとした顔でうなだれる刑事２人に対して、百瀬は小さく首を振って見せた。[%p]"
 msgstr "5900:Momose shook her head a little at the two detectives, who both suddenly had gloomy looks on their faces.[%p]"
 
-msgid "6000:[name]百瀬[line]「茶化してる場合じゃないわ。一週間ごとに定期的に変動してるのよ？　しかも年末年始やお盆休みなんかは、変動がぴたりと止まる」[%p]"
+msgid "6000:[name]百瀬[line]「茶化してる場合じゃないわ。一週間ごとに定期的に変動してるのよ？\u3000しかも年末年始やお盆休みなんかは、変動がぴたりと止まる」[%p]"
 msgstr "6000:[name]百瀬[line]Stop joking. This is important. We're seeing regular fluctuations over a weekly basis. And what's more, the fluctuations stop dead on New Year's and during the long Obon vacation in August.[%p]"
 
 msgid "6100:[name]百瀬[line]「なにかの意志が働いているとしか思えないわ」[%p]"
@@ -204,7 +204,7 @@ msgstr "6300:[name]判[line]Plants and animals don't.[%p]"
 msgid "6400:[name]諏訪[line]「実は地球の意志とか」[%p]"
 msgstr "6400:[name]諏訪[line]Maybe it's the will of Mother Earth?[%p]"
 
-msgid "6500:[name]判[line]「地球の意志ぃ？　ずいぶん壮大な話だな」[%p]"
+msgid "6500:[name]判[line]「地球の意志ぃ？\u3000ずいぶん壮大な話だな」[%p]"
 msgstr "6500:[name]判[line]The will of Mother Earth? That's certainly escalating things.[%p]"
 
 msgid "6600:[name]判[line]「だが、もし仮にそんなもんがあったとして、地球があけましておめでとうとか言うかよ」[%p]"
@@ -240,7 +240,7 @@ msgstr "7500:[name]百瀬[line]Not just the year, the past decade.[%p]"
 msgid "7600:[name]判[line]「日付は？」[%p]"
 msgstr "7600:[name]判[line]What's the date?[%p]"
 
-msgid "7700:[name]百瀬[line]「真ん中は３ヶ月前。覚えてる？　小さな地震があったでしょ？」[%p]"
+msgid "7700:[name]百瀬[line]「真ん中は３ヶ月前。覚えてる？\u3000小さな地震があったでしょ？」[%p]"
 msgstr "7700:[name]百瀬[line]The one in the middle is three months ago. You remember that day? There was a small earthquake, right?[%p]"
 
 msgid "7800:[name]判[line]「震度３でなぜか８人も死んだ、あれか」[%p]"
@@ -297,7 +297,7 @@ msgstr "9400:[name]百瀬[line]And this last one was an intensity five quake tha
 msgid "9500:[name]判[line]「死にすぎ、って言いたいのか？」[%p]"
 msgstr "9500:[name]判[line]So, you're saying the number of fatalities doesn't make sense?[%p]"
 
-msgid "9600:[name]百瀬[line]「さっきバンちゃん言ったでしょ？　亡くなった方の大半は、死因が不明って」[%p]"
+msgid "9600:[name]百瀬[line]「さっきバンちゃん言ったでしょ？\u3000亡くなった方の大半は、死因が不明って」[%p]"
 msgstr "9600:[name]百瀬[line]Remember what you just said? We don't even know what caused most of the deaths.[%p]"
 
 msgid "9700:[name]百瀬[line]「そんなの尋常じゃないわ」[%p]"
@@ -324,7 +324,7 @@ msgstr "10300:[name]判[line]The Meiwa Party?[%p]"
 msgid "10400:[name]百瀬[line]「おそらくそうよ」[%p]"
 msgstr "10400:[name]百瀬[line]Probably, yes.[%p]"
 
-msgid "10500:[name]諏訪[line]「げえっ！？　マジっすか！？」[%p]"
+msgid "10500:[name]諏訪[line]「げえっ！？\u3000マジっすか！？」[%p]"
 msgstr "10500:[name]諏訪[line]Geh?! You're serious?[%p]"
 
 msgid "10600:[name]判[line]「明和党と繋がりのある企業、団体を洗うべきかもな……」[%p]"

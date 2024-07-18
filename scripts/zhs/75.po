@@ -87,7 +87,7 @@ msgstr "2400:Her brother hated going outside and hated talking to people. Maybe 
 msgid "2500:そこまで考えて、七海は小首をかしげた。[linebreak]自分の記憶についての、奇妙な違和感。[%p]"
 msgstr "2500:Then she tilted her head, confused. There was a strange sensation that something was wrong with her memory.[%p]"
 
-msgid "2600:[name]七海[line]「ん？　あれから、って、いつからだっけ？」[%p]"
+msgid "2600:[name]七海[line]「ん？\u3000あれから、って、いつからだっけ？」[%p]"
 msgstr "2600:[name]七海[line]Hmm? Since “then”? Since when?[%p]"
 
 msgid "2700:梨深はなにも答えない。[linebreak]気まずそうに、街頭ビジョンに映る大村カレラの新曲ＰＶを眺めている。[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:Just a moment ago when she'd seen Rimi, the name had come to her in
 msgid "3100:それなのに、梨深のことが、よく思い出せない。[%p]"
 msgstr "3100:But for some reason, she couldn't remember much of anything about her.[%p]"
 
-msgid "3200:[name]七海[line]「そもそもナナって、梨深さんといつ知り合ったんだっけ？　なんで、名前知ってるんだろ？」[%p]"
+msgid "3200:[name]七海[line]「そもそもナナって、梨深さんといつ知り合ったんだっけ？\u3000なんで、名前知ってるんだろ？」[%p]"
 msgstr "3200:[name]七海[line]When did I meet you, anyway? Why do I know your name?[%p]"
 
 msgid "3300:必死で記憶を探ってみるが、まるでその記憶がすっぽりと抜け落ちているかのようだった。“のどまで出かかっている”という感覚すらない。[%p]"
@@ -126,7 +126,7 @@ msgstr "3700:The awkwardness disappeared from Rimi's face and was replaced with 
 msgid "3800:[name]梨深[line]「あたしとナナちゃんが知り合ったのは、タクを通してでしょ？」[%p]"
 msgstr "3800:[name]梨深[line]We met through Taku, right?[%p]"
 
-msgid "3900:[name]梨深[line]「ほら、学校で。タクと一緒にいたあたしを見て、ナナちゃんが目を丸くしてさ。“うわー、おにぃにカノジョができたー！　明日地球が滅びちゃうー！”って」[%p]"
+msgid "3900:[name]梨深[line]「ほら、学校で。タクと一緒にいたあたしを見て、ナナちゃんが目を丸くしてさ。“うわー、おにぃにカノジョができたー！\u3000明日地球が滅びちゃうー！”って」[%p]"
 msgstr "3900:[name]梨深[line]You know, at school. You saw me with your brother and you couldn't believe your eyes. You were like, “Wow, my brother had a girlfriend! It's the end times! Earth is doomed!”[%p]"
 
 msgid "4000:[name]七海[line]「え……、あはは、言ったっけ、そんなこと……」[%p]"

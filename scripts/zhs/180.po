@@ -63,7 +63,7 @@ msgstr "1600:There was a girl leaning down right next to me, looking at me like 
 msgid "1700:転校生……だ。僕のクラスに転校してきた女子。[%p]"
 msgstr "1700:It was... the transfer student. The girl who'd transferred into my class.[%p]"
 
-msgid "1800:えーっと、名前は、お、大原？　押原？[%p]"
+msgid "1800:えーっと、名前は、お、大原？\u3000押原？[%p]"
 msgstr "1800:What was her name again? Oohara? Orihara?[%p]"
 
 msgid "1900:なんでここに、転校生がいるんだろう。[%p]"

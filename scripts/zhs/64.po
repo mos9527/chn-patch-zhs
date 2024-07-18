@@ -45,7 +45,7 @@ msgstr "1000:I didn't want to remember it at all, but the slightest little thing
 msgid "1100:そう、僕は犯人の顔を見ている。犯人を、知っている。[linebreak]警察に通報すべきなんだろうか。でも巻き込まれたくないし……。[%p]"
 msgstr "1100:I'd seen the killer's face. I knew who she was. Should I have told the cops? But I didn't want to get involved.[%p]"
 
-msgid "1200:グリム＞悪魔女？　ついにそんなバージョンまで出たのか"
+msgid "1200:グリム＞悪魔女？\u3000ついにそんなバージョンまで出たのか"
 msgstr "1200:Grimm: Demon girl? Is that the latest variation?"
 
 msgid "1300:グリム＞ま、さすがにそりゃ悪ふざけしすぎだけどな"
@@ -237,7 +237,7 @@ msgstr "7400:[name]星来[line]I mean, if you're a masochist, I won't stop you.[
 msgid "7500:[name]星来[line]「辛そうなタッキーは見てられないんさ」[%p]"
 msgstr "7500:[name]星来[line]But seeing you suffer hurts![%p]"
 
-msgid "7600:[name]星来[line]「もうやめよ？　楽しいことだけしてようよ」[%p]"
+msgid "7600:[name]星来[line]「もうやめよ？\u3000楽しいことだけしてようよ」[%p]"
 msgstr "7600:[name]星来[line]Forget about this. Just do something fun![%p]"
 
 msgid "7700:[name]星来[line]「いつもみたく、あたしにハァハァしてもいいからさ」[%p]"

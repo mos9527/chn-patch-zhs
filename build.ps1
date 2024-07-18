@@ -32,11 +32,11 @@ python .\scripts\build_charset.py .\scripts $CharsetPath
 python .bin\MgsScriptTools\mgs-spec-bank\charset\generate_from_charset.py $CharsetPath .bin\MgsScriptTools\mgs-spec-bank\charset\chaos_head_noah-zhs.json
 
 Write-Host "Compiling scripts"
-New-Item -ErrorAction Ignore -ItemType Directory -Path ".temp\zhs" | Out-Null
-python scripts\generate_mst.py .temp\zhs scripts\zhs
+New-Item -ErrorAction Ignore -ItemType Directory -Path ".temp\zhs_src" | Out-Null
+python scripts\generate_mst.py .temp\zhs_src scripts\zhs
 .bin\MgsScriptTools\MgsScriptTools.exe compile --bank-directory .bin\MgsScriptTools\mgs-spec-bank --compiled-directory .temp\ja --decompiled-directory scripts\reference\ja --string-syntax Sc3Tools --charset chaos_head_noah-zhs  --flag-set chaos_head_windows --instruction-sets base,chaos_head_noah
 .bin\MgsScriptTools\MgsScriptTools.exe compile --bank-directory .bin\MgsScriptTools\mgs-spec-bank --compiled-directory .temp\eng --decompiled-directory scripts\reference\eng --string-syntax Sc3Tools --charset chaos_head_noah-zhs  --flag-set chaos_head_windows --instruction-sets base,chaos_head_noah
-.bin\MgsScriptTools\MgsScriptTools.exe compile --bank-directory .bin\MgsScriptTools\mgs-spec-bank --compiled-directory .temp\zhs --decompiled-directory .temp\zhs --string-syntax Sc3Tools --charset chaos_head_noah-zhs  --flag-set chaos_head_windows --instruction-sets base,chaos_head_noah
+.bin\MgsScriptTools\MgsScriptTools.exe compile --bank-directory .bin\MgsScriptTools\mgs-spec-bank --compiled-directory .temp\zhs --decompiled-directory .temp\zhs_src --string-syntax Sc3Tools --charset chaos_head_noah-zhs  --flag-set chaos_head_windows --instruction-sets base,chaos_head_noah
 
 Write-Host "Packing script CPKs"
 .bin\cpk.exe -r .temp\ja.cpk -o .temp\ja

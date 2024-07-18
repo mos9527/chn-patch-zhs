@@ -54,7 +54,7 @@ msgstr "1300:I ignored Nanami and went back inside to sit down on my sofa.[%p]"
 msgid "1400:星来たんのフィギュアを、もう一度きつく握りしめる。[linebreak]力を込めすぎて、手の方が少し痛かった。でもどうせ、その痛みさえも妄想だ。[%p]"
 msgstr "1400:I gripped the Seira-tan figure again. I was holding it a little too tightly, and my hand hurt a little, but even that pain was a delusion.[%p]"
 
-msgid "1500:[name]七海[line]「おにぃ、どしたの？　元気ないじゃん」[%p]"
+msgid "1500:[name]七海[line]「おにぃ、どしたの？\u3000元気ないじゃん」[%p]"
 msgstr "1500:[name]七海[line]Brother, what's wrong? You look down.[%p]"
 
 msgid "1600:この世のすべては妄想でできている。[linebreak]僕の脳内だけで展開される妄想だ。[%p]"
@@ -63,13 +63,13 @@ msgstr "1600:The whole world was just a delusion. A delusion taking place inside
 msgid "1700:僕も、こうして見ている妄想も、なにもかもニセモノなんだ。[%p]"
 msgstr "1700:Me, and everything I was seeing right now... All delusions. All fake.[%p]"
 
-msgid "1800:[name]七海[line]「徹夜でゲームでもやってたの？　もっと人間らしい生活したら」[%p]"
+msgid "1800:[name]七海[line]「徹夜でゲームでもやってたの？\u3000もっと人間らしい生活したら」[%p]"
 msgstr "1800:[name]七海[line]Were you up all night gaming? Why not try living like a human being?[%p]"
 
 msgid "1900:[name]拓巳[line]「……れ……」[%p]"
 msgstr "1900:[name]拓巳[line]...up.[%p]"
 
-msgid "2000:[name]七海[line]「え？　なになに？」[%p]"
+msgid "2000:[name]七海[line]「え？\u3000なになに？」[%p]"
 msgstr "2000:[name]七海[line]Huh? What?[%p]"
 
 msgid "2100:[name]拓巳[line]「……だまれ……」[%p]"
@@ -96,7 +96,7 @@ msgstr "2700:I didn't want Nanami to be in my field of vision. It would just mak
 msgid "2800:まあ、虚しくなってもどうでもいいんだけどね、なにしろ僕は妄想の存在だからさ……。[%p]"
 msgstr "2800:Not that it mattered how sad I was, if I didn't even exist.[%p]"
 
-msgid "2900:[name]七海[line]「ねえ、おにぃ。ホントに平気？　いつもと全然様子が違うけど……」[%p]"
+msgid "2900:[name]七海[line]「ねえ、おにぃ。ホントに平気？\u3000いつもと全然様子が違うけど……」[%p]"
 msgstr "2900:[name]七海[line]Hey, Brother... Are you really okay? You're not usually like this.[%p]"
 
 msgid "3000:一人前に僕の心配かよ……。[linebreak]妄想妹に心配されている。[linebreak]それが、僕に苛立ちを湧き立たせる。[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:She was worried about me? My non-existent sister was worried about 
 msgid "3100:っていうか、こいつはなんで勝手に部屋に入ってきてるんだ。[%p]"
 msgstr "3100:Why'd she even come into my room anyway? I hadn't said she could.[%p]"
 
-msgid "3200:[name]七海[line]「あ、分かった！　お腹空いたんでしょ」[%p]"
+msgid "3200:[name]七海[line]「あ、分かった！\u3000お腹空いたんでしょ」[%p]"
 msgstr "3200:[name]七海[line]Oh, I get it! You're hungry![%p]"
 
 msgid "3300:ギリリと、僕は歯噛みして。[%p]"
@@ -117,7 +117,7 @@ msgstr "3400:[name]七海[line]You want me to make you something?[%p]"
 msgid "3500:[name]拓巳[line]「取れ……」[%p]"
 msgstr "3500:[name]拓巳[line]Take it...[%p]"
 
-msgid "3600:[name]七海[line]「ん？　鶏って言った？　鶏肉？」[%p]"
+msgid "3600:[name]七海[line]「ん？\u3000鶏って言った？\u3000鶏肉？」[%p]"
 msgstr "3600:[name]七海[line]Hmm? What did you say? You feel like chicken?[%p]"
 
 msgid "3700:誰も鶏なんて一言も言ってない。[%p]"
@@ -132,7 +132,7 @@ msgstr "3900:[name]七海[line]Oh, I'm not making it just because you asked me t
 msgid "4000:この七海は、ウザい。[linebreak]本物に似ているのが許せない。[%p]"
 msgstr "4000:This Nanami was really starting to make me mad. The fact that she was just like the real one was only making it worse.[%p]"
 
-msgid "4100:いや、えっと、あれ……。[linebreak]“本物の七海”なんて存在しないんだっけ？[linebreak]じゃあこの七海こそ本物？　の七海？[%p]"
+msgid "4100:いや、えっと、あれ……。[linebreak]“本物の七海”なんて存在しないんだっけ？[linebreak]じゃあこの七海こそ本物？\u3000の七海？[%p]"
 msgstr "4100:No, wait. Had Rimi told me that there never was a “real Nanami” in the first place? So maybe this was the real one? The real Nanami?[%p]"
 
 msgid "4200:頭がこんがらがる。[%p]"

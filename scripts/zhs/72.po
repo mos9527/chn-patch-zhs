@@ -123,7 +123,7 @@ msgstr "3600:[name]ナイトハルト[line][margin top="228"][center]That's righ
 msgid "3700:[name]ナイトハルト[line][margin top="228"][center]「なにが“疾風迅雷”だ。中２病にもほどがあるだろう」[%e]"
 msgstr "3700:[name]ナイトハルト[line][margin top="228"][center]What kind of name is “Lightning-Fast KnightHeart” anyway? It sounds like something a seventh grader would pick.[%e]"
 
-msgid "3800:[name]ナイトハルト[line][margin top="228"][center]「お前に分かるか？　俺がどんな気持ちでそう呼ばれていたか」[%e]"
+msgid "3800:[name]ナイトハルト[line][margin top="228"][center]「お前に分かるか？\u3000俺がどんな気持ちでそう呼ばれていたか」[%e]"
 msgstr "3800:[name]ナイトハルト[line][margin top="228"][center]Do you understand? Do you understand how I felt, being called that?[%e]"
 
 msgid "3900:[name]ナイトハルト[line][margin top="228"][center]「お前はかっこいいつもりだったかもしれないがな」[%e]"
@@ -135,7 +135,7 @@ msgstr "4000:[name]ナイトハルト[line][margin top="228"][center]Every time 
 msgid "4100:[name]ナイトハルト[line][margin top="228"][center]「でも俺は自分の言葉を発することもできず、[linebreak]じっと耐えるしかなかったんだ」[%e]"
 msgstr "4100:[name]ナイトハルト[line][margin top="228"][center]But I was never able to speak with my own voice. All I could do was silently endure.[%e]"
 
-msgid "4200:[name]拓巳[line]「う、う、うるさい！　な、生意気だぞ！[linebreak]そんなこと言うなら、け、消すぞ！」[%p]"
+msgid "4200:[name]拓巳[line]「う、う、うるさい！\u3000な、生意気だぞ！[linebreak]そんなこと言うなら、け、消すぞ！」[%p]"
 msgstr "4200:[name]拓巳[line]S-Shut up! You don't get to talk to me like that! I-I'll delete you if you keep talking like that![%p]"
 
 msgid "4300:[name]ナイトハルト[line][margin top="228"][center]「勝手にしろ……」[%e]"
@@ -192,7 +192,7 @@ msgstr "5900:I went to school today, and then when it was over, I found myself b
 msgid "6000:な、なにを言っているか分からないと思うが、僕もなにをされたのか分からなかった……。[%p]"
 msgstr "6000:Y-You might not understand what I'm talking about... I didn't understand when it happened to me, either![%p]"
 
-msgid "6100:[name]七海[line]「おにぃ？　なにブツブツ言ってんの？」[%p]"
+msgid "6100:[name]七海[line]「おにぃ？\u3000なにブツブツ言ってんの？」[%p]"
 msgstr "6100:[name]七海[line]Brother... What are you mumbling about?[%p]"
 
 msgid "6200:[name]拓巳[line]「…………」[%p]"
@@ -225,7 +225,7 @@ msgstr "7000:Nanami didn't know or care about how I felt, though. She was lookin
 msgid "7100:どうして僕のケータイを買うのに七海が悩むのか、理解に苦しむ。[%p]"
 msgstr "7100:I couldn't understand why Nanami would care about what kind of phone I got.[%p]"
 
-msgid "7200:[name]七海[line]「これ、色がけっこうかわいいじゃん？　いいと思うなあ」[%p]"
+msgid "7200:[name]七海[line]「これ、色がけっこうかわいいじゃん？\u3000いいと思うなあ」[%p]"
 msgstr "7200:[name]七海[line]This has kind of a cute color, right? I think it's a good one.[%p]"
 
 msgid "7300:意見を求めてくるから、僕は当然のように答える。[%p]"
@@ -246,13 +246,13 @@ msgstr "7700:I told her I was fine with it, and she didn't listen. I'd lost coun
 msgid "7800:僕に意見を求めてるくせに、その意見を聞くつもりはないんだ。これだから三次元女は最悪なんだ。[%p]"
 msgstr "7800:She asked my opinion, but didn't seem interested in listening to it. That was the problem with 3D women.[%p]"
 
-msgid "7900:[name]七海[line]「おにぃ、だいじょぶ？　やっぱり人の多さにやられちゃった……？」[%p]"
+msgid "7900:[name]七海[line]「おにぃ、だいじょぶ？\u3000やっぱり人の多さにやられちゃった……？」[%p]"
 msgstr "7900:[name]七海[line]Brother, are you okay? Are there just too many people here for you?[%p]"
 
 msgid "8000:[name]七海[line]「マクディで休もっか？」[%p]"
 msgstr "8000:[name]七海[line]Want to rest at MacD's?[%p]"
 
-msgid "8100:マクディだって！？　あのＤＱＮのたまり場であるファーストフード店に入るって言うのか！？[linebreak]それこそ地獄だ！[%p]"
+msgid "8100:マクディだって！？\u3000あのＤＱＮのたまり場であるファーストフード店に入るって言うのか！？[linebreak]それこそ地獄だ！[%p]"
 msgstr "8100:MacD's? You want me to go into a fast food chain that's full of DQNs? That would be even worse than this place![%p]"
 
 msgid "8200:僕はブンブンと首を激しく振った。[%p]"
@@ -297,7 +297,7 @@ msgstr "9400:Carrying a huge toy sword like that in the middle of Shibuya... Was
 msgid "9500:あの剣って、新作アニメコスの小道具かなにかなんだろうか。[%p]"
 msgstr "9500:That sword was probably an accessory for some new anime cosplay.[%p]"
 
-msgid "9600:新作アニメは僕も一応全部チェックしてるんだけどなあ。あんな剣が出てくる作品、あったっけ？　チェック漏れ？[%p]"
+msgid "9600:新作アニメは僕も一応全部チェックしてるんだけどなあ。あんな剣が出てくる作品、あったっけ？\u3000チェック漏れ？[%p]"
 msgstr "9600:Of course, I kept an eye on all the new anime that's coming out. Was there anything with a sword like that this season? Had I missed it?[%p]"
 
 msgid "9700:さすがに渋谷をあれを持って歩くのは僕には無理だけど、剣の造形はけっこうかっこいい。あれはちょっと欲しいかもしれない。[%p]"
@@ -333,7 +333,7 @@ msgstr "10600:[name]拓巳[line]...[%p]"
 msgid "10700:一応、首を左右に振っておいた。[%p]"
 msgstr "10700:I shook my head, or tried to, anyway.[%p]"
 
-msgid "10800:[name]七海[line]「おにぃのバカ！　ケータイの[color index="A0FF0000"]電磁波[color index="800000"]の浴びすぎで腎臓悪くして死んじゃえ！」[%p]"
+msgid "10800:[name]七海[line]「おにぃのバカ！\u3000ケータイの[color index="A0FF0000"]電磁波[color index="800000"]の浴びすぎで腎臓悪くして死んじゃえ！」[%p]"
 msgstr "10800:[name]七海[line]Brother, you jerk! I hope you suck up [color index="A0FF0000"]too much radiation from your phone[color index="800000"] and it kills your kidneys and you die![%p]"
 
 msgid "10900:[name]拓巳[line]「…………」[%p]"
@@ -345,7 +345,7 @@ msgstr "11000:What was she talking about?[%p]"
 msgid "11100:[name]七海[line]「一生懸命おにぃのために選んであげてたナナがバカみたいじゃん」[%p]"
 msgstr "11100:[name]七海[line]I feel like an idiot for trying so hard to find the right phone for you![%p]"
 
-msgid "11200:[name]七海[line]「こーなったらもう適当に決める！　おにぃなんて、ナナと同じ機種でじゅうぶんだよっ」[%p]"
+msgid "11200:[name]七海[line]「こーなったらもう適当に決める！\u3000おにぃなんて、ナナと同じ機種でじゅうぶんだよっ」[%p]"
 msgstr "11200:[name]七海[line]I'll just decide right now, then! You can just have the same phone I do![%p]"
 
 msgid "11300:七海は僕の腕を強引につかんだ。[%p]"

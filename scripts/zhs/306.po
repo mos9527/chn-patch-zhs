@@ -42,7 +42,7 @@ msgstr "900:It doesn't matter when it was. My memories aren't connected like tha
 msgid "1000:[name]野呂瀬[line]「――担当医に、剣のようなものが見えた、と言ったそうですね」[%p]"
 msgstr "1000:[name]野呂瀬[line]You told your doctor you saw something like a sword, didn't you?[%p]"
 
-msgid "1100:[name]野呂瀬[line]「聞こえていますか？　※△＃＋％さん」[%p]"
+msgid "1100:[name]野呂瀬[line]「聞こえていますか？\u3000※△＃＋％さん」[%p]"
 msgstr "1100:[name]野呂瀬[line]Can you hear me, Miss *%#$%?[%p]"
 
 msgid "1200:名前を呼ばれたような気がした。[linebreak]けれど、今はもう、その名前を思い出すことはできない。[linebreak]すでに“死んだ名前”だから。[%p]"
@@ -132,7 +132,7 @@ msgstr "3900:It doesn't matter when it was. My memories aren't connected like th
 msgid "4000:[name]梨深[line]「う、く……う……」[%p]"
 msgstr "4000:[name]梨深[line]Urgh... Ah...[%p]"
 
-msgid "4100:[name]野呂瀬[line]「痛いですか？　皮膚の表面を切るだけですよ。血はたくさん出ますが、死ぬほどではありません」[%p]"
+msgid "4100:[name]野呂瀬[line]「痛いですか？\u3000皮膚の表面を切るだけですよ。血はたくさん出ますが、死ぬほどではありません」[%p]"
 msgstr "4100:[name]野呂瀬[line]Does it hurt? I'm simply cutting away the surface of the skin. It will bleed heavily, but not enough to be fatal.[%p]"
 
 msgid "4200:[name]野呂瀬[line]「３日も放置すれば化膿してかゆみがひどいことになるでしょう。そこからが今回の実験の本番です」[%p]"
@@ -285,7 +285,7 @@ msgstr "9000:[name]野呂瀬[line]I believe this is the first time I've used any
 msgid "9100:[name]野呂瀬[line]「どうやらうまくいったようですね」[%p]"
 msgstr "9100:[name]野呂瀬[line]It appears to have worked.[%p]"
 
-msgid "9200:[name]野呂瀬[line]「気分はいかがですか？　君は今、首から下が麻痺している状態です」[%p]"
+msgid "9200:[name]野呂瀬[line]「気分はいかがですか？\u3000君は今、首から下が麻痺している状態です」[%p]"
 msgstr "9200:[name]野呂瀬[line]How do you feel? You are presently paralyzed from the neck down.[%p]"
 
 msgid "9300:[name]野呂瀬[line]「自分の身体を思うままに動かせないというのは、ストレスのたまることだと思いませんか？」[%p]"

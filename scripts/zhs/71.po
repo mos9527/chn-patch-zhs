@@ -105,7 +105,7 @@ msgstr "3000:My body felt like it had been hit by lightning. I couldn't push her
 msgid "3100:と、再び信者たちから歓声があがる。それはほとんど悲鳴に近かった。[linebreak]ファンタズムの演奏は激しさを増す。[%p]"
 msgstr "3100:Her followers started to cheer once again. It was almost like a scream. The band's performance became louder and more violent.[%p]"
 
-msgid "3200:ＦＥＳコールがこの狭いライブハウスに反響する。[linebreak]さらには“やれ！　やれ！”というかけ声までが混ざり始めた。[%p]"
+msgid "3200:ＦＥＳコールがこの狭いライブハウスに反響する。[linebreak]さらには“やれ！\u3000やれ！”というかけ声までが混ざり始めた。[%p]"
 msgstr "3200:The cries of “FES! FES!” filled the hall. And then they started to mix with cries of, “Do it! Do it!”[%p]"
 
 msgid "3300:やれ、って、なにをやるんだ。[linebreak]僕は状況がさっぱり理解できない。[linebreak]ＦＥＳは僕に抱きついたまま、なにも言わない。[%p]"
@@ -345,7 +345,7 @@ msgstr "11000:Of course, I couldn't be 100% sure.[%p]"
 msgid "11100:でもＦＥＳはきっとなにか知ってる。そんな気がする。[linebreak]悪魔女の手下か、そうじゃないのかは結局分からなかったけど。[%p]"
 msgstr "11100:But FES knew something. I was sure of it. I'd never figured out if she was a servant of the demon girl, though.[%p]"
 
-msgid "11200:[margin top="266"][center][color index="820000"]――少女は紅く染まり　満月の下で振り返る[color index="800000"][%e]"
+msgid "11200:[margin top="266"][center][color index="820000"]――少女は紅く染まり\u3000満月の下で振り返る[color index="800000"][%e]"
 msgstr "11200:[margin top="266"][center][color index="820000"]—The girl, stained red, turns ‘round ‘neath the full moon.[color index="800000"][%e]"
 
 msgid "11300:それに、僕を見た。[%p]"
@@ -399,7 +399,7 @@ msgstr "12800:[name]拓巳[line]I'm gonna delete you, damn it![%p]"
 msgid "12900:自分のせいだと分かっていながらナイトハルトに八つ当たりする。[%p]"
 msgstr "12900:I knew it was my own fault, but I still yelled at KnightHeart.[%p]"
 
-msgid "13000:[name]拓巳[line]「あーもー！　ムカつく！」[%p]"
+msgid "13000:[name]拓巳[line]「あーもー！\u3000ムカつく！」[%p]"
 msgstr "13000:[name]拓巳[line]Damn it all! You're pissing me off![%p]"
 
 msgid "13100:髪の毛を掻きむしり、足で鉄板むき出しの壁を蹴る。[linebreak]怒りをさんざん発散してから、ため息をついてイスに背中を預けた。[%p]"

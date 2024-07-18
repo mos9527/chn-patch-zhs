@@ -84,7 +84,7 @@ msgstr "2300:She would come back. She hadn't found out who Shogun was yet. She w
 msgid "2400:大丈夫だ……。[%p]"
 msgstr "2400:I'd be just fine.[%p]"
 
-msgid "2500:[name]星来[line]「知ってる？　そういうのってさ、ストックホルム症候群って言うんよ」[%p]"
+msgid "2500:[name]星来[line]「知ってる？\u3000そういうのってさ、ストックホルム症候群って言うんよ」[%p]"
 msgstr "2500:[name]星来[line]Don't you know? They call that Stockholm syndrome.[%p]"
 
 msgid "2600:もちろんその言葉の意味ぐらい僕は知ってる。[%p]"

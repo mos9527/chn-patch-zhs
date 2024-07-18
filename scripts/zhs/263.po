@@ -84,7 +84,7 @@ msgstr "2300:[name]あやせ[line]A god who brings destruction to the world.[%p]
 msgid "2400:[name]あやせ[line]「言い方は、いろいろ」[%p]"
 msgstr "2400:[name]あやせ[line]There are any number of ways to describe him.[%p]"
 
-msgid "2500:[name]拓巳[line]「そ、そいつは、車椅子に、乗ってるの？　足が不自由とか」[%p]"
+msgid "2500:[name]拓巳[line]「そ、そいつは、車椅子に、乗ってるの？\u3000足が不自由とか」[%p]"
 msgstr "2500:[name]拓巳[line]D-Does he have a wheelchair? Like, he can't walk or something.[%p]"
 
 msgid "2600:[name]あやせ[line]「グラジオールは人の形をしているとは限らないわ」[%p]"
@@ -270,7 +270,7 @@ msgstr "8500:She seemed slightly disappointed as she took the book from me. Our 
 msgid "8600:[name]あやせ[line]「考えたことがある？」[%p]"
 msgstr "8600:[name]あやせ[line]Have you ever thought about it?[%p]"
 
-msgid "8700:[name]拓巳[line]「え？　な、なにが……？」[%p]"
+msgid "8700:[name]拓巳[line]「え？\u3000な、なにが……？」[%p]"
 msgstr "8700:[name]拓巳[line]Huh? T-Thought about what?[%p]"
 
 msgid "8800:[name]あやせ[line]「世界は、人によって、見える形が違うということを」[%p]"

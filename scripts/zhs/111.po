@@ -111,13 +111,13 @@ msgstr "3200:[name]梨深[line]No, thank you.[%p]"
 msgid "3300:[name]梨深[line]「でもなんて言うのかなぁ、女としてのプライドっていうものがあるわけじゃない？」[%p]"
 msgstr "3300:[name]梨深[line]But it's like... as a girl, I've got my pride, you know?[%p]"
 
-msgid "3400:[name]梨深[line]「ねえ、タクから見てあたしってどう？　魅力、ある？」[%p]"
+msgid "3400:[name]梨深[line]「ねえ、タクから見てあたしってどう？\u3000魅力、ある？」[%p]"
 msgstr "3400:[name]梨深[line]What do you think, Taku? Am I attractive?[%p]"
 
 msgid "3500:う……。[linebreak]こ、答えにくいことを聞いてくるなあ。[%p]"
 msgstr "3500:Uh... That was a hard question to answer.[%p]"
 
-msgid "3600:[name]梨深[line]「どう？　どう？」[%p]"
+msgid "3600:[name]梨深[line]「どう？\u3000どう？」[%p]"
 msgstr "3600:[name]梨深[line]Well? Well?[%p]"
 
 msgid "3700:しかも目をキラキラさせて、期待に胸膨らませてるし。[%p]"
@@ -375,7 +375,7 @@ msgstr "12000:What the heck? When had that happened?[%p]"
 msgid "12100:僕は頭を抱えて激しく首を振った。[%p]"
 msgstr "12100:I shook my head violently.[%p]"
 
-msgid "12200:[name]拓巳[line]「だって、分からないんだ……！　さっぱり、分からないんだよぅ！」[%p]"
+msgid "12200:[name]拓巳[line]「だって、分からないんだ……！\u3000さっぱり、分からないんだよぅ！」[%p]"
 msgstr "12200:[name]拓巳[line]I don't... I don't know! I just don't know at all![%p]"
 
 msgid "12300:[name]三住[line]「分かるか分からないか、そんな理屈の話じゃねえだろ」[%p]"
@@ -654,10 +654,10 @@ msgstr "21300:[name]梨深[line]He doesn't really like to look into other people
 msgid "21400:[name]梢[line]「…………」[%p]"
 msgstr "21400:[name]梢[line]...[%p]"
 
-msgid "21500:[name]梨深[line]「だからそんなにガチガチに緊張しなくても……ね？　たはは」[%p]"
+msgid "21500:[name]梨深[line]「だからそんなにガチガチに緊張しなくても……ね？\u3000たはは」[%p]"
 msgstr "21500:[name]梨深[line]So, you don't need to be so nervous, okay? Tahaha.[%p]"
 
-msgid "21600:[name]梨深[line]「え？　あたしにもばんそうこうくれるの？　ありがとう」[%p]"
+msgid "21600:[name]梨深[line]「え？\u3000あたしにもばんそうこうくれるの？\u3000ありがとう」[%p]"
 msgstr "21600:[name]梨深[line]Huh? You're giving me a bandage, too? Thanks.[%p]"
 
 msgid "21700:と、転校生は深々と頭を下げると、逃げるように自分の席に戻っていった。[%p]"
@@ -708,7 +708,7 @@ msgstr "23100:[name]三住[line]It's what you'd called “moe,” right?[%p]"
 msgid "23200:[name]拓巳[line]「…………」[%p]"
 msgstr "23200:[name]拓巳[line]...[%p]"
 
-msgid "23300:[name]三住[line]「なんだ？　クソでも我慢してんのか？」[%p]"
+msgid "23300:[name]三住[line]「なんだ？\u3000クソでも我慢してんのか？」[%p]"
 msgstr "23300:[name]三住[line]What? Are you holding in a shit or something?[%p]"
 
 msgid "23400:僕は全力で首を左右に振った。[%p]"

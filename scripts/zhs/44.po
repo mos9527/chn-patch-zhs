@@ -87,7 +87,7 @@ msgstr "2400:[name]女子[line]B-By the way, Nishijo... do you have a girlfriend
 msgid "2500:[name]拓巳[line]「い、いません……」[%p]"
 msgstr "2500:[name]拓巳[line]N-No...[%p]"
 
-msgid "2600:[name]女子[line]「本当ですか？　じゃ、じゃあ、よかったら、わたしと……」[%p]"
+msgid "2600:[name]女子[line]「本当ですか？\u3000じゃ、じゃあ、よかったら、わたしと……」[%p]"
 msgstr "2600:[name]女子[line]Really? Then... would you like me to be your...[%p]"
 
 msgid "2700:フラグ、キタコレ！[linebreak]僕の[color index="A0FF0000"]リア充[color index="800000"]生活は、始まったばかりだ！[%p]"
@@ -321,7 +321,7 @@ msgstr "10200:[name]拓巳[line]W-What do you want?[%p]"
 msgid "10300:[name]女子[line]「え……っ？」[%p]"
 msgstr "10300:[name]女子[line]Huh?[%p]"
 
-msgid "10400:[name]拓巳[line]「つ、ついて、ついてくるなよぅ！　僕、僕に、なんの用だぁっ」[%p]"
+msgid "10400:[name]拓巳[line]「つ、ついて、ついてくるなよぅ！\u3000僕、僕に、なんの用だぁっ」[%p]"
 msgstr "10400:[name]拓巳[line]D-Don't follow me! What do you want from me?[%p]"
 
 msgid "10500:困惑顔の女子Ａに、必死で罵声を浴びせる。少しでも距離を取ろうと、尻餅をついたまま後ずさる。[%p]"
@@ -447,7 +447,7 @@ msgstr "14400:The pain was making me a little dizzy. I might've hit my head a li
 msgid "14500:よろけそうになった僕の手を、優愛が慌ててつかんで支えてくれた。[%p]"
 msgstr "14500:I staggered for a moment, and Yua quickly grabbed my hand.[%p]"
 
-msgid "14600:[name]優愛[line]「ケガしてるんですね？　手、貸します」[%p]"
+msgid "14600:[name]優愛[line]「ケガしてるんですね？\u3000手、貸します」[%p]"
 msgstr "14600:[name]優愛[line]You're hurt, right? Let me help you.[%p]"
 
 msgid "14700:[name]拓巳[line]「…………」[%p]"

@@ -120,7 +120,7 @@ msgstr "3500:She looked like a child, having the time of her life. For some reas
 msgid "3600:[name]拓巳[line]「ねえ、梨深……。君は、ぼ、僕を、守ってくれる？」[%p]"
 msgstr "3600:[name]拓巳[line]Hey... Rimi... W-Will you protect me?[%p]"
 
-msgid "3700:[name]梨深[line]「まもる？　なにを？」[%p]"
+msgid "3700:[name]梨深[line]「まもる？\u3000なにを？」[%p]"
 msgstr "3700:[name]梨深[line]Protect? What?[%p]"
 
 msgid "3800:[name]拓巳[line]「僕を……」[%p]"
@@ -147,7 +147,7 @@ msgstr "4400:I thought about calling her parents, but I couldn't find anything w
 msgid "4500:学校に行けば、教師が住所を知ってるんだろうけど、今日はもう遅いから入れないだろうし。[%p]"
 msgstr "4500:The teachers at school would probably know, but it was too late in the day for that.[%p]"
 
-msgid "4600:そもそもよく考えてみれば、僕は梨深についてあまりになにも知らない。どこに住んでいるのか。家族は何人なのか。誕生日は？　血液型は？[%p]"
+msgid "4600:そもそもよく考えてみれば、僕は梨深についてあまりになにも知らない。どこに住んでいるのか。家族は何人なのか。誕生日は？\u3000血液型は？[%p]"
 msgstr "4600:I realized that I didn't really know that much about Rimi. Where did she live? What was her family like? What was her birthday or her blood type?[%p]"
 
 msgid "4700:僕は、なにも知らない……。[linebreak]とにかく、僕じゃもうどうすることもできない……。[%p]"
@@ -174,13 +174,13 @@ msgstr "5300:But unfortunately, I didn't have anything in the house. I needed to
 msgid "5400:[name]拓巳[line]「な、なにが、食べたい？」[%p]"
 msgstr "5400:[name]拓巳[line]W-What do you want to eat?[%p]"
 
-msgid "5500:[name]梨深[line]「ん？　んー？」[%p]"
+msgid "5500:[name]梨深[line]「ん？\u3000んー？」[%p]"
 msgstr "5500:[name]梨深[line]Hm? Hmm?[%p]"
 
 msgid "5600:記憶喪失の場合、食べ物のことも忘れちゃったりするのかな？[linebreak]どんなメニューがこの世の中には存在するのか知らないとか、味も分からなくなってるとか。[%p]"
 msgstr "5600:When you had amnesia, did you forget about food, too? Maybe you didn't know what kind of foods there were, or what they tasted like?[%p]"
 
-msgid "5700:[name]梨深[line]「あ、そうだ！　あのね、あたし、おそばがたべたい！」[%p]"
+msgid "5700:[name]梨深[line]「あ、そうだ！\u3000あのね、あたし、おそばがたべたい！」[%p]"
 msgstr "5700:[name]梨深[line]Oh, I know! Um, I want soba noodles![%p]"
 
 msgid "5800:[name]拓巳[line]「おそば……？」[%p]"
@@ -195,10 +195,10 @@ msgstr "6000:[name]拓巳[line]You do?[%p]"
 msgid "6100:[name]梨深[line]「すき！」[%p]"
 msgstr "6100:[name]梨深[line]I do![%p]"
 
-msgid "6200:[name]拓巳[line]「なんで？　た、食べたこと、あるの？」[%p]"
+msgid "6200:[name]拓巳[line]「なんで？\u3000た、食べたこと、あるの？」[%p]"
 msgstr "6200:[name]拓巳[line]Why? H-Have you ever eaten them before?[%p]"
 
-msgid "6300:[name]梨深[line]「たべたこと？　んー、ないかも……」[%p]"
+msgid "6300:[name]梨深[line]「たべたこと？\u3000んー、ないかも……」[%p]"
 msgstr "6300:[name]梨深[line]Eaten them? Hmm... maybe not.[%p]"
 
 msgid "6400:[name]梨深[line]「でもね、おそばは、すきだよ」[%p]"
@@ -225,7 +225,7 @@ msgstr "7000:I tried mimicking the pose that Rimi always used to do. I put one h
 msgid "7100:これで、梨深がなにかを思い出してくれるなら……。[linebreak]そう思ったんだけど。[%p]"
 msgstr "7100:Maybe this would help her remember something, I thought. But...[%p]"
 
-msgid "7200:[name]梨深[line]「びし？　なぁに？　かっこいいね！」[%p]"
+msgid "7200:[name]梨深[line]「びし？\u3000なぁに？\u3000かっこいいね！」[%p]"
 msgstr "7200:[name]梨深[line]Snap? What? That's really cool![%p]"
 
 msgid "7300:全然通じなかった。[linebreak]むしろ興味津々という感じで目を輝かせている。[linebreak]すごく恥ずかしくなって、僕は逃げるように部屋を出た。[%p]"
@@ -270,7 +270,7 @@ msgstr "8500:The pool of blood from when Kozupii had died was still there. It wa
 msgid "8600:その上に、部屋にたまっていた空きダンボールを、たたんで敷く。[linebreak]こんなことしたって、なんの解決にもならないけど、なるべく目に入れたくなかったんだ。[%p]"
 msgstr "8600:I broke down some of the cardboard boxes from my room and put them over it. It didn't actually help anything, but at least it saved me from having to look at it.[%p]"
 
-msgid "8700:[name]梨深[line]「タクー、タクー！　こぼれそうだよー！」[%p]"
+msgid "8700:[name]梨深[line]「タクー、タクー！\u3000こぼれそうだよー！」[%p]"
 msgstr "8700:[name]梨深[line]Taku! Taku! It's going to boil over![%p]"
 
 msgid "8800:梨深に呼ばれてコンロのところに戻った。[%p]"
@@ -282,7 +282,7 @@ msgstr "8900:It was boiling too much, and at the point of overflowing out of the
 msgid "9000:[name]拓巳[line]「火を、け、消して」[%p]"
 msgstr "9000:[name]拓巳[line]T-Turn off the heat![%p]"
 
-msgid "9100:[name]梨深[line]「ん？　んー？」[%p]"
+msgid "9100:[name]梨深[line]「ん？\u3000んー？」[%p]"
 msgstr "9100:[name]梨深[line]Hm? Hmm?[%p]"
 
 msgid "9200:梨深は首を傾げながらも、コンロのスイッチをひねった。[linebreak]――強くなる方へ。[%p]"
@@ -321,7 +321,7 @@ msgstr "10200:For now, I didn't want to be outside unless I absolutely had to. I
 msgid "10300:なんだか、オカルトチックだけど、怖かったんだ。[linebreak]血まみれのセナとこずぴぃが、今にもゾンビみたいに歩いて現れそうな気がして。[%p]"
 msgstr "10300:And even though I knew it was silly, I was still scared. It felt like Sena and Kozupii might come staggering out of the darkness covered in blood, like zombies.[%p]"
 
-msgid "10400:[name]梨深[line]「ねえタク。たべていい？　たべていい？」[%p]"
+msgid "10400:[name]梨深[line]「ねえタク。たべていい？\u3000たべていい？」[%p]"
 msgstr "10400:[name]梨深[line]Hey, Taku. Can I eat? Can I eat?[%p]"
 
 msgid "10500:梨深には、僕のような深刻な悩みはないらしい。[%p]"
@@ -495,7 +495,7 @@ msgstr "16000:[name]拓巳[line]Huh?[%p]"
 msgid "16100:なにも、書いてなかった。[linebreak]タイトルに『目覚めて』とあるだけ。[linebreak]本文は、真っ白だ。[%p]"
 msgstr "16100:There was nothing there. The title just read, “Wake up.” There was no other text.[%p]"
 
-msgid "16200:目覚めて……って、どういう意味だ？[linebreak]ギガロマニアックスとして目覚めろとか？　まさかね……。[%p]"
+msgid "16200:目覚めて……って、どういう意味だ？[linebreak]ギガロマニアックスとして目覚めろとか？\u3000まさかね……。[%p]"
 msgstr "16200:Wake up? What was that supposed to mean? Awaken to my Gigalomaniac powers or something? No way.[%p]"
 
 msgid "16300:初めて会ったときも、『将軍』は似たようなことを言っていた気がする。[%p]"
@@ -576,7 +576,7 @@ msgstr "18700:[name]拓巳[line]Aah... Aah...[%p]"
 msgid "18800:はっきりと、聞こえた。[linebreak]あいつだ……。『将軍』の声だ……。[linebreak]スクランブル交差点で僕に話しかけてきた声と、同じだ……！[%p]"
 msgstr "18800:I heard it clearly. It was him… Shogun's voice! Just like when he'd spoken to me at Scramble Crossing![%p]"
 
-msgid "18900:[name]拓巳[line]「な、な、なんでだよ！？　ミュートに、し、したはずだろ！？」[%p]"
+msgid "18900:[name]拓巳[line]「な、な、なんでだよ！？\u3000ミュートに、し、したはずだろ！？」[%p]"
 msgstr "18900:[name]拓巳[line]H-How?! I muted it![%p]"
 
 msgid "19000:[name]梨深[line]「タク、さーどめるとって、なぁに？」[%p]"

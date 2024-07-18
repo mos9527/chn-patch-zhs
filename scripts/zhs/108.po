@@ -9,7 +9,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:「朝だよー！　ほら起きて！　起きなさーい！」"
+msgid "0:「朝だよー！\u3000ほら起きて！\u3000起きなさーい！」"
 msgstr "0:It's morning! Wake up, come on! WAKE UP!"
 
 msgid "100:星来たんが呼んでいる……。[%p]"
@@ -33,7 +33,7 @@ msgstr "600:And being super moe about it, too. I had no choice but to get up.[%p
 msgid "700:僕は身体にかけていた毛布を剥ぎ取ると、うめき声を上げてソファから起き上がった。[%p]"
 msgstr "700:I ripped off the covers and got off the sofa with a moan.[%p]"
 
-msgid "800:「ちょっと！　いつまで寝てるんさ、このぼけなす！」"
+msgid "800:「ちょっと！\u3000いつまで寝てるんさ、このぼけなす！」"
 msgstr "800:Hey! Hey, how long are you gonna be sleeping, dork?"
 
 msgid "900:「こうなったら、あたしの“サムライ☆コンデンサ”でぶん殴って起こし――」"

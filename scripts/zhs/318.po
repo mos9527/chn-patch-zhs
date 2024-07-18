@@ -9,7 +9,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:禁（０漸Ｖ・＄：拓巳、見えているか？　ｙ／ｎ"
+msgid "0:禁（０漸Ｖ・＄：拓巳、見えているか？\u3000ｙ／ｎ"
 msgstr "0:KIN(OZENV.$: Takumi, are you seeing this? y/n"
 
 msgid "100:なんだ、これ……。[%p]"
@@ -153,7 +153,7 @@ msgstr "4600:KIN(OZENV.$: You'll just have to believe us."
 msgid "4700:[name]セナ[line]「なんなんだ……？」[%p]"
 msgstr "4700:[name]セナ[line]What the hell?[%p]"
 
-msgid "4800:[name]セナ[line]「ノアⅡの攻撃？　それとも、ギガロマニアックスからの妄想攻撃か？」[%p]"
+msgid "4800:[name]セナ[line]「ノアⅡの攻撃？\u3000それとも、ギガロマニアックスからの妄想攻撃か？」[%p]"
 msgstr "4800:[name]セナ[line]Some kind of attack from Noah II? Or a delusion attack from a Gigalomaniac?[%p]"
 
 msgid "4900:[name]セナ[line]「西條、こいつが『将軍』の可能性は？」[%p]"
@@ -198,7 +198,7 @@ msgstr "6100:[name]波多野[line]What's important is whether this self-proclaim
 msgid "6200:禁（０漸Ｖ・＄：猪鼻と倉持はこちらで排除した"
 msgstr "6200:KIN(OZENV.$: We eliminated Kuramochi and Inohana."
 
-msgid "6300:[name]拓巳[line]「……！　こ、こいつが、犯人……！？」[%p]"
+msgid "6300:[name]拓巳[line]「……！\u3000こ、こいつが、犯人……！？」[%p]"
 msgstr "6300:[name]拓巳[line]...！ T-They were the ones who'd killed them?[%p]"
 
 msgid "6400:やっぱりあの２人は、殺されたんだ！[%p]"
@@ -312,7 +312,7 @@ msgstr "9900:Something came into my mind as I read the words. It was a thought I
 msgid "10000:[name]拓巳[line]「あなたは、ゲ、ゲームマスターっていうこと……？」[%p]"
 msgstr "10000:[name]拓巳[line]S-So you're the game masters?[%p]"
 
-msgid "10100:[name]セナ[line]「ゲームマスター？　どういう意味だ？」[%p]"
+msgid "10100:[name]セナ[line]「ゲームマスター？\u3000どういう意味だ？」[%p]"
 msgstr "10100:[name]セナ[line]Game masters? What does that mean?[%p]"
 
 msgid "10200:[name]拓巳[line]「エ、エンスーで言えば、か、開発者側ってこと。も、もっとわかりやすく言うなら、な、中の人だよ……」[%p]"
@@ -333,7 +333,7 @@ msgstr "10600:KIN(OZENV.$: We are the game masters who administer the MMORPG's o
 msgid "10700:禁（０漸Ｖ・＄：君たちは、プレイヤーキャラ、あるいはＮＰＣだ"
 msgstr "10700:KIN(OZENV.$: You are characters, whether player or non-player."
 
-msgid "10800:[name]拓巳[line]「ちょ、ま、マジで……？　おおお……、キター！　キタコレ！」[%p]"
+msgid "10800:[name]拓巳[line]「ちょ、ま、マジで……？\u3000おおお……、キター！\u3000キタコレ！」[%p]"
 msgstr "10800:[name]拓巳[line]Wait, seriously? Oh... I was right! I was right![%p]"
 
 msgid "10900:僕がずっと妄想していた理論は、ホントだったんだ！[%p]"
@@ -342,7 +342,7 @@ msgstr "10900:The theory that made me have all those delusions about someone els
 msgid "11000:僕を操作している、中の人がいる！[linebreak]ナイトハルトを操作する僕がいるように。[linebreak]僕を操作する、誰かがいるんだ！[%p]"
 msgstr "11000:There really was someone else in control of me! Somebody was controlling me, the exact same way I controlled KnightHeart![%p]"
 
-msgid "11100:[name]拓巳[line]「だ、だったら、僕の中の人に、い、言ってよ……！　キャ、キャラメイキングを、今すぐ、やり直せって！　も、もっと、僕を操作する腕を、上げろって！」[%p]"
+msgid "11100:[name]拓巳[line]「だ、だったら、僕の中の人に、い、言ってよ……！\u3000キャ、キャラメイキングを、今すぐ、やり直せって！\u3000も、もっと、僕を操作する腕を、上げろって！」[%p]"
 msgstr "11100:[name]拓巳[line]T-Then tell this to the person controlling me! Tell them to remake their character! Tell them to get good at the game this time![%p]"
 
 msgid "11200:モニタに向かって叫ぶ。[linebreak]セナからの、困惑したような視線を感じる。[%p]"
@@ -375,10 +375,10 @@ msgstr "12000:[name]拓巳[line]Maybe I could really be a hero! M-Maybe I could 
 msgid "12100:それはまさに僕が求めていた超展開だ！[linebreak]なんの苦労もせずにモテモテで最強キャラ化！[linebreak]“[color index="A0FF0000"]俺ＴＵＥＥＥプレイ[color index="800000"]”ができるってこと！[%p]"
 msgstr "12100:This was the completely unexpected plot twist I'd been waiting for! I could be the strongest character, loved by all the girls, without having to do any work at all! I could spend my life playing on [color index="A0FF0000"]god mode[color index="800000"] with max stats and best-in-slot gear![%p]"
 
-msgid "12200:おおお！　３００人委員会ってマジで[color index="A0FF0000"]ネ申[color index="800000"]！　いわゆるゴッド！[linebreak]みｗなｗぎｗっｗてｗきｗたｗぜｗ[%p]"
+msgid "12200:おおお！\u3000３００人委員会ってマジで[color index="A0FF0000"]ネ申[color index="800000"]！\u3000いわゆるゴッド！[linebreak]みｗなｗぎｗっｗてｗきｗたｗぜｗ[%p]"
 msgstr "12200:Yes! I love you, Committee of 300! You are [color index="A0FF0000"]GOD[color index="800000"]! I AM SO HYPED! LOLOLOL![%p]"
 
-msgid "12300:[name]セナ[line]「それがチートコードだとして、本当にあると思うのか？　このチャット相手は高次存在らしいが、そんな神のような存在が、私たちと同じ言葉や用語を使っているのはなぜだ？」[%p]"
+msgid "12300:[name]セナ[line]「それがチートコードだとして、本当にあると思うのか？\u3000このチャット相手は高次存在らしいが、そんな神のような存在が、私たちと同じ言葉や用語を使っているのはなぜだ？」[%p]"
 msgstr "12300:[name]セナ[line]Do you think that cheat code really exists? The person we're talking to seems like it's some kind of higher-dimensional being. Would somebody like that use the same words and language as we do?[%p]"
 
 msgid "12400:[name]セナ[line]「これは罠だ」[%p]"
@@ -534,7 +534,7 @@ msgstr "17300:Sena clenched her jaw hard. The frown on her face deepened.[%p]"
 msgid "17400:[name]セナ[line]「これは妄想だ……っ！」[%p]"
 msgstr "17400:[name]セナ[line]This is a delusion![%p]"
 
-msgid "17500:[name]セナ[line]「私の心への攻撃だ……！　惑わされないぞ！」[%p]"
+msgid "17500:[name]セナ[line]「私の心への攻撃だ……！\u3000惑わされないぞ！」[%p]"
 msgstr "17500:[name]セナ[line]An attack on my mind! You won't fool me![%p]"
 
 msgid "17600:禁（０漸Ｖ・＄：ではこうしよう"
@@ -579,7 +579,7 @@ msgstr "18800:[name]波多野[line]Don't make a mistake here.[%p]"
 msgid "18900:[name]波多野[line]「お前はそう信じたいだけだ。現実によみがえることなどない」[%p]"
 msgstr "18900:[name]波多野[line]They're just telling you what you want to believe. You can't bring back the dead.[%p]"
 
-msgid "19000:[name]セナ[line]「うるさい！　お前は黙ってろ！」[%p]"
+msgid "19000:[name]セナ[line]「うるさい！\u3000お前は黙ってろ！」[%p]"
 msgstr "19000:[name]セナ[line]Shut up! I don't want to hear what you think![%p]"
 
 msgid "19100:[name]波多野[line]「心の負い目につけ込まれているぞ。相手は巧妙だ」[%p]"
@@ -591,7 +591,7 @@ msgstr "19200:[name]波多野[line]This is no God. Now I'm sure of it. This pers
 msgid "19300:[name]波多野[line]「神は自己完結した存在でなければならない。生死の概念そのものを持ち合わせていないし、理解できない、そういう存在だ」[%p]"
 msgstr "19300:[name]波多野[line]God is a self-completing being. He has to be. He has no concept of life or death. He can't understand them.[%p]"
 
-msgid "19400:[name]セナ[line]「黙れと言ってるだろ！　お前の宗教観は聞いてない！」[%p]"
+msgid "19400:[name]セナ[line]「黙れと言ってるだろ！\u3000お前の宗教観は聞いてない！」[%p]"
 msgstr "19400:[name]セナ[line]I said shut up! I'm not asking you for a theology lecture![%p]"
 
 msgid "19500:セナが再びディソードを波多野さんに突きつける。[%p]"
@@ -720,7 +720,7 @@ msgstr "23500:I was excited. I'd met God, the person who controlled me.[%p]"
 msgid "23600:世界は多層構造になっていて、上位にいる人と対話できた。[linebreak]僕はチートコードを手に入れることができる。[linebreak]こんなクソな人生とはおさらばできるんだ。[%p]"
 msgstr "23600:The world consisted of different layers, and I'd spoken to a being from a higher one. I was going to get the cheat code. I could say goodbye to my crappy life.[%p]"
 
-msgid "23700:僕は無敵になる。もう誰にも、僕をおびやかすことはできないぞ。[linebreak]『将軍』も優愛も希テクノロジーも、敵じゃない。[linebreak]僕の勝ちだ！　僕は勝ち組になるんだ！[%p]"
+msgid "23700:僕は無敵になる。もう誰にも、僕をおびやかすことはできないぞ。[linebreak]『将軍』も優愛も希テクノロジーも、敵じゃない。[linebreak]僕の勝ちだ！\u3000僕は勝ち組になるんだ！[%p]"
 msgstr "23700:I could be invincible. Nobody could scare me now. Not Shogun. Not Yua. Not Nozomi Technologies. I'd won! For once, I was one of life's winners![%p]"
 
 msgid "23800:一刻も早く、渋谷駅へ行きたい。[linebreak]そしてチートコードを手に入れたい。[%p]"

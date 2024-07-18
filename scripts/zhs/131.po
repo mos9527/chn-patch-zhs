@@ -900,7 +900,7 @@ msgstr "29500:How could you explain him?[%p]"
 msgid "29600:“無人化”が妄想だったなら、『将軍』も妄想ってことになりかねない。[%p]"
 msgstr "29600:If the empty Shibuya was just a delusion, then Shogun might be a delusion, too.[%p]"
 
-msgid "29700:[name]梨深[line]「駅前って人が多いでしょ？　だから車椅子の人がいても、なかなか気が付かないだろうし」[%p]"
+msgid "29700:[name]梨深[line]「駅前って人が多いでしょ？\u3000だから車椅子の人がいても、なかなか気が付かないだろうし」[%p]"
 msgstr "29700:[name]梨深[line]There's always a lot of people in front of the station. So even if there was somebody in a wheelchair, I don't think I would've noticed.[%p]"
 
 msgid "29800:[name]梨深[line]「要するに、見てないってこと。たはは……」[%p]"
@@ -1059,7 +1059,7 @@ msgstr "34800:[name]梨深[line]Hmm... it's not here.[%p]"
 msgid "34900:インディーズで、頭文字がＰのアーティストって、もしかして……[%p]"
 msgstr "34900:An indie band whose name started with P. Could it be...[%p]"
 
-msgid "35000:[name]梨深[line]「タクは、ファンタズムってバンド知ってる？　今、話題になってるけど」[%p]"
+msgid "35000:[name]梨深[line]「タクは、ファンタズムってバンド知ってる？\u3000今、話題になってるけど」[%p]"
 msgstr "35000:[name]梨深[line]Taku, have you heard of Phantasm? They're really big right now.[%p]"
 
 msgid "35100:やっぱりか……。[linebreak]知らないはずがない。ライブまで見に行ったし、ＣＤも持ってる。[%p]"

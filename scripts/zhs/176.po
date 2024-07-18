@@ -21,7 +21,7 @@ msgstr "200:So, after school ended and everyone had gone home, I went back into 
 msgid "300:そこに梨深がひとりで待っていて、僕を見て微笑んで、[%p]"
 msgstr "300:Rimi was waiting there. She turned to me and smiled.[%p]"
 
-msgid "400:[name]梨深[line]「ビシィッ！　どこ行ってたの？　待ってたんだよ」[%p]"
+msgid "400:[name]梨深[line]「ビシィッ！\u3000どこ行ってたの？\u3000待ってたんだよ」[%p]"
 msgstr "400:[name]梨深[line]Snap! Where have you been? I've been waiting for you.[%p]"
 
 msgid "500:[name]梨深[line]「一緒に帰ろっか、タク」[%p]"

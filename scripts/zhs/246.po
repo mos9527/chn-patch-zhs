@@ -42,7 +42,7 @@ msgstr "900:She was looking at me in confusion, a finger on her lip.[%p]"
 msgid "1000:でもすぐに、そんなことはどうでもよくなったみたいだ。[%p]"
 msgstr "1000:But she quickly had something more important to ask, it seemed.[%p]"
 
-msgid "1100:[name]梢[line]「あのあーの！　どうてーいさんの妄想力はすごすごーいの？」[%p]"
+msgid "1100:[name]梢[line]「あのあーの！\u3000どうてーいさんの妄想力はすごすごーいの？」[%p]"
 msgstr "1100:[name]梢[line]Um... Um! Is it true that virgins have good imaginations?[%p]"
 
 msgid "1200:[name]拓巳[line]「……すごいよ」[%p]"

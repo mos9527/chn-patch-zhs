@@ -327,7 +327,7 @@ msgstr "10400:Nu was a magazine that dealt with UFOs, aliens, psychic powers, re
 msgid "10500:デンパな話ばかりしていたあやせがこの雑誌を読んでいたというのは、じゅうぶん納得できる。[%p]"
 msgstr "10500:It didn't surprise me in the least that a girl who constantly talked about crazy stuff like Ayase was reading it.[%p]"
 
-msgid "10600:[name]三住[line]「こっちの文庫本は……なになに、『グラジオール記黙示録詩編』？　ファンタジー小説っぽいな」[%p]"
+msgid "10600:[name]三住[line]「こっちの文庫本は……なになに、『グラジオール記黙示録詩編』？\u3000ファンタジー小説っぽいな」[%p]"
 msgstr "10600:[name]三住[line]And this paperback here... The Apocalyptic Psalms of the Book of Gladiale? Looks like a fantasy novel.[%p]"
 
 msgid "10700:その小説のことは知らないけど、グラジオールっていう単語には聞き覚えがあった。[%p]"
@@ -459,7 +459,7 @@ msgstr "14800:Misumi and I decided to split up and look for her.[%p]"
 msgid "14900:三住くんが階段を下っていったので、僕は上の階を探してみることにした。[%p]"
 msgstr "14900:Misumi checked the floor below, so I went to check the one above us.[%p]"
 
-msgid "15000:[name]男[line]「あみぃちゃん！　ろこぉ！？　あみぃちゃん！」[%p]"
+msgid "15000:[name]男[line]「あみぃちゃん！\u3000ろこぉ！？\u3000あみぃちゃん！」[%p]"
 msgstr "15000:[name]男[line]Ami! Where are you? Ami![%p]"
 
 msgid "15100:５０代くらいの初老の入院患者と、廊下ですれ違った。男はよたよたと歩きながら、しきりに“あみぃちゃん”なる人の名を呼んでいる。[%p]"

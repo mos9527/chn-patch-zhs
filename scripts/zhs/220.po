@@ -189,7 +189,7 @@ msgstr "5800:I felt like I was going crazy. Did I actually not want to die? Or w
 msgid "5900:脳だけが、死の間際に超感覚を獲得して、１秒にも満たない時間の中で最後にこの幻覚を見せているとか？[%p]"
 msgstr "5900:Maybe my brain gained some kind of super sensory powers just before its death, and I was hallucinating this scene again and again in the single second before I was about to die for real?[%p]"
 
-msgid "6000:そ　ん　な　わ　け　あ　る　か。[%p]"
+msgid "6000:そ\u3000ん\u3000な\u3000わ\u3000け\u3000あ\u3000る\u3000か。[%p]"
 msgstr "6000:Not. A. Chance. In. Hell.[%p]"
 
 msgid "6100:ほとんど自棄になって、また車道に出ようとした。[%p]"

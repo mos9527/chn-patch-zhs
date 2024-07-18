@@ -168,7 +168,7 @@ msgstr "5100:I could sense him. Somebody in a wheelchair was right behind me![%p
 msgid "5200:誰か、だって？[linebreak]僕は自分のおめでたい思考に笑ってしまった。[linebreak]誰なのかなんて、はっきりしてる。[%p]"
 msgstr "5200:Somebody? I laughed at myself. I knew exactly who it was.[%p]"
 
-msgid "5300:あいつだ！　『将軍』だ！[%p]"
+msgid "5300:あいつだ！\u3000『将軍』だ！[%p]"
 msgstr "5300:It was him! Shogun![%p]"
 
 msgid "5400:[name]拓巳[line]「うわあああ！」[%p]"

@@ -108,10 +108,10 @@ msgstr "3100:[name]三住[line]Hello?[%p]"
 msgid "3200:[name]拓巳[line]「あ、み、みす……」[%p]"
 msgstr "3200:[name]拓巳[line]Oh, M-Misu...[%p]"
 
-msgid "3300:[name]三住[line]「タクだろ？　どうしたんだ？」[%p]"
+msgid "3300:[name]三住[line]「タクだろ？\u3000どうしたんだ？」[%p]"
 msgstr "3300:[name]三住[line]It's you, right, Taku? What's gotten into you?[%p]"
 
-msgid "3400:[name]三住[line]「梨深とうまいこといったか？　ちゃんと童貞卒業できたんだろうな。ははは」[%p]"
+msgid "3400:[name]三住[line]「梨深とうまいこといったか？\u3000ちゃんと童貞卒業できたんだろうな。ははは」[%p]"
 msgstr "3400:[name]三住[line]How'd things go with Rimi? You managed to lose your virginity, right? Hahaha.[%p]"
 
 msgid "3500:[name]三住[line]「感謝しろよ。気を遣って２人にしてやったんだからよ」[%p]"
@@ -138,7 +138,7 @@ msgstr "4100:[name]三住[line]Oh, my girlfriend.[%p]"
 msgid "4200:[name]三住[line]「で、ミナコが言うんだよ」[%p]"
 msgstr "4200:[name]三住[line]So anyway, Minako says...[%p]"
 
-msgid "4300:[name]三住[line]「ここ１ヶ月ぐらい西條と急に仲よくなったけどなんで？　って」[%p]"
+msgid "4300:[name]三住[line]「ここ１ヶ月ぐらい西條と急に仲よくなったけどなんで？\u3000って」[%p]"
 msgstr "4300:[name]三住[line]She said to me that I'd been hanging out with you an awful lot for the past month, and was asking why.[%p]"
 
 msgid "4400:[name]三住[line]「こいつなに言ってんだ、って最初は思ったんだけど」[%p]"

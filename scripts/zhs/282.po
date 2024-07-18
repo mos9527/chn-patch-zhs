@@ -27,7 +27,7 @@ msgstr "400:It wasn't just Minako who was glaring at her.[%p]"
 msgid "500:美菜子の後ろには、さらに５人ほどの女子が控えている。[linebreak]全員、クラスメイトだ。ただ、顔と名前は一致しない。[%p]"
 msgstr "500:There were another five girls behind her. All of them were her classmates, but she couldn't remember their names.[%p]"
 
-msgid "600:[name]美菜子[line]「いいよね？　付き合ってくれるでしょ？」[%p]"
+msgid "600:[name]美菜子[line]「いいよね？\u3000付き合ってくれるでしょ？」[%p]"
 msgstr "600:[name]美菜子[line]You don't mind, right? You'll come with us, right?[%p]"
 
 msgid "700:[name]梢[line]「…………っ」[%p]"
@@ -99,7 +99,7 @@ msgstr "2800:Kozue couldn't even remember who Daisuke was.[%p]"
 msgid "2900:でもそれを口に出すことはできなくて、ただただ混乱した状態でさらに身を縮こまらせるのが精一杯。[%p]"
 msgstr "2900:But she couldn't say that, so she just shrank back in confusion and fear.[%p]"
 
-msgid "3000:[name]美菜子[line]「聞いてんの！？　ウザいんだよ、あんた。人のカレシに手出そうとしてんなよ」[%p]"
+msgid "3000:[name]美菜子[line]「聞いてんの！？\u3000ウザいんだよ、あんた。人のカレシに手出そうとしてんなよ」[%p]"
 msgstr "3000:[name]美菜子[line]Are you listening to me? Stop trying to steal my boyfriend, you slut![%p]"
 
 msgid "3100:梢は必死で首を振った。[linebreak]身に覚えはまったくなかった。[%p]"
@@ -111,13 +111,13 @@ msgstr "3200:And then she finally remembered that “Daisuke” was the first na
 msgid "3300:[name]女子Ａ[line]「っていうかぁ、前から折原のこと気に入らなかったんだよね」[%p]"
 msgstr "3300:[name]女子Ａ[line]You know, I never liked you.[%p]"
 
-msgid "3400:[name]女子Ｂ[line]「ねえ、なんで喋んないの？　かわいこぶってんの？」[%p]"
+msgid "3400:[name]女子Ｂ[line]「ねえ、なんで喋んないの？\u3000かわいこぶってんの？」[%p]"
 msgstr "3400:[name]女子Ｂ[line]Right? Why don't you talk? Do you think it makes you cute or something?[%p]"
 
 msgid "3500:[name]女子Ｃ[line]「はっきり言ってウザすぎだし。ムカつくし」[%p]"
 msgstr "3500:[name]女子Ｃ[line]Yeah. Nobody likes you. You just piss everybody off.[%p]"
 
-msgid "3600:[name]女子Ｄ[line]「それとも、男子とは話せてもあたしたちとは話すつもりないって？　調子に乗ってんじゃねーよ」[%p]"
+msgid "3600:[name]女子Ｄ[line]「それとも、男子とは話せてもあたしたちとは話すつもりないって？\u3000調子に乗ってんじゃねーよ」[%p]"
 msgstr "3600:[name]女子Ｄ[line]Or maybe you can talk to guys, but you can't talk to us? Is that it? Bitch.[%p]"
 
 msgid "3700:[name]女子Ｅ[line]「なんか言えよブス！」[%p]"

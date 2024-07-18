@@ -12,7 +12,7 @@
 msgid "0:グリム：おーい、ナイトハルト？"
 msgstr "0:Grimm: Hey, KnightHeart?"
 
-msgid "100:グリム：どうした？　応答ないけど寝オチしたか？"
+msgid "100:グリム：どうした？\u3000応答ないけど寝オチしたか？"
 msgstr "100:Grimm: What's wrong? You're not responding. Did you fall asleep?"
 
 msgid "200:あ、しまった。[linebreak]"
@@ -96,7 +96,7 @@ msgstr "2700:School Swimsuit + Glasses![%18]"
 msgid "2800:ナイトハルト：スク水＋メガネはデフォな"
 msgstr "2800:KnightHeart: School Swimsuit + Glasses is the default [alt-linebreak]combination."
 
-msgid "2900:ナイトハルト：メガネ？　そんなんいらね"
+msgid "2900:ナイトハルト：メガネ？\u3000そんなんいらね"
 msgstr "2900:KnightHeart: Glasses? Who needs glasses?"
 
 msgid "3000:胸に名札が付いてなきゃスク水じゃない！[%18]"
@@ -111,7 +111,7 @@ msgstr "3200:KnightHeart: The spot for the name on the chest [alt-linebreak]does
 msgid "3300:白スク水は有り得ない。スク水と言ったら紺色だろ！[%18]"
 msgstr "3300:There's no such thing as a white school swimsuit! School swimsuits have to be dark blue![%18]"
 
-msgid "3400:ナイトハルト：ちなみにスク水の色は紺色！　それ以外は認めん"
+msgid "3400:ナイトハルト：ちなみにスク水の色は紺色！\u3000それ以外は認めん"
 msgstr "3400:KnightHeart: And a school swimsuit has to be dark blue! [alt-linebreak]Nothing else is acceptable."
 
 msgid "3500:ナイトハルト：ちなみにスク水の色は白な"
@@ -120,7 +120,7 @@ msgstr "3500:KnightHeart: And a school swimsuit has to be white!"
 msgid "3600:やっぱりスジだよ、スジ！[%18]"
 msgstr "3600:You need to be able to see that little crease![%18]"
 
-msgid "3700:ナイトハルト：それとスージーさんも必須！　これ最強"
+msgid "3700:ナイトハルト：それとスージーさんも必須！\u3000これ最強"
 msgstr "3700:KnightHeart: And the crease is a must-have! That's the [alt-linebreak]best part."
 
 msgid "3800:ナイトハルト：ま、スジはあってもいいけどそこがメインじゃないから"
@@ -144,7 +144,7 @@ msgstr "4300:KnightHeart: And I'm the only one who gets to find a swim cap sexy.
 msgid "4400:ナイトハルト：スイミングキャップは論外な。あんなのあり得ない"
 msgstr "4400:KnightHeart: Swim caps are an absolute no-go. Not a [alt-linebreak]chance in hell."
 
-msgid "4500:靴下装備！　[color index="A0FF0000"]オーバーニーソ[color index="800000"]！[%18]"
+msgid "4500:靴下装備！\u3000[color index="A0FF0000"]オーバーニーソ[color index="800000"]！[%18]"
 msgstr "4500:Socks! [color index="A0FF0000"]Over-the-knee socks[color index="800000"]![%18]"
 
 msgid "4600:ナイトハルト：そしてオーバーニーソ着用なら破壊力は４００％だ！"
@@ -156,7 +156,7 @@ msgstr "4700:KnightHeart: What I'm getting at here is that the school swimsuit i
 msgid "4800:グリム：おいおいｗｗｗ"
 msgstr "4800:Grimm: lol come on man"
 
-msgid "4900:グリム：メ　ガ　ネ　っ　娘　属　性　か　！"
+msgid "4900:グリム：メ\u3000ガ\u3000ネ\u3000っ\u3000娘\u3000属\u3000性\u3000か\u3000！"
 msgstr "4900:Grimm: YOU LIKE GLASSES GIRLS?!"
 
 msgid "5000:ナイトハルト：水着にメガネ←これポイント"
@@ -183,13 +183,13 @@ msgstr "5600:KnightHeart: What man doesn't? I mean, really."
 msgid "5700:ナイトハルト：ちなみに露出度が高けりゃいいってもんじゃないからな"
 msgstr "5700:KnightHeart: It's not about just showing skin, you know."
 
-msgid "5800:ナイトハルト：“パンモロ”より“はいてない”の方がいいだろ？　それと同じことさ"
+msgid "5800:ナイトハルト：“パンモロ”より“はいてない”の方がいいだろ？\u3000それと同じことさ"
 msgstr "5800:KnightHeart: A fully-dressed girl with no panties is [alt-linebreak]sexier than panmoro, right? It's the same deal."
 
 msgid "5900:グリム：同じことと言われても、別にどっちでもいいし"
 msgstr "5900:Grimm: I mean, I'm okay with either."
 
-msgid "6000:ナイトハルト：なにー！？　おぬし、“はいてない”の良さが分からんのかー！"
+msgid "6000:ナイトハルト：なにー！？\u3000おぬし、“はいてない”の良さが分からんのかー！"
 msgstr "6000:KnightHeart: What?! Are you telling me you don't [alt-linebreak]understand how hot no-panties stuff is?"
 
 msgid "6100:グリム：だって漏れ、全裸派"
@@ -357,7 +357,7 @@ msgstr "11400:Grimm: You know about it, right?"
 msgid "11500:ナイトハルト：？？？"
 msgstr "11500:KnightHeart: ???"
 
-msgid "11600:ニュージェネ？　なんだそれ？　既出じゃないよね？[%p]"
+msgid "11600:ニュージェネ？\u3000なんだそれ？\u3000既出じゃないよね？[%p]"
 msgstr "11600:New Generation? What the hell was that? It wasn't something I already knew about, right?[%p]"
 
 msgid "11700:グリムはさも“知ってて当然”って言い方だけど。[%p]"
@@ -393,13 +393,13 @@ msgstr "12600:[name]拓巳[line]Let me see...[%p]"
 msgid "12700:[name]拓巳[line]「この１ヶ月の間に渋谷で発生したふたつの事件のことをニュージェネと呼ぶ……[%p]"
 msgstr "12700:[name]拓巳[line]The two incidents that have taken place in Shibuya over the past month are referred to as NewGen...[%p]"
 
-msgid "12800:[name]拓巳[line]　その犠牲者は胎児を含めて７人。[%p]"
+msgid "12800:[name]拓巳[line]\u3000その犠牲者は胎児を含めて７人。[%p]"
 msgstr "12800:[name]拓巳[line]There are seven victims in total, including an unborn baby.[%p]"
 
 msgid "12900:[name]拓巳[line]ひとつめの事件は、友人同士５人による高層ビルからの集団ダイブ……[%p]"
 msgstr "12900:[name]拓巳[line]The first was a group of 5 friends who jumped off a skyscraper together.[%p]"
 
-msgid "13000:[name]拓巳[line]　ふたつめの事件では男性の体内から胎児が出てきた……」[%p]"
+msgid "13000:[name]拓巳[line]\u3000ふたつめの事件では男性の体内から胎児が出てきた……」[%p]"
 msgstr "13000:[name]拓巳[line]The second was an unborn baby found in a man's stomach.[%p]"
 
 msgid "13100:[name]拓巳[line]「ちょ、これマジかよ……」[%p]"
@@ -435,7 +435,7 @@ msgstr "14000:There was no sign of a motive, and from a lot of other pieces of c
 msgid "14100:ナイトハルト：ざっと見てきた"
 msgstr "14100:KnightHeart: I took a quick look."
 
-msgid "14200:グリム：どうだ？　ガクブルしてきた？"
+msgid "14200:グリム：どうだ？\u3000ガクブルしてきた？"
 msgstr "14200:Grimm: Well? Starting to shake and shiver?"
 
 msgid "14300:ナイトハルト：べっつにー。興味なし"
@@ -567,7 +567,7 @@ msgstr "18400:Huh? He was talking normally. I felt a little relieved.[%p]"
 msgid "18500:ナイトハルト：ぜんぜん無問題"
 msgstr "18500:KnightHeart: Nah, s'cool man."
 
-msgid "18600:ナイトハルト：なんでＲＯＭってたの？　半年ＲＯＭれって誰かに言われた？"
+msgid "18600:ナイトハルト：なんでＲＯＭってたの？\u3000半年ＲＯＭれって誰かに言われた？"
 msgstr "18600:KnightHeart: Why were you lurking? Did somebody tell you to lurk for 6 months before you could type?"
 
 msgid "18700:将軍：考え事したり"
@@ -738,7 +738,7 @@ msgstr "24100:[name]拓巳[line]...[%p]"
 msgid "24200:すごい速さで、いくつものＵＲＬが貼られていく。[%p]"
 msgstr "24200:He typed in several URLs at blinding speed.[%p]"
 
-msgid "24300:さっきからなんなんだコイツ……。僕を脅かして楽しんでるのか？　実はグリムの知り合いかなにかで、ふたりで僕を担いでるのか？[%p]"
+msgid "24300:さっきからなんなんだコイツ……。僕を脅かして楽しんでるのか？\u3000実はグリムの知り合いかなにかで、ふたりで僕を担いでるのか？[%p]"
 msgstr "24300:What was this guy's deal? Was he just entertaining himself by trying to scare me? Was he a buddy of Grimm's, and they were having fun with me?[%p]"
 
 msgid "24400:[name]拓巳[line]「…………」[%p]"
@@ -777,7 +777,7 @@ msgstr "25400:Shaking, I leaned toward the monitor, and...[%p]"
 msgid "25500:思わず右手の人差し指に力が入り、将軍のリンクのひとつをクリックしてしまっていた。[%p]"
 msgstr "25500:I suddenly felt my right-hand index finger tense up as I clicked one of Shogun's links.[%p]"
 
-msgid "25600:[name]拓巳[line]「あっ！　ちょっ……！」[%p]"
+msgid "25600:[name]拓巳[line]「あっ！\u3000ちょっ……！」[%p]"
 msgstr "25600:[name]拓巳[line]Hey! No![%p]"
 
 msgid "25700:どうしてそうしてしまったのか、正直自分でも理解できない。手が勝手に動いたとかそんなことじゃない。“思わず”としか表現のしようがない。[%p]"

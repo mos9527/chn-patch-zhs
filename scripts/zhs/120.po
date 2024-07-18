@@ -57,7 +57,7 @@ msgstr "1400:I had no choice but to say no in a way that couldn't possibly be mi
 msgid "1500:僕は強引に優愛の手を振り払った。[%p]"
 msgstr "1500:I knocked away her hand violently.[%p]"
 
-msgid "1600:[name]拓巳[line]「お、お断りだ！　警察に、つ、つつ、突き出すぞ……！」[%p]"
+msgid "1600:[name]拓巳[line]「お、お断りだ！\u3000警察に、つ、つつ、突き出すぞ……！」[%p]"
 msgstr "1600:[name]拓巳[line]I-I refuse! I-I'll call the police![%p]"
 
 msgid "1700:[name]優愛[line]「……！」[%p]"
@@ -399,7 +399,7 @@ msgstr "12800:[name]優愛[line]Shogun's conversation with KnightHeart... that i
 msgid "12900:[name]優愛[line]「そこで『将軍』が書き込んでました」[%p]"
 msgstr "12900:[name]優愛[line]Shogun had said it.[%p]"
 
-msgid "13000:[name]優愛[line]「その目だれの目？　……って」[%p]"
+msgid "13000:[name]優愛[line]「その目だれの目？\u3000……って」[%p]"
 msgstr "13000:[name]優愛[line]“Whose eyes are those?” It was in the log.[%p]"
 
 msgid "13100:[name]優愛[line]「そして――」[%p]"
@@ -573,7 +573,7 @@ msgstr "18600:And the hospital was under Shogun's influence, too![%p]"
 msgid "18700:僕が唯一信頼してた高科先生は不自然すぎるくらい唐突にいなくなった。[%p]"
 msgstr "18700:The one person I could trust, Dr. Takashina, had disappeared so suddenly that I knew something must've happened to him.[%p]"
 
-msgid "18800:『将軍』に消されたに違いないんだ！　優愛の言葉に従ってついていったら僕も消されるぞ！[%p]"
+msgid "18800:『将軍』に消されたに違いないんだ！\u3000優愛の言葉に従ってついていったら僕も消されるぞ！[%p]"
 msgstr "18800:Shogun must've killed him! And if I did what Yua said, I'd be killed, too![%p]"
 
 msgid "18900:僕は、この女を、信じない！[%p]"
@@ -612,7 +612,7 @@ msgstr "19900:[name]拓巳[line]Aah![%p]"
 msgid "20000:こいつは敵だ！[linebreak]『将軍』の手下だ！[%p]"
 msgstr "20000:She was my enemy! She was working with Shogun![%p]"
 
-msgid "20100:騙されないぞ！　二度と騙されるもんか！[%p]"
+msgid "20100:騙されないぞ！\u3000二度と騙されるもんか！[%p]"
 msgstr "20100:I wouldn't let her fool me! I wouldn't let her fool me again![%p]"
 
 msgid "20200:[name]拓巳[line]「さ、触るなぁっ！」[%p]"

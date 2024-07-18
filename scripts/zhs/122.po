@@ -279,7 +279,7 @@ msgstr "8800:He was tailing me![%p]"
 msgid "8900:ここにいるのはまずい。[linebreak]僕は階段を駆け下りる。[%p]"
 msgstr "8900:I couldn't stay here. I ran down the stairs.[%p]"
 
-msgid "9000:クソ！　クソ！　クソ！[%p]"
+msgid "9000:クソ！\u3000クソ！\u3000クソ！[%p]"
 msgstr "9000:Shit! Shit! Shit![%p]"
 
 msgid "9100:優愛だけじゃなく警察にまで追われるなんて！[%p]"
@@ -402,7 +402,7 @@ msgstr "12900:[name]ＯＬ[line]I'm going to buy one on Sunday. You can buy them
 msgid "13000:違和感を覚えた。[linebreak]女の話し方がぎこちない。妙に芝居がかっている。[%p]"
 msgstr "13000:Something felt wrong. The way she spoke was strange and awkward. It sounded like she was an actor putting on a performance.[%p]"
 
-msgid "13100:この女と喋っている電話の相手は、いったい誰だ？　本当にそんなヤツは存在するのか？[%p]"
+msgid "13100:この女と喋っている電話の相手は、いったい誰だ？\u3000本当にそんなヤツは存在するのか？[%p]"
 msgstr "13100:Who was she talking to on the phone? Was she talking to anybody at all?[%p]"
 
 msgid "13200:でも、結局女は僕に対してなんのアクションも起こさなかった。[%p]"
@@ -456,7 +456,7 @@ msgstr "14700:They were detectives after all![%p]"
 msgid "14800:全員刑事だった！[%p]"
 msgstr "14800:They were all with the police![%p]"
 
-msgid "14900:くそ！　くそ！　くそ！[%p]"
+msgid "14900:くそ！\u3000くそ！\u3000くそ！[%p]"
 msgstr "14900:Shit! Shit! Shit![%p]"
 
 msgid "15000:優愛のせいだ！[linebreak]あいつが僕をまた罠にはめたんだ！[%p]"
@@ -618,7 +618,7 @@ msgstr "20100:The police officer began to head toward me at a fast pace.[%p]"
 msgid "20200:僕は立ち上がった。[%p]"
 msgstr "20200:I stood up.[%p]"
 
-msgid "20300:くそっ！　くそっ！　くそっ！[%p]"
+msgid "20300:くそっ！\u3000くそっ！\u3000くそっ！[%p]"
 msgstr "20300:Shit! Shit! Shit![%p]"
 
 msgid "20400:罠にはめられた。あの女は僕を破滅させるつもりでいる。[%p]"

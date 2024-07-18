@@ -210,7 +210,7 @@ msgstr "6500:[name]少年[line]Did you get my message?[%p]"
 msgid "6600:メッセージ？[linebreak]なんのことか分からない。[%p]"
 msgstr "6600:Message? I didn't know what he was talking about.[%p]"
 
-msgid "6700:[name]拓巳[line]「だ、誰だ？　キミは……？」[%p]"
+msgid "6700:[name]拓巳[line]「だ、誰だ？\u3000キミは……？」[%p]"
 msgstr "6700:[name]拓巳[line]W-Who... Who are you?[%p]"
 
 msgid "6800:少年が、車椅子の車輪をわずかに進ませた。[linebreak]その車椅子は古いものなのか、前に進むだけで錆び付いた音を立てる。[%p]"
@@ -345,7 +345,7 @@ msgstr "11000:Her eyes were clear and filled with life. Those eyes stared at me,
 msgid "11100:まただ。[linebreak]また、この女はこうして突然現れる――[%p]"
 msgstr "11100:Again... Once again, she'd just shown up out of nowhere.[%p]"
 
-msgid "11200:[name]梨深[line]「歩ける？　歩いて……」[%p]"
+msgid "11200:[name]梨深[line]「歩ける？\u3000歩いて……」[%p]"
 msgstr "11200:[name]梨深[line]Can you walk? C'mon...[%p]"
 
 msgid "11300:僕のわきの下に手を差し入れて、立ち上がらせようとしてきた。[linebreak]僕は悲鳴を上げながらそれを振り払う。[%p]"
@@ -375,7 +375,7 @@ msgstr "12000:[name]拓巳[line]S-Stay away from me![%p]"
 msgid "12100:叫ぶと、頭の中のうずきが刺すような痛みに変わる。[linebreak]それでもなりふり構わず、僕は這うようにして梨深との距離を取る。[%p]"
 msgstr "12100:I screamed, the aching in my head turning into a stabbing pain. I tried to fight through the pain and crawl away from her, to put as much distance between her and me as possible.[%p]"
 
-msgid "12200:[name]拓巳[line]「お、お、お、おま、お前だろっ……！　おま、えが、見せたんだ！　お前の、も、妄想……だっ！」[%p]"
+msgid "12200:[name]拓巳[line]「お、お、お、おま、お前だろっ……！\u3000おま、えが、見せたんだ！\u3000お前の、も、妄想……だっ！」[%p]"
 msgstr "12200:[name]拓巳[line]I-I-It's you, right! You made me see that! I-It was your... delusion![%p]"
 
 msgid "12300:[name]拓巳[line]「ぼ、僕の心を、し、支配して、精神攻撃……を……！」[%p]"

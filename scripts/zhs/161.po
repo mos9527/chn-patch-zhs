@@ -306,7 +306,7 @@ msgstr "9700:[name]拓巳[line]Is Nanami... already dead?[%p]"
 msgid "9800:[name]将軍[line]「ううん」[%p]"
 msgstr "9800:[name]将軍[line]No.[%p]"
 
-msgid "9900:[name]星来[line]「ダウト！　だって手首ちょん切られちゃったんだよ？」[%p]"
+msgid "9900:[name]星来[line]「ダウト！\u3000だって手首ちょん切られちゃったんだよ？」[%p]"
 msgstr "9900:[name]星来[line]No way! He cut off her hand, right?[%p]"
 
 msgid "10000:[name]星来[line]「もし生きてるにしても、もうすぐ出血多量で死んじゃうのは変わんないよ」[%p]"
@@ -453,7 +453,7 @@ msgstr "14600:If I told him I didn't have it, maybe he'd let me go.[%p]"
 msgid "14700:[name]拓巳[line]「ぼ、僕には……そんな力……ない……」[%p]"
 msgstr "14700:[name]拓巳[line]I don't... have the power you think I do.[%p]"
 
-msgid "14800:[name]将軍[line]「力？　力ってなんのこと？　僕はそんな言葉は一言も使っていないが」[%p]"
+msgid "14800:[name]将軍[line]「力？\u3000力ってなんのこと？\u3000僕はそんな言葉は一言も使っていないが」[%p]"
 msgstr "14800:[name]将軍[line]Power? What power? I haven't used the word “power” a single time.[%p]"
 
 msgid "14900:あ、しまった……[%p]"
@@ -636,7 +636,7 @@ msgstr "20700:[name]星来[line]I'll stay with you forever.[%p]"
 msgid "20800:[name]星来[line]「あたしだけがタッキーの味方なの」[%p]"
 msgstr "20800:[name]星来[line]I'm the only person in the world who's on your side.[%p]"
 
-msgid "20900:[name]星来[line]「だから帰ろう？　三次元との繋がりなんて断ち切って、楽しいことだけして生きよう？」[%p]"
+msgid "20900:[name]星来[line]「だから帰ろう？\u3000三次元との繋がりなんて断ち切って、楽しいことだけして生きよう？」[%p]"
 msgstr "20900:[name]星来[line]So, let's go home. Cut off all contact with the 3D world and just live to have fun![%p]"
 
 msgid "21000:[name]将軍[line]「さて、前置きはこれぐらいにして、そろそろクエストを始めよう」[%p]"
@@ -741,7 +741,7 @@ msgstr "24200:[name]将軍[line]Lean out from the hole and wave to the people.[%
 msgid "24300:こ、こいつ……！[%p]"
 msgstr "24300:H-He couldn't mean…[%p]"
 
-msgid "24400:[name]星来[line]「ほらぁっ！　あいつ、タッキーを殺す気なんだって！」[%p]"
+msgid "24400:[name]星来[line]「ほらぁっ！\u3000あいつ、タッキーを殺す気なんだって！」[%p]"
 msgstr "24400:[name]星来[line]See? He's going to kill you![%p]"
 
 msgid "24500:ゴクリ、と息を呑む。[linebreak]こうやって……５人もの人間を飛び降りさせたのか……。[%p]"
@@ -864,7 +864,7 @@ msgstr "28300:The media and the gawkers in Scramble Crossing were all looking...
 msgid "28400:[margin top="266"][center]――僕を、見るな。[unk19 index="0"]"
 msgstr "28400:[margin top="266"][center]—Don't look at me.[unk19 index="0"]"
 
-msgid "28500:なんで、僕なんかに注目するんだ。[linebreak]エスパー少年？　なんだよそれ。[%p]"
+msgid "28500:なんで、僕なんかに注目するんだ。[linebreak]エスパー少年？\u3000なんだよそれ。[%p]"
 msgstr "28500:Why are they all looking at me? Psychic boy? What the heck?[%p]"
 
 msgid "28600:今日がどんな日だったか、みんな分かってるのか？[%p]"

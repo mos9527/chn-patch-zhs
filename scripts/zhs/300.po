@@ -42,7 +42,7 @@ msgstr "900:[name]七海[line]I waited a whole week.[%p]"
 msgid "1000:[name]七海[line]「おにぃ、助けてって……ずっと、呼んでたのに……」[%p]"
 msgstr "1000:[name]七海[line]I kept calling for you to help me.[%p]"
 
-msgid "1100:これは妄想だ。[linebreak]これは妄想だ……！[linebreak]これは！　妄想だ！[%p]"
+msgid "1100:これは妄想だ。[linebreak]これは妄想だ……！[linebreak]これは！\u3000妄想だ！[%p]"
 msgstr "1100:This was a delusion. This was a delusion! This! Was! A! Delusion![%p]"
 
 msgid "1200:[name]七海[line]「右手が、痛いの……っ」[%p]"
@@ -174,7 +174,7 @@ msgstr "5300:I'd seen the other Nanami swing the Di-Sword. At the speed it was g
 msgid "5400:[name]七海[line]「やっぱり、ニセモノ……」[%p]"
 msgstr "5400:[name]七海[line]I knew you were a fake.[%p]"
 
-msgid "5500:[name]七海[line]「あ、れ……？　ナナは……なんで……？」[%p]"
+msgid "5500:[name]七海[line]「あ、れ……？\u3000ナナは……なんで……？」[%p]"
 msgstr "5500:[name]七海[line]Huh? Why?[%p]"
 
 msgid "5600:やめろ……。[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:[name]七海[line]I'm not an imposter![%p]"
 msgid "5900:黙れよ……。[%p]"
 msgstr "5900:Shut up.[%p]"
 
-msgid "6000:[name]七海[line]「おにぃ、離れて……！　そいつから、離れて！」[%p]"
+msgid "6000:[name]七海[line]「おにぃ、離れて……！\u3000そいつから、離れて！」[%p]"
 msgstr "6000:[name]七海[line]Brother, get away... Get away from her![%p]"
 
 msgid "6100:[name]七海[line]「違うよ、おにぃ。ナナは、ここにいるよ？」[%p]"
@@ -249,7 +249,7 @@ msgstr "7800:[name]七海[line]It's not true.[%p]"
 msgid "7900:[name]七海[line]「ナナは、ニセモノじゃないよ……っ」[%p]"
 msgstr "7900:[name]七海[line]I'm not a fake.[%p]"
 
-msgid "8000:[name]七海[line]「ねえ、おにぃ、そうだよね？　そうだって、言ってよ……」[%p]"
+msgid "8000:[name]七海[line]「ねえ、おにぃ、そうだよね？\u3000そうだって、言ってよ……」[%p]"
 msgstr "8000:[name]七海[line]Right, Brother? Tell me I'm not a fake![%p]"
 
 msgid "8100:七海が、僕にすがりついてこようとした。[linebreak]僕は、抱きとめようとした。[%p]"
@@ -441,16 +441,16 @@ msgstr "14200:I was tired of all of this, sick of all this shit.[%p]"
 msgid "14300:なにを信じればいいのか、さっぱり分からない。[%p]"
 msgstr "14300:I had no idea what to believe.[%p]"
 
-msgid "14400:梨深の話を信じろって？　無理だ。[%p]"
+msgid "14400:梨深の話を信じろって？\u3000無理だ。[%p]"
 msgstr "14400:Believe Rimi? Impossible.[%p]"
 
-msgid "14500:泣きながら僕を見ている七海を信じろって？　無理だ。[%p]"
+msgid "14500:泣きながら僕を見ている七海を信じろって？\u3000無理だ。[%p]"
 msgstr "14500:Believe the Nanami who was looking at me and crying? Impossible.[%p]"
 
-msgid "14600:ディソードを抱えるようにして倒れている七海を信じろって？　無理だ。[%p]"
+msgid "14600:ディソードを抱えるようにして倒れている七海を信じろって？\u3000無理だ。[%p]"
 msgstr "14600:Believe the Nanami lying on the ground, holding a Di-Sword? Impossible.[%p]"
 
-msgid "14700:僕自身を信じろって？　無理だ。[%p]"
+msgid "14700:僕自身を信じろって？\u3000無理だ。[%p]"
 msgstr "14700:Believe myself? Impossible.[%p]"
 
 msgid "14800:僕が望んでいたのは、些細なことだった。[linebreak]ただ、平穏に、波風なく、暮らしていくこと。[linebreak]七海と――妹と――静かに、生きていくこと。[%p]"

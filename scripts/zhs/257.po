@@ -36,7 +36,7 @@ msgstr "700:I turned around to see Rimi coming up the stairs. I hadn't seen her 
 msgid "800:梨深は僕に微笑みかけて、敬礼のようなポーズをした。[%p]"
 msgstr "800:She smiled at me and gave me a salute.[%p]"
 
-msgid "900:[name]梨深[line]「ビシィ！　おはよー」[%p]"
+msgid "900:[name]梨深[line]「ビシィ！\u3000おはよー」[%p]"
 msgstr "900:[name]梨深[line]Snap! Good morning![%p]"
 
 msgid "1000:[name]梨深[line]「朝ご飯、急いで作るね」[%p]"
@@ -252,7 +252,7 @@ msgstr "7900:[name]七海[line]Wow, a bold statement.[%p]"
 msgid "8000:[name]優愛[line]「だったら、今度、一緒に買いに行きましょう」[%p]"
 msgstr "8000:[name]優愛[line]Why don't we all go shopping together some time, then?[%p]"
 
-msgid "8100:[name]梨深[line]「え、本当？　ありがとうございます」[%p]"
+msgid "8100:[name]梨深[line]「え、本当？\u3000ありがとうございます」[%p]"
 msgstr "8100:[name]梨深[line]Huh? Really? Thank you.[%p]"
 
 msgid "8200:優愛と梨深は、すっかり意気投合していた。[%p]"
@@ -312,7 +312,7 @@ msgstr "9900:[name]あやせ[line]I'm saying this to you.[%p]"
 msgid "10000:[name]あやせ[line]「それと、梨深も」[%p]"
 msgstr "10000:[name]あやせ[line]And Rimi, too.[%p]"
 
-msgid "10100:[name]梨深[line]「わ、本当？　絶対行くね」[%p]"
+msgid "10100:[name]梨深[line]「わ、本当？\u3000絶対行くね」[%p]"
 msgstr "10100:[name]梨深[line]Huh? Really? I'll definitely go![%p]"
 
 msgid "10200:ファンタズムは一度解散したけど、今年に入って急遽復活したって聞いた。[%p]"
@@ -363,7 +363,7 @@ msgstr "11600:She apologized to him with tears in her eyes, and then finally mad
 msgid "11700:[name]梢[line]「おはようさんさーんなの……」[%p]"
 msgstr "11700:[name]梢[line]Good morning.[%p]"
 
-msgid "11800:[name]梨深[line]「怪我はない？　廊下を走っちゃダメだよ、こずぴぃ」[%p]"
+msgid "11800:[name]梨深[line]「怪我はない？\u3000廊下を走っちゃダメだよ、こずぴぃ」[%p]"
 msgstr "11800:[name]梨深[line]Are you hurt? Don't run in the hallways, Kozupii.[%p]"
 
 msgid "11900:[name]梢[line]「うにゅ〜」[%p]"
@@ -420,7 +420,7 @@ msgstr "13500:Maybe she hated me. Or maybe Sena was just an intimidating person�
 msgid "13600:僕とセナの間に流れる、張り詰めた緊張感。[linebreak]というか一方的に僕がビビってるだけなんだけど。[%p]"
 msgstr "13600:The air grew tense between the two of us. Or maybe it was just that I was scared.[%p]"
 
-msgid "13700:[name]梢[line]「というわーけで！　今日学校が終わったら、退院のおいわーいをしよしよっ」[%p]"
+msgid "13700:[name]梢[line]「というわーけで！\u3000今日学校が終わったら、退院のおいわーいをしよしよっ」[%p]"
 msgstr "13700:[name]梢[line]And so...! Once school's over, let's have a party to celebrate![%p]"
 
 msgid "13800:こずぴぃひとりだけが、はしゃいだ様子を見せる。[linebreak]こ、この雰囲気でお祝いもクソもないような気が……。[%p]"
@@ -498,7 +498,7 @@ msgstr "16100:There was a beat, and then Rimi yelled in surprise. Kozupii was bl
 msgid "16200:[name]セナ[line]「なんだ、咲畑。異論があるのか」[%p]"
 msgstr "16200:[name]セナ[line]Oh, Sakihata. You have a problem with that?[%p]"
 
-msgid "16300:[name]梨深[line]「ありまくりだよっ！　そんな、えーとえーと、と、とにかくダメだって！」[%p]"
+msgid "16300:[name]梨深[line]「ありまくりだよっ！\u3000そんな、えーとえーと、と、とにかくダメだって！」[%p]"
 msgstr "16300:[name]梨深[line]Of course I do! It's um, um... W-Well, it's just not right![%p]"
 
 msgid "16400:[name]梢[line]「？？？？」[%p]"

@@ -42,7 +42,7 @@ msgstr "900:[name]梢[line]Nope! But I have a present for you![%p]"
 msgid "1000:プレゼント……だって……？[linebreak]フラグが立ったっていうことかな。[%p]"
 msgstr "1000:A present? Was this a flag?[%p]"
 
-msgid "1100:[name]梢[line]「うぴ？　ふらぐってな〜に？」[%p]"
+msgid "1100:[name]梢[line]「うぴ？\u3000ふらぐってな〜に？」[%p]"
 msgstr "1100:[name]梢[line]Upiih? What's a flag?[%p]"
 
 msgid "1200:いや、なんでもない……。[%p]"
@@ -81,13 +81,13 @@ msgstr "2200:[name]梢[line]Nope, not gonna![%p]"
 msgid "2300:……こずぴぃのテンションは、相変わらず疲れる。[%p]"
 msgstr "2300:Kozupii, the way you talk tires me out.[%p]"
 
-msgid "2400:[name]梢[line]「うぴょ、ご、ごめんなさいなのら……。こずぴぃ、疲れるかな？　なるべくね、疲れないようにするの」[%p]"
+msgid "2400:[name]梢[line]「うぴょ、ご、ごめんなさいなのら……。こずぴぃ、疲れるかな？\u3000なるべくね、疲れないようにするの」[%p]"
 msgstr "2400:[name]梢[line]Upyoh. S-Sorry, nora. Is Kozupii tiring to talk to? I'll try not to be tiring...[%p]"
 
 msgid "2500:いいから話を進めて。[linebreak]僕にプレゼントって？[%p]"
 msgstr "2500:Just keep going. What's this about a present for me?[%p]"
 
-msgid "2600:[name]梢[line]「そ〜そ〜！　えっとね、こずぴぃはいっつも、お友達になった人に〜人に〜、プレゼントしてるのれ〜す」[%p]"
+msgid "2600:[name]梢[line]「そ〜そ〜！\u3000えっとね、こずぴぃはいっつも、お友達になった人に〜人に〜、プレゼントしてるのれ〜す」[%p]"
 msgstr "2600:[name]梢[line]Right! Right! Um... this is a present that Kozupii always gives to her friends![%p]"
 
 msgid "2700:言いながら、バッグの中をごそごそと漁り出す。[%p]"
@@ -96,7 +96,7 @@ msgstr "2700:She began to rustle through her bag.[%p]"
 msgid "2800:[name]梢[line]「セナしゃんにもあげたんだよ。ん〜と、ん〜と〜」[%p]"
 msgstr "2800:[name]梢[line]I gave one to Sena, too! Um...Um...[%p]"
 
-msgid "2900:[name]梢[line]「そだ！　拓巳しゃんは、キャンディさん、なめなめするかな？」[%p]"
+msgid "2900:[name]梢[line]「そだ！\u3000拓巳しゃんは、キャンディさん、なめなめするかな？」[%p]"
 msgstr "2900:[name]梢[line]Oh, right! Takumi, do you like to licky-lick candy?[%p]"
 
 msgid "3000:キャンディを一個、差し出される。[linebreak]バッグの中になにを入れてるんだよ……。[%p]"
@@ -144,7 +144,7 @@ msgstr "4300:[name]梢[line]Mommy made these for me. They're all made of beady-b
 msgid "4400:こずぴぃはいきなり、僕の手を取った。[linebreak]その温かさ、柔らかさに、ドキッとしてしまう。[%p]"
 msgstr "4400:She suddenly took my hand. The warmth and softness made my heart skip a beat.[%p]"
 
-msgid "4500:[name]梢[line]「うぴょ？　拓巳しゃん、ドキッてしたね〜」[%p]"
+msgid "4500:[name]梢[line]「うぴょ？\u3000拓巳しゃん、ドキッてしたね〜」[%p]"
 msgstr "4500:[name]梢[line]Upiih? Takumi, your heart just skipped a beat, huh?[%p]"
 
 msgid "4600:だって、不意打ちだったし……。[%p]"
@@ -162,7 +162,7 @@ msgstr "4900:[name]梢[line]Here, this is for you![%p]"
 msgid "5000:いらないし……。[%p]"
 msgstr "5000:No thanks.[%p]"
 
-msgid "5100:[name]梢[line]「ふぇう……！？　もしかしてこずぴぃ、迷惑だった？　だった？」[%p]"
+msgid "5100:[name]梢[line]「ふぇう……！？\u3000もしかしてこずぴぃ、迷惑だった？\u3000だった？」[%p]"
 msgstr "5100:[name]梢[line]Fweh...?! Do you not wanty-want it?[%p]"
 
 msgid "5200:[name]梢[line]「お友達には〜、みんなにね、ぶちゅぶちゅさんあげてるんだよ……」[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:[name]梢[line]Takumi...?[%p]"
 msgid "5900:やっぱり……もらっとくよ……。[%p]"
 msgstr "5900:I'll... take it after all.[%p]"
 
-msgid "6000:[name]梢[line]「うぴ？　なんでなんで？」[%p]"
+msgid "6000:[name]梢[line]「うぴ？\u3000なんでなんで？」[%p]"
 msgstr "6000:[name]梢[line]Upiih? Why? Why?[%p]"
 
 msgid "6100:“お友達みんなにあげている”なんて言っておきながら、こうして実際に誰かにプレゼントするのは僕で２人目って。[%p]"
@@ -210,13 +210,13 @@ msgstr "6500:Crap. Kozupii read my mind.[%p]"
 msgid "6600:正直なことを言うと、同情であると同時に、こずぴぃは僕と似てるって思ったんだ。[%p]"
 msgstr "6600:To be honest, it was pity, but it was also because you reminded me of myself.[%p]"
 
-msgid "6700:[name]梢[line]「うん♪　あのねあのね、こずぴぃもおんな〜じこと思ったよ」[%p]"
+msgid "6700:[name]梢[line]「うん♪\u3000あのねあのね、こずぴぃもおんな〜じこと思ったよ」[%p]"
 msgstr "6700:[name]梢[line]Yeah! Um, um, Kozupii was thinking the same thing![%p]"
 
 msgid "6800:[name]梢[line]「こずぴぃが初めてがっこ〜行ったとき、拓巳しゃんを見てね、すんごく辛そうだな〜って思ったのら」[%p]"
 msgstr "6800:[name]梢[line]The first time I went to school, I saw you, and you looked really, really sad, nora![%p]"
 
-msgid "6900:[name]梢[line]「こずぴぃも辛かったから、一緒だ〜♪　って、ホッとしたの〜」[%p]"
+msgid "6900:[name]梢[line]「こずぴぃも辛かったから、一緒だ〜♪\u3000って、ホッとしたの〜」[%p]"
 msgstr "6900:[name]梢[line]I was sad too, so we were the same! It made me feel a little better.[%p]"
 
 msgid "7000:一緒、か……。[%p]"
@@ -270,7 +270,7 @@ msgstr "8500:Kozupii really was messed-up.[%p]"
 msgid "8600:[name]梢[line]「でもでもぉ、悪いことを願うのは、悪いことじゃないよ？」[%p]"
 msgstr "8600:[name]梢[line]But! But! Wishing for bad things isn't bad![%p]"
 
-msgid "8700:[name]梢[line]「ん？　あれれ？　悪いことを願うのが、悪い？　悪いから、悪いことを願うのかな？　わる？　悪い？　わるわるで〜すね」[%p]"
+msgid "8700:[name]梢[line]「ん？\u3000あれれ？\u3000悪いことを願うのが、悪い？\u3000悪いから、悪いことを願うのかな？\u3000わる？\u3000悪い？\u3000わるわるで〜すね」[%p]"
 msgstr "8700:[name]梢[line]Hmm? Huh? Wishing for bad things is bad? Do you wish for bad things because you're bad, maybe? Bad? Super-bad? It's gotta be super-bad![%p]"
 
 msgid "8800:[name]梢[line]「とにか〜く！“負の感情は、否定されるものじゃない”って、ヘンテコなボードを持ったおじしゃんが言ってたのら」[%p]"
@@ -282,7 +282,7 @@ msgstr "8900:[name]梢[line]I wished for a bad thing, and so the Di-Sword gave m
 msgid "9000:[name]梢[line]「だからね、もう、普通なんていらないの」[%p]"
 msgstr "9000:[name]梢[line]So, I don't need to be normal.[%p]"
 
-msgid "9100:ホントに……？[linebreak]こずぴぃはホントにもう、普通の人生を送ることを放棄したの？[linebreak]それでいいの？　後悔しないの？[%p]"
+msgid "9100:ホントに……？[linebreak]こずぴぃはホントにもう、普通の人生を送ることを放棄したの？[linebreak]それでいいの？\u3000後悔しないの？[%p]"
 msgstr "9100:Really? Did you really give up on leading a normal life? Are you okay with that? You're sure you won't regret it?[%p]"
 
 msgid "9200:[name]梢[line]「めんどくさいのはイヤなの〜」[%p]"
@@ -291,7 +291,7 @@ msgstr "9200:[name]梢[line]I don't want to do anything that's gonna be hard![%p
 msgid "9300:[name]梢[line]「世界には悪い人ば〜っかりだし」[%p]"
 msgstr "9300:[name]梢[line]The world's full of bad people, anyway.[%p]"
 
-msgid "9400:セナも？　彼女も悪い人だって思ってる？[%p]"
+msgid "9400:セナも？\u3000彼女も悪い人だって思ってる？[%p]"
 msgstr "9400:Even Sena? Do you think she's a bad person?[%p]"
 
 msgid "9500:[name]梢[line]「セナしゃんは、お友達れ〜す♪」[%p]"

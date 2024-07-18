@@ -48,7 +48,7 @@ msgstr "1100:The nurse looked around and chuckled.[%p]"
 msgid "1200:『将軍』が目の前の廊下を車椅子で進んでいるにもかかわらず、“誰もいない”と、その看護師は言ったのだ。[%p]"
 msgstr "1200:Shogun was right in front of her with his wheelchair, but still, she said nobody was there.[%p]"
 
-msgid "1300:[name]看護師Ａ[line]「また山井さんは、私のことからかってるんでしょう？　でも今日は騙されませんからね」[%p]"
+msgid "1300:[name]看護師Ａ[line]「また山井さんは、私のことからかってるんでしょう？\u3000でも今日は騙されませんからね」[%p]"
 msgstr "1300:[name]看護師Ａ[line]You're teasing me again, aren't you, Mr. Yamai? But you won't get me this time.[%p]"
 
 msgid "1400:[name]山井[line]「あみぃちゃん！」[%p]"

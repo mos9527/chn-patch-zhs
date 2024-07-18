@@ -246,10 +246,10 @@ msgstr "7700:The pain, the terror... I forced to share the victims' sensations.[
 msgid "7800:今の追体験で、僕は何回死んだんだろう？[%p]"
 msgstr "7800:How many times had I died?[%p]"
 
-msgid "7900:３回？　１回？　７回？[%p]"
+msgid "7900:３回？\u3000１回？\u3000７回？[%p]"
 msgstr "7900:Three times? One time? Seven times?[%p]"
 
-msgid "8000:４回！　２回！　５回！[%p]"
+msgid "8000:４回！\u3000２回！\u3000５回！[%p]"
 msgstr "8000:Four times! Two times! Five times![%p]"
 
 msgid "8100:人肉はけっこうおいしかった。[%p]"

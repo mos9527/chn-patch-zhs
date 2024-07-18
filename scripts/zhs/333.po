@@ -192,7 +192,7 @@ msgstr "5900:[name]星来[line]Takky, you're not going to make her endure sexy p
 msgid "6000:……涙なんか流されたら、とてもそんな気分にはなれないよ。[%p]"
 msgstr "6000:I couldn't, after seeing her cry.[%p]"
 
-msgid "6100:[name]星来[line]「監禁されて、緊縛されてるのに？　タッキーって聖人君子だねぇ。優しい。優しすぎる！　そこはタッキーのいいところだけど、時と場合によるよ？」[%p]"
+msgid "6100:[name]星来[line]「監禁されて、緊縛されてるのに？\u3000タッキーって聖人君子だねぇ。優しい。優しすぎる！\u3000そこはタッキーのいいところだけど、時と場合によるよ？」[%p]"
 msgstr "6100:[name]星来[line]Even though she locked you in here and tied you up? Takky, you're a saint. You're so nice. Too nice! That's one of the things I admire about you, but I think there's a time and place for it![%p]"
 
 msgid "6200:そんなんじゃなくて……。[%p]"

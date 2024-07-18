@@ -78,7 +78,7 @@ msgstr "2100:Her light... pink... bra.[%p]"
 msgid "2200:い、意外と、む、むむ、胸大きいですね、咲畑さん。[%p]"
 msgstr "2200:Y-Your chest is bigger than I thought it was, Miss Sakihata.[%p]"
 
-msgid "2300:って、ダメだダメだ！　ジロジロ見たらヘンタイだと思われる！　見るな！　見ちゃダメだ！[%p]"
+msgid "2300:って、ダメだダメだ！\u3000ジロジロ見たらヘンタイだと思われる！\u3000見るな！\u3000見ちゃダメだ！[%p]"
 msgstr "2300:Wait, no! No! If you stare, she'll think you're a pervert! Don't look! Don't look at her![%p]"
 
 msgid "2400:僕は視線を落とした。[%p]"
@@ -243,7 +243,7 @@ msgstr "7600:[name]梨深[line]Don't scream like that.[%p]"
 msgid "7700:[name]拓巳[line]「…………」[%p]"
 msgstr "7700:[name]拓巳[line]...[%p]"
 
-msgid "7800:[name]梨深[line]「さっきから変だよ？　ひとりでブツブツ言い出したかと思ったら急に大声あげるし」[%p]"
+msgid "7800:[name]梨深[line]「さっきから変だよ？\u3000ひとりでブツブツ言い出したかと思ったら急に大声あげるし」[%p]"
 msgstr "7800:[name]梨深[line]You were acting weird, okay? You started mumbling, and then you just screamed.[%p]"
 
 msgid "7900:[name]梨深[line]「どうかしたの？」[%p]"
@@ -522,7 +522,7 @@ msgstr "16900:[name]梨深[line]Tahaha! I forgot my wallet.[%p]"
 msgid "17000:梨深は僕の惑いに気付いてないみたいで、苦笑しながら自分のバッグから財布を取り出した。[%p]"
 msgstr "17000:Rimi must not have noticed my confusion, because she just chuckled, reached her hand into her bag, and took out her wallet.[%p]"
 
-msgid "17100:[name]梨深[line]「ビシッ！　それじゃ、改めて買ってくるねー」[%p]"
+msgid "17100:[name]梨深[line]「ビシッ！\u3000それじゃ、改めて買ってくるねー」[%p]"
 msgstr "17100:[name]梨深[line]Snap! All right, off I go![%p]"
 
 msgid "17200:そして、やっぱり服装のことにはなにも触れずに、[linebreak]また出て行ってしまった。[%p]"
@@ -714,13 +714,13 @@ msgstr "23300:Grimm: Hey KnightHeart!"
 msgid "23400:グリム：どうせ今日も引きこもってるんだろ"
 msgstr "23400:Grimm: I know you haven't left your house today."
 
-msgid "23500:グリム：チャット　や　ら　な　い　か"
+msgid "23500:グリム：チャット\u3000や\u3000ら\u3000な\u3000い\u3000か"
 msgstr "23500:Grimm: Want to chat for a while?"
 
 msgid "23600:グリム：新情報だおー！"
 msgstr "23600:Grimm: I've got new info!"
 
-msgid "23700:グリム：ナイトハルトちゃ〜ん？　ご飯よ〜？"
+msgid "23700:グリム：ナイトハルトちゃ〜ん？\u3000ご飯よ〜？"
 msgstr "23700:Grimm: KnightHeart? Come downstairs, it's dinnertime!"
 
 msgid "23800:ため息をつき、仕方なく入室する。[%p]"
@@ -924,10 +924,10 @@ msgstr "30300:My head felt like it was tearing itself apart. I was going crazy.[
 msgid "30400:[name]拓巳[line]「あああ、わああああああああ！！！」[%p]"
 msgstr "30400:[name]拓巳[line]Aaah! Waaah![%p]"
 
-msgid "30500:[name]拓巳[line]「イヤだ！　イヤだ！　イヤだーーー！」[%p]"
+msgid "30500:[name]拓巳[line]「イヤだ！\u3000イヤだ！\u3000イヤだーーー！」[%p]"
 msgstr "30500:[name]拓巳[line]No! No! NO![%p]"
 
-msgid "30600:[name]拓巳[line]「死にたくないよ！　死にたくない！」[%p]"
+msgid "30600:[name]拓巳[line]「死にたくないよ！\u3000死にたくない！」[%p]"
 msgstr "30600:[name]拓巳[line]I don't want to die! I don't want to die![%p]"
 
 msgid "30700:[name]拓巳[line]「梨深、助けて……っ」[%p]"

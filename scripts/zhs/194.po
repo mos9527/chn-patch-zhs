@@ -252,7 +252,7 @@ msgstr "7900:And then... Rimi took the knife that was pressed up against her wri
 msgid "8000:[name]拓巳[line]「や、やめろ……！」[%p]"
 msgstr "8000:[name]拓巳[line]S-Stop![%p]"
 
-msgid "8100:[name]梨深[line]「え？　やめろって、なにが？」[%p]"
+msgid "8100:[name]梨深[line]「え？\u3000やめろって、なにが？」[%p]"
 msgstr "8100:[name]梨深[line]Huh? Stop what?[%p]"
 
 msgid "8200:気が付くと僕の視界の正面には、ＰＣモニタがあった。[linebreak]梨深の不思議そうな声が、背後から聞こえてくる。[%p]"
@@ -261,7 +261,7 @@ msgstr "8200:Suddenly I was staring at my computer monitor again. I could hear R
 msgid "8300:慌てて振り返ると、彼女はソファに座ったままだった。手にはマンガ本を持ち、キョトンとした顔を僕に向けている。[%p]"
 msgstr "8300:I quickly turned around, and saw she was sitting on the sofa. She had a manga in her hand and was looking at me, stunned.[%p]"
 
-msgid "8400:[name]梨深[line]「タク？　顔色悪いけど、どうかしたの？」[%p]"
+msgid "8400:[name]梨深[line]「タク？\u3000顔色悪いけど、どうかしたの？」[%p]"
 msgstr "8400:[name]梨深[line]Taku? What's wrong? You look pale.[%p]"
 
 msgid "8500:[name]拓巳[line]「あ、ううん……」[%p]"
@@ -423,7 +423,7 @@ msgstr "13600:[name]梨深[line]The seventh murder...[%p]"
 msgid "13700:また、起きた。[linebreak]またニュージェネだ。[%p]"
 msgstr "13700:Another one. Another NewGen murder.[%p]"
 
-msgid "13800:いったい、いつまで続くんだ。[linebreak]僕が殺されるのは次か？　その次か？[%p]"
+msgid "13800:いったい、いつまで続くんだ。[linebreak]僕が殺されるのは次か？\u3000その次か？[%p]"
 msgstr "13800:How long was this going to keep happening? Would the next one be the one where they finally got me? Or the one after that?[%p]"
 
 msgid "13900:[name]梨深[line]「タク……気にすることないよ」[%p]"

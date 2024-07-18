@@ -57,10 +57,10 @@ msgstr "1400:The media crowded around their big scoops like packs of hyenas.[%p]
 msgid "1500:およそ半分は、葉月志乃の遺体に。[linebreak]そして残り半分は、僕の周りに。[%p]"
 msgstr "1500:Half went to Hazuki's body, the other half to me.[%p]"
 
-msgid "1600:[name]芸能レポーターＡ[line]「西條くん！　お見事でした！」[%p]"
+msgid "1600:[name]芸能レポーターＡ[line]「西條くん！\u3000お見事でした！」[%p]"
 msgstr "1600:[name]芸能レポーターＡ[line]Nishijo! That was astonishing![%p]"
 
-msgid "1700:[name]芸能レポーターＢ[line]「今のは、超能力ですか！？[linebreak]やはりエスパーだったんですね！　すごいです！」[%p]"
+msgid "1700:[name]芸能レポーターＢ[line]「今のは、超能力ですか！？[linebreak]やはりエスパーだったんですね！\u3000すごいです！」[%p]"
 msgstr "1700:[name]芸能レポーターＢ[line]Were those your psychic powers? You really are a psychic! Wow![%p]"
 
 msgid "1800:[name]芸能レポーターＡ[line]「今日のこの集まりは、初めから真犯人をおびき寄せるためのものだったの？」[%p]"
@@ -69,7 +69,7 @@ msgstr "1800:[name]芸能レポーターＡ[line]So, was today's gathering plann
 msgid "1900:[name]芸能レポーターＢ[line]「あなたの超能力は、何歳頃にあらわれたものなんですか？」[%p]"
 msgstr "1900:[name]芸能レポーターＢ[line]At what age did you awaken to your psychic powers?[%p]"
 
-msgid "2000:[name]芸能レポーターＡ[line]「子供の頃のあだ名は？　神童、とか呼ばれたことはある？」[%p]"
+msgid "2000:[name]芸能レポーターＡ[line]「子供の頃のあだ名は？\u3000神童、とか呼ばれたことはある？」[%p]"
 msgstr "2000:[name]芸能レポーターＡ[line]What was your nickname when you were little? Did anyone ever call you a child prodigy?[%p]"
 
 msgid "2100:[name]芸能レポーターＢ[line]「今後、警察の捜査に協力する予定は？」[%p]"
@@ -81,16 +81,16 @@ msgstr "2200:[name]芸能レポーターＡ[line]Would you like to be on our TV 
 msgid "2300:次々と投げかけられる、[linebreak]賞賛の言葉。[%p]"
 msgstr "2300:Words of praise. One after another.[%p]"
 
-msgid "2400:[name]祭参加者１[line]「西條！　よくやったぞ！」[%p]"
+msgid "2400:[name]祭参加者１[line]「西條！\u3000よくやったぞ！」[%p]"
 msgstr "2400:[name]祭参加者１[line]Nishijo! Great job![%p]"
 
-msgid "2500:[name]祭参加者２[line]「キャー！　拓巳くーん、こっち向いて！」[%p]"
+msgid "2500:[name]祭参加者２[line]「キャー！\u3000拓巳くーん、こっち向いて！」[%p]"
 msgstr "2500:[name]祭参加者２[line]Kyah! Takumi! Over here![%p]"
 
 msgid "2600:[name]祭参加者７[line]「お前、すげえよ！」[%p]"
 msgstr "2600:[name]祭参加者７[line]You're amazing![%p]"
 
-msgid "2700:[name]祭参加者３[line]「好きです！　付き合ってください！」[%p]"
+msgid "2700:[name]祭参加者３[line]「好きです！\u3000付き合ってください！」[%p]"
 msgstr "2700:[name]祭参加者３[line]I love you! Please be my boyfriend![%p]"
 
 msgid "2800:次々と投げかけられる、好意的な言葉。[%p]"
@@ -102,13 +102,13 @@ msgstr "2900:I...[%p]"
 msgid "3000:そんな声に、虚しさを覚える。[linebreak]世論に作られた虚像と、妄想の存在。[linebreak]そんなに違いはないじゃないか。[%p]"
 msgstr "3000:I felt the emptiness in all of them. What was the difference between a delusion and a fake image created by the media? There probably wasn't much of one, if there was one at all.[%p]"
 
-msgid "3100:[name]祭参加者コール[line]「タクミ！　タクミ！　タクミ！」[%p]"
+msgid "3100:[name]祭参加者コール[line]「タクミ！\u3000タクミ！\u3000タクミ！」[%p]"
 msgstr "3100:[name]祭参加者コール[line]Takumi! Takumi! Takumi![%p]"
 
 msgid "3200:あのノリが、帰ってくる。[linebreak]Ｏ－ＦＲＯＮＴの屋上にいた僕を見上げていた、あの熱気。[%p]"
 msgstr "3200:It was just like last time. The heat I'd felt when they were looking up at me from the bottom of the O-FRONT building.[%p]"
 
-msgid "3300:[name]祭参加者コール[line]「タクミ！　タクミ！　タクミ！」[%p]"
+msgid "3300:[name]祭参加者コール[line]「タクミ！\u3000タクミ！\u3000タクミ！」[%p]"
 msgstr "3300:[name]祭参加者コール[line]Takumi! Takumi! Takumi![%p]"
 
 msgid "3400:[name]拓巳[line]「うるさい！」[%p]"
@@ -117,7 +117,7 @@ msgstr "3400:[name]拓巳[line]Shut up![%p]"
 msgid "3500:たまらず、叫んでいた。[%p]"
 msgstr "3500:I screamed. I couldn't take it anymore.[%p]"
 
-msgid "3600:[name]拓巳[line]「手のひら返して英雄扱いかよ！　バカみたいだ！」[%p]"
+msgid "3600:[name]拓巳[line]「手のひら返して英雄扱いかよ！\u3000バカみたいだ！」[%p]"
 msgstr "3600:[name]拓巳[line]So now you've all changed your minds, and you're treating me like a hero? This is stupid![%p]"
 
 msgid "3700:涙が出た。[%p]"
@@ -132,13 +132,13 @@ msgstr "3900:I just had to cry.[%p]"
 msgid "4000:僕は、英雄じゃない。[%p]"
 msgstr "4000:I was no hero.[%p]"
 
-msgid "4100:[name]拓巳[line]「僕はキモオタで！　星来たんのエロいフィギュアにハァハァしてるヘンタイだ！」[%p]"
+msgid "4100:[name]拓巳[line]「僕はキモオタで！\u3000星来たんのエロいフィギュアにハァハァしてるヘンタイだ！」[%p]"
 msgstr "4100:[name]拓巳[line]I'm an otaku loser! A pervert who spends all day jerking off to his naughty Seira-tan figurine![%p]"
 
 msgid "4200:[name]拓巳[line]「１８歳未満だけどエロゲーして萌え〜って言ってる男だ！」[%p]"
 msgstr "4200:[name]拓巳[line]I'm not even 18, and I still play H-games all day![%p]"
 
-msgid "4300:[name]拓巳[line]「頭の中じゃ、街を歩く女どもを裸にひんむいてエロい妄想してる！　それが僕だ！」[%p]"
+msgid "4300:[name]拓巳[line]「頭の中じゃ、街を歩く女どもを裸にひんむいてエロい妄想してる！\u3000それが僕だ！」[%p]"
 msgstr "4300:[name]拓巳[line]In my head, I'm stripping every girl I see on the street naked and imagining doing all kinds of perverted things to her! That's who I am![%p]"
 
 msgid "4400:涙と鼻水で、顔をぐしゃぐしゃにして。[linebreak]全国に中継されていることも忘れて。[%p]"
@@ -147,7 +147,7 @@ msgstr "4400:My face was covered with tears and snot. I'd forgotten that all of 
 msgid "4500:また醜態をさらしてるなんてことに考えは及ばなくて。[linebreak]どうしようもないくらい、空気が読めなくて。[%p]"
 msgstr "4500:I hadn't thought about how I was embarrassing myself again. I was a loser with no social skills, no ability to read the room.[%p]"
 
-msgid "4600:[name]拓巳[line]「どうだよ？　これでも僕は英雄かよ！」[%p]"
+msgid "4600:[name]拓巳[line]「どうだよ？\u3000これでも僕は英雄かよ！」[%p]"
 msgstr "4600:[name]拓巳[line]Well? Am I still a hero?[%p]"
 
 msgid "4700:[name]拓巳[line]「違う。僕は英雄なんかじゃない。しょせん、妄想の存在で、キモオタで、ひとりじゃなんにもできないヘタレだ！」[%p]"
@@ -162,10 +162,10 @@ msgstr "4900:The crowd stopped cheering. The media were looking at me, confused 
 msgid "5000:この渋谷の中心で。[linebreak]広いスクランブル交差点で。[linebreak]僕の声だけが、響いている。[%p]"
 msgstr "5000:Here in the middle of Shibuya... In the heart of Scramble Crossing... My voice was the only sound.[%p]"
 
-msgid "5100:[name]拓巳[line]「それが僕だ！　お前らに、他人に、僕っていう人間を決めさせない！　僕の本質は、僕が決める！」[%p]"
+msgid "5100:[name]拓巳[line]「それが僕だ！\u3000お前らに、他人に、僕っていう人間を決めさせない！\u3000僕の本質は、僕が決める！」[%p]"
 msgstr "5100:[name]拓巳[line]That's who I am! You don't get to decide who I am for me! I'll decide who I am![%p]"
 
-msgid "5200:[name]拓巳[line]「僕は、お前らのオモチャじゃない！　見せ物なんかにはならない！」[%p]"
+msgid "5200:[name]拓巳[line]「僕は、お前らのオモチャじゃない！\u3000見せ物なんかにはならない！」[%p]"
 msgstr "5200:[name]拓巳[line]I'm not your toy! I'm not here for your entertainment![%p]"
 
 msgid "5300:[name]拓巳[line]「僕にはやるべきことがあるんだ！[linebreak]僕は、お前達なんかのために行動しない！」[%p]"
@@ -189,7 +189,7 @@ msgstr "5800:It wasn't a cloud. It wasn't an out-of-season snowfall.[%p]"
 msgid "5900:地震が起きたときと同じ現象だと気付いたときには、すでに手遅れだった。[%p]"
 msgstr "5900:It was the same phenomenon that had occurred during the last earthquake. But by the time I'd realized that, it was too late.[%p]"
 
-msgid "6000:[name]タクミ[line]「サードメルト！？　予定より早い……！」[%p]"
+msgid "6000:[name]タクミ[line]「サードメルト！？\u3000予定より早い……！」[%p]"
 msgstr "6000:[name]タクミ[line]The Third Melt?! It wasn't supposed to happen this soon![%p]"
 
 msgid "6100:まず最初に、地響きがした。[linebreak]地面が、揺れ出す。[linebreak]空の“白”はますます広がっていく。[%p]"

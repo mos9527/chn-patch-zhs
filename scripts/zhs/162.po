@@ -66,7 +66,7 @@ msgstr "1700:[name]梨深[line]Taku![%p]"
 msgid "1800:[name]拓巳[line]「梨深……！」[%p]"
 msgstr "1800:[name]拓巳[line]Rimi![%p]"
 
-msgid "1900:いた！　そこに、いてくれた！[linebreak]僕を助けに来てくれた！[%p]"
+msgid "1900:いた！\u3000そこに、いてくれた！[linebreak]僕を助けに来てくれた！[%p]"
 msgstr "1900:She was there! She was right there! She came to save me![%p]"
 
 msgid "2000:[name]梨深[line]「今助けに行くからーっ！」[%p]"
@@ -429,7 +429,7 @@ msgstr "13800:[name]拓巳[line]I-I can't jump. I'll die.[%p]"
 msgid "13900:[name]将軍[line]「誰もそんなことは言っていないよ」[%p]"
 msgstr "13900:[name]将軍[line]Nobody asked you to jump.[%p]"
 
-msgid "14000:え？　ち、違うの……？[linebreak]じゃあ、僕は死ななくてもいいの？[%p]"
+msgid "14000:え？\u3000ち、違うの……？[linebreak]じゃあ、僕は死ななくてもいいの？[%p]"
 msgstr "14000:Huh? T-That wasn't what he wanted? Then I didn't have to die?[%p]"
 
 msgid "14100:[name]将軍[line]「キミには、そこから一歩も動かずに――」[%p]"
@@ -462,7 +462,7 @@ msgstr "14900:[name]将軍[line]That should be enough of a hint, right?[%p]"
 msgid "15000:分からないよ……っ。[%p]"
 msgstr "15000:No, I don't understand.[%p]"
 
-msgid "15100:[name]星来[line]「騙されちゃダメだよタッキー！　ディソードなんて実在しないって！[linebreak]妄想が実際にあるワケないっしょ！」[%p]"
+msgid "15100:[name]星来[line]「騙されちゃダメだよタッキー！\u3000ディソードなんて実在しないって！[linebreak]妄想が実際にあるワケないっしょ！」[%p]"
 msgstr "15100:[name]星来[line]Don't let him fool you, Takky! There's no such thing as a Di-Sword! There's no such thing as delusions becoming real![%p]"
 
 msgid "15200:[name]拓巳[line]「見つかるわけ……ないよ……」[%p]"
@@ -582,19 +582,19 @@ msgstr "18900:[name]星来[line]He's just asking you to do the impossible so he'
 msgid "19000:[name]将軍[line]「それができないなら、七海ちゃんの命はないよ」[%p]"
 msgstr "19000:[name]将軍[line]If you can't do that, then Nanami is as good as dead.[%p]"
 
-msgid "19100:[name]星来[line]「逃げよ？　タッキー、おうちに帰ろ？」[%p]"
+msgid "19100:[name]星来[line]「逃げよ？\u3000タッキー、おうちに帰ろ？」[%p]"
 msgstr "19100:[name]星来[line]Let's run away, okay? Takky, let's go home![%p]"
 
 msgid "19200:だ、だって、ここから一歩でも動いたら七海が殺される……[%p]"
 msgstr "19200:B-But if I take a single step back, he'll kill Nanami.[%p]"
 
-msgid "19300:[name]星来[line]「だからー！　七海っちはどうせ助からないってばぁ」[%p]"
+msgid "19300:[name]星来[line]「だからー！\u3000七海っちはどうせ助からないってばぁ」[%p]"
 msgstr "19300:[name]星来[line]Listen to me! Nanami's already as good as dead![%p]"
 
 msgid "19400:た、助けてくれるって……言ったし……[%p]"
 msgstr "19400:H-He said he wouldn't hurt her.[%p]"
 
-msgid "19500:[name]星来[line]「あいつの言葉を信じるの？　ウソついてるかもしれないよ？」[%p]"
+msgid "19500:[name]星来[line]「あいつの言葉を信じるの？\u3000ウソついてるかもしれないよ？」[%p]"
 msgstr "19500:[name]星来[line]And you believe him? He might be lying![%p]"
 
 msgid "19600:僕は目を凝らす。[linebreak]下からの照明のせいで遠くの景色が見づらい。[%p]"
@@ -768,7 +768,7 @@ msgstr "25100:[name]将軍[line]I know you can do it.[%p]"
 msgid "25200:[name]星来[line]「できるわけないじゃん！」[%p]"
 msgstr "25200:[name]星来[line]It's impossible![%p]"
 
-msgid "25300:[name]星来[line]「ダメ、タッキー！　そんなことしたら下に落ちちゃう！　落ちたら死んじゃうよ！」[%p]"
+msgid "25300:[name]星来[line]「ダメ、タッキー！\u3000そんなことしたら下に落ちちゃう！\u3000落ちたら死んじゃうよ！」[%p]"
 msgstr "25300:[name]星来[line]No, Takky! If you do that you'll fall! And if you fall, you'll die![%p]"
 
 msgid "25400:下を見る。[linebreak]無数の群衆。[%p]"
@@ -828,7 +828,7 @@ msgstr "27100:Shogun wouldn't try to make me do the impossible. I could do this.
 msgid "27200:[name]星来[line]「あいつはタッキーを殺したいだけ」[%p]"
 msgstr "27200:[name]星来[line]He just wants to kill you.[%p]"
 
-msgid "27300:[name]星来[line]「忘れたの？　『集団ダイブ』の映像」[%p]"
+msgid "27300:[name]星来[line]「忘れたの？\u3000『集団ダイブ』の映像」[%p]"
 msgstr "27300:[name]星来[line]Did you forget about the Group Dive video?[%p]"
 
 msgid "27400:[name]星来[line]「『将軍』は、５人の男女を１回も触れることなく[linebreak]転落死させたんだよ？」[%p]"
@@ -918,7 +918,7 @@ msgstr "30100:I looked down again. I was higher up than I'd thought.[%p]"
 msgid "30200:目眩が起きそうになって、僕は身体を引っ込めてアクリル板にしがみつく。[%p]"
 msgstr "30200:I felt like I was going to get dizzy, and pulled back and clung to the acrylic board.[%p]"
 
-msgid "30300:[name]将軍[line]「どうしたの？　剣を、早く、手に入れて」[%p]"
+msgid "30300:[name]将軍[line]「どうしたの？\u3000剣を、早く、手に入れて」[%p]"
 msgstr "30300:[name]将軍[line]What's wrong? Get the sword. Now.[%p]"
 
 msgid "30400:[name]将軍[line]「でないと、いつまで経っても七海ちゃんは戻ってこないよ」[%p]"
@@ -1026,7 +1026,7 @@ msgstr "33700:[name]拓巳[line]...[%p]"
 msgid "33800:そうだ……[linebreak]そもそも僕は、力を使えたとしても、[linebreak]使い方を知らない――[%p]"
 msgstr "33800:That's right. Even if I did have that power... I didn't know how to use it.[%p]"
 
-msgid "33900:[name]星来[line]「ねえ、逃げよ？　タッキーはよくやったよ」[%p]"
+msgid "33900:[name]星来[line]「ねえ、逃げよ？\u3000タッキーはよくやったよ」[%p]"
 msgstr "33900:[name]星来[line]Let's run away, okay? You did great.[%p]"
 
 msgid "34000:[name]星来[line]「でもこれ以上は無理」[%p]"

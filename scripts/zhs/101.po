@@ -75,7 +75,7 @@ msgstr "2000:KnightHeart: That would be awful."
 msgid "2100:ナイトハルト：マジレスすると、通りゃんせ"
 msgstr "2100:KnightHeart: Actually, it's Tooryanse."
 
-msgid "2200:グリム：通りゃんせ？　歌だっけ？　横断歩道とかで流れてるやつ？"
+msgid "2200:グリム：通りゃんせ？\u3000歌だっけ？\u3000横断歩道とかで流れてるやつ？"
 msgstr "2200:Grimm: Tooryanse? That's a song, right? The one they play on crosswalks?"
 
 msgid "2300:ナイトハルト：そうそう"

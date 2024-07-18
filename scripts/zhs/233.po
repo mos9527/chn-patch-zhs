@@ -240,7 +240,7 @@ msgstr "7500:Students, businessmen, young men, middle-aged women... and they all
 msgid "7600:４つの街頭ビジョン。そこに、派手なキャプションが躍っていた。[%p]"
 msgstr "7600:The four big TVs in the square all had the same caption on them.[%p]"
 
-msgid "7700:“みんなで偽エスパー西條拓巳を刺し殺そう[color index="A0FF0000"]オフ会[color index="800000"]　開催中！”[%p]"
+msgid "7700:“みんなで偽エスパー西條拓巳を刺し殺そう[color index="A0FF0000"]オフ会[color index="800000"]\u3000開催中！”[%p]"
 msgstr "7700:The “Let's Stab Takumi Nishijo the Fake Psychic” [color index="A0FF0000"]Party[color index="800000"] Is Going on Now![%p]"
 
 msgid "7800:僕の前に、順番待ちの行列ができている。[linebreak]整然と、みんな並び始める。[%p]"
@@ -258,7 +258,7 @@ msgstr "8100:Next it was a fat, dark-skinned high school girl. She stabbed a kni
 msgid "8200:僕はあまりの事態に思考が付いていかず、痛みさえも感じる余裕はなく、立っているのが精一杯。[%p]"
 msgstr "8200:I was too stunned to think, too stunned to even feel pain. All I could do was stand there.[%p]"
 
-msgid "8300:[name]祭参加者３[line]「げえっ！　手に血が付いたぁ！　マジ最悪なんだけどっ」[%p]"
+msgid "8300:[name]祭参加者３[line]「げえっ！\u3000手に血が付いたぁ！\u3000マジ最悪なんだけどっ」[%p]"
 msgstr "8300:[name]祭参加者３[line]Gah! I got blood on my hands! Man, this sucks.[%p]"
 
 msgid "8400:そのガングロ女子高生を押しのけるように、初老のサラリーマンのおっさんが包丁をきつく握って迫ってくる。[%p]"
@@ -417,7 +417,7 @@ msgstr "13400:A single road beckoning me forward...[%p]"
 msgid "13500:彼らが待っていたのは……僕だ。[%p]"
 msgstr "13500:They'd been waiting for someone... me.[%p]"
 
-msgid "13600:“第１回チキチキ　いまや日本一恥ずかしい男、自称エスパー西條拓巳を集団でリンチ死させて、渋谷の中心で『その目だれの目？』を叫ぶ[color index="A0FF0000"]オフ会[color index="800000"]”[%p]"
+msgid "13600:“第１回チキチキ\u3000いまや日本一恥ずかしい男、自称エスパー西條拓巳を集団でリンチ死させて、渋谷の中心で『その目だれの目？』を叫ぶ[color index="A0FF0000"]オフ会[color index="800000"]”[%p]"
 msgstr "13600:It's the First Annual Let's-Lynch-the-Fake-Psychic-Takumi-Nishijo-While-We-All -Scream-Whose-Eyes-Are-Those-[color index="A0FF0000"]Party[color index="800000"] in Shibuya![%p]"
 
 msgid "13700:ふと頭の中にそんな長ったらしいタイトルが浮かんで、[linebreak]僕は――[%p]"
@@ -630,7 +630,7 @@ msgstr "20500:People's legs were all around me, like trees in a forest. My wife 
 msgid "20600:まぶしいほどの笑みを浮かべていた顔面が、[linebreak]僕を癒してくれた笑顔が、[linebreak]誰かの革靴に踏まれてしまう。[%p]"
 msgstr "20600:Her dazzling smile, the smile that had kept me going, was crushed by someone's leather shoes.[%p]"
 
-msgid "20700:[name]星来[line]「タッキー！　痛いよぅ、助けて！　タッキー！」[%p]"
+msgid "20700:[name]星来[line]「タッキー！\u3000痛いよぅ、助けて！\u3000タッキー！」[%p]"
 msgstr "20700:[name]星来[line]Takky! It hurts! Help me! Takky![%p]"
 
 msgid "20800:さらにその小さな身体は蹴られて転がり、[linebreak]女の赤いヒールによって、[linebreak]胴体を、ぐしゃりと踏み潰された。[%p]"
@@ -801,7 +801,7 @@ msgstr "26200:Weren't they all waiting for me to be the bad guy? The sacrifice?[
 msgid "26300:[name]将軍[line]「渋谷のＧＥレート……バイオリズムが、あり得ないくらいに上昇してるんだよ」[%p]"
 msgstr "26300:[name]将軍[line]Shibuya's GE rate, its biorhythms, have risen to an impossible level.[%p]"
 
-msgid "26400:[name]将軍[line]「言ったでしょ？　無差別人体実験だって」[%p]"
+msgid "26400:[name]将軍[line]「言ったでしょ？\u3000無差別人体実験だって」[%p]"
 msgstr "26400:[name]将軍[line]Like I just said. A large-scale, indiscriminate human experiment.[%p]"
 
 msgid "26500:[name]将軍[line]「この場にいる人たちは今、見えない“攻撃”を受けているんだ」[%p]"

@@ -12,16 +12,16 @@
 msgid "0:病室に戻ると――[%p]"
 msgstr "0:I went back to her hospital room, and...[%p]"
 
-msgid "100:[name]あやせ[line]「杭を打て　杭を打て――」[%p]"
+msgid "100:[name]あやせ[line]「杭を打て\u3000杭を打て――」[%p]"
 msgstr "100:[name]あやせ[line]Pound in the stake... Pound in the stake...[%p]"
 
-msgid "200:[name]あやせ[line]「闇夜を切り裂き　月光を浴びて――」[%p]"
+msgid "200:[name]あやせ[line]「闇夜を切り裂き\u3000月光を浴びて――」[%p]"
 msgstr "200:[name]あやせ[line]Tear through the darkness and bathe in the moonlight...[%p]"
 
-msgid "300:[name]あやせ[line]「幾千もの鉄槌は　汝の痛みとなりて　今解き放たれる――」[%p]"
+msgid "300:[name]あやせ[line]「幾千もの鉄槌は\u3000汝の痛みとなりて\u3000今解き放たれる――」[%p]"
 msgstr "300:[name]あやせ[line]Ten thousand iron hammers, bringing you pain, now unleashed...[%p]"
 
-msgid "400:[name]あやせ[line]「やがて叫びは宙に舞い　夜空は紅く染まるだろう――」[%p]"
+msgid "400:[name]あやせ[line]「やがて叫びは宙に舞い\u3000夜空は紅く染まるだろう――」[%p]"
 msgstr "400:[name]あやせ[line]Your screams dance in the air, staining the night sky red...[%p]"
 
 msgid "500:あやせがベッドに腰かけて、病院食を食べていた。[linebreak]いや、食べていたんだろうか？[%p]"
@@ -129,7 +129,7 @@ msgstr "3800:[name]拓巳[line]I-I'll pass.[%p]"
 msgid "3900:[name]あやせ[line]「それは許されないわ」[%p]"
 msgstr "3900:[name]あやせ[line]Unacceptable.[%p]"
 
-msgid "4000:なんでだよ！　こんなのズルいぞ！[%p]"
+msgid "4000:なんでだよ！\u3000こんなのズルいぞ！[%p]"
 msgstr "4000:Why? This isn't fair![%p]"
 
 msgid "4100:女子からの“はい、ア〜ンして♪”というシチュエーションは男の夢のはずなのに、どうしてこんなにもときめかないんだろう。[%p]"

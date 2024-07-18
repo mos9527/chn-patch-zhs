@@ -111,7 +111,7 @@ msgstr "3200:[name]拓巳[line]...[%p]"
 msgid "3300:優愛を置いて、僕はさっさと足早に歩き出した。[linebreak]でも優愛は小走りでついてくる。[%p]"
 msgstr "3300:I started walking fast to leave her behind, but she jogged to catch up with me.[%p]"
 
-msgid "3400:[name]優愛[line]「昨日、西條くんのクラスに行ったんですけど、いませんでしたよね？　もしかして風邪でもひいて休んでるんじゃないかと思って、心配だったんです」[%p]"
+msgid "3400:[name]優愛[line]「昨日、西條くんのクラスに行ったんですけど、いませんでしたよね？\u3000もしかして風邪でもひいて休んでるんじゃないかと思って、心配だったんです」[%p]"
 msgstr "3400:[name]優愛[line]I went to your class the other day, but you weren't there. I was worried you might've gotten a cold or something.[%p]"
 
 msgid "3500:[name]優愛[line]「でも、元気そうでよかった」[%p]"
@@ -132,7 +132,7 @@ msgstr "3900:[name]拓巳[line]E-Everybody thinks... I'm a hikikomori.[%p]"
 msgid "4000:[name]優愛[line]「…………」[%p]"
 msgstr "4000:[name]優愛[line]...[%p]"
 
-msgid "4100:幻滅したでしょ？　現実を知って僕への好意なんてあっさり吹き飛んだでしょ？[%p]"
+msgid "4100:幻滅したでしょ？\u3000現実を知って僕への好意なんてあっさり吹き飛んだでしょ？[%p]"
 msgstr "4100:You're disgusted, aren't you? You learned who I really am, and now you don't like me anymore, right?[%p]"
 
 msgid "4200:別にいいよ。期待してなかったから。[%p]"
@@ -204,7 +204,7 @@ msgstr "6300:It felt like she was holding me in a warm embrace.[%p]"
 msgid "6400:優愛なら、僕がここにいていいんだって言ってくれる気がする。[linebreak]優愛と一緒なら、僕は普通の人間に戻れるかもしれない。[%p]"
 msgstr "6400:Or like she was telling me that it was okay for me to be here. Maybe with her help, I could go back to being a normal person.[%p]"
 
-msgid "6500:[name]優愛[line]「あ、た、大変！　予鈴ですよっ」[%p]"
+msgid "6500:[name]優愛[line]「あ、た、大変！\u3000予鈴ですよっ」[%p]"
 msgstr "6500:[name]優愛[line]Oh no! That's the first bell.[%p]"
 
 msgid "6600:気が付けば、周囲に生徒はほとんどいなかった。[linebreak]もうみんな校舎の中だ。[%p]"
@@ -267,7 +267,7 @@ msgstr "8400:[name]三住[line]Things are going well with that girl in the glass
 msgid "8500:[name]拓巳[line]「…………」[%p]"
 msgstr "8500:[name]拓巳[line]...[%p]"
 
-msgid "8600:[name]三住[line]「おいおい、ニートだからって躊躇してんなよ？　向こうがお前のこと気に入ってくれてんなら、付き合うか付き合わないかはともかく、やっちまうのが礼儀――」[%p]"
+msgid "8600:[name]三住[line]「おいおい、ニートだからって躊躇してんなよ？\u3000向こうがお前のこと気に入ってくれてんなら、付き合うか付き合わないかはともかく、やっちまうのが礼儀――」[%p]"
 msgstr "8600:[name]三住[line]Hey, don't tell me you're holding back just because you're a NEET. If she likes you, whether you decide to date her or not, it's just polite to have se—[%p]"
 
 msgid "8700:[name]拓巳[line]「そ、そんなことしないよっ」[%p]"
@@ -279,7 +279,7 @@ msgstr "8800:[name]三住[line]Hey, why are you so loud?[%p]"
 msgid "8900:[name]拓巳[line]「優愛とは、そんなことしない」[%p]"
 msgstr "8900:[name]拓巳[line]I'm not doing things like that with Yua.[%p]"
 
-msgid "9000:[name]三住[line]「はあ？　お前、まだ言ってんの？　なんで最初からあきらめるんだよ。そろそろ引きこもりから卒業しようぜ？」[%p]"
+msgid "9000:[name]三住[line]「はあ？\u3000お前、まだ言ってんの？\u3000なんで最初からあきらめるんだよ。そろそろ引きこもりから卒業しようぜ？」[%p]"
 msgstr "9000:[name]三住[line]Huh? Are you still talking that way? Why are you giving up before you've even started? Isn't it about time you graduated from being a hikikomori?[%p]"
 
 msgid "9100:[name]拓巳[line]「ぼ、僕は、引き、引きこもりじゃ、ない……」[%p]"

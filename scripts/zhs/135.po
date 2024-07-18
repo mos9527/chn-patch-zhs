@@ -264,7 +264,7 @@ msgstr "8300:His face was pale, and he was slowly stepping away from her,[%p]"
 msgid "8400:イヤイヤをするように首を振った。[%p]"
 msgstr "8400:shaking his head as if to say “no.”[%p]"
 
-msgid "8500:[name]リュック男[line]「ま、まま、待って！　俺は、波多野なんてヤツ、本当に、し、しし、知らないんだっ！　ただ、し、指示されただけ――」[%p]"
+msgid "8500:[name]リュック男[line]「ま、まま、待って！\u3000俺は、波多野なんてヤツ、本当に、し、しし、知らないんだっ！\u3000ただ、し、指示されただけ――」[%p]"
 msgstr "8500:[name]リュック男[line]W-Wait! I-I really don't know anybody named Hatano! They just told me what to do.[%p]"
 
 msgid "8600:[name]セナ[line]「……誤解するな、と言ったはず」[%p]"

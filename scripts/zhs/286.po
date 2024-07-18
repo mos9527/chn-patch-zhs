@@ -210,7 +210,7 @@ msgstr "6500:[name]生徒Ｃ[line]Me and about ten of my buddies, we like to han
 msgid "6600:[name]拓巳[line]「提供って……」[%p]"
 msgstr "6600:[name]拓巳[line]“Offered”?[%p]"
 
-msgid "6700:七海は物じゃないんだぞ……！　提供ってなんだよ！[linebreak]それで、なにをしたんだよ。いや、それより誰がこいつらに七海を……[%p]"
+msgid "6700:七海は物じゃないんだぞ……！\u3000提供ってなんだよ！[linebreak]それで、なにをしたんだよ。いや、それより誰がこいつらに七海を……[%p]"
 msgstr "6700:Nanami isn't a thing. What do you mean, “offered”? And what did you do? Wait, did that mean one of them had kidnapped Nanami?[%p]"
 
 msgid "6800:[name]生徒Ｃ[line]「ダーススパイダーだよ」[%p]"
@@ -228,7 +228,7 @@ msgstr "7100:My vision went red. I felt like all the blood in my body was boilin
 msgid "7200:[name]拓巳[line]「な、七海に、なにを……」[%p]"
 msgstr "7200:[name]拓巳[line]W-What did you do to Nanami?[%p]"
 
-msgid "7300:[name]生徒Ｃ[line]「あ？　だからかわいがってやったっつってんだろ。そうそう、妹さ、片手なかったぜ。痛そうだったな、へへへ」[%p]"
+msgid "7300:[name]生徒Ｃ[line]「あ？\u3000だからかわいがってやったっつってんだろ。そうそう、妹さ、片手なかったぜ。痛そうだったな、へへへ」[%p]"
 msgstr "7300:[name]生徒Ｃ[line]Huh? I told you. We had a little fun with her. Oh, right. She was missing a hand! Looked like it hurt! Haha![%p]"
 
 msgid "7400:あれは……本物だった！？[linebreak]だって、あの後、帰ってきてから確かめたら僕の部屋のどこにもなかったのに……！[%p]"
@@ -243,7 +243,7 @@ msgstr "7600:[name]三住[line]That doesn't matter. Minako is...[%p]"
 msgid "7700:――それより、じゃねえよ。それよりってなんだよ。僕の、妹だぞ。ミナコとかいうクソ女と比べるな。僕の、大事な妹だ……！[%p]"
 msgstr "7700:It “doesn't matter”? What the hell do you mean it doesn't matter? She's my little sister! Don't compare her to some bitch named Minako! She's my sister, damn it![%p]"
 
-msgid "7800:[name]生徒Ｃ[line]「お、そうそう！　記念に写真撮っといたぜ。なあ、エスパーも見てえか？　見せてやるよ」[%p]"
+msgid "7800:[name]生徒Ｃ[line]「お、そうそう！\u3000記念に写真撮っといたぜ。なあ、エスパーも見てえか？\u3000見せてやるよ」[%p]"
 msgstr "7800:[name]生徒Ｃ[line]Oh, right! We took a photo to remember the event. You want to see it? I'll show you.[%p]"
 
 msgid "7900:――殺してやる。[%p]"

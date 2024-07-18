@@ -27,7 +27,7 @@ msgstr "400:’"
 msgid "500:"
 msgstr "500:"
 
-msgid "600:Ｎｏ　Ｄａｔａ"
+msgid "600:Ｎｏ\u3000Ｄａｔａ"
 msgstr "600:No Data"
 
 msgid "700:？？？"
@@ -1752,7 +1752,7 @@ msgstr "57900:seeingthefuture"
 msgid "58000:よち"
 msgstr "58000:seeingthefuture"
 
-msgid "58100:[name]予知[line]　音：よ-ち[linebreak]［名］スル　なにが起こるかを前もって知ること。「異変を―する」「―能力」[linebreak][linebreak]未来に起こる出来事についてあらかじめ知ること。経験からくる予測、あるいは情報や統計による予測とは違い、人の本来の知覚を超越した特殊な感覚を指す。科学的には証明されていない。[linebreak]その発現の仕方は人によって違い、フラッシュバック現象としてであったり、夢（予知夢）として表れたりする。霊能力者や占い師、古代の巫女にはこの力を有する者がいたと言われているが、一方でこの力を騙って行われる詐欺行為も多い。"
+msgid "58100:[name]予知[line]\u3000音：よ-ち[linebreak]［名］スル\u3000なにが起こるかを前もって知ること。「異変を―する」「―能力」[linebreak][linebreak]未来に起こる出来事についてあらかじめ知ること。経験からくる予測、あるいは情報や統計による予測とは違い、人の本来の知覚を超越した特殊な感覚を指す。科学的には証明されていない。[linebreak]その発現の仕方は人によって違い、フラッシュバック現象としてであったり、夢（予知夢）として表れたりする。霊能力者や占い師、古代の巫女にはこの力を有する者がいたと言われているが、一方でこの力を騙って行われる詐欺行為も多い。"
 msgstr "58100:The ability to see the future before it happens. This is distinct from the ability to PREDICT the future, where one lays out what they think will happen based off of the information they have at hand. There is no scientific proof that it's possible to see the future.[linebreak]Different people manifest this ability in different ways: some see the future in the form of flashbacks, and other see it in prophetic dreams. Psychics, fortune-tellers, and ancient prophets are all said to possess this ability. Many con artists, however, claim to have it for the purposes of fraud."
 
 msgid "58200:人名"
@@ -2262,7 +2262,7 @@ msgstr "74900:examresults"
 msgid "75000:診２しんだんけっか"
 msgstr "75000:診２"
 
-msgid "75100:あなたの妄想レベルは低いです。決してリアルでの生活のすべてが順調というわけでもないのでしょうが、打ち込めることがひとつ以上ちゃんとあり、それに向かって毎日を頑張っているため、妄想なんてしている暇はあまりないのかもしれません。今後もその調子で頑張っていけば、さらに充実した人生を送れることでしょう。でも気をつけてください。もしもなんらかのきっかけで失敗したり打ち込めることを失ってしまったりすると、一気に心がすさみ、妄想へと逃げ込んでしまいたいという誘惑に駆られるかもしれません。[linebreak]【七海の一言】[linebreak]やっぱりおにぃにするなら、頼りがいのある人の方がいいもんね。流行にも敏感だったりすると、さらに最高かも！　あ、それと家族にも色々気を遣ってくれると嬉しいな。[linebreak]【セナの一言】[linebreak]お前の目指すものに向かってがむしゃらに突き進め。だが、休むときはきちんと休めよ。頑張りすぎて燃え尽きたら危険だ。適度な散歩を日課にするのを勧める。"
+msgid "75100:あなたの妄想レベルは低いです。決してリアルでの生活のすべてが順調というわけでもないのでしょうが、打ち込めることがひとつ以上ちゃんとあり、それに向かって毎日を頑張っているため、妄想なんてしている暇はあまりないのかもしれません。今後もその調子で頑張っていけば、さらに充実した人生を送れることでしょう。でも気をつけてください。もしもなんらかのきっかけで失敗したり打ち込めることを失ってしまったりすると、一気に心がすさみ、妄想へと逃げ込んでしまいたいという誘惑に駆られるかもしれません。[linebreak]【七海の一言】[linebreak]やっぱりおにぃにするなら、頼りがいのある人の方がいいもんね。流行にも敏感だったりすると、さらに最高かも！\u3000あ、それと家族にも色々気を遣ってくれると嬉しいな。[linebreak]【セナの一言】[linebreak]お前の目指すものに向かってがむしゃらに突き進め。だが、休むときはきちんと休めよ。頑張りすぎて燃え尽きたら危険だ。適度な散歩を日課にするのを勧める。"
 msgstr "75100:Your delusion level is low. Your real-world life has problems, of course, but you have at least one thing you can dedicate yourself to, and you're working hard on it every day. You may not have time for delusions. Keep it up, and an even more fulfilling life is waiting for you. But be careful. If for some reason you fail, or lose the thing that you've dedicated your life to, you may find yourself depressed, and turning towards delusions as an escape.[linebreak][Nanami's Comment][linebreak]If I'm going to have a big brother, I want him to be somebody I can count on! And if they know all the latest trends, that'd be even better! Oh, and it would be great if they always looked out for their family.[linebreak][Sena's Comment][linebreak]Work as hard as you can towards the thing you want. But remember to rest. When you work too hard and burn out, that's where the danger lies. I recommend making sure you get one decent walk in every day."
 
 msgid "75200:人名"
@@ -2292,7 +2292,7 @@ msgstr "75900:examresults"
 msgid "76000:診４しんだんけっか"
 msgstr "76000:診４"
 
-msgid "76100:あなたの妄想レベルは高いです。おそらくリアルでの生活では辛いことばかりなのでしょう。そんな現実から目を逸らしたくなる気持ちをお察しします。でも、あなたは妄想に完全に没頭するにはまだ覚悟が足りない状態です。いつかまた充実したリアルに戻れると思っているはずです。現実と妄想の区別が付かなくなることはありませんか？　妄想が現実に影響してきているようだと危険です。覚悟を決めて妄想一筋に生きるか、かすかな希望に向けて努力し現実へと戻るか、決断の時は迫っています。[linebreak]【梨深の一言】[linebreak]あなたには、これ以上妄想してほしくないな。現実は確かに辛いばっかりだけど、だからこそ嬉しいことや楽しいことが、かけがえのないものになるんだよ。だから戻って。現実に。ね？[linebreak]【梢の一言】[linebreak]ふみゅ〜、妄想一筋になるにはーねー？　まず誰とも喋らないようにすると〜す〜る〜と〜、いいよ〜。そしたらね、必然的に妄想するしかなくなるのら！"
+msgid "76100:あなたの妄想レベルは高いです。おそらくリアルでの生活では辛いことばかりなのでしょう。そんな現実から目を逸らしたくなる気持ちをお察しします。でも、あなたは妄想に完全に没頭するにはまだ覚悟が足りない状態です。いつかまた充実したリアルに戻れると思っているはずです。現実と妄想の区別が付かなくなることはありませんか？\u3000妄想が現実に影響してきているようだと危険です。覚悟を決めて妄想一筋に生きるか、かすかな希望に向けて努力し現実へと戻るか、決断の時は迫っています。[linebreak]【梨深の一言】[linebreak]あなたには、これ以上妄想してほしくないな。現実は確かに辛いばっかりだけど、だからこそ嬉しいことや楽しいことが、かけがえのないものになるんだよ。だから戻って。現実に。ね？[linebreak]【梢の一言】[linebreak]ふみゅ〜、妄想一筋になるにはーねー？\u3000まず誰とも喋らないようにすると〜す〜る〜と〜、いいよ〜。そしたらね、必然的に妄想するしかなくなるのら！"
 msgstr "76100:Your delusion level is quite high. Your real life is most likely a painful one. It's only natural that you would seek to avert your eyes from it. However, you are not prepared to live life fully inside your delusions. Someday, you believe, you'll be able to return to a happy, normal life. Do you ever have trouble telling the difference between delusions and reality? If your delusions are influencing your real life, then that's dangerous. The time is coming when you'll have to make a choice: devote yourself fully to your delusions for the rest of your life, or work towards the faint hope of a better reality.[linebreak][Rimi's Comment][linebreak]I don't want you to have any more delusions. I know life is hard, but that's what makes the happy things, the fun things, so special. So come back... Back to reality. Okay?[linebreak][Kozue's Comment][linebreak]Fumyuh... If you want to devote yourself to delusions... The best thing to do is to talk to noooooobody at all! Then you'll only have your delusions left!"
 
 msgid "76200:人名"
@@ -2307,6 +2307,6 @@ msgstr "76400:examresults"
 msgid "76500:診５しんだんけっか"
 msgstr "76500:診５"
 
-msgid "76600:あなたの妄想レベルは飛び抜けて高いです。もう妄想なしでは生きていけないでしょう。二次元キャラに恋をし、モニターの中に入っていきたいとさえ考えているはずです。リアルが充実することは今後もありません。手遅れです。でもそれを後ろめたいと思うことはありません。己の妄想に没頭し想像力の中に生きることを周囲にどう思われようと、あなたが幸せならばそれでいいのです。食事や病気など自分の健康にだけ注意し、今後も辛い現実など気にせず、幸せで甘美な妄想ライフを続けていきましょう。妄想は、あなたを裏切りません。[linebreak]【拓巳の一言】[linebreak]し、知ってる？　３０歳まで童貞でいると、魔法を使えるようになるんだ。三次元なんか汚れてて価値がないってことだよ、ふひひ……。脳内彼女が一番でしょ、常考。"
+msgid "76600:あなたの妄想レベルは飛び抜けて高いです。もう妄想なしでは生きていけないでしょう。二次元キャラに恋をし、モニターの中に入っていきたいとさえ考えているはずです。リアルが充実することは今後もありません。手遅れです。でもそれを後ろめたいと思うことはありません。己の妄想に没頭し想像力の中に生きることを周囲にどう思われようと、あなたが幸せならばそれでいいのです。食事や病気など自分の健康にだけ注意し、今後も辛い現実など気にせず、幸せで甘美な妄想ライフを続けていきましょう。妄想は、あなたを裏切りません。[linebreak]【拓巳の一言】[linebreak]し、知ってる？\u3000３０歳まで童貞でいると、魔法を使えるようになるんだ。三次元なんか汚れてて価値がないってことだよ、ふひひ……。脳内彼女が一番でしょ、常考。"
 msgstr "76600:Your delusion level is extremely high. In fact, without delusions you probably could not survive. We can assume that not only are you in love with a 2D character, you've actually thought about how nice it would be if you could go inside your monitor. The real world will never satisfy you. It is too late. There's no need to feel guilty about this at all, however. Dedicate yourself to your delusions and live inside in your imagination. No matter what others may think, as long as you're happy, that's enough. Focus on living a healthy lifestyle, avoiding illness and eating good food. Forget about the pain of reality and focus on a sweet, happy delusional life. Your delusions will never betray you.[linebreak][Takumi's Comment][linebreak]D-Did you know? If you stay a virgin until you're 30, you can become a wizard! That's because the 3D world is dirty and filled with trash. Fweheheh. Everybody knows that imaginary girlfriends are the best girlfriends."
 

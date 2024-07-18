@@ -219,7 +219,7 @@ msgstr "6800:I wasn't on the floor. Rimi wasn't riding my leg.[%p]"
 msgid "6900:ただ普通に向かい合って立っているだけ。[%p]"
 msgstr "6900:We were just standing and facing each other.[%p]"
 
-msgid "7000:[name]梨深[line]「どうしたの？　急に意識がどこかに飛んじゃってたみたいだけど」[%p]"
+msgid "7000:[name]梨深[line]「どうしたの？\u3000急に意識がどこかに飛んじゃってたみたいだけど」[%p]"
 msgstr "7000:[name]梨深[line]What's wrong? You spaced out for a second there.[%p]"
 
 msgid "7100:[name]拓巳[line]「な、ななな、なんっ、でも、な、なな、いっ！」[%p]"
@@ -258,7 +258,7 @@ msgstr "8100:[name]梨深[line]I'll lend you one of my favorite CDs instead. Wou
 msgid "8200:[name]拓巳[line]「は……？」[%p]"
 msgstr "8200:[name]拓巳[line]What?[%p]"
 
-msgid "8300:[name]梨深[line]「ねえねえ、いいでしょ？　お願いします、この通り！」[%p]"
+msgid "8300:[name]梨深[line]「ねえねえ、いいでしょ？\u3000お願いします、この通り！」[%p]"
 msgstr "8300:[name]梨深[line]Come on, you'll say yes, right? Please! I'm begging you![%p]"
 
 msgid "8400:[name]拓巳[line]「…………」[%p]"
@@ -333,7 +333,7 @@ msgstr "10600:Suddenly, I came back to my senses.[%p]"
 msgid "10700:梨深が、不思議そうに眉をひそめて僕の顔の前で手を振っていた。[%p]"
 msgstr "10700:Rimi waved her hand in front of my face, looking confused.[%p]"
 
-msgid "10800:[name]梨深[line]「どしたの？　急に意識がどこかに飛んじゃってたみたいだけど」[%p]"
+msgid "10800:[name]梨深[line]「どしたの？\u3000急に意識がどこかに飛んじゃってたみたいだけど」[%p]"
 msgstr "10800:[name]梨深[line]What's wrong? You spaced out for a second there.[%p]"
 
 msgid "10900:[name]拓巳[line]「あ、いや……な、なんでも……」[%p]"
@@ -357,7 +357,7 @@ msgstr "11400:[name]梨深[line]I'll lend you one of my favorite CDs instead. Wo
 msgid "11500:[name]拓巳[line]「は……？」[%p]"
 msgstr "11500:[name]拓巳[line]What?[%p]"
 
-msgid "11600:[name]梨深[line]「ねえねえ、いいでしょ？　お願いします、この通り！」[%p]"
+msgid "11600:[name]梨深[line]「ねえねえ、いいでしょ？\u3000お願いします、この通り！」[%p]"
 msgstr "11600:[name]梨深[line]Come on, you'll say yes, right? Please! I'm begging you![%p]"
 
 msgid "11700:[name]拓巳[line]「…………」[%p]"
@@ -423,7 +423,7 @@ msgstr "13600:Normally, girls were never happy about anything I did, so it made 
 msgid "13700:ゆ、勇気を出して言ってみて、よかった……。[%p]"
 msgstr "13700:I-I was glad I worked up the courage to say she could borrow it.[%p]"
 
-msgid "13800:[name]梨深[line]「ビシィ！　じゃあ見返りなしで借ります！」[%p]"
+msgid "13800:[name]梨深[line]「ビシィ！\u3000じゃあ見返りなしで借ります！」[%p]"
 msgstr "13800:[name]梨深[line]Snap! Okay, I'll borrow it without giving you anything in return![%p]"
 
 msgid "13900:[name]梨深[line]「となれば、善は急げ。タクの家にレッツゴー♪」[%p]"
@@ -630,7 +630,7 @@ msgstr "20500:I wasn't looking at her, but I could sense her giving me a sigh of
 msgid "20600:そこで、ＳＨＩＨＯが拾ってきてくれた例の特許画像を表示してやる。[%p]"
 msgstr "20600:I decided to show her the image of the patent that Shiho had found for me.[%p]"
 
-msgid "20700:[name]梨深[line]「ん？　これは？」[%p]"
+msgid "20700:[name]梨深[line]「ん？\u3000これは？」[%p]"
 msgstr "20700:[name]梨深[line]Hmm? What's this?[%p]"
 
 msgid "20800:[name]拓巳[line]「と、特許の……証拠、しゃ、写真」[%p]"
@@ -771,7 +771,7 @@ msgstr "25200:I leaned forward out of my chair.[%p]"
 msgid "25300:[name]拓巳[line]「こ、これ……す、すごいぞ……っ」[%p]"
 msgstr "25300:[name]拓巳[line]T-This is... incredible![%p]"
 
-msgid "25400:[name]梨深[line]「ん？　すごいの？　なにがなにが？」[%p]"
+msgid "25400:[name]梨深[line]「ん？\u3000すごいの？\u3000なにがなにが？」[%p]"
 msgstr "25400:[name]梨深[line]Hmm? Incredible? What's incredible?[%p]"
 
 msgid "25500:[name]拓巳[line]「か、簡単に……言うと……こ、これ……」[%p]"
@@ -789,7 +789,7 @@ msgstr "25800:In other words, you could use a special device to take a look at t
 msgid "25900:しかも神経信号パルスのモニタリングは、人工衛星を使って行うことさえ可能って書いてある……。[linebreak]これなら、対象者が地球上のどこにいても盗撮は可能だ……。[%p]"
 msgstr "25900:And it even said you could monitor these nerve impulses from satellites. With this, you could read the mind of anybody on Earth.[%p]"
 
-msgid "26000:[name]梨深[line]「ホントにそんなことできるの？　ＳＦ小説とか、そういう類のものなんじゃ……？」[%p]"
+msgid "26000:[name]梨深[line]「ホントにそんなことできるの？\u3000ＳＦ小説とか、そういう類のものなんじゃ……？」[%p]"
 msgstr "26000:[name]梨深[line]Is that really possible? It's not from a sci-fi novel or something?[%p]"
 
 msgid "26100:[name]拓巳[line]「と、特許って……そのシステム自体が、か、完全に仕上がって、ないと……」[%p]"
@@ -864,7 +864,7 @@ msgstr "28300:My thoughts are being scanned by a special device, recorded, and s
 msgid "28400:私は衛星による人質だ。昼夜絶え間なく、いくつもの衛星によって攻撃にもさらされた。[%p]"
 msgstr "28400:I am a hostage to the satellites. I am exposed to attack by multiple satellites, night and day.[%p]"
 
-msgid "28500:①追跡　②思考監視[linebreak]③全身の監視　④バイオ周波数攻撃[linebreak]⑤音声攻撃　⑥肉体の衰弱化[%p]"
+msgid "28500:①追跡\u3000②思考監視[linebreak]③全身の監視\u3000④バイオ周波数攻撃[linebreak]⑤音声攻撃\u3000⑥肉体の衰弱化[%p]"
 msgstr "28500:1. Tracking 2. Mind-Reading[linebreak]3. Observation of My Entire Body 4. Bio-Frequency Attacks[linebreak]5. Audio Attacks 6. Inducement of Physical Weakness[%p]"
 
 msgid "28600:１９９０年１２月下旬以来、私は睡眠中に、人為的に作られた夢（映像的、および音声的内容を持ち、声の内容も含む）を見せられた。[%p]"
@@ -873,7 +873,7 @@ msgstr "28600:Beginning in late December 1990, I have been shown artificially-cr
 msgid "28700:１９９２年２月〜５月にかけて、私はバイオ周波数攻撃（苦痛、拷問、ハラスメント）を受けた。[%p]"
 msgstr "28700:Between the months of February and May, 1992, I was a victim of bio-frequency attacks (pain, torture, harassment.)[%p]"
 
-msgid "28800:これらが私に対する攻撃だと認識し、１９９２年２月から、私はノートに以下の記録を記した。[linebreak]・日付　・時間　・特に顕著で苦痛を覚えた精神攻撃の内容[%p]"
+msgid "28800:これらが私に対する攻撃だと認識し、１９９２年２月から、私はノートに以下の記録を記した。[linebreak]・日付\u3000・時間\u3000・特に顕著で苦痛を覚えた精神攻撃の内容[%p]"
 msgstr "28800:I recognized that these were attacks upon my person, and beginning in February 1992, I began to record the following in my notes. ・Time ・Date ・Contents of particularly painful psychological attacks[%p]"
 
 msgid "28900:バイオ周波数攻撃は私の身体のあらゆる部分に対して行われた。苦痛、拷問、ハラスメントは私の身体の一部、時には全身に、不快感、疲労、苦痛を与えるべく調整されていた。[%p]"
@@ -882,7 +882,7 @@ msgstr "28900:These bio-frequency attacks were performed upon every part of my b
 msgid "29000:主な部位は以下の通りである。[%p]"
 msgstr "29000:The major parts of my body that were affected are as follows.[%p]"
 
-msgid "29100:・胸部　・視覚　・下腹部[linebreak]・脳（睡眠障害を引き起こすための）[linebreak]・脳（人工的な夢を見させるための）[%p]"
+msgid "29100:・胸部\u3000・視覚\u3000・下腹部[linebreak]・脳（睡眠障害を引き起こすための）[linebreak]・脳（人工的な夢を見させるための）[%p]"
 msgstr "29100:・Chest ・Vision ・Abdomen ・Brain (to cause sleep disorders)[linebreak]・Brain (to cause me to have artificial dreams.)[%p]"
 
 msgid "29200:[name]拓巳[line]「思考監視、思考盗撮……しかも国家ぐるみ……」[%p]"

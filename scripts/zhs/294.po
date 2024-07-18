@@ -33,7 +33,7 @@ msgstr "600:[name]拓巳[line]H-Hey! Why are you sitting right next to me?[%p]"
 msgid "700:近いだろ……。肩が触れそうじゃないか。[linebreak]こんな照れ臭い距離で食事なんてできない。[linebreak]僕の方から、七海と少し距離を取った。[%p]"
 msgstr "700:“You're too close. Our shoulders are about to touch. I can't eat with somebody this close to me… I moved my chair a distance away from Nanami.”[%p]"
 
-msgid "800:[name]七海[line]「えー？　だって、ここにイスが置いてあったんだもん」[%p]"
+msgid "800:[name]七海[line]「えー？\u3000だって、ここにイスが置いてあったんだもん」[%p]"
 msgstr "800:[name]七海[line]Huh? This is where the chair was.[%p]"
 
 msgid "900:[name]七海[line]「おにぃが置いたんでしょ？」[%p]"
@@ -90,13 +90,13 @@ msgstr "2500:[name]拓巳[line]I-It's good.[%p]"
 msgid "2600:ハムサンドは、きちんとからしマヨネーズが塗られていた。[linebreak]基本中の基本だけど、ここには調味料の買い置きなんてなかったことを考えると、けっこうすごいことだ。[%p]"
 msgstr "2600:It was a ham sandwich, with mayo and everything. Of course, it's not like a ham sandwich is hard to make. But considering there was nothing here but a few seasonings I'd bought, it was pretty amazing.[%p]"
 
-msgid "2700:[name]七海[line]「へへ〜、でしょでしょ？　わざわざ朝早くに、２４時間やってるスーパーに行って、いろいろ買ってきたんだよ」[%p]"
+msgid "2700:[name]七海[line]「へへ〜、でしょでしょ？\u3000わざわざ朝早くに、２４時間やってるスーパーに行って、いろいろ買ってきたんだよ」[%p]"
 msgstr "2700:[name]七海[line]Ehehe, right? I got up early to go to a 24-hour supermarket and bought a bunch of stuff.[%p]"
 
-msgid "2800:[name]拓巳[line]「……え、ちょっ、か、買ってきたって？　その格好で！？　ど、どんだけ痴女なんだよ！」[%p]"
+msgid "2800:[name]拓巳[line]「……え、ちょっ、か、買ってきたって？\u3000その格好で！？\u3000ど、どんだけ痴女なんだよ！」[%p]"
 msgstr "2800:[name]拓巳[line]Huh? Y-You went to a store? Dressed like that? Y-You're a pervert![%p]"
 
-msgid "2900:[name]七海[line]「痴女じゃないもん！　このままで外歩けるわけないじゃん」[%p]"
+msgid "2900:[name]七海[line]「痴女じゃないもん！\u3000このままで外歩けるわけないじゃん」[%p]"
 msgstr "2900:[name]七海[line]I am not a pervert! Of course I wouldn't go outside like this.[%p]"
 
 msgid "3000:[name]七海[line]「ちゃんと、おにぃのズボン借りて、それ穿いて行ってきたよ」[%p]"
@@ -129,7 +129,7 @@ msgstr "3800:[name]七海[line]There was a wallet in the pants I borrowed. So, i
 msgid "3900:ベーコンを、小さな口ではむはむとかじりながら、しれっとそんなことを言いやがった。[linebreak]大丈夫って、なにが大丈夫なんだ！[%p]"
 msgstr "3900:Her tiny mouth was chewing on a piece of bacon as she spoke. Fine? What was fine?[%p]"
 
-msgid "4000:[name]拓巳[line]「その財布、僕のだろっ！　ぼ、僕の金、使ったのかよ……！」[%p]"
+msgid "4000:[name]拓巳[line]「その財布、僕のだろっ！\u3000ぼ、僕の金、使ったのかよ……！」[%p]"
 msgstr "4000:[name]拓巳[line]T-That's my wallet! Did you use my money?![%p]"
 
 msgid "4100:[name]七海[line]「だってナナ、昨日お財布もなくしちゃったもん」[%p]"
@@ -174,7 +174,7 @@ msgstr "5300:For some reason, she was clenching her fists as she spoke. As I loo
 msgid "5400:[name]拓巳[line]「そ、その、包帯……」[%p]"
 msgstr "5400:[name]拓巳[line]T-That bandage...[%p]"
 
-msgid "5500:[name]七海[line]「え？　あ、これ？」[%p]"
+msgid "5500:[name]七海[line]「え？\u3000あ、これ？」[%p]"
 msgstr "5500:[name]七海[line]Huh? Oh, this?[%p]"
 
 msgid "5600:僕の指摘に、七海はわざわざ袖をめくって見せた。[%p]"
@@ -210,7 +210,7 @@ msgstr "6500:[name]七海[line]I don't know why, but I got a bandage and wrapped
 msgid "6600:[name]拓巳[line]「ズキズキ痛むのに、包帯だけ巻いたって、意味ないだろ……」[%p]"
 msgstr "6600:[name]拓巳[line]If it aches, a bandage isn't going to do anything.[%p]"
 
-msgid "6700:[name]七海[line]「包帯だけのわけないじゃん！　ちゃんと湿布も貼ったよ」[%p]"
+msgid "6700:[name]七海[line]「包帯だけのわけないじゃん！\u3000ちゃんと湿布も貼ったよ」[%p]"
 msgstr "6700:[name]七海[line]It's not just a bandage! There's a compress pad under it.[%p]"
 
 msgid "6800:[name]拓巳[line]「だ、だったら湿布だけで、いいじゃないか。わざわざ、包帯を巻く意味が、わ、分からない」[%p]"
@@ -276,13 +276,13 @@ msgstr "8700:Maybe I was just paranoid after the message from Shogun yesterday.[
 msgid "8800:……っていうか。[%p]"
 msgstr "8800:Wait a second.[%p]"
 
-msgid "8900:[name]拓巳[line]「くさっ！　お前の腕、し、湿布くさっ！」[%p]"
+msgid "8900:[name]拓巳[line]「くさっ！\u3000お前の腕、し、湿布くさっ！」[%p]"
 msgstr "8900:[name]拓巳[line]You stink! Your arm smells like a compress pad![%p]"
 
 msgid "9000:たまらず顔をしかめ、七海の腕を離す。[%p]"
 msgstr "9000:I winced and pushed her arm away.[%p]"
 
-msgid "9100:[name]七海[line]「むぅー！　そんなの当たり前じゃん！　女の子にくさいって言うなんて、最低！　バカおにぃ」[%p]"
+msgid "9100:[name]七海[line]「むぅー！\u3000そんなの当たり前じゃん！\u3000女の子にくさいって言うなんて、最低！\u3000バカおにぃ」[%p]"
 msgstr "9100:[name]七海[line]Grr! Of course it does! And don't tell a girl she stinks! It's really mean! Stupid jerk.[%p]"
 
 msgid "9200:[name]拓巳[line]「うるさい。さっさとメシ食って、学校行け」[%p]"

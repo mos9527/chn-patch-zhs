@@ -78,7 +78,7 @@ msgstr "2100:[name]七海[line]Why did I lose it, I wonder?[%p]"
 msgid "2200:[name]拓巳[line]「僕は妄想じゃない……僕は妄想じゃない……」[%p]"
 msgstr "2200:[name]拓巳[line]I'm not a delusion... I'm not a delusion.[%p]"
 
-msgid "2300:[name]七海[line]「おにぃ？　聞いてる？」[%p]"
+msgid "2300:[name]七海[line]「おにぃ？\u3000聞いてる？」[%p]"
 msgstr "2300:[name]七海[line]Brother... Are you listening?[%p]"
 
 msgid "2400:[name]拓巳[line]「僕は妄想じゃない……僕は妄想じゃない……」[%p]"

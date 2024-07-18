@@ -33,13 +33,13 @@ msgstr "600:Another new murder. And they'd died from having chopped-up pieces of
 msgid "700:まさかその制服って、七海の……？[linebreak]そうだ、こんな偶然、あるわけがない。タイミングがよすぎる。[%p]"
 msgstr "700:Could that uniform be Nanami's? Yeah. No way it was a coincidence. The timing was too good.[%p]"
 
-msgid "800:やっぱり、『将軍』だ！　あいつはこれが目的で、きっと七海を誘拐して、制服だけ剥ぎ取っていったんだ！[%p]"
+msgid "800:やっぱり、『将軍』だ！\u3000あいつはこれが目的で、きっと七海を誘拐して、制服だけ剥ぎ取っていったんだ！[%p]"
 msgstr "800:It had to be Shogun! He must've kidnapped her as part of the murder, and then taken her uniform![%p]"
 
 msgid "900:絶対に、あいつは僕を挑発してる！[linebreak]次は、今度こそ、僕だ……。僕が、殺されるんだ……。[%p]"
 msgstr "900:Shogun was taunting me! I would be next. It was finally my turn to be killed.[%p]"
 
-msgid "1000:[name]七海[line]「おにぃ？　どしたの？」[%p]"
+msgid "1000:[name]七海[line]「おにぃ？\u3000どしたの？」[%p]"
 msgstr "1000:[name]七海[line]Brother... What's wrong?[%p]"
 
 msgid "1100:背後から七海が声をかけてきて、僕はたまらずイスから転げ落ちそうになった。[%p]"
@@ -60,7 +60,7 @@ msgstr "1500:[name]拓巳[line]H-He's going to kill me.[%p]"
 msgid "1600:[name]七海[line]「殺されるって……そ、そんな冗談やめてよー」[%p]"
 msgstr "1600:[name]七海[line]Kill you? W-What are you talking about?[%p]"
 
-msgid "1700:[name]拓巳[line]「ホ、ホントなんだっ！　間違いないあいつは次こそ僕を狙ってくる七海ごめん僕のせいであいつはお前のこと誘拐して……あああ、僕は、ど、どうすれば……、うう、怖い……怖いよ……」[%p]"
+msgid "1700:[name]拓巳[line]「ホ、ホントなんだっ！\u3000間違いないあいつは次こそ僕を狙ってくる七海ごめん僕のせいであいつはお前のこと誘拐して……あああ、僕は、ど、どうすれば……、うう、怖い……怖いよ……」[%p]"
 msgstr "1700:[name]拓巳[line]I-It's true! He's coming after me next! Nanami, I'm sorry, he kidnapped you because of me... Oh, what do I do? I'm scared... I'm so scared![%p]"
 
 msgid "1800:妹の前で情けないとは思うけど、もう心の余裕なんてなかった。[%p]"

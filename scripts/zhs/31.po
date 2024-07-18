@@ -42,7 +42,7 @@ msgstr "900:Just comparing me and the killer made it clear how much better 2D is
 msgid "1000:僕は三住くんの誘いを必死に断りつつ、心の中で自分が激しくストレートパンチを連打する姿を思い浮かべる。[%p]"
 msgstr "1000:I desperately tried to refuse Misumi's offer, while imagining myself delivering a flurry of violent jabs.[%p]"
 
-msgid "1100:“殺人鬼？　そんなヤツ、出会った途端にボコボコにしてやんよ”[%p]"
+msgid "1100:“殺人鬼？\u3000そんなヤツ、出会った途端にボコボコにしてやんよ”[%p]"
 msgstr "1100:“The murderer? Oh yeah, I'll kick their butt the second I see them!”[%p]"
 
 msgid "1200:そうやって妄想して楽しむ分には、僕は誰でも殺せるし誰でも助けられる。[%p]"
@@ -279,7 +279,7 @@ msgstr "8800:Just comparing me and the killer made it clear how much better 2D i
 msgid "8900:僕は三住くんの誘いを必死に断りつつ、心の中で自分が激しくストレートパンチを連打する姿を思い浮かべる。[%p]"
 msgstr "8900:I desperately tried to refuse Misumi's offer, while imagining myself delivering a flurry of violent jabs.[%p]"
 
-msgid "9000:“殺人鬼？　そんなヤツ、出会った途端にボコボコにしてやんよ”[%p]"
+msgid "9000:“殺人鬼？\u3000そんなヤツ、出会った途端にボコボコにしてやんよ”[%p]"
 msgstr "9000:“The murderer? Oh yeah, I'll kick their butt the second I see them!”[%p]"
 
 msgid "9100:そうやって妄想して楽しむ分には、僕は誰でも殺せるし誰でも助けられる。[%p]"
@@ -468,7 +468,7 @@ msgstr "15100:“They're taunting me.”[%18]"
 msgid "15200:“今すぐあれを消したい”[%18]"
 msgstr "15200:“I want to erase it now.”[%18]"
 
-msgid "15300:[name]三住[line]「なあ？　どうしたんだ？」[%p]"
+msgid "15300:[name]三住[line]「なあ？\u3000どうしたんだ？」[%p]"
 msgstr "15300:[name]三住[line]Hello? What's gotten into you?[%p]"
 
 msgid "15400:歩み寄ってきた三住くんが、僕の肩をつかんで揺すってくる。[%p]"
@@ -492,7 +492,7 @@ msgstr "15900:I tried to tell myself that, but I started to feel really creeped 
 msgid "16000:僕が教室に入ってきたときには、もうすでに書かれてたっけ？[linebreak]思い出せない……。黒板になにが書いてあるかなんて、普段はまったく意識していないし。[%p]"
 msgstr "16000:Was that already on the blackboard when I'd come in? I couldn't remember. Usually, I didn't pay any attention to what was on the blackboard.[%p]"
 
-msgid "16100:[name]三住[line]「なあ？　どうしたんだ？」[%p]"
+msgid "16100:[name]三住[line]「なあ？\u3000どうしたんだ？」[%p]"
 msgstr "16100:[name]三住[line]Hello? What's gotten into you?[%p]"
 
 msgid "16200:歩み寄ってきた三住くんが、僕の肩をつかんで揺すってくる。[%p]"

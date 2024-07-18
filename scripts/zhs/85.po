@@ -87,7 +87,7 @@ msgstr "2400:[name]男[line]So, um... Have you heard of the so-called “New Gen
 msgid "2500:やっぱりだ……。[linebreak]額の汗を拭いつつ、僕はそれにもうなずきを返す。[%p]"
 msgstr "2500:I knew it. I wiped the sweat off my brow and nodded.[%p]"
 
-msgid "2600:[name]男[line]「じゃ、３番目に起きた通称『張り付け』殺人事件も当然知ってるよね？　この近所で起きたわけなんだけども」[%p]"
+msgid "2600:[name]男[line]「じゃ、３番目に起きた通称『張り付け』殺人事件も当然知ってるよね？\u3000この近所で起きたわけなんだけども」[%p]"
 msgstr "2600:[name]男[line]Then, of course, you know about the third case, right? “Crucified”? It happened nearby.[%p]"
 
 msgid "2700:[name]男[line]「その目撃者を探してるわけよ」[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:Was this whole thing a Koumei's Trap?[%p]"
 msgid "3100:警察を装って話を聞かせてって言っておきつつ、僕の個人情報を引き出して悪用しようと考えてる詐欺グループとか。あるいは例の悪魔女の手下とか。[%p]"
 msgstr "3100:Maybe they were just pretending to be police, trying to get me to reveal my private information so they could use it for something bad. Or maybe they were working with the demon girl?[%p]"
 
-msgid "3200:[name]男[line]「ん？　あれ、答えてくんないのかな？」[%p]"
+msgid "3200:[name]男[line]「ん？\u3000あれ、答えてくんないのかな？」[%p]"
 msgstr "3200:[name]男[line]Hmm? Oh, you don't want to answer?[%p]"
 
 msgid "3300:[name]拓巳[line]「…………」[%p]"
@@ -114,7 +114,7 @@ msgstr "3300:[name]拓巳[line]...[%p]"
 msgid "3400:疑い出したらキリがない。[linebreak]どうしよう。もし嘘の名前を言ったらそれだけで逮捕されちゃうかもしれないし……。[%p]"
 msgstr "3400:There was no way to be sure either way. What should I do? If I gave them a fake name, they might arrest me.[%p]"
 
-msgid "3500:[name]男[line]「ああ、個人情報保護法とか気にしてる？　おじさん、そんなに信用なさそうに見えるかな」[%p]"
+msgid "3500:[name]男[line]「ああ、個人情報保護法とか気にしてる？\u3000おじさん、そんなに信用なさそうに見えるかな」[%p]"
 msgstr "3500:[name]男[line]Oh, you're worried about the Protection of Personal Information Act? Do I look that sketchy?[%p]"
 
 msgid "3600:見えるよ……。[%p]"
@@ -156,7 +156,7 @@ msgstr "4700:His laugh was a little too loud to be real. It echoed throughout th
 msgid "4800:うう、早く解放されたい……。[%p]"
 msgstr "4800:I want to go home.[%p]"
 
-msgid "4900:[name]男[line]「その制服、翠明だよね？　何年生？」[%p]"
+msgid "4900:[name]男[line]「その制服、翠明だよね？\u3000何年生？」[%p]"
 msgstr "4900:[name]男[line]So, I see from your uniform that you're a student at Suimei. What year are you in?[%p]"
 
 msgid "5000:そんなことまで答えなくちゃいけないのか……。[%p]"
@@ -165,7 +165,7 @@ msgstr "5000:Did I have to tell him that, too?[%p]"
 msgid "5100:[name]拓巳[line]「２……」[%p]"
 msgstr "5100:[name]拓巳[line]Second...[%p]"
 
-msgid "5200:[name]男[line]「ん？　悪いね、聞き取れなかった。おじさん、もう歳だから耳遠くてさ。もう一度言ってくれる？」[%p]"
+msgid "5200:[name]男[line]「ん？\u3000悪いね、聞き取れなかった。おじさん、もう歳だから耳遠くてさ。もう一度言ってくれる？」[%p]"
 msgstr "5200:[name]男[line]Hmm? Sorry, I couldn't hear you. I'm getting old. My hearing's going. Can I get you to say that again?[%p]"
 
 msgid "5300:[name]拓巳[line]「に、２年生……」[%p]"
@@ -300,7 +300,7 @@ msgstr "9500:[name]男[line]Yeah. I totally understand. This is really valuable.
 msgid "9600:[name]拓巳[line]「ぼ、僕を……警察で、ま、守って……ください……」[%p]"
 msgstr "9600:[name]拓巳[line]P-Please have the police... protect me.[%p]"
 
-msgid "9700:[name]男[line]「その前に、その女の歳は分かる？　服装とか、顔の特徴とか」[%p]"
+msgid "9700:[name]男[line]「その前に、その女の歳は分かる？\u3000服装とか、顔の特徴とか」[%p]"
 msgstr "9700:[name]男[line]First, do you know how old she is? What she was wearing? What her face looked like?[%p]"
 
 msgid "9800:[name]拓巳[line]「……す、翠明……」[%p]"
@@ -342,13 +342,13 @@ msgstr "10900:[name]男[line]How about her height? Weight? Oh, what about her un
 msgid "11000:なんだ、このおっさんは……？[%p]"
 msgstr "11000:Who was this guy?[%p]"
 
-msgid "11100:僕をバカにしてるのか？　そんなのどれひとつとして分かる訳じゃないかっ！[%p]"
+msgid "11100:僕をバカにしてるのか？\u3000そんなのどれひとつとして分かる訳じゃないかっ！[%p]"
 msgstr "11100:Was he making fun of me? How the hell would I know any of that?[%p]"
 
 msgid "11200:僕には一目見ただけで相手の身長体重スリーサイズを見分けるなんていう、ラブコメマンガみたいなアホ能力はないんだ！[%p]"
 msgstr "11200:I don't have the magic power of determining a girl's measurements just by looking at her, like the hero of some harem manga![%p]"
 
-msgid "11300:[name]男[line]「なるほど、黙ってるってことは分からないってことだね？　結構結構。参考になったよ」[%p]"
+msgid "11300:[name]男[line]「なるほど、黙ってるってことは分からないってことだね？\u3000結構結構。参考になったよ」[%p]"
 msgstr "11300:[name]男[line]I see. If you're not answering, it means you don't know, right? That's fine. Just fine. Thanks for your cooperation.[%p]"
 
 msgid "11400:[name]男[line]「こりゃ本部に戻って検討しないといかんなあ」[%p]"
@@ -369,7 +369,7 @@ msgstr "11800:[name]拓巳[line]H-Huh? Why?[%p]"
 msgid "11900:やっぱり、信じてもらえてないんだ。[linebreak]僕に異常者っていうレッテルを貼って、冤罪に仕立て上げる気だ……。[%p]"
 msgstr "11900:They didn't believe me after all. They thought I was crazy. They were going to accuse me of doing it.[%p]"
 
-msgid "12000:[name]男[line]「いや、だって悪魔、だっけ？　そいつから君を守らなくちゃならないだろ？」[%p]"
+msgid "12000:[name]男[line]「いや、だって悪魔、だっけ？\u3000そいつから君を守らなくちゃならないだろ？」[%p]"
 msgstr "12000:[name]男[line]Well, there's that, um... demon, was it? We need to protect you from her, right?[%p]"
 
 msgid "12100:[name]拓巳[line]「…………」[%p]"
@@ -393,7 +393,7 @@ msgstr "12600:[name]男[line]Thanks for your time. The police will make sure you
 msgid "12700:[name]男[line]「んじゃ、またなにか聞きたいことができたら電話するかもしんないんで、そんときはよろしくな」[%p]"
 msgstr "12700:[name]男[line]Also, we might call if we have more questions, all right?[%p]"
 
-msgid "12800:[name]男[line]「居留守とか使わないでくれよ？　今のところ、警察にとっては君は重要な人物だからな」[%p]"
+msgid "12800:[name]男[line]「居留守とか使わないでくれよ？\u3000今のところ、警察にとっては君は重要な人物だからな」[%p]"
 msgstr "12800:[name]男[line]Make sure you pick up, okay? Right now, you're an important person to us.[%p]"
 
 msgid "12900:[name]拓巳[line]「え……」[%p]"

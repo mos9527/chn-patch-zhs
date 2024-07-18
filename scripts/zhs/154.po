@@ -150,7 +150,7 @@ msgstr "4500:Had it happened while I was fantasizing about her forcing herself o
 msgid "4600:まだ状況が整理できないでいるのに、セナはお構いなしで僕の身体を乱暴に揺すってくる。[%p]"
 msgstr "4600:I had no idea what was going on, but Sena was still shaking me violently.[%p]"
 
-msgid "4700:[name]セナ[line]「誰からだ！　答えろ！」[%p]"
+msgid "4700:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 msgstr "4700:[name]セナ[line]Who was it?! Answer me![%p]"
 
 msgid "4800:[name]セナ[line]「[color index="A0FF0000"]天成神光会[color index="800000"]とは関係あるのか、ないのか！」[%p]"
@@ -171,7 +171,7 @@ msgstr "5200:[name]拓巳[line]Ugh... Gwah! Gah![%p]"
 msgid "5300:咳き込みつつも、必死で空気を吸い込んだ。[%p]"
 msgstr "5300:I coughed and tried to force as much air into my lungs as I could.[%p]"
 
-msgid "5400:やっぱりセナは敵なの？　こいつも『将軍』の手下？[%p]"
+msgid "5400:やっぱりセナは敵なの？\u3000こいつも『将軍』の手下？[%p]"
 msgstr "5400:Was Sena my enemy after all? Was she working with Shogun, too?[%p]"
 
 msgid "5500:だとしたら逃げなくちゃ……[%p]"
@@ -363,7 +363,7 @@ msgstr "11600:Had it happened while I was fantasizing about forcing myself on he
 msgid "11700:まだ状況が整理できないでいるのに、セナは僕の身体を乱暴に揺すってくる。[%p]"
 msgstr "11700:I had no idea what was going on, but Sena was still shaking me violently.[%p]"
 
-msgid "11800:[name]セナ[line]「誰からだ！　答えろ！」[%p]"
+msgid "11800:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 msgstr "11800:[name]セナ[line]Who was it?! Answer me![%p]"
 
 msgid "11900:[name]セナ[line]「[color index="A0FF0000"]天成神光会[color index="800000"]とは関係あるのか、ないのか！」[%p]"
@@ -387,7 +387,7 @@ msgstr "12400:I coughed and tried to force as much air into my lungs as I could.
 msgid "12500:さっきの妄想とは正反対の展開に、無性に情けなくなる。[%p]"
 msgstr "12500:It was the exact opposite of the delusion I'd had a second ago. I felt even more pathetic.[%p]"
 
-msgid "12600:やっぱりセナは敵なの？　こいつも『将軍』の手下？[%p]"
+msgid "12600:やっぱりセナは敵なの？\u3000こいつも『将軍』の手下？[%p]"
 msgstr "12600:Was Sena my enemy after all? Was she working with Shogun too?[%p]"
 
 msgid "12700:だとしたら逃げなくちゃ……[%p]"
@@ -438,7 +438,7 @@ msgstr "14100:[name]セナ[line]You can't make an error real without using a Di-
 msgid "14200:[name]セナ[line]「お前は、その力のことを誰に教わったんだ」[%p]"
 msgstr "14200:[name]セナ[line]Who taught you how to do that?[%p]"
 
-msgid "14300:[name]セナ[line]「誰からだ！　答えろ！」[%p]"
+msgid "14300:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 msgstr "14300:[name]セナ[line]Who was it! Answer me![%p]"
 
 msgid "14400:力のことなんて……誰にも教えてもらってない……！[linebreak]でも、強いて言うなら……[%p]"
@@ -465,7 +465,7 @@ msgstr "15000:I coughed and tried to force as much air into my lungs as I could.
 msgid "15100:なんなんだよ、いったい……[%p]"
 msgstr "15100:W-What the hell was going on?[%p]"
 
-msgid "15200:やっぱりセナは敵なの？　こいつも『将軍』の手下？[%p]"
+msgid "15200:やっぱりセナは敵なの？\u3000こいつも『将軍』の手下？[%p]"
 msgstr "15200:Was Sena my enemy after all? Was she working with Shogun too?[%p]"
 
 msgid "15300:だとしたら、逃げなくちゃ……[%p]"

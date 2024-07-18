@@ -159,7 +159,7 @@ msgstr "4800:Her closed eyes opened, just a little. She looked up. Her empty eye
 msgid "4900:[name]七海[line]「梨深さん……」[%p]"
 msgstr "4900:[name]七海[line]Rimi...[%p]"
 
-msgid "5000:[name]梨深[line]「大丈夫？　今、助けてあげるから……」[%p]"
+msgid "5000:[name]梨深[line]「大丈夫？\u3000今、助けてあげるから……」[%p]"
 msgstr "5000:[name]梨深[line]Are you okay? I'm here to help you.[%p]"
 
 msgid "5100:梨深の言葉の途中で、七海は苦痛に顔を歪めた。[linebreak]その表情は青ざめ、荒い息をつく。[%p]"
@@ -198,16 +198,16 @@ msgstr "6100:[name]七海[line]I can't find my bangle anywhere.[%p]"
 msgid "6200:よろめきながらも起き上がり、今度は左手で周囲を探り出した。[%p]"
 msgstr "6200:She stood up, slowly, and began to search her surroundings with her left hand.[%p]"
 
-msgid "6300:[name]梨深[line]「バングル……。バングル、だね？　分かった。あたし知ってるから。だからあたしと一緒にここを出よう？　病院に行こう？　ね？」[%p]"
+msgid "6300:[name]梨深[line]「バングル……。バングル、だね？\u3000分かった。あたし知ってるから。だからあたしと一緒にここを出よう？\u3000病院に行こう？\u3000ね？」[%p]"
 msgstr "6300:[name]梨深[line]Bangle... Your bangle, right? Sure. I know exactly where it is. So come on, let's go. Let's go to the hospital. Okay?[%p]"
 
 msgid "6400:[name]七海[line]「手……手が、痛いよぅ……うう……」[%p]"
 msgstr "6400:[name]七海[line]My hand... My hand hurts.[%p]"
 
-msgid "6500:[name]七海[line]「ナナは……なんで、梨深さんのこと……知ってるんだっけ……？　前に、どこで、会ったんだっけ……？」[%p]"
+msgid "6500:[name]七海[line]「ナナは……なんで、梨深さんのこと……知ってるんだっけ……？\u3000前に、どこで、会ったんだっけ……？」[%p]"
 msgstr "6500:[name]七海[line]Why... Why do I know you? Did we meet somewhere?[%p]"
 
-msgid "6600:[name]七海[line]「梨深さん……梨深さん、なの……？　梨深さんが、ナナの、バングル……」[%p]"
+msgid "6600:[name]七海[line]「梨深さん……梨深さん、なの……？\u3000梨深さんが、ナナの、バングル……」[%p]"
 msgstr "6600:[name]七海[line]Rimi... was it you? Did you take my bangle?[%p]"
 
 msgid "6700:[name]七海[line]「ウソ……どうして……ひどい……よ……」[%p]"
@@ -252,7 +252,7 @@ msgstr "7900:Rimi almost cried out of sheer frustration.[%p]"
 msgid "8000:[name]七海[line]「梨深さんが、持ってたの……？」[%p]"
 msgstr "8000:[name]七海[line]Did you take it?[%p]"
 
-msgid "8100:[name]梨深[line]「ナナちゃん、帰ろう？　こっちに、来て」[%p]"
+msgid "8100:[name]梨深[line]「ナナちゃん、帰ろう？\u3000こっちに、来て」[%p]"
 msgstr "8100:[name]梨深[line]Nana, let's go home, okay? Come with me.[%p]"
 
 msgid "8200:[name]七海[line]「どうして、持ってくの……？」[%p]"

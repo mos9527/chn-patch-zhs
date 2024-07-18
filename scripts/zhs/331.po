@@ -183,7 +183,7 @@ msgstr "5600:[name]星来[line]W-What? Don't blame me. I want some food, but I'm
 msgid "5700:[name]星来[line]「え、なんでって、それは……。前に、あなたに太ってるって言われたから……」[%p]"
 msgstr "5700:[name]星来[line]Huh? Why? Because... you said I'd gained weight the other day.[%p]"
 
-msgid "5800:[name]星来[line]「で、でも別にさ、あなたに言われたからダイエットしてるわけじゃないよっ。勘違いしないでよねっ！　このぼけなす！」[%p]"
+msgid "5800:[name]星来[line]「で、でも別にさ、あなたに言われたからダイエットしてるわけじゃないよっ。勘違いしないでよねっ！\u3000このぼけなす！」[%p]"
 msgstr "5800:[name]星来[line]B-But I'm not dieting because you said that, okay? Don't get the wrong idea, you dork![%p]"
 
 msgid "5900:これはなんという分かりやすいツンデレ。[linebreak]照れながら怒る星来かわいいよ星来。[%p]"
@@ -294,7 +294,7 @@ msgstr "9300:[name]優愛[line]Please understand, I'm doing all this to save you
 msgid "9400:[name]優愛[line]「決して、あなたを傷つけるためじゃないんですよ」[%p]"
 msgstr "9400:[name]優愛[line]I'm not doing this to hurt you.[%p]"
 
-msgid "9500:なにそれ？　優愛ってバカなの？　死ぬの？[linebreak]何様のつもりだよ。僕を救うだって？[%p]"
+msgid "9500:なにそれ？\u3000優愛ってバカなの？\u3000死ぬの？[linebreak]何様のつもりだよ。僕を救うだって？[%p]"
 msgstr "9500:What? Was Yua just dumb? Was she literally stupid? Who the hell did she think she was anyway? Save me?[%p]"
 
 msgid "9600:確かに僕はニュージェネ事件や『将軍』に怯えてた。[linebreak]必死で、誰かに助けを求めてた。[%p]"

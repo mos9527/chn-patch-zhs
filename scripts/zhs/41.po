@@ -102,7 +102,7 @@ msgstr "2900:She seemed to have somewhere else to go, since she headed for the t
 msgid "3000:尾行されてたのは僕の考えすぎだったんだろうか。[linebreak]でも遠回りしたのについてきたのは絶対おかしい。[%p]"
 msgstr "3000:Maybe I was just imagining her tailing me? But it didn't make sense that she'd follow me down a route that led away from the school.[%p]"
 
-msgid "3100:僕への嫌がらせか？　なにか恨みを買うようなことをしたっけ？　いや、してない。するわけがない。だって僕は学校じゃ、空気みたいな存在なんだから。[%p]"
+msgid "3100:僕への嫌がらせか？\u3000なにか恨みを買うようなことをしたっけ？\u3000いや、してない。するわけがない。だって僕は学校じゃ、空気みたいな存在なんだから。[%p]"
 msgstr "3100:Was she just trying to upset me? Had I done something to make her mad? No, I hadn't. There was no way I could. At this school, I was as invisible as the air.[%p]"
 
 msgid "3200:じゃあ、いったいなにが目的なんだ……。[%p]"

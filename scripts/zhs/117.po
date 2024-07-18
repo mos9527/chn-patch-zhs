@@ -63,10 +63,10 @@ msgstr "1600:[name]主婦Ａ[line]—So this ghost video with the sanmenkyo is R
 msgid "1700:[name]主婦Ｂ[line]「あら、そうなの。私、それ知らないわ〜。[linebreak]でも、サンメンキョウって？」[%p]"
 msgstr "1700:[name]主婦Ｂ[line]Oh, yeah? I haven't heard about this. What's a sanmenkyo?[%p]"
 
-msgid "1800:[name]主婦Ａ[line]「ほらあれよ、鏡！　３つ並んでるやつ」[%p]"
+msgid "1800:[name]主婦Ａ[line]「ほらあれよ、鏡！\u3000３つ並んでるやつ」[%p]"
 msgstr "1800:[name]主婦Ａ[line]The thing with the mirrors, you know. Three mirrors lined up in a row.[%p]"
 
-msgid "1900:[name]主婦Ｂ[line]「ああ、鏡ね！　三面鏡！　それで、どんな怪奇ビデオなの？」[%p]"
+msgid "1900:[name]主婦Ｂ[line]「ああ、鏡ね！\u3000三面鏡！\u3000それで、どんな怪奇ビデオなの？」[%p]"
 msgstr "1900:[name]主婦Ｂ[line]Oh, mirrors! Three mirrors! Got it! So, what's the video about?[%p]"
 
 msgid "2000:梢は、そのベンチの前で立ち止まってしまっていた。[linebreak]イヤな汗が、じっとりと額ににじんでくる。[%p]"

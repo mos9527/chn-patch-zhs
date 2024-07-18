@@ -57,10 +57,10 @@ msgstr "1400:I was stunned.[%p]"
 msgid "1500:なんだ、それ……。[%p]"
 msgstr "1500:What did that mean?[%p]"
 
-msgid "1600:[name]梢[line]「んん？　西條くん、心当たりあーるの？」[%p]"
+msgid "1600:[name]梢[line]「んん？\u3000西條くん、心当たりあーるの？」[%p]"
 msgstr "1600:[name]梢[line]Hmm? Nishijo, do you know what he meant?[%p]"
 
-msgid "1700:[name]拓巳[line]「え？　いや、別に……」[%p]"
+msgid "1700:[name]拓巳[line]「え？\u3000いや、別に……」[%p]"
 msgstr "1700:[name]拓巳[line]Huh? Uh, no...[%p]"
 
 msgid "1800:[name]梢[line]「ウソらー。心は正直なんだよ。西條くんは今、もんのすごーく関係ありまーすって考えてる」[%p]"
@@ -294,7 +294,7 @@ msgstr "9300:[name]拓巳[line]Hey![%p]"
 msgid "9400:こずぴぃ、そういう余計なこと言わないでくれよぅ！[%p]"
 msgstr "9400:Kozupii, don't say that where she can hear it![%p]"
 
-msgid "9500:[name]セナ[line]「怖い？　なんのことだ？」[%p]"
+msgid "9500:[name]セナ[line]「怖い？\u3000なんのことだ？」[%p]"
 msgstr "9500:[name]セナ[line]Scary? What are you talking about?[%p]"
 
 msgid "9600:案の定、セナにもこずぴぃの“心の声”が聞こえるらしい。[%p]"
@@ -318,10 +318,10 @@ msgstr "10100:They were like sisters. The strong-willed big sister, and the timi
 msgid "10200:しかも２人とも貧乳とかもうね、ＧＪすぎる――[%p]"
 msgstr "10200:And they both had flat chests! GJ![%p]"
 
-msgid "10300:って、ダメだダメだ、自重しろ！　こずぴぃにまた心を読まれる！[linebreak]それに、油断すると命取りになるぞ……。[%p]"
+msgid "10300:って、ダメだダメだ、自重しろ！\u3000こずぴぃにまた心を読まれる！[linebreak]それに、油断すると命取りになるぞ……。[%p]"
 msgstr "10300:No, wait! Wait! Don't think that! Kozupii will hear you again! And... if you're not careful, you could easily die here.[%p]"
 
-msgid "10400:２人はいったいどういう繋がりなんだろう。学校で知り合ったのかな？　でも学年が違うし……。[%p]"
+msgid "10400:２人はいったいどういう繋がりなんだろう。学校で知り合ったのかな？\u3000でも学年が違うし……。[%p]"
 msgstr "10400:What was the deal with these two? Did they know each other from school? But they were in different grades.[%p]"
 
 msgid "10500:剣を持つ者同士の繋がりみたいなものがあるのか。２人とも『将軍』の手下なのか。[%p]"
@@ -333,7 +333,7 @@ msgstr "10600:I got into a “cat's paw” stance so I could run at any moment.[
 msgid "10700:具体的には、足のかかとを上げて立つこと。こうすることで猫のように素早く動き出すことができる……らしい。昔、マンガで読んだ。[%p]"
 msgstr "10700:Specifically, I stood up on my tiptoes. Supposedly, this made it so you could run really fast... like a cat, I guess. I'd read about it in a manga once.[%p]"
 
-msgid "10800:[name]梢[line]「セナしゃんはねー、こずぴぃが東京に来てから最初のお友達なのらー。ね？　ね？」[%p]"
+msgid "10800:[name]梢[line]「セナしゃんはねー、こずぴぃが東京に来てから最初のお友達なのらー。ね？\u3000ね？」[%p]"
 msgstr "10800:[name]梢[line]Sena is the first friend Kozupii made since coming to Tokyo, nora. Right? Right?[%p]"
 
 msgid "10900:[name]セナ[line]「…………」[%p]"
@@ -459,7 +459,7 @@ msgstr "14800:Sena and Kozupii were cute. The sight of two cute “flat-chested 
 msgid "14900:自意識過剰かな？[%p]"
 msgstr "14900:Or was I being paranoid after all?[%p]"
 
-msgid "15000:クスクスというバカにしたような笑い声がずっと聞こえている。幻聴？　こずぴぃが笑ってるだけ？[%p]"
+msgid "15000:クスクスというバカにしたような笑い声がずっと聞こえている。幻聴？\u3000こずぴぃが笑ってるだけ？[%p]"
 msgstr "15000:I could still hear the chuckles of my classmates. Was I hearing things? Was I imagining them?[%p]"
 
 msgid "15100:目立ちたくない。[linebreak]見られたくない。[%p]"
@@ -543,7 +543,7 @@ msgstr "17600:[name]梢[line]Sena knows a whole lot of things![%p]"
 msgid "17700:[name]梢[line]「ディソードっていう名前も、セナしゃんに教えてもらったのら」[%p]"
 msgstr "17700:[name]梢[line]She was the one who told me the name Di-Sword![%p]"
 
-msgid "17800:[name]梢[line]「あとあと、リアルブータ？　あれれ？　ブタ？　ブッダ？」[%p]"
+msgid "17800:[name]梢[line]「あとあと、リアルブータ？\u3000あれれ？\u3000ブタ？\u3000ブッダ？」[%p]"
 msgstr "17800:[name]梢[line]And... Real Butts? Huh? Butts? Buddha?[%p]"
 
 msgid "17900:[name]セナ[line]「……リアルブート」[%p]"

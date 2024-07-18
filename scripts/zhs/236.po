@@ -132,7 +132,7 @@ msgstr "3900:[name]拓巳[line]All they'll need to do is test your DNA against t
 msgid "4000:[name]葉月[line]「…………」[%p]"
 msgstr "4000:[name]葉月[line]...[%p]"
 
-msgid "4100:[name]拓巳[line]「どうして、あんなことを……？　ねえ、グリム……！」[%p]"
+msgid "4100:[name]拓巳[line]「どうして、あんなことを……？\u3000ねえ、グリム……！」[%p]"
 msgstr "4100:[name]拓巳[line]Why did you do it? Tell me, Grimm![%p]"
 
 msgid "4200:[name]葉月[line]「……ナイトハルト……」[%p]"

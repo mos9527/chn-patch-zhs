@@ -78,7 +78,7 @@ msgstr "2100:The detective's body was particularly bloody. I couldn't see any in
 msgid "2200:いったい、なにがあったんだ……？[linebreak]なんで、刑事と優愛が一緒にいる……？[%p]"
 msgstr "2200:What had happened here? What were the two of them doing together?[%p]"
 
-msgid "2300:刑事なら銃を持っていたのもうなずけるけど、そもそもこの刑事を撃ったのは誰なんだ？　優愛なのか？[%p]"
+msgid "2300:刑事なら銃を持っていたのもうなずけるけど、そもそもこの刑事を撃ったのは誰なんだ？\u3000優愛なのか？[%p]"
 msgstr "2300:I could understand why a detective would have a gun, but who had shot this guy? Was it Yua?[%p]"
 
 msgid "2400:疑問ばかりが頭の中に浮かんできて、うまく整理できない。[linebreak]なにがなんだか分からなくて、僕はあやせに救いを求めた。[%p]"
@@ -99,7 +99,7 @@ msgstr "2800:[name]あやせ[line]As for him, it looks like it's too late.[%p]"
 msgid "2900:いつも通りの、淡々とした口調。[%p]"
 msgstr "2900:Her voice was calm, as always.[%p]"
 
-msgid "3000:[name]拓巳[line]「な、なんで、そ、そんな、お、落ち着いていられるんだ！？　ひ、ひと、人が、し、し、死んでるんだぞ……！」[%p]"
+msgid "3000:[name]拓巳[line]「な、なんで、そ、そんな、お、落ち着いていられるんだ！？\u3000ひ、ひと、人が、し、し、死んでるんだぞ……！」[%p]"
 msgstr "3000:[name]拓巳[line]H-How can you be so calm?! P-People are dead![%p]"
 
 msgid "3100:[name]あやせ[line]「言ったでしょう。予言されていたからよ」[%p]"
@@ -201,7 +201,7 @@ msgstr "6200:That was a relief, at least. Ayase looked up at the night sky. Her 
 msgid "6300:[name]あやせ[line]「そろそろね……」[%p]"
 msgstr "6300:[name]あやせ[line]I think it's about time.[%p]"
 
-msgid "6400:そろそろ？　って、なにが……？[%p]"
+msgid "6400:そろそろ？\u3000って、なにが……？[%p]"
 msgstr "6400:Time? Time for what?[%p]"
 
 msgid "6500:[name]あやせ[line]「グラジオールはまもなく目覚めるわ。ツィーグラーの予言によれば」[%p]"

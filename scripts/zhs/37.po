@@ -93,7 +93,7 @@ msgstr "2600:[name]優愛[line]How will you react, I wonder?[%p]"
 msgid "2700:誰にともなくつぶやく。[%p]"
 msgstr "2700:She whispered to no one in particular.[%p]"
 
-msgid "2800:[name]優愛[line]「なんの反応もしない？　それとも、これを見て驚く？　もしも……慌てて消そうとするなら、それはつまり――」[%p]"
+msgid "2800:[name]優愛[line]「なんの反応もしない？\u3000それとも、これを見て驚く？\u3000もしも……慌てて消そうとするなら、それはつまり――」[%p]"
 msgstr "2800:[name]優愛[line]Will you not react at all? Will you be surprised? If you panic and try to erase it, that means...[%p]"
 
 msgid "2900:無人の、静かな教室内に、優愛の押し殺したような声が響く。[%p]"

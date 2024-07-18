@@ -234,7 +234,7 @@ msgstr "7300:Suddenly I felt sad, like my tears were going to start overflowing.
 msgid "7400:それをごまかすために、彼女の頭越しに、雨を落とし続けている鈍色の空を見上げた。"
 msgstr "7400:And to stop myself, I looked over her shoulder, at the dull gray, rainy sky."
 
-msgid "7500:空が滲んでいるのは、雨のせい？　涙のせい？"
+msgid "7500:空が滲んでいるのは、雨のせい？\u3000涙のせい？"
 msgstr "7500:Was the sky so blurry because of the rain? Or because of my tears?"
 
 msgid "7600:もう、あの視線も感じない。"

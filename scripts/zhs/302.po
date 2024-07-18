@@ -141,13 +141,13 @@ msgstr "4200:I froze. A voice was echoing directly in my head.[%p]"
 msgid "4300:[name]梢[line]「セナしゃんの心、ぐちゃぐちゃにした咲畑しゃんは、その後、ど〜うするの？」[%p]"
 msgstr "4300:[name]梢[line]After you mess up Sena's heart, what are you going to do?[%p]"
 
-msgid "4400:[name]梢[line]「殺しちゃーうのかな？　かな？」[%p]"
+msgid "4400:[name]梢[line]「殺しちゃーうのかな？\u3000かな？」[%p]"
 msgstr "4400:[name]梢[line]Are you going to kill her? Huh? Huh?[%p]"
 
 msgid "4500:コンテナハウスの方へと目をやった。[%p]"
 msgstr "4500:I looked over toward the shipping container.[%p]"
 
-msgid "4600:[name]梢[line]「も〜しもね？　殺すって言うんなら〜」[%p]"
+msgid "4600:[name]梢[line]「も〜しもね？\u3000殺すって言うんなら〜」[%p]"
 msgstr "4600:[name]梢[line]If you are... If you really are going to kill her...[%p]"
 
 msgid "4700:その剣が身に纏うのは。[%p]"
@@ -159,7 +159,7 @@ msgstr "4800:an overwhelming menace, an innocent ferocity, and a destructive ele
 msgid "4900:あれが、折原さんのディソード……。[%p]"
 msgstr "4900:So that was Orihara's Di-Sword.[%p]"
 
-msgid "5000:[name]梢[line]「咲畑しゃんのこと、悪い人リストー！　に、入れちゃうのら」[%p]"
+msgid "5000:[name]梢[line]「咲畑しゃんのこと、悪い人リストー！\u3000に、入れちゃうのら」[%p]"
 msgstr "5000:[name]梢[line]You're going on my bad person list![%p]"
 
 msgid "5100:[name]梢[line]「リストにね、入った人は、人は〜」[%p]"
@@ -180,7 +180,7 @@ msgstr "5500:[name]拓巳[line]K-Kill them![%p]"
 msgid "5600:いきなり、タクが悲鳴に似た声を上げた。[%p]"
 msgstr "5600:Taku screamed.[%p]"
 
-msgid "5700:[name]拓巳[line]「セ、セナも、こずぴぃも、て、て、敵なんだっ！　敵だったんだっ！　だ、だから、梨深、こ、こ、殺しちゃえよっ！」[%p]"
+msgid "5700:[name]拓巳[line]「セ、セナも、こずぴぃも、て、て、敵なんだっ！\u3000敵だったんだっ！\u3000だ、だから、梨深、こ、こ、殺しちゃえよっ！」[%p]"
 msgstr "5700:[name]拓巳[line]S-Sena and Kozupii are both my enemies! They were my enemies the whole time! S-So kill them![%p]"
 
 msgid "5800:[name]拓巳[line]「ぼ、ぼぼ、僕は、し、死にたくないっ！」[%p]"
@@ -225,7 +225,7 @@ msgstr "7000:She followed up immediately with a horizontal slash. I tried to def
 msgid "7100:でも失敗。[linebreak]衝撃をまともに受け。[linebreak]腕がしびれる。[%p]"
 msgstr "7100:but I failed. My sword took the full impact of the blow. My arms went numb.[%p]"
 
-msgid "7200:[name]梢[line]「あはっ♪　死ね死ねーっ！」[%p]"
+msgid "7200:[name]梢[line]「あはっ♪\u3000死ね死ねーっ！」[%p]"
 msgstr "7200:[name]梢[line]Haha! ♪ Die! Die![%p]"
 
 msgid "7300:圧倒的な突進力。[linebreak]こっちが反撃する隙を与えてくれない。[%p]"
@@ -429,7 +429,7 @@ msgstr "13800:Kill Kozue Orihara.[%p]"
 msgid "13900:タクを守ることができるなら、他の人間なんてどうでもいいんだ――[%p]"
 msgstr "13900:As long as Taku was safe, nobody else's life mattered.[%p]"
 
-msgid "14000:違う！　どうでもよくなんて――[%p]"
+msgid "14000:違う！\u3000どうでもよくなんて――[%p]"
 msgstr "14000:No... That wasn't true—[%p]"
 
 msgid "14100:殺せ――[%p]"
@@ -480,7 +480,7 @@ msgstr "15500:[name]梨深[line]I...[%p]"
 msgid "15600:意志に、反している。[linebreak]殺すつもりなんて、ないのに。[%p]"
 msgstr "15600:This wasn't what I wanted to do. I didn't mean to kill her.[%p]"
 
-msgid "15700:それともこれがあたしの意志？　あたしの本心？[%p]"
+msgid "15700:それともこれがあたしの意志？\u3000あたしの本心？[%p]"
 msgstr "15700:Or did I? Was that what I really wanted to do?[%p]"
 
 msgid "15800:折原さんが、きょとんとした顔で振り返る。[%p]"

@@ -177,7 +177,7 @@ msgstr "5400:That terrible scene came flooding back to me. And...[%p]"
 msgid "5500:僕は、犯人の顔を見ているんだ。[%p]"
 msgstr "5500:I'd seen the killer's face.[%p]"
 
-msgid "5600:[name]優愛[line]「こ、これですか？　ゲロカエルんって言うんです。何人かの友達にもらっちゃって……気が付いたら３つになってまして……」[%p]"
+msgid "5600:[name]優愛[line]「こ、これですか？\u3000ゲロカエルんって言うんです。何人かの友達にもらっちゃって……気が付いたら３つになってまして……」[%p]"
 msgstr "5600:[name]優愛[line]T-This? This is called Gero Froggy. A few of my friends gave me these... the next thing I knew, I had three of them.[%p]"
 
 msgid "5700:優愛は少し引きつった笑みを見せた。[linebreak]カバンに手を伸ばし、くくりつけられたゲロカエルんを外そうとする。[%p]"
@@ -435,7 +435,7 @@ msgstr "14000:It was all lies.[%p]"
 msgid "14100:悔しくて、悲しくて、僕はきつく拳を握りしめた。[%p]"
 msgstr "14100:I clenched my fists in rage and anger.[%p]"
 
-msgid "14200:くそぅ！　くそぅ！　くそぅ！[%p]"
+msgid "14200:くそぅ！\u3000くそぅ！\u3000くそぅ！[%p]"
 msgstr "14200:Damn it! Damn it! Damn it![%p]"
 
 msgid "14300:どうして僕は、こんな女の言うことを信じようとしたんだ……！[%p]"
@@ -798,7 +798,7 @@ msgstr "26100:[name]優愛[line]The timestamps don't match at all.[%p]"
 msgid "26200:[name]拓巳[line]「あ……！」[%p]"
 msgstr "26200:[name]拓巳[line]Huh![%p]"
 
-msgid "26300:え？　なんだこれ？[linebreak]なんで、こんなことに……？[%p]"
+msgid "26300:え？\u3000なんだこれ？[linebreak]なんで、こんなことに……？[%p]"
 msgstr "26300:Huh? What was this? What was going on?[%p]"
 
 msgid "26400:[name]優愛[line]「そこにある『ナイトハルト』は西條くん。発言時間は９月２８日の午前３時台」[%p]"
@@ -822,7 +822,7 @@ msgstr "26900:[name]優愛[line]The Monday of last week was September 29th, the 
 msgid "27000:[name]拓巳[line]「…………な……」[%p]"
 msgstr "27000:[name]拓巳[line]What?[%p]"
 
-msgid "27100:なんだ？　なにを……言ってるんだ……？[%p]"
+msgid "27100:なんだ？\u3000なにを……言ってるんだ……？[%p]"
 msgstr "27100:What? What was she talking about?[%p]"
 
 msgid "27200:[name]優愛[line]「ＲＯＯＭ３７のＰＣのチャットログを調べさせてもらいました」[%p]"

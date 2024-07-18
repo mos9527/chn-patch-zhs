@@ -204,7 +204,7 @@ msgstr "6300:The moment I realized what they were, my legs unfroze and began to 
 msgid "6400:散乱する十字架のひとつを拾い上げてみると、それは金属製で、長く伸びる先端は鋭い針のようになっていた。[%p]"
 msgstr "6400:I picked one of them up. It was metal, and its long tip was sharp, like a needle.[%p]"
 
-msgid "6500:――杭？　それとも釘？[%p]"
+msgid "6500:――杭？\u3000それとも釘？[%p]"
 msgstr "6500:A stake? A nail?[%p]"
 
 msgid "6600:変な形をしているから、十字架と見間違えてしまった。[linebreak]そのまま、手にした杭を浮かされたような気分で握りしめた。[%p]"
@@ -387,7 +387,7 @@ msgstr "12400:Her clothes were different. She was wearing what seemed like some 
 msgid "12500:しかも、全身は血に染まり。[linebreak]手には、十字の杭を持ち。[%p]"
 msgstr "12500:Her whole body was covered in blood, and in her hand, she held cross-shaped stakes.[%p]"
 
-msgid "12600:[name]少女[line]「う、そ……？　これって……」[%p]"
+msgid "12600:[name]少女[line]「う、そ……？\u3000これって……」[%p]"
 msgstr "12600:[name]少女[line]No way... Is this...[%p]"
 
 msgid "12700:[name]少女[line]「妄想が、シンクロを……！？」[%p]"

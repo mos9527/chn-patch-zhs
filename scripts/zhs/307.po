@@ -93,7 +93,7 @@ msgstr "2600:[name]梨深[line]Snap![%p]"
 msgid "2700:いつもの、あのポーズを――[linebreak]してくれたんだ。[%p]"
 msgstr "2700:And then she posed for me... just as she always used to do.[%p]"
 
-msgid "2800:[name]拓巳[line]「梨深……？　梨深なんだね……？」[%p]"
+msgid "2800:[name]拓巳[line]「梨深……？\u3000梨深なんだね……？」[%p]"
 msgstr "2800:[name]拓巳[line]Rimi? It's you, right Rimi?[%p]"
 
 msgid "2900:[name]梨深[line]「うん」[%p]"

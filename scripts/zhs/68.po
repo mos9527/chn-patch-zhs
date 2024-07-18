@@ -18,7 +18,7 @@ msgstr "100:It hurt to breathe. All I was doing was looking up some stuff on the
 msgid "200:“なにか”に見られている気配は相変わらず消えてくれない。[linebreak]まだかろうじて振り返ることに耐えているけど、そろそろ限界だった。[%p]"
 msgstr "200:The sensation that “something” was watching me just wouldn't go away. I was still restraining the urge to turn around, but I wouldn't be able to do it much longer.[%p]"
 
-msgid "300:[name]拓巳[line]「なんなんだよっ、お前は！　コソコソしやがって！」[%p]"
+msgid "300:[name]拓巳[line]「なんなんだよっ、お前は！\u3000コソコソしやがって！」[%p]"
 msgstr "300:[name]拓巳[line]Who the hell are you? Stop sneaking around my damn room![%p]"
 
 msgid "400:その“なにか”に向かって吠えてみる。[linebreak]この“なにか”の正体は、まさかあの悪魔女なんじゃないだろうか？[%p]"
@@ -42,7 +42,7 @@ msgstr "900:[name]拓巳[line]Damn it![%p]"
 msgid "1000:ついにこらえきれなくなり、僕は勢いよく振り返った。[linebreak]そこにあるのはいつもの自分の部屋でしかなく、変わった様子はどこにも見受けられない。[%p]"
 msgstr "1000:Finally, I gave in and turned around, but all I saw was my room. Nothing unusual at all.[%p]"
 
-msgid "1100:[name]拓巳[line]「なんでいないんだよぅ！　誰なんだ！」[%p]"
+msgid "1100:[name]拓巳[line]「なんでいないんだよぅ！\u3000誰なんだ！」[%p]"
 msgstr "1100:[name]拓巳[line]Why aren't you there? Who are you?[%p]"
 
 msgid "1200:悲鳴にも似た叫び声を上げながら立ち上がり、扉まで行って施錠されているかを確かめた。[linebreak]それで少しだけ安心し、シャツの袖で額の汗を拭う。[%p]"
@@ -105,7 +105,7 @@ msgstr "3000:There were a surprising number of hits. About 30, actually. Was it 
 msgid "3100:ゴクリと息を呑みつつ、スレタイをひとつひとつ確認していく。[%p]"
 msgstr "3100:I gulped and looked at the threads one by one.[%p]"
 
-msgid "3200:[name]拓巳[line]「ファンタズム？　ＦＥＳ？」[%p]"
+msgid "3200:[name]拓巳[line]「ファンタズム？\u3000ＦＥＳ？」[%p]"
 msgstr "3200:[name]拓巳[line]Phantasm? FES?[%p]"
 
 msgid "3300:ヒットしたスレのほとんどに、『ファンタズム』そして『ＦＥＳ』という単語があった。[%p]"

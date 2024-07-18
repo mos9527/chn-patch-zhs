@@ -48,7 +48,7 @@ msgstr "1100:I snapped. This store was doing a terrible job of training its empl
 msgid "1200:[name]拓巳[line]「氏ね。当然、タダで持って帰ってもいいよね？」[%p]"
 msgstr "1200:[name]拓巳[line]Screw you. Of course, I can take this for free, right?[%p]"
 
-msgid "1300:[name]コンビニ店員[line]「はぁ？　それとこれとは別じゃないッスか」[%p]"
+msgid "1300:[name]コンビニ店員[line]「はぁ？\u3000それとこれとは別じゃないッスか」[%p]"
 msgstr "1300:[name]コンビニ店員[line]Huh? Of course not![%p]"
 
 msgid "1400:[name]拓巳[line]「あんたの責任なんだから、あんたが代金立て替えろよぅ！」[%p]"
@@ -81,7 +81,7 @@ msgstr "2200:[name]コンビニ店員[line]S-Sorry![%p]"
 msgid "2300:鼻血を流しながら、店員は涙目で土下座する。[%p]"
 msgstr "2300:He got on his knees and bowed to me, his nose bleeding and tears falling from his eyes.[%p]"
 
-msgid "2400:[name]コンビニ店員[line]「お金は結構ッス！　だから帰ってください！」[%p]"
+msgid "2400:[name]コンビニ店員[line]「お金は結構ッス！\u3000だから帰ってください！」[%p]"
 msgstr "2400:[name]コンビニ店員[line]Y-You don't need to pay! So please, just leave![%p]"
 
 msgid "2500:[name]拓巳[line]「分かればいいんだよ」[%p]"
@@ -255,7 +255,7 @@ msgstr "8000:For some reason, my hand... was holding a knife.[%p]"
 msgid "8100:しかも、刃が赤く濡れている。[linebreak]これは……血だ。[%p]"
 msgstr "8100:It was stained red, too. This was... blood.[%p]"
 
-msgid "8200:[name]拓巳[line]「え？　え？」[%p]"
+msgid "8200:[name]拓巳[line]「え？\u3000え？」[%p]"
 msgstr "8200:[name]拓巳[line]Huh? Huh?[%p]"
 
 msgid "8300:混乱する。[linebreak]僕は、いつの間に包丁を持ったんだ。[linebreak]っていうか、この包丁はどこから持ってきたんだ？[%p]"

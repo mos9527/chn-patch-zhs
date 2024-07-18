@@ -213,7 +213,7 @@ msgstr "6600:[name]美愛[line]But you can't be sure.[%p]"
 msgid "6700:[name]優愛[line]「わたしを、わたしだと証明するものって、なに？」[%p]"
 msgstr "6700:[name]優愛[line]What proves that I'm me?[%p]"
 
-msgid "6800:[name]美愛[line]「顔？　名前？　記憶？」[%p]"
+msgid "6800:[name]美愛[line]「顔？\u3000名前？\u3000記憶？」[%p]"
 msgstr "6800:[name]美愛[line]My looks? My memories? My name?[%p]"
 
 msgid "6900:[name]優愛[line]「自分のことなのに……」[%p]"
@@ -342,7 +342,7 @@ msgstr "10900:[name]美愛[line]Now, jump.[%p]"
 msgid "11000:[name]美愛[line]「そうすれば、わたしもあなたも、同じ痛みを共有するわ」[%p]"
 msgstr "11000:[name]美愛[line]And then you and I will share the same pain.[%p]"
 
-msgid "11100:[name]優愛[line]「わたしは、どっちなの？　わたし？　あなた？」[%p]"
+msgid "11100:[name]優愛[line]「わたしは、どっちなの？\u3000わたし？\u3000あなた？」[%p]"
 msgstr "11100:[name]優愛[line]Which am I? Me? You?[%p]"
 
 msgid "11200:[name]美愛[line]「ふふ」[%p]"
@@ -627,10 +627,10 @@ msgstr "20400:In Mia's place appeared a fat man. He was wearing a denim shirt an
 msgid "20500:優愛の見たこともない男だった。[%p]"
 msgstr "20500:It was a man she'd never seen.[%p]"
 
-msgid "20600:[name]優愛[line]「誰……？　あなた、誰……？」[%p]"
+msgid "20600:[name]優愛[line]「誰……？\u3000あなた、誰……？」[%p]"
 msgstr "20600:[name]優愛[line]Who... Who are you？[%p]"
 
-msgid "20700:[name]優愛[line]「どうして、美愛ちゃんの姿に……？　どうやって……」[%p]"
+msgid "20700:[name]優愛[line]「どうして、美愛ちゃんの姿に……？\u3000どうやって……」[%p]"
 msgstr "20700:[name]優愛[line]Why did you look like Mia? How?[%p]"
 
 msgid "20800:優愛は混乱し、ディソードを手にしたまま後ずさる。[linebreak]男の方も、自らの姿が露わになることを想定していなかったらしく、慌てた態度を見せた。[%p]"
