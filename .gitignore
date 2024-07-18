@@ -2,3 +2,4 @@
 .temp
 dist
 Release.zip
+*.mo
