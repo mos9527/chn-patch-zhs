@@ -5,8 +5,9 @@ if len(sys.argv) != 3:
 charset = set()
 for root, dirs, files in os.walk(sys.argv[1]):
     for file in files:        
-        file_path = os.path.join(root, file)
-        for c in open(file_path, 'r', encoding='utf-8').read(): charset.add(c)
+        if file.lower().endswith('.mst') or file.lower().endswith('.po'):
+            file_path = os.path.join(root, file)
+            for c in open(file_path, 'r', encoding='utf-8').read(): charset.add(c)
 charset.remove('\n')
 open(sys.argv[2], 'w', encoding='utf-8').write(''.join(sorted(charset)))
 print('Found %d characters' % len(charset))
