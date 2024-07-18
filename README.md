@@ -41,19 +41,24 @@ cd chn-patch-zhs
 | リアルブート | REAL BOOT | 透过盲点让周围的人认知妄想，把这妄想变成现实 |
 | その目だれの目？ | 那视线是谁的视线 | |
 
-### 文本进度
-[→文件传送门](https://github.com/mos9527/chn-patch-zhs/tree/master/scripts/mes01)
-| 内容 | 进度 | 
-| --- | --- |
-| 系统 | 100% | 
-| 序章 | 100% | 
-后续章节将随个人游玩进度更新；以下简要介绍翻译手段
+### 贡献翻译
+#### 准备工作
+- 你需要 [Poedit](https://poedit.net/) 或其他软件来编辑 `.po` 文件
 
-### CG进度
-[→文件传送门](https://github.com/mos9527/chn-patch-zhs/tree/master/data/c0data)
-| 内容 | 进度 |
-| --- | --- |
-| UI | 100% |
+    [→文件传送门](https://github.com/mos9527/chn-patch-zhs/tree/master/scripts/zhs)
+    
+    这些文件即作品的翻译文本，你可以通过编辑这些文件来参与翻译。
+
+    **注：** 源语言为官方**日语**脚本；未翻译部分为官方**英语**脚本，已翻译部分为中文文本。
+
+- 你需要 [Photoshop](https://www.adobe.com/products/photoshop.html) 或其他软件来编辑 `.psd` 文件
+    
+    [→文件传送门](https://github.com/mos9527/chn-patch-zhs/tree/master/data/c0data)
+
+    这些文件即作品的图片文本；注意现存图片并不一定包含全部待翻译CG。
+
+- 在本地完成你的修改后即可提交更改；参考 [GitHub PR 的提交流程](https://docs.github.com/cn/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
 
 ## 感谢
 - [霞鹜铭心宋(补丁所用默认字体)](https://github.com/lxgw/LxgwHeartSerif)
