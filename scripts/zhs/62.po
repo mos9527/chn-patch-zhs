@@ -102,8 +102,8 @@ msgstr "2900:[name]葉月[line]「それでは、待合室でお待ちくださ�
 msgid "3000:[name]葉月[line]「お薬が出てますから」[%p]"
 msgstr "3000:[name]葉月[line]「お薬が出てますから」[%p]"
 
-msgid "3100:[name]拓巳[line]「え？\u3000く、薬……？」[%p]"
-msgstr "3100:[name]拓巳[line]「え？\u3000く、薬……？」[%p]"
+msgid "3100:[name]拓巳[line]「え？　く、薬……？」[%p]"
+msgstr "3100:[name]拓巳[line]「え？　く、薬……？」[%p]"
 
 msgid "3200:薬が出るの？[linebreak]先生はそんなこと一言も言ってなかったけど……。[%p]"
 msgstr "3200:薬が出るの？[linebreak]先生はそんなこと一言も言ってなかったけど……。[%p]"

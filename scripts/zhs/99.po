@@ -15,8 +15,8 @@ msgstr "0:とりあえず聞いてみることにするか……。[%p]"
 msgid "100:[name]女子Ａ[line]「あ、あのさ、私だけど」[%p]"
 msgstr "100:[name]女子Ａ[line]「あ、あのさ、私だけど」[%p]"
 
-msgid "200:[name]女子Ａ[line]「別に、あんたの声が聞きたいから電話したわけじゃないんだからねっ。なんとなく、暇だったからとかその程度の理由だから！\u3000分かった？」[%p]"
-msgstr "200:[name]女子Ａ[line]「別に、あんたの声が聞きたいから電話したわけじゃないんだからねっ。なんとなく、暇だったからとかその程度の理由だから！\u3000分かった？」[%p]"
+msgid "200:[name]女子Ａ[line]「別に、あんたの声が聞きたいから電話したわけじゃないんだからねっ。なんとなく、暇だったからとかその程度の理由だから！　分かった？」[%p]"
+msgstr "200:[name]女子Ａ[line]「別に、あんたの声が聞きたいから電話したわけじゃないんだからねっ。なんとなく、暇だったからとかその程度の理由だから！　分かった？」[%p]"
 
 msgid "300:[name]女子Ａ[line]「…………」[%p]"
 msgstr "300:[name]女子Ａ[line]「…………」[%p]"
@@ -39,8 +39,8 @@ msgstr "800:[name]女子Ａ[line]「そもそも、私がＯＫする保証は�
 msgid "900:[name]女子Ａ[line]「でもさ、行動しなくちゃなんにも始まらないって思わない？」[%p]"
 msgstr "900:[name]女子Ａ[line]「でもさ、行動しなくちゃなんにも始まらないって思わない？」[%p]"
 
-msgid "1000:[name]女子Ａ[line]「と、とにかく、あんたは試しにコクってみること！\u3000分かった？」[%p]"
-msgstr "1000:[name]女子Ａ[line]「と、とにかく、あんたは試しにコクってみること！\u3000分かった？」[%p]"
+msgid "1000:[name]女子Ａ[line]「と、とにかく、あんたは試しにコクってみること！　分かった？」[%p]"
+msgstr "1000:[name]女子Ａ[line]「と、とにかく、あんたは試しにコクってみること！　分かった？」[%p]"
 
 msgid "1100:[name]女子Ａ[line]「じゃあ、きょ、今日の放課後、で、伝説の樹の下で待ってるからっ」[%p]"
 msgstr "1100:[name]女子Ａ[line]「じゃあ、きょ、今日の放課後、で、伝説の樹の下で待ってるからっ」[%p]"
@@ -183,14 +183,14 @@ msgstr "5600:ちなみにこれは『通りゃんせ』っていう童謡だ。[
 msgid "5700:メロディは知っている人が多くても、歌詞まで知ってる人は少ないだろう。あ、ちなみに僕は知ってるよ。小学生のときに習ったからね。まあ、完璧に覚えてる、ってわけじゃないけど。[%p]"
 msgstr "5700:メロディは知っている人が多くても、歌詞まで知ってる人は少ないだろう。あ、ちなみに僕は知ってるよ。小学生のときに習ったからね。まあ、完璧に覚えてる、ってわけじゃないけど。[%p]"
 
-msgid "5800:[margin top=\"190\"][margin left=\"340\"]通りゃんせ\u3000通りゃんせ[linebreak][margin left=\"340\"]ここはどこの\u3000細道じゃ[linebreak][margin left=\"340\"]天神さまの\u3000細道じゃ[unk19 index=\"0\"]"
-msgstr "5800:[margin top=\"190\"][margin left=\"340\"]通りゃんせ\u3000通りゃんせ[linebreak][margin left=\"340\"]ここはどこの\u3000細道じゃ[linebreak][margin left=\"340\"]天神さまの\u3000細道じゃ[unk19 index=\"0\"]"
+msgid "5800:[margin top=\"190\"][margin left=\"340\"]通りゃんせ　通りゃんせ[linebreak][margin left=\"340\"]ここはどこの　細道じゃ[linebreak][margin left=\"340\"]天神さまの　細道じゃ[unk19 index=\"0\"]"
+msgstr "5800:[margin top=\"190\"][margin left=\"340\"]通りゃんせ　通りゃんせ[linebreak][margin left=\"340\"]ここはどこの　細道じゃ[linebreak][margin left=\"340\"]天神さまの　細道じゃ[unk19 index=\"0\"]"
 
-msgid "5900:[margin top=\"190\"][margin left=\"340\"]ちょっと通して\u3000くだしゃんせ[linebreak][margin left=\"340\"]御用のないもの\u3000通しゃせぬ[linebreak][margin left=\"340\"]この子の七つの\u3000お祝いに[unk19 index=\"0\"]"
-msgstr "5900:[margin top=\"190\"][margin left=\"340\"]ちょっと通して\u3000くだしゃんせ[linebreak][margin left=\"340\"]御用のないもの\u3000通しゃせぬ[linebreak][margin left=\"340\"]この子の七つの\u3000お祝いに[unk19 index=\"0\"]"
+msgid "5900:[margin top=\"190\"][margin left=\"340\"]ちょっと通して　くだしゃんせ[linebreak][margin left=\"340\"]御用のないもの　通しゃせぬ[linebreak][margin left=\"340\"]この子の七つの　お祝いに[unk19 index=\"0\"]"
+msgstr "5900:[margin top=\"190\"][margin left=\"340\"]ちょっと通して　くだしゃんせ[linebreak][margin left=\"340\"]御用のないもの　通しゃせぬ[linebreak][margin left=\"340\"]この子の七つの　お祝いに[unk19 index=\"0\"]"
 
-msgid "6000:[margin top=\"228\"][margin left=\"340\"]お札を納めに\u3000参ります[linebreak][margin left=\"340\"]行きはよいよい\u3000帰りは――[unk19 index=\"0\"]"
-msgstr "6000:[margin top=\"228\"][margin left=\"340\"]お札を納めに\u3000参ります[linebreak][margin left=\"340\"]行きはよいよい\u3000帰りは――[unk19 index=\"0\"]"
+msgid "6000:[margin top=\"228\"][margin left=\"340\"]お札を納めに　参ります[linebreak][margin left=\"340\"]行きはよいよい　帰りは――[unk19 index=\"0\"]"
+msgstr "6000:[margin top=\"228\"][margin left=\"340\"]お札を納めに　参ります[linebreak][margin left=\"340\"]行きはよいよい　帰りは――[unk19 index=\"0\"]"
 
 msgid "6100:[name]拓巳[line]「ちょ！」[%p]"
 msgstr "6100:[name]拓巳[line]「ちょ！」[%p]"

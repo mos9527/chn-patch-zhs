@@ -60,8 +60,8 @@ msgstr "1500:その取っ手を、七海は握りしめている。[linebreak]�
 msgid "1600:彼女の手は、ドアを開いた。[%p]"
 msgstr "1600:彼女の手は、ドアを開いた。[%p]"
 
-msgid "1700:[name]七海[line]「あー！\u3000おにぃ、またご飯食べないつもりー？」[%p]"
-msgstr "1700:[name]七海[line]「あー！\u3000おにぃ、またご飯食べないつもりー？」[%p]"
+msgid "1700:[name]七海[line]「あー！　おにぃ、またご飯食べないつもりー？」[%p]"
+msgstr "1700:[name]七海[line]「あー！　おにぃ、またご飯食べないつもりー？」[%p]"
 
 msgid "1800:[name]七海[line]「ちゃんと食べてって、いっつも言ってるじゃん。[linebreak]でないと元気になんないよ？」[%p]"
 msgstr "1800:[name]七海[line]「ちゃんと食べてって、いっつも言ってるじゃん。[linebreak]でないと元気になんないよ？」[%p]"

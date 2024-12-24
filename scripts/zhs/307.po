@@ -93,8 +93,8 @@ msgstr "2600:[name]梨深[line]「ビシィ」[%p]"
 msgid "2700:いつもの、あのポーズを――[linebreak]してくれたんだ。[%p]"
 msgstr "2700:いつもの、あのポーズを――[linebreak]してくれたんだ。[%p]"
 
-msgid "2800:[name]拓巳[line]「梨深……？\u3000梨深なんだね……？」[%p]"
-msgstr "2800:[name]拓巳[line]「梨深……？\u3000梨深なんだね……？」[%p]"
+msgid "2800:[name]拓巳[line]「梨深……？　梨深なんだね……？」[%p]"
+msgstr "2800:[name]拓巳[line]「梨深……？　梨深なんだね……？」[%p]"
 
 msgid "2900:[name]梨深[line]「うん」[%p]"
 msgstr "2900:[name]梨深[line]「うん」[%p]"
