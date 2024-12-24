@@ -2,30 +2,36 @@ from requests import Session
 from json import loads
 import sys
 
-endpoint = 'http://localhost:11434/api/generate'
+endpoint = 'http://localhost:11434/api/chat'
 model = 'hf.co/SakuraLLM/Sakura-7B-Qwen2.5-v1.0-GGUF'
 system_prompt = '你是一个轻小说翻译模型，可以流畅通顺地以日本轻小说的风格将日文翻译成简体中文，并联系上下文正确使用人称代词，不擅自添加原文中没有的代词。'
 line_prompt = lambda s: f'将下面的文本翻译成中文：{s}'
+max_context = 8
 options = {'temperature': 0.1, 'top_p': 0.3, 'max_tokens': 512,'frequency_penalty':0.1}
-
 session = Session()
 def slen(s):
     return sum(1 if ord(c) < 256 else 2 for c in s)
+messages = list()
 def query(s):
-    resp = session.post(endpoint, json={'model': model, 'system': system_prompt, 'prompt':line_prompt(s),'options':options,'stream':True},stream=True)
+    global messages
+    messages.append({'role':'user', 'content': line_prompt(s)})
+    messages = messages[-max_context:]
+    
+    payload = [{'role':'system', 'content': system_prompt}] + messages    
+    resp = session.post(endpoint, json={'model': model, 'messages':payload,'options':options,'stream':True},stream=True)
     content = ''
     print(s)    
     for line in resp.iter_lines():
         line = loads(line)
-        text = line['response']
+        text = line['message']['content']
         if not line['done']:
             content += text
             print(text,end='',flush=True)
         else:
             print()
             print('-' * max(slen(s),slen(content)))
-            return content
-    return content
+            messages.append({'role':'assistant', 'content': content})
+            return content    
 
 if len(sys.argv) != 3:
     print('Usage: python ollama_translate.py <input file> <output file>')

@@ -13,7 +13,7 @@
             "console": "integratedTerminal",
             "args": [
                 "scripts/zhs/26.po",
-                ".temp/zhs/26.po"
+                "scripts/zhs/26.po"
             ]
         }
     ]
