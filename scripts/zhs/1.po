@@ -10,490 +10,490 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:ゲームを終了し、ダッシュボードへ戻りますか？"
-msgstr "0:"
+msgstr "0:ゲームを終了し、ダッシュボードへ戻りますか？"
 
 msgid "100:はい"
-msgstr "100:Yes"
+msgstr "100:はい"
 
 msgid "200:いいえ"
-msgstr "200:No"
+msgstr "200:いいえ"
 
 msgid "300:システムデータをセーブしています。"
-msgstr "300:Saving system data."
+msgstr "300:システムデータをセーブしています。"
 
 msgid "400:本体の電源を切らないでください。"
-msgstr "400:Please do not turn off the power."
+msgstr "400:本体の電源を切らないでください。"
 
 msgid "500:このコンテンツはインストールが完了するまで"
-msgstr "500:The game cannot be played"
+msgstr "500:このコンテンツはインストールが完了するまで"
 
 msgid "600:開始することができません。"
-msgstr "600:until the install process is complete."
+msgstr "600:開始することができません。"
 
 msgid "700:インストールが完了するまでお待ちください。"
-msgstr "700:Please wait for the install to finish."
+msgstr "700:インストールが完了するまでお待ちください。"
 
 msgid "800:このコンテンツはダウンロードが完了するまで"
-msgstr "800:The game cannot be played"
+msgstr "800:このコンテンツはダウンロードが完了するまで"
 
 msgid "900:開始することができません。"
-msgstr "900:until the download process is complete."
+msgstr "900:開始することができません。"
 
 msgid "1000:ダウンロードが完了するまでお待ちください。"
-msgstr "1000:Please wait for the download to finish."
+msgstr "1000:ダウンロードが完了するまでお待ちください。"
 
 msgid "1100:セーブされていない現在プレイ中のデータは失われます。"
-msgstr "1100:All unsaved game progress will be lost."
+msgstr "1100:セーブされていない現在プレイ中のデータは失われます。"
 
 msgid "1200:タイトルメニューへ戻りますか？"
-msgstr "1200:Return to Title Menu?"
+msgstr "1200:タイトルメニューへ戻りますか？"
 
 msgid "1300:はい"
-msgstr "1300:Yes"
+msgstr "1300:はい"
 
 msgid "1400:いいえ"
-msgstr "1400:No"
+msgstr "1400:いいえ"
 
 msgid "1500:セーブされていない現在プレイ中のデータは失われます。"
-msgstr "1500:All unsaved game progress will be lost."
+msgstr "1500:セーブされていない現在プレイ中のデータは失われます。"
 
 msgid "1600:タイトルメニューへ戻りますか？"
-msgstr "1600:Return to Title Menu?"
+msgstr "1600:タイトルメニューへ戻りますか？"
 
 msgid "1700:はい"
-msgstr "1700:Yes"
+msgstr "1700:はい"
 
 msgid "1800:いいえ"
-msgstr "1800:No"
+msgstr "1800:いいえ"
 
 msgid "1900:タイトルメニューへ戻りますか？"
-msgstr "1900:Return to Title Menu?"
+msgstr "1900:タイトルメニューへ戻りますか？"
 
 msgid "2000:はい"
-msgstr "2000:Yes"
+msgstr "2000:はい"
 
 msgid "2100:いいえ"
-msgstr "2100:No"
+msgstr "2100:いいえ"
 
 msgid "2200:警告劇場を中断しますか？"
-msgstr "2200:Skip “Warning Theater”?"
+msgstr "2200:警告劇場を中断しますか？"
 
 msgid "2300:はい"
-msgstr "2300:Yes"
+msgstr "2300:はい"
 
 msgid "2400:いいえ"
-msgstr "2400:No"
+msgstr "2400:いいえ"
 
 msgid "2500:このページの設定をデフォルトに戻しますか？"
-msgstr "2500:Return all settings on this page to their defaults?"
+msgstr "2500:このページの設定をデフォルトに戻しますか？"
 
 msgid "2600:はい"
-msgstr "2600:Yes"
+msgstr "2600:はい"
 
 msgid "2700:いいえ"
-msgstr "2700:No"
+msgstr "2700:いいえ"
 
 msgid "2800:このページの設定をデフォルトに戻しました。"
-msgstr "2800:All settings on this page have been returned to their defaults."
+msgstr "2800:このページの設定をデフォルトに戻しました。"
 
 msgid "2850:言語を変更しています。"
-msgstr "2850:Changing Language."
+msgstr "2850:言語を変更しています。"
 
 msgid "2900:システムデータをセーブしますか？"
-msgstr "2900:Save system data?"
+msgstr "2900:システムデータをセーブしますか？"
 
 msgid "3000:はい"
-msgstr "3000:Yes"
+msgstr "3000:はい"
 
 msgid "3100:いいえ"
-msgstr "3100:No"
+msgstr "3100:いいえ"
 
 msgid "3200:システムデータをチェックしています。"
-msgstr "3200:Checking system data."
+msgstr "3200:システムデータをチェックしています。"
 
 msgid "3300:システムデータが既に存在します。"
-msgstr "3300:System data already exists."
+msgstr "3300:システムデータが既に存在します。"
 
 msgid "3400:上書きしますか？"
-msgstr "3400:Overwite?"
+msgstr "3400:上書きしますか？"
 
 msgid "3500:はい"
-msgstr "3500:Yes"
+msgstr "3500:はい"
 
 msgid "3600:いいえ"
-msgstr "3600:No"
+msgstr "3600:いいえ"
 
 msgid "3700:システムデータをセーブしています。"
-msgstr "3700:Saving system data."
+msgstr "3700:システムデータをセーブしています。"
 
 msgid "3800:本体の電源を切らないでください。"
-msgstr "3800:Please do not turn off the power."
+msgstr "3800:本体の電源を切らないでください。"
 
 msgid "3900:システムデータの保存に失敗しました。"
-msgstr "3900:Failed to save system data."
+msgstr "3900:システムデータの保存に失敗しました。"
 
 msgid "4000:もう一度保存しますか？"
-msgstr "4000:Try again?"
+msgstr "4000:もう一度保存しますか？"
 
 msgid "4100:はい"
-msgstr "4100:Yes"
+msgstr "4100:はい"
 
 msgid "4200:いいえ"
-msgstr "4200:No"
+msgstr "4200:いいえ"
 
 msgid "4300:システムデータが破損しています。"
-msgstr "4300:System data is corrupted."
+msgstr "4300:システムデータが破損しています。"
 
 msgid "4400:上書きすると破損したデータは消滅します。"
-msgstr "4400:Overwriting it will erase the damaged data."
+msgstr "4400:上書きすると破損したデータは消滅します。"
 
 msgid "4500:この破損したデータに上書きしますか？"
-msgstr "4500:Overwrite damaged data?"
+msgstr "4500:この破損したデータに上書きしますか？"
 
 msgid "4600:上書きする"
-msgstr "4600:Overwrite"
+msgstr "4600:上書きする"
 
 msgid "4700:キャンセル"
-msgstr "4700:Cancel"
+msgstr "4700:キャンセル"
 
 msgid "4800:このデータを読み込みますか？"
-msgstr "4800:Load this data?"
+msgstr "4800:このデータを読み込みますか？"
 
 msgid "4900:ロードする"
-msgstr "4900:Load"
+msgstr "4900:ロードする"
 
 msgid "5000:ロードしない"
-msgstr "5000:Don’t Load"
+msgstr "5000:ロードしない"
 
 msgid "5100:このセーブファイルはインストールが完了するまで"
-msgstr "5100:This save file cannot be loaded"
+msgstr "5100:このセーブファイルはインストールが完了するまで"
 
 msgid "5200:開始することができません。"
-msgstr "5200:until installation is complete."
+msgstr "5200:開始することができません。"
 
 msgid "5300:インストールが完了するまでお待ちください。"
-msgstr "5300:Please wait for the install to finish."
+msgstr "5300:インストールが完了するまでお待ちください。"
 
 msgid "5400:このセーブデータはダウンロードが完了するまで"
-msgstr "5400:This save data cannot be loaded until"
+msgstr "5400:このセーブデータはダウンロードが完了するまで"
 
 msgid "5500:開始することができません。"
-msgstr "5500:until download is complete."
+msgstr "5500:開始することができません。"
 
 msgid "5600:ダウンロードが完了するまでお待ちください。"
-msgstr "5600:Please wait for the download to finish."
+msgstr "5600:ダウンロードが完了するまでお待ちください。"
 
 msgid "5700:このデータを読み込みますか？"
-msgstr "5700:Load this data?"
+msgstr "5700:このデータを読み込みますか？"
 
 msgid "5800:現在プレイ中のデータは失われます。"
-msgstr "5800:All unsaved game progress will be lost."
+msgstr "5800:現在プレイ中のデータは失われます。"
 
 msgid "5900:ロードする"
-msgstr "5900:Load"
+msgstr "5900:ロードする"
 
 msgid "6000:ロードしない"
-msgstr "6000:Don’t Load"
+msgstr "6000:ロードしない"
 
 msgid "6100:すべてのセーブファイルがロックされています。"
-msgstr "6100:All save data files are locked."
+msgstr "6100:すべてのセーブファイルがロックされています。"
 
 msgid "6200:すべてのセーブファイルをロックすると、"
-msgstr "6200:If you lock all save data files,"
+msgstr "6200:すべてのセーブファイルをロックすると、"
 
 msgid "6201:クイックセーブができなくなります。"
-msgstr "6201:you will not be able to quicksave."
+msgstr "6201:クイックセーブができなくなります。"
 
 msgid "6300:クイックセーブ機能を利用したい場合は、"
-msgstr "6300:If you want to use the quicksave function,"
+msgstr "6300:クイックセーブ機能を利用したい場合は、"
 
 msgid "6400:不要なセーブファイルのロックを解除してください。"
-msgstr "6400:please unlock unused save data files."
+msgstr "6400:不要なセーブファイルのロックを解除してください。"
 
 msgid "6500:すべてのセーブファイルがロックされています。"
-msgstr "6500:All save data files are locked."
+msgstr "6500:すべてのセーブファイルがロックされています。"
 
 msgid "6600:すべてのセーブファイルをロックすると、"
-msgstr "6600:If you lock all save data files,"
+msgstr "6600:すべてのセーブファイルをロックすると、"
 
 msgid "6601:クイックセーブができなくなります。"
-msgstr "6601:you will not be able to quicksave."
+msgstr "6601:クイックセーブができなくなります。"
 
 msgid "6700:クイックセーブ機能を利用したい場合は、"
-msgstr "6700:If you want to use the quicksave function,"
+msgstr "6700:クイックセーブ機能を利用したい場合は、"
 
 msgid "6800:不要なセーブファイルのロックを解除してください。"
-msgstr "6800:please unlock unused save data files."
+msgstr "6800:不要なセーブファイルのロックを解除してください。"
 
 msgid "6900:すでにセーブファイルが存在します。"
-msgstr "6900:Save data already exists."
+msgstr "6900:すでにセーブファイルが存在します。"
 
 msgid "7000:上書きすると以前のセーブファイルは消滅します。"
-msgstr "7000:Overwriting it will erase your previous save data."
+msgstr "7000:上書きすると以前のセーブファイルは消滅します。"
 
 msgid "7100:このセーブファイルに上書きしますか？"
-msgstr "7100:Overwite this save file?"
+msgstr "7100:このセーブファイルに上書きしますか？"
 
 msgid "7200:上書きする"
-msgstr "7200:Overwrite"
+msgstr "7200:上書きする"
 
 msgid "7300:キャンセル"
-msgstr "7300:Cancel"
+msgstr "7300:キャンセル"
 
 msgid "7400:このセーブファイルはロックされています。"
-msgstr "7400:This save data is locked."
+msgstr "7400:このセーブファイルはロックされています。"
 
 msgid "7500:上書きする場合は、ロックを解除してください。"
-msgstr "7500:If you wish to overwrite it, please unlock it."
+msgstr "7500:上書きする場合は、ロックを解除してください。"
 
 msgid "7600:破損したセーブファイルが存在します。"
-msgstr "7600:A save file is damaged."
+msgstr "7600:破損したセーブファイルが存在します。"
 
 msgid "7700:上書きすると以前のセーブファイルは消滅します。"
-msgstr "7700:Overwriting it will erase your previous save data."
+msgstr "7700:上書きすると以前のセーブファイルは消滅します。"
 
 msgid "7800:この破損したセーブファイルに上書きしますか？"
-msgstr "7800:Overwite this save file?"
+msgstr "7800:この破損したセーブファイルに上書きしますか？"
 
 msgid "7900:上書きする"
-msgstr "7900:Overwrite"
+msgstr "7900:上書きする"
 
 msgid "8000:キャンセル"
-msgstr "8000:Cancel"
+msgstr "8000:キャンセル"
 
 msgid "8100:保存しています。本体の電源を切らないでください。"
-msgstr "8100:Saving. Please do not turn off the power."
+msgstr "8100:保存しています。本体の電源を切らないでください。"
 
 msgid "8200:プレイデータの保存に失敗しました。"
-msgstr "8200:Failed to save play data."
+msgstr "8200:プレイデータの保存に失敗しました。"
 
 msgid "8300:もう一度保存しますか？"
-msgstr "8300:Try again?"
+msgstr "8300:もう一度保存しますか？"
 
 msgid "8400:はい"
-msgstr "8400:Yes"
+msgstr "8400:はい"
 
 msgid "8500:いいえ"
-msgstr "8500:No"
+msgstr "8500:いいえ"
 
 msgid "8600:保存しています。本体の電源を切らないでください。"
-msgstr "8600:Saving. Please do not turn off the power."
+msgstr "8600:保存しています。本体の電源を切らないでください。"
 
 msgid "8700:システムデータをセーブしますか？"
-msgstr "8700:Save system data?"
+msgstr "8700:システムデータをセーブしますか？"
 
 msgid "8800:はい"
-msgstr "8800:Yes"
+msgstr "8800:はい"
 
 msgid "8900:いいえ"
-msgstr "8900:No"
+msgstr "8900:いいえ"
 
 msgid "9000:システムデータをチェックしています。"
-msgstr "9000:Checking system data."
+msgstr "9000:システムデータをチェックしています。"
 
 msgid "9100:システムデータが既に存在します。"
-msgstr "9100:System data already exists."
+msgstr "9100:システムデータが既に存在します。"
 
 msgid "9200:上書きしますか？"
-msgstr "9200:Overwite?"
+msgstr "9200:上書きしますか？"
 
 msgid "9300:はい"
-msgstr "9300:Yes"
+msgstr "9300:はい"
 
 msgid "9400:いいえ"
-msgstr "9400:No"
+msgstr "9400:いいえ"
 
 msgid "9500:システムデータをセーブしています。"
-msgstr "9500:Saving system data."
+msgstr "9500:システムデータをセーブしています。"
 
 msgid "9600:本体の電源を切らないでください。"
-msgstr "9600:Please do not turn off the power."
+msgstr "9600:本体の電源を切らないでください。"
 
 msgid "9700:システムデータの保存に失敗しました。"
-msgstr "9700:Failed to save system data."
+msgstr "9700:システムデータの保存に失敗しました。"
 
 msgid "9800:もう一度保存しますか？"
-msgstr "9800:Try again?"
+msgstr "9800:もう一度保存しますか？"
 
 msgid "9900:はい"
-msgstr "9900:Yes"
+msgstr "9900:はい"
 
 msgid "10000:いいえ"
-msgstr "10000:No"
+msgstr "10000:いいえ"
 
 msgid "10100:システムデータが破損しています。"
-msgstr "10100:System data is corrupted."
+msgstr "10100:システムデータが破損しています。"
 
 msgid "10200:上書きすると破損したデータは消滅します。"
-msgstr "10200:Overwriting it will erase the damaged data."
+msgstr "10200:上書きすると破損したデータは消滅します。"
 
 msgid "10300:この破損したデータに上書きしますか？"
-msgstr "10300:Overwrite damaged data?"
+msgstr "10300:この破損したデータに上書きしますか？"
 
 msgid "10400:上書きする"
-msgstr "10400:Overwrite"
+msgstr "10400:上書きする"
 
 msgid "10500:キャンセル"
-msgstr "10500:Cancel"
+msgstr "10500:キャンセル"
 
 msgid "10600:トロフィーをチェックしています。"
-msgstr "10600:Checking trophies."
+msgstr "10600:トロフィーをチェックしています。"
 
 msgid "10700:本体の電源を切らないでください。"
-msgstr "10700:Please do not turn off the power."
+msgstr "10700:本体の電源を切らないでください。"
 
 msgid "10800:メモリーカードの空き容量が不足しています。"
-msgstr "10800:Insufficient space on memory card."
+msgstr "10800:メモリーカードの空き容量が不足しています。"
 
 msgid "10900:トロフィーデータ及びシステムデータを作成する"
-msgstr "10900:At least ~~ MB are needed to create"
+msgstr "10900:トロフィーデータ及びシステムデータを作成する"
 
 msgid "11000:ためには、空き容量が１１ＭＢ以上必要です。"
-msgstr "11000:trophy and system data."
+msgstr "11000:ためには、空き容量が１１ＭＢ以上必要です。"
 
 msgid "11100:ゲームを終了して必要な空き容量を確保してく"
-msgstr "11100:Please close the game"
+msgstr "11100:ゲームを終了して必要な空き容量を確保してく"
 
 msgid "11200:ださい。"
-msgstr "11200:and free up sufficient space."
+msgstr "11200:ださい。"
 
 msgid "11300:トロフィーデータの読み込みに失敗しました。"
-msgstr "11300:Failed to load trophy data."
+msgstr "11300:トロフィーデータの読み込みに失敗しました。"
 
 msgid "11400:ゲームを終了して、やりなおして下さい。"
-msgstr "11400:Please close the game and try again."
+msgstr "11400:ゲームを終了して、やりなおして下さい。"
 
 msgid "11500:システムデータをチェックしています。"
-msgstr "11500:Checking system data."
+msgstr "11500:システムデータをチェックしています。"
 
 msgid "11600:体験版のセーブデータがある場合、続きから"
-msgstr "11600:If you have save data from the demo,"
+msgstr "11600:体験版のセーブデータがある場合、続きから"
 
 msgid "11601:プレイすることが出来ます。"
-msgstr "11601: you can use it in the full game."
+msgstr "11601:プレイすることが出来ます。"
 
 msgid "11700:システムデータを作成してからは体験版のセーブデータを"
-msgstr "11700:Once you create a system data file,"
+msgstr "11700:システムデータを作成してからは体験版のセーブデータを"
 
 msgid "11800:引き継げませんのでご注意ください。"
-msgstr "11800:however, this will no longer be possible."
+msgstr "11800:引き継げませんのでご注意ください。"
 
 msgid "11900:『いいえ』を選択すると体験版のデータは"
-msgstr "11900:If you say “No,”"
+msgstr "11900:『いいえ』を選択すると体験版のデータは"
 
 msgid "11901:引き継ぎません。"
-msgstr "11901:you will not load your demo save data."
+msgstr "11901:引き継ぎません。"
 
 msgid "12000:体験版のデータを引き継ぎますか？"
-msgstr "12000:Load your demo save data?"
+msgstr "12000:体験版のデータを引き継ぎますか？"
 
 msgid "12100:はい"
-msgstr "12100:Yes"
+msgstr "12100:はい"
 
 msgid "12200:いいえ"
-msgstr "12200:No"
+msgstr "12200:いいえ"
 
 msgid "12300:体験版のセーブデータをチェックしています。"
-msgstr "12300:Checking demo save data."
+msgstr "12300:体験版のセーブデータをチェックしています。"
 
 msgid "12400:体験版のセーブデータが見つかりません。"
-msgstr "12400:Demo save data not found."
+msgstr "12400:体験版のセーブデータが見つかりません。"
 
 msgid "12500:体験版のシステムデータが破損しています。"
-msgstr "12500:Demo system data is corrupted."
+msgstr "12500:体験版のシステムデータが破損しています。"
 
 msgid "12600:セーブデータの引き継ぎは行えません。"
-msgstr "12600:Save data cannot be used."
+msgstr "12600:セーブデータの引き継ぎは行えません。"
 
 msgid "12700:体験版のセーブデータが見つかりました。"
-msgstr "12700:Demo save data found."
+msgstr "12700:体験版のセーブデータが見つかりました。"
 
 msgid "12800:セーブデータを引き継げます。"
-msgstr "12800:You can import this data into the full game."
+msgstr "12800:セーブデータを引き継げます。"
 
 msgid "12900:体験版のデータを引き継ぎますか？"
-msgstr "12900:Load your demo save data?"
+msgstr "12900:体験版のデータを引き継ぎますか？"
 
 msgid "13000:はい"
-msgstr "13000:Yes"
+msgstr "13000:はい"
 
 msgid "13100:いいえ"
-msgstr "13100:No"
+msgstr "13100:いいえ"
 
 msgid "13200:体験版のセーブデータの引き継ぎを行っています。"
-msgstr "13200:Loading demo save data."
+msgstr "13200:体験版のセーブデータの引き継ぎを行っています。"
 
 msgid "13300:セーブデータの引き継ぎに失敗しました。"
-msgstr "13300:Failed to import save data."
+msgstr "13300:セーブデータの引き継ぎに失敗しました。"
 
 msgid "13400:セーブデータの引き継ぎが完了しました。"
-msgstr "13400:Successfully imported save data."
+msgstr "13400:セーブデータの引き継ぎが完了しました。"
 
 msgid "13500:システムデータをロードしています。"
-msgstr "13500:Loading system data."
+msgstr "13500:システムデータをロードしています。"
 
 msgid "13600:システムデータが見つかりませんでした。"
-msgstr "13600:System data not found."
+msgstr "13600:システムデータが見つかりませんでした。"
 
 msgid "13700:システムデータを作成します。"
-msgstr "13700:System data will now be created."
+msgstr "13700:システムデータを作成します。"
 
 msgid "13800:システムデータを作成しています。"
-msgstr "13800:Creating system data."
+msgstr "13800:システムデータを作成しています。"
 
 msgid "13900:本体の電源を切らないでください。"
-msgstr "13900:Please do not turn off the power."
+msgstr "13900:本体の電源を切らないでください。"
 
 msgid "14000:システムデータが破損しています。"
-msgstr "14000:System data is corrupted."
+msgstr "14000:システムデータが破損しています。"
 
 msgid "14100:システムデータを修復します。"
-msgstr "14100:Repairing system data."
+msgstr "14100:システムデータを修復します。"
 
 msgid "14200:システムデータを修復しています。"
-msgstr "14200:Repairing system data."
+msgstr "14200:システムデータを修復しています。"
 
 msgid "14300:本体の電源を切らないでください。"
-msgstr "14300:Please do not turn off the power."
+msgstr "14300:本体の電源を切らないでください。"
 
 msgid "14400:このシステムデータは別のユーザーのものです。"
-msgstr "14400:This system data belongs to another users."
+msgstr "14400:このシステムデータは別のユーザーのものです。"
 
 msgid "14500:トロフィーを獲得することはできません。"
-msgstr "14500:You will not be able to acquire any trophies with it."
+msgstr "14500:トロフィーを獲得することはできません。"
 
 msgid "14501:"
 msgstr "14501:"
 
 msgid "14502:システムデータを読み込んでいます。"
-msgstr "14502:Loading system data."
+msgstr "14502:システムデータを読み込んでいます。"
 
 msgid "14600:システムデータが破損しています。"
-msgstr "14600:System data is corrupted."
+msgstr "14600:システムデータが破損しています。"
 
 msgid "14700:次回システムデータ保存時に上書きされます。"
-msgstr "14700:It will be overwritten the next time your system data is saved."
+msgstr "14700:次回システムデータ保存時に上書きされます。"
 
 msgid "14701:（以前のセーブファイルは消滅します。）"
-msgstr "14701:(Your previous save file will be lost.)"
+msgstr "14701:（以前のセーブファイルは消滅します。）"
 
 msgid "14800:システムデータのロードに失敗しました。"
-msgstr "14800:Failed to load system data."
+msgstr "14800:システムデータのロードに失敗しました。"
 
 msgid "14900:このアプリケーションを一時停止し、やりなおして下さい。"
-msgstr "14900:Please exit the game and retry."
+msgstr "14900:このアプリケーションを一時停止し、やりなおして下さい。"
 
 msgid "15000:システムデータの作成に失敗しました。"
-msgstr "15000:Failed to create system data."
+msgstr "15000:システムデータの作成に失敗しました。"
 
 msgid "15100:このアプリケーションを一時停止し、やりなおして下さい。"
-msgstr "15100:Please exit the game and retry."
+msgstr "15100:このアプリケーションを一時停止し、やりなおして下さい。"
 
 msgid "15200:Please select your language."
 msgstr "15200:Please select your language."
 
 msgid "15300:言語を設定してください。"
-msgstr "15300:"
+msgstr "15300:言語を設定してください。"
 
 msgid "15400:English"
 msgstr "15400:English"
@@ -502,65 +502,65 @@ msgid "15500:Japanese"
 msgstr "15500:Japanese"
 
 msgid "20000:このセーブファイルを再開する権利がありません。"
-msgstr "20000:You do not have the rights needed to open this save file."
+msgstr "20000:このセーブファイルを再開する権利がありません。"
 
 msgid "20001:コンテンツのダウンロードが完了するまでお待ちください。"
-msgstr "20001:Please wait for the content to finish downloading."
+msgstr "20001:コンテンツのダウンロードが完了するまでお待ちください。"
 
 msgid "21200:ゲームを終了しますか？"
-msgstr "21200:Close the game?"
+msgstr "21200:ゲームを終了しますか？"
 
 msgid "21300:保存していないデータはすべて破棄されます。"
-msgstr "21300:All unsaved game progress will be lost."
+msgstr "21300:保存していないデータはすべて破棄されます。"
 
 msgid "21400:はい"
-msgstr "21400:Yes"
+msgstr "21400:はい"
 
 msgid "21500:いいえ"
-msgstr "21500:No"
+msgstr "21500:いいえ"
 
 msgid "30000:[color index="A01B0000"]フラグ・ワークエディタ"
-msgstr "30000:"
+msgstr "30000:[color index="A01B0000"]フラグ・ワークエディタ"
 
 msgid "30001:[color index="A01B0000"]スクリプトデバッグ"
-msgstr "30001:"
+msgstr "30001:[color index="A01B0000"]スクリプトデバッグ"
 
 msgid "30002:[color index="A01B0000"]ヒント表示"
-msgstr "30002:"
+msgstr "30002:[color index="A01B0000"]ヒント表示"
 
 msgid "30003:[color index="A01B0000"]Ｔｉｐｓ開放"
-msgstr "30003:"
+msgstr "30003:[color index="A01B0000"]Ｔｉｐｓ開放"
 
 msgid "30004:[color index="A01B0000"]クリアフラグ開放"
-msgstr "30004:"
+msgstr "30004:[color index="A01B0000"]クリアフラグ開放"
 
 msgid "30005:[color index="A01B0000"]ＣＧコンプリート"
-msgstr "30005:"
+msgstr "30005:[color index="A01B0000"]ＣＧコンプリート"
 
 msgid "30006:[color index="A01B0000"]ＣＧランダムオープン"
-msgstr "30006:"
+msgstr "30006:[color index="A01B0000"]ＣＧランダムオープン"
 
 msgid "30007:[color index="A01B0000"]既読全開放"
-msgstr "30007:"
+msgstr "30007:[color index="A01B0000"]既読全開放"
 
 msgid "30008:[color index="A01B0000"]ムービー全開放"
-msgstr "30008:"
+msgstr "30008:[color index="A01B0000"]ムービー全開放"
 
 msgid "30009:[color index="A01B0000"]メール全開放"
-msgstr "30009:"
+msgstr "30009:[color index="A01B0000"]メール全開放"
 
 msgid "30010:[color index="A01B0000"]メールツリー全開放"
-msgstr "30010:"
+msgstr "30010:[color index="A01B0000"]メールツリー全開放"
 
 msgid "30011:[color index="A01B0000"]ＭＵＳＩＣ全開放"
-msgstr "30011:"
+msgstr "30011:[color index="A01B0000"]ＭＵＳＩＣ全開放"
 
 msgid "30012:[color index="A01B0000"]実績初期化 for Steam"
-msgstr "30012:"
+msgstr "30012:[color index="A01B0000"]実績初期化 for Steam"
 
 msgid "30013:[color index="A0160000"]戻る"
-msgstr "30013:"
+msgstr "30013:[color index="A0160000"]戻る"
 
 msgid "30014:[color index="850000"]終了"
-msgstr "30014:"
+msgstr "30014:[color index="850000"]終了"
 

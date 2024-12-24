@@ -10,374 +10,374 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]拓巳[line]「七海っ！」[%p]"
-msgstr "0:[name]拓巳[line]Nanami![%p]"
+msgstr "0:[name]拓巳[line]「七海っ！」[%p]"
 
 msgid "100:３１階。広いフロアに扉はひとつしかなかった。[linebreak]飛び込むようにして扉を開けると、さっき映像で見た部屋。[%p]"
-msgstr "100:The thirty-first floor was large, yet had only one door. I flung it open and saw that it was the room I'd just seen in my mind.[%p]"
+msgstr "100:３１階。広いフロアに扉はひとつしかなかった。[linebreak]飛び込むようにして扉を開けると、さっき映像で見た部屋。[%p]"
 
 msgid "200:天井からいくつかのモニタがつり下げられ、白い背景の上に『ＮＯＺＯＭＩ』の文字が浮かび上がっている。[%p]"
-msgstr "200:There were monitors hanging from the ceiling, all of which had the word “NOZOMI” against a white background.[%p]"
+msgstr "200:天井からいくつかのモニタがつり下げられ、白い背景の上に『ＮＯＺＯＭＩ』の文字が浮かび上がっている。[%p]"
 
 msgid "300:七海の姿を探す。[linebreak]薄暗くてよく分からない。[linebreak]でも――[%p]"
-msgstr "300:I looked around for Nanami. It was too dark to tell if she was here or not. But...[%p]"
+msgstr "300:七海の姿を探す。[linebreak]薄暗くてよく分からない。[linebreak]でも――[%p]"
 
 msgid "400:[name]拓巳[line]「七海……？」[%p]"
-msgstr "400:[name]拓巳[line]Nanami?[%p]"
+msgstr "400:[name]拓巳[line]「七海……？」[%p]"
 
 msgid "500:気配は、存在しない。[%p]"
-msgstr "500:It didn't feel like there was anyone here.[%p]"
+msgstr "500:気配は、存在しない。[%p]"
 
 msgid "600:動くものも。[linebreak]息遣いも。[linebreak]なにもない。[%p]"
-msgstr "600:Nothing moved. Nothing breathed. There was nothing here.[%p]"
+msgstr "600:動くものも。[linebreak]息遣いも。[linebreak]なにもない。[%p]"
 
 msgid "700:[name]セナ[line]「西條っ」[%p]"
-msgstr "700:[name]セナ[line]Nishijo.[%p]"
+msgstr "700:[name]セナ[line]「西條っ」[%p]"
 
 msgid "800:セナが僕を追って部屋に入ってきた。[linebreak]僕の手をつかんでくる。[%p]"
-msgstr "800:Sena followed me into the room. She grabbed my hand.[%p]"
+msgstr "800:セナが僕を追って部屋に入ってきた。[linebreak]僕の手をつかんでくる。[%p]"
 
 msgid "900:[name]セナ[line]「今すぐ出るぞ。これは罠だ」[%p]"
-msgstr "900:[name]セナ[line]We're leaving now. This is a trap.[%p]"
+msgstr "900:[name]セナ[line]「今すぐ出るぞ。これは罠だ」[%p]"
 
 msgid "1000:[name]拓巳[line]「だって、七海が――」[%p]"
-msgstr "1000:[name]拓巳[line]But Nanami...[%p]"
+msgstr "1000:[name]拓巳[line]「だって、七海が――」[%p]"
 
 msgid "1100:[name]セナ[line]「聞こえないのか、この音が！」[%p]"
-msgstr "1100:[name]セナ[line]Can't you hear the sound?[%p]"
+msgstr "1100:[name]セナ[line]「聞こえないのか、この音が！」[%p]"
 
 msgid "1200:いきなり、開きっぱなしにしておいた扉が、独りでに勢いよく閉じた。部屋の暗さがさらに増す。[%p]"
-msgstr "1200:Suddenly, the open door slammed shut on its own. The room got darker.[%p]"
+msgstr "1200:いきなり、開きっぱなしにしておいた扉が、独りでに勢いよく閉じた。部屋の暗さがさらに増す。[%p]"
 
 msgid "1300:[name]セナ[line]「しまった……！」[%p]"
-msgstr "1300:[name]セナ[line]Damn it![%p]"
+msgstr "1300:[name]セナ[line]「しまった……！」[%p]"
 
 msgid "1400:セナが扉に駆け寄って取っ手を押したり引いたりしてみるけど、びくともしない。[%p]"
-msgstr "1400:Sena ran to the door and tried to force it open, with no luck.[%p]"
+msgstr "1400:セナが扉に駆け寄って取っ手を押したり引いたりしてみるけど、びくともしない。[%p]"
 
 msgid "1500:スーッと、彼女が持っているディソードの輪郭が薄れ、溶けるように消えていった。[%p]"
-msgstr "1500:Her Di-Sword vanished, as if it was melting into thin air.[%p]"
+msgstr "1500:スーッと、彼女が持っているディソードの輪郭が薄れ、溶けるように消えていった。[%p]"
 
 msgid "1600:[name]セナ[line]「閉じ込められた……」[%p]"
-msgstr "1600:[name]セナ[line]We're trapped.[%p]"
+msgstr "1600:[name]セナ[line]「閉じ込められた……」[%p]"
 
 msgid "1700:[name]拓巳[line]「だ、だったら、ち、力を使えばいいじゃないか」[%p]"
-msgstr "1700:[name]拓巳[line]T-Then use your power.[%p]"
+msgstr "1700:[name]拓巳[line]「だ、だったら、ち、力を使えばいいじゃないか」[%p]"
 
 msgid "1800:[name]セナ[line]「くっ、うまく……妄想できない……」[%p]"
-msgstr "1800:[name]セナ[line]Tch... I can't... form the delusion.[%p]"
+msgstr "1800:[name]セナ[line]「くっ、うまく……妄想できない……」[%p]"
 
 msgid "1900:セナは顔をしかめてこめかみをさすり、小さくかぶりを振った。[%p]"
-msgstr "1900:Sena winced and rubbed her temples, before shaking her head.[%p]"
+msgstr "1900:セナは顔をしかめてこめかみをさすり、小さくかぶりを振った。[%p]"
 
 msgid "2000:……頭痛がする。[%p]"
-msgstr "2000:...I had a headache.[%p]"
+msgstr "2000:……頭痛がする。[%p]"
 
 msgid "2100:我に返って、僕はそのことに気付いた。[linebreak]それほどひどいわけじゃない。[%p]"
-msgstr "2100:I only noticed it after I'd calmed down. It wasn't that bad.[%p]"
+msgstr "2100:我に返って、僕はそのことに気付いた。[linebreak]それほどひどいわけじゃない。[%p]"
 
 msgid "2200:でも、頭の中心から響いてくるような。[linebreak]トクントクンとうずくような。[linebreak]そんな、かすかな痛み。[%p]"
-msgstr "2200:But it felt like it was coming from the very center of my head. Like it was pounding in time with my heartbeat. A small, barely noticeable pain.[%p]"
+msgstr "2200:でも、頭の中心から響いてくるような。[linebreak]トクントクンとうずくような。[linebreak]そんな、かすかな痛み。[%p]"
 
 msgid "2300:なんだか、ボーッとする……。[%p]"
-msgstr "2300:My head was starting to feel fuzzy.[%p]"
+msgstr "2300:なんだか、ボーッとする……。[%p]"
 
 msgid "2400:七海は、どこに……？[%p]"
-msgstr "2400:Where was Nanami?[%p]"
+msgstr "2400:七海は、どこに……？[%p]"
 
 msgid "2500:『将軍』の罠？[%p]"
-msgstr "2500:Was this Shogun's trap?[%p]"
+msgstr "2500:『将軍』の罠？[%p]"
 
 msgid "2600:『将軍』は味方？[%p]"
-msgstr "2600:Was Shogun on my side?[%p]"
+msgstr "2600:『将軍』は味方？[%p]"
 
 msgid "2700:希テクノロジーってなんの会社？[%p]"
-msgstr "2700:What kind of stuff does Nozomi Technologies even make?[%p]"
+msgstr "2700:希テクノロジーってなんの会社？[%p]"
 
 msgid "2800:セナって貧乳だよな。[%p]"
-msgstr "2800:Sena's tits were pretty flat.[%p]"
+msgstr "2800:セナって貧乳だよな。[%p]"
 
 msgid "2900:波多野って誰だ？[%p]"
-msgstr "2900:Who was Hatano?[%p]"
+msgstr "2900:波多野って誰だ？[%p]"
 
 msgid "3000:変だ、思考が一定に保てない……。[%p]"
-msgstr "3000:Weird... Why couldn't I focus on a single thought?[%p]"
+msgstr "3000:変だ、思考が一定に保てない……。[%p]"
 
 msgid "3100:[name]セナ[line]「バイオ周波数攻撃を受けているぞ……」[%p]"
-msgstr "3100:[name]セナ[line]You're undergoing a bio-frequency attack.[%p]"
+msgstr "3100:[name]セナ[line]「バイオ周波数攻撃を受けているぞ……」[%p]"
 
 msgid "3200:頭上のふたつのモニタ、そこに映っている映像に、唐突に変化が生じた。[linebreak]それぞれ１人ずつ、計２人、初老の男の顔が現れる。[%p]"
-msgstr "3200:Two of the monitors above suddenly changed what they were showing. They each showed a different man in late middle age.[%p]"
+msgstr "3200:頭上のふたつのモニタ、そこに映っている映像に、唐突に変化が生じた。[linebreak]それぞれ１人ずつ、計２人、初老の男の顔が現れる。[%p]"
 
 msgid "3300:[name]モニタの男Ｂ[line]「まったく、最近の若者は恐れ知らずだな。もちろん、悪い意味でだが。くくく」[%p]"
-msgstr "3300:[name]モニタの男Ｂ[line]Kids these days are fearless. In a bad sense, of course. Heheh.[%p]"
+msgstr "3300:[name]モニタの男Ｂ[line]「まったく、最近の若者は恐れ知らずだな。もちろん、悪い意味でだが。くくく」[%p]"
 
 msgid "3400:[name]モニタの男Ａ[line]「いかにも。おそらく猪鼻先生が推進した、ゆとり教育の産物だろうね」[%p]"
-msgstr "3400:[name]モニタの男Ａ[line]Indeed. It's probably your fault, Inohana. The new, more relaxed education system was your idea.[%p]"
+msgstr "3400:[name]モニタの男Ａ[line]「いかにも。おそらく猪鼻先生が推進した、ゆとり教育の産物だろうね」[%p]"
 
 msgid "3500:[name]モニタの男Ｂ[line]「私はただ、３００人委員会のプランを実行したまでだがな。世界人間牧場計画の一環としては、悪くないプログラムだったよ」[%p]"
-msgstr "3500:[name]モニタの男Ｂ[line]I was simply carrying out the Committee of 300's plan. It's another excellent step toward the Human Cultivation Project.[%p]"
+msgstr "3500:[name]モニタの男Ｂ[line]「私はただ、３００人委員会のプランを実行したまでだがな。世界人間牧場計画の一環としては、悪くないプログラムだったよ」[%p]"
 
 msgid "3600:なんだ？\u3000こいつら、何者だ……？[%p]"
-msgstr "3600:What? Who were these people?[%p]"
+msgstr "3600:なんだ？\u3000こいつら、何者だ……？[%p]"
 
 msgid "3700:[name]モニタの男Ａ[line]「それを潰したのも猪鼻先生だというのが、なんとも滑稽なところだよ。３００人委員会も予想外だっただろうね」[%p]"
-msgstr "3700:[name]モニタの男Ａ[line]It's certainly ironic that you're the one to bring an end to it, too. I'm sure the Committee of 300 didn't expect that.[%p]"
+msgstr "3700:[name]モニタの男Ａ[line]「それを潰したのも猪鼻先生だというのが、なんとも滑稽なところだよ。３００人委員会も予想外だっただろうね」[%p]"
 
 msgid "3800:[name]モニタの男Ｂ[line]「私と倉持先生の野心も知らず、のうのうと世界を牛耳っているつもりなのだろうが。そんな連中に対する、ある種の宣戦布告だったのだよ、アレは」[%p]"
-msgstr "3800:[name]モニタの男Ｂ[line]They think they rule the world. And they have no idea what you and I have cooked up for them, Kuramochi. It was my way of declaring war.[%p]"
+msgstr "3800:[name]モニタの男Ｂ[line]「私と倉持先生の野心も知らず、のうのうと世界を牛耳っているつもりなのだろうが。そんな連中に対する、ある種の宣戦布告だったのだよ、アレは」[%p]"
 
 msgid "3900:[name]モニタの男Ａ[line]「世界を掌握するのに３００人も必要ない。我ら２人でじゅうぶんなのだからね。フフ」[%p]"
-msgstr "3900:[name]モニタの男Ａ[line]The world doesn't need 300 rulers. The two of us can do it ourselves. Hahah![%p]"
+msgstr "3900:[name]モニタの男Ａ[line]「世界を掌握するのに３００人も必要ない。我ら２人でじゅうぶんなのだからね。フフ」[%p]"
 
 msgid "4000:さっきから、なんの話をしてるんだ……？[%p]"
-msgstr "4000:What were these two talking about?[%p]"
+msgstr "4000:さっきから、なんの話をしてるんだ……？[%p]"
 
 msgid "4100:と、２人の男のギョロリとした瞳が、モニタの中から僕を見た。[%p]"
-msgstr "4100:Then their bulging eyes turned to look at us.[%p]"
+msgstr "4100:と、２人の男のギョロリとした瞳が、モニタの中から僕を見た。[%p]"
 
 msgid "4200:[name]モニタの男Ａ[line]「それにしても、野呂瀬が言っていた通りだったね。まさかここまで馬鹿正直に、網にかかる者がいたとは」[%p]"
-msgstr "4200:[name]モニタの男Ａ[line]It all worked out exactly like Norose said. I certainly didn't think she'd be stupid enough to fall right into the trap, but I suppose I was wrong.[%p]"
+msgstr "4200:[name]モニタの男Ａ[line]「それにしても、野呂瀬が言っていた通りだったね。まさかここまで馬鹿正直に、網にかかる者がいたとは」[%p]"
 
 msgid "4300:[name]モニタの男Ｂ[line]「１週間も放置しておけば、衰弱してろくに抵抗もできなくなろう。それから拷問ショーとしゃれ込もうではないか」[%p]"
-msgstr "4300:[name]モニタの男Ｂ[line]In a week or so, she'll be too weak to resist, and then we can begin the torture show.[%p]"
+msgstr "4300:[name]モニタの男Ｂ[line]「１週間も放置しておけば、衰弱してろくに抵抗もできなくなろう。それから拷問ショーとしゃれ込もうではないか」[%p]"
 
 msgid "4400:[name]モニタの男Ａ[line]「波多野セナはすでにＣＯＤＥサンプル取得済みと、資料にはある」[%p]"
-msgstr "4400:[name]モニタの男Ａ[line]These documents say that Sena Hatano's code sample has already been collected.[%p]"
+msgstr "4400:[name]モニタの男Ａ[line]「波多野セナはすでにＣＯＤＥサンプル取得済みと、資料にはある」[%p]"
 
 msgid "4500:波多野……セナ……？[linebreak]誰だそれ……？[%p]"
-msgstr "4500:Sena... Hatano? Who the hell was that?[%p]"
+msgstr "4500:波多野……セナ……？[linebreak]誰だそれ……？[%p]"
 
 msgid "4600:[name]モニタの男Ａ[line]「洗脳を施した方がよさそうだ。我らの兵士としよう」[%p]"
-msgstr "4600:[name]モニタの男Ａ[line]I think we should brainwash her. Make her our soldier.[%p]"
+msgstr "4600:[name]モニタの男Ａ[line]「洗脳を施した方がよさそうだ。我らの兵士としよう」[%p]"
 
 msgid "4700:[name]モニタの男Ｂ[line]「兵士、兼、慰み物だな。ギガロマニアックスの少女を奴隷とするなど、実に気分がよさそうではないか、がははは！」[%p]"
-msgstr "4700:[name]モニタの男Ｂ[line]Soldier and plaything. Having a Gigalomaniac girl as a slave sounds like it would be a fun time.[%p]"
+msgstr "4700:[name]モニタの男Ｂ[line]「兵士、兼、慰み物だな。ギガロマニアックスの少女を奴隷とするなど、実に気分がよさそうではないか、がははは！」[%p]"
 
 msgid "4800:[name]モニタの男Ａ[line]「猪鼻先生もお好きだね。フフフフ」[%p]"
-msgstr "4800:[name]モニタの男Ａ[line]You have such fascinating tastes, Inohana. Hahahah.[%p]"
+msgstr "4800:[name]モニタの男Ａ[line]「猪鼻先生もお好きだね。フフフフ」[%p]"
 
 msgid "4900:[name]モニタの男Ｂ[line]「ではギガロマニアックスの諸君。監禁生活を、せいぜい楽しみたまえ」[%p]"
-msgstr "4900:[name]モニタの男Ｂ[line]Now then, Gigalomaniac children. Enjoy your confinement.[%p]"
+msgstr "4900:[name]モニタの男Ｂ[line]「ではギガロマニアックスの諸君。監禁生活を、せいぜい楽しみたまえ」[%p]"
 
 msgid "5000:[name]モニタの男Ａ[line]「１週間が経つ頃には、プロジェクト・ノアにより世界は大きく変わっていることだろう。その変革の瞬間を見ることができない君たちに、同情するよ」[%p]"
-msgstr "5000:[name]モニタの男Ａ[line]In a week from now, the world will be a very different place thanks to Project Noah. I'm sorry you won't get to see the moment it happens.[%p]"
+msgstr "5000:[name]モニタの男Ａ[line]「１週間が経つ頃には、プロジェクト・ノアにより世界は大きく変わっていることだろう。その変革の瞬間を見ることができない君たちに、同情するよ」[%p]"
 
 msgid "5100:モニタから顔が消えた。[linebreak]部屋がまた薄暗くなる。[%p]"
-msgstr "5100:The faces disappeared from the monitor. The room became dim again.[%p]"
+msgstr "5100:モニタから顔が消えた。[linebreak]部屋がまた薄暗くなる。[%p]"
 
 msgid "5200:罠だった……。[linebreak]罠だったんだ……！[%p]"
-msgstr "5200:It was a trap. It was a trap![%p]"
+msgstr "5200:罠だった……。[linebreak]罠だったんだ……！[%p]"
 
 msgid "5300:うう、大の大人が――しかもそのうちの１人は国会議員だったはず――僕みたいなキモオタのガキを寄ってたかって罠にはめるなんて……。ふざけんな……ふざけんなよぅ！[%p]"
-msgstr "5300:Damn it... Why would grown adults... one of whom was evidently a Diet member... want to set up a trap for a creepy loser kid like me? Not fair... It's not fair![%p]"
+msgstr "5300:うう、大の大人が――しかもそのうちの１人は国会議員だったはず――僕みたいなキモオタのガキを寄ってたかって罠にはめるなんて……。ふざけんな……ふざけんなよぅ！[%p]"
 
 msgid "5400:七海はここにはいない。どこか別の場所に捕まってるんだ……。[linebreak]まんまとはめられた自分が情けない。こんなことならセナの言うことをちゃんと聞いておくんだった……。[%p]"
-msgstr "5400:Nanami wasn't here. She was being held in another room. I felt pathetic for falling for it. I should've just listened to Sena.[%p]"
+msgstr "5400:七海はここにはいない。どこか別の場所に捕まってるんだ……。[linebreak]まんまとはめられた自分が情けない。こんなことならセナの言うことをちゃんと聞いておくんだった……。[%p]"
 
 msgid "5500:[name]セナ[line]「衆議院議員と、天成神光会の、教祖が、３００人委員会の、一員だった、とはな」[%p]"
-msgstr "5500:[name]セナ[line]So, a lower house member and the leader of the Cosmic Church of the Divine Light were both part of the Committee of 300.[%p]"
+msgstr "5500:[name]セナ[line]「衆議院議員と、天成神光会の、教祖が、３００人委員会の、一員だった、とはな」[%p]"
 
 msgid "5600:セナが扉に何度も肩をぶつけている。だけどびくともしない。外から鍵をかけられたのかもしれない。かなり頑丈そうに見えるし、ぶち破るのも無理っぽい。[%p]"
-msgstr "5600:Sena was slamming her shoulder against the door. It wasn't budging. Maybe it had been locked from the outside. It looked tough, like it was probably impossible to break.[%p]"
+msgstr "5600:セナが扉に何度も肩をぶつけている。だけどびくともしない。外から鍵をかけられたのかもしれない。かなり頑丈そうに見えるし、ぶち破るのも無理っぽい。[%p]"
 
 msgid "5700:[name]拓巳[line]「３００人委員会……」[%p]"
-msgstr "5700:[name]拓巳[line]The Committee of 300...[%p]"
+msgstr "5700:[name]拓巳[line]「３００人委員会……」[%p]"
 
 msgid "5800:それって確か、陰謀論にたまに出てくる組織の名前じゃなかったっけ。３００人委員会って、実在したの？[%p]"
-msgstr "5800:I remembered reading about them in some conspiracy theory. Were they real?[%p]"
+msgstr "5800:それって確か、陰謀論にたまに出てくる組織の名前じゃなかったっけ。３００人委員会って、実在したの？[%p]"
 
 msgid "5900:[name]セナ[line]「よく考えてみれば、それも納得だ。元々、沈黙の兵器の理論を作ったのは、３００人委員会なんだからな」[%p]"
-msgstr "5900:[name]セナ[line]It makes sense, now that I think about it. Silent weapon theory was originally their project.[%p]"
+msgstr "5900:[name]セナ[line]「よく考えてみれば、それも納得だ。元々、沈黙の兵器の理論を作ったのは、３００人委員会なんだからな」[%p]"
 
 msgid "6000:[name]拓巳[line]「さっきの、おっさんたちが言ってた、プ、プロジェクト・ノアって、な、なに……？」[%p]"
-msgstr "6000:[name]拓巳[line]W-What is that Project Noah thing they were talking about?[%p]"
+msgstr "6000:[name]拓巳[line]「さっきの、おっさんたちが言ってた、プ、プロジェクト・ノアって、な、なに……？」[%p]"
 
 msgid "6100:セナはあきらめたのか、扉から離れた。[linebreak]薄暗い室内を、ムッとした表情で見回す。[%p]"
-msgstr "6100:Sena moved away from the door. Evidently, she'd given up. She looked around the dim room, frowning.[%p]"
+msgstr "6100:セナはあきらめたのか、扉から離れた。[linebreak]薄暗い室内を、ムッとした表情で見回す。[%p]"
 
 msgid "6200:[name]セナ[line]「希テクノロジーが進めている、沈黙の兵器開発計画だ」[%p]"
-msgstr "6200:[name]セナ[line]A silent weapon development project created by Nozomi Technologies.[%p]"
+msgstr "6200:[name]セナ[line]「希テクノロジーが進めている、沈黙の兵器開発計画だ」[%p]"
 
 msgid "6300:[name]拓巳[line]「ち、沈黙の兵器……？」[%p]"
-msgstr "6300:[name]拓巳[line]S-Silent weapon?[%p]"
+msgstr "6300:[name]拓巳[line]「ち、沈黙の兵器……？」[%p]"
 
 msgid "6400:[name]セナ[line]「一言で言うなら、広範囲に作用するマインドコントロール装置だな」[%p]"
-msgstr "6400:[name]セナ[line]The simplest way to describe it is as a mind control device that works over a large area.[%p]"
+msgstr "6400:[name]セナ[line]「一言で言うなら、広範囲に作用するマインドコントロール装置だな」[%p]"
 
 msgid "6500:[name]セナ[line]「思考盗撮、視覚投影、五感制御」[%p]"
-msgstr "6500:[name]セナ[line]Mind-reading. Induced hallucinations. Sensory control.[%p]"
+msgstr "6500:[name]セナ[line]「思考盗撮、視覚投影、五感制御」[%p]"
 
 msgid "6600:[name]セナ[line]「肉体的には、損傷を与えることはない。音もないし、色もないし、匂いもしない。目にも見えない」[%p]"
-msgstr "6600:[name]セナ[line]No actual damage is done to the physical body. There's no sound. No color. No smell. It's completely invisible.[%p]"
+msgstr "6600:[name]セナ[line]「肉体的には、損傷を与えることはない。音もないし、色もないし、匂いもしない。目にも見えない」[%p]"
 
 msgid "6700:[name]セナ[line]「だが確実に、多くの人の精神をゆっくりと、静かに、汚染していく」[%p]"
-msgstr "6700:[name]セナ[line]But it quietly and slowly infects the minds of anyone it targets.[%p]"
+msgstr "6700:[name]セナ[line]「だが確実に、多くの人の精神をゆっくりと、静かに、汚染していく」[%p]"
 
 msgid "6800:[name]セナ[line]「誰にも気付かれないまま、攻撃は完了しているんだ」[%p]"
-msgstr "6800:[name]セナ[line]And the attack ends before anyone knows it's even happened.[%p]"
+msgstr "6800:[name]セナ[line]「誰にも気付かれないまま、攻撃は完了しているんだ」[%p]"
 
 msgid "6900:[name]拓巳[line]「ま、まるで……ギガロマニアックスの力、みたいじゃないか……」[%p]"
-msgstr "6900:[name]拓巳[line]I-It sounds like a Gigalomaniac's power.[%p]"
+msgstr "6900:[name]拓巳[line]「ま、まるで……ギガロマニアックスの力、みたいじゃないか……」[%p]"
 
 msgid "7000:[name]セナ[line]「当然だ。沈黙の兵器は、ギガロマニアックスを人工的に生み出そうという考えから始まったんだからな」[%p]"
-msgstr "7000:[name]セナ[line]Of course. The silent weapons got their start as an attempt to create an artificial Gigalomaniac.[%p]"
+msgstr "7000:[name]セナ[line]「当然だ。沈黙の兵器は、ギガロマニアックスを人工的に生み出そうという考えから始まったんだからな」[%p]"
 
 msgid "7100:あまりに想像を絶していて、実感が湧かない。[%p]"
-msgstr "7100:It was such a bizarre thing to hear that it didn't feel real.[%p]"
+msgstr "7100:あまりに想像を絶していて、実感が湧かない。[%p]"
 
 msgid "7200:所詮、そんなもんだ。[%p]"
-msgstr "7200:But that's just how it went.[%p]"
+msgstr "7200:所詮、そんなもんだ。[%p]"
 
 msgid "7300:僕は勇者じゃない。だから、そんなとんでもない陰謀が、例え事実で、今まさに渋谷で進行中だって言われても、戦おうっていう気にはならない。[%p]"
-msgstr "7300:I wasn't a hero. So even if this incredible conspiracy was real, and had been at work right here in Shibuya, I didn't want to try and fight it.[%p]"
+msgstr "7300:僕は勇者じゃない。だから、そんなとんでもない陰謀が、例え事実で、今まさに渋谷で進行中だって言われても、戦おうっていう気にはならない。[%p]"
 
 msgid "7400:僕が戦ったって戦力にはならない。もっと力のある誰かに任せるよ。[%p]"
-msgstr "7400:Even if I tried, I wouldn't be of any help. Leave it to somebody else who's stronger than me.[%p]"
+msgstr "7400:僕が戦ったって戦力にはならない。もっと力のある誰かに任せるよ。[%p]"
 
 msgid "7500:もしかしたら、一連のニュージェネ事件や、僕を襲う数々の不可解な出来事も、そのプロジェクト・ノアに関係しているのかもしれない。[%p]"
-msgstr "7500:It was possible that the NewGen murders, as well as the bizarre things that were happening to me, were all part of Project Noah.[%p]"
+msgstr "7500:もしかしたら、一連のニュージェネ事件や、僕を襲う数々の不可解な出来事も、そのプロジェクト・ノアに関係しているのかもしれない。[%p]"
 
 msgid "7600:それなら、自分に被害が及ばないように、今すぐにでも渋谷から離れるだけ。[%p]"
-msgstr "7600:If that was true, I'd do better to get out of Shibuya right now, so they couldn't hurt me.[%p]"
+msgstr "7600:それなら、自分に被害が及ばないように、今すぐにでも渋谷から離れるだけ。[%p]"
 
 msgid "7700:僕が望むことは、[linebreak]七海が無事で、自分が無事で、[linebreak]平穏に暮らせること。[%p]"
-msgstr "7700:All I wanted... was for Nanami to be safe. For me to be safe. To live in peace.[%p]"
+msgstr "7700:僕が望むことは、[linebreak]七海が無事で、自分が無事で、[linebreak]平穏に暮らせること。[%p]"
 
 msgid "7800:そのためにも、なんとかここから脱出しないと……。[linebreak]１週間以上、こんなところに閉じ込められるなんて、イヤだ。[linebreak]まして、水も食べ物もなさそうじゃないか。[%p]"
-msgstr "7800:But for that to happen, I had to get out of here. I didn't want to spend a week stuck in here. Especially since there didn't seem to be any food or water.[%p]"
+msgstr "7800:そのためにも、なんとかここから脱出しないと……。[linebreak]１週間以上、こんなところに閉じ込められるなんて、イヤだ。[linebreak]まして、水も食べ物もなさそうじゃないか。[%p]"
 
 msgid "7900:……そうか、あのおっさんたちの狙いは、それか。[linebreak]飲まず食わずで１週間も過ごしたら、衰弱するのは必至だ。下手をすると、死ぬ……。[%p]"
-msgstr "7900:Right. That's what those old men wanted. A week without food or water would weaken us. It might even kill us.[%p]"
+msgstr "7900:……そうか、あのおっさんたちの狙いは、それか。[linebreak]飲まず食わずで１週間も過ごしたら、衰弱するのは必至だ。下手をすると、死ぬ……。[%p]"
 
 msgid "8000:[name]拓巳[line]「セ、セナ……、なんとか、ここから、脱出する方法、考えてよ……っ」[%p]"
-msgstr "8000:[name]拓巳[line]S-Sena, let's think of a way to get out of here.[%p]"
+msgstr "8000:[name]拓巳[line]「セ、セナ……、なんとか、ここから、脱出する方法、考えてよ……っ」[%p]"
 
 msgid "8100:[name]セナ[line]「扉は開かない……」[%p]"
-msgstr "8100:[name]セナ[line]The door won't open.[%p]"
+msgstr "8100:[name]セナ[line]「扉は開かない……」[%p]"
 
 msgid "8200:セナは疲れた表情をしていた。[%p]"
-msgstr "8200:Sena looked tired.[%p]"
+msgstr "8200:セナは疲れた表情をしていた。[%p]"
 
 msgid "8300:[name]拓巳[line]「ディ、ディソードは……？」[%p]"
-msgstr "8300:[name]拓巳[line]W-What about your Di-Sword?[%p]"
+msgstr "8300:[name]拓巳[line]「ディ、ディソードは……？」[%p]"
 
 msgid "8400:[name]セナ[line]「なぜか、出せなくなった……。力を封じられたか……。沈黙の兵器で、攻撃されているぞ、西條……」[%p]"
-msgstr "8400:[name]セナ[line]For some reason, I can't summon it. They must've shut down my power. We're being attacked by a silent weapon, Nishijo.[%p]"
+msgstr "8400:[name]セナ[line]「なぜか、出せなくなった……。力を封じられたか……。沈黙の兵器で、攻撃されているぞ、西條……」[%p]"
 
 msgid "8500:攻撃されてるって、なんだよそれ……。[linebreak]脱出は、不可能っていうこと？[%p]"
-msgstr "8500:Attacked? What did that mean? Did it mean there was no way to escape?[%p]"
+msgstr "8500:攻撃されてるって、なんだよそれ……。[linebreak]脱出は、不可能っていうこと？[%p]"
 
 msgid "8600:セナはひどくだるそうに、床にペタンとへたり込んでしまった。[%p]"
-msgstr "8600:Sena lay down right on the floor like she was exhausted.[%p]"
+msgstr "8600:セナはひどくだるそうに、床にペタンとへたり込んでしまった。[%p]"
 
 msgid "8700:[name]拓巳[line]「だ、大丈夫……？」[%p]"
-msgstr "8700:[name]拓巳[line]A-Are you okay?[%p]"
+msgstr "8700:[name]拓巳[line]「だ、大丈夫……？」[%p]"
 
 msgid "8800:[name]セナ[line]「く、そ……。身体が、だるい……」[%p]"
-msgstr "8800:[name]セナ[line]D-Damn it... I feel so tired.[%p]"
+msgstr "8800:[name]セナ[line]「く、そ……。身体が、だるい……」[%p]"
 
 msgid "8900:[name]セナ[line]「それに……なんだか、妙な気持ちだ……」[%p]"
-msgstr "8900:[name]セナ[line]And I feel strange.[%p]"
+msgstr "8900:[name]セナ[line]「それに……なんだか、妙な気持ちだ……」[%p]"
 
 msgid "9000:[name]セナ[line]「胸の奥が、締め付けられるような……」[%p]"
-msgstr "9000:[name]セナ[line]Like someone's squeezing me tight, deep inside my chest.[%p]"
+msgstr "9000:[name]セナ[line]「胸の奥が、締め付けられるような……」[%p]"
 
 msgid "9100:セナは浅く息をつきながら、胸元を少しだけはだけた。[%p]"
-msgstr "9100:Sena's breathing was shallow. Her chest was exposed, just a little.[%p]"
+msgstr "9100:セナは浅く息をつきながら、胸元を少しだけはだけた。[%p]"
 
 msgid "9200:薄暗い中でも、その肌に汗がにじんでいるのが見えて、こんな状況なのに僕はドキリとしてしまう。[linebreak]そう言えば、この部屋は妙に暑い。[%p]"
-msgstr "9200:I could see the sweat forming on it even in the darkness. Despite everything that was going on, it still looked so sexy. I realized that the room was awfully hot.[%p]"
+msgstr "9200:薄暗い中でも、その肌に汗がにじんでいるのが見えて、こんな状況なのに僕はドキリとしてしまう。[linebreak]そう言えば、この部屋は妙に暑い。[%p]"
 
 msgid "9300:[name]セナ[line]「なあ……水を、持ってないか？」[%p]"
-msgstr "9300:[name]セナ[line]Hey... do you have any water?[%p]"
+msgstr "9300:[name]セナ[line]「なあ……水を、持ってないか？」[%p]"
 
 msgid "9400:持ってるわけがない。[linebreak]でも、僕も早くものどが渇いてきた。[%p]"
-msgstr "9400:Of course I didn't. I was getting thirsty, too.[%p]"
+msgstr "9400:持ってるわけがない。[linebreak]でも、僕も早くものどが渇いてきた。[%p]"
 
 msgid "9500:この暑さの中、水もなしで１週間も過ごすのかと思うと、絶望的な気分になる。[%p]"
-msgstr "9500:The idea of spending a week without water in this heat made me feel sick.[%p]"
+msgstr "9500:この暑さの中、水もなしで１週間も過ごすのかと思うと、絶望的な気分になる。[%p]"
 
 msgid "9600:[name]セナ[line]「…………」[%p]"
-msgstr "9600:[name]セナ[line]...[%p]"
+msgstr "9600:[name]セナ[line]「…………」[%p]"
 
 msgid "9700:セナが、じっと僕を見ていた。[linebreak]僕は、三次元女子と目を合わせられないから、必死であらぬ方を見るけど、セナの視線が突き刺さってくるのを気配で感じる。[%p]"
-msgstr "9700:Sena was staring at me. I wasn't capable of looking a 3D girl in the eyes, so I quickly turned away. But I could still feel her staring at me.[%p]"
+msgstr "9700:セナが、じっと僕を見ていた。[linebreak]僕は、三次元女子と目を合わせられないから、必死であらぬ方を見るけど、セナの視線が突き刺さってくるのを気配で感じる。[%p]"
 
 msgid "9800:……こ、こっち見んな。[%p]"
-msgstr "9800:Don't look at me.[%p]"
+msgstr "9800:……こ、こっち見んな。[%p]"
 
 msgid "9900:[name]拓巳[line]「水は、ないよ……」[%p]"
-msgstr "9900:[name]拓巳[line]I don't have any water, no...[%p]"
+msgstr "9900:[name]拓巳[line]「水は、ないよ……」[%p]"
 
 msgid "10000:答えて、一度だけチラッとセナを見る。[linebreak]目が合った。[%p]"
-msgstr "10000:I glanced over at her for just a second. Our eyes met.[%p]"
+msgstr "10000:答えて、一度だけチラッとセナを見る。[linebreak]目が合った。[%p]"
 
 msgid "10100:っていうか、なんでそんなに濡れた瞳をしてるんだ。[linebreak]まるで恋する乙女じゃないか。[%p]"
-msgstr "10100:Why was she looking at me like that? She look liked a young maiden in love.[%p]"
+msgstr "10100:っていうか、なんでそんなに濡れた瞳をしてるんだ。[linebreak]まるで恋する乙女じゃないか。[%p]"
 
 msgid "10200:まあ、僕は童貞でカノジョなんていたことないから、実際に恋する乙女が瞳を潤ませるのかどうかは知らないけど。[%p]"
-msgstr "10200:Of course, I was a virgin who'd never had a girlfriend, so I didn't know what a young maiden in love actually looked like. But still...[%p]"
+msgstr "10200:まあ、僕は童貞でカノジョなんていたことないから、実際に恋する乙女が瞳を潤ませるのかどうかは知らないけど。[%p]"
 
 msgid "10300:僕は慌ててセナに背中を向けつつ、ゴクリと唾を飲み込んだ。[%p]"
-msgstr "10300:I quickly turned away and audibly gulped.[%p]"
+msgstr "10300:僕は慌ててセナに背中を向けつつ、ゴクリと唾を飲み込んだ。[%p]"
 
 msgid "10400:[name]セナ[line]「はぁ、はぁ……おかしい、気を付けろ、西條……。感情を、操作されているかもしれない……」[%p]"
-msgstr "10400:[name]セナ[line]Hahh... Hahh... Something's wrong. Be careful, Nishijo... They might be manipulating our emotions.[%p]"
+msgstr "10400:[name]セナ[line]「はぁ、はぁ……おかしい、気を付けろ、西條……。感情を、操作されているかもしれない……」[%p]"
 
 msgid "10500:[name]拓巳[line]「え、それって、どういう……」[%p]"
-msgstr "10500:[name]拓巳[line]Huh? What do you mean?[%p]"
+msgstr "10500:[name]拓巳[line]「え、それって、どういう……」[%p]"
 
 msgid "10600:[name]セナ[line]「お前を見ていると、切ない気持ちになってくるんだ……。くそ、ふざけた攻撃を……」[%p]"
-msgstr "10600:[name]セナ[line]Whenever I look at you... I feel strange. Damn it! How dare they...[%p]"
+msgstr "10600:[name]セナ[line]「お前を見ていると、切ない気持ちになってくるんだ……。くそ、ふざけた攻撃を……」[%p]"
 
 msgid "10700:つまりセナが、僕に惚れちゃったような状態にさせられてるってわけ？[linebreak]ふひひ、実はホントに僕に気があるだけじゃないのか？[%p]"
-msgstr "10700:In other words, they were forcing Sena to fall in love with me? Or maybe she was just in love with me from the start? Fweheheh.[%p]"
+msgstr "10700:つまりセナが、僕に惚れちゃったような状態にさせられてるってわけ？[linebreak]ふひひ、実はホントに僕に気があるだけじゃないのか？[%p]"
 
 msgid "10800:……そんなわけないよね、常識的に考えて。[%p]"
-msgstr "10800:No. Not a chance in hell.[%p]"
+msgstr "10800:……そんなわけないよね、常識的に考えて。[%p]"
 
 msgid "10900:[name]拓巳[line]「感情を操作って、いったい、どんな仕組みで……？」[%p]"
-msgstr "10900:[name]拓巳[line]They're manipulating our emotions? How?[%p]"
+msgstr "10900:[name]拓巳[line]「感情を操作って、いったい、どんな仕組みで……？」[%p]"
 
 msgid "11000:[name]セナ[line]「人の感情なんて、結局、脳を流れる電気信号でしかないんだ……」[%p]"
-msgstr "11000:[name]セナ[line]Human emotions are just electrical signals in the brain.[%p]"
+msgstr "11000:[name]セナ[line]「人の感情なんて、結局、脳を流れる電気信号でしかないんだ……」[%p]"
 
 msgid "11100:[name]セナ[line]「その電気信号に干渉する技術は、世界中で研究されてる。案外、とっくに実用化されてるかもしれない。ましてや沈黙の兵器……ノアⅡなら、造作もないことだ……」[%p]"
-msgstr "11100:[name]セナ[line]They're doing research all over the world to find a way to interfere with those electric signals. It's possible that they've already reached the point where they can be used in practical applications. Especially with a silent weapon... like Noah II.[%p]"
+msgstr "11100:[name]セナ[line]「その電気信号に干渉する技術は、世界中で研究されてる。案外、とっくに実用化されてるかもしれない。ましてや沈黙の兵器……ノアⅡなら、造作もないことだ……」[%p]"
 
 msgid "11200:[name]セナ[line]「分かっただろう？\u3000世界は電気仕掛けだと、私が言った意味が」[%p]"
-msgstr "11200:[name]セナ[line]You understand now, right? What I meant when I said the whole world runs on electricity.[%p]"
+msgstr "11200:[name]セナ[line]「分かっただろう？\u3000世界は電気仕掛けだと、私が言った意味が」[%p]"
 
 msgid "11300:プログラム、みたいなものなのかな……。[linebreak]０と１の羅列。[linebreak]それは容易にいじることができる。[%p]"
-msgstr "11300:Like a program, maybe. Rows of 0s and 1s that could be easily manipulated.[%p]"
+msgstr "11300:プログラム、みたいなものなのかな……。[linebreak]０と１の羅列。[linebreak]それは容易にいじることができる。[%p]"
 
 msgid "11400:人の脳内を電気信号が走っているっていうのは、科学的に証明されている事実だから、感情だけじゃなく、いわゆる魂とか心と定義されてるものだって、結局、電気信号っていうことになるわけで。[%p]"
-msgstr "11400:It had been scientifically proven that there were electrical signals running through the brain. So, whatever you defined as a soul, or a mind, was electrical, too.[%p]"
+msgstr "11400:人の脳内を電気信号が走っているっていうのは、科学的に証明されている事実だから、感情だけじゃなく、いわゆる魂とか心と定義されてるものだって、結局、電気信号っていうことになるわけで。[%p]"
 
 msgid "11500:なんだ、二次元と、なにも変わらないじゃないか。[%p]"
-msgstr "11500:Huh. So, in the end, it's no different than 2D.[%p]"
+msgstr "11500:なんだ、二次元と、なにも変わらないじゃないか。[%p]"
 
 msgid "11600:例えばエロゲのヒロインと、エンスーのリーゼロッテと、アニメ版の星来たんと、そしてセナと。[linebreak]そこに、どんな違いがあるって言うんだ？[%p]"
-msgstr "11600:The heroines from my H-games, Liselotte in ESO, Seira-tan from the anime, and Sena... What was the difference between any of them?[%p]"
+msgstr "11600:例えばエロゲのヒロインと、エンスーのリーゼロッテと、アニメ版の星来たんと、そしてセナと。[linebreak]そこに、どんな違いがあるって言うんだ？[%p]"
 
 msgid "11700:世界がすべて電気仕掛けっていうセナの考え方が正しいなら、違いなんてない。みんな同じだ。[%p]"
-msgstr "11700:If Sena was right and the whole world ran on electricity, there was no difference at all. Every one of them was the same.[%p]"
+msgstr "11700:世界がすべて電気仕掛けっていうセナの考え方が正しいなら、違いなんてない。みんな同じだ。[%p]"
 
 msgid "11800:セナが“エラー”という言葉を使う意味が少し理解できた気がした。[linebreak]それならノアⅡっていう兵器は、とんでもないウイルスか、あるいは違法なチートコードを使っているＰＫっていうところか。[%p]"
-msgstr "11800:I felt like I understood a little about what Sena meant by “errors.” That would make Noah II a really powerful computer virus, or maybe a PKer using an illegal cheat code.[%p]"
+msgstr "11800:セナが“エラー”という言葉を使う意味が少し理解できた気がした。[linebreak]それならノアⅡっていう兵器は、とんでもないウイルスか、あるいは違法なチートコードを使っているＰＫっていうところか。[%p]"
 
 msgid "11900:いくらナイトハルトでも、そんなヤツらに勝てるわけがない。[linebreak]ましてや僕は、ナイトハルトに比べてあまりにもダメなプレイヤーキャラだし……。[%p]"
-msgstr "11900:Even KnightHeart couldn't beat somebody like that. And I was way more useless than he was.[%p]"
+msgstr "11900:いくらナイトハルトでも、そんなヤツらに勝てるわけがない。[linebreak]ましてや僕は、ナイトハルトに比べてあまりにもダメなプレイヤーキャラだし……。[%p]"
 
 msgid "12000:結局、ここに閉じ込められて餓死するっていう、情けない形で、ゲームオーバーを迎えるのが似合いなんだ……。[%p]"
-msgstr "12000:The only thing I was good for was getting a miserable game over by starving to death in a locked room.[%p]"
+msgstr "12000:結局、ここに閉じ込められて餓死するっていう、情けない形で、ゲームオーバーを迎えるのが似合いなんだ……。[%p]"
 
 msgid "12100:[name]拓巳[line]「ぼ、僕が、わ、悪いんじゃない……」[%p]"
-msgstr "12100:[name]拓巳[line]I-It's not my fault.[%p]"
+msgstr "12100:[name]拓巳[line]「ぼ、僕が、わ、悪いんじゃない……」[%p]"
 
 msgid "12200:[name]拓巳[line]「し、死亡フラグ立てまくってる……、ぼ、僕の、中の人が、わ、悪いんだ……くそっ……」[%p]"
-msgstr "12200:[name]拓巳[line]It's the person inside me who keeps making all the bad route choices.[%p]"
+msgstr "12200:[name]拓巳[line]「し、死亡フラグ立てまくってる……、ぼ、僕の、中の人が、わ、悪いんだ……くそっ……」[%p]"
 
 msgid "12300:僕は頭を抱えて、その場にうずくまった。[%p]"
-msgstr "12300:I covered my head with my hands and curled up into a ball.[%p]"
+msgstr "12300:僕は頭を抱えて、その場にうずくまった。[%p]"
 

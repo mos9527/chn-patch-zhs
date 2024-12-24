@@ -10,287 +10,287 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:僕が恐る恐る指摘すると、優愛は特に躊躇する素振りも見せずにノートを閉じ、表紙を見つめた。[linebreak]そして改めて僕へと向き直り――[%p]"
-msgstr "0:Yua closed the notebook and looked down at it, unconcerned. And then she turned back to me.[%p]"
+msgstr "0:僕が恐る恐る指摘すると、優愛は特に躊躇する素振りも見せずにノートを閉じ、表紙を見つめた。[linebreak]そして改めて僕へと向き直り――[%p]"
 
 msgid "100:[name]優愛[line]「やっぱり、美愛ちゃんの日記だわ」[%p]"
-msgstr "100:[name]優愛[line]This is Mia's diary.[%p]"
+msgstr "100:[name]優愛[line]「やっぱり、美愛ちゃんの日記だわ」[%p]"
 
 msgid "200:え……？[%p]"
-msgstr "200:Huh?[%p]"
+msgstr "200:え……？[%p]"
 
 msgid "300:今、見たはずだ。[linebreak]優愛は、はっきりと、見た。[%p]"
-msgstr "300:You saw it. I just saw you looking at it.[%p]"
+msgstr "300:今、見たはずだ。[linebreak]優愛は、はっきりと、見た。[%p]"
 
 msgid "400:表紙に色マジックで書かれたＹｕａ’ｓ ｄｉａｒｙの文字を。[%p]"
-msgstr "400:I saw you looking at the words, “Yua's Diary.”[%p]"
+msgstr "400:表紙に色マジックで書かれたＹｕａ’ｓ ｄｉａｒｙの文字を。[%p]"
 
 msgid "500:それなのに、なんで――[%p]"
-msgstr "500:So why...?[%p]"
+msgstr "500:それなのに、なんで――[%p]"
 
 msgid "600:[name]優愛[line]「これは、美愛ちゃんが書いた日記」[%p]"
-msgstr "600:[name]優愛[line]Mia wrote it.[%p]"
+msgstr "600:[name]優愛[line]「これは、美愛ちゃんが書いた日記」[%p]"
 
 msgid "700:[name]優愛[line]「わたしを騙そうとしたの？」[%p]"
-msgstr "700:[name]優愛[line]Did you try to lie to me?[%p]"
+msgstr "700:[name]優愛[line]「わたしを騙そうとしたの？」[%p]"
 
 msgid "800:[name]優愛[line]「騙されるわけないでしょう」[%p]"
-msgstr "800:[name]優愛[line]You can't trick me.[%p]"
+msgstr "800:[name]優愛[line]「騙されるわけないでしょう」[%p]"
 
 msgid "900:[name]優愛[line]「わたしは美愛ちゃんとずっと一緒に育ってきたんだから」[%p]"
-msgstr "900:[name]優愛[line]I lived with Mia for my whole life.[%p]"
+msgstr "900:[name]優愛[line]「わたしは美愛ちゃんとずっと一緒に育ってきたんだから」[%p]"
 
 msgid "1000:[name]優愛[line]「生まれてからずっと一緒だったんだから」[%p]"
-msgstr "1000:[name]優愛[line]We were together our whole lives.[%p]"
+msgstr "1000:[name]優愛[line]「生まれてからずっと一緒だったんだから」[%p]"
 
 msgid "1100:[name]優愛[line]「あなたなんかよりずっと、わたしの方が美愛ちゃんのことを知ってる」[%p]"
-msgstr "1100:[name]優愛[line]I know much more about Mia than you do.[%p]"
+msgstr "1100:[name]優愛[line]「あなたなんかよりずっと、わたしの方が美愛ちゃんのことを知ってる」[%p]"
 
 msgid "1200:[name]優愛[line]「知ってるの」[%p]"
-msgstr "1200:[name]優愛[line]I know her.[%p]"
+msgstr "1200:[name]優愛[line]「知ってるの」[%p]"
 
 msgid "1300:[name]拓巳[line]「ゆ、優愛には、見えないの……？」[%p]"
-msgstr "1300:[name]拓巳[line]C-Can't you see it?[%p]"
+msgstr "1300:[name]拓巳[line]「ゆ、優愛には、見えないの……？」[%p]"
 
 msgid "1400:[name]拓巳[line]「は、はっきり、か、書いて、あるじゃないか……」[%p]"
-msgstr "1400:[name]拓巳[line]Look... it says it right there...[%p]"
+msgstr "1400:[name]拓巳[line]「は、はっきり、か、書いて、あるじゃないか……」[%p]"
 
 msgid "1500:[name]拓巳[line]「それは、優愛の日記――」[%p]"
-msgstr "1500:[name]拓巳[line]T-This is your diary.[%p]"
+msgstr "1500:[name]拓巳[line]「それは、優愛の日記――」[%p]"
 
 msgid "1600:[name]優愛[line]「うぅ……」[%p]"
-msgstr "1600:[name]優愛[line]Aah...[%p]"
+msgstr "1600:[name]優愛[line]「うぅ……」[%p]"
 
 msgid "1700:優愛が不意にこめかみを押さえた。[linebreak]苦痛に表情を歪めている。[%p]"
-msgstr "1700:Yua suddenly put her hands up to her temples. Her expression was twisted in pain.[%p]"
+msgstr "1700:優愛が不意にこめかみを押さえた。[linebreak]苦痛に表情を歪めている。[%p]"
 
 msgid "1800:[name]優愛[line]「違う、この日記は、わたしじゃなくて、美愛ちゃんが……」[%p]"
-msgstr "1800:[name]優愛[line]No, it wasn't me who wrote this. It was Mia.[%p]"
+msgstr "1800:[name]優愛[line]「違う、この日記は、わたしじゃなくて、美愛ちゃんが……」[%p]"
 
 msgid "1900:[name]優愛[line]「わた、し……？」[%p]"
-msgstr "1900:[name]優愛[line]Me...?[%p]"
+msgstr "1900:[name]優愛[line]「わた、し……？」[%p]"
 
 msgid "2000:[name]優愛[line]「西條くんに、自覚があるはず、ないから」[%p]"
-msgstr "2000:[name]優愛[line]There's no way you could know.[%p]"
+msgstr "2000:[name]優愛[line]「西條くんに、自覚があるはず、ないから」[%p]"
 
 msgid "2100:[name]優愛[line]「あなたは――」[%p]"
-msgstr "2100:[name]優愛[line]You have...[%p]"
+msgstr "2100:[name]優愛[line]「あなたは――」[%p]"
 
 msgid "2200:[name]優愛[line]「ＤＩＤ……多重人格、なんです」[%p]"
-msgstr "2200:[name]優愛[line]DID... Dissociative Identity Disorder. Multiple personalities.[%p]"
+msgstr "2200:[name]優愛[line]「ＤＩＤ……多重人格、なんです」[%p]"
 
 msgid "2300:[name]拓巳[line]「君は……誰だ……？」[%p]"
-msgstr "2300:[name]拓巳[line]Who are you?[%p]"
+msgstr "2300:[name]拓巳[line]「君は……誰だ……？」[%p]"
 
 msgid "2400:[name]優愛[line]「わたしは……ゆあ……」[%p]"
-msgstr "2400:[name]優愛[line]I'm... Yua.[%p]"
+msgstr "2400:[name]優愛[line]「わたしは……ゆあ……」[%p]"
 
 msgid "2500:[name]優愛[line]「わたしは……」[%p]"
-msgstr "2500:[name]優愛[line]I'm...[%p]"
+msgstr "2500:[name]優愛[line]「わたしは……」[%p]"
 
 msgid "2600:ＤＩＤなのは、僕じゃなくて、この女なんじゃないのか？[%p]"
-msgstr "2600:Was she the one with DID, not me?[%p]"
+msgstr "2600:ＤＩＤなのは、僕じゃなくて、この女なんじゃないのか？[%p]"
 
 msgid "2700:[name]拓巳[line]「楠美愛なんて、実在するの……？」[%p]"
-msgstr "2700:[name]拓巳[line]Is Mia Kusunoki even real?[%p]"
+msgstr "2700:[name]拓巳[line]「楠美愛なんて、実在するの……？」[%p]"
 
 msgid "2800:『集団ダイブ』の報道において、警察は被害者の氏名を公表していたか？[%p]"
-msgstr "2800:Did the police even publish the names of the victims in the Group Dive?[%p]"
+msgstr "2800:『集団ダイブ』の報道において、警察は被害者の氏名を公表していたか？[%p]"
 
 msgid "2900:未成年だから、少女Ａとか、そんな呼ばれ方しかされてないんじゃないのか？[%p]"
-msgstr "2900:All the victims were underage. Don't they usually try to keep the names of underage victims out of the media?[%p]"
+msgstr "2900:未成年だから、少女Ａとか、そんな呼ばれ方しかされてないんじゃないのか？[%p]"
 
 msgid "3000:あるいは――。[%p]"
-msgstr "3000:Or maybe....[%p]"
+msgstr "3000:あるいは――。[%p]"
 
 msgid "3100:[name]拓巳[line]「優愛に、双子の妹なんてホントにいたの……？」[%p]"
-msgstr "3100:[name]拓巳[line]Do you even have a younger sister?[%p]"
+msgstr "3100:[name]拓巳[line]「優愛に、双子の妹なんてホントにいたの……？」[%p]"
 
 msgid "3200:楠美愛という人物は存在したかもしれないけど。その死んだ楠美愛は、今僕の目の前にいる楠優愛の双子の妹なんかじゃないかもしれない。[%p]"
-msgstr "3200:Maybe Mia Kusunoki was real, but maybe Mia Kusunoki wasn't actually Yua Kusunoki's twin.[%p]"
+msgstr "3200:楠美愛という人物は存在したかもしれないけど。その死んだ楠美愛は、今僕の目の前にいる楠優愛の双子の妹なんかじゃないかもしれない。[%p]"
 
 msgid "3300:名前がよく似ているだけの、ただの他人の可能性だってある。[%p]"
-msgstr "3300:Maybe they both had really similar names, but they were completely different people.[%p]"
+msgstr "3300:名前がよく似ているだけの、ただの他人の可能性だってある。[%p]"
 
 msgid "3400:[name]優愛[line]「いるわ！」[%p]"
-msgstr "3400:[name]優愛[line]I do![%p]"
+msgstr "3400:[name]優愛[line]「いるわ！」[%p]"
 
 msgid "3500:優愛が、いきなり僕の首を絞めてきた。[linebreak]細い指。だけどすさまじい力。[linebreak]息ができない……。[%p]"
-msgstr "3500:Yua suddenly started to strangle me. Her fingers were thin and frail, but her strength was incredible. I couldn't... breathe...[%p]"
+msgstr "3500:優愛が、いきなり僕の首を絞めてきた。[linebreak]細い指。だけどすさまじい力。[linebreak]息ができない……。[%p]"
 
 msgid "3600:[name]優愛[line]「いたわよ！」[%p]"
-msgstr "3600:[name]優愛[line]I did![%p]"
+msgstr "3600:[name]優愛[line]「いたわよ！」[%p]"
 
 msgid "3700:[name]優愛[line]「美愛ちゃんは、確かにいた！」[%p]"
-msgstr "3700:[name]優愛[line]Mia was my sister![%p]"
+msgstr "3700:[name]優愛[line]「美愛ちゃんは、確かにいた！」[%p]"
 
 msgid "3800:[name]優愛[line]「はっきり覚えてるもの！」[%p]"
-msgstr "3800:[name]優愛[line]I remember her clearly![%p]"
+msgstr "3800:[name]優愛[line]「はっきり覚えてるもの！」[%p]"
 
 msgid "3900:[name]拓巳[line]「し、証明……できるの……？」[%p]"
-msgstr "3900:[name]拓巳[line]C-Can you prove it?[%p]"
+msgstr "3900:[name]拓巳[line]「し、証明……できるの……？」[%p]"
 
 msgid "4000:優愛の手の力が弱まる。[%p]"
-msgstr "4000:Yua relaxed her fingers.[%p]"
+msgstr "4000:優愛の手の力が弱まる。[%p]"
 
 msgid "4100:[name]拓巳[line]「げほっ、げほっ……」[%p]"
-msgstr "4100:[name]拓巳[line]Cough... Cough...[%p]"
+msgstr "4100:[name]拓巳[line]「げほっ、げほっ……」[%p]"
 
 msgid "4200:[name]拓巳[line]「自分はＤＩＤじゃないって、証明、できるの……？」[%p]"
-msgstr "4200:[name]拓巳[line]Can you prove you don't have DID?[%p]"
+msgstr "4200:[name]拓巳[line]「自分はＤＩＤじゃないって、証明、できるの……？」[%p]"
 
 msgid "4300:[name]拓巳[line]「楠美愛じゃないって、証明、できるの……？」[%p]"
-msgstr "4300:[name]拓巳[line]Can you prove you're not Mia Kusunoki?[%p]"
+msgstr "4300:[name]拓巳[line]「楠美愛じゃないって、証明、できるの……？」[%p]"
 
 msgid "4400:僕は、できなかった。[linebreak]『将軍』が自分じゃないって確信を持つことができたのは、その『将軍』本人が僕の前に現れたからであって。[%p]"
-msgstr "4400:I couldn't. I'd only been able to be sure that I wasn't Shogun when the real Shogun had shown up in front of me.[%p]"
+msgstr "4400:僕は、できなかった。[linebreak]『将軍』が自分じゃないって確信を持つことができたのは、その『将軍』本人が僕の前に現れたからであって。[%p]"
 
 msgid "4500:[name]優愛[line]「できるわ……」[%p]"
-msgstr "4500:[name]優愛[line]I can...[%p]"
+msgstr "4500:[name]優愛[line]「できるわ……」[%p]"
 
 msgid "4600:優愛の手が僕の首から離れる。[linebreak]ノートは、その場に放り出して。[%p]"
-msgstr "4600:Yua's hand moved away from my throat. She threw down the notebook.[%p]"
+msgstr "4600:優愛の手が僕の首から離れる。[linebreak]ノートは、その場に放り出して。[%p]"
 
 msgid "4700:[name]優愛[line]「美愛ちゃんには、ほくろがあった……」[%p]"
-msgstr "4700:[name]優愛[line]Mia had a mole.[%p]"
+msgstr "4700:[name]優愛[line]「美愛ちゃんには、ほくろがあった……」[%p]"
 
 msgid "4800:優愛はおもむろに制服の上着を脱ぎ始める。[%p]"
-msgstr "4800:She began to take off her top.[%p]"
+msgstr "4800:優愛はおもむろに制服の上着を脱ぎ始める。[%p]"
 
 msgid "4900:[name]優愛[line]「左胸の下。そこにほくろがあった。わたしにはない、ほくろ」[%p]"
-msgstr "4900:[name]優愛[line]Below her left breast. There was a mole there. A mole that I didn't have.[%p]"
+msgstr "4900:[name]優愛[line]「左胸の下。そこにほくろがあった。わたしにはない、ほくろ」[%p]"
 
 msgid "5000:ブラウスのボタンを、ひとつひとつ、もどかしげに外していく。[%p]"
-msgstr "5000:Slowly, fumblingly, she began to undo the buttons one by one.[%p]"
+msgstr "5000:ブラウスのボタンを、ひとつひとつ、もどかしげに外していく。[%p]"
 
 msgid "5100:ブラウスだけじゃなく、ブラまでも外して。[linebreak]その豊かなふくらみを手で隠しつつ、左の胸の下を確認しようとする。[%p]"
-msgstr "5100:She took off her bra, too. She hid her large chest with her hands, as she tried to look under her left breast.[%p]"
+msgstr "5100:ブラウスだけじゃなく、ブラまでも外して。[linebreak]その豊かなふくらみを手で隠しつつ、左の胸の下を確認しようとする。[%p]"
 
 msgid "5200:僕も、見た。[%p]"
-msgstr "5200:I looked too.[%p]"
+msgstr "5200:僕も、見た。[%p]"
 
 msgid "5300:そこに、ほくろが――[%p]"
-msgstr "5300:And I could see that...[%p]"
+msgstr "5300:そこに、ほくろが――[%p]"
 
 msgid "5400:ある。[%p]"
-msgstr "5400:There was a mole there.[%p]"
+msgstr "5400:ある。[%p]"
 
 msgid "5500:[name]優愛[line]「ある……」[%p]"
-msgstr "5500:[name]優愛[line]It's there…[%p]"
+msgstr "5500:[name]優愛[line]「ある……」[%p]"
 
 msgid "5600:[name]拓巳[line]「あるよ……」[%p]"
-msgstr "5600:[name]拓巳[line]It's there.[%p]"
+msgstr "5600:[name]拓巳[line]「あるよ……」[%p]"
 
 msgid "5700:[name]優愛[line]「どうして……」[%p]"
-msgstr "5700:[name]優愛[line]Why...?[%p]"
+msgstr "5700:[name]優愛[line]「どうして……」[%p]"
 
 msgid "5800:[name]優愛[line]「わたしには、ほくろはないはずなのに……」[%p]"
-msgstr "5800:[name]優愛[line]I'm not supposed to have a mole there…[%p]"
+msgstr "5800:[name]優愛[line]「わたしには、ほくろはないはずなのに……」[%p]"
 
 msgid "5900:[name]優愛[line]「わたし、誰……？」[%p]"
-msgstr "5900:[name]優愛[line]Who am I?[%p]"
+msgstr "5900:[name]優愛[line]「わたし、誰……？」[%p]"
 
 msgid "6000:優愛の表情は蒼白で、その唇はわなわなと震えていた。[linebreak]視線は泳ぎ、あられもない格好のまま、自分自身を抱きしめるようにする。[%p]"
-msgstr "6000:Her face was pale and her lips were shaking. Her vision was darting around her. She wrapped her arms around her body, her top still exposed.[%p]"
+msgstr "6000:優愛の表情は蒼白で、その唇はわなわなと震えていた。[linebreak]視線は泳ぎ、あられもない格好のまま、自分自身を抱きしめるようにする。[%p]"
 
 msgid "6100:[name]優愛[line]「わたしは、優愛……」[%p]"
-msgstr "6100:[name]優愛[line]I'm Yua.[%p]"
+msgstr "6100:[name]優愛[line]「わたしは、優愛……」[%p]"
 
 msgid "6200:[name]優愛[line]「わたしはずっと、いい子で……」[%p]"
-msgstr "6200:[name]優愛[line]I was always the good girl.[%p]"
+msgstr "6200:[name]優愛[line]「わたしはずっと、いい子で……」[%p]"
 
 msgid "6300:[name]優愛[line]「美愛ちゃんはずっと、悪い子で……」[%p]"
-msgstr "6300:[name]優愛[line]Mia was always the bad girl.[%p]"
+msgstr "6300:[name]優愛[line]「美愛ちゃんはずっと、悪い子で……」[%p]"
 
 msgid "6400:[name]優愛[line]「わたしはずっと、いい子になりたくて……」[%p]"
-msgstr "6400:[name]優愛[line]I always wanted to be the good girl.[%p]"
+msgstr "6400:[name]優愛[line]「わたしはずっと、いい子になりたくて……」[%p]"
 
 msgid "6500:[name]優愛[line]「美愛ちゃんは、優愛ちゃんが大好きで……」[%p]"
-msgstr "6500:[name]優愛[line]Mia always loved Yua.[%p]"
+msgstr "6500:[name]優愛[line]「美愛ちゃんは、優愛ちゃんが大好きで……」[%p]"
 
 msgid "6600:[name]優愛[line]「優愛ちゃんは、美愛ちゃんが心配で……」[%p]"
-msgstr "6600:[name]優愛[line]Yua was always worried about Mia.[%p]"
+msgstr "6600:[name]優愛[line]「優愛ちゃんは、美愛ちゃんが心配で……」[%p]"
 
 msgid "6700:言っていることが、支離滅裂になってきている。[%p]"
-msgstr "6700:Nothing she was saying made any sense.[%p]"
+msgstr "6700:言っていることが、支離滅裂になってきている。[%p]"
 
 msgid "6800:僕はゾッとした。[%p]"
-msgstr "6800:I shivered.[%p]"
+msgstr "6800:僕はゾッとした。[%p]"
 
 msgid "6900:でも、優愛を放っておいて逃げ出したいとも思わなかった。[linebreak]優愛の今の心理状態を、僕は理解できる。[linebreak]ついこの間まで、僕も似たような状態だったから。[%p]"
-msgstr "6900:But I didn't feel like running away and leaving her alone. I knew what she was going through. I'd experienced the exact same thing myself, quite recently.[%p]"
+msgstr "6900:でも、優愛を放っておいて逃げ出したいとも思わなかった。[linebreak]優愛の今の心理状態を、僕は理解できる。[linebreak]ついこの間まで、僕も似たような状態だったから。[%p]"
 
 msgid "7000:優愛から“あなたはＤＩＤ”だと告げられてから、ずっと不安定だった。[linebreak]だから分かる。自分というものの存在がガラガラと音を立てて崩れていく感覚が。[%p]"
-msgstr "7000:Ever since Yua had told me I had DID, my whole life had felt unstable. So, I understood. I knew how it felt to have your whole identity come crashing down around you.[%p]"
+msgstr "7000:優愛から“あなたはＤＩＤ”だと告げられてから、ずっと不安定だった。[linebreak]だから分かる。自分というものの存在がガラガラと音を立てて崩れていく感覚が。[%p]"
 
 msgid "7100:ＤＩＤなのか、あるいはもっと別の原因によるものなのかは分からないけど。[%p]"
-msgstr "7100:I didn't know if it was DID, or something else.[%p]"
+msgstr "7100:ＤＩＤなのか、あるいはもっと別の原因によるものなのかは分からないけど。[%p]"
 
 msgid "7200:少なくとも、優愛は、なにかがおかしい。[linebreak]もともと、おかしかった。[%p]"
-msgstr "7200:But there was something wrong with Yua. There had been for a long time.[%p]"
+msgstr "7200:少なくとも、優愛は、なにかがおかしい。[linebreak]もともと、おかしかった。[%p]"
 
 msgid "7300:演技とは思えないくらい、性格の裏表が激しかったじゃないか。[linebreak]初めて話しかけてきたときと、キレたときのギャップは、同一人物とは思えなかったじゃないか。[%p]"
-msgstr "7300:Her personality changed too drastically from one moment to the next for it to be an act. I remembered thinking that the gap between when she'd first spoken to me, and when she'd snapped, had been way too big for them to be the same person.[%p]"
+msgstr "7300:演技とは思えないくらい、性格の裏表が激しかったじゃないか。[linebreak]初めて話しかけてきたときと、キレたときのギャップは、同一人物とは思えなかったじゃないか。[%p]"
 
 msgid "7400:[name]拓巳[line]「優愛は……ＤＩＤなんじゃ……？」[%p]"
-msgstr "7400:[name]拓巳[line]Yua, do you have DID?[%p]"
+msgstr "7400:[name]拓巳[line]「優愛は……ＤＩＤなんじゃ……？」[%p]"
 
 msgid "7500:[name]優愛[line]「違う……ちゃんといた。ちゃんといたの！\u3000美愛ちゃんは、ちゃんといた！」[%p]"
-msgstr "7500:[name]優愛[line]No... she was real. She was real! Mia was my sister![%p]"
+msgstr "7500:[name]優愛[line]「違う……ちゃんといた。ちゃんといたの！\u3000美愛ちゃんは、ちゃんといた！」[%p]"
 
 msgid "7600:優愛は胸を片手で隠したまま、脱いだ上着のポケットをまさぐった。[linebreak]ケータイを取り出して、なにやら操作し、僕に突きつけてくる。[%p]"
-msgstr "7600:Yua reached into her jacket pocket, still covering her chest with one hand. She took out her phone and pulled something up for me to see.[%p]"
+msgstr "7600:優愛は胸を片手で隠したまま、脱いだ上着のポケットをまさぐった。[linebreak]ケータイを取り出して、なにやら操作し、僕に突きつけてくる。[%p]"
 
 msgid "7700:[name]優愛[line]「見て」[%p]"
-msgstr "7700:[name]優愛[line]Look.[%p]"
+msgstr "7700:[name]優愛[line]「見て」[%p]"
 
 msgid "7800:[name]優愛[line]「ここに、いるでしょう？」[%p]"
-msgstr "7800:[name]優愛[line]She's right here, right?[%p]"
+msgstr "7800:[name]優愛[line]「ここに、いるでしょう？」[%p]"
 
 msgid "7900:[name]優愛[line]「わたしたちが、いるでしょう！？」[%p]"
-msgstr "7900:[name]優愛[line]We're right here, right?[%p]"
+msgstr "7900:[name]優愛[line]「わたしたちが、いるでしょう！？」[%p]"
 
 msgid "8000:[name]拓巳[line]「あ……」[%p]"
-msgstr "8000:[name]拓巳[line]Ah...[%p]"
+msgstr "8000:[name]拓巳[line]「あ……」[%p]"
 
 msgid "8100:いる。[linebreak]確かに、２人いる。[linebreak]これは合成とは思えない。[%p]"
-msgstr "8100:She was. There were two of them. It didn't look like it could've been digitally altered.[%p]"
+msgstr "8100:いる。[linebreak]確かに、２人いる。[linebreak]これは合成とは思えない。[%p]"
 
 msgid "8200:さすが双子。とてもよく似てる。[linebreak]眼鏡があるかなしかぐらいしか、違いがない。[linebreak]髪型までそっくりだ。[%p]"
-msgstr "8200:You could tell they were twins. They looked almost exactly alike. The only difference was the glasses. Even their hairstyles were the same.[%p]"
+msgstr "8200:さすが双子。とてもよく似てる。[linebreak]眼鏡があるかなしかぐらいしか、違いがない。[linebreak]髪型までそっくりだ。[%p]"
 
 msgid "8300:[name]優愛[line]「わたしは、わたしよ……」[%p]"
-msgstr "8300:[name]優愛[line]I'm me.[%p]"
+msgstr "8300:[name]優愛[line]「わたしは、わたしよ……」[%p]"
 
 msgid "8400:[name]優愛[line]「わたしは、ここにいる……」[%p]"
-msgstr "8400:[name]優愛[line]I'm right here.[%p]"
+msgstr "8400:[name]優愛[line]「わたしは、ここにいる……」[%p]"
 
 msgid "8500:[name]拓巳[line]「君は、どっちなんだ……？」[%p]"
-msgstr "8500:[name]拓巳[line]Which are you?[%p]"
+msgstr "8500:[name]拓巳[line]「君は、どっちなんだ……？」[%p]"
 
 msgid "8600:[name]優愛[line]「わたしは……」[%p]"
-msgstr "8600:[name]優愛[line]I'm...[%p]"
+msgstr "8600:[name]優愛[line]「わたしは……」[%p]"
 
 msgid "8700:そして指差したのは。[%p]"
-msgstr "8700:She pointed…[%p]"
+msgstr "8700:そして指差したのは。[%p]"
 
 msgid "8800:左の――[%p]"
-msgstr "8800:To the left...[%p]"
+msgstr "8800:左の――[%p]"
 
 msgid "8900:そのとき、床が激しく揺れ始めた。[linebreak]地震……！？[linebreak]この前より大きい……！[%p]"
-msgstr "8900:And then the floor began to violently shake. An earthquake!? It was bigger than the last one…![%p]"
+msgstr "8900:そのとき、床が激しく揺れ始めた。[linebreak]地震……！？[linebreak]この前より大きい……！[%p]"
 
 msgid "9000:[name]拓巳[line]「……ぐぁぁぁっ」[%p]"
-msgstr "9000:[name]拓巳[line]Gwaaah![%p]"
+msgstr "9000:[name]拓巳[line]「……ぐぁぁぁっ」[%p]"
 
 msgid "9100:激しい耳鳴り。[linebreak]頭が割れるほどの、甲高い共鳴音。[%p]"
-msgstr "9100:There was a violent ringing in my ears, a high-pitched sound that threatened to split open my head.[%p]"
+msgstr "9100:激しい耳鳴り。[linebreak]頭が割れるほどの、甲高い共鳴音。[%p]"
 
 msgid "9200:優愛は頭を押さえ、その場にうずくまる。[linebreak]僕もそうしたかったけど、手の自由が効かないからできなくて。[linebreak]耳に何千本もの細い針を突き刺されているようで。[%p]"
-msgstr "9200:Yua covered her head with her hands and curled up into a ball. I wanted to do the same, but I couldn't move my hands. It was like thousands of tiny needles being stabbed into my ears.[%p]"
+msgstr "9200:優愛は頭を押さえ、その場にうずくまる。[linebreak]僕もそうしたかったけど、手の自由が効かないからできなくて。[linebreak]耳に何千本もの細い針を突き刺されているようで。[%p]"
 
 msgid "9300:そして――[%p]"
-msgstr "9300:And then...[%p]"
+msgstr "9300:そして――[%p]"
 
 msgid "9400:すさまじい衝撃とともに、視界が白く染まった――[%p]"
-msgstr "9400:With a terrible impact, my vision turned white.[%p]"
+msgstr "9400:すさまじい衝撃とともに、視界が白く染まった――[%p]"
 

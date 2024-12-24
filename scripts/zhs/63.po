@@ -10,143 +10,143 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:渋谷に戻ってきた頃には、夕方になっていた。病院は一応渋谷区内だけど、駅としては代々木の方が近いから、通うには電車に乗るのが一番早い。[%p]"
-msgstr "0:By the time I got back to Shibuya, it was evening. The hospital itself was in Shibuya Ward, but the closest station was Yoyogi. Taking the train was the fastest way to get there and back.[%p]"
+msgstr "0:渋谷に戻ってきた頃には、夕方になっていた。病院は一応渋谷区内だけど、駅としては代々木の方が近いから、通うには電車に乗るのが一番早い。[%p]"
 
 msgid "100:でも山手線は相変わらず人だらけで、たった二駅だけど往復するだけですごく疲れる。[%p]"
-msgstr "100:The Yamanote Line was as crowded as ever, though, and riding just two stations was enough to make me feel exhausted.[%p]"
+msgstr "100:でも山手線は相変わらず人だらけで、たった二駅だけど往復するだけですごく疲れる。[%p]"
 
 msgid "200:これ以上は電車に乗るのが苦痛だったから、渋谷駅を出てベースまで歩くことにした。[%p]"
-msgstr "200:I didn't think I was up for getting on another train, so I decided to walk from Shibuya Station to the Base.[%p]"
+msgstr "200:これ以上は電車に乗るのが苦痛だったから、渋谷駅を出てベースまで歩くことにした。[%p]"
 
 msgid "300:それにしても駅前は人が多すぎる。[linebreak]人だかりは嫌いだ。頭がぐるぐる回りそうになる。[%p]"
-msgstr "300:There were just too many people at the stations. I hated crowds. They always made me feel like I was going to pass out.[%p]"
+msgstr "300:それにしても駅前は人が多すぎる。[linebreak]人だかりは嫌いだ。頭がぐるぐる回りそうになる。[%p]"
 
 msgid "400:長居したくないので、足早にスクランブル交差点を抜けようとした。[%p]"
-msgstr "400:I didn't want to spend any more time there than I had to, so I quickly tried to get across Scramble Crossing.[%p]"
+msgstr "400:長居したくないので、足早にスクランブル交差点を抜けようとした。[%p]"
 
 msgid "500:でもここは、まっすぐ歩くことすら困難。[%p]"
-msgstr "500:That area was so packed, it was hard to even walk in a straight line.[%p]"
+msgstr "500:でもここは、まっすぐ歩くことすら困難。[%p]"
 
 msgid "600:ちょっとでもフラフラ歩こうものなら、すれ違う人や追い抜いていく人にぶつかってしまう。[%p]"
-msgstr "600:If you didn't keep a steady, forward pace, you'd run into the people walking beside you or get hit from behind.[%p]"
+msgstr "600:ちょっとでもフラフラ歩こうものなら、すれ違う人や追い抜いていく人にぶつかってしまう。[%p]"
 
 msgid "700:しかも、ティッシュ配りの連中が行く手を塞ぐようにして、[linebreak]強引にポケットティッシュを差し出してくるんだ。[%p]"
-msgstr "700:There were also people blocking your path, trying to hand you packs of tissues with ads on them. They'd even force them into your pocket.[%p]"
+msgstr "700:しかも、ティッシュ配りの連中が行く手を塞ぐようにして、[linebreak]強引にポケットティッシュを差し出してくるんだ。[%p]"
 
 msgid "800:僕はうんざりしながら一人目は無視し、二人目は割とかわいいおねいさんだったから受け取った。[%p]"
-msgstr "800:I ignored the first one, but the second was a cute lady, so I took some from her.[%p]"
+msgstr "800:僕はうんざりしながら一人目は無視し、二人目は割とかわいいおねいさんだったから受け取った。[%p]"
 
 msgid "900:ホント、邪魔だよなあ、ティッシュ配り。そんな道の真ん中に立ってるんじゃない。[linebreak]まあ、タダでもらえるならもらっておくけど。[%p]"
-msgstr "900:These tissue people were just the worst. They shouldn't have been allowed to stand in the middle of the sidewalk like that. I took the tissues anyway, though, since they were free.[%p]"
+msgstr "900:ホント、邪魔だよなあ、ティッシュ配り。そんな道の真ん中に立ってるんじゃない。[linebreak]まあ、タダでもらえるならもらっておくけど。[%p]"
 
 msgid "1000:受け取ったポケットティッシュには、赤い紙に白字で文章だけが書かれているチラシが入っていた。[%p]"
-msgstr "1000:I looked at the tissues I'd been given. This pack came with a small flyer, with white text on a red background.[%p]"
+msgstr "1000:受け取ったポケットティッシュには、赤い紙に白字で文章だけが書かれているチラシが入っていた。[%p]"
 
 msgid "1100:やけにおどろおどろしいなあ。[linebreak]こんな色づかいはなかなか見ないぞ。[%p]"
-msgstr "1100:It was a pretty weird color combination, kind of spooky. It wasn't a combination you saw often, that much I was sure of.[%p]"
+msgstr "1100:やけにおどろおどろしいなあ。[linebreak]こんな色づかいはなかなか見ないぞ。[%p]"
 
 msgid "1200:歩きながら、なんとなく読んでみる。[%p]"
-msgstr "1200:I read the flyer as I walked along.[%p]"
+msgstr "1200:歩きながら、なんとなく読んでみる。[%p]"
 
 msgid "1300:献血のチラシだった。それを読んで、さっき病院で書いたチェックシートのことを思い出す。[%p]"
-msgstr "1300:It was a flyer for a blood donation service. As I looked at it, I thought back to the worksheet I'd been given at the hospital.[%p]"
+msgstr "1300:献血のチラシだった。それを読んで、さっき病院で書いたチェックシートのことを思い出す。[%p]"
 
 msgid "1400:４年前は、あんなものを書いた記憶はない。[linebreak]もしかすると最近になって診察方法が変わったのかもしれない。[%p]"
-msgstr "1400:I hadn't seen anything like it when I'd gone there four years ago. Maybe it was some new kind of diagnostic that had only gotten popular over the last few years.[%p]"
+msgstr "1400:４年前は、あんなものを書いた記憶はない。[linebreak]もしかすると最近になって診察方法が変わったのかもしれない。[%p]"
 
 msgid "1500:それなのに、なぜかあのチェックシートに見覚えがある。[%p]"
-msgstr "1500:But still... I felt like I'd seen it before.[%p]"
+msgstr "1500:それなのに、なぜかあのチェックシートに見覚えがある。[%p]"
 
 msgid "1600:既視感――デジャヴ。[linebreak]最近、こんなのばっかりだ。[%p]"
-msgstr "1600:Déjà vu. Again. It felt like that was happening all the time lately.[%p]"
+msgstr "1600:既視感――デジャヴ。[linebreak]最近、こんなのばっかりだ。[%p]"
 
 msgid "1700:自分の身体も心も思い通りに行かないっていうのが、すごく気持ち悪い。だから、このデジャヴの正体をなんとか突き止めようと、僕は自分の記憶を掘り返してみる。[%p]"
-msgstr "1700:It was really creepy when your body and mind refused to do what you wanted them to. So, I tried to dig through my memories to find out what was going on with this déjà vu.[%p]"
+msgstr "1700:自分の身体も心も思い通りに行かないっていうのが、すごく気持ち悪い。だから、このデジャヴの正体をなんとか突き止めようと、僕は自分の記憶を掘り返してみる。[%p]"
 
 msgid "1800:週に一度ぐらいのペースで、母さんに連れられて病院へ通う日々だった。僕はどんなときでもただひたすら口をつぐみ、首を上下か左右に動かすだけの意思表示しかしなかった。[%p]"
-msgstr "1800:My mother used to take me to the hospital about once a week. No matter what they asked, I'd never respond. I'd just move my head up and down or side to side.[%p]"
+msgstr "1800:週に一度ぐらいのペースで、母さんに連れられて病院へ通う日々だった。僕はどんなときでもただひたすら口をつぐみ、首を上下か左右に動かすだけの意思表示しかしなかった。[%p]"
 
 msgid "1900:最初はごく普通の診察室で診てもらっていたけど、僕にまったく快復する気配がないから、そのうち別の部屋へ通されるようになった。[%p]"
-msgstr "1900:At first, they saw me in a normal exam room, but when I showed no signs of recovery, they started sending me someplace different.[%p]"
+msgstr "1900:最初はごく普通の診察室で診てもらっていたけど、僕にまったく快復する気配がないから、そのうち別の部屋へ通されるようになった。[%p]"
 
 msgid "2000:そこはカウンセリングルームとでも言うべき部屋で、ソファがあったりぬいぐるみがたくさん置いてあったりと、患者がリラックスできることを第一に考えた空間だった。[%p]"
-msgstr "2000:The other place was some kind of counseling room. It had a sofa and lots of stuffed animals, and seemed to have been decorated with the aim of putting the patient at ease.[%p]"
+msgstr "2000:そこはカウンセリングルームとでも言うべき部屋で、ソファがあったりぬいぐるみがたくさん置いてあったりと、患者がリラックスできることを第一に考えた空間だった。[%p]"
 
 msgid "2100:高科先生は誰も責めたりせず、根気強く僕を治療しようとしてくれた。喋れないんじゃなくて喋らないだけっていうことは、先生しか見抜いてなかった。[%p]"
-msgstr "2100:Doctor Takashina never blamed anybody. He just kept trying to make me better. He was the only one who figured out that I could speak, but just didn't want to say anything.[%p]"
+msgstr "2100:高科先生は誰も責めたりせず、根気強く僕を治療しようとしてくれた。喋れないんじゃなくて喋らないだけっていうことは、先生しか見抜いてなかった。[%p]"
 
 msgid "2200:母親はわざとらしい明るい声で僕にあれこれ話しかけてきていた。[%p]"
-msgstr "2200:My mother would always talk to me in a deliberately chipper voice.[%p]"
+msgstr "2200:母親はわざとらしい明るい声で僕にあれこれ話しかけてきていた。[%p]"
 
 msgid "2300:いつも爽やかな笑顔で迎えてくれる高科先生。[linebreak]看護師さんたちも優しかった。[linebreak]それに――[%p]"
-msgstr "2300:Doctor Takashina would always welcome me with a bright smile. The nurses were always kind, too. And...[%p]"
+msgstr "2300:いつも爽やかな笑顔で迎えてくれる高科先生。[linebreak]看護師さんたちも優しかった。[linebreak]それに――[%p]"
 
 msgid "2400:[name]拓巳[line]「ん……？」[%p]"
-msgstr "2400:[name]拓巳[line]Hmm?[%p]"
+msgstr "2400:[name]拓巳[line]「ん……？」[%p]"
 
 msgid "2500:それに……[linebreak]その部屋にはいつも、もうひとり、誰かがいたような気がする。[%p]"
-msgstr "2500:And... It felt to me like there had always been somebody else in that room.[%p]"
+msgstr "2500:それに……[linebreak]その部屋にはいつも、もうひとり、誰かがいたような気がする。[%p]"
 
 msgid "2600:そう、その人は真っ黒のスーツという、病院にはひどく場違いな格好をしていた。[%p]"
-msgstr "2600:Right. He was always wearing a dark black suit. It was a weird outfit to see in a hospital.[%p]"
+msgstr "2600:そう、その人は真っ黒のスーツという、病院にはひどく場違いな格好をしていた。[%p]"
 
 msgid "2700:僕と同じくらい無言で、声を聞いたことすらない。いったい何者だったのか、最後まで分からなかった。[%p]"
-msgstr "2700:He was just as quiet as I was. I don't think I ever heard him talk. I never did figure out who he was.[%p]"
+msgstr "2700:僕と同じくらい無言で、声を聞いたことすらない。いったい何者だったのか、最後まで分からなかった。[%p]"
 
 msgid "2800:病院の医師っていう雰囲気でもなかったし、いつもひとり離れた場所に立って窓の外を眺めていた。[%p]"
-msgstr "2800:He didn't feel like a doctor. He always just stood off to the side, looking out the window.[%p]"
+msgstr "2800:病院の医師っていう雰囲気でもなかったし、いつもひとり離れた場所に立って窓の外を眺めていた。[%p]"
 
 msgid "2900:僕は心の中でこっそり“のぞみさん”って呼んでた。別にそのスーツ男がそう名乗ったからじゃない。[%p]"
-msgstr "2900:I always called him “Mr. Nozomi.” He'd never actually given me his name, though.[%p]"
+msgstr "2900:僕は心の中でこっそり“のぞみさん”って呼んでた。別にそのスーツ男がそう名乗ったからじゃない。[%p]"
 
 msgid "3000:[name]拓巳[line]「『ＮＯＺＯＭＩ』……」[%p]"
-msgstr "3000:[name]拓巳[line]NOZOMI...[%p]"
+msgstr "3000:[name]拓巳[line]「『ＮＯＺＯＭＩ』……」[%p]"
 
 msgid "3100:スーツ男の胸元には、いつも必ず小さなバッジがついていた。[%p]"
-msgstr "3100:The man in the suit always wore a small badge.[%p]"
+msgstr "3100:スーツ男の胸元には、いつも必ず小さなバッジがついていた。[%p]"
 
 msgid "3200:そこに『ＮＯＺＯＭＩ』って書いてあったんだ。[linebreak]ロゴみたいなデザインだったから、きっと名札じゃないんだろうけど。[%p]"
-msgstr "3200:It read “NOZOMI.” It looked like a logo of some kind, so it probably wasn't a name tag.[%p]"
+msgstr "3200:そこに『ＮＯＺＯＭＩ』って書いてあったんだ。[linebreak]ロゴみたいなデザインだったから、きっと名札じゃないんだろうけど。[%p]"
 
 msgid "3300:そう、さっきのチェックシートにも、その『ＮＯＺＯＭＩ』っていうロゴが印刷してあった。[%p]"
-msgstr "3300:Yeah... the worksheet had the “NOZOMI” logo on it, too.[%p]"
+msgstr "3300:そう、さっきのチェックシートにも、その『ＮＯＺＯＭＩ』っていうロゴが印刷してあった。[%p]"
 
 msgid "3400:どこかで見たことがあるような気がしてたんだけど、やっと思い出したよ。[linebreak]ようやく少しすっきりした。[%p]"
-msgstr "3400:No wonder I thought I'd seen it somewhere before. I felt a little better now that the mystery was solved.[%p]"
+msgstr "3400:どこかで見たことがあるような気がしてたんだけど、やっと思い出したよ。[linebreak]ようやく少しすっきりした。[%p]"
 
 msgid "3500:それにしても『ＮＯＺＯＭＩ』ってなんだろう？[linebreak]企業名なのは確かだろうけど。[%p]"
-msgstr "3500:What was “NOZOMI,” though? It was clearly the name of some kind of company.[%p]"
+msgstr "3500:それにしても『ＮＯＺＯＭＩ』ってなんだろう？[linebreak]企業名なのは確かだろうけど。[%p]"
 
 msgid "3600:[name]拓巳[line]「のぞみさんっていう美人女社長が設立した、カウンターテロ組織とか。ふひひひ、マンガみたいだ」[%p]"
-msgstr "3600:[name]拓巳[line]Maybe it's a counter-terrorist organization founded by its hot female CEO, Nozomi. Fweheheheh. Like in a manga.[%p]"
+msgstr "3600:[name]拓巳[line]「のぞみさんっていう美人女社長が設立した、カウンターテロ組織とか。ふひひひ、マンガみたいだ」[%p]"
 
 msgid "3700:ベースに帰ってきて、さっそくネットで『ＮＯＺＯＭＩ』を検索してみた。でも、逆にたくさん出てきて、どれかひとつに特定することなんてできなかった。[%p]"
-msgstr "3700:When I got back to the Base, I ran a search for “NOZOMI.” But it was just a common word that meant “wish” in Japanese, too, so there were too many results to narrow down.[%p]"
+msgstr "3700:ベースに帰ってきて、さっそくネットで『ＮＯＺＯＭＩ』を検索してみた。でも、逆にたくさん出てきて、どれかひとつに特定することなんてできなかった。[%p]"
 
 msgid "3800:まあ、普通に考えれば、のぞみさんは例のチェックシートを作っている会社の人で、あの病院に売り込みに来た営業マン、っていうところかな。[%p]"
-msgstr "3800:Thinking back, the logical assumption was that Mr. Nozomi worked for a company that made those worksheets, and was a salesman that had been visiting the hospital.[%p]"
+msgstr "3800:まあ、普通に考えれば、のぞみさんは例のチェックシートを作っている会社の人で、あの病院に売り込みに来た営業マン、っていうところかな。[%p]"
 
 msgid "3900:それで最近になってやっと採用されて、僕も今日はそれを書かされた……と。[%p]"
-msgstr "3900:Sometime recently, he'd finally managed to sell the hospital on using the sheets, and today I'd been asked to fill one of them out.[%p]"
+msgstr "3900:それで最近になってやっと採用されて、僕も今日はそれを書かされた……と。[%p]"
 
 msgid "4000:いや、さすがにそれはないよ。[linebreak]患者の診察に、そういう外部の人が同席するなんて聞いたことがない。[%p]"
-msgstr "4000:No, wait. That was impossible. I'd never heard of a salesman or somebody on the outside being allowed to sit in on a patient's sessions.[%p]"
+msgstr "4000:いや、さすがにそれはないよ。[linebreak]患者の診察に、そういう外部の人が同席するなんて聞いたことがない。[%p]"
 
 msgid "4100:結局、のぞみさんって何者だったんだろう……。[linebreak]心に引っかかる記憶が出てきて、僕はまたうんざりした。[%p]"
-msgstr "4100:Just who was that guy? Crap. Now I had another nagging memory to deal with.[%p]"
+msgstr "4100:結局、のぞみさんって何者だったんだろう……。[linebreak]心に引っかかる記憶が出てきて、僕はまたうんざりした。[%p]"
 
 msgid "4200:とにかく既視感の正体についてははっきりした。[linebreak]来週、記憶の件で今度こそちゃんと先生に質問するって決めた。後は学校なんて行かずに引きこもっていよう。[%p]"
-msgstr "4200:At least I'd figured out where the déjà vu was coming from. I decided that next week, I would ask the doctor about my memories. Until then, I'd forget about school and just stay in my room.[%p]"
+msgstr "4200:とにかく既視感の正体についてははっきりした。[linebreak]来週、記憶の件で今度こそちゃんと先生に質問するって決めた。後は学校なんて行かずに引きこもっていよう。[%p]"
 
 msgid "4300:僕を傷つけようとしているヤツらがいる学校なんかに、行ってられない。ホントはあんまり『最低登校シフト表』で組んだスケジュールを崩したくはないけど……命には代えられない。[%p]"
-msgstr "4300:I couldn't go to school if there was someone there trying to hurt me. I didn't want to break my schedule, but... it wouldn't do me any good if I was dead.[%p]"
+msgstr "4300:僕を傷つけようとしているヤツらがいる学校なんかに、行ってられない。ホントはあんまり『最低登校シフト表』で組んだスケジュールを崩したくはないけど……命には代えられない。[%p]"
 
 msgid "4400:『ＮＯＺＯＭＩ』探しはそこで切り上げて、＠ちゃんねるで面白そうなスレがないか探してみる。[%p]"
-msgstr "4400:I gave up on my search for NOZOMI and went to @channel to see if there were any interesting threads.[%p]"
+msgstr "4400:『ＮＯＺＯＭＩ』探しはそこで切り上げて、＠ちゃんねるで面白そうなスレがないか探してみる。[%p]"
 
 msgid "4500:ニュース板は、『ニュージェネ』ほぼ一色だった。[%p]"
-msgstr "4500:The news board was filled with nothing but New Generation Madness threads.[%p]"
+msgstr "4500:ニュース板は、『ニュージェネ』ほぼ一色だった。[%p]"
 
 msgid "4600:エンスー板でも『ニュージェネの犯行をエンスーで再現してみる』スレなどがあって、僕はいい加減うんざりした。[%p]"
-msgstr "4600:Even the ESO board had a “Recreate the NewGen Murders in ESO” thread going. I was getting sick of it.[%p]"
+msgstr "4600:エンスー板でも『ニュージェネの犯行をエンスーで再現してみる』スレなどがあって、僕はいい加減うんざりした。[%p]"
 

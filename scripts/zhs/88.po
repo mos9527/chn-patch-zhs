@@ -10,83 +10,83 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:真っ暗な部屋の中で、ＰＣのモニタの青白い光だけがうっすらと浮かび上がっている。[%p]"
-msgstr "0:The only light in the dark room was the pale blue glow of the monitor.[%p]"
+msgstr "0:真っ暗な部屋の中で、ＰＣのモニタの青白い光だけがうっすらと浮かび上がっている。[%p]"
 
 msgid "100:映っているのは『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』のキャラクター星来のスクリーンセーバーだ。[%p]"
-msgstr "100:It was a screensaver featuring Seira, a character from Blood Tune THE ANIMATION.[%p]"
+msgstr "100:映っているのは『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』のキャラクター星来のスクリーンセーバーだ。[%p]"
 
 msgid "200:半日前まで咲畑梨深という少女がいたコンテナハウスには、今はこの部屋の主である西條拓巳の姿しかない。[%p]"
-msgstr "200:Rimi Sakihata had been here in this container house just half a day ago. But now its only occupant was its owner, Takumi Nishijo.[%p]"
+msgstr "200:半日前まで咲畑梨深という少女がいたコンテナハウスには、今はこの部屋の主である西條拓巳の姿しかない。[%p]"
 
 msgid "300:時間はすでに午前５時になりつつある。[%p]"
-msgstr "300:It was getting close to 5 AM.[%p]"
+msgstr "300:時間はすでに午前５時になりつつある。[%p]"
 
 msgid "400:拓巳の日常は、明け方までネットゲームをプレイし、その後ソファで泥のように眠る、というものだ。[%p]"
-msgstr "400:Takumi's daily life revolved around playing video games until dawn and then passing out on the sofa.[%p]"
+msgstr "400:拓巳の日常は、明け方までネットゲームをプレイし、その後ソファで泥のように眠る、というものだ。[%p]"
 
 msgid "500:今も拓巳は、ソファに窮屈そうな姿勢で横になっていた。[%p]"
-msgstr "500:Right now, he was curled up in a cramped position on the sofa.[%p]"
+msgstr "500:今も拓巳は、ソファに窮屈そうな姿勢で横になっていた。[%p]"
 
 msgid "600:彼は睡眠にベッドを使わない。[%p]"
-msgstr "600:He didn't sleep on the bed.[%p]"
+msgstr "600:彼は睡眠にベッドを使わない。[%p]"
 
 msgid "700:せっかくちゃんとしたベッドがあるのにそこに寝ないのは、ベッドの上にマンガ本やＣＤなどが積み上げられ占拠されているからだ。[%p]"
-msgstr "700:He had one, but he didn't sleep in it because it was piled too high with CDs and manga volumes.[%p]"
+msgstr "700:せっかくちゃんとしたベッドがあるのにそこに寝ないのは、ベッドの上にマンガ本やＣＤなどが積み上げられ占拠されているからだ。[%p]"
 
 msgid "800:片付けるのを面倒臭がっているうちに、いつしかベッドは物置と化した。[%p]"
-msgstr "800:At first, he'd just been too lazy to clean it off, and then at some point, it began to function as a storage shelf.[%p]"
+msgstr "800:片付けるのを面倒臭がっているうちに、いつしかベッドは物置と化した。[%p]"
 
 msgid "900:以来、彼の就寝スペースは２人がけのソファとなっている。[%p]"
-msgstr "900:Ever since then, he'd been sleeping on the two-person sofa.[%p]"
+msgstr "900:以来、彼の就寝スペースは２人がけのソファとなっている。[%p]"
 
 msgid "1000:[name]拓巳[line]「う……う……」[%p]"
-msgstr "1000:[name]拓巳[line]Ugh...[%p]"
+msgstr "1000:[name]拓巳[line]「う……う……」[%p]"
 
 msgid "1100:拓巳の口からは、辛そうなうめき声が漏れていた。[%p]"
-msgstr "1100:An awful moan slipped from Takumi's lips.[%p]"
+msgstr "1100:拓巳の口からは、辛そうなうめき声が漏れていた。[%p]"
 
 msgid "1200:うなされているのか、全身に汗をかき、閉じたまぶたがピクピクと震えている。[%p]"
-msgstr "1200:His body was soaked with sweat, and his eyelids were twitching. He might've been having a nightmare.[%p]"
+msgstr "1200:うなされているのか、全身に汗をかき、閉じたまぶたがピクピクと震えている。[%p]"
 
 msgid "1300:表情は苦しそうに歪み、[linebreak]何度も寝返りを打ってはソファから転げ落ちそうになっている。[%p]"
-msgstr "1300:His expression warped with pain. He kept tossing and turning as he lay there, almost falling off.[%p]"
+msgstr "1300:表情は苦しそうに歪み、[linebreak]何度も寝返りを打ってはソファから転げ落ちそうになっている。[%p]"
 
 msgid "1400:と、不意に拓巳は仰向けになったまま目を異様なまでに見開いた。瞳は充血して赤く、しかもかすかに眼球そのものが痙攣している。[%p]"
-msgstr "1400:Suddenly, his eyes opened wide, and he stared at the ceiling. His eyes were bloodshot, and the eyeballs themselves seemed to be twitching a little.[%p]"
+msgstr "1400:と、不意に拓巳は仰向けになったまま目を異様なまでに見開いた。瞳は充血して赤く、しかもかすかに眼球そのものが痙攣している。[%p]"
 
 msgid "1500:そのまま、まばたきひとつせずにのっそりと起き上がると、[linebreak]"
-msgstr "1500:He stood up without blinking even once,[linebreak]"
+msgstr "1500:そのまま、まばたきひとつせずにのっそりと起き上がると、[linebreak]"
 
 msgid "1600:フラフラとした足取りでＰＣの前に向かった。[%p]"
-msgstr "1600:and staggered over to his PC.[%p]"
+msgstr "1600:フラフラとした足取りでＰＣの前に向かった。[%p]"
 
 msgid "1700:そのまま、まばたきひとつせずにのっそりと起き上がると、フラフラとした足取りでＰＣの前に向かった。"
-msgstr "1700:He stood up without blinking even once, and staggered over to his PC."
+msgstr "1700:そのまま、まばたきひとつせずにのっそりと起き上がると、フラフラとした足取りでＰＣの前に向かった。"
 
 msgid "1800:イスには座らず、立ったままマウスを動かす。スクリーンセーバーが消え、デスクトップがモニタに表示される。[%p]"
-msgstr "1800:He didn't sit down. Instead, he moved the mouse while standing up. The screensaver on his monitor disappeared and was replaced by his desktop.[%p]"
+msgstr "1800:イスには座らず、立ったままマウスを動かす。スクリーンセーバーが消え、デスクトップがモニタに表示される。[%p]"
 
 msgid "1900:モニタの青白い光に照らされた拓巳の表情は、ひどく虚ろだ。身体はゆらゆらと揺れている。半開きにした口からはよだれが垂れかけている。[%p]"
-msgstr "1900:His expression, illuminated by the pale light of the monitor, was vacant and empty. His body trembled and shook from side to side. Drool pooled and fell from his mouth.[%p]"
+msgstr "1900:モニタの青白い光に照らされた拓巳の表情は、ひどく虚ろだ。身体はゆらゆらと揺れている。半開きにした口からはよだれが垂れかけている。[%p]"
 
 msgid "2000:その姿は典型的な夢遊病患者だった。[%p]"
-msgstr "2000:He looked exactly like the typical sleepwalker.[%p]"
+msgstr "2000:その姿は典型的な夢遊病患者だった。[%p]"
 
 msgid "2100:拓巳は浮かされたように、ネットブラウザを起動させ＠ちゃんねるのページを開いた。[%p]"
-msgstr "2100:He opened up his internet browser in a trance, and went to the page for @chan.[%p]"
+msgstr "2100:拓巳は浮かされたように、ネットブラウザを起動させ＠ちゃんねるのページを開いた。[%p]"
 
 msgid "2200:動き自体は緩慢だが、迷う様子はなくニュース速報板の中から『ニュージェネ』に関して報じたスレをピックアップした。[%p]"
-msgstr "2200:His movements were slow and uneven, but there was no hesitation in his hands as he went directly for the News Board's NewGen threads.[%p]"
+msgstr "2200:動き自体は緩慢だが、迷う様子はなくニュース速報板の中から『ニュージェネ』に関して報じたスレをピックアップした。[%p]"
 
 msgid "2300:その数はおよそ６０近くに及び、拓巳はそれを上から順にひとつずつ開いていく。[%p]"
-msgstr "2300:There were almost 60 in all, and Takumi opened every single one.[%p]"
+msgstr "2300:その数はおよそ６０近くに及び、拓巳はそれを上から順にひとつずつ開いていく。[%p]"
 
 msgid "2400:そしてモニタを眺めたまま、ブラインドタッチでキーボードを叩き始めた。[%p]"
-msgstr "2400:His gaze was locked on the screen, and he was typing on the keyboard without looking down at it.[%p]"
+msgstr "2400:そしてモニタを眺めたまま、ブラインドタッチでキーボードを叩き始めた。[%p]"
 
 msgid "2500:それを、６０あるスレのひとつひとつに対して繰り返した。[%p]"
-msgstr "2500:He typed a message into each of the 60 threads.[%p]"
+msgstr "2500:それを、６０あるスレのひとつひとつに対して繰り返した。[%p]"
 
 msgid "2600:打ち込む文字数はそれほど多くない。[linebreak]だが、それらはすべて同じ文章だった――[%p]"
-msgstr "2600:The messages he typed were short ones. And the same message was posted in every thread.[%p]"
+msgstr "2600:打ち込む文字数はそれほど多くない。[linebreak]だが、それらはすべて同じ文章だった――[%p]"
 

@@ -10,155 +10,155 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]葉月[line]「神光の救いあれ」[%p]"
-msgstr "0:[name]葉月[line]May the Divine Light save us.[%p]"
+msgstr "0:[name]葉月[line]「神光の救いあれ」[%p]"
 
 msgid "100:葉月志乃は、勤務するＡＨ東京総合病院の手術室に立っている。[linebreak]深夜。外科の手術室。[%p]"
-msgstr "100:Shino Hazuki was standing in the operating room of AH Tokyo General Hospital, where she worked. It was late at night.[%p]"
+msgstr "100:葉月志乃は、勤務するＡＨ東京総合病院の手術室に立っている。[linebreak]深夜。外科の手術室。[%p]"
 
 msgid "200:ベッドの上には、若い男――近衛千鶴男――の姿がある。[linebreak]彼は睡眠薬を盛られて意識混濁状態だった。[%p]"
-msgstr "200:On the bed was a young man, Chizuo Konoe. He'd been put into a state of semi-unconsciousness by a sleeping drug.[%p]"
+msgstr "200:ベッドの上には、若い男――近衛千鶴男――の姿がある。[linebreak]彼は睡眠薬を盛られて意識混濁状態だった。[%p]"
 
 msgid "300:[name]葉月[line]「神光の救いあれ……」[%p]"
-msgstr "300:[name]葉月[line]May the Divine Light save us...[%p]"
+msgstr "300:[name]葉月[line]「神光の救いあれ……」[%p]"
 
 msgid "400:念仏のように同じ言葉を何度もつぶやき、葉月は自らの大きく膨らんだお腹をさすった。[%p]"
-msgstr "400:She kept repeating the same phrase over and over, like a mantra, as she rubbed her heavily pregnant belly.[%p]"
+msgstr "400:念仏のように同じ言葉を何度もつぶやき、葉月は自らの大きく膨らんだお腹をさすった。[%p]"
 
 msgid "500:おもむろに白衣をはだけ。[linebreak]手術台に腰掛けて、メスを手にする。[%p]"
-msgstr "500:She slipped off her white uniform, sat down on the table, and picked up a knife.[%p]"
+msgstr "500:おもむろに白衣をはだけ。[linebreak]手術台に腰掛けて、メスを手にする。[%p]"
 
 msgid "600:[name]葉月[line]「はあ、はあ……救いあれ……」[%p]"
-msgstr "600:[name]葉月[line]Hahh... Hahh... Save us...[%p]"
+msgstr "600:[name]葉月[line]「はあ、はあ……救いあれ……」[%p]"
 
 msgid "700:そして麻酔もなしに、自らの腹を切り裂いた。[%p]"
-msgstr "700:And then, with no anesthetic, she cut open her stomach.[%p]"
+msgstr "700:そして麻酔もなしに、自らの腹を切り裂いた。[%p]"
 
 msgid "800:それは、外科や産科の医師が見れば、[linebreak]誰もが天才的だと賞賛するような手腕だった。[%p]"
-msgstr "800:There was a deftness in her touch that would've made any gynecologist or surgeon envious.[%p]"
+msgstr "800:それは、外科や産科の医師が見れば、[linebreak]誰もが天才的だと賞賛するような手腕だった。[%p]"
 
 msgid "900:看護師でありながら、驚くほどの外科施術能力を有し、しかも自らの身体を麻酔なしで切り裂くことによる痛みに耐えながら、葉月は見事な手際で腹部を切開していく。[%p]"
-msgstr "900:Despite having no training as a surgeon, and despite the pain that would come from slicing open her own stomach, she cut in clean, even lines.[%p]"
+msgstr "900:看護師でありながら、驚くほどの外科施術能力を有し、しかも自らの身体を麻酔なしで切り裂くことによる痛みに耐えながら、葉月は見事な手際で腹部を切開していく。[%p]"
 
 msgid "1000:血と、羊水を傷口から垂れ流し。[linebreak]苦痛に顔を歪めながら。[linebreak]やがて葉月は、自らの手を腹部へと挿入し。[%p]"
-msgstr "1000:Blood and amniotic fluid poured from the open wound. Her face twisted in pain. And when she was done cutting, she reached a hand into her own stomach,[%p]"
+msgstr "1000:血と、羊水を傷口から垂れ流し。[linebreak]苦痛に顔を歪めながら。[linebreak]やがて葉月は、自らの手を腹部へと挿入し。[%p]"
 
 msgid "1100:血まみれの胎児を、取り上げた。[%p]"
-msgstr "1100:and pulled out a blood-covered fetus.[%p]"
+msgstr "1100:血まみれの胎児を、取り上げた。[%p]"
 
 msgid "1200:その胎児は、まだ完全には成長しておらず、無理矢理取り上げられたことで、すでに息絶えていた。[%p]"
-msgstr "1200:The fetus wasn't fully developed, and the shock of being ripped from the wound had already ended its life.[%p]"
+msgstr "1200:その胎児は、まだ完全には成長しておらず、無理矢理取り上げられたことで、すでに息絶えていた。[%p]"
 
 msgid "1300:葉月はヘソの緒を切り、自らの子供を愛おしげに抱きしめてから、手術台の横にある台に置き、傷口の縫合にかかる。[%p]"
-msgstr "1300:Hazuki cut the umbilical cord and gave her child a loving hug before placing it on the stand next to the operating table and sewing up her wounds.[%p]"
+msgstr "1300:葉月はヘソの緒を切り、自らの子供を愛おしげに抱きしめてから、手術台の横にある台に置き、傷口の縫合にかかる。[%p]"
 
 msgid "1400:１時間もかからずにその措置を終えた彼女は、腹部に尋常ではないほどの――常人ならとっくに気絶していただろう――激痛を抱えながら、[%p]"
-msgstr "1400:The whole operation took less than an hour, and the whole time, she was exposed to an incredible pain in her abdomen—the kind of pain that would've long since knocked a normal person out.[%p]"
+msgstr "1400:１時間もかからずにその措置を終えた彼女は、腹部に尋常ではないほどの――常人ならとっくに気絶していただろう――激痛を抱えながら、[%p]"
 
 msgid "1500:手術台から立ち上がり、胎児を抱いて、ベッドに横たわる男の傍らに立った。[%p]"
-msgstr "1500:She stood up from the operating table and brought the baby over to the man on the bed.[%p]"
+msgstr "1500:手術台から立ち上がり、胎児を抱いて、ベッドに横たわる男の傍らに立った。[%p]"
 
 msgid "1600:充血した目で、意識のない男の顔を見下ろすと。[linebreak]おもむろに、メスを男の腹に突き刺す。[%p]"
-msgstr "1600:She looked down on the unconscious man with bloodshot eyes... before stabbing the knife hard into his belly.[%p]"
+msgstr "1600:充血した目で、意識のない男の顔を見下ろすと。[linebreak]おもむろに、メスを男の腹に突き刺す。[%p]"
 
 msgid "1700:それは、自らの腹を裂いたときの繊細さや正確さとはおよそかけ離れた、乱暴な手つきだった。[%p]"
-msgstr "1700:There was none of the grace and exactness she'd shown when cutting her own stomach.[%p]"
+msgstr "1700:それは、自らの腹を裂いたときの繊細さや正確さとはおよそかけ離れた、乱暴な手つきだった。[%p]"
 
 msgid "1800:痛みで男が目を覚ます。[linebreak]しかし彼の両手両足は、ベッドの足にしっかりと結ばれているため、逃れる術はなかった。[%p]"
-msgstr "1800:The man woke up from the pain. But his limbs had been tied down tightly to the bed, and there was no way for him to escape.[%p]"
+msgstr "1800:痛みで男が目を覚ます。[linebreak]しかし彼の両手両足は、ベッドの足にしっかりと結ばれているため、逃れる術はなかった。[%p]"
 
 msgid "1900:泣き叫ぶ男に構わず、葉月は突き刺したメスを引く。[linebreak]肉を、皮膚を、切り裂く。[linebreak]血が噴き出し、彼女の顔にかかる。[%p]"
-msgstr "1900:She yanked the knife across his stomach, oblivious to his screams. It tore through flesh and skin. Blood spurted out, splashing on her face.[%p]"
+msgstr "1900:泣き叫ぶ男に構わず、葉月は突き刺したメスを引く。[linebreak]肉を、皮膚を、切り裂く。[linebreak]血が噴き出し、彼女の顔にかかる。[%p]"
 
 msgid "2000:[name]葉月[line]「ふふ……神光の救いを、あなたに……」[%p]"
-msgstr "2000:[name]葉月[line]Heheh... May the Divine Light save you...[%p]"
+msgstr "2000:[name]葉月[line]「ふふ……神光の救いを、あなたに……」[%p]"
 
 msgid "2100:被害者の傷口に、彼女の両手がかかる。[%p]"
-msgstr "2100:She put her hands into the open wound.[%p]"
+msgstr "2100:被害者の傷口に、彼女の両手がかかる。[%p]"
 
 msgid "2200:無理矢理、と言っていいほどの強引さで、左右に傷口を広げる。肉が裂ける音が手術室に響く。[%p]"
-msgstr "2200:And then she yanked it open as hard as she could. The sound of ripping meat filled the operating room.[%p]"
+msgstr "2200:無理矢理、と言っていいほどの強引さで、左右に傷口を広げる。肉が裂ける音が手術室に響く。[%p]"
 
 msgid "2300:男は身体を痙攣させ、気絶しては痛みで目を覚ますのを繰り返した。[%p]"
-msgstr "2300:The man's body began to twitch, and the pain made him slip in and out of consciousness.[%p]"
+msgstr "2300:男は身体を痙攣させ、気絶しては痛みで目を覚ますのを繰り返した。[%p]"
 
 msgid "2400:十分に開いた傷口を見て、葉月は優しく微笑む。[linebreak]そして、ついさっき取り上げた自らの子を、その傷口の中に――[%p]"
-msgstr "2400:When she saw the wound was big enough, Hazuki smiled gently. And then, she took her own baby...[%p]"
+msgstr "2400:十分に開いた傷口を見て、葉月は優しく微笑む。[linebreak]そして、ついさっき取り上げた自らの子を、その傷口の中に――[%p]"
 
 msgid "2500:強引に、押し込んだ。[%p]"
-msgstr "2500:And jammed it into the wound.[%p]"
+msgstr "2500:強引に、押し込んだ。[%p]"
 
 msgid "2600:[name]拓巳[line]「これが、あなたの記憶……なんですね」[%p]"
-msgstr "2600:[name]拓巳[line]This is... your memory, isn't it?[%p]"
+msgstr "2600:[name]拓巳[line]「これが、あなたの記憶……なんですね」[%p]"
 
 msgid "2700:葉月志乃は、愕然とした想いで、その映像を見上げていた。[%p]"
-msgstr "2700:Shino Hazuki was watching the video in shock.[%p]"
+msgstr "2700:葉月志乃は、愕然とした想いで、その映像を見上げていた。[%p]"
 
 msgid "2800:スクランブル交差点の、４つの巨大街頭ビジョン。[%p]"
-msgstr "2800:There were four big TVs in Scramble Crossing.[%p]"
+msgstr "2800:スクランブル交差点の、４つの巨大街頭ビジョン。[%p]"
 
 msgid "2900:そこに、彼女自身の記憶が、映像として流されている。[linebreak]いったいどうやったのか、彼女には理解できなかった。[linebreak]おそらくは、ギガロマニアックスの、西條拓巳の、力。[%p]"
-msgstr "2900:And all of them were showing her memories. She couldn't understand how it had happened. It had to be Takumi Nishijo's Gigalomaniac powers.[%p]"
+msgstr "2900:そこに、彼女自身の記憶が、映像として流されている。[linebreak]いったいどうやったのか、彼女には理解できなかった。[linebreak]おそらくは、ギガロマニアックスの、西條拓巳の、力。[%p]"
 
 msgid "3000:[name]拓巳[line]「あなたの……記憶です……」[%p]"
-msgstr "3000:[name]拓巳[line]These... are your memories.[%p]"
+msgstr "3000:[name]拓巳[line]「あなたの……記憶です……」[%p]"
 
 msgid "3100:ディソードを手にした西條拓巳が、うなだれたまま、つぶやく。[%p]"
-msgstr "3100:Takumi Nishijo spoke with his head down and Di-Sword in hand.[%p]"
+msgstr "3100:ディソードを手にした西條拓巳が、うなだれたまま、つぶやく。[%p]"
 
 msgid "3200:暴動は、あっという間に収束していた。[linebreak]今は静寂に支配されている。[%p]"
-msgstr "3200:The riot had calmed itself instantly. Now there was only silence.[%p]"
+msgstr "3200:暴動は、あっという間に収束していた。[linebreak]今は静寂に支配されている。[%p]"
 
 msgid "3300:ついさっきまで誰彼構わず殴り合っていた何千人という人々は、皆、一様に街頭ビジョンを見上げていた。[%p]"
-msgstr "3300:The thousands of people who'd been fighting were now all staring up at the screen.[%p]"
+msgstr "3300:ついさっきまで誰彼構わず殴り合っていた何千人という人々は、皆、一様に街頭ビジョンを見上げていた。[%p]"
 
 msgid "3400:蒼白になり、目をそらす者。[linebreak]あまりのおぞましさに、嘔吐する者。[%p]"
-msgstr "3400:Some turned pale and looked away. Some threw up on the spot.[%p]"
+msgstr "3400:蒼白になり、目をそらす者。[linebreak]あまりのおぞましさに、嘔吐する者。[%p]"
 
 msgid "3500:マスコミたちは、カメラで葉月の姿を捉えようとする。[linebreak]まばゆいフラッシュが何度もたかれる。[%p]"
-msgstr "3500:The media were trying to turn their cameras on Hazuki. She was blinded by one camera flash after another.[%p]"
+msgstr "3500:マスコミたちは、カメラで葉月の姿を捉えようとする。[linebreak]まばゆいフラッシュが何度もたかれる。[%p]"
 
 msgid "3600:[name]拓巳[line]「あなたが、ニュージェネ事件の、真犯人、だったんだ……っ」[%p]"
-msgstr "3600:[name]拓巳[line]You were the one behind the NewGen killings, weren't you?[%p]"
+msgstr "3600:[name]拓巳[line]「あなたが、ニュージェネ事件の、真犯人、だったんだ……っ」[%p]"
 
 msgid "3700:[name]葉月[line]「……私の記憶を、映像に投影したんですね」[%p]"
-msgstr "3700:[name]葉月[line]You projected my memories onto the video feed, didn't you?[%p]"
+msgstr "3700:[name]葉月[line]「……私の記憶を、映像に投影したんですね」[%p]"
 
 msgid "3800:[name]拓巳[line]「もう、言い逃れは、できませんよ……」[%p]"
-msgstr "3800:[name]拓巳[line]You won't be able to talk your way out of this.[%p]"
+msgstr "3800:[name]拓巳[line]「もう、言い逃れは、できませんよ……」[%p]"
 
 msgid "3900:[name]拓巳[line]「胎児と、あなたの、ＤＮＡを鑑定すれば、分かることです……」[%p]"
-msgstr "3900:[name]拓巳[line]All they'll need to do is test your DNA against the baby's.[%p]"
+msgstr "3900:[name]拓巳[line]「胎児と、あなたの、ＤＮＡを鑑定すれば、分かることです……」[%p]"
 
 msgid "4000:[name]葉月[line]「…………」[%p]"
-msgstr "4000:[name]葉月[line]...[%p]"
+msgstr "4000:[name]葉月[line]「…………」[%p]"
 
 msgid "4100:[name]拓巳[line]「どうして、あんなことを……？\u3000ねえ、グリム……！」[%p]"
-msgstr "4100:[name]拓巳[line]Why did you do it? Tell me, Grimm![%p]"
+msgstr "4100:[name]拓巳[line]「どうして、あんなことを……？\u3000ねえ、グリム……！」[%p]"
 
 msgid "4200:[name]葉月[line]「……ナイトハルト……」[%p]"
-msgstr "4200:[name]葉月[line]KnightHeart...[%p]"
+msgstr "4200:[name]葉月[line]「……ナイトハルト……」[%p]"
 
 msgid "4300:[name]葉月[line]「すべては、教祖様のお言葉なんですよ」[%p]"
-msgstr "4300:[name]葉月[line]I was only following the leader's instructions.[%p]"
+msgstr "4300:[name]葉月[line]「すべては、教祖様のお言葉なんですよ」[%p]"
 
 msgid "4400:葉月は肩にかけていたハンドバッグの中に、おもむろに手を突っ込んだ。[%p]"
-msgstr "4400:Hazuki put her hand into the handbag on her shoulder.[%p]"
+msgstr "4400:葉月は肩にかけていたハンドバッグの中に、おもむろに手を突っ込んだ。[%p]"
 
 msgid "4500:そこには、ノアⅡの端末ポートと、[linebreak]手術用のメスが入っていた。[%p]"
-msgstr "4500:It contained the Noah II terminal port, and a surgical knife.[%p]"
+msgstr "4500:そこには、ノアⅡの端末ポートと、[linebreak]手術用のメスが入っていた。[%p]"
 
 msgid "4600:メスをつかみ、その刃先を自らの首に添える。[linebreak]看護師という職業柄、頸動脈の場所はよく知っていた。[%p]"
-msgstr "4600:She grabbed the knife and put it up against her neck. As a nurse, she knew exactly where the carotid artery was.[%p]"
+msgstr "4600:メスをつかみ、その刃先を自らの首に添える。[linebreak]看護師という職業柄、頸動脈の場所はよく知っていた。[%p]"
 
 msgid "4700:[name]拓巳[line]「……！」[%p]"
-msgstr "4700:[name]拓巳[line]...![%p]"
+msgstr "4700:[name]拓巳[line]「……！」[%p]"
 
 msgid "4800:葉月は西條拓巳に、笑みを向けた。[linebreak]患者に対するような、その優しげな笑みは――[%p]"
-msgstr "4800:Hazuki smiled at Takumi Nishijo. And her kind smile, the one she always showed her patients...[%p]"
+msgstr "4800:葉月は西條拓巳に、笑みを向けた。[linebreak]患者に対するような、その優しげな笑みは――[%p]"
 
 msgid "4900:[name]葉月[line]「神光の救いあれ！」[%p]"
-msgstr "4900:[name]葉月[line]May the Divine Light save us![%p]"
+msgstr "4900:[name]葉月[line]「神光の救いあれ！」[%p]"
 
 msgid "5000:噴き出した彼女自身の血によって、赤く塗り潰された。[%p]"
-msgstr "5000:...was quickly stained red by the blood spurting from her neck.[%p]"
+msgstr "5000:噴き出した彼女自身の血によって、赤く塗り潰された。[%p]"
 

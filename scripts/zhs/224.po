@@ -10,329 +10,329 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:夜の病院からは人の気配が急速に薄れる。[%p]"
-msgstr "0:Hospitals empty out fast at night.[%p]"
+msgstr "0:夜の病院からは人の気配が急速に薄れる。[%p]"
 
 msgid "100:それはさながら、昼間に生と死を受け入れ過ぎたがために、この時間を使ってバランスを取っているかのようだ。[%p]"
-msgstr "100:Perhaps there was too much life and too much death in the daytime, and so these hours were used to restore the balance.[%p]"
+msgstr "100:それはさながら、昼間に生と死を受け入れ過ぎたがために、この時間を使ってバランスを取っているかのようだ。[%p]"
 
 msgid "200:この時間の病院には、生の匂いも死の匂いも存在しない。あるのは、空虚な静謐さだけ。[%p]"
-msgstr "200:There was no smell of life or death at this hour, only an empty silence.[%p]"
+msgstr "200:この時間の病院には、生の匂いも死の匂いも存在しない。あるのは、空虚な静謐さだけ。[%p]"
 
 msgid "300:そんなことを考えている自らの異質さに、判安二は苦笑した。[%p]"
-msgstr "300:Yasuji Ban chuckled to himself. He was a weird guy to be thinking about these things.[%p]"
+msgstr "300:そんなことを考えている自らの異質さに、判安二は苦笑した。[%p]"
 
 msgid "400:だがそれにしても、今日は特別に静かに思える。[%p]"
-msgstr "400:But it did seem especially quiet today.[%p]"
+msgstr "400:だがそれにしても、今日は特別に静かに思える。[%p]"
 
 msgid "500:まだ消灯時間にはなっていないはずだが、廊下の照明は落とされ、看護師の姿もまったく見られない。[%p]"
-msgstr "500:It wasn't even lights out yet, but the lights in the hallways were off and there were no nurses to be seen.[%p]"
+msgstr "500:まだ消灯時間にはなっていないはずだが、廊下の照明は落とされ、看護師の姿もまったく見られない。[%p]"
 
 msgid "600:判はロビーに足を踏み入れた直後から、イヤな予感をひしひしと感じていた。[%p]"
-msgstr "600:The second Ban set foot in the lobby, he started to have a really bad feeling.[%p]"
+msgstr "600:判はロビーに足を踏み入れた直後から、イヤな予感をひしひしと感じていた。[%p]"
 
 msgid "700:その予感に根拠はない。いわば刑事の勘というものであるが、[%p]"
-msgstr "700:There was no real reason for it. It was just what you might call a detective's intuition.[%p]"
+msgstr "700:その予感に根拠はない。いわば刑事の勘というものであるが、[%p]"
 
 msgid "800:――俺の勘はよく当たるんだよな。[%p]"
-msgstr "800:—My intuition's pretty damn good, too, isn't it?[%p]"
+msgstr "800:――俺の勘はよく当たるんだよな。[%p]"
 
 msgid "900:妙に宗教的とも言えることを考えてしまったのも、そのイヤな予感をごまかすためかもしれない。[%p]"
-msgstr "900:Maybe the strangely religious thoughts he was having were his way of trying to take his mind off the feeling.[%p]"
+msgstr "900:妙に宗教的とも言えることを考えてしまったのも、そのイヤな予感をごまかすためかもしれない。[%p]"
 
 msgid "1000:この病院にタクシーで乗り付ける間に、諏訪のケータイには何度か連絡をした。[%p]"
-msgstr "1000:He'd taken a taxi here, and called Suwa several times on the way.[%p]"
+msgstr "1000:この病院にタクシーで乗り付ける間に、諏訪のケータイには何度か連絡をした。[%p]"
 
 msgid "1100:しかしいずれも不通であり、それこそが後輩の危機的状況を端的に示していた。[%p]"
-msgstr "1100:But Suwa hadn't picked up once, a fact that spoke more about his current situation than any words he could say.[%p]"
+msgstr "1100:しかしいずれも不通であり、それこそが後輩の危機的状況を端的に示していた。[%p]"
 
 msgid "1200:のんびりはしていられなかった。[linebreak]この広い病院内から、一刻も早く諏訪が捕らえられている場所を見つけ、救い出さなければならない。[%p]"
-msgstr "1200:There was no time to waste. He had to find where in this huge hospital Suwa was being held, and then rescue him.[%p]"
+msgstr "1200:のんびりはしていられなかった。[linebreak]この広い病院内から、一刻も早く諏訪が捕らえられている場所を見つけ、救い出さなければならない。[%p]"
 
 msgid "1300:しかも誘拐犯に気取られることなく、だ。[%p]"
-msgstr "1300:And without the kidnapper finding him, either.[%p]"
+msgstr "1300:しかも誘拐犯に気取られることなく、だ。[%p]"
 
 msgid "1400:リノリウム製の床は靴音が響く。[linebreak]判はロビーに入る前に、履いている革靴をあらかじめ脱ぎ捨てていた。[%p]"
-msgstr "1400:Any kind of shoes would echo off the linoleum floor. Ban had taken off his leather boots before he'd come into the lobby.[%p]"
+msgstr "1400:リノリウム製の床は靴音が響く。[linebreak]判はロビーに入る前に、履いている革靴をあらかじめ脱ぎ捨てていた。[%p]"
 
 msgid "1500:冬が間近に迫るこの季節。靴下越しに伝わってくる床の冷たさに、判はたまらず身震いした。[%p]"
-msgstr "1500:It was almost winter. He could feel the coldness of the floor through his socks, and it made him shiver.[%p]"
+msgstr "1500:冬が間近に迫るこの季節。靴下越しに伝わってくる床の冷たさに、判はたまらず身震いした。[%p]"
 
 msgid "1600:[name]優愛[line]「判さん……！」[%p]"
-msgstr "1600:[name]優愛[line]Ban![%p]"
+msgstr "1600:[name]優愛[line]「判さん……！」[%p]"
 
 msgid "1700:正面入り口の自動扉が開く音が、ロビーに響き渡った。[linebreak]続いて判の名を呼びかける少女の声。[%p]"
-msgstr "1700:The sound of the main entrance's automatic door opening echoed through the lobby before he heard the girl calling his name.[%p]"
+msgstr "1700:正面入り口の自動扉が開く音が、ロビーに響き渡った。[linebreak]続いて判の名を呼びかける少女の声。[%p]"
 
 msgid "1800:楠優愛がロビーへと入ってきたのを見て、判は驚きのあまり言葉を失った。[linebreak]"
-msgstr "1800:When he saw Yua Kusunoki come into the lobby, he was so stunned he couldn't speak.[linebreak]"
+msgstr "1800:楠優愛がロビーへと入ってきたのを見て、判は驚きのあまり言葉を失った。[linebreak]"
 
 msgid "1900:慌てて少女へと駆け寄る。[%p]"
-msgstr "1900:He quickly ran over to the girl.[%p]"
+msgstr "1900:慌てて少女へと駆け寄る。[%p]"
 
 msgid "2000:楠優愛がロビーへと入ってきたのを見て、判は驚きのあまり言葉を失った。慌てて少女へと駆け寄る。"
-msgstr "2000:When he saw Yua Kusunoki come into the lobby, he was so stunned he couldn't speak. He quickly ran over to the girl."
+msgstr "2000:楠優愛がロビーへと入ってきたのを見て、判は驚きのあまり言葉を失った。慌てて少女へと駆け寄る。"
 
 msgid "2100:優愛は、メガネの奥の瞳を不安げに周囲へと巡らせた。[%p]"
-msgstr "2100:She had a nervous look in her eyes as she glanced around her.[%p]"
+msgstr "2100:優愛は、メガネの奥の瞳を不安げに周囲へと巡らせた。[%p]"
 
 msgid "2200:[name]判[line]「おい、なんで付いてきたんだ。身を隠せって言っただろうに」[%p]"
-msgstr "2200:[name]判[line]Hey, what are you doing here? I told you to go hide![%p]"
+msgstr "2200:[name]判[line]「おい、なんで付いてきたんだ。身を隠せって言っただろうに」[%p]"
 
 msgid "2300:[name]優愛[line]「すみません……でも、わたし……」[%p]"
-msgstr "2300:[name]優愛[line]I'm sorry, but I...[%p]"
+msgstr "2300:[name]優愛[line]「すみません……でも、わたし……」[%p]"
 
 msgid "2400:判は百瀬の姿を探す。だが彼女はどこにもいない。[%p]"
-msgstr "2400:Ban looked around for Momose, but she was nowhere to be found.[%p]"
+msgstr "2400:判は百瀬の姿を探す。だが彼女はどこにもいない。[%p]"
 
 msgid "2500:この少女はひとりで来たのだと悟り、判は困惑顔で頭を掻きむしった。[%p]"
-msgstr "2500:Ban scratched his head. She'd come here alone.[%p]"
+msgstr "2500:この少女はひとりで来たのだと悟り、判は困惑顔で頭を掻きむしった。[%p]"
 
 msgid "2600:[name]判[line]「今すぐ戻れ。これは遊びじゃねえんだぞ」[%p]"
-msgstr "2600:[name]判[line]Get out of here, now. This isn't a game.[%p]"
+msgstr "2600:[name]判[line]「今すぐ戻れ。これは遊びじゃねえんだぞ」[%p]"
 
 msgid "2700:[name]優愛[line]「そ、それは、分かっている、つもりです……っ」[%p]"
-msgstr "2700:[name]優愛[line]I-I know that.[%p]"
+msgstr "2700:[name]優愛[line]「そ、それは、分かっている、つもりです……っ」[%p]"
 
 msgid "2800:[name]判[line]「分かってるなら帰るんだ――」[%p]"
-msgstr "2800:[name]判[line]Then go![%p]"
+msgstr "2800:[name]判[line]「分かってるなら帰るんだ――」[%p]"
 
 msgid "2900:そのとき、ロビーの先に伸びる廊下から、軋むような音が聞こえてきた。[%p]"
-msgstr "2900:Then he heard a creaking sound coming from one of the hallways connected to the lobby.[%p]"
+msgstr "2900:そのとき、ロビーの先に伸びる廊下から、軋むような音が聞こえてきた。[%p]"
 
 msgid "3000:誰もいない、薄暗い廊下。[linebreak]その真ん中を、ゆっくりと判たちの方へと進んでくる、無人の車椅子。[%p]"
-msgstr "3000:The hallway was empty and dark, and in the middle of it was an empty wheelchair, slowly coming toward them.[%p]"
+msgstr "3000:誰もいない、薄暗い廊下。[linebreak]その真ん中を、ゆっくりと判たちの方へと進んでくる、無人の車椅子。[%p]"
 
 msgid "3100:ほぼ同時に、何者かが階段を駆け上がっていく音もした。[%p]"
-msgstr "3100:And at almost the same time, they heard the sound of someone running up the stairs.[%p]"
+msgstr "3100:ほぼ同時に、何者かが階段を駆け上がっていく音もした。[%p]"
 
 msgid "3200:[name]判[line]「とにかく優愛ちゃんは帰れ！\u3000いいな！」[%p]"
-msgstr "3200:[name]判[line]Just leave! Go![%p]"
+msgstr "3200:[name]判[line]「とにかく優愛ちゃんは帰れ！\u3000いいな！」[%p]"
 
 msgid "3300:そう釘を刺しながら、すでに判は走り出していた。優愛の返事を聞かず、靴音を追って階段を駆け上がる。[%p]"
-msgstr "3300:Ban spoke, then started to run. He raced up the stairs, following the sound of the footsteps, without bothering to wait for her answer.[%p]"
+msgstr "3300:そう釘を刺しながら、すでに判は走り出していた。優愛の返事を聞かず、靴音を追って階段を駆け上がる。[%p]"
 
 msgid "3400:普段のやる気のなさからはとても想像できないほど、[linebreak]その身のこなしは素早かった。[%p]"
-msgstr "3400:He was faster and more agile than you'd ever think from his usual laid-back attitude.[%p]"
+msgstr "3400:普段のやる気のなさからはとても想像できないほど、[linebreak]その身のこなしは素早かった。[%p]"
 
 msgid "3500:靴音を追いかけて辿り着いたのは、外来棟の屋上だった。[%p]"
-msgstr "3500:Following the footsteps lead him to the roof of the outpatient building.[%p]"
+msgstr "3500:靴音を追いかけて辿り着いたのは、外来棟の屋上だった。[%p]"
 
 msgid "3600:庭園のように植え込みが設けられている。[%p]"
-msgstr "3600:There was a little garden there, with planters full of flowers.[%p]"
+msgstr "3600:庭園のように植え込みが設けられている。[%p]"
 
 msgid "3700:患者の心を癒す空間なのだろうが、あいにくライトアップのサービスはしていないらしく、どんな花が咲いているのか確かめることはできない。[%p]"
-msgstr "3700:It was probably a place of relaxation for the patients here, but unfortunately, it wasn't lit up. He couldn't tell what kind of flowers were blooming all around him.[%p]"
+msgstr "3700:患者の心を癒す空間なのだろうが、あいにくライトアップのサービスはしていないらしく、どんな花が咲いているのか確かめることはできない。[%p]"
 
 msgid "3800:[name]判[line]「…………」[%p]"
-msgstr "3800:[name]判[line]...[%p]"
+msgstr "3800:[name]判[line]「…………」[%p]"
 
 msgid "3900:屋上ということもあって、風が強い。[linebreak]息を切らしながら、判は周囲へ素早く注意を払った。[%p]"
-msgstr "3900:The wind was strong up on the roof. Still out of breath, he glanced quickly around him.[%p]"
+msgstr "3900:屋上ということもあって、風が強い。[linebreak]息を切らしながら、判は周囲へ素早く注意を払った。[%p]"
 
 msgid "4000:靴音の男は間違いなくここへと逃げ込んだはずだったが、今その姿は忽然と消えてしまった。[%p]"
-msgstr "4000:The man whose footsteps he'd heard had definitely run up here, but then he'd disappeared.[%p]"
+msgstr "4000:靴音の男は間違いなくここへと逃げ込んだはずだったが、今その姿は忽然と消えてしまった。[%p]"
 
 msgid "4100:――まんまと誘い出されたか？[%p]"
-msgstr "4100:—Had he fallen for somebody's trap?[%p]"
+msgstr "4100:――まんまと誘い出されたか？[%p]"
 
 msgid "4200:わざとらしいほどの音を立てて逃げた男。[linebreak]それが意味するのは、判をこの場所へと誘おうとした意図以外に考えられない。[%p]"
-msgstr "4200:The footsteps had almost seemed like they were there to attract his attention. The only possible reason was that they wanted to lure him out here.[%p]"
+msgstr "4200:わざとらしいほどの音を立てて逃げた男。[linebreak]それが意味するのは、判をこの場所へと誘おうとした意図以外に考えられない。[%p]"
 
 msgid "4300:判は今、銃を持っていなかった。丸腰は不安なので、武器になりそうなものを探すが、めぼしいものは見つからない。[%p]"
-msgstr "4300:Ban didn't have a gun on him right now. He was nervous without a weapon. He looked around to see if anything might serve as one, but came up empty-handed.[%p]"
+msgstr "4300:判は今、銃を持っていなかった。丸腰は不安なので、武器になりそうなものを探すが、めぼしいものは見つからない。[%p]"
 
 msgid "4400:ゴクリと息を呑んだ。[linebreak]額ににじむ汗を指で払う。[%p]"
-msgstr "4400:He gulped and wiped the sweat on his forehead away with his fingers.[%p]"
+msgstr "4400:ゴクリと息を呑んだ。[linebreak]額ににじむ汗を指で払う。[%p]"
 
 msgid "4500:一歩ずつ、庭園の中央へと足を進めていく。[%p]"
-msgstr "4500:One step at a time, he proceeded toward the center of the garden.[%p]"
+msgstr "4500:一歩ずつ、庭園の中央へと足を進めていく。[%p]"
 
 msgid "4600:植え込みやベンチの陰など、身を隠せそうな場所はあちこちにあった。[%p]"
-msgstr "4600:There were plenty of places for a person to hide. Behind that bench, or on the other side of that planter.[%p]"
+msgstr "4600:植え込みやベンチの陰など、身を隠せそうな場所はあちこちにあった。[%p]"
 
 msgid "4700:どこから襲いかかられても対応できるように、判は全神経を尖らせる。[%p]"
-msgstr "4700:He sharpened all his nerves, to be ready no matter where the attack came from.[%p]"
+msgstr "4700:どこから襲いかかられても対応できるように、判は全神経を尖らせる。[%p]"
 
 msgid "4800:庭園中央は円形の広場になっており、その外周に沿う形でいくつかのベンチが設けてあった。[%p]"
-msgstr "4800:The center of the garden was a big circle with benches all around its outer perimeter.[%p]"
+msgstr "4800:庭園中央は円形の広場になっており、その外周に沿う形でいくつかのベンチが設けてあった。[%p]"
 
 msgid "4900:順番に目を凝らしていく。[linebreak]と、そのうちのひとつに、怪しい物体が置かれているのを見つけた。[%p]"
-msgstr "4900:He looked at each one in turn, then noticed something strange on one of them.[%p]"
+msgstr "4900:順番に目を凝らしていく。[linebreak]と、そのうちのひとつに、怪しい物体が置かれているのを見つけた。[%p]"
 
 msgid "5000:なおも慎重に周囲に気を配りつつ、ゆっくりとそのベンチへと歩み寄る。[%p]"
-msgstr "5000:He slowly walked over to it, being careful not to let his guard down.[%p]"
+msgstr "5000:なおも慎重に周囲に気を配りつつ、ゆっくりとそのベンチへと歩み寄る。[%p]"
 
 msgid "5100:近づくにつれて、その形が判の目にはっきり認識できるようになった。[%p]"
-msgstr "5100:As he got closer, it began to take shape.[%p]"
+msgstr "5100:近づくにつれて、その形が判の目にはっきり認識できるようになった。[%p]"
 
 msgid "5200:それはサッカーボールほどの大きさで。[linebreak]丸く。[linebreak]黒い。[%p]"
-msgstr "5200:It was the size of a soccer ball. Round, and black.[%p]"
+msgstr "5200:それはサッカーボールほどの大きさで。[linebreak]丸く。[linebreak]黒い。[%p]"
 
 msgid "5300:首から切断された人間の頭――[%p]"
-msgstr "5300:It was a severed human head.[%p]"
+msgstr "5300:首から切断された人間の頭――[%p]"
 
 msgid "5400:バラバラ殺人事件を何度か担当したことのある判は、かつて写真で目にしたことのあるそれをすぐに連想した。[%p]"
-msgstr "5400:Ban had been involved in a few murder cases where the victims had been dismembered. It reminded him of the photos he'd seen.[%p]"
+msgstr "5400:バラバラ殺人事件を何度か担当したことのある判は、かつて写真で目にしたことのあるそれをすぐに連想した。[%p]"
 
 msgid "5500:イヤな予感はますます強まっている。[%p]"
-msgstr "5500:His bad feeling got worse and worse.[%p]"
+msgstr "5500:イヤな予感はますます強まっている。[%p]"
 
 msgid "5600:後輩刑事の首だったらと考えると、犯人に対する怒りや悔しさが沸々とこみ上げてくる。[%p]"
-msgstr "5600:The thought that it might be his partner's head filled him with rage and frustration.[%p]"
+msgstr "5600:後輩刑事の首だったらと考えると、犯人に対する怒りや悔しさが沸々とこみ上げてくる。[%p]"
 
 msgid "5700:判はギリリと歯噛みした。[linebreak]さらにベンチへと近づく。[linebreak]置かれた物体はピクリとも動かない。[%p]"
-msgstr "5700:Ban clenched his jaw hard. He took another step toward the bench. The thing on the bench wasn't moving at all.[%p]"
+msgstr "5700:判はギリリと歯噛みした。[linebreak]さらにベンチへと近づく。[linebreak]置かれた物体はピクリとも動かない。[%p]"
 
 msgid "5800:冷たい夜風が吹き抜け。[%p]"
-msgstr "5800:A cold wind blew.[%p]"
+msgstr "5800:冷たい夜風が吹き抜け。[%p]"
 
 msgid "5900:そこで判は、銃声を耳にした。[%p]"
-msgstr "5900:And then he heard the gunshot.[%p]"
+msgstr "5900:そこで判は、銃声を耳にした。[%p]"
 
 msgid "6000:あまりに突然のことに身がすくむ。[linebreak]本来なら身体を伏せ、音がした方向を探るべきなのだろうが、その動作すらできない。[%p]"
-msgstr "6000:It was so fast and so sudden that he froze. He was supposed to drop to the ground, and look in the direction of the sound, but he couldn't.[%p]"
+msgstr "6000:あまりに突然のことに身がすくむ。[linebreak]本来なら身体を伏せ、音がした方向を探るべきなのだろうが、その動作すらできない。[%p]"
 
 msgid "6100:いや。[%p]"
-msgstr "6100:No.[%p]"
+msgstr "6100:いや。[%p]"
 
 msgid "6200:正確に言えば。[%p]"
-msgstr "6200:Actually...[%p]"
+msgstr "6200:正確に言えば。[%p]"
 
 msgid "6300:その動作をする必要は、すでになかった。[%p]"
-msgstr "6300:There was no need to even bother anymore.[%p]"
+msgstr "6300:その動作をする必要は、すでになかった。[%p]"
 
 msgid "6400:胸元に、焼けるような熱を感じて、判は自らの手で触れてみる。[%p]"
-msgstr "6400:He felt a burning pain in his chest, and touched it with his hands.[%p]"
+msgstr "6400:胸元に、焼けるような熱を感じて、判は自らの手で触れてみる。[%p]"
 
 msgid "6500:ぬるりとした感触。[%p]"
-msgstr "6500:It was slick and wet.[%p]"
+msgstr "6500:ぬるりとした感触。[%p]"
 
 msgid "6600:なにかが、彼の身体から流れ出ている。[linebreak]独特の生臭い匂い。[%p]"
-msgstr "6600:Something was pouring out of his body. He recognized the raw stench.[%p]"
+msgstr "6600:なにかが、彼の身体から流れ出ている。[linebreak]独特の生臭い匂い。[%p]"
 
 msgid "6700:判の脳が、銃声から少し遅れて認識し始めた、痛み。[%p]"
-msgstr "6700:And then a moment later, his brain recognized the pain.[%p]"
+msgstr "6700:判の脳が、銃声から少し遅れて認識し始めた、痛み。[%p]"
 
 msgid "6800:撃たれた――[%p]"
-msgstr "6800:He'd been shot.[%p]"
+msgstr "6800:撃たれた――[%p]"
 
 msgid "6900:そう自覚した瞬間、足から力が抜けた。[%p]"
-msgstr "6900:By the time he realized, his legs had already given out.[%p]"
+msgstr "6900:そう自覚した瞬間、足から力が抜けた。[%p]"
 
 msgid "7000:立っていられず、その場に肩から倒れ込む。[%p]"
-msgstr "7000:He'd fallen face-first to the ground, unable to stand.[%p]"
+msgstr "7000:立っていられず、その場に肩から倒れ込む。[%p]"
 
 msgid "7100:さっきの靴音が、判へと近づいてくる。[linebreak]早くもかすみ始めた目で、判は必死にその男を見上げた。[%p]"
-msgstr "7100:The footsteps from before were coming closer to him now. He looked up at the approaching man with vision that was already starting to blur.[%p]"
+msgstr "7100:さっきの靴音が、判へと近づいてくる。[linebreak]早くもかすみ始めた目で、判は必死にその男を見上げた。[%p]"
 
 msgid "7200:黒い、影。[linebreak]手には、拳銃。[linebreak]暗いせいで、その顔を認識できない。[%p]"
-msgstr "7200:A black shadow... A gun in its hand. It was too dark to see the man's face.[%p]"
+msgstr "7200:黒い、影。[linebreak]手には、拳銃。[linebreak]暗いせいで、その顔を認識できない。[%p]"
 
 msgid "7300:[name]？？？[line]「あーあ」[%p]"
-msgstr "7300:[name]？？？[line]Aw...[%p]"
+msgstr "7300:[name]？？？[line]「あーあ」[%p]"
 
 msgid "7400:声がした。[%p]"
-msgstr "7400:He heard a voice.[%p]"
+msgstr "7400:声がした。[%p]"
 
 msgid "7500:[name]？？？[line]「手を引けって、言ったのに」[%p]"
-msgstr "7500:[name]？？？[line]I told you to back off, you know.[%p]"
+msgstr "7500:[name]？？？[line]「手を引けって、言ったのに」[%p]"
 
 msgid "7600:聞き覚えがあった。[%p]"
-msgstr "7600:It was a voice he knew.[%p]"
+msgstr "7600:聞き覚えがあった。[%p]"
 
 msgid "7700:[name]？？？[line]「残念ッスよ、先輩」[%p]"
-msgstr "7700:[name]？？？[line]It's a real shame it had to end this way, partner.[%p]"
+msgstr "7700:[name]？？？[line]「残念ッスよ、先輩」[%p]"
 
 msgid "7800:無様に倒れ伏す判のすぐ横を通り過ぎて。[linebreak]諏訪護は、嘲るようにそうつぶやく。[%p]"
-msgstr "7800:Mamoru Suwa walked right past his older partner, whispering in a mocking tone.[%p]"
+msgstr "7800:無様に倒れ伏す判のすぐ横を通り過ぎて。[linebreak]諏訪護は、嘲るようにそうつぶやく。[%p]"
 
 msgid "7900:[name]判[line]「諏訪……か……」[%p]"
-msgstr "7900:[name]判[line]Is that you, Suwa?[%p]"
+msgstr "7900:[name]判[line]「諏訪……か……」[%p]"
 
 msgid "8000:[name]判[line]「お前が、俺を……？」[%p]"
-msgstr "8000:[name]判[line]You're the one who shot me?[%p]"
+msgstr "8000:[name]判[line]「お前が、俺を……？」[%p]"
 
 msgid "8100:[name]諏訪[line]「そうッス。いやあ、祝、初発砲ってところッスか」[%p]"
-msgstr "8100:[name]諏訪[line]Yeah, that's right. First time I've ever fired a gun, in fact.[%p]"
+msgstr "8100:[name]諏訪[line]「そうッス。いやあ、祝、初発砲ってところッスか」[%p]"
 
 msgid "8200:笑いながら、諏訪はベンチに置かれてある“物体”を無造作に拾い上げた。[%p]"
-msgstr "8200:Suwa laughed as he reached over and picked up the thing on the bench.[%p]"
+msgstr "8200:笑いながら、諏訪はベンチに置かれてある“物体”を無造作に拾い上げた。[%p]"
 
 msgid "8300:[name]諏訪[line]「ちなみに先輩、やけにこれに注目してたッスけど、そんなに珍しかったんスか？」[%p]"
-msgstr "8300:[name]諏訪[line]You know, you seemed awfully interested in this thing. Haven't you ever seen it before?[%p]"
+msgstr "8300:[name]諏訪[line]「ちなみに先輩、やけにこれに注目してたッスけど、そんなに珍しかったんスか？」[%p]"
 
 msgid "8400:[name]諏訪[line]「ダーススパイダーのヘルメット」[%p]"
-msgstr "8400:[name]諏訪[line]It's a Darth Spider Helmet.[%p]"
+msgstr "8400:[name]諏訪[line]「ダーススパイダーのヘルメット」[%p]"
 
 msgid "8500:判の傍らに戻ってきた諏訪は、これ見よがしにその黒いヘルメットを判の眼前に持ってくる。[%p]"
-msgstr "8500:Suwa walked back to him and held the helmet right in front of his face.[%p]"
+msgstr "8500:判の傍らに戻ってきた諏訪は、これ見よがしにその黒いヘルメットを判の眼前に持ってくる。[%p]"
 
 msgid "8600:[name]判[line]「は、は……ざまあねえ……」[%p]"
-msgstr "8600:[name]判[line]Hahah... I guess that's what I get.[%p]"
+msgstr "8600:[name]判[line]「は、は……ざまあねえ……」[%p]"
 
 msgid "8700:苦笑する判の視界は、もはやほとんどぼやけていた。[linebreak]手足の先の感覚がやけに冷たい。[linebreak]胸の痛みはあるが苦痛というわけでもない。[%p]"
-msgstr "8700:He chuckled. He could barely even see now. His limbs felt terribly cold. There was a pain in his chest, but it wasn't unbearable.[%p]"
+msgstr "8700:苦笑する判の視界は、もはやほとんどぼやけていた。[linebreak]手足の先の感覚がやけに冷たい。[linebreak]胸の痛みはあるが苦痛というわけでもない。[%p]"
 
 msgid "8800:強烈な“視線”の気配を感じるが、それが諏訪からのものなのか、それ以外の誰かからのものなのか、判断する力も失われていた。[%p]"
-msgstr "8800:He felt an intense gaze, like somebody looking at him, but he couldn't tell if it was Suwa or someone else.[%p]"
+msgstr "8800:強烈な“視線”の気配を感じるが、それが諏訪からのものなのか、それ以外の誰かからのものなのか、判断する力も失われていた。[%p]"
 
 msgid "8900:己の命があと数分ももたないと知った判は、急激に重くなっていく自分の身体を、無理矢理仰向けにひっくり返した。[%p]"
-msgstr "8900:Realizing he had only a few minutes left to live, he forced his body to turn over.[%p]"
+msgstr "8900:己の命があと数分ももたないと知った判は、急激に重くなっていく自分の身体を、無理矢理仰向けにひっくり返した。[%p]"
 
 msgid "9000:大の字に寝そべると、頭上には夜空。[%p]"
-msgstr "9000:Now he was stretched out, looking up at the sky.[%p]"
+msgstr "9000:大の字に寝そべると、頭上には夜空。[%p]"
 
 msgid "9100:だが雲がかかっていて、星は見えない。[linebreak]もっとも、星が出ていたとしてももはや判からはそれを見る視力が失われていた。[%p]"
-msgstr "9100:It was cloudy, though, and he couldn't see the stars. Even if they had been out, his vision was too dark now to see them.[%p]"
+msgstr "9100:だが雲がかかっていて、星は見えない。[linebreak]もっとも、星が出ていたとしてももはや判からはそれを見る視力が失われていた。[%p]"
 
 msgid "9200:[name]判[line]「げほ、げほ……」[%p]"
-msgstr "9200:[name]判[line]Cough... Cough...[%p]"
+msgstr "9200:[name]判[line]「げほ、げほ……」[%p]"
 
 msgid "9300:咳き込むと、口の中に血の味が広がる。[%p]"
-msgstr "9300:As he coughed, he could taste the blood in his mouth.[%p]"
+msgstr "9300:咳き込むと、口の中に血の味が広がる。[%p]"
 
 msgid "9400:[name]判[line]「なあ、す、わ……」[%p]"
-msgstr "9400:[name]判[line]You know, Suwa...[%p]"
+msgstr "9400:[name]判[line]「なあ、す、わ……」[%p]"
 
 msgid "9500:[name]判[line]「お前は……バ、バカだ。ま、まだ、まだ、ガキで、どうし、ようもない、くらいのバ、カな、刑事だ……」[%p]"
-msgstr "9500:[name]判[line]You're... an i-idiot. You're still a kid. Just a little dumbass detective...[%p]"
+msgstr "9500:[name]判[line]「お前は……バ、バカだ。ま、まだ、まだ、ガキで、どうし、ようもない、くらいのバ、カな、刑事だ……」[%p]"
 
 msgid "9600:[name]判[line]「だが……お、俺は、お前のこと……けっこう、買ってた……ぜ……」[%p]"
-msgstr "9600:[name]判[line]But you know, I liked... you.[%p]"
+msgstr "9600:[name]判[line]「だが……お、俺は、お前のこと……けっこう、買ってた……ぜ……」[%p]"
 
 msgid "9700:[name]諏訪[line]「自分は先輩が鬱陶しくてしょうがなかったッスよ」[%p]"
-msgstr "9700:[name]諏訪[line]I always found you incredibly annoying.[%p]"
+msgstr "9700:[name]諏訪[line]「自分は先輩が鬱陶しくてしょうがなかったッスよ」[%p]"
 
 msgid "9800:[name]判[line]「は、は……」[%p]"
-msgstr "9800:[name]判[line]Haha...[%p]"
+msgstr "9800:[name]判[line]「は、は……」[%p]"
 
 msgid "9900:[name]判[line]「ま、き、気持ちは、分かる……」[%p]"
-msgstr "9900:[name]判[line]Well... I-I can understand that.[%p]"
+msgstr "9900:[name]判[line]「ま、き、気持ちは、分かる……」[%p]"
 
 msgid "10000:判の呼吸が徐々に浅くなっていく。ヒューヒューと喉から息が漏れている。[linebreak]もはやその瞳は、なにも捉えてはいない。[%p]"
-msgstr "10000:His breathing was getting rapidly shallower. There was a wheezing sound as air fled from his throat. His vision was now totally black.[%p]"
+msgstr "10000:判の呼吸が徐々に浅くなっていく。ヒューヒューと喉から息が漏れている。[linebreak]もはやその瞳は、なにも捉えてはいない。[%p]"
 
 msgid "10100:[name]判[line]「何者……なんだ、お前……」[%p]"
-msgstr "10100:[name]判[line]Who... are you?[%p]"
+msgstr "10100:[name]判[line]「何者……なんだ、お前……」[%p]"
 
 msgid "10200:意識が途切れかけている判の、最期の問い。[linebreak]それに、諏訪は銃口を向けながら答えた。[%p]"
-msgstr "10200:That was Ban's last question before he passed out. Suwa answered as he pointed the gun at him.[%p]"
+msgstr "10200:意識が途切れかけている判の、最期の問い。[linebreak]それに、諏訪は銃口を向けながら答えた。[%p]"
 
 msgid "10300:[name]諏訪[line]「魔法使いッス」[%p]"
-msgstr "10300:[name]諏訪[line]A mage.[%p]"
+msgstr "10300:[name]諏訪[line]「魔法使いッス」[%p]"
 
 msgid "10400:[name]判[line]「……は……バカが……」[%p]"
-msgstr "10400:[name]判[line]S-Stupid kid…[%p]"
+msgstr "10400:[name]判[line]「……は……バカが……」[%p]"
 
 msgid "10500:いつの間にか、風は止んでいた。[linebreak]急速に凪いだ闇の中。[linebreak]動きが止まる、ふたつの人影。[%p]"
-msgstr "10500:At some point, the wind had stopped. The darkness was suddenly quiet. The two silhouettes stopped moving.[%p]"
+msgstr "10500:いつの間にか、風は止んでいた。[linebreak]急速に凪いだ闇の中。[linebreak]動きが止まる、ふたつの人影。[%p]"
 
 msgid "10600:だがそれも刹那。[%p]"
-msgstr "10600:But that was only for a minute.[%p]"
+msgstr "10600:だがそれも刹那。[%p]"
 
 msgid "10700:トリガーにかけた諏訪の指に、ゆっくりと力が込められた。[%p]"
-msgstr "10700:Suwa slowly pulled the trigger.[%p]"
+msgstr "10700:トリガーにかけた諏訪の指に、ゆっくりと力が込められた。[%p]"
 
 msgid "10800:[name]諏訪[line]「先輩に、神光の救いあれ」[%p]"
-msgstr "10800:[name]諏訪[line]May the Divine Light save you, partner.[%p]"
+msgstr "10800:[name]諏訪[line]「先輩に、神光の救いあれ」[%p]"
 

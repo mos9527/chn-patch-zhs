@@ -10,212 +10,212 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:目が覚めると、僕はソファで横になっていた。[%p]"
-msgstr "0:I woke up on the sofa.[%p]"
+msgstr "0:目が覚めると、僕はソファで横になっていた。[%p]"
 
 msgid "100:[name]拓巳[line]「あれ……？」[%p]"
-msgstr "100:[name]拓巳[line]Huh?[%p]"
+msgstr "100:[name]拓巳[line]「あれ……？」[%p]"
 
 msgid "200:おかしいな。七海と一緒に、ベッドで寝たはずなのに。[linebreak]寝ぼけて、途中で降りてきたのかな？[%p]"
-msgstr "200:That's strange. I'd been sleeping in the bed, with Nanami. Had I come back here at some point without realizing it?[%p]"
+msgstr "200:おかしいな。七海と一緒に、ベッドで寝たはずなのに。[linebreak]寝ぼけて、途中で降りてきたのかな？[%p]"
 
 msgid "300:ベッドを見上げてみる。シーツがふくらんでいる。七海はまだ寝ているらしい。[%p]"
-msgstr "300:I looked up at the bed. There was a bulge in the sheets. Nanami was evidently still asleep.[%p]"
+msgstr "300:ベッドを見上げてみる。シーツがふくらんでいる。七海はまだ寝ているらしい。[%p]"
 
 msgid "400:ケータイで時間を確認する。[%p]"
-msgstr "400:I checked the time on my phone.[%p]"
+msgstr "400:ケータイで時間を確認する。[%p]"
 
 msgid "500:ん……？[%p]"
-msgstr "500:Hmm?[%p]"
+msgstr "500:ん……？[%p]"
 
 msgid "600:妙な違和感を覚えた。[linebreak]なにか、変だ。[%p]"
-msgstr "600:Something felt strangely wrong. Something wasn't right.[%p]"
+msgstr "600:妙な違和感を覚えた。[linebreak]なにか、変だ。[%p]"
 
 msgid "700:なんだろう。この心がざわつくような感覚は。[%p]"
-msgstr "700:But what? What was this strange sensation in my heart?[%p]"
+msgstr "700:なんだろう。この心がざわつくような感覚は。[%p]"
 
 msgid "800:――今日は、何日だったっけ？[%p]"
-msgstr "800:——What day was it today?[%p]"
+msgstr "800:――今日は、何日だったっけ？[%p]"
 
 msgid "900:僕の記憶だと、まだ１１月にはなってなかったような気がするんだけど……。[%p]"
-msgstr "900:I didn't remember it being November yet.[%p]"
+msgstr "900:僕の記憶だと、まだ１１月にはなってなかったような気がするんだけど……。[%p]"
 
 msgid "1000:っていうか、寝て起きたら夜の８時過ぎって、どういうことだ？[linebreak]まさか２０時間近く寝てたってこと？[%p]"
-msgstr "1000:And why the hell was I waking up at 8:00 PM at night? Had I been out for twenty hours?[%p]"
+msgstr "1000:っていうか、寝て起きたら夜の８時過ぎって、どういうことだ？[linebreak]まさか２０時間近く寝てたってこと？[%p]"
 
 msgid "1100:そんなはずない。いくら七海と一緒で緊張が緩んだからって、そんな爆睡はしない。[%p]"
-msgstr "1100:No, that was impossible. Being with Nanami had made me feel a lot less tense, but not so relaxed that I could sleep for almost a full day.[%p]"
+msgstr "1100:そんなはずない。いくら七海と一緒で緊張が緩んだからって、そんな爆睡はしない。[%p]"
 
 msgid "1200:ケータイが壊れて、間違った日付、時間を表示してるのかな。[%p]"
-msgstr "1200:Maybe my phone was broken and showing the wrong time?[%p]"
+msgstr "1200:ケータイが壊れて、間違った日付、時間を表示してるのかな。[%p]"
 
 msgid "1300:ＰＣの日付も、ケータイと同じく１１月４日の夜８時過ぎ。[%p]"
-msgstr "1300:I looked at the date on my computer clock. It said it was just past 8:00 PM on November 4th.[%p]"
+msgstr "1300:ＰＣの日付も、ケータイと同じく１１月４日の夜８時過ぎ。[%p]"
 
 msgid "1400:[name]拓巳[line]「ウソだろ……ウソだよ……」[%p]"
-msgstr "1400:[name]拓巳[line]No... this can't be right.[%p]"
+msgstr "1400:[name]拓巳[line]「ウソだろ……ウソだよ……」[%p]"
 
 msgid "1500:つぶやきながら、ネットに繋いでメールソフトとウェブブラウザを同時に立ち上げ、ニュースサイトを巡回してみる。[linebreak]どこを見ても、日付は１１月４日を示していた。[%p]"
-msgstr "1500:I booted up my email software and internet browser at the same time, and began to look around the news sites. They all had the same date: November 4th.[%p]"
+msgstr "1500:つぶやきながら、ネットに繋いでメールソフトとウェブブラウザを同時に立ち上げ、ニュースサイトを巡回してみる。[linebreak]どこを見ても、日付は１１月４日を示していた。[%p]"
 
 msgid "1600:いくつかのニュースを読んでみる。その中で気になる記事を見つけた。[%p]"
-msgstr "1600:I read a bunch of articles, too. One of them bothered me.[%p]"
+msgstr "1600:いくつかのニュースを読んでみる。その中で気になる記事を見つけた。[%p]"
 
 msgid "1700:この記事の日付は、１０月２８日。１週間前のことになっている。[%p]"
-msgstr "1700:It was dated October 28th. One week ago.[%p]"
+msgstr "1700:この記事の日付は、１０月２８日。１週間前のことになっている。[%p]"
 
 msgid "1800:もしかしてこれって、『将軍』からの呼び出しメールと関係あるのかな？[%p]"
-msgstr "1800:Did it have anything to do with the message from Shogun?[%p]"
+msgstr "1800:もしかしてこれって、『将軍』からの呼び出しメールと関係あるのかな？[%p]"
 
 msgid "1900:確か『将軍』は、夜９時にＯ－ＦＲＯＮＴに来いってメールに書いていた。[%p]"
-msgstr "1900:His message had told me to come to O-FRONT at 9:00 PM.[%p]"
+msgstr "1900:確か『将軍』は、夜９時にＯ－ＦＲＯＮＴに来いってメールに書いていた。[%p]"
 
 msgid "2000:偶然の一致とは思えない……。[%p]"
-msgstr "2000:This couldn't be a coincidence.[%p]"
+msgstr "2000:偶然の一致とは思えない……。[%p]"
 
 msgid "2100:さらに――[%p]"
-msgstr "2100:There was more.[%p]"
+msgstr "2100:さらに――[%p]"
 
 msgid "2200:なんだこれ……？[linebreak]おかしいぞ。[%p]"
-msgstr "2200:What was this? It didn't make any sense.[%p]"
+msgstr "2200:なんだこれ……？[linebreak]おかしいぞ。[%p]"
 
 msgid "2300:だって、ニュージェネ第６の事件は『ＳＭＪＫ』のはずだろ……。[linebreak]それに、乳毛その７＠ＤＱＮパズルってなんだよ……。[linebreak]いつの間にそんな事件が起きた？[%p]"
-msgstr "2300:The 6th NewGen case was supposed to be “SMJK,” right? And what the hell is this seventh case, “DQN Puzzle”? When had that happened?[%p]"
+msgstr "2300:だって、ニュージェネ第６の事件は『ＳＭＪＫ』のはずだろ……。[linebreak]それに、乳毛その７＠ＤＱＮパズルってなんだよ……。[linebreak]いつの間にそんな事件が起きた？[%p]"
 
 msgid "2400:そのニュージェネ速報を見つめたまま、僕は固まってしまった。[%p]"
-msgstr "2400:I froze, staring at the NewGen site.[%p]"
+msgstr "2400:そのニュージェネ速報を見つめたまま、僕は固まってしまった。[%p]"
 
 msgid "2500:[name]星来[line]「メールだよ〜、ぼけなす♪」[%p]"
-msgstr "2500:[name]星来[line]You've got mail, dork![%p]"
+msgstr "2500:[name]星来[line]「メールだよ〜、ぼけなす♪」[%p]"
 
 msgid "2600:星来の声で、ハッと我に返った。[linebreak]どうやら大量のメールがきていて、今になってやっと、全部ダウンロードできたらしい。[%p]"
-msgstr "2600:Seira's words brought me back to my senses. From the look of it, I'd had so many messages that it had taken time to download them all. The software had only just now finished.[%p]"
+msgstr "2600:星来の声で、ハッと我に返った。[linebreak]どうやら大量のメールがきていて、今になってやっと、全部ダウンロードできたらしい。[%p]"
 
 msgid "2700:[name]拓巳[line]「う……っ」[%p]"
-msgstr "2700:[name]拓巳[line]Ugh...[%p]"
+msgstr "2700:[name]拓巳[line]「う……っ」[%p]"
 
 msgid "2800:新着メールが、５３通……！[linebreak]しかも全部、『将軍』からだ……！[%p]"
-msgstr "2800:Fifty-three new messages! And they were all from Shogun![%p]"
+msgstr "2800:新着メールが、５３通……！[linebreak]しかも全部、『将軍』からだ……！[%p]"
 
 msgid "2900:タイトルはどれも、こっちをあからさまに挑発するものばかりだし。[linebreak]『将軍』がこんな汚い言葉を使うなんて、今までなかったのに。[%p]"
-msgstr "2900:From the look of it, he was pissed off. I'd never seen Shogun use language like this before.[%p]"
+msgstr "2900:タイトルはどれも、こっちをあからさまに挑発するものばかりだし。[linebreak]『将軍』がこんな汚い言葉を使うなんて、今までなかったのに。[%p]"
 
 msgid "3000:恐怖と混乱で、イヤな汗が全身ににじみ出てくる。[%p]"
-msgstr "3000:Sweat started to pour from every pore in my body as I sat there in terror and confusion.[%p]"
+msgstr "3000:恐怖と混乱で、イヤな汗が全身ににじみ出てくる。[%p]"
 
 msgid "3100:一番最新のメールを、恐る恐るクリックして開いてみる。[%p]"
-msgstr "3100:I clicked on the newest email.[%p]"
+msgstr "3100:一番最新のメールを、恐る恐るクリックして開いてみる。[%p]"
 
 msgid "3200:なんだ、どうなってるんだ……。どうなってるんだよ、くそぅ！[%p]"
-msgstr "3200:What was going on here? What the hell was going on?[%p]"
+msgstr "3200:なんだ、どうなってるんだ……。どうなってるんだよ、くそぅ！[%p]"
 
 msgid "3300:落ち着け。冷静になれ。よく考えろ。[linebreak]きっとこれは、単なる妄想だ。[linebreak]そうだ、夢だ。夢なんだ。[%p]"
-msgstr "3300:Calm down. Don't lose control. Think. This has to be a delusion. Yeah. That's right. A dream. It's just a dream.[%p]"
+msgstr "3300:落ち着け。冷静になれ。よく考えろ。[linebreak]きっとこれは、単なる妄想だ。[linebreak]そうだ、夢だ。夢なんだ。[%p]"
 
 msgid "3400:そのうち、オチがあって目が覚めるはずだ。そうしたら僕は、ベッドで七海と一緒に寝ているはず……。そっちが、現実のはずなんだ……。[%p]"
-msgstr "3400:Before long, it would end, and then I'd wake up. I'd be back in the bed with Nanami. That was real. This wasn't.[%p]"
+msgstr "3400:そのうち、オチがあって目が覚めるはずだ。そうしたら僕は、ベッドで七海と一緒に寝ているはず……。そっちが、現実のはずなんだ……。[%p]"
 
 msgid "3500:[name]拓巳[line]「ひっ……！」[%p]"
-msgstr "3500:[name]拓巳[line]Aah![%p]"
+msgstr "3500:[name]拓巳[line]「ひっ……！」[%p]"
 
 msgid "3600:扉を叩く音が、部屋の中に響いた。[linebreak]誰かが、来た……？[%p]"
-msgstr "3600:The sound of someone banging on the door echoed through the room. Someone was here?[%p]"
+msgstr "3600:扉を叩く音が、部屋の中に響いた。[linebreak]誰かが、来た……？[%p]"
 
 msgid "3700:僕は息を詰め、扉をじっと凝視する。[linebreak]無音。気配はない。幻聴かな、と思ったとき――[%p]"
-msgstr "3700:I held my breath and stared at the door. Silence. Nothing at all to indicate that someone was there. Just when I thought I was hallucinating...[%p]"
+msgstr "3700:僕は息を詰め、扉をじっと凝視する。[linebreak]無音。気配はない。幻聴かな、と思ったとき――[%p]"
 
 msgid "3800:また、ノックするような音。[linebreak]幻聴なんかじゃない……！[%p]"
-msgstr "3800:Another knock. I wasn't hearing things![%p]"
+msgstr "3800:また、ノックするような音。[linebreak]幻聴なんかじゃない……！[%p]"
 
 msgid "3900:まさか、『将軍』が来た！？[linebreak]いよいよ、僕を殺しに来たのか！？[%p]"
-msgstr "3900:Was it Shogun?! Was he finally here to kill me?[%p]"
+msgstr "3900:まさか、『将軍』が来た！？[linebreak]いよいよ、僕を殺しに来たのか！？[%p]"
 
 msgid "4000:でも、扉の外から聞こえてきた声は、意外なものだった――[%p]"
-msgstr "4000:But instead, I heard a surprising voice from the other side of the door.[%p]"
+msgstr "4000:でも、扉の外から聞こえてきた声は、意外なものだった――[%p]"
 
 msgid "4100:[name]七海[line]「おにぃ……開けて……」[%p]"
-msgstr "4100:[name]七海[line]Brother, open up…[%p]"
+msgstr "4100:[name]七海[line]「おにぃ……開けて……」[%p]"
 
 msgid "4200:[name]拓巳[line]「な……なみ……？」[%p]"
-msgstr "4200:[name]拓巳[line]N-Nanami?[%p]"
+msgstr "4200:[name]拓巳[line]「な……なみ……？」[%p]"
 
 msgid "4300:え？\u3000なんで？[linebreak]とっさに、ベッドの上を見る。[%p]"
-msgstr "4300:Huh? Why? I looked over at the bed.[%p]"
+msgstr "4300:え？\u3000なんで？[linebreak]とっさに、ベッドの上を見る。[%p]"
 
 msgid "4400:そこに七海が寝ているはずだ。白いシーツが、ふくらんでるじゃないか。[%p]"
-msgstr "4400:Nanami should have been sleeping there. There was a bulge in the white sheets, after all.[%p]"
+msgstr "4400:そこに七海が寝ているはずだ。白いシーツが、ふくらんでるじゃないか。[%p]"
 
 msgid "4500:[name]拓巳[line]「お、おい、七海、起きろ……」[%p]"
-msgstr "4500:[name]拓巳[line]H-Hey, Nanami, wake up![%p]"
+msgstr "4500:[name]拓巳[line]「お、おい、七海、起きろ……」[%p]"
 
 msgid "4600:ベッドのはしごを途中まで登って、寝ている七海に声をかけてみる。[linebreak]でもシーツはぴくりとも動かない。[%p]"
-msgstr "4600:I climbed halfway up the ladder to the bed and tried to wake Nanami up. The sheets didn't move at all.[%p]"
+msgstr "4600:ベッドのはしごを途中まで登って、寝ている七海に声をかけてみる。[linebreak]でもシーツはぴくりとも動かない。[%p]"
 
 msgid "4700:なにかが、変だ――[%p]"
-msgstr "4700:Something was wrong.[%p]"
+msgstr "4700:なにかが、変だ――[%p]"
 
 msgid "4800:[name]拓巳[line]「七海っ！」[%p]"
-msgstr "4800:[name]拓巳[line]Nanami![%p]"
+msgstr "4800:[name]拓巳[line]「七海っ！」[%p]"
 
 msgid "4900:勢いよく、シーツを引きはがす。[linebreak]そこには――[%p]"
-msgstr "4900:I ripped off the sheets. What I saw...[%p]"
+msgstr "4900:勢いよく、シーツを引きはがす。[linebreak]そこには――[%p]"
 
 msgid "5000:いくつもの、ダンボールが、あった。[%p]"
-msgstr "5000:was a bunch of boxes.[%p]"
+msgstr "5000:いくつもの、ダンボールが、あった。[%p]"
 
 msgid "5100:七海は、いなかった。[%p]"
-msgstr "5100:Nanami wasn't there.[%p]"
+msgstr "5100:七海は、いなかった。[%p]"
 
 msgid "5200:[name]拓巳[line]「え……？」[%p]"
-msgstr "5200:[name]拓巳[line]Huh?[%p]"
+msgstr "5200:[name]拓巳[line]「え……？」[%p]"
 
 msgid "5300:頭の中が真っ白になる。[%p]"
-msgstr "5300:My mind went blank.[%p]"
+msgstr "5300:頭の中が真っ白になる。[%p]"
 
 msgid "5400:そのベッドは、そもそも片付いていない。[linebreak]人が寝られる状態じゃない。[%p]"
-msgstr "5400:The bed hadn't been cleaned up. There was no way somebody could sleep here.[%p]"
+msgstr "5400:そのベッドは、そもそも片付いていない。[linebreak]人が寝られる状態じゃない。[%p]"
 
 msgid "5500:エロゲのパッケージやらマンガ本を無造作に突っ込んだダンボールが並んでいる。昨日、七海が片付ける前の状態。物置と化している。[%p]"
-msgstr "5500:It was just a bunch of boxes filled with manga and H-game packages. It was a storage space, just like it had been yesterday before Nanami cleaned it up.[%p]"
+msgstr "5500:エロゲのパッケージやらマンガ本を無造作に突っ込んだダンボールが並んでいる。昨日、七海が片付ける前の状態。物置と化している。[%p]"
 
 msgid "5600:七海が、片付けた……？[linebreak]昨日……？[%p]"
-msgstr "5600:Nanami had cleaned it up...? Yesterday?[%p]"
+msgstr "5600:七海が、片付けた……？[linebreak]昨日……？[%p]"
 
 msgid "5700:部屋の中を見回した。[%p]"
-msgstr "5700:I looked around the room.[%p]"
+msgstr "5700:部屋の中を見回した。[%p]"
 
 msgid "5800:これっぽっちも片付いてなんていない。[linebreak]僕はさっき目が覚めてから今まで、どうしてそのことに気が付かなかった？[%p]"
-msgstr "5800:It hadn't been cleaned at all. Why hadn't I noticed when I'd woken up?[%p]"
+msgstr "5800:これっぽっちも片付いてなんていない。[linebreak]僕はさっき目が覚めてから今まで、どうしてそのことに気が付かなかった？[%p]"
 
 msgid "5900:混乱している。記憶がめちゃくちゃになっている。[%p]"
-msgstr "5900:I was confused. My memories were all messed up.[%p]"
+msgstr "5900:混乱している。記憶がめちゃくちゃになっている。[%p]"
 
 msgid "6000:[name]七海[line]「お、にぃ……」[%p]"
-msgstr "6000:[name]七海[line]Brother...[%p]"
+msgstr "6000:[name]七海[line]「お、にぃ……」[%p]"
 
 msgid "6100:また、外から声がする。[linebreak]七海の声だ。[%p]"
-msgstr "6100:The voice outside the door again. Nanami's voice.[%p]"
+msgstr "6100:また、外から声がする。[linebreak]七海の声だ。[%p]"
 
 msgid "6200:あの七海は、何者だ？[linebreak]僕と一緒に寝た七海はどこへ行った？[linebreak]全裸で震えていた七海はどうした？[%p]"
-msgstr "6200:Who was that Nanami? Where'd the one who'd been sleeping in my bed gone? What happened to the Nanami that I'd found shaking, naked, outside my room?[%p]"
+msgstr "6200:あの七海は、何者だ？[linebreak]僕と一緒に寝た七海はどこへ行った？[linebreak]全裸で震えていた七海はどうした？[%p]"
 
 msgid "6300:分からない……。なにも分からない……。[%p]"
-msgstr "6300:I didn't understand. Nothing made sense.[%p]"
+msgstr "6300:分からない……。なにも分からない……。[%p]"
 
 msgid "6400:僕はよろよろと、ふらつく足で扉にすがりついた。[linebreak]内側から、南京錠で鍵がかかっている。[linebreak]つまりこのコンテナハウスは、密室。[%p]"
-msgstr "6400:I staggered over to the door on unsteady feet, and then fell up against it. The door was padlocked from the inside. There was no way to leave if the padlock was closed.[%p]"
+msgstr "6400:僕はよろよろと、ふらつく足で扉にすがりついた。[linebreak]内側から、南京錠で鍵がかかっている。[linebreak]つまりこのコンテナハウスは、密室。[%p]"
 
 msgid "6500:僕が寝ている間に七海がこっそり外に出ていったっていうことはあり得ない。[%p]"
-msgstr "6500:Nanami couldn't have left without me knowing it. It was impossible.[%p]"
+msgstr "6500:僕が寝ている間に七海がこっそり外に出ていったっていうことはあり得ない。[%p]"
 
 msgid "6600:泣きそうになった。[linebreak]きっとこれは『将軍』からの攻撃に違いないって思った。[%p]"
-msgstr "6600:I thought I was going to cry. This must be another one of Shogun's attacks, I thought.[%p]"
+msgstr "6600:泣きそうになった。[linebreak]きっとこれは『将軍』からの攻撃に違いないって思った。[%p]"
 
 msgid "6700:それでも、扉を開けざるを得なかった。[linebreak]外から、七海の声がするから。[linebreak]とても弱々しく、僕を呼ぶ七海の声が聞こえてくるから。[%p]"
-msgstr "6700:But I had to open the door. I could hear Nanami outside. She sounded so weak and helpless, and she was calling my name.[%p]"
+msgstr "6700:それでも、扉を開けざるを得なかった。[linebreak]外から、七海の声がするから。[linebreak]とても弱々しく、僕を呼ぶ七海の声が聞こえてくるから。[%p]"
 
 msgid "6800:鍵を外して――[%p]"
-msgstr "6800:I unlocked the padlock.[%p]"
+msgstr "6800:鍵を外して――[%p]"
 
 msgid "6900:そっと、扉を開いた――[%p]"
-msgstr "6900:And slowly opened the door.[%p]"
+msgstr "6900:そっと、扉を開いた――[%p]"
 

@@ -10,179 +10,179 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:波多野一成は、娘と、西條拓巳を見送って、瓦礫の中に腰を下ろした。[%p]"
-msgstr "0:Issei Hatano watched his daughter and Takumi Nishijo leave, and then sat down in the rubble.[%p]"
+msgstr "0:波多野一成は、娘と、西條拓巳を見送って、瓦礫の中に腰を下ろした。[%p]"
 
 msgid "100:――私は、神と、もう少し話をしたい。[%p]"
-msgstr "100:—I want to talk with God a little more.[%p]"
+msgstr "100:――私は、神と、もう少し話をしたい。[%p]"
 
 msgid "200:そう言って、この場に１人で残ったのだ。[%p]"
-msgstr "200:He'd said, and stayed behind alone.[%p]"
+msgstr "200:そう言って、この場に１人で残ったのだ。[%p]"
 
 msgid "300:娘のセナは、そんな彼になにか言いたそうな[linebreak]鋭い眼差しを送ってきたが、すぐに舌打ちして顔を背け、[linebreak]結局はなにも言わずにこの部屋から出て行った。[%p]"
-msgstr "300:His daughter Sena looked like she'd wanted to say something to him, but instead, she'd shot him an annoyed glance before turning away. She'd left the room without saying anything.[%p]"
+msgstr "300:娘のセナは、そんな彼になにか言いたそうな[linebreak]鋭い眼差しを送ってきたが、すぐに舌打ちして顔を背け、[linebreak]結局はなにも言わずにこの部屋から出て行った。[%p]"
 
 msgid "400:波多野も、声はかけなかった。[%p]"
-msgstr "400:Hatano had said nothing to her, either.[%p]"
+msgstr "400:波多野も、声はかけなかった。[%p]"
 
 msgid "500:[name]波多野[line]「３００人委員会。まだ見ているのか？」[%p]"
-msgstr "500:[name]波多野[line]Committee of 300, are you still there?[%p]"
+msgstr "500:[name]波多野[line]「３００人委員会。まだ見ているのか？」[%p]"
 
 msgid "600:ブラックアウトしたまま沈黙しているモニタに向けて、波多野は呼びかけた。[%p]"
-msgstr "600:He said to the empty, powered-off screen.[%p]"
+msgstr "600:ブラックアウトしたまま沈黙しているモニタに向けて、波多野は呼びかけた。[%p]"
 
 msgid "700:しばらく反応はなかったが、見つめ続けていると、やがて自動的にモニタが点灯し、先程のチャット画面が映し出される。[%p]"
-msgstr "700:There was no answer for a moment, but he kept staring. After a moment, the monitor powered itself on, and the chat window reappeared.[%p]"
+msgstr "700:しばらく反応はなかったが、見つめ続けていると、やがて自動的にモニタが点灯し、先程のチャット画面が映し出される。[%p]"
 
 msgid "800:禁（０漸Ｖ・＄：ｙ"
-msgstr "800:KIN(OZENV.$: y"
+msgstr "800:禁（０漸Ｖ・＄：ｙ"
 
 msgid "900:ｙ、という返事。つまり“ＹＥＳ”を意味している。[%p]"
-msgstr "900:“y.” In other words, yes.[%p]"
+msgstr "900:ｙ、という返事。つまり“ＹＥＳ”を意味している。[%p]"
 
 msgid "1000:[name]波多野[line]「なぜ、セナと、西條拓巳なんだ」[%p]"
-msgstr "1000:[name]波多野[line]Why Sena and Takumi Nishijo?[%p]"
+msgstr "1000:[name]波多野[line]「なぜ、セナと、西條拓巳なんだ」[%p]"
 
 msgid "1100:禁（０漸Ｖ・＄：現在の渋谷において、最もコンタクトできる確率が高いギガロマニアックスだったからだ"
-msgstr "1100:KIN(OZENV.$: Of the Gigalomaniacs present in Shibuya, they were the ones we were most likely to contact successfully."
+msgstr "1100:禁（０漸Ｖ・＄：現在の渋谷において、最もコンタクトできる確率が高いギガロマニアックスだったからだ"
 
 msgid "1200:禁（０漸Ｖ・＄：それ以上の意味はない"
-msgstr "1200:KIN(OZENV.$: No other reason."
+msgstr "1200:禁（０漸Ｖ・＄：それ以上の意味はない"
 
 msgid "1300:[name]波多野[line]「３００人委員会にとって、こちらの世界はどのような定義なんだ。ゲームか。実験場か。牧場か」[%p]"
-msgstr "1300:[name]波多野[line]What does the Committee of 300 define this world as? A video game? A testing lab? A cattle ranch?[%p]"
+msgstr "1300:[name]波多野[line]「３００人委員会にとって、こちらの世界はどのような定義なんだ。ゲームか。実験場か。牧場か」[%p]"
 
 msgid "1400:禁（０漸Ｖ・＄：世界人間牧場計画のことを言っているのならば、それは一部の陰謀論者による妄想でしかない"
-msgstr "1400:KIN(OZENV.$: If you're referring to the Human Cultivation [alt-linebreak]Project, that's nothing but a delusion asserted by a few [alt-linebreak]conspiracy theorists."
+msgstr "1400:禁（０漸Ｖ・＄：世界人間牧場計画のことを言っているのならば、それは一部の陰謀論者による妄想でしかない"
 
 msgid "1500:禁（０漸Ｖ・＄：言ったはずだ。我らはそちらの世界に直接介入はしない"
-msgstr "1500:KIN(OZENV.$: We've told you already. We do not intervene [alt-linebreak]directly in your world."
+msgstr "1500:禁（０漸Ｖ・＄：言ったはずだ。我らはそちらの世界に直接介入はしない"
 
 msgid "1600:世界人間牧場計画。[linebreak]それは３００人委員会による陰謀が語られるとき、必ず登場する言葉だ。[%p]"
-msgstr "1600:The Human Cultivation Project. It was a phrase you heard whenever you read conspiracies about the Committee of 300.[%p]"
+msgstr "1600:世界人間牧場計画。[linebreak]それは３００人委員会による陰謀が語られるとき、必ず登場する言葉だ。[%p]"
 
 msgid "1700:３００人委員会主導によるワン・ワールド（世界に単一の）政府が樹立されることで、新たな世界の秩序を構築する。[%p]"
-msgstr "1700:The Committee wanted to establish a single, unified world government, and construct a new world order.[%p]"
+msgstr "1700:３００人委員会主導によるワン・ワールド（世界に単一の）政府が樹立されることで、新たな世界の秩序を構築する。[%p]"
 
 msgid "1800:一部の選ばれた者以外のすべての人間は、沈黙の兵器による半永久的な洗脳を施され、無自覚な奴隷と化す。[%p]"
-msgstr "1800:All but a chosen few would be kept under permanent brainwashing by the silent weapons, and so become unknowing slaves.[%p]"
+msgstr "1800:一部の選ばれた者以外のすべての人間は、沈黙の兵器による半永久的な洗脳を施され、無自覚な奴隷と化す。[%p]"
 
 msgid "1900:さながら家畜のように、上位存在に肉も、乳も、労働力も、子も、命も奪われ続ける。[%p]"
-msgstr "1900:Like cattle, they would offer their flesh, their milk, their labor, their children, and their lives to their masters.[%p]"
+msgstr "1900:さながら家畜のように、上位存在に肉も、乳も、労働力も、子も、命も奪われ続ける。[%p]"
 
 msgid "2000:もし実現すれば、それはおそらく最も残酷で最もシステマチックな、人類にとっての理想郷となるだろう。[%p]"
-msgstr "2000:If it ever became real, it would be the cruelest, most systematic utopia possible for mankind.[%p]"
+msgstr "2000:もし実現すれば、それはおそらく最も残酷で最もシステマチックな、人類にとっての理想郷となるだろう。[%p]"
 
 msgid "2100:知らずに意志を奪われオートメーション化した家畜人間は、搾取されながらも幸せに生きていけるはずだ。“搾取されている”という自覚がないのだから、自らの境遇に不満を訴えるはずがない。[%p]"
-msgstr "2100:Humans would have no will of their own. They would become automatons, living happily even while oppressed. They wouldn't even know what was happening to them, so no one would ever complain.[%p]"
+msgstr "2100:知らずに意志を奪われオートメーション化した家畜人間は、搾取されながらも幸せに生きていけるはずだ。“搾取されている”という自覚がないのだから、自らの境遇に不満を訴えるはずがない。[%p]"
 
 msgid "2200:[name]波多野[line]「世界人間牧場計画が妄想だとしても」[%p]"
-msgstr "2200:[name]波多野[line]The Human Cultivation Project may be a delusion.[%p]"
+msgstr "2200:[name]波多野[line]「世界人間牧場計画が妄想だとしても」[%p]"
 
 msgid "2300:[name]波多野[line]「沈黙の兵器は妄想ではない。現にノアⅡが存在している」[%p]"
-msgstr "2300:[name]波多野[line]But the silent weapons aren't. Noah II exists.[%p]"
+msgstr "2300:[name]波多野[line]「沈黙の兵器は妄想ではない。現にノアⅡが存在している」[%p]"
 
 msgid "2400:禁（０漸Ｖ・＄：それが今回のエラーに繋がった"
-msgstr "2400:KIN(OZENV.$: That's where the error we mentioned comes into [alt-linebreak]play."
+msgstr "2400:禁（０漸Ｖ・＄：それが今回のエラーに繋がった"
 
 msgid "2500:禁（０漸Ｖ・＄：君と西條拓巳、そして野呂瀬玄一が作ったエラーだ"
-msgstr "2500:KIN(OZENV.$: You, Takumi Nishijo, and Genichi Norose all created[alt-linebreak] it."
+msgstr "2500:禁（０漸Ｖ・＄：君と西條拓巳、そして野呂瀬玄一が作ったエラーだ"
 
 msgid "2600:禁（０漸Ｖ・＄：我らはそのエラーを修復しようとしているのだよ"
-msgstr "2600:KIN(OZENV.$: We are trying to fix it."
+msgstr "2600:禁（０漸Ｖ・＄：我らはそのエラーを修復しようとしているのだよ"
 
 msgid "2700:[name]波多野[line]「そして世界は再び、お前たちの秩序の下に置かれるのか。無自覚の奴隷として、お前たちに搾取され続けるのか」[%p]"
-msgstr "2700:[name]波多野[line]And then the world will be under your control again? We'll all be unknowing slaves for you to exploit?[%p]"
+msgstr "2700:[name]波多野[line]「そして世界は再び、お前たちの秩序の下に置かれるのか。無自覚の奴隷として、お前たちに搾取され続けるのか」[%p]"
 
 msgid "2800:話しながら、自分自身の言葉からとある恐ろしい可能性に思い当たり、波多野は眉をひそめた。[%p]"
-msgstr "2800:As he spoke, a terrifying possibility occurred to him.[%p]"
+msgstr "2800:話しながら、自分自身の言葉からとある恐ろしい可能性に思い当たり、波多野は眉をひそめた。[%p]"
 
 msgid "2900:[name]波多野[line]「……世界人間牧場計画は、すでに完了している？」[%p]"
-msgstr "2900:[name]波多野[line]Is the Human Cultivation Project already complete?[%p]"
+msgstr "2900:[name]波多野[line]「……世界人間牧場計画は、すでに完了している？」[%p]"
 
 msgid "3000:禁（０漸Ｖ・＄：面白い発想だ。だが例えとしては、その言い方はふさわしくない"
-msgstr "3000:KIN(OZENV.$: An interesting idea, but an inappropriate metaphor."
+msgstr "3000:禁（０漸Ｖ・＄：面白い発想だ。だが例えとしては、その言い方はふさわしくない"
 
 msgid "3100:禁（０漸Ｖ・＄：神からの視点で正しく言い表すならば"
-msgstr "3100:KIN(OZENV.$: From the perspective of God,"
+msgstr "3100:禁（０漸Ｖ・＄：神からの視点で正しく言い表すならば"
 
 msgid "3200:禁（０漸Ｖ・＄：“世界が誕生した時点で君たちはすでに家畜だった”"
-msgstr "3200:KIN(OZENV.$: it would be more appropriate to say that you were [alt-linebreak]cattle from the moment the world was created."
+msgstr "3200:禁（０漸Ｖ・＄：“世界が誕生した時点で君たちはすでに家畜だった”"
 
 msgid "3300:禁（０漸Ｖ・＄：あくまで例えだが"
-msgstr "3300:KIN(OZENV.$: That, however, is simply a metaphor."
+msgstr "3300:禁（０漸Ｖ・＄：あくまで例えだが"
 
 msgid "3400:[name]波多野[line]「最初の質問に答えろ……」[%p]"
-msgstr "3400:[name]波多野[line]Answer my first question. Now, answer me.[%p]"
+msgstr "3400:[name]波多野[line]「最初の質問に答えろ……」[%p]"
 
 msgid "3500:[name]波多野[line]「３００人委員会にとって、こちらの世界は、ゲームなのか。実験場なのか。牧場なのか」[%p]"
-msgstr "3500:[name]波多野[line]How does the Committee of 300 see this world? A testing lab? A cattle ranch?[%p]"
+msgstr "3500:[name]波多野[line]「３００人委員会にとって、こちらの世界は、ゲームなのか。実験場なのか。牧場なのか」[%p]"
 
 msgid "3600:波多野の問いかけに、『禁（０漸Ｖ・＄』は沈黙した。[%p]"
-msgstr "3600:KIN(OZENV.$ fell silent at his question.[%p]"
+msgstr "3600:波多野の問いかけに、『禁（０漸Ｖ・＄』は沈黙した。[%p]"
 
 msgid "3700:禁（０漸Ｖ・＄：時間だ"
-msgstr "3700:KIN(OZENV.$: It's time."
+msgstr "3700:禁（０漸Ｖ・＄：時間だ"
 
 msgid "3800:[name]波多野[line]「時間？\u3000時間とは、なんのことだ……？」[%p]"
-msgstr "3800:[name]波多野[line]Time? What's time?[%p]"
+msgstr "3800:[name]波多野[line]「時間？\u3000時間とは、なんのことだ……？」[%p]"
 
 msgid "3900:禁（０漸Ｖ・＄：３００人委員会はあくまで、"
-msgstr "3900:KIN(OZENV.$: It is necessary that the Committee of 300"
+msgstr "3900:禁（０漸Ｖ・＄：３００人委員会はあくまで、"
 
 msgid "4000:禁（０漸Ｖ・＄：陰謀論の中でのみ語られる“うさんくさい存在”でなければならない"
-msgstr "4000:KIN(OZENV.$: remain nothing more than a ridiculous conspiracy [alt-linebreak]theory."
+msgstr "4000:禁（０漸Ｖ・＄：陰謀論の中でのみ語られる“うさんくさい存在”でなければならない"
 
 msgid "4100:禁（０漸Ｖ・＄：知りすぎた者は誰であろうと排除する"
-msgstr "4100:KIN(OZENV.$: Anyone who knows too much will be eliminated,"
+msgstr "4100:禁（０漸Ｖ・＄：知りすぎた者は誰であろうと排除する"
 
 msgid "4200:禁（０漸Ｖ・＄：猪鼻や倉持のように"
-msgstr "4200:KIN(OZENV.$: as Inohana and Kuramochi were."
+msgstr "4200:禁（０漸Ｖ・＄：猪鼻や倉持のように"
 
 msgid "4300:禁（０漸Ｖ・＄：それは君たちも例外ではない"
-msgstr "4300:KIN(OZENV.$: And the three of you are no exception."
+msgstr "4300:禁（０漸Ｖ・＄：それは君たちも例外ではない"
 
 msgid "4400:[name]波多野[line]「君たち、だと……？\u3000まさか、セナや西條拓巳も……」[%p]"
-msgstr "4400:[name]波多野[line]The three of us? You don't mean Sena and Takumi Nishijo as well…[%p]"
+msgstr "4400:[name]波多野[line]「君たち、だと……？\u3000まさか、セナや西條拓巳も……」[%p]"
 
 msgid "4500:禁（０漸Ｖ・＄：君たちは我らと接触した時点で駒となり"
-msgstr "4500:KIN(OZENV.$: When you made contact with us, you became our [alt-linebreak]pawns."
+msgstr "4500:禁（０漸Ｖ・＄：君たちは我らと接触した時点で駒となり"
 
 msgid "4600:禁（０漸Ｖ・＄：駒には駒以上のいかなる役割も与えられない"
-msgstr "4600:KIN(OZENV.$: And a pawn can never be more than a pawn."
+msgstr "4600:禁（０漸Ｖ・＄：駒には駒以上のいかなる役割も与えられない"
 
 msgid "4700:禁（０漸Ｖ・＄：それが我らのルールだ"
-msgstr "4700:KIN(OZENV.$: That is our rule."
+msgstr "4700:禁（０漸Ｖ・＄：それが我らのルールだ"
 
 msgid "4800:モニタがついにブラックアウトする。[linebreak]それは死亡宣告に等しかった。[%p]"
-msgstr "4800:The monitor went black again. It was as good as a death sentence.[%p]"
+msgstr "4800:モニタがついにブラックアウトする。[linebreak]それは死亡宣告に等しかった。[%p]"
 
 msgid "4900:[name]波多野[line]「セナ……！」[%p]"
-msgstr "4900:[name]波多野[line]Sena![%p]"
+msgstr "4900:[name]波多野[line]「セナ……！」[%p]"
 
 msgid "5000:唇を噛み、波多野は慌てて立ち上がった。[linebreak]今ならばまだ、渋谷駅へ向かったセナたちに追いつけるかもしれない。[%p]"
-msgstr "5000:Hatano bit his lip and quickly stood up. If he hurried, he might still catch up with them.[%p]"
+msgstr "5000:唇を噛み、波多野は慌てて立ち上がった。[linebreak]今ならばまだ、渋谷駅へ向かったセナたちに追いつけるかもしれない。[%p]"
 
 msgid "5100:やはりこれは罠だったのだ、と伝えなければならない。[%p]"
-msgstr "5100:He had to tell them it was it was a trap.[%p]"
+msgstr "5100:やはりこれは罠だったのだ、と伝えなければならない。[%p]"
 
 msgid "5200:娘を死なせたくなかった。[%p]"
-msgstr "5200:He didn't want his daughter to die.[%p]"
+msgstr "5200:娘を死なせたくなかった。[%p]"
 
 msgid "5300:妻を、そして次女を殺してしまった自分にとって、残った唯一の家族。どれだけ恨まれようと、セナには生きていてほしかった。[%p]"
-msgstr "5300:He'd killed his wife and his daughter's little sister. She was all he had left. No matter how much she hated him, he wanted her to live.[%p]"
+msgstr "5300:妻を、そして次女を殺してしまった自分にとって、残った唯一の家族。どれだけ恨まれようと、セナには生きていてほしかった。[%p]"
 
 msgid "5400:だから、走った。[%p]"
-msgstr "5400:So, he ran.[%p]"
+msgstr "5400:だから、走った。[%p]"
 
 msgid "5500:しかし、波多野が希テクノロジーの本社ビルから出ることは、ついにできなかった。[%p]"
-msgstr "5500:But he never made it out of the Nozomi Technologies building.[%p]"
+msgstr "5500:しかし、波多野が希テクノロジーの本社ビルから出ることは、ついにできなかった。[%p]"
 
 msgid "5600:その前に、ビル全体を爆発音とともに激しい振動が襲った。[linebreak]地震による崩落などではない。音から判断するだけでも、人為的な破壊行為による揺れだと分かる。[%p]"
-msgstr "5600:There was the sound of an explosion, and a violent shaking. It wasn't the earthquake. From the sound, it was clear that someone had set a bomb.[%p]"
+msgstr "5600:その前に、ビル全体を爆発音とともに激しい振動が襲った。[linebreak]地震による崩落などではない。音から判断するだけでも、人為的な破壊行為による揺れだと分かる。[%p]"
 
 msgid "5700:けれど、分かったところでどうにもならなかった。[%p]"
-msgstr "5700:But knowing that didn't help him.[%p]"
+msgstr "5700:けれど、分かったところでどうにもならなかった。[%p]"
 
 msgid "5800:足許の床が崩れ、さながら地獄の釜が蓋を開けたかのように、波多野というあまりに小さな存在を呑み込んだ――[%p]"
-msgstr "5800:The floor beneath him fell, and what looked like the gates of hell opened beneath him and swallowed him up.[%p]"
+msgstr "5800:足許の床が崩れ、さながら地獄の釜が蓋を開けたかのように、波多野というあまりに小さな存在を呑み込んだ――[%p]"
 

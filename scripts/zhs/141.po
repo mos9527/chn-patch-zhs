@@ -10,380 +10,380 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:そのオフィスには、埃の匂いが漂っていた。[%p]"
-msgstr "0:The office smelled like dust.[%p]"
+msgstr "0:そのオフィスには、埃の匂いが漂っていた。[%p]"
 
 msgid "100:少し古い雑居ビルの２階。[%p]"
-msgstr "100:It was on the second floor of an aging mixed-used building.[%p]"
+msgstr "100:少し古い雑居ビルの２階。[%p]"
 
 msgid "200:フロアの奥にある壁一面の窓から陽光が射し込み、舞い踊る埃をさながらパウダースノーのように見せている。[%p]"
-msgstr "200:Light poured in from the huge window in the back that covered the whole wall, making the dust in the air look like powder snow.[%p]"
+msgstr "200:フロアの奥にある壁一面の窓から陽光が射し込み、舞い踊る埃をさながらパウダースノーのように見せている。[%p]"
 
 msgid "300:その窓に貼られた『信用調査\u3000フリージア』という文字が、窓際のデスクに影となって落ちていた。[%p]"
-msgstr "300:The letters on the window that read “Trustworthiness Investigation Company Freesia” cast shadows on the desks beneath it.[%p]"
+msgstr "300:その窓に貼られた『信用調査\u3000フリージア』という文字が、窓際のデスクに影となって落ちていた。[%p]"
 
 msgid "400:デスクは全部で２０個ほどが隙間なくびっしりと並べられていた。[linebreak]どれも資料と思しき紙やファイルが山積みされて崩れそうになっており、その光景は出版社を思わせる。[%p]"
-msgstr "400:There were 20 desks in all, tightly crammed together. They were all piled high with folders and papers, in a way you might expect to see in a publishing office.[%p]"
+msgstr "400:デスクは全部で２０個ほどが隙間なくびっしりと並べられていた。[linebreak]どれも資料と思しき紙やファイルが山積みされて崩れそうになっており、その光景は出版社を思わせる。[%p]"
 
 msgid "500:ほとんどには机の主が不在で、社内にいるのはせいぜい５〜６人だ。[%p]"
-msgstr "500:Most of the desks' occupants were out, with only five or six people there.[%p]"
+msgstr "500:ほとんどには机の主が不在で、社内にいるのはせいぜい５〜６人だ。[%p]"
 
 msgid "600:けれどその理由は、今日が土曜日だからということでは決してない。[%p]"
-msgstr "600:But the reason wasn't because it was a Saturday.[%p]"
+msgstr "600:けれどその理由は、今日が土曜日だからということでは決してない。[%p]"
 
 msgid "700:その証拠に、入り口横の壁に張り付けられているホワイトボードの行動表には、びっしりと予定が書き込まれていた。[%p]"
-msgstr "700:There was a schedule on the whiteboard next to the entrance, and it was packed tight with writing.[%p]"
+msgstr "700:その証拠に、入り口横の壁に張り付けられているホワイトボードの行動表には、びっしりと予定が書き込まれていた。[%p]"
 
 msgid "800:判安二が、その調査会社の扉を開けたのは、昼休みも終わろうという時間のことだった。[%p]"
-msgstr "800:Yasuji Ban opened the agency's door right at the end of lunch break.[%p]"
+msgstr "800:判安二が、その調査会社の扉を開けたのは、昼休みも終わろうという時間のことだった。[%p]"
 
 msgid "900:ノックもせずに入ってきたにもかかわらず、社員は誰もそれをとがめようとしない。[%p]"
-msgstr "900:He'd walked in without knocking, but none of the people there had said a word.[%p]"
+msgstr "900:ノックもせずに入ってきたにもかかわらず、社員は誰もそれをとがめようとしない。[%p]"
 
 msgid "1000:判もまた、さも当然のように『おーっす』と挨拶の言葉をかけ、まっすぐ一番奥――窓際の席でノートＰＣにかじりついている、恰幅のいい女性のところへ向かう。[%p]"
-msgstr "1000:He gave them a friendly “Hey, there,” as he headed straight for the desk furthest in the back, where a heavyset woman was sitting at her laptop.[%p]"
+msgstr "1000:判もまた、さも当然のように『おーっす』と挨拶の言葉をかけ、まっすぐ一番奥――窓際の席でノートＰＣにかじりついている、恰幅のいい女性のところへ向かう。[%p]"
 
 msgid "1100:[name]判[line]「よう、モモちゃん。元気？」[%p]"
-msgstr "1100:[name]判[line]Hey, Momo. How you doing?[%p]"
+msgstr "1100:[name]判[line]「よう、モモちゃん。元気？」[%p]"
 
 msgid "1200:モモちゃんと呼ばれた女性――フリージアの社長、[ruby-base]百瀬[ruby-text-start]ももせ[ruby-text-end][ruby-base]克子[ruby-text-start]かつこ[ruby-text-end]が、視線をＰＣのモニタに据えたままうんざりした顔をする。[%p]"
-msgstr "1200:The woman he'd called Momo was Katsuko Momose, the President of Freesia. She had an annoyed look on her face, and refused to even look up.[%p]"
+msgstr "1200:モモちゃんと呼ばれた女性――フリージアの社長、[ruby-base]百瀬[ruby-text-start]ももせ[ruby-text-end][ruby-base]克子[ruby-text-start]かつこ[ruby-text-end]が、視線をＰＣのモニタに据えたままうんざりした顔をする。[%p]"
 
 msgid "1300:[name]百瀬[line]「バンちゃん、また来たの……」[%p]"
-msgstr "1300:[name]百瀬[line]Ban, you're back?[%p]"
+msgstr "1300:[name]百瀬[line]「バンちゃん、また来たの……」[%p]"
 
 msgid "1400:[name]判[line]「また来ましたよ、と。ニュージェネについての新ネタ、ない？」[%p]"
-msgstr "1400:[name]判[line]I am indeed. Got anything new on NewGen?[%p]"
+msgstr "1400:[name]判[line]「また来ましたよ、と。ニュージェネについての新ネタ、ない？」[%p]"
 
 msgid "1500:[name]百瀬[line]「ったく。私は忙しいのよ。抱えてる案件がごまんとあるの」[%p]"
-msgstr "1500:[name]百瀬[line]Sheesh... I'm a busy woman, you know that? I've got a lot of other jobs to do.[%p]"
+msgstr "1500:[name]百瀬[line]「ったく。私は忙しいのよ。抱えてる案件がごまんとあるの」[%p]"
 
 msgid "1600:[name]百瀬[line]「ウチみたいな零細企業は、土日返上で仕事しなくちゃいけないの。分かる？」[%p]"
-msgstr "1600:[name]百瀬[line]Small companies like us are so busy, we have to work on weekends. You understand that?[%p]"
+msgstr "1600:[name]百瀬[line]「ウチみたいな零細企業は、土日返上で仕事しなくちゃいけないの。分かる？」[%p]"
 
 msgid "1700:そこでようやく百瀬は顔を上げた。[%p]"
-msgstr "1700:Only then did she look up at him.[%p]"
+msgstr "1700:そこでようやく百瀬は顔を上げた。[%p]"
 
 msgid "1800:判のニヤけた顔を見て、額に手を置き小さく首を振る。[%p]"
-msgstr "1800:When she saw the grin on his face, she put her hand up to her forehead and shook her head slightly.[%p]"
+msgstr "1800:判のニヤけた顔を見て、額に手を置き小さく首を振る。[%p]"
 
 msgid "1900:[name]百瀬[line]「ここは警察の秘密組織でも子会社でもないって、何度も言ってるでしょうに」[%p]"
-msgstr "1900:[name]百瀬[line]We're not some kind of secret organization or subsidiary of the police, you know.[%p]"
+msgstr "1900:[name]百瀬[line]「ここは警察の秘密組織でも子会社でもないって、何度も言ってるでしょうに」[%p]"
 
 msgid "2000:[name]百瀬[line]「タダで情報もらえるなんて、虫のいいこと考えてるんだろうけど。ここに来てる暇があるなら自分の足でなんとかなさいな、公務員さん」[%p]"
-msgstr "2000:[name]百瀬[line]You're probably hoping you can get some information for free. But if you've got time to come here, you've got time to go find out the facts for your own damn self. Stop wasting taxpayer money.[%p]"
+msgstr "2000:[name]百瀬[line]「タダで情報もらえるなんて、虫のいいこと考えてるんだろうけど。ここに来てる暇があるなら自分の足でなんとかなさいな、公務員さん」[%p]"
 
 msgid "2100:[name]百瀬[line]「または依頼料を払うこと。予約表はミホちゃんにもらってちょうだい」[%p]"
-msgstr "2100:[name]百瀬[line]Also, pay the fee. You can get a list of open spots in our schedule from Miho.[%p]"
+msgstr "2100:[name]百瀬[line]「または依頼料を払うこと。予約表はミホちゃんにもらってちょうだい」[%p]"
 
 msgid "2200:[name]判[line]「相変わらず冷てー社長だなぁオイ」[%p]"
-msgstr "2200:[name]判[line]You're awful cold, Ms. CEO.[%p]"
+msgstr "2200:[name]判[line]「相変わらず冷てー社長だなぁオイ」[%p]"
 
 msgid "2300:そこまでまくしたてられたにもかかわらず、判はどこ吹く風だ。[linebreak]飄々とした態度で、自前のうちわを扇ぐ。[%p]"
-msgstr "2300:Momose's attitude seemed to have no effect whatsoever on Ban. He waved his fan indifferently.[%p]"
+msgstr "2300:そこまでまくしたてられたにもかかわらず、判はどこ吹く風だ。[linebreak]飄々とした態度で、自前のうちわを扇ぐ。[%p]"
 
 msgid "2400:[name]判[line]「この会社立ち上げるときには、あんなに協力してやったのによ」[%p]"
-msgstr "2400:[name]判[line]Did you forget who helped you even start this company?[%p]"
+msgstr "2400:[name]判[line]「この会社立ち上げるときには、あんなに協力してやったのによ」[%p]"
 
 msgid "2500:[name]百瀬[line]「あらー、バンちゃんも恩着せがましい人だわね。何年同じこと言い続ければ気が済むわけ？」[%p]"
-msgstr "2500:[name]百瀬[line]You're still bringing that up? How many years do you think you can say the same thing and still have it work?[%p]"
+msgstr "2500:[name]百瀬[line]「あらー、バンちゃんも恩着せがましい人だわね。何年同じこと言い続ければ気が済むわけ？」[%p]"
 
 msgid "2600:[name]判[line]「はははっ。参ったねコリャ」[%p]"
-msgstr "2600:[name]判[line]Hahaha... You're a harsh one.[%p]"
+msgstr "2600:[name]判[line]「はははっ。参ったねコリャ」[%p]"
 
 msgid "2700:[name]判[line]「じゃあ、依頼料はこいつでどうかな？」[%p]"
-msgstr "2700:[name]判[line]All right, will this do for your fee?[%p]"
+msgstr "2700:[name]判[line]「じゃあ、依頼料はこいつでどうかな？」[%p]"
 
 msgid "2800:判がこれ見よがしに差し出したのは、近所にある和菓子店の名がプリントされたビニール袋だった。[%p]"
-msgstr "2800:Ban offered her a plastic bag with the logo of a local confectionery shop on it.[%p]"
+msgstr "2800:判がこれ見よがしに差し出したのは、近所にある和菓子店の名がプリントされたビニール袋だった。[%p]"
 
 msgid "2900:[name]百瀬[line]「なんだ、あるなら最初から出してよ〜。いつも悪いわね」[%p]"
-msgstr "2900:[name]百瀬[line]Oh, why didn't you say you brought me something? Thanks, as always.[%p]"
+msgstr "2900:[name]百瀬[line]「なんだ、あるなら最初から出してよ〜。いつも悪いわね」[%p]"
 
 msgid "3000:[name]百瀬[line]「ミホちゃ〜ん、お茶ふたつ持ってきて〜」[%p]"
-msgstr "3000:[name]百瀬[line]Miho, some tea for me and my guest![%p]"
+msgstr "3000:[name]百瀬[line]「ミホちゃ〜ん、お茶ふたつ持ってきて〜」[%p]"
 
 msgid "3100:あっさりと態度を１８０度変えた百瀬は、部下にそう頼んだ後、判から受け取った袋の中身を吟味する。[%p]"
-msgstr "3100:Momose's attitude changed completely. She called out to one of her employees and opened the bag to examine the goodies.[%p]"
+msgstr "3100:あっさりと態度を１８０度変えた百瀬は、部下にそう頼んだ後、判から受け取った袋の中身を吟味する。[%p]"
 
 msgid "3200:[name]百瀬[line]「あら、栗ようかん！\u3000今が旬なのよね〜。分かってるじゃない」[%p]"
-msgstr "3200:[name]百瀬[line]Ooh! Chestnut yokan! It's just the season for this! You always know exactly what to get me.[%p]"
+msgstr "3200:[name]百瀬[line]「あら、栗ようかん！\u3000今が旬なのよね〜。分かってるじゃない」[%p]"
 
 msgid "3300:[name]百瀬[line]「バンちゃん、そんなところに突っ立ってないで座って」[%p]"
-msgstr "3300:[name]百瀬[line]Come on, Ban, don't just stand there. Sit down![%p]"
+msgstr "3300:[name]百瀬[line]「バンちゃん、そんなところに突っ立ってないで座って」[%p]"
 
 msgid "3400:[name]判[line]「どうも」[%p]"
-msgstr "3400:[name]判[line]Thanks.[%p]"
+msgstr "3400:[name]判[line]「どうも」[%p]"
 
 msgid "3500:判は苦笑しながら、隣のデスクからイスを引っ張ってきて、百瀬の横に落ち着いた。[%p]"
-msgstr "3500:Ban chuckled as he pulled a chair over from a nearby desk and sat next to Momose.[%p]"
+msgstr "3500:判は苦笑しながら、隣のデスクからイスを引っ張ってきて、百瀬の横に落ち着いた。[%p]"
 
 msgid "3600:事務職の女性社員が、紙コップに入った熱いお茶をふたつ持ってくる。[%p]"
-msgstr "3600:A female secretary brought over two paper cups filled with hot tea.[%p]"
+msgstr "3600:事務職の女性社員が、紙コップに入った熱いお茶をふたつ持ってくる。[%p]"
 
 msgid "3700:[name]判[line]「で、なんか新ネタあるかい？」[%p]"
-msgstr "3700:[name]判[line]So, any new news?[%p]"
+msgstr "3700:[name]判[line]「で、なんか新ネタあるかい？」[%p]"
 
 msgid "3800:[name]百瀬[line]「ちょっと待ちなさいって」[%p]"
-msgstr "3800:[name]百瀬[line]Give me a second to enjoy this first![%p]"
+msgstr "3800:[name]百瀬[line]「ちょっと待ちなさいって」[%p]"
 
 msgid "3900:百瀬は栗ようかん包装を丁寧に剥がすと、それをたたんでＰＣの横に置いた。[%p]"
-msgstr "3900:Momose carefully peeled the wrapper off one of bars, folded it up, and set it off to the side of her computer.[%p]"
+msgstr "3900:百瀬は栗ようかん包装を丁寧に剥がすと、それをたたんでＰＣの横に置いた。[%p]"
 
 msgid "4000:そして、早くもひとつめの栗ようかんを口に放り込む。[%p]"
-msgstr "4000:Then she popped open her mouth and tossed the first piece of chestnut youkan in.[%p]"
+msgstr "4000:そして、早くもひとつめの栗ようかんを口に放り込む。[%p]"
 
 msgid "4100:彼女は和菓子に目がないのだ。[linebreak]判がここに情報を貰いに来るときは、必ずこの差し入れが必要だった。[%p]"
-msgstr "4100:Momose was a woman who loved Japanese confections. Whenever he wanted to know something, Ban had to bring her some kind of treat.[%p]"
+msgstr "4100:彼女は和菓子に目がないのだ。[linebreak]判がここに情報を貰いに来るときは、必ずこの差し入れが必要だった。[%p]"
 
 msgid "4200:[name]百瀬[line]「んん！\u3000おいひいわほれ！」[%p]"
-msgstr "4200:[name]百瀬[line]Mm! This is so good![%p]"
+msgstr "4200:[name]百瀬[line]「んん！\u3000おいひいわほれ！」[%p]"
 
 msgid "4300:[name]判[line]「人に言えた義理じゃないけどよ、[linebreak]ちったぁダイエットしたらどうだい？」[%p]"
-msgstr "4300:[name]判[line]I know I'm in no position to say this to anybody, but have you ever thought about going on a diet?[%p]"
+msgstr "4300:[name]判[line]「人に言えた義理じゃないけどよ、[linebreak]ちったぁダイエットしたらどうだい？」[%p]"
 
 msgid "4400:[name]判[line]「でないといつまで経っても結婚できないぜ？」[%p]"
-msgstr "4400:[name]判[line]If you don't lose some pounds, you're never going to get married.[%p]"
+msgstr "4400:[name]判[line]「でないといつまで経っても結婚できないぜ？」[%p]"
 
 msgid "4500:[name]百瀬[line]「ふん。本当に人に言えた義理じゃないわね」[%p]"
-msgstr "4500:[name]百瀬[line]Hmph. You really aren't in a position to say that to anybody.[%p]"
+msgstr "4500:[name]百瀬[line]「ふん。本当に人に言えた義理じゃないわね」[%p]"
 
 msgid "4600:[name]百瀬[line]「私はもうとっくに婚期は逃したわよ」[%p]"
-msgstr "4600:[name]百瀬[line]That ship sailed years ago.[%p]"
+msgstr "4600:[name]百瀬[line]「私はもうとっくに婚期は逃したわよ」[%p]"
 
 msgid "4700:肩をすくめつつお茶を一口すすってから、百瀬は判へと向き直った。[%p]"
-msgstr "4700:Momose shrugged and took a sip of her tea, then turned to Ban.[%p]"
+msgstr "4700:肩をすくめつつお茶を一口すすってから、百瀬は判へと向き直った。[%p]"
 
 msgid "4800:[name]百瀬[line]「また、新しいニュージェネ事件起きたわね。こんなところでサボってていいの？」[%p]"
-msgstr "4800:[name]百瀬[line]There was another NewGen murder, right? Shouldn't you be at work, and not here?[%p]"
+msgstr "4800:[name]百瀬[line]「また、新しいニュージェネ事件起きたわね。こんなところでサボってていいの？」[%p]"
 
 msgid "4900:[name]判[line]「そっちの調査は俺以外の全員が真剣に取り組んでるさ」[%p]"
-msgstr "4900:[name]判[line]Don't worry. Everybody but me is working hard.[%p]"
+msgstr "4900:[name]判[line]「そっちの調査は俺以外の全員が真剣に取り組んでるさ」[%p]"
 
 msgid "5000:[name]判[line]「俺は、別のアプローチから真実に迫ってやる。ってな」[%p]"
-msgstr "5000:[name]判[line]I'm going after this from a different angle, you see.[%p]"
+msgstr "5000:[name]判[line]「俺は、別のアプローチから真実に迫ってやる。ってな」[%p]"
 
 msgid "5100:[name]百瀬[line]「カッコつけちゃって。似合わないわよ」[%p]"
-msgstr "5100:[name]百瀬[line]Listen to you showing off. You sound ridiculous.[%p]"
+msgstr "5100:[name]百瀬[line]「カッコつけちゃって。似合わないわよ」[%p]"
 
 msgid "5200:判は猫舌なので、お茶には手を付けようとしなかった。[%p]"
-msgstr "5200:Ban decided to avoid the tea until it cooled down. He couldn't handle anything, food or drink, that was too hot.[%p]"
+msgstr "5200:判は猫舌なので、お茶には手を付けようとしなかった。[%p]"
 
 msgid "5300:もう肌寒いぐらいの気候だと言うのに、うちわで自分の顔を扇いでいる。[linebreak]それはほとんど彼のクセのようなものだった。[%p]"
-msgstr "5300:The weather had turned cold, but he was still waving the fan at his face. It was a habit of his.[%p]"
+msgstr "5300:もう肌寒いぐらいの気候だと言うのに、うちわで自分の顔を扇いでいる。[linebreak]それはほとんど彼のクセのようなものだった。[%p]"
 
 msgid "5400:[name]百瀬[line]「警察はＧＥレートの線、追ってるの？」[%p]"
-msgstr "5400:[name]百瀬[line]Are the police looking into the GE rate?[%p]"
+msgstr "5400:[name]百瀬[line]「警察はＧＥレートの線、追ってるの？」[%p]"
 
 msgid "5500:[name]判[line]「そうそう、ＧＥレートね。ありゃすごいな。[linebreak]モモちゃんの話の通りだったぜ」[%p]"
-msgstr "5500:[name]判[line]Yeah, that GE rate thing, that was incredible. It was just like you said.[%p]"
+msgstr "5500:[name]判[line]「そうそう、ＧＥレートね。ありゃすごいな。[linebreak]モモちゃんの話の通りだったぜ」[%p]"
 
 msgid "5600:[name]百瀬[line]「私がウソの情報を渡すわけないでしょうに。これでおまんま食べてるんだから」[%p]"
-msgstr "5600:[name]百瀬[line]I'd never give you bad information. This is how I make my living.[%p]"
+msgstr "5600:[name]百瀬[line]「私がウソの情報を渡すわけないでしょうに。これでおまんま食べてるんだから」[%p]"
 
 msgid "5700:[name]百瀬[line]「それで？」[%p]"
-msgstr "5700:[name]百瀬[line]So?[%p]"
+msgstr "5700:[name]百瀬[line]「それで？」[%p]"
 
 msgid "5800:[name]判[line]「まぁ勝手に調べてるよ」[%p]"
-msgstr "5800:[name]判[line]Well, I'm looking into it on my own.[%p]"
+msgstr "5800:[name]判[line]「まぁ勝手に調べてるよ」[%p]"
 
 msgid "5900:[name]百瀬[line]「勝手にって……」[%p]"
-msgstr "5900:[name]百瀬[line]On your own?[%p]"
+msgstr "5900:[name]百瀬[line]「勝手にって……」[%p]"
 
 msgid "6000:[name]百瀬[line]「ちょっとバンちゃん！」[%p]"
-msgstr "6000:[name]百瀬[line]BAN![%p]"
+msgstr "6000:[name]百瀬[line]「ちょっとバンちゃん！」[%p]"
 
 msgid "6100:百瀬の声はよく通った。[%p]"
-msgstr "6100:Momose's voice echoed throughout the room.[%p]"
+msgstr "6100:百瀬の声はよく通った。[%p]"
 
 msgid "6200:もともと威勢のいい性格ということもあり、声量が大きいのだ。[%p]"
-msgstr "6200:She was always a very forceful woman, and a loud one at that.[%p]"
+msgstr "6200:もともと威勢のいい性格ということもあり、声量が大きいのだ。[%p]"
 
 msgid "6300:フリージアの社員は慣れたもので、怒声が事務所全体に響き渡っても眉ひとつ動かさない。社長が怒鳴るのは日常茶飯事なのだ。[%p]"
-msgstr "6300:The employees at Freesia were used to it, and none of them even raised an eyebrow at the noise. Not a day went by when Momose wasn't yelling at somebody.[%p]"
+msgstr "6300:フリージアの社員は慣れたもので、怒声が事務所全体に響き渡っても眉ひとつ動かさない。社長が怒鳴るのは日常茶飯事なのだ。[%p]"
 
 msgid "6400:判もまた、百瀬とは古い付き合いであり、これまでに何十回とやられたことがあるので、耳の穴をほじるという皮肉げなリアクションで返した。[%p]"
-msgstr "6400:Ban had known her for years, too, and had been on the receiving end of her yelling dozens of times. Ironically, his reaction was to pick at his ears.[%p]"
+msgstr "6400:判もまた、百瀬とは古い付き合いであり、これまでに何十回とやられたことがあるので、耳の穴をほじるという皮肉げなリアクションで返した。[%p]"
 
 msgid "6500:当の百瀬は、あまり人に聞かせたくない話題だったこともあって、すぐに声のトーンを落とした。[%p]"
-msgstr "6500:Momose's tone quickly dropped. This wasn't something she wanted anyone to hear.[%p]"
+msgstr "6500:当の百瀬は、あまり人に聞かせたくない話題だったこともあって、すぐに声のトーンを落とした。[%p]"
 
 msgid "6600:だがその表情は、ついさっきまで和菓子を頬張ってニコニコしていたのが嘘のように怒りに満ちており、判に指を突きつける様はすさまじいまでの迫力だった。[%p]"
-msgstr "6600:But the smile on her face that had been there when she was eating the yokan a moment ago was now completely gone. It was replaced with a look of intense rage as she pointed her finger in his face.[%p]"
+msgstr "6600:だがその表情は、ついさっきまで和菓子を頬張ってニコニコしていたのが嘘のように怒りに満ちており、判に指を突きつける様はすさまじいまでの迫力だった。[%p]"
 
 msgid "6700:[name]百瀬[line]「個人で追うのは危険だって言ったじゃない……！」[%p]"
-msgstr "6700:[name]百瀬[line]I told you, it's dangerous to look into this on your own![%p]"
+msgstr "6700:[name]百瀬[line]「個人で追うのは危険だって言ったじゃない……！」[%p]"
 
 msgid "6800:[name]百瀬[line]「政治に宗教に企業……どれだけ根深く関与してると思ってるの？」[%p]"
-msgstr "6800:[name]百瀬[line]Politicians, religions, companies... Do you know how many different groups are involved in this?[%p]"
+msgstr "6800:[name]百瀬[line]「政治に宗教に企業……どれだけ根深く関与してると思ってるの？」[%p]"
 
 msgid "6900:[name]百瀬[line]「こないだテレビでＧＥレートの講義をやった太田教授がどうなったか、あんたもよく知ってるでしょ！？」[%p]"
-msgstr "6900:[name]百瀬[line]You know what happened to Dr. Oota when he talked about the GE rate on TV, right?[%p]"
+msgstr "6900:[name]百瀬[line]「こないだテレビでＧＥレートの講義をやった太田教授がどうなったか、あんたもよく知ってるでしょ！？」[%p]"
 
 msgid "7000:[name]判[line]「ああ……『張り付け』で殺された被害者だろ。何度も聞いたよ」[%p]"
-msgstr "7000:[name]判[line]Oh yeah, the guy who got “Crucified.” I've heard that a bunch of times.[%p]"
+msgstr "7000:[name]判[line]「ああ……『張り付け』で殺された被害者だろ。何度も聞いたよ」[%p]"
 
 msgid "7100:[name]百瀬[line]「何度でも言ってやるわ。ええ、言ってやりますとも！」[%p]"
-msgstr "7100:[name]百瀬[line]And you'll hear it a bunch more! That's right, a whole bunch![%p]"
+msgstr "7100:[name]百瀬[line]「何度でも言ってやるわ。ええ、言ってやりますとも！」[%p]"
 
 msgid "7200:[name]百瀬[line]「あんたはいっつも私の忠告を無視するんだから！」[%p]"
-msgstr "7200:[name]百瀬[line]You always ignore my warnings![%p]"
+msgstr "7200:[name]百瀬[line]「あんたはいっつも私の忠告を無視するんだから！」[%p]"
 
 msgid "7300:[name]百瀬[line]「それでいつも尻ぬぐいさせられるのは私なんて、たまったもんじゃないわ！」[%p]"
-msgstr "7300:[name]百瀬[line]And I'm the one who always has to clean up your messes![%p]"
+msgstr "7300:[name]百瀬[line]「それでいつも尻ぬぐいさせられるのは私なんて、たまったもんじゃないわ！」[%p]"
 
 msgid "7400:[name]判[line]「まあまあ、そうがなるなって。茶でも飲んで落ち着いたら？」[%p]"
-msgstr "7400:[name]判[line]Come on, calm down. Have a sip of tea and catch your breath.[%p]"
+msgstr "7400:[name]判[line]「まあまあ、そうがなるなって。茶でも飲んで落ち着いたら？」[%p]"
 
 msgid "7500:言われて、百瀬はお茶ではなく２個目の栗ようかんを、鼻息も荒く口に放り込んだ。[%p]"
-msgstr "7500:Momose's reaction was to go for a second piece of chestnut youkan, not the tea.[%p]"
+msgstr "7500:言われて、百瀬はお茶ではなく２個目の栗ようかんを、鼻息も荒く口に放り込んだ。[%p]"
 
 msgid "7600:[name]判[line]「大丈夫だって。一応、諏訪と一緒に動いてるんで」[%p]"
-msgstr "7600:[name]判[line]It's fine. I've got Suwa with me.[%p]"
+msgstr "7600:[name]判[line]「大丈夫だって。一応、諏訪と一緒に動いてるんで」[%p]"
 
 msgid "7700:[name]判[line]「今はまだ、ＧＥレートやらなんやらってのは突飛すぎて上を説得できねえのよ」[%p]"
-msgstr "7700:[name]判[line]This stuff about the GE rate is too weird to get buy-in from the brass.[%p]"
+msgstr "7700:[name]判[line]「今はまだ、ＧＥレートやらなんやらってのは突飛すぎて上を説得できねえのよ」[%p]"
 
 msgid "7800:[name]百瀬[line]「諏訪ちゃんは確かに有能だし、しっかりしているけど、無理させたら承知しないわよ」[%p]"
-msgstr "7800:[name]百瀬[line]Suwa's good at his job, and he has a level head on his shoulders. But don't you dare make him do anything risky![%p]"
+msgstr "7800:[name]百瀬[line]「諏訪ちゃんは確かに有能だし、しっかりしているけど、無理させたら承知しないわよ」[%p]"
 
 msgid "7900:[name]判[line]「モモちゃんはいつから諏訪の保護者になったんだ？」[%p]"
-msgstr "7900:[name]判[line]Since when were you Suwa's mom?[%p]"
+msgstr "7900:[name]判[line]「モモちゃんはいつから諏訪の保護者になったんだ？」[%p]"
 
 msgid "8000:[name]百瀬[line]「バンちゃんの無謀な行動に、未来ある若者が巻き込まれるのは可哀想でしょうに」[%p]"
-msgstr "8000:[name]百瀬[line]I just feel bad for any promising youth who gets caught up in your crazy plans.[%p]"
+msgstr "8000:[name]百瀬[line]「バンちゃんの無謀な行動に、未来ある若者が巻き込まれるのは可哀想でしょうに」[%p]"
 
 msgid "8100:[name]判[line]「あぁ、そうかい」[%p]"
-msgstr "8100:[name]判[line]Oh you do, do you?[%p]"
+msgstr "8100:[name]判[line]「あぁ、そうかい」[%p]"
 
 msgid "8200:判は肩をすくめると、試しにお茶を一口、含んでみたが、まだ熱かったので思い切り顔をしかめた。[%p]"
-msgstr "8200:Ban shrugged. He tried taking a sip of the tea, but it was still too hot. He winced in pain.[%p]"
+msgstr "8200:判は肩をすくめると、試しにお茶を一口、含んでみたが、まだ熱かったので思い切り顔をしかめた。[%p]"
 
 msgid "8300:[name]判[line]「しかしバイオリズムが人を殺す狂気になるなんてこと、ホントにあり得るのかねえ？」[%p]"
-msgstr "8300:[name]判[line]Is it really possible for biorhythms to make somebody so crazy they'd kill, though?[%p]"
+msgstr "8300:[name]判[line]「しかしバイオリズムが人を殺す狂気になるなんてこと、ホントにあり得るのかねえ？」[%p]"
 
 msgid "8400:[name]百瀬[line]「前に説明したでしょうに」[%p]"
-msgstr "8400:[name]百瀬[line]I explained this before, didn't I?[%p]"
+msgstr "8400:[name]百瀬[line]「前に説明したでしょうに」[%p]"
 
 msgid "8500:[name]判[line]「実はいまいち理解しきれてねえんだわ、はは」[%p]"
-msgstr "8500:[name]判[line]I still don't really get it. Haha.[%p]"
+msgstr "8500:[name]判[line]「実はいまいち理解しきれてねえんだわ、はは」[%p]"
 
 msgid "8600:[name]判[line]「それって、モモちゃんお得意の“電磁波”と関係してるのかい？」[%p]"
-msgstr "8600:[name]判[line]Does it have something to do with these electromagnetic waves you love so much?[%p]"
+msgstr "8600:[name]判[line]「それって、モモちゃんお得意の“電磁波”と関係してるのかい？」[%p]"
 
 msgid "8700:百瀬はため息をつき、判とは違って平然とお茶をすすった。[%p]"
-msgstr "8700:Momose sighed and drank her tea. Unlike Ban, it didn't seem to bother her.[%p]"
+msgstr "8700:百瀬はため息をつき、判とは違って平然とお茶をすすった。[%p]"
 
 msgid "8800:[name]百瀬[line]「満月の夜の事件簿はよく知ってるでしょ？」[%p]"
-msgstr "8800:[name]百瀬[line]You know what happens with crime on the night of the full moon, right?[%p]"
+msgstr "8800:[name]百瀬[line]「満月の夜の事件簿はよく知ってるでしょ？」[%p]"
 
 msgid "8900:[name]判[line]「んー、まあな」[%p]"
-msgstr "8900:[name]判[line]Yeah, I guess.[%p]"
+msgstr "8900:[name]判[line]「んー、まあな」[%p]"
 
 msgid "9000:満月の夜には事故や事件が多い。それは都市伝説でもなんでもなく、警視庁の統計記録を見れば一目瞭然だった。[%p]"
-msgstr "9000:There were a lot of accidents and crimes on the night of the full moon. This wasn't an urban legend. It was something you could see for yourself just by looking at Tokyo Police statistics.[%p]"
+msgstr "9000:満月の夜には事故や事件が多い。それは都市伝説でもなんでもなく、警視庁の統計記録を見れば一目瞭然だった。[%p]"
 
 msgid "9100:[name]百瀬[line]「その満月以上の力でバイオリズムカーブが上昇したら、どうなると思う？」[%p]"
-msgstr "9100:[name]百瀬[line]What would happen if people's biorhythms were affected by something more powerful than the full moon?[%p]"
+msgstr "9100:[name]百瀬[line]「その満月以上の力でバイオリズムカーブが上昇したら、どうなると思う？」[%p]"
 
 msgid "9200:[name]判[line]「興奮……するってことだろ？」[%p]"
-msgstr "9200:[name]判[line]They'd get... excited, right?[%p]"
+msgstr "9200:[name]判[line]「興奮……するってことだろ？」[%p]"
 
 msgid "9300:[name]百瀬[line]「それだけ？」[%p]"
-msgstr "9300:[name]百瀬[line]Is that all?[%p]"
+msgstr "9300:[name]百瀬[line]「それだけ？」[%p]"
 
 msgid "9400:[name]百瀬[line]「渋谷は特殊な街なのよ。言ったでしょ？」[%p]"
-msgstr "9400:[name]百瀬[line]Shibuya is a special town. I told you that, right?[%p]"
+msgstr "9400:[name]百瀬[line]「渋谷は特殊な街なのよ。言ったでしょ？」[%p]"
 
 msgid "9500:[name]百瀬[line]「ＧＥレートが高ければバイオリズムカーブは上昇する」[%p]"
-msgstr "9500:[name]百瀬[line]When the GE rate goes up, it increases the biorhythm curve, too.[%p]"
+msgstr "9500:[name]百瀬[line]「ＧＥレートが高ければバイオリズムカーブは上昇する」[%p]"
 
 msgid "9600:[name]百瀬[line]「しかもその上昇値は、満月の夜に影響する数値のおよそ６８００倍」[%p]"
-msgstr "9600:[name]百瀬[line]And the effects it has are approximately 6,800 times greater than that of the night of a full moon.[%p]"
+msgstr "9600:[name]百瀬[line]「しかもその上昇値は、満月の夜に影響する数値のおよそ６８００倍」[%p]"
 
 msgid "9700:[name]判[line]「なんとも想像しにくい数字だな」[%p]"
-msgstr "9700:[name]判[line]That's kind of a hard number to imagine.[%p]"
+msgstr "9700:[name]判[line]「なんとも想像しにくい数字だな」[%p]"
 
 msgid "9800:[name]百瀬[line]「比べものにならないくらいすごい、って考えとけばいいわ」[%p]"
-msgstr "9800:[name]百瀬[line]Just think of it as so much bigger you can't even compare it.[%p]"
+msgstr "9800:[name]百瀬[line]「比べものにならないくらいすごい、って考えとけばいいわ」[%p]"
 
 msgid "9900:[name]判[line]「しかし、なんで今なんだい？」[%p]"
-msgstr "9900:[name]判[line]But why now?[%p]"
+msgstr "9900:[name]判[line]「しかし、なんで今なんだい？」[%p]"
 
 msgid "10000:[name]百瀬[line]「殺された太田教授が言っていたのは、ＧＥレートが半年前から急に増加しているせいってことね」[%p]"
-msgstr "10000:[name]百瀬[line]Before he died, Dr. Oota was saying it's because the GE rate's been increasing rapidly for the past six months.[%p]"
+msgstr "10000:[name]百瀬[line]「殺された太田教授が言っていたのは、ＧＥレートが半年前から急に増加しているせいってことね」[%p]"
 
 msgid "10100:[name]百瀬[line]「地層の構造に大きな変化が起きない限り、そんなことはあり得ないそうだけど」[%p]"
-msgstr "10100:[name]百瀬[line]But that would be impossible without some major change in the makeup of the ground beneath us.[%p]"
+msgstr "10100:[name]百瀬[line]「地層の構造に大きな変化が起きない限り、そんなことはあり得ないそうだけど」[%p]"
 
 msgid "10200:[name]判[line]「変化ねえ……」[%p]"
-msgstr "10200:[name]判[line]A change, huh?[%p]"
+msgstr "10200:[name]判[line]「変化ねえ……」[%p]"
 
 msgid "10300:[name]百瀬[line]「そう、駅前のスクランブル交差点で火山が噴火する程のエネルギーが必要なの」[%p]"
-msgstr "10300:[name]百瀬[line]Yeah. You'd need enough energy for a volcano to blow up right in front of Shibuya Scramble Crossing.[%p]"
+msgstr "10300:[name]百瀬[line]「そう、駅前のスクランブル交差点で火山が噴火する程のエネルギーが必要なの」[%p]"
 
 msgid "10400:[name]判[line]「火山！？\u3000そんなに大きな力なのか！？」[%p]"
-msgstr "10400:[name]判[line]A volcano?! It's that powerful?[%p]"
+msgstr "10400:[name]判[line]「火山！？\u3000そんなに大きな力なのか！？」[%p]"
 
 msgid "10500:[name]百瀬[line]「それくらい、今のＧＥレートはあり得ない状況なのよ」[%p]"
-msgstr "10500:[name]百瀬[line]That's how impossible the current GE rate is.[%p]"
+msgstr "10500:[name]百瀬[line]「それくらい、今のＧＥレートはあり得ない状況なのよ」[%p]"
 
 msgid "10600:[name]判[line]「それを世間に訴えようとした教授は、ニュージェネで殺された……」[%p]"
-msgstr "10600:[name]判[line]And the professor tried to tell the world, only to die during one of the NewGen murders.[%p]"
+msgstr "10600:[name]判[line]「それを世間に訴えようとした教授は、ニュージェネで殺された……」[%p]"
 
 msgid "10700:[name]百瀬[line]「事件の前日に、教授が出演する予定だったテレビ番組が急遽放送中止になった話、知ってる？」[%p]"
-msgstr "10700:[name]百瀬[line]Did you know that the day before the murder, the TV show he was scheduled to go on was suddenly canceled?[%p]"
+msgstr "10700:[name]百瀬[line]「事件の前日に、教授が出演する予定だったテレビ番組が急遽放送中止になった話、知ってる？」[%p]"
 
 msgid "10800:[name]判[line]「確かか？」[%p]"
-msgstr "10800:[name]判[line]You're sure?[%p]"
+msgstr "10800:[name]判[line]「確かか？」[%p]"
 
 msgid "10900:[name]百瀬[line]「知り合いに、ＭＨＫに勤めてる人がいて、聞かされたの」[%p]"
-msgstr "10900:[name]百瀬[line]I know somebody who works at MHK. They told me.[%p]"
+msgstr "10900:[name]百瀬[line]「知り合いに、ＭＨＫに勤めてる人がいて、聞かされたの」[%p]"
 
 msgid "11000:[name]判[line]「国営放送の番組に圧力かけられる立場なんて、そうそうないぜ……？」[%p]"
-msgstr "11000:[name]判[line]There aren't a lot of places that could put that kind of pressure on a public broadcast program.[%p]"
+msgstr "11000:[name]判[line]「国営放送の番組に圧力かけられる立場なんて、そうそうないぜ……？」[%p]"
 
 msgid "11100:[name]百瀬[line]「私も詳細については分からないわ。知ってたらとっくに告発してるだろうし」[%p]"
-msgstr "11100:[name]百瀬[line]I don't really know the details myself. If I did, I would've told somebody by now.[%p]"
+msgstr "11100:[name]百瀬[line]「私も詳細については分からないわ。知ってたらとっくに告発してるだろうし」[%p]"
 
 msgid "11200:判は興味を持ったのか、身を乗り出す。[%p]"
-msgstr "11200:Ban leaned forward, seemingly interested.[%p]"
+msgstr "11200:判は興味を持ったのか、身を乗り出す。[%p]"
 
 msgid "11300:[name]判[line]「俺でもだいたい予想は付くさ。この際、はっきり言っちゃってよ」[%p]"
-msgstr "11300:[name]判[line]I can take a guess, but I want you to come out and say it plainly.[%p]"
+msgstr "11300:[name]判[line]「俺でもだいたい予想は付くさ。この際、はっきり言っちゃってよ」[%p]"
 
 msgid "11400:[name]百瀬[line]「本気で聞きたい？」[%p]"
-msgstr "11400:[name]百瀬[line]You really want to hear this?[%p]"
+msgstr "11400:[name]百瀬[line]「本気で聞きたい？」[%p]"
 
 msgid "11500:[name]百瀬[line]「社会の暗部に踏み込むことになるわよ。いいの？」[%p]"
-msgstr "11500:[name]百瀬[line]You'll be stepping into some of the darkest corners of our society. Are you sure?[%p]"
+msgstr "11500:[name]百瀬[line]「社会の暗部に踏み込むことになるわよ。いいの？」[%p]"
 
 msgid "11600:[name]百瀬[line]「バンちゃん、クビになるかもしれない」[%p]"
-msgstr "11600:[name]百瀬[line]You might get fired over this, Ban.[%p]"
+msgstr "11600:[name]百瀬[line]「バンちゃん、クビになるかもしれない」[%p]"
 
 msgid "11700:[name]判[line]「俺は、ニュージェネ事件の犯人さえ捕まえられりゃそれでいいんだけどね」[%p]"
-msgstr "11700:[name]判[line]All I care about is catching the NewGen killer.[%p]"
+msgstr "11700:[name]判[line]「俺は、ニュージェネ事件の犯人さえ捕まえられりゃそれでいいんだけどね」[%p]"
 
 msgid "11800:[name]判[line]「ま、どうするかは答えを聞いてから考えるわ」[%p]"
-msgstr "11800:[name]判[line]Well, I guess I'll figure out what to do once I hear what you have to say.[%p]"
+msgstr "11800:[name]判[line]「ま、どうするかは答えを聞いてから考えるわ」[%p]"
 
 msgid "11900:百瀬はお茶をすすりながら、左手だけでノートＰＣのキーボードを叩いた。[%p]"
-msgstr "11900:Momose sipped her tea, using her left hand to type into the laptop.[%p]"
+msgstr "11900:百瀬はお茶をすすりながら、左手だけでノートＰＣのキーボードを叩いた。[%p]"
 
 msgid "12000:液晶モニタにドキュメントファイルが展開される。[linebreak]そこには、彼女が個人的に調べた情報が書き連ねられていた。[%p]"
-msgstr "12000:A document appeared on the LCD monitor. It contained a list of information she'd researched on her own.[%p]"
+msgstr "12000:液晶モニタにドキュメントファイルが展開される。[linebreak]そこには、彼女が個人的に調べた情報が書き連ねられていた。[%p]"
 
 msgid "12100:[name]百瀬[line]「[color index="A0FF0000"]明和党[color index="800000"]」[%p]"
-msgstr "12100:[name]百瀬[line]The [color index="A0FF0000"]Meiwa Party[color index="800000"].[%p]"
+msgstr "12100:[name]百瀬[line]「[color index="A0FF0000"]明和党[color index="800000"]」[%p]"
 
 msgid "12200:[name]判[line]「……モモちゃん、勘弁してくれ。俺はてっきり野党の名前が出てくると思ってたんだがな、よりによって……」[%p]"
-msgstr "12200:[name]判[line]Give me a break, Momo. I was thinking you were going to give me the name of a political party that wasn't in power. But not...[%p]"
+msgstr "12200:[name]判[line]「……モモちゃん、勘弁してくれ。俺はてっきり野党の名前が出てくると思ってたんだがな、よりによって……」[%p]"
 
 msgid "12300:判はうんざりしたようにうめく。[%p]"
-msgstr "12300:Ban gave a soft, annoyed moan.[%p]"
+msgstr "12300:判はうんざりしたようにうめく。[%p]"
 
 msgid "12400:けれどその目は笑っていなかった。むしろ刑事としての鋭さが宿っていた。[%p]"
-msgstr "12400:But his eyes weren't laughing at all. They were filled with the sharp insight of a detective.[%p]"
+msgstr "12400:けれどその目は笑っていなかった。むしろ刑事としての鋭さが宿っていた。[%p]"
 
 msgid "12500:[name]判[line]「ヘタしたら、この国が揺らぐぜ」[%p]"
-msgstr "12500:[name]判[line]This could shake the whole country.[%p]"
+msgstr "12500:[name]判[line]「ヘタしたら、この国が揺らぐぜ」[%p]"
 

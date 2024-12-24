@@ -10,146 +10,146 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:苦痛でしかなかった学校での時間をなんとかやり過ごして、帰りにいつものように『＠カフェ』に寄った。[linebreak]席はもちろんＲＯＯＭ３７。[%p]"
-msgstr "0:I somehow made it through an awful day at school, and as always, stopped at @Café on my way home. Of course, I sat in room 37.[%p]"
+msgstr "0:苦痛でしかなかった学校での時間をなんとかやり過ごして、帰りにいつものように『＠カフェ』に寄った。[linebreak]席はもちろんＲＯＯＭ３７。[%p]"
 
 msgid "100:いつもは周囲の個室は空席ばかりなのに、意外なことに今日はすぐ隣のＲＯＯＭ３６に先客がいた。[%p]"
-msgstr "100:Usually, the rooms around me were empty, but surprisingly enough, there was somebody in room 36 today.[%p]"
+msgstr "100:いつもは周囲の個室は空席ばかりなのに、意外なことに今日はすぐ隣のＲＯＯＭ３６に先客がいた。[%p]"
 
 msgid "200:個室の仕切り戸が閉まっている。中からは、デスクライトの明かりが漏れてきていた。[%p]"
-msgstr "200:The door to the room was closed. I could see the desk light was turned on inside.[%p]"
+msgstr "200:個室の仕切り戸が閉まっている。中からは、デスクライトの明かりが漏れてきていた。[%p]"
 
 msgid "300:僕は自分の個室に入ってから、小さく舌打ちした。[%p]"
-msgstr "300:I sighed a little as I went into my own room.[%p]"
+msgstr "300:僕は自分の個室に入ってから、小さく舌打ちした。[%p]"
 
 msgid "400:すぐ隣に人がいると、チャットとかやりにくいなあ。僕ってついつい独り言を言っちゃうクセがあるから。[%p]"
-msgstr "400:Having someone next door made it hard to chat. I was the kind of person who always said things out loud when he chatted.[%p]"
+msgstr "400:すぐ隣に人がいると、チャットとかやりにくいなあ。僕ってついつい独り言を言っちゃうクセがあるから。[%p]"
 
 msgid "500:まあいいや。とにかくエンスーにログインしよう。なるべく独り言を言わないように注意しておけば問題ないさ。[%p]"
-msgstr "500:Well, whatever. Time to just log into ESO. I'd just have to be careful not to say anything.[%p]"
+msgstr "500:まあいいや。とにかくエンスーにログインしよう。なるべく独り言を言わないように注意しておけば問題ないさ。[%p]"
 
 msgid "600:[name]拓巳[line]「んだよ、こいつら……っ」[%p]"
-msgstr "600:[name]拓巳[line]What's their problem?[%p]"
+msgstr "600:[name]拓巳[line]「んだよ、こいつら……っ」[%p]"
 
 msgid "700:苛立って、キーボードに手の平を叩き付けた。[%p]"
-msgstr "700:I slammed my palm down on the keyboard, annoyed.[%p]"
+msgstr "700:苛立って、キーボードに手の平を叩き付けた。[%p]"
 
 msgid "800:プレイを始めてかれこれ２時間。今日はストレスが溜まりまくりだ。[%p]"
-msgstr "800:I'd been playing for about two hours now. Today was just a stressful day.[%p]"
+msgstr "800:プレイを始めてかれこれ２時間。今日はストレスが溜まりまくりだ。[%p]"
 
 msgid "900:今日パーティを組んだふたりはどう考えても初心者だよ。[%p]"
-msgstr "900:The pair I'd grouped up with were clearly new players.[%p]"
+msgstr "900:今日パーティを組んだふたりはどう考えても初心者だよ。[%p]"
 
 msgid "1000:僕がせっかく引き立て役に徹してるって言うのに、ひとりは勝手に突っ込んでいって勝手に死んで……っていうのを繰り返してるし。[%p]"
-msgstr "1000:As always, I stayed in the background, trying to let them have the glory for themselves, but one would always run in ahead of us and die... and then do it again.[%p]"
+msgstr "1000:僕がせっかく引き立て役に徹してるって言うのに、ひとりは勝手に突っ込んでいって勝手に死んで……っていうのを繰り返してるし。[%p]"
 
 msgid "1100:もうひとりの魔法使いに至っては全然魔法での支援をしようとしない。[%p]"
-msgstr "1100:The other, a mage, refused to use any magic to help us.[%p]"
+msgstr "1100:もうひとりの魔法使いに至っては全然魔法での支援をしようとしない。[%p]"
 
 msgid "1200:おかげで何度かパーティは全滅した。[%p]"
-msgstr "1200:Our party must've died a dozen times.[%p]"
+msgstr "1200:おかげで何度かパーティは全滅した。[%p]"
 
 msgid "1300:そのくせ、チャットでは文句ばかり言いやがる。[linebreak]くそぅ、このヘタクソども。[%p]"
-msgstr "1300:And then on top of that, all they did was complain in chat. Freaking idiots.[%p]"
+msgstr "1300:そのくせ、チャットでは文句ばかり言いやがる。[linebreak]くそぅ、このヘタクソども。[%p]"
 
 msgid "1400:あんまり頭に来たから、ＰＫしてアイテムを一通り奪った後、すぐさま別エリアに脱出した。[%p]"
-msgstr "1400:I got so mad I PKed them, took all their items, and then quickly escaped to another area.[%p]"
+msgstr "1400:あんまり頭に来たから、ＰＫしてアイテムを一通り奪った後、すぐさま別エリアに脱出した。[%p]"
 
 msgid "1500:ナイトハルトじゃできないことでも、リーゼロッテなら平気でできる。だからわざわざ＠カフェまで足を運んでログインしているんだ。ふひひ。[%p]"
-msgstr "1500:KnightHeart couldn't do that stuff. But Liselotte could. That was why I came all the way to @Café to log in. Fweheheh.[%p]"
+msgstr "1500:ナイトハルトじゃできないことでも、リーゼロッテなら平気でできる。だからわざわざ＠カフェまで足を運んでログインしているんだ。ふひひ。[%p]"
 
 msgid "1600:ちょっとだけ気分がよくなった僕は、一息つくためにジュースを取りに行くことにした。[%p]"
-msgstr "1600:I felt a little better, so I decided to take a break and go get something to drink.[%p]"
+msgstr "1600:ちょっとだけ気分がよくなった僕は、一息つくためにジュースを取りに行くことにした。[%p]"
 
 msgid "1700:＠カフェはジュースが飲み放題で、カウンターホールにたくさんのジュースサーバーが置かれているんだ。[%p]"
-msgstr "1700:@Café had free drinks, and a well-stocked soda fountain near the counter.[%p]"
+msgstr "1700:＠カフェはジュースが飲み放題で、カウンターホールにたくさんのジュースサーバーが置かれているんだ。[%p]"
 
 msgid "1800:ＲＯＯＭ３７の唯一の欠点は、そのカウンターホールまで少し距離があるっていうことだね。[%p]"
-msgstr "1800:The one problem with room 37 was that it was pretty far from the bar.[%p]"
+msgstr "1800:ＲＯＯＭ３７の唯一の欠点は、そのカウンターホールまで少し距離があるっていうことだね。[%p]"
 
 msgid "1900:個室を出ると、すぐ隣のＲＯＯＭ３６の仕切り戸が開いていた。ホールへ行くためにはどうしてもＲＯＯＭ３６の前を通らなくちゃいけない。[%p]"
-msgstr "1900:When I left the room, I saw that the door to room 36 was open. I had to go by it if I was going to get to the soda fountain.[%p]"
+msgstr "1900:個室を出ると、すぐ隣のＲＯＯＭ３６の仕切り戸が開いていた。ホールへ行くためにはどうしてもＲＯＯＭ３６の前を通らなくちゃいけない。[%p]"
 
 msgid "2000:通り過ぎながら中をさりげなくのぞいてみると、誰もいなかった。そう言えばついさっき、席を立つ音が聞こえたなあ。[%p]"
-msgstr "2000:I took a quick peek inside as I walked by, and nobody was there. Actually, I realized I'd heard the sound of somebody getting up a moment ago.[%p]"
+msgstr "2000:通り過ぎながら中をさりげなくのぞいてみると、誰もいなかった。そう言えばついさっき、席を立つ音が聞こえたなあ。[%p]"
 
 msgid "2100:でも、リクライニングシートの足許にはバッグが置きっぱなしだった。そのバッグは学生カバンで、ぬいぐるみストラップがぶら下がっていた。[%p]"
-msgstr "2100:But there was a bag sitting next to the chair in the room. It was a student's bag. Decorative straps hung from it, stuffed animals dangling at their ends.[%p]"
+msgstr "2100:でも、リクライニングシートの足許にはバッグが置きっぱなしだった。そのバッグは学生カバンで、ぬいぐるみストラップがぶら下がっていた。[%p]"
 
 msgid "2200:昨日七海も持っていた『ゲロカエルん』だ。しかも同じ物が３つも。[linebreak]どうやらホントに流行ってるらしい。[%p]"
-msgstr "2200:They were Gero Froggy, the thing Nanami had showed me yesterday. Three of them, too. Maybe it really was popular.[%p]"
+msgstr "2200:昨日七海も持っていた『ゲロカエルん』だ。しかも同じ物が３つも。[linebreak]どうやらホントに流行ってるらしい。[%p]"
 
 msgid "2300:ま、どうでもいいことだけど。あんまりジロジロ見ていてもしこの客が戻ってきたら、変質者か置き引き犯に思われるかもしれない。[%p]"
-msgstr "2300:Not that I cared. If I kept staring at it and they came back, they might think I was a stalker or a thief.[%p]"
+msgstr "2300:ま、どうでもいいことだけど。あんまりジロジロ見ていてもしこの客が戻ってきたら、変質者か置き引き犯に思われるかもしれない。[%p]"
 
 msgid "2400:そう思ってさっさとジュースを取りに行こうとした。[%p]"
-msgstr "2400:I decided to forget about it and go get my soda.[%p]"
+msgstr "2400:そう思ってさっさとジュースを取りに行こうとした。[%p]"
 
 msgid "2500:でも、点けっぱなしのＰＣモニタに映し出されていた文字が視界の隅に入って、僕は目を見張った。[%p]"
-msgstr "2500:But when I saw what was showing on their monitor, my eyes went wide.[%p]"
+msgstr "2500:でも、点けっぱなしのＰＣモニタに映し出されていた文字が視界の隅に入って、僕は目を見張った。[%p]"
 
 msgid "2600:モニタには『ニュージェネまとめサイト』の文字。[linebreak]しかも煽るように毒々しい雰囲気のフォントが使われている。[%p]"
-msgstr "2600:The monitor was displaying the words “NewGen Aggregator Site.” It was in a really nasty-looking, attention-grabbing font, too.[%p]"
+msgstr "2600:モニタには『ニュージェネまとめサイト』の文字。[linebreak]しかも煽るように毒々しい雰囲気のフォントが使われている。[%p]"
 
 msgid "2700:ニュージェネ……。[%p]"
-msgstr "2700:NewGen...[%p]"
+msgstr "2700:ニュージェネ……。[%p]"
 
 msgid "2800:あの事件の情報について、僕は意図的に見ないようにしている。詳しい内容なんて知りたくなかった。そうすることで、僕は無関係だって自分に言い聞かせていた。[%p]"
-msgstr "2800:I'd been deliberately avoiding looking up anything about it. I didn't want to know the details. That was how I was telling myself that it had nothing to do with me.[%p]"
+msgstr "2800:あの事件の情報について、僕は意図的に見ないようにしている。詳しい内容なんて知りたくなかった。そうすることで、僕は無関係だって自分に言い聞かせていた。[%p]"
 
 msgid "2900:いや、そんなことはともかく……。[linebreak]ネットカフェで偶然隣の個室にいた客が、ニュージェネのまとめサイトを見ていたっていうのは、なにか意味があるんだろうか。[%p]"
-msgstr "2900:Anyway... Was there a reason the person who just happened to be in the room next to me at a net café was looking at a NewGen aggregator site?[%p]"
+msgstr "2900:いや、そんなことはともかく……。[linebreak]ネットカフェで偶然隣の個室にいた客が、ニュージェネのまとめサイトを見ていたっていうのは、なにか意味があるんだろうか。[%p]"
 
 msgid "3000:一瞬、脳裏にあの悪魔女の顔が浮かび、全身に鳥肌が立った。そのネガティブな思考を、首をぶんぶん振ることで強引に吹き消す。[%p]"
-msgstr "3000:For a moment, I saw the demon girl's face again, and my whole body shivered. I shook my head to drive away the negative thoughts.[%p]"
+msgstr "3000:一瞬、脳裏にあの悪魔女の顔が浮かび、全身に鳥肌が立った。そのネガティブな思考を、首をぶんぶん振ることで強引に吹き消す。[%p]"
 
 msgid "3100:考えすぎだ。そうだ、こんなのただの被害妄想さ。[linebreak]ニュージェネはいまやテレビのワイドショーで取り上げない日はないっていうぐらいらしいし、誰だって興味があるんだ。[%p]"
-msgstr "3100:I was overthinking it. Yeah. I was just being paranoid. NewGen was the media's favorite subject right now, and not a day went by when the TV talk shows weren't discussing it. Everybody was interested in it.[%p]"
+msgstr "3100:考えすぎだ。そうだ、こんなのただの被害妄想さ。[linebreak]ニュージェネはいまやテレビのワイドショーで取り上げない日はないっていうぐらいらしいし、誰だって興味があるんだ。[%p]"
 
 msgid "3200:ただそれだけだよ。[linebreak]うん、きっとそうだ。[%p]"
-msgstr "3200:That was the only reason. Yeah, it had to be.[%p]"
+msgstr "3200:ただそれだけだよ。[linebreak]うん、きっとそうだ。[%p]"
 
 msgid "3300:いいから早くジュースを取りに行く作業に戻るんだ。[%p]"
-msgstr "3300:Time to forget about it and go get my soda.[%p]"
+msgstr "3300:いいから早くジュースを取りに行く作業に戻るんだ。[%p]"
 
 msgid "3400:コップをサーバーの受け取り口に置き、迷うことなくコーラのボタンを押す。[linebreak]すぐにキンキンに冷えたコーラが注がれ始めた。[%p]"
-msgstr "3400:I put my cup under the dispenser and pushed the button for soda. Ice-cold soda came down, right into the cup.[%p]"
+msgstr "3400:コップをサーバーの受け取り口に置き、迷うことなくコーラのボタンを押す。[linebreak]すぐにキンキンに冷えたコーラが注がれ始めた。[%p]"
 
 msgid "3500:日が暮れて、そろそろ混み始めてくる時間だ。[%p]"
-msgstr "3500:The sun was setting, and it was starting to get crowded.[%p]"
+msgstr "3500:日が暮れて、そろそろ混み始めてくる時間だ。[%p]"
 
 msgid "3600:カウンターホールには、レジで案内を待っている何人かの客の姿が見られた。[linebreak]これから夜になるにつれて、さらに人は増えてくる。[%p]"
-msgstr "3600:I could see a small line of people waiting at the register. As it got later, more and more people were going to come.[%p]"
+msgstr "3600:カウンターホールには、レジで案内を待っている何人かの客の姿が見られた。[linebreak]これから夜になるにつれて、さらに人は増えてくる。[%p]"
 
 msgid "3700:もうあと１時間ぐらいすれば、ＲＯＯＭ３７の周囲の個室も全部埋まっちゃうだろう。[linebreak]そうなったら帰ることにしようかな。[%p]"
-msgstr "3700:In an hour or so, all the rooms around room 37 would be full. That would probably be my cue to go home.[%p]"
+msgstr "3700:もうあと１時間ぐらいすれば、ＲＯＯＭ３７の周囲の個室も全部埋まっちゃうだろう。[linebreak]そうなったら帰ることにしようかな。[%p]"
 
 msgid "3800:コップを持って席に戻ろうとした。[linebreak]途中、トイレに続いている通路の方を何気なく見ると――[%p]"
-msgstr "3800:I took my cup and went back to my seat. As I walked back, I took a quick glance down the corridor that led to the restrooms.[%p]"
+msgstr "3800:コップを持って席に戻ろうとした。[linebreak]途中、トイレに続いている通路の方を何気なく見ると――[%p]"
 
 msgid "3900:[name]拓巳[line]「あ……っ」[%p]"
-msgstr "3900:[name]拓巳[line]Huh?[%p]"
+msgstr "3900:[name]拓巳[line]「あ……っ」[%p]"
 
 msgid "4000:通路の奥に消えていく、翠明の制服を着た眼鏡女子の姿が見えた。しかもそいつは、今日の朝僕の後ろを追いかけてきた女子Ａだった。[%p]"
-msgstr "4000:I saw a girl with glasses in a Suimei uniform disappearing down the end of the hall. It was Girl A, the one who'd been following me this morning.[%p]"
+msgstr "4000:通路の奥に消えていく、翠明の制服を着た眼鏡女子の姿が見えた。しかもそいつは、今日の朝僕の後ろを追いかけてきた女子Ａだった。[%p]"
 
 msgid "4100:[name]拓巳[line]「え……え……」[%p]"
-msgstr "4100:[name]拓巳[line]Huh?[%p]"
+msgstr "4100:[name]拓巳[line]「え……え……」[%p]"
 
 msgid "4200:見間違いかと思って、本棚の陰に隠れつつ通路の方をしばらく見つめ続けた。でもヤツはそれきり姿を現さない。[%p]"
-msgstr "4200:I thought I must've been mistaken, so I hid behind a bookshelf and watched the corridor for a while. But I never saw her again.[%p]"
+msgstr "4200:見間違いかと思って、本棚の陰に隠れつつ通路の方をしばらく見つめ続けた。でもヤツはそれきり姿を現さない。[%p]"
 
 msgid "4300:見間違い、だよね……。[%p]"
-msgstr "4300:I must've been imagining it, right?[%p]"
+msgstr "4300:見間違い、だよね……。[%p]"
 
 msgid "4400:そうだよ、チラッと見えただけだし。[%p]"
-msgstr "4400:Yeah. I'd only seen her for a second.[%p]"
+msgstr "4400:そうだよ、チラッと見えただけだし。[%p]"
 
 msgid "4500:ここを利用する翠明の女子なんて腐るほどいるだろうし。眼鏡をかけた女子だってごまんといる。[%p]"
-msgstr "4500:And there were probably a ton of Suimei girls who used this[linebreak]café. A lot of whom probably wore glasses.[%p]"
+msgstr "4500:ここを利用する翠明の女子なんて腐るほどいるだろうし。眼鏡をかけた女子だってごまんといる。[%p]"
 
 msgid "4600:でも、もし女子Ａだったら……？[linebreak]ここにいるっていうことに、どんな意味がある……？[%p]"
-msgstr "4600:But what if it was Girl A? What was she doing here?[%p]"
+msgstr "4600:でも、もし女子Ａだったら……？[linebreak]ここにいるっていうことに、どんな意味がある……？[%p]"
 
 msgid "4700:ただの偶然？[linebreak]それとも……僕をつけてきた？[linebreak]……なんだか怖くなってきた。[%p]"
-msgstr "4700:Was it just a coincidence? Or... had she followed me? I started to feel scared.[%p]"
+msgstr "4700:ただの偶然？[linebreak]それとも……僕をつけてきた？[linebreak]……なんだか怖くなってきた。[%p]"
 

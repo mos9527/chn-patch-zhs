@@ -13,7 +13,7 @@ msgid "0:Ａ[%p]"
 msgstr "0:Ａ[%p]"
 
 msgid "100:"
-msgstr "100:Ａ１[%p]"
+msgstr "100:"
 
 msgid "200:Ａ２[%p]"
 msgstr "200:Ａ２[%p]"

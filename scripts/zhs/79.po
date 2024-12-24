@@ -10,200 +10,200 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:いつもの通り、エンスーをリーゼロッテでプレイしていたら、３時間があっという間に過ぎた。[%p]"
-msgstr "0:I logged into ESO as Liselotte, and three hours passed quickly.[%p]"
+msgstr "0:いつもの通り、エンスーをリーゼロッテでプレイしていたら、３時間があっという間に過ぎた。[%p]"
 
 msgid "100:２週間ぶりのリーゼロッテだったけど、うまく引き立て役を演じることができて、けっこう満足できた。[%p]"
-msgstr "100:It'd been two weeks since I'd logged in as Liselotte, but today, I was able to do a great job with the character, and was really satisfied.[%p]"
+msgstr "100:２週間ぶりのリーゼロッテだったけど、うまく引き立て役を演じることができて、けっこう満足できた。[%p]"
 
 msgid "200:気分よく店を出て家路につく。[%p]"
-msgstr "200:I left for home in a great mood.[%p]"
+msgstr "200:気分よく店を出て家路につく。[%p]"
 
 msgid "300:センター街は相変わらず人が多くて騒がしい。鬱陶しいっていつも思う。[%p]"
-msgstr "300:Center Street was as loud and obnoxious as ever. I always hated it.[%p]"
+msgstr "300:センター街は相変わらず人が多くて騒がしい。鬱陶しいっていつも思う。[%p]"
 
 msgid "400:それに、道沿いに並ぶ様々な店の照明によって、夜とは思えない明るさだ。[%p]"
-msgstr "400:And thanks to all the stores' lights, it was so bright that it didn't feel like nighttime at all.[%p]"
+msgstr "400:それに、道沿いに並ぶ様々な店の照明によって、夜とは思えない明るさだ。[%p]"
 
 msgid "500:その明るい道の先――[%p]"
-msgstr "500:At the end of the well-lit street...[%p]"
+msgstr "500:その明るい道の先――[%p]"
 
 msgid "600:人混みに紛れていても一際目に付く“それ”を見て、僕はギクリとして立ち止まった。[%p]"
-msgstr "600:I saw someone in the crowd, and recognized them instantly. I froze.[%p]"
+msgstr "600:人混みに紛れていても一際目に付く“それ”を見て、僕はギクリとして立ち止まった。[%p]"
 
 msgid "700:その女は――[%p]"
-msgstr "700:The girl was...[%p]"
+msgstr "700:その女は――[%p]"
 
 msgid "800:これだけの人の多さの中で、じっと僕だけをにらみつけていた。[%p]"
-msgstr "800:staring at me intently, and ignoring the huge crowds around her.[%p]"
+msgstr "800:これだけの人の多さの中で、じっと僕だけをにらみつけていた。[%p]"
 
 msgid "900:人が絶えず行き交い、まっすぐ歩き続けることさえ難しいこのセンター街で、道のど真ん中に立ち尽くし、手に持つ巨大な剣を、肩で支えている。[%p]"
-msgstr "900:In the middle of Center Street, where it's hard to even walk straight among the endless streams of people, she was standing stock still, holding a huge sword on her shoulder.[%p]"
+msgstr "900:人が絶えず行き交い、まっすぐ歩き続けることさえ難しいこのセンター街で、道のど真ん中に立ち尽くし、手に持つ巨大な剣を、肩で支えている。[%p]"
 
 msgid "1000:明らかに、異様な光景――[%p]"
-msgstr "1000:It was a bizarre scene.[%p]"
+msgstr "1000:明らかに、異様な光景――[%p]"
 
 msgid "1100:でも、誰も彼女の剣に注意を払わない。[linebreak]みんな流れるように彼女を避け、なにも変わらない様子で横を通り過ぎていく。[%p]"
-msgstr "1100:But nobody seemed to notice her sword. They parted around her like water in a stream breaking against a rock, moving by without the slightest change in expression.[%p]"
+msgstr "1100:でも、誰も彼女の剣に注意を払わない。[linebreak]みんな流れるように彼女を避け、なにも変わらない様子で横を通り過ぎていく。[%p]"
 
 msgid "1200:１０７で見た女だ――[%p]"
-msgstr "1200:It was the girl I'd seen at the 107 Building.[%p]"
+msgstr "1200:１０７で見た女だ――[%p]"
 
 msgid "1300:七海とケータイを買いに行ったとき、あそこにいた。[%p]"
-msgstr "1300:She'd been there when I'd gone to buy a phone with Nanami.[%p]"
+msgstr "1300:七海とケータイを買いに行ったとき、あそこにいた。[%p]"
 
 msgid "1400:剣の形、翠明の制服を着ていること、長い黒髪――[linebreak]特徴はぴったり一致する。この女はあのとき、１０７の階段の上で行き交う人々を眺めていた。[%p]"
-msgstr "1400:The shape of her sword, the Suimei uniform, the long black hair... It all matched. This was the girl who'd been watching the crowds from up on the stairs of the 107 Building.[%p]"
+msgstr "1400:剣の形、翠明の制服を着ていること、長い黒髪――[linebreak]特徴はぴったり一致する。この女はあのとき、１０７の階段の上で行き交う人々を眺めていた。[%p]"
 
 msgid "1500:それに――[%p]"
-msgstr "1500:And...[%p]"
+msgstr "1500:それに――[%p]"
 
 msgid "1600:にらみつけてくるその目の鋭さで、思い出した。[%p]"
-msgstr "1600:I remembered something else when I saw the intensity of her eyes as she looked at me.[%p]"
+msgstr "1600:にらみつけてくるその目の鋭さで、思い出した。[%p]"
 
 msgid "1700:僕は以前、学校でも一度、この女と会っている。[%p]"
-msgstr "1700:I'd seen her once at school, too.[%p]"
+msgstr "1700:僕は以前、学校でも一度、この女と会っている。[%p]"
 
 msgid "1800:切れ長の目尻、端正だけど逆にとっつきにくさも感じさせるモデルのような顔立ち、腰まである長くてサラサラとした黒髪。[%p]"
-msgstr "1800:Long, shiny black hair that extended down to her waist, oval eyes, a pretty but intimidating face...[%p]"
+msgstr "1800:切れ長の目尻、端正だけど逆にとっつきにくさも感じさせるモデルのような顔立ち、腰まである長くてサラサラとした黒髪。[%p]"
 
 msgid "1900:一週間ぐらい前、放課後の渡り廊下で“お前、誰だ？”とか失礼なことを言ってきた女子Ｂだ。[%p]"
-msgstr "1900:It was Girl B, the one who'd so rudely asked, “Who are you?” in the hallway after school last week.[%p]"
+msgstr "1900:一週間ぐらい前、放課後の渡り廊下で“お前、誰だ？”とか失礼なことを言ってきた女子Ｂだ。[%p]"
 
 msgid "2000:っていうか、どうして僕をにらんでるんだろう。[%p]"
-msgstr "2000:Why was she glaring at me, anyway?[%p]"
+msgstr "2000:っていうか、どうして僕をにらんでるんだろう。[%p]"
 
 msgid "2100:自意識過剰かと思って、後ろを振り返ってみた。案外こういうときは、背後に彼女の知り合いがいたとかそういうオチなんだと思ったけど、そんなことはなかった。[%p]"
-msgstr "2100:I turned around to see if anyone was there, just in case I was being self-conscious. I thought maybe there would be someone she knew behind me, but there wasn't.[%p]"
+msgstr "2100:自意識過剰かと思って、後ろを振り返ってみた。案外こういうときは、背後に彼女の知り合いがいたとかそういうオチなんだと思ったけど、そんなことはなかった。[%p]"
 
 msgid "2200:この女が敵意すら感じさせる眼差しで[linebreak]にらみつけているのは――やっぱり僕だ。[%p]"
-msgstr "2200:She was looking at me with something that bordered on outright hostility in her eyes. Yeah, it was me she was after.[%p]"
+msgstr "2200:この女が敵意すら感じさせる眼差しで[linebreak]にらみつけているのは――やっぱり僕だ。[%p]"
 
 msgid "2300:身がすくむ。[linebreak]蛇ににらまれたカエルの気持ちが分かった。[%p]"
-msgstr "2300:I flinched. This must be how a frog feels when a snake is bearing down on it.[%p]"
+msgstr "2300:身がすくむ。[linebreak]蛇ににらまれたカエルの気持ちが分かった。[%p]"
 
 msgid "2400:にらみ返すなんて問題外だった。[linebreak]視線を合わせるのは大の苦手なんだ。だから目線は伏せざるを得ない。[%p]"
-msgstr "2400:There was no way I could glare back. It was hard for me to even meet her gaze. I had no choice but to look down.[%p]"
+msgstr "2400:にらみ返すなんて問題外だった。[linebreak]視線を合わせるのは大の苦手なんだ。だから目線は伏せざるを得ない。[%p]"
 
 msgid "2500:逃げよう……。[%p]"
-msgstr "2500:“I should run away,” I thought.[%p]"
+msgstr "2500:逃げよう……。[%p]"
 
 msgid "2600:いつもならあの女が立っている交差点を左に曲がってブックファット横に出るコースで帰るんだけど、今日は駅前を回っていこう。[%p]"
-msgstr "2600:Usually, I'd take a left at the intersection where she was standing and head across the Book-Fat , but today, I'd go around the front of the station.[%p]"
+msgstr "2600:いつもならあの女が立っている交差点を左に曲がってブックファット横に出るコースで帰るんだけど、今日は駅前を回っていこう。[%p]"
 
 msgid "2700:人が多いけど、怖そうな三次元女に因縁を吹っかけられるのはゴメンだ。[linebreak]女にカツアゲされるなんてこともあるかもしれない。[%p]"
-msgstr "2700:There were a lot of people there, but it was still better than dealing with some scary 3D girl. She might be trying to mug me.[%p]"
+msgstr "2700:人が多いけど、怖そうな三次元女に因縁を吹っかけられるのはゴメンだ。[linebreak]女にカツアゲされるなんてこともあるかもしれない。[%p]"
 
 msgid "2800:女子Ｂはひとりだけに見えるけど、実は周囲にＤＱＮの仲間がたくさん待機してて、僕をおびき寄せて[color index="A0FF0000"]フルボッコ[color index="800000"]にする計画なのかもしれない。[%p]"
-msgstr "2800:It looked like Girl B was alone, but it was possible that she had a bunch of her DQN buddies lying in wait, and they were trying to lure out and [color index="A0FF0000"]beat me up[color index="800000"].[%p]"
+msgstr "2800:女子Ｂはひとりだけに見えるけど、実は周囲にＤＱＮの仲間がたくさん待機してて、僕をおびき寄せて[color index="A0FF0000"]フルボッコ[color index="800000"]にする計画なのかもしれない。[%p]"
 
 msgid "2900:引っかかるもんか……。[%p]"
-msgstr "2900:Well, I wasn't going to fall for it.[%p]"
+msgstr "2900:引っかかるもんか……。[%p]"
 
 msgid "3000:僕はその場で回れ右をして――愕然となった。[%p]"
-msgstr "3000:I turned around and couldn't believe what I saw.[%p]"
+msgstr "3000:僕はその場で回れ右をして――愕然となった。[%p]"
 
 msgid "3100:[name]拓巳[line]「あ……え……？」[%p]"
-msgstr "3100:[name]拓巳[line]Huh?[%p]"
+msgstr "3100:[name]拓巳[line]「あ……え……？」[%p]"
 
 msgid "3200:なぜか、僕の視線の先に女子Ｂがいた。[linebreak]慌てて振り返って、さっきの交差点を見る。彼女はいない。[%p]"
-msgstr "3200:For some reason, Girl B was there. I quickly turned around and looked at the intersection where she'd been standing a moment ago. She wasn't there.[%p]"
+msgstr "3200:なぜか、僕の視線の先に女子Ｂがいた。[linebreak]慌てて振り返って、さっきの交差点を見る。彼女はいない。[%p]"
 
 msgid "3300:もう一度前を見る。[linebreak]剣を持った女子Ｂが相変わらず僕をにらみつけている。[%p]"
-msgstr "3300:I looked ahead of me again. She was still there, holding her sword and glaring at me.[%p]"
+msgstr "3300:もう一度前を見る。[linebreak]剣を持った女子Ｂが相変わらず僕をにらみつけている。[%p]"
 
 msgid "3400:いったい、いつの間に回り込んだんだ……！？[%p]"
-msgstr "3400:When did she get in front of me?[%p]"
+msgstr "3400:いったい、いつの間に回り込んだんだ……！？[%p]"
 
 msgid "3500:足が速いにもほどがある。ほとんど瞬間移動に近かった。[linebreak]そもそもどうして僕が引き返すって予測できたんだろう。[%p]"
-msgstr "3500:Nobody could be that fast. You'd practically have to teleport. How was she able to tell I'd turn around, anyway?[%p]"
+msgstr "3500:足が速いにもほどがある。ほとんど瞬間移動に近かった。[linebreak]そもそもどうして僕が引き返すって予測できたんだろう。[%p]"
 
 msgid "3600:[name]女子[line]「おい」[%p]"
-msgstr "3600:[name]女子[line]Hey.[%p]"
+msgstr "3600:[name]女子[line]「おい」[%p]"
 
 msgid "3700:[name]拓巳[line]「！！！」[%p]"
-msgstr "3700:[name]拓巳[line]!!![%p]"
+msgstr "3700:[name]拓巳[line]「！！！」[%p]"
 
 msgid "3800:その声はやけにはっきりと耳に届いた。[%p]"
-msgstr "3800:Her voice was shockingly clear.[%p]"
+msgstr "3800:その声はやけにはっきりと耳に届いた。[%p]"
 
 msgid "3900:僕は必死で周囲を見回す。呼びかけられたのは自分じゃないと思いたかった。キョドりながら、僕以外に“おい”呼ばわりされるにふさわしい人間がいないか探す。[%p]"
-msgstr "3900:I desperately looked around. I wanted to believe that she was talking to someone else. I searched as hard as I could for that someone else she might've meant to address when she said, “Hey.”[%p]"
+msgstr "3900:僕は必死で周囲を見回す。呼びかけられたのは自分じゃないと思いたかった。キョドりながら、僕以外に“おい”呼ばわりされるにふさわしい人間がいないか探す。[%p]"
 
 msgid "4000:でも、いるわけがなかった。[%p]"
-msgstr "4000:But of course, there wasn't anyone.[%p]"
+msgstr "4000:でも、いるわけがなかった。[%p]"
 
 msgid "4100:近くを歩いていた数人のサラリーマンが、いぶかしそうに女子Ｂの方へ振り向いてはいるけど、すぐに自分のことじゃないと気付いてさっさと歩き去っていく。[%p]"
-msgstr "4100:The only people nearby were a group of salarymen. They looked towards her for a moment, but quickly realized she wasn't talking to them and kept moving.[%p]"
+msgstr "4100:近くを歩いていた数人のサラリーマンが、いぶかしそうに女子Ｂの方へ振り向いてはいるけど、すぐに自分のことじゃないと気付いてさっさと歩き去っていく。[%p]"
 
 msgid "4200:それまで仁王立ち状態だった女子Ｂは、不意に僕の方に一歩踏み出した。[%p]"
-msgstr "4200:Suddenly she took a step toward me.[%p]"
+msgstr "4200:それまで仁王立ち状態だった女子Ｂは、不意に僕の方に一歩踏み出した。[%p]"
 
 msgid "4300:確信するには、それでじゅうぶんだった。[linebreak]やっぱり女子Ｂの狙いは、僕だ……。[%p]"
-msgstr "4300:That was all I needed to be fully sure. Girl B was after me.[%p]"
+msgstr "4300:確信するには、それでじゅうぶんだった。[linebreak]やっぱり女子Ｂの狙いは、僕だ……。[%p]"
 
 msgid "4400:[name]女子[line]「お前、見えるのか？」[%p]"
-msgstr "4400:[name]女子[line]Can you see it?[%p]"
+msgstr "4400:[name]女子[line]「お前、見えるのか？」[%p]"
 
 msgid "4500:また“お前”だよ……。[linebreak]女子からそんな呼び方されるのは、１７年の人生でも数えるぐらいだろう。[%p]"
-msgstr "4500:I was terrified. No girl in my 17 years had ever been aggressive towards me.[%p]"
+msgstr "4500:また“お前”だよ……。[linebreak]女子からそんな呼び方されるのは、１７年の人生でも数えるぐらいだろう。[%p]"
 
 msgid "4600:桐宮つばき（通称：つんこ）に、[color index="A0FF0000"]ツンデレ[color index="800000"]っぽい感じで言われたことはある。[%p]"
-msgstr "4600:Tsubaki Kirimiya (known as “Tsunko”) could be really mean when she was in a [color index="A0FF0000"]tsundere[color index="800000"] mood, but not even she was this bad.[%p]"
+msgstr "4600:桐宮つばき（通称：つんこ）に、[color index="A0FF0000"]ツンデレ[color index="800000"]っぽい感じで言われたことはある。[%p]"
 
 msgid "4700:まあ、つんこは『テルミィドール』っていうエロゲに登場する二次元キャラなワケだけど。[%p]"
-msgstr "4700:Also, she was a 2D character from an H-game called Thermidor.[%p]"
+msgstr "4700:まあ、つんこは『テルミィドール』っていうエロゲに登場する二次元キャラなワケだけど。[%p]"
 
 msgid "4800:って、そんなバカなことを考えている間にも、女子Ｂはなおも歩み寄ってくる。[%p]"
-msgstr "4800:Even as my brain was thinking about tsundere H-games, Girl B was still getting closer.[%p]"
+msgstr "4800:って、そんなバカなことを考えている間にも、女子Ｂはなおも歩み寄ってくる。[%p]"
 
 msgid "4900:女だっていうのにどうしてこんな威圧感があるんだろう。不思議に思ったけど、その理由は簡単だった。[%p]"
-msgstr "4900:She was a girl! How could she be this intense and scary? I thought it was strange, but the reason was actually quite simple.[%p]"
+msgstr "4900:女だっていうのにどうしてこんな威圧感があるんだろう。不思議に思ったけど、その理由は簡単だった。[%p]"
 
 msgid "5000:目つきが鋭いこと。そして……持っている巨大すぎる剣。[%p]"
-msgstr "5000:The intensity of her eyes. That... and the huge sword she was carrying.[%p]"
+msgstr "5000:目つきが鋭いこと。そして……持っている巨大すぎる剣。[%p]"
 
 msgid "5100:それは剣にしてはかなり独特の形をしていた。[%p]"
-msgstr "5100:It had an extremely unusual shape for a sword.[%p]"
+msgstr "5100:それは剣にしてはかなり独特の形をしていた。[%p]"
 
 msgid "5200:アニメ的に見れば素晴らしい形状だけど、もしリアルで使おうと思ったらまったく役に立たない代物だ。[%p]"
-msgstr "5200:In an anime, it would've looked really cool, but if you tried to use it in the real world, it would probably be completely useless.[%p]"
+msgstr "5200:アニメ的に見れば素晴らしい形状だけど、もしリアルで使おうと思ったらまったく役に立たない代物だ。[%p]"
 
 msgid "5300:きっとロボットアニメの武器かなにかに違いない。最近始まったロボットアニメなんてあったっけ……？[%p]"
-msgstr "5300:It had to be from a mecha anime or something. Were there any new mecha anime lately?[%p]"
+msgstr "5300:きっとロボットアニメの武器かなにかに違いない。最近始まったロボットアニメなんてあったっけ……？[%p]"
 
 msgid "5400:ただ、アニメコスの小道具だって分かってるのに、見た目がすごく鋭くて、硬そうで、触れたら指をスパッと切り落とされてしまいそうな雰囲気もあった。[%p]"
-msgstr "5400:I knew it was a cosplay prop, but it looked so sharp, so strong... like the slightest touch could take your finger clean off.[%p]"
+msgstr "5400:ただ、アニメコスの小道具だって分かってるのに、見た目がすごく鋭くて、硬そうで、触れたら指をスパッと切り落とされてしまいそうな雰囲気もあった。[%p]"
 
 msgid "5500:不思議な剣だ――[%p]"
-msgstr "5500:It was such a strange weapon.[%p]"
+msgstr "5500:不思議な剣だ――[%p]"
 
 msgid "5600:[name]女子[line]「見えるのか、と聞いている」[%p]"
-msgstr "5600:[name]女子[line]I asked if you could see it.[%p]"
+msgstr "5600:[name]女子[line]「見えるのか、と聞いている」[%p]"
 
 msgid "5700:女子Ｂとの相対距離はすでに２メートルを切っていた。[linebreak]こいつが剣を振り回せば僕まで届く距離。[%p]"
-msgstr "5700:Girl B was within two meters of me now. If she swung that sword, it was sure to reach me.[%p]"
+msgstr "5700:女子Ｂとの相対距離はすでに２メートルを切っていた。[linebreak]こいつが剣を振り回せば僕まで届く距離。[%p]"
 
 msgid "5800:慌てて一歩後ずさったけど、後の祭りだった。[linebreak]女子Ｂはさらに距離を縮め――[%p]"
-msgstr "5800:I quickly took a step back, but it was too late. She got even closer.[%p]"
+msgstr "5800:慌てて一歩後ずさったけど、後の祭りだった。[linebreak]女子Ｂはさらに距離を縮め――[%p]"
 
 msgid "5900:ホントに剣を振り回した！[%p]"
-msgstr "5900:And then she really swung it![%p]"
+msgstr "5900:ホントに剣を振り回した！[%p]"
 
 msgid "6000:[name]拓巳[line]「うわあ！」[%p]"
-msgstr "6000:[name]拓巳[line]Uwah![%p]"
+msgstr "6000:[name]拓巳[line]「うわあ！」[%p]"
 
 msgid "6100:その場にしゃがみ込み、頭を抱える。[%p]"
-msgstr "6100:I crouched to the ground with my head in my hands.[%p]"
+msgstr "6100:その場にしゃがみ込み、頭を抱える。[%p]"
 
 msgid "6200:よけていなければ、確実に僕の頭に当たっていた。斬れはしないだろうけど、あの勢いで当てられたら脳しんとう＆頭蓋骨陥没は間違いないよ！[%p]"
-msgstr "6200:If I hadn't dodged, it would've hit me right in the head. It probably wouldn't have actually cut me, but with that speed, it could've given me a concussion or caved my skull in![%p]"
+msgstr "6200:よけていなければ、確実に僕の頭に当たっていた。斬れはしないだろうけど、あの勢いで当てられたら脳しんとう＆頭蓋骨陥没は間違いないよ！[%p]"
 
 msgid "6300:痛いのはイヤだ！[%p]"
-msgstr "6300:Please don't hurt me![%p]"
+msgstr "6300:痛いのはイヤだ！[%p]"
 
 msgid "6400:[name]拓巳[line]「な、な、なにをするだー……」[%p]"
-msgstr "6400:[name]拓巳[line]W-What are you doing?[%p]"
+msgstr "6400:[name]拓巳[line]「な、な、なにをするだー……」[%p]"
 
 msgid "6500:動揺しすぎて、変な日本語になってしまう。[%p]"
-msgstr "6500:I was so freaked out that I could barely speak.[%p]"
+msgstr "6500:動揺しすぎて、変な日本語になってしまう。[%p]"
 

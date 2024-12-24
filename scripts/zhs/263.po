@@ -10,356 +10,356 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:僕は慌てて目を逸らした。[linebreak]病室を出て行こうかと思った。[linebreak]ところが――[%p]"
-msgstr "0:I looked away quickly. I thought about just leaving the room outright. But...[%p]"
+msgstr "0:僕は慌てて目を逸らした。[linebreak]病室を出て行こうかと思った。[linebreak]ところが――[%p]"
 
 msgid "100:[name]あやせ[line]「そこにいて」[%p]"
-msgstr "100:[name]あやせ[line]Stay there.[%p]"
+msgstr "100:[name]あやせ[line]「そこにいて」[%p]"
 
 msgid "200:そう言われて、身動きが取れなくなってしまう。[%p]"
-msgstr "200:Now I couldn't go anywhere.[%p]"
+msgstr "200:そう言われて、身動きが取れなくなってしまう。[%p]"
 
 msgid "300:静かな病室に、あやせが服を脱ぐ衣擦れの音が響く。[%p]"
-msgstr "300:The sound of Ayase disrobing echoed through the silent hospital room.[%p]"
+msgstr "300:静かな病室に、あやせが服を脱ぐ衣擦れの音が響く。[%p]"
 
 msgid "400:この病室は、それほど広くない。[linebreak]僕の住んでるベースよりはマシだけど。[%p]"
-msgstr "400:This room wasn't that big. It was bigger than the Base, of course.[%p]"
+msgstr "400:この病室は、それほど広くない。[linebreak]僕の住んでるベースよりはマシだけど。[%p]"
 
 msgid "500:それでも、この狭い部屋に今、僕とあやせの２人きり。[linebreak]そして僕の背後で、あやせは着替え中。[%p]"
-msgstr "500:But still, now it was just me and Ayase in this cramped, cramped space. And Ayase was behind me, changing.[%p]"
+msgstr "500:それでも、この狭い部屋に今、僕とあやせの２人きり。[linebreak]そして僕の背後で、あやせは着替え中。[%p]"
 
 msgid "600:その気配が、背中越しにひしひしと伝わってくる。[%p]"
-msgstr "600:I could sense her taking her clothes off, even if I couldn't see it.[%p]"
+msgstr "600:その気配が、背中越しにひしひしと伝わってくる。[%p]"
 
 msgid "700:まずい、すごく緊張してる。緊張するはずがないんだけどなあ。このシチュエーションは、“東またせま”が原画をやったエロゲ『スライム娘があらわれた！』で経験済みだろ！[%p]"
-msgstr "700:Crap. I was getting really nervous. There was no reason to be nervous, though. I'd already experienced this exact situation in Higashi Matasema's H-game, “A Slime Girl Appears!” Why should I be nervous now?[%p]"
+msgstr "700:まずい、すごく緊張してる。緊張するはずがないんだけどなあ。このシチュエーションは、“東またせま”が原画をやったエロゲ『スライム娘があらわれた！』で経験済みだろ！[%p]"
 
 msgid "800:[name]あやせ[line]「なぜ目を逸らすの、拓巳」[%p]"
-msgstr "800:[name]あやせ[line]Why are you looking away, Takumi?[%p]"
+msgstr "800:[name]あやせ[line]「なぜ目を逸らすの、拓巳」[%p]"
 
 msgid "900:[name]拓巳[line]「だ、だって……見ちゃ、ま、まずいし……」[%p]"
-msgstr "900:[name]拓巳[line]I-I mean, I shouldn't look.[%p]"
+msgstr "900:[name]拓巳[line]「だ、だって……見ちゃ、ま、まずいし……」[%p]"
 
 msgid "1000:声が上ずりそうになってしまった。[%p]"
-msgstr "1000:My voice was on the verge of cracking.[%p]"
+msgstr "1000:声が上ずりそうになってしまった。[%p]"
 
 msgid "1100:[name]あやせ[line]「恥ずかしいのね？」[%p]"
-msgstr "1100:[name]あやせ[line]You're embarrassed, aren't you?[%p]"
+msgstr "1100:[name]あやせ[line]「恥ずかしいのね？」[%p]"
 
 msgid "1200:[name]拓巳[line]「あ、あやせは、はず、恥ずかしく、ないの……？」[%p]"
-msgstr "1200:[name]拓巳[line]A-Aren't you embarrassed?[%p]"
+msgstr "1200:[name]拓巳[line]「あ、あやせは、はず、恥ずかしく、ないの……？」[%p]"
 
 msgid "1300:ジロジロ見てもいいっていうことか？[linebreak]僕は、三次元女には興味はないぞ。ないったら、ないんだ。[linebreak]いや、そりゃ、見ていいっていうなら、見るけど……。[%p]"
-msgstr "1300:Did she mean it was okay to stare? I'm not into 3D girls, okay? I mean it. I really do. Though... I mean, if she's saying I can look, I guess I will.[%p]"
+msgstr "1300:ジロジロ見てもいいっていうことか？[linebreak]僕は、三次元女には興味はないぞ。ないったら、ないんだ。[linebreak]いや、そりゃ、見ていいっていうなら、見るけど……。[%p]"
 
 msgid "1400:[name]あやせ[line]「惑わされているのよ、キミは」[%p]"
-msgstr "1400:[name]あやせ[line]You are being deceived.[%p]"
+msgstr "1400:[name]あやせ[line]「惑わされているのよ、キミは」[%p]"
 
 msgid "1500:[name]あやせ[line]「その感情こそが、邪心に侵食されている証拠」[%p]"
-msgstr "1500:[name]あやせ[line]The emotions you're feeling are proof of that.[%p]"
+msgstr "1500:[name]あやせ[line]「その感情こそが、邪心に侵食されている証拠」[%p]"
 
 msgid "1600:[name]拓巳[line]「惑わされているって、だ、誰に……？」[%p]"
-msgstr "1600:[name]拓巳[line]Deceived by who?[%p]"
+msgstr "1600:[name]拓巳[line]「惑わされているって、だ、誰に……？」[%p]"
 
 msgid "1700:[name]あやせ[line]「邪心王グラジオール」[%p]"
-msgstr "1700:[name]あやせ[line]Gladiale, the King of Wicked Hearts.[%p]"
+msgstr "1700:[name]あやせ[line]「邪心王グラジオール」[%p]"
 
 msgid "1800:僕は何気なく、目の前にあるサイドテーブルに置いてあった文庫本を手に取った。[linebreak]『グラジオール記黙示録詩編』第１７巻と書かれてある。[%p]"
-msgstr "1800:I looked over at the paperback on the side table in front of me and picked it up. The title read: The Apocalyptic Psalms of Gladiale, Book 17.[%p]"
+msgstr "1800:僕は何気なく、目の前にあるサイドテーブルに置いてあった文庫本を手に取った。[linebreak]『グラジオール記黙示録詩編』第１７巻と書かれてある。[%p]"
 
 msgid "1900:[name]拓巳[line]「グラジオールって、な、なんなの……？」[%p]"
-msgstr "1900:[name]拓巳[line]W-What is Gladiale?[%p]"
+msgstr "1900:[name]拓巳[line]「グラジオールって、な、なんなの……？」[%p]"
 
 msgid "2000:[name]あやせ[line]「邪悪なる存在」[%p]"
-msgstr "2000:[name]あやせ[line]An evil being.[%p]"
+msgstr "2000:[name]あやせ[line]「邪悪なる存在」[%p]"
 
 msgid "2100:[name]あやせ[line]「負の妄想の塊」[%p]"
-msgstr "2100:[name]あやせ[line]A mass of negative delusions.[%p]"
+msgstr "2100:[name]あやせ[line]「負の妄想の塊」[%p]"
 
 msgid "2200:[name]あやせ[line]「人の心の闇に遍在する無意識の集合体」[%p]"
-msgstr "2200:[name]あやせ[line]A collective unconscious, omnipresent in the darkness of the human heart.[%p]"
+msgstr "2200:[name]あやせ[line]「人の心の闇に遍在する無意識の集合体」[%p]"
 
 msgid "2300:[name]あやせ[line]「世界に破滅をもたらす神」[%p]"
-msgstr "2300:[name]あやせ[line]A god who brings destruction to the world.[%p]"
+msgstr "2300:[name]あやせ[line]「世界に破滅をもたらす神」[%p]"
 
 msgid "2400:[name]あやせ[line]「言い方は、いろいろ」[%p]"
-msgstr "2400:[name]あやせ[line]There are any number of ways to describe him.[%p]"
+msgstr "2400:[name]あやせ[line]「言い方は、いろいろ」[%p]"
 
 msgid "2500:[name]拓巳[line]「そ、そいつは、車椅子に、乗ってるの？\u3000足が不自由とか」[%p]"
-msgstr "2500:[name]拓巳[line]D-Does he have a wheelchair? Like, he can't walk or something.[%p]"
+msgstr "2500:[name]拓巳[line]「そ、そいつは、車椅子に、乗ってるの？\u3000足が不自由とか」[%p]"
 
 msgid "2600:[name]あやせ[line]「グラジオールは人の形をしているとは限らないわ」[%p]"
-msgstr "2600:[name]あやせ[line]There's no guarantee that Gladiale will take human form.[%p]"
+msgstr "2600:[name]あやせ[line]「グラジオールは人の形をしているとは限らないわ」[%p]"
 
 msgid "2700:[name]あやせ[line]「もういいわよ。こっちを見ても」[%p]"
-msgstr "2700:[name]あやせ[line]It's okay. You can turn around now.[%p]"
+msgstr "2700:[name]あやせ[line]「もういいわよ。こっちを見ても」[%p]"
 
 msgid "2800:そーっとあやせの方へ向き直る。[linebreak]すでに彼女は着替え終わっていた。[linebreak]なぜか学校の制服姿だ。[%p]"
-msgstr "2800:I very slowly turned around. She'd already changed. For some reason, she was dressed in her school uniform.[%p]"
+msgstr "2800:そーっとあやせの方へ向き直る。[linebreak]すでに彼女は着替え終わっていた。[linebreak]なぜか学校の制服姿だ。[%p]"
 
 msgid "2900:[name]拓巳[line]「なんで、制服に……？」[%p]"
-msgstr "2900:[name]拓巳[line]Why are you wearing your uniform?[%p]"
+msgstr "2900:[name]拓巳[line]「なんで、制服に……？」[%p]"
 
 msgid "3000:[name]あやせ[line]「迫っているから。グラジオール覚醒のときが」[%p]"
-msgstr "3000:[name]あやせ[line]It's coming. The time of Gladiale's awakening is at hand.[%p]"
+msgstr "3000:[name]あやせ[line]「迫っているから。グラジオール覚醒のときが」[%p]"
 
 msgid "3100:[name]あやせ[line]「いつでも動けるようにしておかないと」[%p]"
-msgstr "3100:[name]あやせ[line]I need to be ready to act at any moment.[%p]"
+msgstr "3100:[name]あやせ[line]「いつでも動けるようにしておかないと」[%p]"
 
 msgid "3200:だったら私服でもいいような気がするけど……。[%p]"
-msgstr "3200:Did she need to wear her uniform for that?[%p]"
+msgstr "3200:だったら私服でもいいような気がするけど……。[%p]"
 
 msgid "3300:いや、今はそんなことはどうでもいい。[%p]"
-msgstr "3300:No, that didn't matter right now.[%p]"
+msgstr "3300:いや、今はそんなことはどうでもいい。[%p]"
 
 msgid "3400:[name]拓巳[line]「グ、グラジオールが、ギ、ギガロマニアックスと、どう関係して、く、くるの……？」[%p]"
-msgstr "3400:[name]拓巳[line]What d-does Gladiale have to do with the Gigalomaniacs?[%p]"
+msgstr "3400:[name]拓巳[line]「グ、グラジオールが、ギ、ギガロマニアックスと、どう関係して、く、くるの……？」[%p]"
 
 msgid "3500:[name]あやせ[line]「ギガロ……なに……？」[%p]"
-msgstr "3500:[name]あやせ[line]The Gigalo… what?[%p]"
+msgstr "3500:[name]あやせ[line]「ギガロ……なに……？」[%p]"
 
 msgid "3600:あやせはわずかに眉をひそめている。[linebreak]知らないんだろうか。[%p]"
-msgstr "3600:Ayase's eyes narrowed, just a little. Did she not know what they were?[%p]"
+msgstr "3600:あやせはわずかに眉をひそめている。[linebreak]知らないんだろうか。[%p]"
 
 msgid "3700:あるいは、ギガロマニアックスって呼んでいるのはセナだけなのかもしれない。[%p]"
-msgstr "3700:Maybe Sena was the only one who used that phrase.[%p]"
+msgstr "3700:あるいは、ギガロマニアックスって呼んでいるのはセナだけなのかもしれない。[%p]"
 
 msgid "3800:[name]拓巳[line]「ギ、ギガロマニアックスだよ。セ、セナは、ディ、ディソードを持つ力の持ち主のことを、そう、呼んでた……」[%p]"
-msgstr "3800:[name]拓巳[line]G-Gigalomaniacs. T-That's what Sena called people who had the power of the D-Di-Sword.[%p]"
+msgstr "3800:[name]拓巳[line]「ギ、ギガロマニアックスだよ。セ、セナは、ディ、ディソードを持つ力の持ち主のことを、そう、呼んでた……」[%p]"
 
 msgid "3900:[name]拓巳[line]「ディソードは、ディラックの海に繋がったパイプだとかなんとか」[%p]"
-msgstr "3900:[name]拓巳[line]She said something about a Di-Sword being a pipe to the Dirac Sea.[%p]"
+msgstr "3900:[name]拓巳[line]「ディソードは、ディラックの海に繋がったパイプだとかなんとか」[%p]"
 
 msgid "4000:[name]あやせ[line]「呼び方は人それぞれかもしれないわ」[%p]"
-msgstr "4000:[name]あやせ[line]There may be any number of names for it.[%p]"
+msgstr "4000:[name]あやせ[line]「呼び方は人それぞれかもしれないわ」[%p]"
 
 msgid "4100:[name]あやせ[line]「ディソードは、人の邪心を具現化したものよ」[%p]"
-msgstr "4100:[name]あやせ[line]The Di-Sword is a manifestation of a human being's wicked heart.[%p]"
+msgstr "4100:[name]あやせ[line]「ディソードは、人の邪心を具現化したものよ」[%p]"
 
 msgid "4200:[name]あやせ[line]「グラジオール記黙示録詩編にそう書いてある。第３巻、１１章２３節」[%p]"
-msgstr "4200:[name]あやせ[line]Such is written in The Apocalyptic Psalms of Gladiale. Book 3, Chapter 11, Verse 23.[%p]"
+msgstr "4200:[name]あやせ[line]「グラジオール記黙示録詩編にそう書いてある。第３巻、１１章２３節」[%p]"
 
 msgid "4300:[name]あやせ[line]「予言書なのよ、それは」[%p]"
-msgstr "4300:[name]あやせ[line]It's a book of prophecies, you see.[%p]"
+msgstr "4300:[name]あやせ[line]「予言書なのよ、それは」[%p]"
 
 msgid "4400:そう言って、あやせは僕の持つ本へ視線を固定させた。[%p]"
-msgstr "4400:Ayase's gaze was locked on the paperback in my hands.[%p]"
+msgstr "4400:そう言って、あやせは僕の持つ本へ視線を固定させた。[%p]"
 
 msgid "4500:[name]あやせ[line]「みんなはこう言うわ。私が歌詞によって予知を行っていると」[%p]"
-msgstr "4500:[name]あやせ[line]Everyone says the same thing, that my lyrics are a prophecy.[%p]"
+msgstr "4500:[name]あやせ[line]「みんなはこう言うわ。私が歌詞によって予知を行っていると」[%p]"
 
 msgid "4600:[name]あやせ[line]「だけど私は、グラジオール記黙示録詩編からインスピレーションを受けているだけ」[%p]"
-msgstr "4600:[name]あやせ[line]But all I'm doing is taking inspiration from The Apocalyptic Psalms of the Book of Gladiale.[%p]"
+msgstr "4600:[name]あやせ[line]「だけど私は、グラジオール記黙示録詩編からインスピレーションを受けているだけ」[%p]"
 
 msgid "4700:[name]あやせ[line]「その詩編こそ、予言の書なのよ。なぜ気付かないの、誰も」[%p]"
-msgstr "4700:[name]あやせ[line]The Psalms are the prophecy, not my songs. Why doesn't anyone realize this?[%p]"
+msgstr "4700:[name]あやせ[line]「その詩編こそ、予言の書なのよ。なぜ気付かないの、誰も」[%p]"
 
 msgid "4800:[name]拓巳[line]「予言の書って……じ、冗談でしょ……？」[%p]"
-msgstr "4800:[name]拓巳[line]A book of prophecy? You're kidding, right?[%p]"
+msgstr "4800:[name]拓巳[line]「予言の書って……じ、冗談でしょ……？」[%p]"
 
 msgid "4900:[name]あやせ[line]「事実よ」[%p]"
-msgstr "4900:[name]あやせ[line]It's true.[%p]"
+msgstr "4900:[name]あやせ[line]「事実よ」[%p]"
 
 msgid "5000:[name]あやせ[line]「この渋谷で今、まさに起きていることを、そしてこれから起きようとしていることを、ツィーグラーは予言し、物語にしている」[%p]"
-msgstr "5000:[name]あやせ[line]What's happening in Shibuya right now, what's going to happen in the future... All of it was prophesied by Ziegler, who made it into a story.[%p]"
+msgstr "5000:[name]あやせ[line]「この渋谷で今、まさに起きていることを、そしてこれから起きようとしていることを、ツィーグラーは予言し、物語にしている」[%p]"
 
 msgid "5100:[name]拓巳[line]「ツィーグラー？」[%p]"
-msgstr "5100:[name]拓巳[line]Ziegler?[%p]"
+msgstr "5100:[name]拓巳[line]「ツィーグラー？」[%p]"
 
 msgid "5200:[name]あやせ[line]「グラジオール記黙示録詩編の作者」[%p]"
-msgstr "5200:[name]あやせ[line]The author of the Psalms.[%p]"
+msgstr "5200:[name]あやせ[line]「グラジオール記黙示録詩編の作者」[%p]"
 
 msgid "5300:[name]あやせ[line]「故人だけれど、ツィーグラーは強大な黒騎士だったと思うわ、私は」[%p]"
-msgstr "5300:[name]あやせ[line]He's passed away, but I believe him to have been an incredibly powerful black knight.[%p]"
+msgstr "5300:[name]あやせ[line]「故人だけれど、ツィーグラーは強大な黒騎士だったと思うわ、私は」[%p]"
 
 msgid "5400:あやせが言うところの黒騎士って、もしかしてギガロマニアックスのことなんだろうか。[%p]"
-msgstr "5400:Were what Ayase called “black knights” the same as Gigalomaniacs?[%p]"
+msgstr "5400:あやせが言うところの黒騎士って、もしかしてギガロマニアックスのことなんだろうか。[%p]"
 
 msgid "5500:だとしたら、この作者がギガロマニアックスとしての力を使って、予言の書を書いたとしても不思議じゃない。[%p]"
-msgstr "5500:If that was the case, then it would make sense if the author could use his Gigalomaniac powers to write a book of prophecies.[%p]"
+msgstr "5500:だとしたら、この作者がギガロマニアックスとしての力を使って、予言の書を書いたとしても不思議じゃない。[%p]"
 
 msgid "5600:僕は手にしていたグラジオール記黙示録詩編第１７巻を、パラパラとめくってみた。[linebreak]そして、ハッとした。[%p]"
-msgstr "5600:I flipped through the book I was holding, The Apocalyptic Psalms of Gladiale, Book 17. And I gasped.[%p]"
+msgstr "5600:僕は手にしていたグラジオール記黙示録詩編第１７巻を、パラパラとめくってみた。[linebreak]そして、ハッとした。[%p]"
 
 msgid "5700:白紙――[%p]"
-msgstr "5700:It was blank.[%p]"
+msgstr "5700:白紙――[%p]"
 
 msgid "5800:どれだけページをめくっても。[linebreak]どこのページを開いてみても。[%p]"
-msgstr "5800:I flipped through every page. And not a single one...[%p]"
+msgstr "5800:どれだけページをめくっても。[linebreak]どこのページを開いてみても。[%p]"
 
 msgid "5900:文字は、一言も書いていない。[%p]"
-msgstr "5900:had a single word on it.[%p]"
+msgstr "5900:文字は、一言も書いていない。[%p]"
 
 msgid "6000:なんだ、これ……？[%p]"
-msgstr "6000:What the hell was this?[%p]"
+msgstr "6000:なんだ、これ……？[%p]"
 
 msgid "6100:表紙を確認してみる。[%p]"
-msgstr "6100:I looked at the cover.[%p]"
+msgstr "6100:表紙を確認してみる。[%p]"
 
 msgid "6200:普通の文庫についているようなカバーはなく、カバー下がむき出しの状態だ。シンプルにタイトルと作者名だけが書かれてある。出版社の名前は見当たらない。[%p]"
-msgstr "6200:There was no illustration on the cover, Just the title and the name of the author. I couldn't see the name of the publisher on it anywhere.[%p]"
+msgstr "6200:普通の文庫についているようなカバーはなく、カバー下がむき出しの状態だ。シンプルにタイトルと作者名だけが書かれてある。出版社の名前は見当たらない。[%p]"
 
 msgid "6300:改めて、最初のページから読み返してみた。[%p]"
-msgstr "6300:I went back to the very first page.[%p]"
+msgstr "6300:改めて、最初のページから読み返してみた。[%p]"
 
 msgid "6400:でも、１ページ目からすでに白紙だ。[linebreak]それはどこまでも続き、文字が書かれているページは一枚もなかった。[%p]"
-msgstr "6400:But it was blank, just like the rest. I went all the way through, and not a single page had anything on it.[%p]"
+msgstr "6400:でも、１ページ目からすでに白紙だ。[linebreak]それはどこまでも続き、文字が書かれているページは一枚もなかった。[%p]"
 
 msgid "6500:[name]拓巳[line]「こ、これ、不良品……？」[%p]"
-msgstr "6500:[name]拓巳[line]Is this defective?[%p]"
+msgstr "6500:[name]拓巳[line]「こ、これ、不良品……？」[%p]"
 
 msgid "6600:[name]あやせ[line]「どういうこと？」[%p]"
-msgstr "6600:[name]あやせ[line]What do you mean?[%p]"
+msgstr "6600:[name]あやせ[line]「どういうこと？」[%p]"
 
 msgid "6700:[name]拓巳[line]「だ、だって……」[%p]"
-msgstr "6700:[name]拓巳[line]I-I mean...[%p]"
+msgstr "6700:[name]拓巳[line]「だ、だって……」[%p]"
 
 msgid "6800:[name]拓巳[line]「これ、全部白紙じゃないか……」[%p]"
-msgstr "6800:[name]拓巳[line]All the pages are blank.[%p]"
+msgstr "6800:[name]拓巳[line]「これ、全部白紙じゃないか……」[%p]"
 
 msgid "6900:[name]あやせ[line]「なにを言っているの？」[%p]"
-msgstr "6900:[name]あやせ[line]What are you talking about?[%p]"
+msgstr "6900:[name]あやせ[line]「なにを言っているの？」[%p]"
 
 msgid "7000:[name]あやせ[line]「ちゃんと書かれているわ。何度も読んでいるのよ、私は」[%p]"
-msgstr "7000:[name]あやせ[line]It's just a normal book. I've read it many times.[%p]"
+msgstr "7000:[name]あやせ[line]「ちゃんと書かれているわ。何度も読んでいるのよ、私は」[%p]"
 
 msgid "7100:[name]拓巳[line]「そ、そんなこと言ったって、ほら……」[%p]"
-msgstr "7100:[name]拓巳[line]But I mean, look...[%p]"
+msgstr "7100:[name]拓巳[line]「そ、そんなこと言ったって、ほら……」[%p]"
 
 msgid "7200:僕はページを開いた状態で、あやせの鼻先に本を突き付けてやった。[%p]"
-msgstr "7200:I opened the page and shoved it right in front of her face.[%p]"
+msgstr "7200:僕はページを開いた状態で、あやせの鼻先に本を突き付けてやった。[%p]"
 
 msgid "7300:[name]拓巳[line]「どこからどう見ても、ま、真っ白だよ……」[%p]"
-msgstr "7300:[name]拓巳[line]I-It's totally blank![%p]"
+msgstr "7300:[name]拓巳[line]「どこからどう見ても、ま、真っ白だよ……」[%p]"
 
 msgid "7400:[name]あやせ[line]「ちっとも、白紙なんかじゃないわ」[%p]"
-msgstr "7400:[name]あやせ[line]It's not blank at all.[%p]"
+msgstr "7400:[name]あやせ[line]「ちっとも、白紙なんかじゃないわ」[%p]"
 
 msgid "7500:[name]拓巳[line]「いや、白紙だって……」[%p]"
-msgstr "7500:[name]拓巳[line]No, it is...[%p]"
+msgstr "7500:[name]拓巳[line]「いや、白紙だって……」[%p]"
 
 msgid "7600:[name]あやせ[line]「ここに字が書いてある。見えないの、拓巳？」[%p]"
-msgstr "7600:[name]あやせ[line]There are words right here. Can't you see them, Takumi?[%p]"
+msgstr "7600:[name]あやせ[line]「ここに字が書いてある。見えないの、拓巳？」[%p]"
 
 msgid "7700:僕は……担がれているのか？[linebreak]あやせは本気で言ってるのか？[%p]"
-msgstr "7700:Was she just screwing with me? Was she serious?[%p]"
+msgstr "7700:僕は……担がれているのか？[linebreak]あやせは本気で言ってるのか？[%p]"
 
 msgid "7800:それとも、結局のところあやせは真性のメンヘラでしかないっていうことか？[%p]"
-msgstr "7800:Or was she just an absolutely crazy girl?[%p]"
+msgstr "7800:それとも、結局のところあやせは真性のメンヘラでしかないっていうことか？[%p]"
 
 msgid "7900:[name]あやせ[line]「キミには見えないのね」[%p]"
-msgstr "7900:[name]あやせ[line]So, you can't see the text, can you?[%p]"
+msgstr "7900:[name]あやせ[line]「キミには見えないのね」[%p]"
 
 msgid "8000:[name]あやせ[line]「侵食されているからだわ。邪心王に」[%p]"
-msgstr "8000:[name]あやせ[line]It's because you're being corrupted by the King of Wicked Hearts.[%p]"
+msgstr "8000:[name]あやせ[line]「侵食されているからだわ。邪心王に」[%p]"
 
 msgid "8100:あやせは真面目な顔だ。冗談を言っているようには見えない。そもそも彼女が冗談を言うところを僕は見たことがない。[%p]"
-msgstr "8100:Ayase looked totally serious. She didn't seem to be joking at all. In fact, I didn't think I'd ever seen her tell a joke.[%p]"
+msgstr "8100:あやせは真面目な顔だ。冗談を言っているようには見えない。そもそも彼女が冗談を言うところを僕は見たことがない。[%p]"
 
 msgid "8200:もう一度、本の中を見てみた。[linebreak]でもやっぱり、白紙だ。[%p]"
-msgstr "8200:I looked at the book again, but it was all blank.[%p]"
+msgstr "8200:もう一度、本の中を見てみた。[linebreak]でもやっぱり、白紙だ。[%p]"
 
 msgid "8300:[name]拓巳[line]「ぼ、僕には、白紙にしか見えないよ……」[%p]"
-msgstr "8300:[name]拓巳[line]I-It just looks blank to me.[%p]"
+msgstr "8300:[name]拓巳[line]「ぼ、僕には、白紙にしか見えないよ……」[%p]"
 
 msgid "8400:[name]あやせ[line]「……そう」[%p]"
-msgstr "8400:[name]あやせ[line]I see.[%p]"
+msgstr "8400:[name]あやせ[line]「……そう」[%p]"
 
 msgid "8500:あやせは残念そうに肩を落とすと、僕の手から文庫本をそっと抜き取った。その指先が一瞬だけ触れて、僕はドキッとする。[linebreak]あやせの手はひんやりと冷たかった。[%p]"
-msgstr "8500:She seemed slightly disappointed as she took the book from me. Our fingers touched for just a moment, and my heart skipped a beat. Her fingers were cold.[%p]"
+msgstr "8500:あやせは残念そうに肩を落とすと、僕の手から文庫本をそっと抜き取った。その指先が一瞬だけ触れて、僕はドキッとする。[linebreak]あやせの手はひんやりと冷たかった。[%p]"
 
 msgid "8600:[name]あやせ[line]「考えたことがある？」[%p]"
-msgstr "8600:[name]あやせ[line]Have you ever thought about it?[%p]"
+msgstr "8600:[name]あやせ[line]「考えたことがある？」[%p]"
 
 msgid "8700:[name]拓巳[line]「え？\u3000な、なにが……？」[%p]"
-msgstr "8700:[name]拓巳[line]Huh? T-Thought about what?[%p]"
+msgstr "8700:[name]拓巳[line]「え？\u3000な、なにが……？」[%p]"
 
 msgid "8800:[name]あやせ[line]「世界は、人によって、見える形が違うということを」[%p]"
-msgstr "8800:[name]あやせ[line]The fact that every person sees the world in a different way.[%p]"
+msgstr "8800:[name]あやせ[line]「世界は、人によって、見える形が違うということを」[%p]"
 
 msgid "8900:[name]あやせ[line]「その差異を確かめることはできないわ。概念や認識を他人と完璧に一致させることは、不可能だから」[%p]"
-msgstr "8900:[name]あやせ[line]And you'll never know just how big that difference is. It's impossible to make your own understanding of a concept identical to someone else's.[%p]"
+msgstr "8900:[name]あやせ[line]「その差異を確かめることはできないわ。概念や認識を他人と完璧に一致させることは、不可能だから」[%p]"
 
 msgid "9000:[name]あやせ[line]「でもこれだけははっきりしている」[%p]"
-msgstr "9000:[name]あやせ[line]But there's one thing I'm sure of.[%p]"
+msgstr "9000:[name]あやせ[line]「でもこれだけははっきりしている」[%p]"
 
 msgid "9100:[name]あやせ[line]「キミが見ているものと、私が見ているもの。その違いは、邪心による影響よ」[%p]"
-msgstr "9100:[name]あやせ[line]What you're seeing, and what I'm seeing... the difference is due to our wicked hearts.[%p]"
+msgstr "9100:[name]あやせ[line]「キミが見ているものと、私が見ているもの。その違いは、邪心による影響よ」[%p]"
 
 msgid "9200:[name]あやせ[line]「邪心の集合体が、邪心王グラジオール」[%p]"
-msgstr "9200:[name]あやせ[line]Gladiale, the King of Wicked Hearts, is a collective formed of all of them.[%p]"
+msgstr "9200:[name]あやせ[line]「邪心の集合体が、邪心王グラジオール」[%p]"
 
 msgid "9300:[name]あやせ[line]「目覚めようとしている。もうすぐ」[%p]"
-msgstr "9300:[name]あやせ[line]And he's about to awaken. Very soon.[%p]"
+msgstr "9300:[name]あやせ[line]「目覚めようとしている。もうすぐ」[%p]"
 
 msgid "9400:[name]あやせ[line]「もしも目覚めたら、きっと……」[%p]"
-msgstr "9400:[name]あやせ[line]And if he does...[%p]"
+msgstr "9400:[name]あやせ[line]「もしも目覚めたら、きっと……」[%p]"
 
 msgid "9500:[name]あやせ[line]「この世に６７億ある世界は、邪心王が生む混沌によって混じり、溶け合うことになるわ」[%p]"
-msgstr "9500:[name]あやせ[line]The 6.7 billion individual worlds on this planet will fuse and melt together in the chaos he creates.[%p]"
+msgstr "9500:[name]あやせ[line]「この世に６７億ある世界は、邪心王が生む混沌によって混じり、溶け合うことになるわ」[%p]"
 
 msgid "9600:[name]あやせ[line]「境界が消え、邪心により連結された世界になるのよ。あらゆるものが規則性もなく生まれ、あらゆるものが一瞬で死ぬ。概念も認識も因果律も、すべて破壊される」[%p]"
-msgstr "9600:[name]あやせ[line]All boundaries will disappear, and a world created of linked hearts will be born. All things will be born without any laws to bind their creation, and all things will die in a single instant. Concepts, awareness, causality... all will be destroyed.[%p]"
+msgstr "9600:[name]あやせ[line]「境界が消え、邪心により連結された世界になるのよ。あらゆるものが規則性もなく生まれ、あらゆるものが一瞬で死ぬ。概念も認識も因果律も、すべて破壊される」[%p]"
 
 msgid "9700:[name]あやせ[line]「すべてあるが故に、なにもない世界」[%p]"
-msgstr "9700:[name]あやせ[line]A world with everything. And thus, a world with nothing.[%p]"
+msgstr "9700:[name]あやせ[line]「すべてあるが故に、なにもない世界」[%p]"
 
 msgid "9800:[name]あやせ[line]「あらゆる神話と同じように、予言されているわ」[%p]"
-msgstr "9800:[name]あやせ[line]Just like all myths, it has been prophesied.[%p]"
+msgstr "9800:[name]あやせ[line]「あらゆる神話と同じように、予言されているわ」[%p]"
 
 msgid "9900:[name]あやせ[line]「終末予言。滅びの詩」[%p]"
-msgstr "9900:[name]あやせ[line]A prophecy of the end times, a psalm of destruction.[%p]"
+msgstr "9900:[name]あやせ[line]「終末予言。滅びの詩」[%p]"
 
 msgid "10000:ホントに、そうなのか……？[linebreak]あの白紙の文庫本は、なにを意味しているんだ？[linebreak]グラジオール記黙示録詩編って、なんなんだ？[%p]"
-msgstr "10000:Was that really true? What was the meaning of that blank paperback book? Just what were The Apocalyptic Psalms of the Book of Gladiale?[%p]"
+msgstr "10000:ホントに、そうなのか……？[linebreak]あの白紙の文庫本は、なにを意味しているんだ？[linebreak]グラジオール記黙示録詩編って、なんなんだ？[%p]"
 
 msgid "10100:[name]あやせ[line]「このままでは、滅びの結末に至るだけ」[%p]"
-msgstr "10100:[name]あやせ[line]Destruction is coming.[%p]"
+msgstr "10100:[name]あやせ[line]「このままでは、滅びの結末に至るだけ」[%p]"
 
 msgid "10200:[name]あやせ[line]「今、止められるのは、私と、キミ。２人しかいないの」[%p]"
-msgstr "10200:[name]あやせ[line]The only ones who can stop it are you and me. The two of us and no one else.[%p]"
+msgstr "10200:[name]あやせ[line]「今、止められるのは、私と、キミ。２人しかいないの」[%p]"
 
 msgid "10300:[name]拓巳[line]「ど、どうして、僕ら２人なの……？」[%p]"
-msgstr "10300:[name]拓巳[line]W-Why the two of us?[%p]"
+msgstr "10300:[name]拓巳[line]「ど、どうして、僕ら２人なの……？」[%p]"
 
 msgid "10400:[name]あやせ[line]「導きよ」[%p]"
-msgstr "10400:[name]あやせ[line]Guidance.[%p]"
+msgstr "10400:[name]あやせ[line]「導きよ」[%p]"
 
 msgid "10500:[name]あやせ[line]「他の黒騎士は、すでに邪心王に侵食されてしまった」[%p]"
-msgstr "10500:[name]あやせ[line]The other black knights were tainted by the King of Wicked Hearts.[%p]"
+msgstr "10500:[name]あやせ[line]「他の黒騎士は、すでに邪心王に侵食されてしまった」[%p]"
 
 msgid "10600:他の黒騎士……。[linebreak]あやせはさっきまで血にまみれていて、その血は他の黒騎士の血だと言った。[%p]"
-msgstr "10600:The other black knights... Ayase had been covered in blood just a moment ago, blood she said belonged to another black knight.[%p]"
+msgstr "10600:他の黒騎士……。[linebreak]あやせはさっきまで血にまみれていて、その血は他の黒騎士の血だと言った。[%p]"
 
 msgid "10700:この病院のどこかで、殺してきたっていうことなんだろうか。[linebreak]じゃあ、その殺した黒騎士の死体はどこに……？[%p]"
-msgstr "10700:Had she killed them somewhere in the hospital? But then where were the bodies?[%p]"
+msgstr "10700:この病院のどこかで、殺してきたっていうことなんだろうか。[linebreak]じゃあ、その殺した黒騎士の死体はどこに……？[%p]"
 
 msgid "10800:と、あやせは僕の横をすり抜け、病室の扉に手をかけた。[%p]"
-msgstr "10800:Ayase walked past me and put her hand on the door.[%p]"
+msgstr "10800:と、あやせは僕の横をすり抜け、病室の扉に手をかけた。[%p]"
 
 msgid "10900:[name]拓巳[line]「ど、どこ行くの？」[%p]"
-msgstr "10900:[name]拓巳[line]W-Where are you going?[%p]"
+msgstr "10900:[name]拓巳[line]「ど、どこ行くの？」[%p]"
 
 msgid "11000:[name]あやせ[line]「おしっこよ」[%p]"
-msgstr "11000:[name]あやせ[line]To pee.[%p]"
+msgstr "11000:[name]あやせ[line]「おしっこよ」[%p]"
 
 msgid "11100:ニコリともせずにそう答えて、僕の返事を待たずに出て行った。[%p]"
-msgstr "11100:She answered emotionlessly, and left without waiting for my answer.[%p]"
+msgstr "11100:ニコリともせずにそう答えて、僕の返事を待たずに出て行った。[%p]"
 
 msgid "11200:[name]拓巳[line]「…………」[%p]"
-msgstr "11200:[name]拓巳[line]...[%p]"
+msgstr "11200:[name]拓巳[line]「…………」[%p]"
 
 msgid "11300:他にグラジオール記黙示録詩編の本が置いてないかどうか、ざっと目に付くところを探してみる。でも見当たらなかった。[%p]"
-msgstr "11300:I looked around to see if there were any other books from the Gladiale series around, but there weren't.[%p]"
+msgstr "11300:他にグラジオール記黙示録詩編の本が置いてないかどうか、ざっと目に付くところを探してみる。でも見当たらなかった。[%p]"
 
 msgid "11400:全部で何巻出ているのか知らないけど、さっき僕が手に取ったのは１７巻だった。なのに１〜１６巻までは、この病室のどこにも見当たらない。[%p]"
-msgstr "11400:I didn't know how many volumes there were, but the one I'd picked up a moment ago was Book 17. Books 1 through 16 where nowhere in the room.[%p]"
+msgstr "11400:全部で何巻出ているのか知らないけど、さっき僕が手に取ったのは１７巻だった。なのに１〜１６巻までは、この病室のどこにも見当たらない。[%p]"
 
 msgid "11500:もちろん、この病室にあやせが持ってきていないだけなのかもしれないけど。[%p]"
-msgstr "11500:Obviously, it was possible that she just hadn't brought them with her.[%p]"
+msgstr "11500:もちろん、この病室にあやせが持ってきていないだけなのかもしれないけど。[%p]"
 
 msgid "11600:白紙の文庫本をこの目で見てしまった以上、やっぱりどうしても信じられなくて。[%p]"
-msgstr "11600:But after seeing the blank pages of the book, I found the idea hard to believe.[%p]"
+msgstr "11600:白紙の文庫本をこの目で見てしまった以上、やっぱりどうしても信じられなくて。[%p]"
 
 msgid "11700:僕はあやせが戻ってくる前に、病室を出た。[%p]"
-msgstr "11700:I left the room before Ayase came back.[%p]"
+msgstr "11700:僕はあやせが戻ってくる前に、病室を出た。[%p]"
 

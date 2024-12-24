@@ -10,65 +10,65 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:『集団ダイブ』の映像が流出したことは、当然のように大きな話題になっていた。[%p]"
-msgstr "0:The news about the leaked video of the Group Dive quickly became a huge deal, of course.[%p]"
+msgstr "0:『集団ダイブ』の映像が流出したことは、当然のように大きな話題になっていた。[%p]"
 
 msgid "100:ネットでは、グリムが言う通り祭り発生中。[%p]"
-msgstr "100:The net was, like Grimm said, in an uproar.[%p]"
+msgstr "100:ネットでは、グリムが言う通り祭り発生中。[%p]"
 
 msgid "200:＠ちゃんでは、ニュージェネの４つの殺人事件はすべて同一犯によるもので確定、っていう意見が多い。[%p]"
-msgstr "200:A lot of people on @chan were saying that this proved that all four NewGen murders were committed by the same person.[%p]"
+msgstr "200:＠ちゃんでは、ニュージェネの４つの殺人事件はすべて同一犯によるもので確定、っていう意見が多い。[%p]"
 
 msgid "300:テレビでの報道も過熱していた。[%p]"
-msgstr "300:The TV news was just as excited.[%p]"
+msgstr "300:テレビでの報道も過熱していた。[%p]"
 
 msgid "400:>>140の言う通り、民放は東テレをのぞいてどこも報道特別番組を放送し、そこで繰り返し例の動画を流した。[%p]"
-msgstr "400:>>140 was right. All the non-government-run TV stations, except for TV-TK, had done specials on it, and they've been showing the video nonstop.[%p]"
+msgstr "400:>>140の言う通り、民放は東テレをのぞいてどこも報道特別番組を放送し、そこで繰り返し例の動画を流した。[%p]"
 
 msgid "500:特番自体は１時間程度で終わったけど、あの映像が全国に流されたっていうのはちょっとした衝撃だった。[%p]"
-msgstr "500:None of the specials were longer than an hour, but the fact that the video was broadcast all over the country was shocking.[%p]"
+msgstr "500:特番自体は１時間程度で終わったけど、あの映像が全国に流されたっていうのはちょっとした衝撃だった。[%p]"
 
 msgid "600:もちろん、最後の飛び降りる場面についてはどのテレビ局も自主規制してカットしてたけど、それでもインパクトが強すぎた。[%p]"
-msgstr "600:Of course, all the stations cut the last part where they actually jumped, but the effect they had was incredible.[%p]"
+msgstr "600:もちろん、最後の飛び降りる場面についてはどのテレビ局も自主規制してカットしてたけど、それでもインパクトが強すぎた。[%p]"
 
 msgid "700:テレビでの論調もおおむねネットと同じで、ニュージェネの４つの事件を同一犯によるものだとほぼ決めつけてるみたいだった。[%p]"
-msgstr "700:The TV commentators were saying more or less the same thing as the internet, that all four of the NewGen cases were the work of the same killer.[%p]"
+msgstr "700:テレビでの論調もおおむねネットと同じで、ニュージェネの４つの事件を同一犯によるものだとほぼ決めつけてるみたいだった。[%p]"
 
 msgid "800:それも当然だろう。[linebreak]一連のニュージェネ事件に、ついに共通点が見つかったんだ。[%p]"
-msgstr "800:It was inevitable that they'd say that. At last, the NewGen cases had something in common.[%p]"
+msgstr "800:それも当然だろう。[linebreak]一連のニュージェネ事件に、ついに共通点が見つかったんだ。[%p]"
 
 msgid "900:[margin top="228"]――その目だれの目？[%18]"
-msgstr "900:[margin top="228"]Whose eyes are those?[%18]"
+msgstr "900:[margin top="228"]――その目だれの目？[%18]"
 
 msgid "1000:今、渋谷で流行っている言葉。[%p]"
-msgstr "1000:The phrase that was so popular in Shibuya right now.[%p]"
+msgstr "1000:今、渋谷で流行っている言葉。[%p]"
 
 msgid "1100:本来その言葉は、ニュージェネ第４の事件『ヴァンパイ屋』において世間に初めて登場したものだ。[%p]"
-msgstr "1100:It had originally been thought that these words only appeared during the fourth incident, the Vampire-er case.[%p]"
+msgstr "1100:本来その言葉は、ニュージェネ第４の事件『ヴァンパイ屋』において世間に初めて登場したものだ。[%p]"
 
 msgid "1200:それなのに、『ヴァンパイ屋』より１ヶ月以上も前に起きた『集団ダイブ』でも被害者が口走っていた。[%p]"
-msgstr "1200:But one of the victims of the Group Dive said the phrase as well, despite it taking place over a month before Vampire-er.[%p]"
+msgstr "1200:それなのに、『ヴァンパイ屋』より１ヶ月以上も前に起きた『集団ダイブ』でも被害者が口走っていた。[%p]"
 
 msgid "1300:今のところ発生している４つの事件のうち、最初と最後の事件で使われた言葉。[%p]"
-msgstr "1300:Now, out of the four murders, it had appeared in two: the first and the most recent one.[%p]"
+msgstr "1300:今のところ発生している４つの事件のうち、最初と最後の事件で使われた言葉。[%p]"
 
 msgid "1400:これが意味するのは……やっぱり４つの事件はすべて同一犯によるものだっていう可能性。[%p]"
-msgstr "1400:Which meant... it was probably the same person responsible for all four.[%p]"
+msgstr "1400:これが意味するのは……やっぱり４つの事件はすべて同一犯によるものだっていう可能性。[%p]"
 
 msgid "1500:警察は急遽開いた記者会見で“動画を投稿した人物の特定を急ぐ”って、今後の対応を発表して。[%p]"
-msgstr "1500:The police held an emergency press conference to announce that they were doing everything they could to find the uploader of the video.[%p]"
+msgstr "1500:警察は急遽開いた記者会見で“動画を投稿した人物の特定を急ぐ”って、今後の対応を発表して。[%p]"
 
 msgid "1600:一部の政治家も“大変遺憾。一刻も早く犯人逮捕を”なんて言ってる。[%p]"
-msgstr "1600:A few politicians issued statements expressing their “anger and sorrow,” and demanding that the killer be caught immediately.[%p]"
+msgstr "1600:一部の政治家も“大変遺憾。一刻も早く犯人逮捕を”なんて言ってる。[%p]"
 
 msgid "1700:ミュウツベの動画は、アップされてから３時間も経たないうちに管理者の手で削除されたけど、もう遅かった。[%p]"
-msgstr "1700:The video was deleted by MewTube's administrators less than three hours after upload, but it was too late.[%p]"
+msgstr "1700:ミュウツベの動画は、アップされてから３時間も経たないうちに管理者の手で削除されたけど、もう遅かった。[%p]"
 
 msgid "1800:とっくに動画を落とし終えていた＠ちゃんねらーの手によって、あちこちのアップローダーから大量に拡散されていくのを、誰も止めることはできなかったんだ。[%p]"
-msgstr "1800:@channers everywhere had downloaded it already, and nobody could stop it from being spread now.[%p]"
+msgstr "1800:とっくに動画を落とし終えていた＠ちゃんねらーの手によって、あちこちのアップローダーから大量に拡散されていくのを、誰も止めることはできなかったんだ。[%p]"
 
 msgid "1900:そして深夜近くになって、警察発表として次の事実が明らかにされた。[%p]"
-msgstr "1900:And then, late that night, the police made their next announcement.[%p]"
+msgstr "1900:そして深夜近くになって、警察発表として次の事実が明らかにされた。[%p]"
 
 msgid "2000:――『集団ダイブ』事件の動画は、[linebreak]渋谷区内にあるマンガ喫茶『＠カフェ』のＲＯＯＭ３７にある[linebreak]パソコンからアップロードされたものである。[%p]"
-msgstr "2000:—The video of the Group Dive incident was uploaded from a manga café named “@Café,” specifically, the PC in room 37.[%p]"
+msgstr "2000:――『集団ダイブ』事件の動画は、[linebreak]渋谷区内にあるマンガ喫茶『＠カフェ』のＲＯＯＭ３７にある[linebreak]パソコンからアップロードされたものである。[%p]"
 

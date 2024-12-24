@@ -10,41 +10,41 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]キャスターＡ[line]「今日午後８時頃、渋谷区の渋谷川で、女性の変死体が発見されました」[%p]"
-msgstr "0:[name]キャスターＡ[line]A woman's body was found at approximately 8:00 AM today in Shibuya River in Shibuya Ward.[%p]"
+msgstr "0:[name]キャスターＡ[line]「今日午後８時頃、渋谷区の渋谷川で、女性の変死体が発見されました」[%p]"
 
 msgid "100:[name]キャスターＡ[line]「被害者は江戸川区に住む十勝彩美さん、２７歳で、死因はのどを詰まらせたことによる窒息死と見られています」[%p]"
-msgstr "100:[name]キャスターＡ[line]The body belonged to 27-year-old Ayami Tokachi, who appeared to have died of suffocation.[%p]"
+msgstr "100:[name]キャスターＡ[line]「被害者は江戸川区に住む十勝彩美さん、２７歳で、死因はのどを詰まらせたことによる窒息死と見られています」[%p]"
 
 msgid "200:[name]キャスターＡ[line]「警察の調べによりますと、被害者の右手の肉が削り取られて骨が露出しており、また、胃の中からは人間の肉と見られる内容物が見つかりました」[%p]"
-msgstr "200:[name]キャスターＡ[line]A police investigation revealed that her right hand had been stripped of flesh all the way down to the bone, and what appeared to be human flesh was found in her stomach.[%p]"
+msgstr "200:[name]キャスターＡ[line]「警察の調べによりますと、被害者の右手の肉が削り取られて骨が露出しており、また、胃の中からは人間の肉と見られる内容物が見つかりました」[%p]"
 
 msgid "300:[name]キャスターＡ[line]「被害者は自らの右手を噛み千切って食べたとみられ、[linebreak]また、足首が紐で縛られていたとのことです。[linebreak]警察では自殺、他殺の両面から捜査を――」[%p]"
-msgstr "300:[name]キャスターＡ[line]They believe the woman may have chewed the flesh off her own hand. In addition, her ankles were tied with string, and the police are investigating it as both a potential suicide and a potential homicide.[%p]"
+msgstr "300:[name]キャスターＡ[line]「被害者は自らの右手を噛み千切って食べたとみられ、[linebreak]また、足首が紐で縛られていたとのことです。[linebreak]警察では自殺、他殺の両面から捜査を――」[%p]"
 
 msgid "400:震度５の地震に襲われて以来、渋谷の街には殺伐とした空気が漂うようになった。[%p]"
-msgstr "400:Ever since the intensity five earthquake hit Shibuya, the atmosphere of the town had changed for the worse.[%p]"
+msgstr "400:震度５の地震に襲われて以来、渋谷の街には殺伐とした空気が漂うようになった。[%p]"
 
 msgid "500:渋谷の治安は目に見えて悪化し、若者同士のケンカだけにとどまらず、ショップのショーウインドウが割られたり、窃盗が急増したりといった事態が見られた。[%p]"
-msgstr "500:Crime was way up, and it wasn't just kids getting into fights anymore. There was a huge increase in theft, particularly smash-and-grabs.[%p]"
+msgstr "500:渋谷の治安は目に見えて悪化し、若者同士のケンカだけにとどまらず、ショップのショーウインドウが割られたり、窃盗が急増したりといった事態が見られた。[%p]"
 
 msgid "600:マスコミはしきりに『ニュージェネレーション』という言葉を使って危機感や閉塞感を煽り、それに呼応して一部店舗では急遽、営業を見合わせるなどの現象が起きた。[%p]"
-msgstr "600:The media was using the phrase “New Generation” to inspire feelings of danger and claustrophobia. It had gotten so bad that some stores were shutting down until all this was over.[%p]"
+msgstr "600:マスコミはしきりに『ニュージェネレーション』という言葉を使って危機感や閉塞感を煽り、それに呼応して一部店舗では急遽、営業を見合わせるなどの現象が起きた。[%p]"
 
 msgid "700:また、これまでにも週に一度の割合で“アンチ・ニュージェネ”を主張してデモを繰り返していた人々が、突然暴動騒ぎを起こして渋谷警察署に殺到。[%p]"
-msgstr "700:The weekly “Anti-NewGen” protests had suddenly turned into riots. A huge horde of people had descended on the Shibuya police station.[%p]"
+msgstr "700:また、これまでにも週に一度の割合で“アンチ・ニュージェネ”を主張してデモを繰り返していた人々が、突然暴動騒ぎを起こして渋谷警察署に殺到。[%p]"
 
 msgid "800:警官隊と衝突して１００人以上の逮捕者を出した。[%p]"
-msgstr "800:They'd clashed with the police and over 100 people had been arrested.[%p]"
+msgstr "800:警官隊と衝突して１００人以上の逮捕者を出した。[%p]"
 
 msgid "900:“エスパー少年騒動”のときのように、またも“祭り”を楽しむ野次馬がどこからともなく何千人と集まった。[%p]"
-msgstr "900:Just like they had with the “psychic boy,” thousands of people had appeared out of nowhere to watch and enjoy the show.[%p]"
+msgstr "900:“エスパー少年騒動”のときのように、またも“祭り”を楽しむ野次馬がどこからともなく何千人と集まった。[%p]"
 
 msgid "1000:渋谷を訪れる者と、それ以外の者との温度差は顕著となっていた。[%p]"
-msgstr "1000:There was a huge, clearly visible difference between the people who were visiting Shibuya, and the ones who lived there.[%p]"
+msgstr "1000:渋谷を訪れる者と、それ以外の者との温度差は顕著となっていた。[%p]"
 
 msgid "1100:これまで以上のバカ騒ぎに期待する前者。[linebreak]渋谷の無法地帯化を嘆き警察権限の強化を主張する後者。[%p]"
-msgstr "1100:The former type was hoping for more fun and excitement. The latter were suffering miserably from the lawlessness in the ward, and begging for more police crackdowns.[%p]"
+msgstr "1100:これまで以上のバカ騒ぎに期待する前者。[linebreak]渋谷の無法地帯化を嘆き警察権限の強化を主張する後者。[%p]"
 
 msgid "1200:そんな一連の騒ぎをあざ笑うようにして、ニュージェネ第６の事件は起きた。[linebreak]当然ながら、犯人は捕まっていない――[%p]"
-msgstr "1200:And then, as if to make things even worse, the 6th NewGen incident happened. Of course, they hadn't caught the killer.[%p]"
+msgstr "1200:そんな一連の騒ぎをあざ笑うようにして、ニュージェネ第６の事件は起きた。[linebreak]当然ながら、犯人は捕まっていない――[%p]"
 

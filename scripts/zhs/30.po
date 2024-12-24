@@ -10,353 +10,353 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:私立翠明学園。それが僕の通う学校。[%p]"
-msgstr "0:Suimei Academy. That was the name of the school I attended.[%p]"
+msgstr "0:私立翠明学園。それが僕の通う学校。[%p]"
 
 msgid "100:それほど歴史はなくて、１０年くらい前に設立されたって聞いてる。"
-msgstr "100:It wasn't a very old school. It had been built within the last ten years."
+msgstr "100:それほど歴史はなくて、１０年くらい前に設立されたって聞いてる。"
 
 msgid "200:[linebreak]だから校舎は小ぎれいで、よく教師もののテレビドラマでロケに使われる。[%p]"
-msgstr "200:[linebreak]This meant the building was clean and new, and it was often used as a set for TV shows with a school theme.[%p]"
+msgstr "200:[linebreak]だから校舎は小ぎれいで、よく教師もののテレビドラマでロケに使われる。[%p]"
 
 msgid "300:それほど歴史はなくて、１０年くらい前に設立されたって聞いてる。だから校舎は小ぎれいで、よく教師もののテレビドラマでロケに使われる。"
-msgstr "300:It wasn't a very old school. It had been built within the last ten years. This meant the building was clean and new, and it was often used as a set for TV shows with a school theme."
+msgstr "300:それほど歴史はなくて、１０年くらい前に設立されたって聞いてる。だから校舎は小ぎれいで、よく教師もののテレビドラマでロケに使われる。"
 
 msgid "400:それと、制服を有名デザイナーがデザインしたらしくて、女子の中にはこの学校の制服を着たいがために入学してくるバカも多い。[%p]"
-msgstr "400:The uniforms had been designed by some famous designer, and a lot of the dumber girls had chosen this school specifically to wear them.[%p]"
+msgstr "400:それと、制服を有名デザイナーがデザインしたらしくて、女子の中にはこの学校の制服を着たいがために入学してくるバカも多い。[%p]"
 
 msgid "500:一応進学校だけど偏差値は中の上程度。[%p]"
-msgstr "500:It was, in theory, a college prep school. But the school's test scores were slightly above average at best.[%p]"
+msgstr "500:一応進学校だけど偏差値は中の上程度。[%p]"
 
 msgid "600:校則は厳しいくせに、新入生向けの売り文句は『自由な校風』だから笑わせる。[%p]"
-msgstr "600:The school rules were really strict, but they were constantly telling prospective students about how much they respected “student autonomy and independence.” It was pretty funny how they tried to trick you.[%p]"
+msgstr "600:校則は厳しいくせに、新入生向けの売り文句は『自由な校風』だから笑わせる。[%p]"
 
 msgid "700:まあ、校則なんてほとんど有名無実化してるけど。"
-msgstr "700:Well, I guess the rules were really there in name only. Nobody enforced them."
+msgstr "700:まあ、校則なんてほとんど有名無実化してるけど。"
 
 msgid "800:[linebreak]それに確かに自由な校風っていうのもあながち間違ってない。[%p]"
-msgstr "800:[linebreak]So maybe they weren't trying to trick you after all.[%p]"
+msgstr "800:[linebreak]それに確かに自由な校風っていうのもあながち間違ってない。[%p]"
 
 msgid "900:まあ、校則なんてほとんど有名無実化してるけど。それに確かに自由な校風っていうのもあながち間違ってない。"
-msgstr "900:Well, I guess the rules were really there in name only. Nobody enforced them. So maybe they weren't trying to trick you after all."
+msgstr "900:まあ、校則なんてほとんど有名無実化してるけど。それに確かに自由な校風っていうのもあながち間違ってない。"
 
 msgid "1000:なにしろ僕みたいな、週に２．５回しか来ないヤツでもちゃんと進級できるんだから。[%p]"
-msgstr "1000:After all, even somebody like me who only went to school 2.5 times a week could still graduate.[%p]"
+msgstr "1000:なにしろ僕みたいな、週に２．５回しか来ないヤツでもちゃんと進級できるんだから。[%p]"
 
 msgid "1100:学校の前まで行くと、さすがに登校してくる生徒たちで騒がしくなる。"
-msgstr "1100:By the time I arrived at the school gate, there were enough students around me that it was starting to get noisy."
+msgstr "1100:学校の前まで行くと、さすがに登校してくる生徒たちで騒がしくなる。"
 
 msgid "1200:でも僕は人混みが苦手だから、うつむいたままで校門をくぐった。[%p]"
-msgstr "1200: I don't like crowds, so I kept my head down as I walked through the gate.[%p]"
+msgstr "1200:でも僕は人混みが苦手だから、うつむいたままで校門をくぐった。[%p]"
 
 msgid "1300:学校の前まで行くと、さすがに登校してくる生徒たちで騒がしくなる。でも僕は人混みが苦手だから、うつむいたままで校門をくぐった。"
-msgstr "1300:By the time I arrived at the school gate, there were enough students around me that it was starting to get noisy. I don't like crowds, so I kept my head down as I walked through the gate."
+msgstr "1300:学校の前まで行くと、さすがに登校してくる生徒たちで騒がしくなる。でも僕は人混みが苦手だから、うつむいたままで校門をくぐった。"
 
 msgid "1400:心の中では、ひたすら“誰も話しかけてくるなよ”と唱え続けた。[%p]"
-msgstr "1400:In my mind, I was repeating “please nobody talk to me” over and over.[%p]"
+msgstr "1400:心の中では、ひたすら“誰も話しかけてくるなよ”と唱え続けた。[%p]"
 
 msgid "1500:この学校には、ひとつ年下の妹も実家から通ってる。[%p]"
-msgstr "1500:I had a sister a year younger than me who was also a student here. She would commute from home.[%p]"
+msgstr "1500:この学校には、ひとつ年下の妹も実家から通ってる。[%p]"
 
 msgid "1600:あいつと遭遇した日には悲劇だ。[%p]"
-msgstr "1600:Any day I ran into her was a disaster.[%p]"
+msgstr "1600:あいつと遭遇した日には悲劇だ。[%p]"
 
 msgid "1700:幸いにして、今日はその妹にも遭うことなく、無事に教室へたどり着いた。[%p]"
-msgstr "1700:Fortunately, I didn't see her today, and made it safely to my classroom.[%p]"
+msgstr "1700:幸いにして、今日はその妹にも遭うことなく、無事に教室へたどり着いた。[%p]"
 
 msgid "1800:誰とも目を合わさないように、そそくさと自分の席につく。[%p]"
-msgstr "1800:I slunk into my seat without letting my eyes meet anybody else's.[%p]"
+msgstr "1800:誰とも目を合わさないように、そそくさと自分の席につく。[%p]"
 
 msgid "1900:近くで談笑していた数人の女子が僕に視線を投げかけてきた気がしたけど、それも一瞬で、なにも言わずにまた談笑に戻ったみたいだ。[%p]"
-msgstr "1900:For a moment, I thought that some of the girls who were chatting near me looked my way, but it was just for an instant. They quickly returned to their conversation without saying a word.[%p]"
+msgstr "1900:近くで談笑していた数人の女子が僕に視線を投げかけてきた気がしたけど、それも一瞬で、なにも言わずにまた談笑に戻ったみたいだ。[%p]"
 
 msgid "2000:どうせこいつら、心の中では僕のことをキモいとか思ってるに違いない。[%p]"
-msgstr "2000:I knew they were all thinking that I was a weird, creepy loser.[%p]"
+msgstr "2000:どうせこいつら、心の中では僕のことをキモいとか思ってるに違いない。[%p]"
 
 msgid "2100:ふん、僕からしてみればお前たち三次元女の方がよっぽどキモいよ。[%p]"
-msgstr "2100:But if you ask me, you 3D girls are way creepier than I am.[%p]"
+msgstr "2100:ふん、僕からしてみればお前たち三次元女の方がよっぽどキモいよ。[%p]"
 
 msgid "2200:キモいなら見なければいいんだ。[linebreak]僕がここにいるって認識しなければいいんだ。[%p]"
-msgstr "2200:If you find me creepy, just don't look at me. Just pretend I'm not here.[%p]"
+msgstr "2200:キモいなら見なければいいんだ。[linebreak]僕がここにいるって認識しなければいいんだ。[%p]"
 
 msgid "2300:そうすれば、僕はお前たちに迷惑をかけずに黙って生きていくんだから。[%p]"
-msgstr "2300:Just do that, and I'll live my life without bothering any of you.[%p]"
+msgstr "2300:そうすれば、僕はお前たちに迷惑をかけずに黙って生きていくんだから。[%p]"
 
 msgid "2400:それをいちいち“キモい”って口に出すＤＱＮ連中はいったいなんなんだろう、ってよく思う。理解できない。[%p]"
-msgstr "2400:If you DQNs decide to keep calling me “creepy” all the time instead, that's your problem, not mine. That's what I always say. I just can't understand it.[%p]"
+msgstr "2400:それをいちいち“キモい”って口に出すＤＱＮ連中はいったいなんなんだろう、ってよく思う。理解できない。[%p]"
 
 msgid "2500:むしろその“キモい”側の人間に構ってもらいたいんじゃないかとすら思える。[%p]"
-msgstr "2500:Maybe you want attention from the people you call creepy? Is that it?[%p]"
+msgstr "2500:むしろその“キモい”側の人間に構ってもらいたいんじゃないかとすら思える。[%p]"
 
 msgid "2600:僕は席に座ったまま、ただひたすらうつむき、自分の机の表面をじっと見つめ続けていた――[%p]"
-msgstr "2600:I stayed in my seat, staring down silently at the surface of my desk, trying not to move at all.[%p]"
+msgstr "2600:僕は席に座ったまま、ただひたすらうつむき、自分の机の表面をじっと見つめ続けていた――[%p]"
 
 msgid "2700:[name]三住[line]「よー、タク！」[%p]"
-msgstr "2700:[name]三住[line]Yo, Taku![%p]"
+msgstr "2700:[name]三住[line]「よー、タク！」[%p]"
 
 msgid "2800:いきなり、背中を軽く叩かれた。[%p]"
-msgstr "2800:Out of nowhere, somebody slapped me lightly on the back.[%p]"
+msgstr "2800:いきなり、背中を軽く叩かれた。[%p]"
 
 msgid "2900:ギクリとして、イヤイヤ顔を上げる。[%p]"
-msgstr "2900:I jerked, and then looked up, annoyed.[%p]"
+msgstr "2900:ギクリとして、イヤイヤ顔を上げる。[%p]"
 
 msgid "3000:[name]三住[line]「お前、今日って学校来る日だっけ」[%p]"
-msgstr "3000:[name]三住[line]Is today one of the days you come to school?[%p]"
+msgstr "3000:[name]三住[line]「お前、今日って学校来る日だっけ」[%p]"
 
 msgid "3100:[name]拓巳[line]「み、[ruby-base]三住[ruby-text-start]みすみ[ruby-text-end]くん……」[%p]"
-msgstr "3100:[name]拓巳[line]M-Misumi...[%p]"
+msgstr "3100:[name]拓巳[line]「み、[ruby-base]三住[ruby-text-start]みすみ[ruby-text-end]くん……」[%p]"
 
 msgid "3200:クラスメイトの[ruby-base]三住[ruby-text-start]みすみ[ruby-text-end][ruby-base]大輔[ruby-text-start]だいすけ[ruby-text-end]くんが、[linebreak]人なつっこい笑みを浮かべてそこに立っていた。[linebreak]端正な顔立ちをしている彼は、女子にもよくモテるらしい。[%p]"
-msgstr "3200:It was Daisuke Misumi, my classmate. He was standing there with a friendly smile on his face. He was handsome, and (supposedly) girls really liked him.[%p]"
+msgstr "3200:クラスメイトの[ruby-base]三住[ruby-text-start]みすみ[ruby-text-end][ruby-base]大輔[ruby-text-start]だいすけ[ruby-text-end]くんが、[linebreak]人なつっこい笑みを浮かべてそこに立っていた。[linebreak]端正な顔立ちをしている彼は、女子にもよくモテるらしい。[%p]"
 
 msgid "3300:しかも本人が自ら女好きを公言していて、常に何人かと同時に付き合っているっていうんだから、僕からしてみれば完全にＤＱＮの領域に足を突っ込んでいる男だ。[%p]"
-msgstr "3300:He was also a self-proclaimed playboy, who (according to him) was always dating several girls at once. From my perspective, he was a man who'd completely given himself over to the DQN side.[%p]"
+msgstr "3300:しかも本人が自ら女好きを公言していて、常に何人かと同時に付き合っているっていうんだから、僕からしてみれば完全にＤＱＮの領域に足を突っ込んでいる男だ。[%p]"
 
 msgid "3400:できれば関わり合いにはなりたくないところなんだけど……。[%p]"
-msgstr "3400:He wasn't somebody I wanted anything to do with, but...[%p]"
+msgstr "3400:できれば関わり合いにはなりたくないところなんだけど……。[%p]"
 
 msgid "3500:[name]三住[line]「相変わらず暗い顔してんなー。ゲームのやり過ぎで寝不足か？」[%p]"
-msgstr "3500:[name]三住[line]Man, you always look so gloomy. Up all night playing games? Didn't get enough sleep?[%p]"
+msgstr "3500:[name]三住[line]「相変わらず暗い顔してんなー。ゲームのやり過ぎで寝不足か？」[%p]"
 
 msgid "3600:[name]拓巳[line]「べ、別に……」[%p]"
-msgstr "3600:[name]拓巳[line]N-No...[%p]"
+msgstr "3600:[name]拓巳[line]「べ、別に……」[%p]"
 
 msgid "3700:クラスでただひとり、僕に馴れ馴れしく話しかけてくるんだ。[%p]"
-msgstr "3700:He was the one person in class who always tried to talk to me.[%p]"
+msgstr "3700:クラスでただひとり、僕に馴れ馴れしく話しかけてくるんだ。[%p]"
 
 msgid "3800:三住くんと僕とじゃ趣味だって性格だってまったく合わないのに、どうして彼はいつもいつもこんな僕に話しかけてくるんだろう。[%p]"
-msgstr "3800:He and I had nothing in common, either in terms of personality or hobbies, but for some reason he was always trying to talk to me.[%p]"
+msgstr "3800:三住くんと僕とじゃ趣味だって性格だってまったく合わないのに、どうして彼はいつもいつもこんな僕に話しかけてくるんだろう。[%p]"
 
 msgid "3900:今年クラスメイトになってからずっと疑問だった。[%p]"
-msgstr "3900:It'd been this way ever since we became classmates at the start of the year, and I'd never managed to figure it out.[%p]"
+msgstr "3900:今年クラスメイトになってからずっと疑問だった。[%p]"
 
 msgid "4000:もし仮に僕が女だったなら、なんとなく理由は分かるんだけど。男であるこの僕に話しかけてくるのは、意味が分からない。[%p]"
-msgstr "4000:If I was a girl, I could understand it, but... Why would he want to talk to a guy?[%p]"
+msgstr "4000:もし仮に僕が女だったなら、なんとなく理由は分かるんだけど。男であるこの僕に話しかけてくるのは、意味が分からない。[%p]"
 
 msgid "4100:[name]三住[line]「引きこもりだからしゃーねーかもしんねえけどよ、もっとこう、ハキハキ答えろって」[%p]"
-msgstr "4100:[name]三住[line]I mean, I know you're a hikikomori and you never leave your house, but try to speak up when you're answering somebody's question.[%p]"
+msgstr "4100:[name]三住[line]「引きこもりだからしゃーねーかもしんねえけどよ、もっとこう、ハキハキ答えろって」[%p]"
 
 msgid "4200:そうできたらとっくにしてるよ。[%p]"
-msgstr "4200:If I could, I would.[%p]"
+msgstr "4200:そうできたらとっくにしてるよ。[%p]"
 
 msgid "4300:三次元の人間相手には、話すだけで苦痛なんだ。[%p]"
-msgstr "4300:Just talking to a 3D person was suffering.[%p]"
+msgstr "4300:三次元の人間相手には、話すだけで苦痛なんだ。[%p]"
 
 msgid "4400:緊張で声がまともに出せなくなっちゃうし、[linebreak]普段話し慣れてないから呂律もうまく回らないし、[%p]"
-msgstr "4400:I got so nervous my voice wouldn't even come out right. And since I wasn't used to talking, I would always stammer.[%p]"
+msgstr "4400:緊張で声がまともに出せなくなっちゃうし、[linebreak]普段話し慣れてないから呂律もうまく回らないし、[%p]"
 
 msgid "4500:ヘタなことを言ってバカにされるんじゃないかっていう恐怖で気持ちが萎縮しちゃうし。[%p]"
-msgstr "4500:I'd get so scared of saying something stupid and being made fun of that I hated talking to anybody.[%p]"
+msgstr "4500:ヘタなことを言ってバカにされるんじゃないかっていう恐怖で気持ちが萎縮しちゃうし。[%p]"
 
 msgid "4600:僕の苦しみも知らないくせに、知った風なことを言わないでほしいよ。[%p]"
-msgstr "4600:You don't understand my pain. Don't tell me what to do.[%p]"
+msgstr "4600:僕の苦しみも知らないくせに、知った風なことを言わないでほしいよ。[%p]"
 
 msgid "4700:あ、ただし僕は引きこもりじゃないぞ。引きこもりっていうのは２４時間３６５日部屋に閉じこもってる人のことを言うんだ。僕は違う。[%p]"
-msgstr "4700:Oh, and I'm not a hikikomori, either! A hikikomori is somebody who never leaves their room, 24 hours a day, 365 days a year. That's not who I am.[%p]"
+msgstr "4700:あ、ただし僕は引きこもりじゃないぞ。引きこもりっていうのは２４時間３６５日部屋に閉じこもってる人のことを言うんだ。僕は違う。[%p]"
 
 msgid "4800:[name]三住[line]「女相手に緊張するならともかく、そういう態度されると俺らホモと思われるじゃねーか」[%p]"
-msgstr "4800:[name]三住[line]I can understand you getting nervous around a girl, but if you keep acting like that when I talk to you, people are going to think we're both gay.[%p]"
+msgstr "4800:[name]三住[line]「女相手に緊張するならともかく、そういう態度されると俺らホモと思われるじゃねーか」[%p]"
 
 msgid "4900:[name]拓巳[line]「ひ……っ」[%p]"
-msgstr "4900:[name]拓巳[line]Aah...[%p]"
+msgstr "4900:[name]拓巳[line]「ひ……っ」[%p]"
 
 msgid "5000:まさか女好きっていうのはウソで実は男好きだったのかー！？[%p]"
-msgstr "5000:Was he lying about dating those girls, and he was actually into men?[%p]"
+msgstr "5000:まさか女好きっていうのはウソで実は男好きだったのかー！？[%p]"
 
 msgid "5100:とっさに三住くんから少しでも離れようと身体を引いた。そのせいでイスから転げ落ちそうになって、慌てて机にしがみつく。[%p]"
-msgstr "5100:I pulled my body away from him, trying to put some distance between us. In doing so, I almost fell out of my chair, so I quickly grabbed onto my desk.[%p]"
+msgstr "5100:とっさに三住くんから少しでも離れようと身体を引いた。そのせいでイスから転げ落ちそうになって、慌てて机にしがみつく。[%p]"
 
 msgid "5200:[name]三住[line]「なにしてんだ、お前？」[%p]"
-msgstr "5200:[name]三住[line]What the hell are you doing?[%p]"
+msgstr "5200:[name]三住[line]「なにしてんだ、お前？」[%p]"
 
 msgid "5300:[name]拓巳[line]「み、三住くんは、ホモなの……？」[%p]"
-msgstr "5300:[name]拓巳[line]M-Misumi, are you gay?[%p]"
+msgstr "5300:[name]拓巳[line]「み、三住くんは、ホモなの……？」[%p]"
 
 msgid "5400:[name]三住[line]「はあ？\u3000なわけねーだろ！\u3000お前、俺の女好きを忘れたのか？」[%p]"
-msgstr "5400:[name]三住[line]Huh? Of course not! Did you forget about all those girls I'm dating?[%p]"
+msgstr "5400:[name]三住[line]「はあ？\u3000なわけねーだろ！\u3000お前、俺の女好きを忘れたのか？」[%p]"
 
 msgid "5500:[name]拓巳[line]「だ、だよね。はー、ビビった……」[%p]"
-msgstr "5500:[name]拓巳[line]R-Right. Whew. You scared me for a second.[%p]"
+msgstr "5500:[name]拓巳[line]「だ、だよね。はー、ビビった……」[%p]"
 
 msgid "5600:[name]三住[line]「ちなみに――」[%p]"
-msgstr "5600:[name]三住[line]And what's more...[%p]"
+msgstr "5600:[name]三住[line]「ちなみに――」[%p]"
 
 msgid "5700:三住くんは周囲をそっとうかがい、それから急に声を潜めた。いたずらげにニヤニヤとした笑みを浮かべる。[%p]"
-msgstr "5700:Misumi looked around to see who was nearby, before suddenly lowering his voice. He gave me a mischievous grin.[%p]"
+msgstr "5700:三住くんは周囲をそっとうかがい、それから急に声を潜めた。いたずらげにニヤニヤとした笑みを浮かべる。[%p]"
 
 msgid "5800:[name]三住[line]「昨日、このクラスの女子で３人目をオトした。誰だか聞きたいか？」[%p]"
-msgstr "5800:[name]三住[line]I slept with my third girl from this class yesterday. You want to hear who it was?[%p]"
+msgstr "5800:[name]三住[line]「昨日、このクラスの女子で３人目をオトした。誰だか聞きたいか？」[%p]"
 
 msgid "5900:[name]拓巳[line]「い、いいよ、別に……」[%p]"
-msgstr "5900:[name]拓巳[line]N-No, not really...[%p]"
+msgstr "5900:[name]拓巳[line]「い、いいよ、別に……」[%p]"
 
 msgid "6000:[name]三住[line]「んだよ、もっと興味示せよー。田中だぜ田中」[%p]"
-msgstr "6000:[name]三住[line]Aw, come on. Act interested. It was Tanaka![%p]"
+msgstr "6000:[name]三住[line]「んだよ、もっと興味示せよー。田中だぜ田中」[%p]"
 
 msgid "6100:[name]拓巳[line]「……田中って、誰？」[%p]"
-msgstr "6100:[name]拓巳[line]Who's Tanaka?[%p]"
+msgstr "6100:[name]拓巳[line]「……田中って、誰？」[%p]"
 
 msgid "6200:[name]三住[line]「お前、もうすぐ１０月だってのにいまだに同じクラスのヤツの顔覚えてねーのか」[%p]"
-msgstr "6200:[name]三住[line]It's almost October and you don't even know the names of your classmates yet?[%p]"
+msgstr "6200:[name]三住[line]「お前、もうすぐ１０月だってのにいまだに同じクラスのヤツの顔覚えてねーのか」[%p]"
 
 msgid "6300:[name]三住[line]「ま、三次元に興味ないんじゃそれも当然か」[%p]"
-msgstr "6300:[name]三住[line]Well, I guess if you're not into 3D women, that makes sense.[%p]"
+msgstr "6300:[name]三住[line]「ま、三次元に興味ないんじゃそれも当然か」[%p]"
 
 msgid "6400:呆れたように肩をすくめてため息をついている。[%p]"
-msgstr "6400:He sighed and shrugged his shoulders.[%p]"
+msgstr "6400:呆れたように肩をすくめてため息をついている。[%p]"
 
 msgid "6500:ただ、彼はこれまで一度として、僕の趣味――つまり僕が二次元キャラが好きなことなどを侮辱したことがない。[%p]"
-msgstr "6500:The one thing I could say for him was this: He'd never insulted my hobby. That is, my love of 2D characters.[%p]"
+msgstr "6500:ただ、彼はこれまで一度として、僕の趣味――つまり僕が二次元キャラが好きなことなどを侮辱したことがない。[%p]"
 
 msgid "6600:“キモい”って言ったりしない。自分の趣味じゃないことに関しては踏み込んでこないんだ。[%p]"
-msgstr "6600:He never called me creepy. It wasn't his thing, but he never said anything about it.[%p]"
+msgstr "6600:“キモい”って言ったりしない。自分の趣味じゃないことに関しては踏み込んでこないんだ。[%p]"
 
 msgid "6700:そういうところを見ると、悪いヤツじゃないって思える。だから、彼が話しかけてくるとついつい相手をしちゃうのかもしれない。[%p]"
-msgstr "6700:In that respect, maybe he wasn't such a bad guy after all. Maybe that was why when he talked to me, I actually tried to talk back.[%p]"
+msgstr "6700:そういうところを見ると、悪いヤツじゃないって思える。だから、彼が話しかけてくるとついつい相手をしちゃうのかもしれない。[%p]"
 
 msgid "6800:[name]三住[line]「これでウチのクラスのかわいい女はほぼ攻略完了だ」[%p]"
-msgstr "6800:[name]三住[line]That takes care of almost all the cute girls in this class.[%p]"
+msgstr "6800:[name]三住[line]「これでウチのクラスのかわいい女はほぼ攻略完了だ」[%p]"
 
 msgid "6900:[name]三住[line]「そろそろ隣のクラスにも守備範囲広げようかって思ってんだよ」[%p]"
-msgstr "6900:[name]三住[line]I'm thinking of moving on to the girls in the next class over.[%p]"
+msgstr "6900:[name]三住[line]「そろそろ隣のクラスにも守備範囲広げようかって思ってんだよ」[%p]"
 
 msgid "7000:……ホントに悪いヤツじゃないんだろうか。[linebreak]これは女子に聞かれたら相当ひんしゅくものだと思うけど。[%p]"
-msgstr "7000:Maybe he was a bad guy after all. At least, that's what the girls would think if they heard him.[%p]"
+msgstr "7000:……ホントに悪いヤツじゃないんだろうか。[linebreak]これは女子に聞かれたら相当ひんしゅくものだと思うけど。[%p]"
 
 msgid "7100:[name]三住[line]「Ｄ組によー、滅多に学校来ねーけどすごくいい女がいるらしいんだよ」[%p]"
-msgstr "7100:[name]三住[line]There's this really cute girl in Class D who almost never comes to school.[%p]"
+msgstr "7100:[name]三住[line]「Ｄ組によー、滅多に学校来ねーけどすごくいい女がいるらしいんだよ」[%p]"
 
 msgid "7200:[name]三住[line]「なんかそーいうの燃えねえか？」[%p]"
-msgstr "7200:[name]三住[line]That's kind of hot, don't you think?[%p]"
+msgstr "7200:[name]三住[line]「なんかそーいうの燃えねえか？」[%p]"
 
 msgid "7300:[name]三住[line]「あ、お前の場合は燃えるんじゃなくて、萌え〜、だっけか」[%p]"
-msgstr "7300:[name]三住[line]Oh, I guess you would say it's “moe,” not “hot,” right?[%p]"
+msgstr "7300:[name]三住[line]「あ、お前の場合は燃えるんじゃなくて、萌え〜、だっけか」[%p]"
 
 msgid "7400:……意味も知らないくせに安易に使わないでほしいね、その言葉を。[%p]"
-msgstr "7400:Don't use that word when you don't even know what it means.[%p]"
+msgstr "7400:……意味も知らないくせに安易に使わないでほしいね、その言葉を。[%p]"
 
 msgid "7500:[name]三住[line]「ま、お前の興味ねー話はそろそろやめるか」[%p]"
-msgstr "7500:[name]三住[line]Anyway, I know you don't care about this stuff, so I'll stop talking about it.[%p]"
+msgstr "7500:[name]三住[line]「ま、お前の興味ねー話はそろそろやめるか」[%p]"
 
 msgid "7600:[name]三住[line]「じゃあよ、ニュージェネの話知ってるだろ？」[%p]"
-msgstr "7600:[name]三住[line]So, you heard about NewGen?[%p]"
+msgstr "7600:[name]三住[line]「じゃあよ、ニュージェネの話知ってるだろ？」[%p]"
 
 msgid "7700:その単語が彼の口から出てきたことは、正直なところ意外だった。"
-msgstr "7700:To be honest, I was really surprised to hear that from him."
+msgstr "7700:その単語が彼の口から出てきたことは、正直なところ意外だった。"
 
 msgid "7800:[linebreak]彼は女のことしか考えていない人間だって思っていたから。[%p]"
-msgstr "7800:[linebreak]I thought he was only interested in chasing skirts.[%p]"
+msgstr "7800:[linebreak]彼は女のことしか考えていない人間だって思っていたから。[%p]"
 
 msgid "7900:その単語が彼の口から出てきたことは、正直なところ意外だった。[linebreak]彼は女のことしか考えていない人間だって思っていたから。"
-msgstr "7900:To be honest, I was really surprised to hear that from him. I thought he was only interested in chasing skirts."
+msgstr "7900:その単語が彼の口から出てきたことは、正直なところ意外だった。[linebreak]彼は女のことしか考えていない人間だって思っていたから。"
 
 msgid "8000:三住くんがニュースや新聞を見ている姿なんて想像できない。[%p]"
-msgstr "8000:I couldn't imagine him looking at a newspaper or reading the news.[%p]"
+msgstr "8000:三住くんがニュースや新聞を見ている姿なんて想像できない。[%p]"
 
 msgid "8100:[name]三住[line]「集団ダイブの事件さ、あれも噂によると殺人らしいぜ」[%p]"
-msgstr "8100:[name]三住[line]That Group Dive, they say it was actually a murder.[%p]"
+msgstr "8100:[name]三住[line]「集団ダイブの事件さ、あれも噂によると殺人らしいぜ」[%p]"
 
 msgid "8200:[name]拓巳[line]「へ、へえ……」[%p]"
-msgstr "8200:[name]拓巳[line]H-Huh...[%p]"
+msgstr "8200:[name]拓巳[line]「へ、へえ……」[%p]"
 
 msgid "8300:[name]三住[line]「マジだって。書いてあったんだよ、スポ東に」[%p]"
-msgstr "8300:[name]三住[line]I mean it! It was in Sports Tokyo.[%p]"
+msgstr "8300:[name]三住[line]「マジだって。書いてあったんだよ、スポ東に」[%p]"
 
 msgid "8400:なんだ、スポ東が[color index="A0FF0000"]ソース[color index="800000"]か……。[linebreak]それじゃ信憑性ゼロじゃないか。[%p]"
-msgstr "8400:Wait, Sports Tokyo was his [color index="A0FF0000"]source[color index="800000"]? Who could believe a thing written in that paper?[%p]"
+msgstr "8400:なんだ、スポ東が[color index="A0FF0000"]ソース[color index="800000"]か……。[linebreak]それじゃ信憑性ゼロじゃないか。[%p]"
 
 msgid "8500:それにその情報は僕だって知ってる。興味はないけど。[%p]"
-msgstr "8500:And anyway, I already knew that. And also, I didn't care.[%p]"
+msgstr "8500:それにその情報は僕だって知ってる。興味はないけど。[%p]"
 
 msgid "8600:[name]三住[line]「で、聞いて驚け？\u3000その殺人鬼が女で、しかもかなり美人だって目撃証言があんだよっ」[%p]"
-msgstr "8600:[name]三住[line]And get this... The killer was a girl. And a hot one too, according to the witnesses.[%p]"
+msgstr "8600:[name]三住[line]「で、聞いて驚け？\u3000その殺人鬼が女で、しかもかなり美人だって目撃証言があんだよっ」[%p]"
 
 msgid "8700:[name]拓巳[line]「女……」[%p]"
-msgstr "8700:[name]拓巳[line]A girl...[%p]"
+msgstr "8700:[name]拓巳[line]「女……」[%p]"
 
 msgid "8800:興奮気味に言う三住くんを見て、ようやく合点がいった。"
-msgstr "8800:As I looked at the excitement on Misumi's face, I finally understood it."
+msgstr "8800:興奮気味に言う三住くんを見て、ようやく合点がいった。"
 
 msgid "8900:[linebreak]どうして三住くんは、普段見向きもしないスポ東を突然読んだのか。[%p]"
-msgstr "8900:[linebreak]So that's what compelled him to actually pick up a newspaper.[%p]"
+msgstr "8900:[linebreak]どうして三住くんは、普段見向きもしないスポ東を突然読んだのか。[%p]"
 
 msgid "9000:興奮気味に言う三住くんを見て、ようやく合点がいった。どうして三住くんは、普段見向きもしないスポ東を突然読んだのか。"
-msgstr "9000:As I looked at the excitement on Misumi's face, I finally understood it. So that's what compelled him to actually pick up a newspaper."
+msgstr "9000:興奮気味に言う三住くんを見て、ようやく合点がいった。どうして三住くんは、普段見向きもしないスポ東を突然読んだのか。"
 
 msgid "9100:結局は女がらみっていうことだ。当然と言えば当然のオチ。[%p]"
-msgstr "9100:It was a girl. It only made sense, I thought to myself.[%p]"
+msgstr "9100:結局は女がらみっていうことだ。当然と言えば当然のオチ。[%p]"
 
 msgid "9200:それにしても、かわいければ人殺し相手でも三住くん的にはＯＫなのかな……。[%p]"
-msgstr "9200:Wait, did that mean he was okay with dating a murderer, as long as they were cute?[%p]"
+msgstr "9200:それにしても、かわいければ人殺し相手でも三住くん的にはＯＫなのかな……。[%p]"
 
 msgid "9300:僕としても、二次元キャラならアリだけど……。[%p]"
-msgstr "9300:I could see myself going for that, if it was a 2D girl, but...[%p]"
+msgstr "9300:僕としても、二次元キャラならアリだけど……。[%p]"
 
 msgid "9400:三住くんは窓の外の青空を見やり、遠い目をした。[%p]"
-msgstr "9400:Misumi was looking out the window and off into the distant sky.[%p]"
+msgstr "9400:三住くんは窓の外の青空を見やり、遠い目をした。[%p]"
 
 msgid "9500:なんだろう、悟りでも開いたような顔つきだ。[%p]"
-msgstr "9500:He looked like he was on the cusp of achieving some great enlightenment.[%p]"
+msgstr "9500:なんだろう、悟りでも開いたような顔つきだ。[%p]"
 
 msgid "9600:[name]三住[line]「どんなヤツなんだろうな、犯人って。[linebreak]ホントに美人なのかな。会ってみてー」[%p]"
-msgstr "9600:[name]三住[line]I wonder what the killer's like? Is she really hot, you think? I'd love to meet her.[%p]"
+msgstr "9600:[name]三住[line]「どんなヤツなんだろうな、犯人って。[linebreak]ホントに美人なのかな。会ってみてー」[%p]"
 
 msgid "9700:こいつは下半身だけで生きてるって、今確信した。[%p]"
-msgstr "9700:This was a man who made all his decisions with his little head. I was sure of this now.[%p]"
+msgstr "9700:こいつは下半身だけで生きてるって、今確信した。[%p]"
 
 msgid "9800:[name]三住[line]「俺だけは殺されねー自信があんだよなー。だってほら、俺ってかっこいーだろ？\u3000いくら連続殺人鬼でも、俺みたいないい男に会ったらコロッと惚れちゃうぜ」[%p]"
-msgstr "9800:[name]三住[line]She might kill other people, but she wouldn't kill me. I'm sure of that. I mean, just look at how cool I am, right? Even a serial killer would fall in love with me.[%p]"
+msgstr "9800:[name]三住[line]「俺だけは殺されねー自信があんだよなー。だってほら、俺ってかっこいーだろ？\u3000いくら連続殺人鬼でも、俺みたいないい男に会ったらコロッと惚れちゃうぜ」[%p]"
 
 msgid "9900:だから殺されない、って……？[%p]"
-msgstr "9900:And then she wouldn't kill him, he thought?[%p]"
+msgstr "9900:だから殺されない、って……？[%p]"
 
 msgid "10000:予想の斜め上を行くお花畑な思考回路だよ。[%p]"
-msgstr "10000:Man, talk about an optimist.[%p]"
+msgstr "10000:予想の斜め上を行くお花畑な思考回路だよ。[%p]"
 
 msgid "10100:なんのてらいもなく爽やかにそう言える三住くんに、僕はドン引きした。[%p]"
-msgstr "10100:I found myself feeling scared by how confident he looked.[%p]"
+msgstr "10100:なんのてらいもなく爽やかにそう言える三住くんに、僕はドン引きした。[%p]"
 
 msgid "10200:[name]拓巳[line]「ぼ、僕は……興味ないから……」[%p]"
-msgstr "10200:[name]拓巳[line]I-I don't really care.[%p]"
+msgstr "10200:[name]拓巳[line]「ぼ、僕は……興味ないから……」[%p]"
 
 msgid "10300:[name]三住[line]「でもよ、興味ないっつったって、犯人はぜってーこの辺ウロウロしてんだぞ？\u3000どっかですれ違ってたりするかもしんねーし」[%p]"
-msgstr "10300:[name]三住[line]Sure, maybe not. But you know she's probably around this town somewhere, right? You might pass her by any minute.[%p]"
+msgstr "10300:[name]三住[line]「でもよ、興味ないっつったって、犯人はぜってーこの辺ウロウロしてんだぞ？\u3000どっかですれ違ってたりするかもしんねーし」[%p]"
 
 msgid "10400:もしかしたら、三住くんが犯人だったりして。[%p]"
-msgstr "10400:Maybe Misumi was the killer.[%p]"
+msgstr "10400:もしかしたら、三住くんが犯人だったりして。[%p]"
 
 msgid "10500:いや、さすがにそれはないだろうけど、でもこの学校の生徒の可能性はなきにしもあらずかも……。[%p]"
-msgstr "10500:No, that was probably impossible. But I couldn't rule out the possibility that the killer was somebody from this school...[%p]"
+msgstr "10500:いや、さすがにそれはないだろうけど、でもこの学校の生徒の可能性はなきにしもあらずかも……。[%p]"
 
 msgid "10600:もしそうだったとしたら“[color index="A0FF0000"]ＰＴＳＤ[color index="800000"]になりました”とか言って、出席日数が足りなくても卒業できるように工作しようかな。[%p]"
-msgstr "10600:If that turned out to be the case, maybe I could come up with something about how I'd gotten [color index="A0FF0000"]PTSD[color index="800000"] and be able to graduate without having to go to school.[%p]"
+msgstr "10600:もしそうだったとしたら“[color index="A0FF0000"]ＰＴＳＤ[color index="800000"]になりました”とか言って、出席日数が足りなくても卒業できるように工作しようかな。[%p]"
 
 msgid "10700:[name]三住[line]「なあ、今日俺と一緒に殺人現場見に行かね？\u3000ここから歩いて行けんだってよ。まだ血とか残ってるらしいぞ」[%p]"
-msgstr "10700:[name]三住[line]Hey, want to go see the crime scene with me? It's within walking distance of the school. They say you can still see the blood.[%p]"
+msgstr "10700:[name]三住[line]「なあ、今日俺と一緒に殺人現場見に行かね？\u3000ここから歩いて行けんだってよ。まだ血とか残ってるらしいぞ」[%p]"
 
 msgid "10800:そんなのまったくこれっぽっちも興味はなかった。[%p]"
-msgstr "10800:I didn't feel interested in the slightest.[%p]"
+msgstr "10800:そんなのまったくこれっぽっちも興味はなかった。[%p]"
 
 msgid "10900:僕は平穏無事に授業を受けて、さっさと家に帰って、星来たんにただいまって挨拶して、僕が神になれる世界へ戻りたいんだ。[%p]"
-msgstr "10900:My goal for today was to get through my classes without any trouble, go home to Seira-tan, and then go back inside the world where I was God.[%p]"
+msgstr "10900:僕は平穏無事に授業を受けて、さっさと家に帰って、星来たんにただいまって挨拶して、僕が神になれる世界へ戻りたいんだ。[%p]"
 
 msgid "11000:[name]三住[line]「もう小橋と長谷川は見に行ったって言ってたしよ」[%p]"
-msgstr "11000:[name]三住[line]Kobashi and Hasegawa said they went already, too.[%p]"
+msgstr "11000:[name]三住[line]「もう小橋と長谷川は見に行ったって言ってたしよ」[%p]"
 
 msgid "11100:[name]拓巳[line]「ホントに、興味ないんだ……」[%p]"
-msgstr "11100:[name]拓巳[line]I mean it. I don't care.[%p]"
+msgstr "11100:[name]拓巳[line]「ホントに、興味ないんだ……」[%p]"
 
 msgid "11200:すっかり盛り上がっている三住くんには悪いけど、付き合っていられない。[%p]"
-msgstr "11200:I hated to disappoint Misumi when he was so excited, but I had no intention of going.[%p]"
+msgstr "11200:すっかり盛り上がっている三住くんには悪いけど、付き合っていられない。[%p]"
 
 msgid "11300:だからなんとか断りを入れようと声を絞り出したけど、[linebreak]彼は聞いてなかった。[%p]"
-msgstr "11300:I opened my mouth to squeak out some excuse, but he wasn't listening.[%p]"
+msgstr "11300:だからなんとか断りを入れようと声を絞り出したけど、[linebreak]彼は聞いてなかった。[%p]"
 
 msgid "11400:[name]三住[line]「そしたら犯人とバッタリ会っちゃったりしてな。[linebreak]犯人は犯行現場に戻ってくるってよく言うだろ？」[%p]"
-msgstr "11400:[name]三住[line]Maybe I'll run into her when we get there. You know, they say the criminal returns to the scene of the crime and stuff.[%p]"
+msgstr "11400:[name]三住[line]「そしたら犯人とバッタリ会っちゃったりしてな。[linebreak]犯人は犯行現場に戻ってくるってよく言うだろ？」[%p]"
 
 msgid "11500:[name]三住[line]「で、次はタクがターゲットにされるんだ。死をもって罪を償え、みたいな。罪状は、そうだなぁ……引きこもってたからってことで」[%p]"
-msgstr "11500:[name]三住[line]I guess you'd be her next target, then. “Atone for your sins with death!” Like that. Your sins can be... I don't know, being a hikikomori, I guess.[%p]"
+msgstr "11500:[name]三住[line]「で、次はタクがターゲットにされるんだ。死をもって罪を償え、みたいな。罪状は、そうだなぁ……引きこもってたからってことで」[%p]"
 
 msgid "11600:[name]拓巳[line]「…………」[%p]"
-msgstr "11600:[name]拓巳[line]...[%p]"
+msgstr "11600:[name]拓巳[line]「…………」[%p]"
 

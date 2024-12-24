@@ -10,149 +10,149 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:外の冷たい空気に当たると、頭痛が少しやわらいだ。[%p]"
-msgstr "0:The cold wind outside made my headache feel a little better.[%p]"
+msgstr "0:外の冷たい空気に当たると、頭痛が少しやわらいだ。[%p]"
 
 msgid "100:街にはいつもよりも落ち着かない雰囲気が漂っている。やっぱりさっきの地震の影響なのかな……。[%p]"
-msgstr "100:Shibuya seemed more tense than usual. Maybe it was the earthquake...[%p]"
+msgstr "100:街にはいつもよりも落ち着かない雰囲気が漂っている。やっぱりさっきの地震の影響なのかな……。[%p]"
 
 msgid "200:遠くでサイレンの音が途切れることなく響き続けている。消防車のものなのか、救急車のものなのかは判断がつかない。たぶん両方だろう。[%p]"
-msgstr "200:I could hear the sounds of sirens in the distance. When one stopped, another started. I couldn't tell if they were firetrucks or ambulances. Probably both.[%p]"
+msgstr "200:遠くでサイレンの音が途切れることなく響き続けている。消防車のものなのか、救急車のものなのかは判断がつかない。たぶん両方だろう。[%p]"
 
 msgid "300:僕が今歩いている道を一本隔てて走っている山手通りは、すごく渋滞していた。[%p]"
-msgstr "300:Yamate Street, just one street over from where I was walking, was at a standstill.[%p]"
+msgstr "300:僕が今歩いている道を一本隔てて走っている山手通りは、すごく渋滞していた。[%p]"
 
 msgid "400:何台かの車が正面衝突の事故を起こしていて、そのまま道路に放置されている。運転手の姿は見当たらなかった。[%p]"
-msgstr "400:Several cars had been in head-on collisions and abandoned where they sat. There was no sign of the drivers.[%p]"
+msgstr "400:何台かの車が正面衝突の事故を起こしていて、そのまま道路に放置されている。運転手の姿は見当たらなかった。[%p]"
 
 msgid "500:渋滞が起きているのはその放置された車のせいで、他のドライバーたちはみんな狂ったようにクラクションを鳴らし続けている。[%p]"
-msgstr "500:The abandoned cars were blocking the road and causing a traffic jam. The other drivers were furiously banging on their horns.[%p]"
+msgstr "500:渋滞が起きているのはその放置された車のせいで、他のドライバーたちはみんな狂ったようにクラクションを鳴らし続けている。[%p]"
 
 msgid "600:学校に向けてフラフラと歩いていたら、目の前を一匹の犬が吠えながら横切っていく。[%p]"
-msgstr "600:As I slowly and unsteadily walked toward the school, a dog ran past me, howling.[%p]"
+msgstr "600:学校に向けてフラフラと歩いていたら、目の前を一匹の犬が吠えながら横切っていく。[%p]"
 
 msgid "700:そのチワワは目を血走らせ、リードを引きずりながら小さい身体で全力疾走をしていた。[%p]"
-msgstr "700:It was a chihuahua with bloodshot eyes. Its tiny body was running at full speed, dragging a leash behind it.[%p]"
+msgstr "700:そのチワワは目を血走らせ、リードを引きずりながら小さい身体で全力疾走をしていた。[%p]"
 
 msgid "800:開いた口から大量のよだれが垂れている。[linebreak]飼い主とはぐれたんだろうか。[%p]"
-msgstr "800:Drool was pouring from its open mouth. Had it gotten separated from its owner?[%p]"
+msgstr "800:開いた口から大量のよだれが垂れている。[linebreak]飼い主とはぐれたんだろうか。[%p]"
 
 msgid "900:それを呆然と見送っていたら、つまずいて転びそうになった。[%p]"
-msgstr "900:As I watched it, distractedly, I stumbled over something and almost fell.[%p]"
+msgstr "900:それを呆然と見送っていたら、つまずいて転びそうになった。[%p]"
 
 msgid "1000:アスファルトにひび割れがあって、わずかに段差ができていた。[%p]"
-msgstr "1000:There was a crack in the ground. That's what I'd tripped on.[%p]"
+msgstr "1000:アスファルトにひび割れがあって、わずかに段差ができていた。[%p]"
 
 msgid "1100:これ、地震のせいでできたものなのかな。[%p]"
-msgstr "1100:Did the earthquake cause it?[%p]"
+msgstr "1100:これ、地震のせいでできたものなのかな。[%p]"
 
 msgid "1200:その場に立ち止まり、空を見上げてみる。[%p]"
-msgstr "1200:I stopped and looked up at the sky.[%p]"
+msgstr "1200:その場に立ち止まり、空を見上げてみる。[%p]"
 
 msgid "1300:今はくすんだ水色の中に小さな雲がいくつか、のんびりと漂っているだけだ。[%p]"
-msgstr "1300:There were several clouds now, lazily traveling through the muddy blue sky.[%p]"
+msgstr "1300:今はくすんだ水色の中に小さな雲がいくつか、のんびりと漂っているだけだ。[%p]"
 
 msgid "1400:地震の直後は、まるでオーロラみたいに白く染まっていたらしいけど、その痕跡はもうどこにも見ることができない。[%p]"
-msgstr "1400:Supposedly the sky had gone white like an aurora right after the quake, but there were no traces left of that now.[%p]"
+msgstr "1400:地震の直後は、まるでオーロラみたいに白く染まっていたらしいけど、その痕跡はもうどこにも見ることができない。[%p]"
 
 msgid "1500:――いつもの渋谷じゃない。[%p]"
-msgstr "1500:This wasn't the Shibuya I knew.[%p]"
+msgstr "1500:――いつもの渋谷じゃない。[%p]"
 
 msgid "1600:ひどく、落ち着かない気分だ。[%p]"
-msgstr "1600:I felt really tense and uneasy.[%p]"
+msgstr "1600:ひどく、落ち着かない気分だ。[%p]"
 
 msgid "1700:地震の影響……だけじゃない。[linebreak]頭痛のせい……だけでもない。[%p]"
-msgstr "1700:It wasn't just the earthquake. It wasn't just the headache.[%p]"
+msgstr "1700:地震の影響……だけじゃない。[linebreak]頭痛のせい……だけでもない。[%p]"
 
 msgid "1800:それだけじゃなくて、[linebreak]衝動に襲われそうになる。[%p]"
-msgstr "1800:It wasn't just those things. It felt like a terrible urge was going to overcome me at any second.[%p]"
+msgstr "1800:それだけじゃなくて、[linebreak]衝動に襲われそうになる。[%p]"
 
 msgid "1900:こうして歩いているだけで、なぜか、とても、[%p]"
-msgstr "1900:Just walking down the street, for some reason...[%p]"
+msgstr "1900:こうして歩いているだけで、なぜか、とても、[%p]"
 
 msgid "2000:誰かを、殺してしまいたくなるような――[%p]"
-msgstr "2000:made me want to kill someone.[%p]"
+msgstr "2000:誰かを、殺してしまいたくなるような――[%p]"
 
 msgid "2100:校門の前まで辿り着いた頃には、不安や恐怖心はますます強くなっていた。[%p]"
-msgstr "2100:By the time I reached the school gate, the terror and fear within me had grown even stronger.[%p]"
+msgstr "2100:校門の前まで辿り着いた頃には、不安や恐怖心はますます強くなっていた。[%p]"
 
 msgid "2200:寒気がする。[linebreak]身体の震えが止まらない。[linebreak]頭痛がまたぶり返す。[%p]"
-msgstr "2200:I felt so cold that my body wouldn't stop shaking. My headache had come back.[%p]"
+msgstr "2200:寒気がする。[linebreak]身体の震えが止まらない。[linebreak]頭痛がまたぶり返す。[%p]"
 
 msgid "2300:よく見ると、３年生の校舎のあたりに人だかりができている。[%p]"
-msgstr "2300:I could see a crowd near the third-year students' building.[%p]"
+msgstr "2300:よく見ると、３年生の校舎のあたりに人だかりができている。[%p]"
 
 msgid "2400:そこに梨深の姿を探した。[%p]"
-msgstr "2400:I looked for Rimi there.[%p]"
+msgstr "2400:そこに梨深の姿を探した。[%p]"
 
 msgid "2500:不思議なことに、みんながみんな、倣ったように校舎の上の方を仰ぎ見ている。[%p]"
-msgstr "2500:Strangely, they were all looking up at the school building.[%p]"
+msgstr "2500:不思議なことに、みんながみんな、倣ったように校舎の上の方を仰ぎ見ている。[%p]"
 
 msgid "2600:[name]三住[line]「お、タク！」[%p]"
-msgstr "2600:[name]三住[line]Hey, Taku![%p]"
+msgstr "2600:[name]三住[line]「お、タク！」[%p]"
 
 msgid "2700:僕に駆け寄ってきたのは、三住くんだった。[%p]"
-msgstr "2700:Misumi ran up to me.[%p]"
+msgstr "2700:僕に駆け寄ってきたのは、三住くんだった。[%p]"
 
 msgid "2800:ちょうどいい、梨深がどこにいるか、彼に聞けば……[%p]"
-msgstr "2800:Good, I could ask him where Rimi was.[%p]"
+msgstr "2800:ちょうどいい、梨深がどこにいるか、彼に聞けば……[%p]"
 
 msgid "2900:[name]三住[line]「お前今日学校来てたんだな」[%p]"
-msgstr "2900:[name]三住[line]I didn't realize you'd come to school today.[%p]"
+msgstr "2900:[name]三住[line]「お前今日学校来てたんだな」[%p]"
 
 msgid "3000:[name]三住[line]「いや、そんなん今はどうでもいいか……」[%p]"
-msgstr "3000:[name]三住[line]No, I guess that doesn't matter now.[%p]"
+msgstr "3000:[name]三住[line]「いや、そんなん今はどうでもいいか……」[%p]"
 
 msgid "3100:やけに深刻そうで、表情も青ざめている。[linebreak]こんなに動揺している三住くんは珍しい。[%p]"
-msgstr "3100:He looked pale, and his expression was deadly serious. It was rare to see Misumi so badly shaken.[%p]"
+msgstr "3100:やけに深刻そうで、表情も青ざめている。[linebreak]こんなに動揺している三住くんは珍しい。[%p]"
 
 msgid "3200:いったいどうしたんだろう。[%p]"
-msgstr "3200:What had happened?[%p]"
+msgstr "3200:いったいどうしたんだろう。[%p]"
 
 msgid "3300:[name]三住[line]「マジで……やばいよな、あれ……」[%p]"
-msgstr "3300:[name]三住[line]It's bad, man. It's really bad.[%p]"
+msgstr "3300:[name]三住[line]「マジで……やばいよな、あれ……」[%p]"
 
 msgid "3400:やばい？[linebreak]なにが？[%p]"
-msgstr "3400:Bad? What was bad?[%p]"
+msgstr "3400:やばい？[linebreak]なにが？[%p]"
 
 msgid "3500:[name]生徒Ａ[line]「病気だったんだろ？」[%p]"
-msgstr "3500:[name]生徒Ａ[line]She was sick, right?[%p]"
+msgstr "3500:[name]生徒Ａ[line]「病気だったんだろ？」[%p]"
 
 msgid "3600:[name]生徒Ｂ[line]「精神病のことがバレて、余計におかしくなっちゃったらしいぜ」[%p]"
-msgstr "3600:[name]生徒Ｂ[line]I heard they found out about her mental illness and she went even crazier.[%p]"
+msgstr "3600:[name]生徒Ｂ[line]「精神病のことがバレて、余計におかしくなっちゃったらしいぜ」[%p]"
 
 msgid "3700:[name]生徒Ａ[line]「さっき飛べるとか言ってたぜ。ヤベーよ、やばすぎる……へへへ」[%p]"
-msgstr "3700:[name]生徒Ａ[line]She was saying she could fly! Just crazy... crazy. Heheh.[%p]"
+msgstr "3700:[name]生徒Ａ[line]「さっき飛べるとか言ってたぜ。ヤベーよ、やばすぎる……へへへ」[%p]"
 
 msgid "3800:[name]生徒Ｂ[line]「俺、人が死ぬとこマジで見てぇんだけど」[%p]"
-msgstr "3800:[name]生徒Ｂ[line]I'd love to see somebody die.[%p]"
+msgstr "3800:[name]生徒Ｂ[line]「俺、人が死ぬとこマジで見てぇんだけど」[%p]"
 
 msgid "3900:[name]生徒Ａ[line]「きっとグロすぎて最高だぜ……」[%p]"
-msgstr "3900:[name]生徒Ａ[line]I'm sure it's disgusting and totally awesome.[%p]"
+msgstr "3900:[name]生徒Ａ[line]「きっとグロすぎて最高だぜ……」[%p]"
 
 msgid "4000:[name]生徒Ｂ[line]「早く落ちてこねえかな……」[%p]"
-msgstr "4000:[name]生徒Ｂ[line]I hope she falls soon.[%p]"
+msgstr "4000:[name]生徒Ｂ[line]「早く落ちてこねえかな……」[%p]"
 
 msgid "4100:周囲からも、そんな話し声が僕の耳に入ってくる。[%p]"
-msgstr "4100:I could hear voices around me saying those things.[%p]"
+msgstr "4100:周囲からも、そんな話し声が僕の耳に入ってくる。[%p]"
 
 msgid "4200:もしかして……[%p]"
-msgstr "4200:Could it be...[%p]"
+msgstr "4200:もしかして……[%p]"
 
 msgid "4300:イヤな予感がした。[%p]"
-msgstr "4300:A terrible thought ran through my mind.[%p]"
+msgstr "4300:イヤな予感がした。[%p]"
 
 msgid "4400:周囲の生徒たちの視線を追って、僕も恐る恐る、校舎を見上げる。[%p]"
-msgstr "4400:I looked up, slowly, to where the rest of the students were looking.[%p]"
+msgstr "4400:周囲の生徒たちの視線を追って、僕も恐る恐る、校舎を見上げる。[%p]"
 
 msgid "4500:屋上の縁に――[%p]"
-msgstr "4500:At the edge of the roof...[%p]"
+msgstr "4500:屋上の縁に――[%p]"
 
 msgid "4600:ひとりの女子が立っていた。[%p]"
-msgstr "4600:was a girl.[%p]"
+msgstr "4600:ひとりの女子が立っていた。[%p]"
 
 msgid "4700:手には、ライブのときと同じ、あのディソードを持って。[linebreak]天上の神に祈りを捧げるかのような姿勢で。[%p]"
-msgstr "4700:She was holding the Di-Sword, just like she had in her concert. She was standing there like she was offering a prayer to God in Heaven.[%p]"
+msgstr "4700:手には、ライブのときと同じ、あのディソードを持って。[linebreak]天上の神に祈りを捧げるかのような姿勢で。[%p]"
 
 msgid "4800:岸本あやせが、立っていた。[%p]"
-msgstr "4800:It was Ayase Kishimoto.[%p]"
+msgstr "4800:岸本あやせが、立っていた。[%p]"
 

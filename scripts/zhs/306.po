@@ -10,410 +10,410 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]梨深[line]「あたしの最初の記憶は、落ちてくる雨と、空を覆い隠したどんよりとした雲」[%p]"
-msgstr "0:[name]梨深[line]My first memories are of falling rain, and gray clouds covering the sky.[%p]"
+msgstr "0:[name]梨深[line]「あたしの最初の記憶は、落ちてくる雨と、空を覆い隠したどんよりとした雲」[%p]"
 
 msgid "100:それは、いつのことだろう。[linebreak]あたしがまだ小学生だった頃。[linebreak]今から６年ぐらい前？[%p]"
-msgstr "100:When was it? I was still in elementary school. Six years ago, maybe?[%p]"
+msgstr "100:それは、いつのことだろう。[linebreak]あたしがまだ小学生だった頃。[linebreak]今から６年ぐらい前？[%p]"
 
 msgid "200:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "200:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "200:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "300:首が吹き飛んだお父さんと、鋼鉄に挟まれて潰れているお母さんが、すぐ近くに見えた。[%p]"
-msgstr "300:I could see my dad lying there without a head, and my mom, crushed by steel.[%p]"
+msgstr "300:首が吹き飛んだお父さんと、鋼鉄に挟まれて潰れているお母さんが、すぐ近くに見えた。[%p]"
 
 msgid "400:ついさっきまで、家族で旅行に出かけることが嬉しくて、車の中ではしゃいでいたけど。[%p]"
-msgstr "400:A second ago we'd all been in the car, happy to go on a family trip.[%p]"
+msgstr "400:ついさっきまで、家族で旅行に出かけることが嬉しくて、車の中ではしゃいでいたけど。[%p]"
 
 msgid "500:大きなトラックが目の前に迫ってきて、気が付けばあたしが乗っていた車はぐしゃぐしゃになっていた。[%p]"
-msgstr "500:And then a big truck came out of nowhere, and the next thing I knew, it squashed the car flat.[%p]"
+msgstr "500:大きなトラックが目の前に迫ってきて、気が付けばあたしが乗っていた車はぐしゃぐしゃになっていた。[%p]"
 
 msgid "600:身体が千切れそうなくらいに痛くて、意識はぼんやりしていて。[linebreak]耳には、車の激しいブレーキ音が延々とリフレインされていた。[%p]"
-msgstr "600:It hurt so bad, like my whole body had been torn apart. I could barely stay awake. I could still hear the sound of the squealing car brakes, playing again and again in my ears.[%p]"
+msgstr "600:身体が千切れそうなくらいに痛くて、意識はぼんやりしていて。[linebreak]耳には、車の激しいブレーキ音が延々とリフレインされていた。[%p]"
 
 msgid "700:[name]梨深[line]「次の記憶は、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "700:[name]梨深[line]My next memories are of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "700:[name]梨深[line]「次の記憶は、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "800:それは、いつのことだろう。[linebreak]事故で両親を失ってすぐ。[linebreak]今から５年ぐらい前？[%p]"
-msgstr "800:When was it? Right after I lost my parents. Five years ago, maybe?[%p]"
+msgstr "800:それは、いつのことだろう。[linebreak]事故で両親を失ってすぐ。[linebreak]今から５年ぐらい前？[%p]"
 
 msgid "900:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "900:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "900:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "1000:[name]野呂瀬[line]「――担当医に、剣のようなものが見えた、と言ったそうですね」[%p]"
-msgstr "1000:[name]野呂瀬[line]You told your doctor you saw something like a sword, didn't you?[%p]"
+msgstr "1000:[name]野呂瀬[line]「――担当医に、剣のようなものが見えた、と言ったそうですね」[%p]"
 
 msgid "1100:[name]野呂瀬[line]「聞こえていますか？\u3000※△＃＋％さん」[%p]"
-msgstr "1100:[name]野呂瀬[line]Can you hear me, Miss *%#$%?[%p]"
+msgstr "1100:[name]野呂瀬[line]「聞こえていますか？\u3000※△＃＋％さん」[%p]"
 
 msgid "1200:名前を呼ばれたような気がした。[linebreak]けれど、今はもう、その名前を思い出すことはできない。[linebreak]すでに“死んだ名前”だから。[%p]"
-msgstr "1200:It felt like he called my name. But I can't remember what that name was. That name was already dead.[%p]"
+msgstr "1200:名前を呼ばれたような気がした。[linebreak]けれど、今はもう、その名前を思い出すことはできない。[linebreak]すでに“死んだ名前”だから。[%p]"
 
 msgid "1300:[name]野呂瀬[line]「まだ傷が癒えていないようですね。ご両親が目の前で亡くなったのもショックでしたか」[%p]"
-msgstr "1300:[name]野呂瀬[line]Your wounds haven't healed yet, it seems. Losing your parents right in front of you was traumatizing, I assume.[%p]"
+msgstr "1300:[name]野呂瀬[line]「まだ傷が癒えていないようですね。ご両親が目の前で亡くなったのもショックでしたか」[%p]"
 
 msgid "1400:[name]野呂瀬[line]「では、聞いているだけで結構」[%p]"
-msgstr "1400:[name]野呂瀬[line]Very well. Simply listen to me, then.[%p]"
+msgstr "1400:[name]野呂瀬[line]「では、聞いているだけで結構」[%p]"
 
 msgid "1500:[name]野呂瀬[line]「私は、このＡＨ東京総合病院の名誉院長でありスポンサーでもある、野呂瀬と言います」[%p]"
-msgstr "1500:[name]野呂瀬[line]My name is Norose. I'm the honorary director, and sponsor, of AH Tokyo General Hospital, the facility you're currently staying in.[%p]"
+msgstr "1500:[name]野呂瀬[line]「私は、このＡＨ東京総合病院の名誉院長でありスポンサーでもある、野呂瀬と言います」[%p]"
 
 msgid "1600:[name]野呂瀬[line]「君はギガロマニアックスである可能性があります」[%p]"
-msgstr "1600:[name]野呂瀬[line]There is a possibility that you're a Gigalomaniac.[%p]"
+msgstr "1600:[name]野呂瀬[line]「君はギガロマニアックスである可能性があります」[%p]"
 
 msgid "1700:[name]野呂瀬[line]「ぜひその力に覚醒していただきたい」[%p]"
-msgstr "1700:[name]野呂瀬[line]I'm hoping that I can get you to awaken to your power.[%p]"
+msgstr "1700:[name]野呂瀬[line]「ぜひその力に覚醒していただきたい」[%p]"
 
 msgid "1800:[name]野呂瀬[line]「幸いにも君は天涯孤独になったので、親族などの煩わしい連中も湧いてはこない」[%p]"
-msgstr "1800:[name]野呂瀬[line]Fortunately, you now have no living relatives, or anyone left who could ask unpleasant questions.[%p]"
+msgstr "1800:[name]野呂瀬[line]「幸いにも君は天涯孤独になったので、親族などの煩わしい連中も湧いてはこない」[%p]"
 
 msgid "1900:[name]野呂瀬[line]「というわけで、君は今日をもって死亡扱いとなりました。以後、この地下室で過ごしてもらいます」[%p]"
-msgstr "1900:[name]野呂瀬[line]As of today, you have been declared dead. From now on, you will live here in this basement.[%p]"
+msgstr "1900:[name]野呂瀬[line]「というわけで、君は今日をもって死亡扱いとなりました。以後、この地下室で過ごしてもらいます」[%p]"
 
 msgid "2000:[name]野呂瀬[line]「なんの心配もいりません。ここは私しか知らない部屋ですから」[%p]"
-msgstr "2000:[name]野呂瀬[line]There's nothing to be worried about. Only I know this room exists.[%p]"
+msgstr "2000:[name]野呂瀬[line]「なんの心配もいりません。ここは私しか知らない部屋ですから」[%p]"
 
 msgid "2100:[name]野呂瀬[line]「頑張って、目覚めて下さい。期待していますよ」[%p]"
-msgstr "2100:[name]野呂瀬[line]Work hard and awaken. I have such high hopes for you.[%p]"
+msgstr "2100:[name]野呂瀬[line]「頑張って、目覚めて下さい。期待していますよ」[%p]"
 
 msgid "2200:[name]野呂瀬[line]「君は実験台です。力を持つ非覚醒者を目覚めさせるためにはなにが必要か、いろいろと試させてもらいます。明日からね」[%p]"
-msgstr "2200:[name]野呂瀬[line]You are a guinea pig. We're going to try all kinds of things, to see what it takes to awaken someone with your potential power. We'll be starting tomorrow.[%p]"
+msgstr "2200:[name]野呂瀬[line]「君は実験台です。力を持つ非覚醒者を目覚めさせるためにはなにが必要か、いろいろと試させてもらいます。明日からね」[%p]"
 
 msgid "2300:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[linebreak]暗いのは、嫌いだったから。[%p]"
-msgstr "2300:I just stared into the lights hanging from the ceiling. I didn't like the dark.[%p]"
+msgstr "2300:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[linebreak]暗いのは、嫌いだったから。[%p]"
 
 msgid "2400:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "2400:[name]梨深[line]My next memories were also of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "2400:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "2500:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "2500:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "2500:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "2600:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "2600:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "2600:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "2700:[name]梨深[line]「っ……！」[%p]"
-msgstr "2700:[name]梨深[line]...![%p]"
+msgstr "2700:[name]梨深[line]「っ……！」[%p]"
 
 msgid "2800:[name]梨深[line]「ひぐっ……！」[%p]"
-msgstr "2800:[name]梨深[line]Aah...![%p]"
+msgstr "2800:[name]梨深[line]「ひぐっ……！」[%p]"
 
 msgid "2900:[name]梨深[line]「がっ……！」[%p]"
-msgstr "2900:[name]梨深[line]Gah...![%p]"
+msgstr "2900:[name]梨深[line]「がっ……！」[%p]"
 
 msgid "3000:[name]野呂瀬[line]「実に我慢強いお嬢さんですね、君は」[%p]"
-msgstr "3000:[name]野呂瀬[line]You're a very strong girl.[%p]"
+msgstr "3000:[name]野呂瀬[line]「実に我慢強いお嬢さんですね、君は」[%p]"
 
 msgid "3100:[name]野呂瀬[line]「背中の皮膚がただれて、血が出ているのに、なぜ耐えようとするのです？」[%p]"
-msgstr "3100:[name]野呂瀬[line]Your skin is rotting away. You're bleeding. Why do you still try to endure the pain?[%p]"
+msgstr "3100:[name]野呂瀬[line]「背中の皮膚がただれて、血が出ているのに、なぜ耐えようとするのです？」[%p]"
 
 msgid "3200:[name]野呂瀬[line]「早く目覚めれば、楽になると言うのに」[%p]"
-msgstr "3200:[name]野呂瀬[line]Just awaken, and it will all be over.[%p]"
+msgstr "3200:[name]野呂瀬[line]「早く目覚めれば、楽になると言うのに」[%p]"
 
 msgid "3300:[name]梨深[line]「うっ……！」[%p]"
-msgstr "3300:[name]梨深[line]Ugh...[%p]"
+msgstr "3300:[name]梨深[line]「うっ……！」[%p]"
 
 msgid "3400:[name]梨深[line]「かはっ……！」[%p]"
-msgstr "3400:[name]梨深[line]Gwah...[%p]"
+msgstr "3400:[name]梨深[line]「かはっ……！」[%p]"
 
 msgid "3500:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "3500:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "3500:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "3600:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "3600:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "3600:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "3700:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "3700:[name]梨深[line]My next memories were also of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "3700:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "3800:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "3800:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "3800:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "3900:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "3900:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "3900:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "4000:[name]梨深[line]「う、く……う……」[%p]"
-msgstr "4000:[name]梨深[line]Urgh... Ah...[%p]"
+msgstr "4000:[name]梨深[line]「う、く……う……」[%p]"
 
 msgid "4100:[name]野呂瀬[line]「痛いですか？\u3000皮膚の表面を切るだけですよ。血はたくさん出ますが、死ぬほどではありません」[%p]"
-msgstr "4100:[name]野呂瀬[line]Does it hurt? I'm simply cutting away the surface of the skin. It will bleed heavily, but not enough to be fatal.[%p]"
+msgstr "4100:[name]野呂瀬[line]「痛いですか？\u3000皮膚の表面を切るだけですよ。血はたくさん出ますが、死ぬほどではありません」[%p]"
 
 msgid "4200:[name]野呂瀬[line]「３日も放置すれば化膿してかゆみがひどいことになるでしょう。そこからが今回の実験の本番です」[%p]"
-msgstr "4200:[name]野呂瀬[line]In three days, infection will set in. And the itching will be terrible. That's when the real experiment will begin.[%p]"
+msgstr "4200:[name]野呂瀬[line]「３日も放置すれば化膿してかゆみがひどいことになるでしょう。そこからが今回の実験の本番です」[%p]"
 
 msgid "4300:[name]野呂瀬[line]「安心してください。私は医者なのでね、メスの扱いには慣れています」[%p]"
-msgstr "4300:[name]野呂瀬[line]Don't worry. I'm a doctor. I know how to use a surgical knife.[%p]"
+msgstr "4300:[name]野呂瀬[line]「安心してください。私は医者なのでね、メスの扱いには慣れています」[%p]"
 
 msgid "4400:[name]野呂瀬[line]「そうですね、１０カ所ほど切り刻みましょうか」[%p]"
-msgstr "4400:[name]野呂瀬[line]Hmm... Let's try cutting you in ten or so places.[%p]"
+msgstr "4400:[name]野呂瀬[line]「そうですね、１０カ所ほど切り刻みましょうか」[%p]"
 
 msgid "4500:[name]梨深[line]「ぁっ……！」[%p]"
-msgstr "4500:[name]梨深[line]Ah![%p]"
+msgstr "4500:[name]梨深[line]「ぁっ……！」[%p]"
 
 msgid "4600:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "4600:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "4600:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "4700:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "4700:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "4700:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "4800:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "4800:[name]梨深[line]My next memories were also of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "4800:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "4900:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "4900:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "4900:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "5000:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "5000:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "5000:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "5100:[name]梨深[line]「あ、あああああ、はあ、はあ、かゆい、[linebreak]かゆぃぃぃ、かゆいよぉぉぉぉ、はあ、ああ、ああああ……」[%p]"
-msgstr "5100:[name]梨深[line]Aaahaaah! Hahh. Hahh... It itches! It itches so much! Aaaah![%p]"
+msgstr "5100:[name]梨深[line]「あ、あああああ、はあ、はあ、かゆい、[linebreak]かゆぃぃぃ、かゆいよぉぉぉぉ、はあ、ああ、ああああ……」[%p]"
 
 msgid "5200:[name]野呂瀬[line]「そうですか。かゆいですか。しかし引っ掻くことは許しませんよ」[%p]"
-msgstr "5200:[name]野呂瀬[line]I see. It itches, does it? But you're not allowed to scratch it.[%p]"
+msgstr "5200:[name]野呂瀬[line]「そうですか。かゆいですか。しかし引っ掻くことは許しませんよ」[%p]"
 
 msgid "5300:[name]梨深[line]「う、ぁ、あああああ、かゆ、か……あああ、はあ、はあ、かゆぃ……」[%p]"
-msgstr "5300:[name]梨深[line]Aaahaaah! It... It's so itchy![%p]"
+msgstr "5300:[name]梨深[line]「う、ぁ、あああああ、かゆ、か……あああ、はあ、はあ、かゆぃ……」[%p]"
 
 msgid "5400:[name]野呂瀬[line]「人というのは実に不思議なものでしてね。痛みは意外と我慢することができるのですが、かゆみはそうでもないのです」[%p]"
-msgstr "5400:[name]野呂瀬[line]The human body is a strange thing. It has a surprisingly high pain tolerance. Prolonged itchiness, however, is something it can't tolerate.[%p]"
+msgstr "5400:[name]野呂瀬[line]「人というのは実に不思議なものでしてね。痛みは意外と我慢することができるのですが、かゆみはそうでもないのです」[%p]"
 
 msgid "5500:[name]野呂瀬[line]「痛みよりもかゆみの方が、精神をおかしくさせるには効果的かもしれませんね」[%p]"
-msgstr "5500:[name]野呂瀬[line]Perhaps itchiness, rather than pain, is the more effective method of inducing insanity.[%p]"
+msgstr "5500:[name]野呂瀬[line]「痛みよりもかゆみの方が、精神をおかしくさせるには効果的かもしれませんね」[%p]"
 
 msgid "5600:[name]梨深[line]「はあっ、はあっ、あ、うう、かゆいかゆいかゆいかゆいかゆいか――」[%p]"
-msgstr "5600:[name]梨深[line]Hahh... Hahh... It's so itchy! Itchy! Itchy![%p]"
+msgstr "5600:[name]梨深[line]「はあっ、はあっ、あ、うう、かゆいかゆいかゆいかゆいかゆいか――」[%p]"
 
 msgid "5700:[name]梨深[line]「…………」[%p]"
-msgstr "5700:[name]梨深[line]...[%p]"
+msgstr "5700:[name]梨深[line]「…………」[%p]"
 
 msgid "5800:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "5800:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "5800:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "5900:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "5900:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "5900:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "6000:そして、あたしはあたしを殺した。[%p]"
-msgstr "6000:And then, I killed myself.[%p]"
+msgstr "6000:そして、あたしはあたしを殺した。[%p]"
 
 msgid "6100:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "6100:[name]梨深[line]My next memories were also of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "6100:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "6200:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "6200:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "6200:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "6300:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "6300:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "6300:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "6400:[name]梨深[line]「はか……っ！」[%p]"
-msgstr "6400:[name]梨深[line]Gahyah![%p]"
+msgstr "6400:[name]梨深[line]「はか……っ！」[%p]"
 
 msgid "6500:[name]梨深[line]「あ、ぎ……！」[%p]"
-msgstr "6500:[name]梨深[line]Ah...![%p]"
+msgstr "6500:[name]梨深[line]「あ、ぎ……！」[%p]"
 
 msgid "6600:[name]野呂瀬[line]「ふむ。左上腕はこれで粉砕骨折、というところですか」[%p]"
-msgstr "6600:[name]野呂瀬[line]Hmph. That resulted in a compound fracture of the upper left arm, I see.[%p]"
+msgstr "6600:[name]野呂瀬[line]「ふむ。左上腕はこれで粉砕骨折、というところですか」[%p]"
 
 msgid "6700:[name]梨深[line]「う、ぁ、あぁぁぁっ……うぁぁぁ……っ！」[%p]"
-msgstr "6700:[name]梨深[line]Uwaaaah! Uwaaaaah....![%p]"
+msgstr "6700:[name]梨深[line]「う、ぁ、あぁぁぁっ……うぁぁぁ……っ！」[%p]"
 
 msgid "6800:[name]野呂瀬[line]「まだ、目覚めないとは。いったい、なにが足りないのでしょうね」[%p]"
-msgstr "6800:[name]野呂瀬[line]And yet you still don't awaken. What is it that's lacking, I wonder?[%p]"
+msgstr "6800:[name]野呂瀬[line]「まだ、目覚めないとは。いったい、なにが足りないのでしょうね」[%p]"
 
 msgid "6900:[name]野呂瀬[line]「しょうがない。今日の実験はこれぐらいにしておきましょう。ゆっくり休んでください」[%p]"
-msgstr "6900:[name]野呂瀬[line]Very well. I suppose that will have to do for today's experiments. Get some rest.[%p]"
+msgstr "6900:[name]野呂瀬[line]「しょうがない。今日の実験はこれぐらいにしておきましょう。ゆっくり休んでください」[%p]"
 
 msgid "7000:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "7000:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "7000:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "7100:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "7100:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "7100:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "7200:そして、あたしはあたしを殺した。[%p]"
-msgstr "7200:And then, I killed myself.[%p]"
+msgstr "7200:そして、あたしはあたしを殺した。[%p]"
 
 msgid "7300:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "7300:[name]梨深[line]My next memories were also of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "7300:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "7400:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "7400:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "7400:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "7500:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "7500:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "7500:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "7600:[name]梨深[line]「がっ、はっ……げっ……」[%p]"
-msgstr "7600:[name]梨深[line]Gahh... Hahh... Gwah...[%p]"
+msgstr "7600:[name]梨深[line]「がっ、はっ……げっ……」[%p]"
 
 msgid "7700:[name]梨深[line]「かはぁっ、はぁっ、はぁっ……[linebreak]げほっ、がっはっ、はぁっ……はぁっ……」[%p]"
-msgstr "7700:[name]梨深[line]Gahh... Hahh... Hahh... Cough... Hahh... Hahh...[%p]"
+msgstr "7700:[name]梨深[line]「かはぁっ、はぁっ、はぁっ……[linebreak]げほっ、がっはっ、はぁっ……はぁっ……」[%p]"
 
 msgid "7800:[name]野呂瀬[line]「[color index="A0FF0000"]ウォーターボーディング[color index="800000"]はアメリカＣＩＡがつい最近まで拷問方法として用いていた、最も安易で最も効果的で、最も苦しませることができる技術です」[%p]"
-msgstr "7800:[name]野呂瀬[line][color index="A0FF0000"]Waterboarding[color index="800000"] was a torture technique used by the American CIA until quite recently, actually. Extremely cheap. Extremely effective. And extremely painful for the participant.[%p]"
+msgstr "7800:[name]野呂瀬[line]「[color index="A0FF0000"]ウォーターボーディング[color index="800000"]はアメリカＣＩＡがつい最近まで拷問方法として用いていた、最も安易で最も効果的で、最も苦しませることができる技術です」[%p]"
 
 msgid "7900:[name]野呂瀬[line]「いわゆる水責めというものですね。わずかな水の量だけで、あなたに溺死した錯覚を味わわせることができるのですよ」[%p]"
-msgstr "7900:[name]野呂瀬[line]It's a form of water torture. It's amazing, in a way, that such a small amount of water is going to make you feel such a realistic sensation of drowning.[%p]"
+msgstr "7900:[name]野呂瀬[line]「いわゆる水責めというものですね。わずかな水の量だけで、あなたに溺死した錯覚を味わわせることができるのですよ」[%p]"
 
 msgid "8000:[name]野呂瀬[line]「２１世紀において、いまだにこのような古典的な拷問を行っている」[%p]"
-msgstr "8000:[name]野呂瀬[line]It's the 21st century, and we're still using these traditional methods of torture.[%p]"
+msgstr "8000:[name]野呂瀬[line]「２１世紀において、いまだにこのような古典的な拷問を行っている」[%p]"
 
 msgid "8100:[name]野呂瀬[line]「実に面白いではありませんか」[%p]"
-msgstr "8100:[name]野呂瀬[line]Don't you find that fascinating?[%p]"
+msgstr "8100:[name]野呂瀬[line]「実に面白いではありませんか」[%p]"
 
 msgid "8200:[name]梨深[line]「うっ、うぶっ……ごっ……」[%p]"
-msgstr "8200:[name]梨深[line]Ugh... Ubhh... Cough...[%p]"
+msgstr "8200:[name]梨深[line]「うっ、うぶっ……ごっ……」[%p]"
 
 msgid "8300:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "8300:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "8300:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "8400:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "8400:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "8400:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "8500:そして、あたしはあたしを殺した。[%p]"
-msgstr "8500:And then, I killed myself.[%p]"
+msgstr "8500:そして、あたしはあたしを殺した。[%p]"
 
 msgid "8600:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "8600:[name]梨深[line]My next memories were also of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "8600:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "8700:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "8700:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "8700:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "8800:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "8800:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "8800:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "8900:[name]梨深[line]「ぅ……う……」[%p]"
-msgstr "8900:[name]梨深[line]Ugh... Ugh...[%p]"
+msgstr "8900:[name]梨深[line]「ぅ……う……」[%p]"
 
 msgid "9000:[name]野呂瀬[line]「私は麻酔を扱うのは、これが初めてなのですが」[%p]"
-msgstr "9000:[name]野呂瀬[line]I believe this is the first time I've used any form of anesthetic with you.[%p]"
+msgstr "9000:[name]野呂瀬[line]「私は麻酔を扱うのは、これが初めてなのですが」[%p]"
 
 msgid "9100:[name]野呂瀬[line]「どうやらうまくいったようですね」[%p]"
-msgstr "9100:[name]野呂瀬[line]It appears to have worked.[%p]"
+msgstr "9100:[name]野呂瀬[line]「どうやらうまくいったようですね」[%p]"
 
 msgid "9200:[name]野呂瀬[line]「気分はいかがですか？\u3000君は今、首から下が麻痺している状態です」[%p]"
-msgstr "9200:[name]野呂瀬[line]How do you feel? You are presently paralyzed from the neck down.[%p]"
+msgstr "9200:[name]野呂瀬[line]「気分はいかがですか？\u3000君は今、首から下が麻痺している状態です」[%p]"
 
 msgid "9300:[name]野呂瀬[line]「自分の身体を思うままに動かせないというのは、ストレスのたまることだと思いませんか？」[%p]"
-msgstr "9300:[name]野呂瀬[line]It's rather stressful, being unable to move your body, don't you think?[%p]"
+msgstr "9300:[name]野呂瀬[line]「自分の身体を思うままに動かせないというのは、ストレスのたまることだと思いませんか？」[%p]"
 
 msgid "9400:[name]野呂瀬[line]「とりあえず、その状態で１年ほど過ごしてみましょう」[%p]"
-msgstr "9400:[name]野呂瀬[line]I'm going to keep you like this for a year or so.[%p]"
+msgstr "9400:[name]野呂瀬[line]「とりあえず、その状態で１年ほど過ごしてみましょう」[%p]"
 
 msgid "9500:[name]野呂瀬[line]「一日に一度、点滴で栄養は与えますから、心配はいりません」[%p]"
-msgstr "9500:[name]野呂瀬[line]Don't worry. You'll be given nutrients via injection once a day.[%p]"
+msgstr "9500:[name]野呂瀬[line]「一日に一度、点滴で栄養は与えますから、心配はいりません」[%p]"
 
 msgid "9600:[name]野呂瀬[line]「では、よいお年を」[%p]"
-msgstr "9600:[name]野呂瀬[line]Goodbye. Have a nice year.[%p]"
+msgstr "9600:[name]野呂瀬[line]「では、よいお年を」[%p]"
 
 msgid "9700:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "9700:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "9700:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "9800:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "9800:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "9800:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "9900:その白い光の中に、翼のようなものがチラチラと見えたような気がした。[%p]"
-msgstr "9900:And in the light, I started to see glimpses of what looked like wings.[%p]"
+msgstr "9900:その白い光の中に、翼のようなものがチラチラと見えたような気がした。[%p]"
 
 msgid "10000:そして、あたしはあたしを殺した。[%p]"
-msgstr "10000:And then, I killed myself.[%p]"
+msgstr "10000:そして、あたしはあたしを殺した。[%p]"
 
 msgid "10100:[name]梨深[line]「次の記憶は、手術台の上から見たまぶしい光だけ」[%p]"
-msgstr "10100:[name]梨深[line]My next memories are of the bright lights above the operating table. Just the lights, this time.[%p]"
+msgstr "10100:[name]梨深[line]「次の記憶は、手術台の上から見たまぶしい光だけ」[%p]"
 
 msgid "10200:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "10200:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "10200:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "10300:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "10300:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "10300:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "10400:[name]梨深[line]「ぁぁ……」[%p]"
-msgstr "10400:[name]梨深[line]Ahh...[%p]"
+msgstr "10400:[name]梨深[line]「ぁぁ……」[%p]"
 
 msgid "10500:どれだけ呼びかけても、誰も来なくて。[linebreak]なにも動かず。なにも動かせず。[linebreak]指の一本さえ、ピクリともしなくて。[%p]"
-msgstr "10500:No matter how much I screamed, nobody came. I didn't move. I couldn't move. I couldn't move a single finger.[%p]"
+msgstr "10500:どれだけ呼びかけても、誰も来なくて。[linebreak]なにも動かず。なにも動かせず。[linebreak]指の一本さえ、ピクリともしなくて。[%p]"
 
 msgid "10600:あたしはぼんやりと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "10600:I just lay there, gazing into the lights hanging from the ceiling.[%p]"
+msgstr "10600:あたしはぼんやりと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "10700:他に、やることがなかった。[%p]"
-msgstr "10700:There was nothing else to do.[%p]"
+msgstr "10700:他に、やることがなかった。[%p]"
 
 msgid "10800:その白い光の中に、羽根のような影がいくつも、ユラユラと舞っているのが見えたような気がした。[%p]"
-msgstr "10800:And in the light, I started to see what looked like many feathers, dancing in the air.[%p]"
+msgstr "10800:その白い光の中に、羽根のような影がいくつも、ユラユラと舞っているのが見えたような気がした。[%p]"
 
 msgid "10900:そして、あたしはあたしを殺した。[%p]"
-msgstr "10900:And then, I killed myself.[%p]"
+msgstr "10900:そして、あたしはあたしを殺した。[%p]"
 
 msgid "11000:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光だけ」[%p]"
-msgstr "11000:[name]梨深[line]My next memories were also of the bright lights above the operating table. Just the lights, this time.[%p]"
+msgstr "11000:[name]梨深[line]「次の記憶も、手術台の上から見たまぶしい光だけ」[%p]"
 
 msgid "11100:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "11100:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "11100:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "11200:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "11200:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "11200:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "11300:[name]梨深[line]「ぁぁ……」[%p]"
-msgstr "11300:[name]梨深[line]Ahh...[%p]"
+msgstr "11300:[name]梨深[line]「ぁぁ……」[%p]"
 
 msgid "11400:どれだけ呼びかけても、誰も来なくて。[linebreak]なにも動かず。なにも動かせず。[linebreak]指の一本さえ、ピクリともしなくて。[%p]"
-msgstr "11400:No matter how much I screamed, nobody came. I didn't move. I couldn't move. I couldn't move a single finger.[%p]"
+msgstr "11400:どれだけ呼びかけても、誰も来なくて。[linebreak]なにも動かず。なにも動かせず。[linebreak]指の一本さえ、ピクリともしなくて。[%p]"
 
 msgid "11500:あたしはぼんやりと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "11500:I just lay there, gazing into the lights hanging from the ceiling.[%p]"
+msgstr "11500:あたしはぼんやりと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "11600:他に、やることがなかった。[%p]"
-msgstr "11600:There was nothing else to do.[%p]"
+msgstr "11600:他に、やることがなかった。[%p]"
 
 msgid "11700:その白い光の中に、羽根のような影がいくつも、ユラユラと舞っているのが見えたような気がした。[%p]"
-msgstr "11700:And in the light, I started to see what looked like many feathers, dancing in the air.[%p]"
+msgstr "11700:その白い光の中に、羽根のような影がいくつも、ユラユラと舞っているのが見えたような気がした。[%p]"
 
 msgid "11800:そして、あたしはあたしを殺した。[%p]"
-msgstr "11800:And then, I killed myself.[%p]"
+msgstr "11800:そして、あたしはあたしを殺した。[%p]"
 
 msgid "11900:[name]梨深[line]「次の記憶は、手術台の上から見たまぶしい光と、男の人の声」[%p]"
-msgstr "11900:[name]梨深[line]My next memories are of the bright lights above the operating table, and of a man's voice.[%p]"
+msgstr "11900:[name]梨深[line]「次の記憶は、手術台の上から見たまぶしい光と、男の人の声」[%p]"
 
 msgid "12000:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
-msgstr "12000:When was it? Locked in that basement, I quickly lost track of time.[%p]"
+msgstr "12000:それは、いつのことだろう。[linebreak]地下室に閉じ込められて、日付の感覚は失われた。[%p]"
 
 msgid "12100:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
-msgstr "12100:It doesn't matter when it was. My memories aren't connected like that.[%p]"
+msgstr "12100:……いつだったかなんて、どうでもいいこと。[linebreak]あたしの記憶は、連続していないから。[%p]"
 
 msgid "12200:[name]野呂瀬[line]「実に醜い姿ですね」[%p]"
-msgstr "12200:[name]野呂瀬[line]You're certainly a disgusting sight.[%p]"
+msgstr "12200:[name]野呂瀬[line]「実に醜い姿ですね」[%p]"
 
 msgid "12300:[name]野呂瀬[line]「１年もの間、そこで横たわっていた気分はどうですか？」[%p]"
-msgstr "12300:[name]野呂瀬[line]How did it feel to lie there for an entire year?[%p]"
+msgstr "12300:[name]野呂瀬[line]「１年もの間、そこで横たわっていた気分はどうですか？」[%p]"
 
 msgid "12400:[name]野呂瀬[line]「己の糞便にまみれ、骨と皮だけの姿となり、尊厳を奪われた気分はどうだったのかと、聞いているのです」[%p]"
-msgstr "12400:[name]野呂瀬[line]To be nothing but skin and bones, to lie there covered in your own shit and piss, no trace of human dignity to be found?[%p]"
+msgstr "12400:[name]野呂瀬[line]「己の糞便にまみれ、骨と皮だけの姿となり、尊厳を奪われた気分はどうだったのかと、聞いているのです」[%p]"
 
 msgid "12500:[name]野呂瀬[line]「ですが安心してください。殺しはしませんよ」[%p]"
-msgstr "12500:[name]野呂瀬[line]But don't worry. I won't kill you.[%p]"
+msgstr "12500:[name]野呂瀬[line]「ですが安心してください。殺しはしませんよ」[%p]"
 
 msgid "12600:[name]野呂瀬[line]「この実験が始まって、そろそろ３年になりますか」[%p]"
-msgstr "12600:[name]野呂瀬[line]These experiments have been going on for almost three years now, I think.[%p]"
+msgstr "12600:[name]野呂瀬[line]「この実験が始まって、そろそろ３年になりますか」[%p]"
 
 msgid "12700:[name]野呂瀬[line]「私はね、君のことが愛おしくてたまらない。かけがえのない存在ですよ、君は」[%p]"
-msgstr "12700:[name]野呂瀬[line]I've come to take quite a liking to you. You might even call it love. You've become irreplaceable to me.[%p]"
+msgstr "12700:[name]野呂瀬[line]「私はね、君のことが愛おしくてたまらない。かけがえのない存在ですよ、君は」[%p]"
 
 msgid "12800:[name]野呂瀬[line]「ギガロマニアックスを強制的に覚醒させることは、とても難しく、時間がかかる」[%p]"
-msgstr "12800:[name]野呂瀬[line]Forcing a Gigalomaniac to awaken is a long, difficult process.[%p]"
+msgstr "12800:[name]野呂瀬[line]「ギガロマニアックスを強制的に覚醒させることは、とても難しく、時間がかかる」[%p]"
 
 msgid "12900:[name]野呂瀬[line]「ですが、君には早く目覚めてもらいたいのです」[%p]"
-msgstr "12900:[name]野呂瀬[line]But I want you to awaken as fast as you can.[%p]"
+msgstr "12900:[name]野呂瀬[line]「ですが、君には早く目覚めてもらいたいのです」[%p]"
 
 msgid "13000:[name]野呂瀬[line]「期待していますよ、＄＠＊＄＆さん」[%p]"
-msgstr "13000:[name]野呂瀬[line]I have such high hopes for you, Miss $#@&.[%p]"
+msgstr "13000:[name]野呂瀬[line]「期待していますよ、＄＠＊＄＆さん」[%p]"
 
 msgid "13100:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
-msgstr "13100:I just stared into the lights hanging from the ceiling.[%p]"
+msgstr "13100:あたしはじっと、天井からつり下がっている、照明の光の奥を見つめ続けていた。[%p]"
 
 msgid "13200:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
-msgstr "13200:They blinded my vision, made it so I didn't have to look at anything else.[%p]"
+msgstr "13200:そうすることで、視界が麻痺して、他のなにも目に入れなくて済んだから。[%p]"
 
 msgid "13300:その白い光の中に、舞い散る羽根と、一対の翼が見えたような気がした。[%p]"
-msgstr "13300:And in the light, I started to see dancing feathers, and what looked like wings.[%p]"
+msgstr "13300:その白い光の中に、舞い散る羽根と、一対の翼が見えたような気がした。[%p]"
 
 msgid "13400:そして、あたしはあたしを殺した。[%p]"
-msgstr "13400:And then, I killed myself.[%p]"
+msgstr "13400:そして、あたしはあたしを殺した。[%p]"
 
 msgid "13500:今のあたしは、何番目のあたし？[%p]"
-msgstr "13500:How many of me have come before me?[%p]"
+msgstr "13500:今のあたしは、何番目のあたし？[%p]"
 

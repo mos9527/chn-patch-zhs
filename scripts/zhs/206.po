@@ -10,62 +10,62 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:三住くんとは駅で別れ、ベースまで戻ってきた。[%p]"
-msgstr "0:Misumi and I parted ways at the station, and I headed back to the Base.[%p]"
+msgstr "0:三住くんとは駅で別れ、ベースまで戻ってきた。[%p]"
 
 msgid "100:その間、ずっと悪夢の中をさまよっているような気分だった。[%p]"
-msgstr "100:The whole time, it felt like I was wandering in a nightmare.[%p]"
+msgstr "100:その間、ずっと悪夢の中をさまよっているような気分だった。[%p]"
 
 msgid "200:頭の中で、七海のいろいろな表情が浮かんでは消えていく。[%p]"
-msgstr "200:I kept seeing Nanami's face flickering in and out of my mind, a different expression on it each time.[%p]"
+msgstr "200:頭の中で、七海のいろいろな表情が浮かんでは消えていく。[%p]"
 
 msgid "300:七海はストレートに感情を表に出すヤツだ。[%p]"
-msgstr "300:Nanami was the type whose feelings always showed on her face.[%p]"
+msgstr "300:七海はストレートに感情を表に出すヤツだ。[%p]"
 
 msgid "400:怒ったときはブスーッと頬を膨らませるし、嬉しいときは見ているこっちが恥ずかしくなるくらいニコニコする。[%p]"
-msgstr "400:When she was mad, she'd puff out her cheeks. When she was happy, she'd grin so much it made you embarrassed to look at her.[%p]"
+msgstr "400:怒ったときはブスーッと頬を膨らませるし、嬉しいときは見ているこっちが恥ずかしくなるくらいニコニコする。[%p]"
 
 msgid "500:記憶の中にあるそうした表情のひとつひとつが、僕の心をざわつかせる。[%p]"
-msgstr "500:All those expressions in my memories came back to me one by one. It made me feel sick.[%p]"
+msgstr "500:記憶の中にあるそうした表情のひとつひとつが、僕の心をざわつかせる。[%p]"
 
 msgid "600:さっきの電話。[linebreak]七海が伝えてきた言葉の意味は、いったいなんなのか……。[%p]"
-msgstr "600:What was that call? What had Nanami meant?[%p]"
+msgstr "600:さっきの電話。[linebreak]七海が伝えてきた言葉の意味は、いったいなんなのか……。[%p]"
 
 msgid "700:やっぱり、この前学校で見たときに七海が腕に巻いていた、あの包帯は……。[%p]"
-msgstr "700:Was the bandage I'd seen on her arm at school...[%p]"
+msgstr "700:やっぱり、この前学校で見たときに七海が腕に巻いていた、あの包帯は……。[%p]"
 
 msgid "800:七海は、今どこにいるんだろう。[linebreak]学校……？[linebreak]それとももう家に帰ってるのかな……。[%p]"
-msgstr "800:Where was she now? At school? Or had she gone home?[%p]"
+msgstr "800:七海は、今どこにいるんだろう。[linebreak]学校……？[linebreak]それとももう家に帰ってるのかな……。[%p]"
 
 msgid "900:[name]梨深[line]「タク、ほら、前見て歩かないと。転んじゃうよ」[%p]"
-msgstr "900:[name]梨深[line]Taku, you need to look where you're walking. You'll trip.[%p]"
+msgstr "900:[name]梨深[line]「タク、ほら、前見て歩かないと。転んじゃうよ」[%p]"
 
 msgid "1000:梨深に支えられるようにして、屋上に出た。[%p]"
-msgstr "1000:With Rimi's help, I made it up to the roof.[%p]"
+msgstr "1000:梨深に支えられるようにして、屋上に出た。[%p]"
 
 msgid "1100:[name]拓巳[line]「あ、の……」[%p]"
-msgstr "1100:[name]拓巳[line]Um...[%p]"
+msgstr "1100:[name]拓巳[line]「あ、の……」[%p]"
 
 msgid "1200:[name]梨深[line]「どうしたの？」[%p]"
-msgstr "1200:[name]梨深[line]What's wrong?[%p]"
+msgstr "1200:[name]梨深[line]「どうしたの？」[%p]"
 
 msgid "1300:[name]拓巳[line]「……こ、これから、実家に、か、帰ってみようと、おも、思うんだ」[%p]"
-msgstr "1300:[name]拓巳[line]U-Um, I'm thinking of going back to my parents' house.[%p]"
+msgstr "1300:[name]拓巳[line]「……こ、これから、実家に、か、帰ってみようと、おも、思うんだ」[%p]"
 
 msgid "1400:[name]梨深[line]「これから？\u3000急だね」[%p]"
-msgstr "1400:[name]梨深[line]Right now? That's sudden.[%p]"
+msgstr "1400:[name]梨深[line]「これから？\u3000急だね」[%p]"
 
 msgid "1500:[name]拓巳[line]「あ、歩いても、３０分も、かからないところなんだ……」[%p]"
-msgstr "1500:[name]拓巳[line]I-It's less than thirty minutes away.[%p]"
+msgstr "1500:[name]拓巳[line]「あ、歩いても、３０分も、かからないところなんだ……」[%p]"
 
 msgid "1600:[name]拓巳[line]「そ、それで、その……」[%p]"
-msgstr "1600:[name]拓巳[line]And, um...[%p]"
+msgstr "1600:[name]拓巳[line]「そ、それで、その……」[%p]"
 
 msgid "1700:[name]拓巳[line]「一緒に、つ、ついてきて、ほしい……」[%p]"
-msgstr "1700:[name]拓巳[line]I want you to go with me.[%p]"
+msgstr "1700:[name]拓巳[line]「一緒に、つ、ついてきて、ほしい……」[%p]"
 
 msgid "1800:心臓が飛び出すぐらい緊張しながら、梨深にそうお願いする。口に出してそう言えたことに自分でも少し驚いた。[%p]"
-msgstr "1800:I felt so nervous as I asked her that I thought my heart would burst out of my chest. I was a little surprised that I was able to get the words out.[%p]"
+msgstr "1800:心臓が飛び出すぐらい緊張しながら、梨深にそうお願いする。口に出してそう言えたことに自分でも少し驚いた。[%p]"
 
 msgid "1900:人になにかを頼むなんて、今までの僕にはできなかったことだ。[%p]"
-msgstr "1900:I'd never been able to ask anyone for anything before.[%p]"
+msgstr "1900:人になにかを頼むなんて、今までの僕にはできなかったことだ。[%p]"
 

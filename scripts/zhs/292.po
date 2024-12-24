@@ -10,98 +10,98 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:なにかの音がする……。[linebreak]僕はまどろみの中で、その音をぼんやりと認識する。[%p]"
-msgstr "0:I could hear some kind of sound. I was only half-conscious, but I could still hear it.[%p]"
+msgstr "0:なにかの音がする……。[linebreak]僕はまどろみの中で、その音をぼんやりと認識する。[%p]"
 
 msgid "100:いったいなんの音だろう？[linebreak]どこかで聞いたことがあるような……。[%p]"
-msgstr "100:What was that sound? It felt like I'd heard it somewhere before.[%p]"
+msgstr "100:いったいなんの音だろう？[linebreak]どこかで聞いたことがあるような……。[%p]"
 
 msgid "200:ああ、そっか。ケータイのバイブ音だ。[%p]"
-msgstr "200:Oh, right. A cell phone, set to vibrate.[%p]"
+msgstr "200:ああ、そっか。ケータイのバイブ音だ。[%p]"
 
 msgid "300:誰かから電話でもかかってきたのかな？[linebreak]僕のケータイに？\u3000そんな珍しいことがあるのか？[linebreak]また例の『通りゃんせ』のいたずら電話だろうか。[%p]"
-msgstr "300:Was somebody calling my phone? Nobody ever called me. Could it be that “Tooryanse” song again?[%p]"
+msgstr "300:誰かから電話でもかかってきたのかな？[linebreak]僕のケータイに？\u3000そんな珍しいことがあるのか？[linebreak]また例の『通りゃんせ』のいたずら電話だろうか。[%p]"
 
 msgid "400:だとしたら、出たくない。[linebreak]薄気味悪いし、この前はあの電話のせいで１時間以上気絶する羽目になったし。[%p]"
-msgstr "400:If so, I didn't want to answer. It was creepy, and the last time I'd heard it, it had knocked me out a full hour.[%p]"
+msgstr "400:だとしたら、出たくない。[linebreak]薄気味悪いし、この前はあの電話のせいで１時間以上気絶する羽目になったし。[%p]"
 
 msgid "500:無視して、深い眠りに再び落ちていこうとした。[linebreak]でも、一度気になり出した音は、なかなか意識の外に追いやることができない。[%p]"
-msgstr "500:I decided to ignore it and go back to sleep. But once you heard a sound, it was hard to unhear it.[%p]"
+msgstr "500:無視して、深い眠りに再び落ちていこうとした。[linebreak]でも、一度気になり出した音は、なかなか意識の外に追いやることができない。[%p]"
 
 msgid "600:しかも相手もしつこくて、延々とコールし続けてくる。[%p]"
-msgstr "600:And whoever it was kept calling, again and again.[%p]"
+msgstr "600:しかも相手もしつこくて、延々とコールし続けてくる。[%p]"
 
 msgid "700:[name]拓巳[line]「う……」[%p]"
-msgstr "700:[name]拓巳[line]Ugh...[%p]"
+msgstr "700:[name]拓巳[line]「う……」[%p]"
 
 msgid "800:目を開ける。僕は床に寝ていた。[%p]"
-msgstr "800:I opened my eyes. I was lying on the floor.[%p]"
+msgstr "800:目を開ける。僕は床に寝ていた。[%p]"
 
 msgid "900:ソファには七海が眠っているはず……と思ったら、姿がなかった。[%p]"
-msgstr "900:Nanami was lying on the sofa... or so I thought. But when I looked, she wasn't there.[%p]"
+msgstr "900:ソファには七海が眠っているはず……と思ったら、姿がなかった。[%p]"
 
 msgid "1000:どこ行ったんだろう。トイレ？\u3000それとも、やっぱり泊まるのはやめて実家に帰ったのかな……。[%p]"
-msgstr "1000:Where'd she gone? The bathroom? Or maybe she'd decided she didn't want to stay over after all, and gone home?[%p]"
+msgstr "1000:どこ行ったんだろう。トイレ？\u3000それとも、やっぱり泊まるのはやめて実家に帰ったのかな……。[%p]"
 
 msgid "1100:寝起きで、ボーッとしている間も、ケータイは振動し続けていた。[%p]"
-msgstr "1100:I still wasn't fully awake, but the phone kept ringing.[%p]"
+msgstr "1100:寝起きで、ボーッとしている間も、ケータイは振動し続けていた。[%p]"
 
 msgid "1200:もう３分以上経つ。留守番電話になりそうなものだけど、もしかすると設定し忘れちゃったのかも。[%p]"
-msgstr "1200:It had been over three minutes now. You'd think it would've gone to the answering machine by now. Maybe I'd forgot to set it up?[%p]"
+msgstr "1200:もう３分以上経つ。留守番電話になりそうなものだけど、もしかすると設定し忘れちゃったのかも。[%p]"
 
 msgid "1300:あまりのしつこさにしびれを切らし、僕はＰＣデスクの上にあるケータイを手に取った。[%p]"
-msgstr "1300:They were so persistent that I finally gave in and grabbed the phone off my desk.[%p]"
+msgstr "1300:あまりのしつこさにしびれを切らし、僕はＰＣデスクの上にあるケータイを手に取った。[%p]"
 
 msgid "1400:着信表示を見ると――[%p]"
-msgstr "1400:I looked at the display to see who was calling, and...[%p]"
+msgstr "1400:着信表示を見ると――[%p]"
 
 msgid "1500:非通知着信……。[linebreak]これじゃ、誰からなのか分からない。[%p]"
-msgstr "1500:Unlisted Number. I couldn't tell who it was, then.[%p]"
+msgstr "1500:非通知着信……。[linebreak]これじゃ、誰からなのか分からない。[%p]"
 
 msgid "1600:あんまり出たくないなあ……。[%p]"
-msgstr "1600:I really didn't want to answer...[%p]"
+msgstr "1600:あんまり出たくないなあ……。[%p]"
 
 msgid "1700:[name]拓巳[line]「もしもし」[%p]"
-msgstr "1700:[name]拓巳[line]Hello?[%p]"
+msgstr "1700:[name]拓巳[line]「もしもし」[%p]"
 
 msgid "1800:[name]七海[line]「…………」[%p]"
-msgstr "1800:[name]七海[line]...[%p]"
+msgstr "1800:[name]七海[line]「…………」[%p]"
 
 msgid "1900:[name]拓巳[line]「だ、誰……？」[%p]"
-msgstr "1900:[name]拓巳[line]W-Who's there?[%p]"
+msgstr "1900:[name]拓巳[line]「だ、誰……？」[%p]"
 
 msgid "2000:[name]七海[line]「おにぃ……」[%p]"
-msgstr "2000:[name]七海[line]Brother...[%p]"
+msgstr "2000:[name]七海[line]「おにぃ……」[%p]"
 
 msgid "2100:七海だった。[linebreak]僕はホッとして、ため息をついた。[%p]"
-msgstr "2100:It was Nanami. I sighed, relieved.[%p]"
+msgstr "2100:七海だった。[linebreak]僕はホッとして、ため息をついた。[%p]"
 
 msgid "2200:あいつ、どこからかけてるんだ？[linebreak]つい数時間前に“外には出たくない”ってヘロヘロ声で言ってたくせに。[%p]"
-msgstr "2200:Where the hell was she calling from? She'd been barely able to stand a few hours ago, and she'd been saying all that stuff about not wanting to even go outside.[%p]"
+msgstr "2200:あいつ、どこからかけてるんだ？[linebreak]つい数時間前に“外には出たくない”ってヘロヘロ声で言ってたくせに。[%p]"
 
 msgid "2300:[name]拓巳[line]「七海か。ど、どこにいるんだ？」[%p]"
-msgstr "2300:[name]拓巳[line]Nanami? W-Where are you?[%p]"
+msgstr "2300:[name]拓巳[line]「七海か。ど、どこにいるんだ？」[%p]"
 
 msgid "2400:[name]七海[line]「右手を……返して……」[%p]"
-msgstr "2400:[name]七海[line]Give back... my right hand.[%p]"
+msgstr "2400:[name]七海[line]「右手を……返して……」[%p]"
 
 msgid "2500:[name]七海[line]「ナナの……右手――」[%p]"
-msgstr "2500:[name]七海[line]My right hand...[%p]"
+msgstr "2500:[name]七海[line]「ナナの……右手――」[%p]"
 
 msgid "2600:切れた。[linebreak]意味不明なことを言うだけ言って。[%p]"
-msgstr "2600:I hung up. What the hell was she going on about?[%p]"
+msgstr "2600:切れた。[linebreak]意味不明なことを言うだけ言って。[%p]"
 
 msgid "2700:ＵＺＥＥＥＥＥ！[%p]"
-msgstr "2700:HOW ANNOYING![%p]"
+msgstr "2700:ＵＺＥＥＥＥＥ！[%p]"
 
 msgid "2800:いったいどんないたずらだよ！\u3000ふざけるな！[%p]"
-msgstr "2800:What kind of dumb trick was she trying to pull? Stop wasting my time![%p]"
+msgstr "2800:いったいどんないたずらだよ！\u3000ふざけるな！[%p]"
 
 msgid "2900:はあ、心配して損した。どうやら元気になったみたいだし、探しに行く必要もないよな。どうせ下の階にある共同トイレとかから、かけてきているに違いない。[%p]"
-msgstr "2900:I felt silly for being worried. Evidently, she was feeling better. No need to go looking for her, then. She was probably calling from the public bathrooms on the floor below.[%p]"
+msgstr "2900:はあ、心配して損した。どうやら元気になったみたいだし、探しに行く必要もないよな。どうせ下の階にある共同トイレとかから、かけてきているに違いない。[%p]"
 
 msgid "3000:すごく眠いし、こんないたずらに付き合いきれない。[%p]"
-msgstr "3000:I was really tired. I didn't have time to put up with this crap.[%p]"
+msgstr "3000:すごく眠いし、こんないたずらに付き合いきれない。[%p]"
 
 msgid "3100:僕はケータイを放り出すと、またその場に横になって、目を閉じた。[%p]"
-msgstr "3100:I threw away the phone, lay right down, and closed my eyes.[%p]"
+msgstr "3100:僕はケータイを放り出すと、またその場に横になって、目を閉じた。[%p]"
 

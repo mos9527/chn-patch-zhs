@@ -10,71 +10,71 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]男Ｃ[line]「予定と結果に大きな違いがあったようだが？」[%p]"
-msgstr "0:[name]男Ｃ[line]Am I correct in saying that these results were very different than initial expectations?[%p]"
+msgstr "0:[name]男Ｃ[line]「予定と結果に大きな違いがあったようだが？」[%p]"
 
 msgid "100:[name]男Ａ[line]「我々は進化への第一歩を踏み出したんですよ」[%p]"
-msgstr "100:[name]男Ａ[line]We took our first step forwards toward evolution.[%p]"
+msgstr "100:[name]男Ａ[line]「我々は進化への第一歩を踏み出したんですよ」[%p]"
 
 msgid "200:[name]男Ｃ[line]「三桁もの死人が出るなど、我々は聞いておらんぞ！」[%p]"
-msgstr "200:[name]男Ｃ[line]None of us was told anything about three-digit casualties![%p]"
+msgstr "200:[name]男Ｃ[line]「三桁もの死人が出るなど、我々は聞いておらんぞ！」[%p]"
 
 msgid "300:[name]男Ｂ[line]「計画に不備があったのかね？」[%p]"
-msgstr "300:[name]男Ｂ[line]Was there a problem with the plan?[%p]"
+msgstr "300:[name]男Ｂ[line]「計画に不備があったのかね？」[%p]"
 
 msgid "400:[name]男Ａ[line]「……いいえ」[%p]"
-msgstr "400:[name]男Ａ[line]No.[%p]"
+msgstr "400:[name]男Ａ[line]「……いいえ」[%p]"
 
 msgid "500:[name]男Ａ[line]「おふたりには、ぜひ人の進化の歴史というものを、振り返ってみていただきたいものですね」[%p]"
-msgstr "500:[name]男Ａ[line]I'd like the both of you to think back on the history of human evolution.[%p]"
+msgstr "500:[name]男Ａ[line]「おふたりには、ぜひ人の進化の歴史というものを、振り返ってみていただきたいものですね」[%p]"
 
 msgid "600:[name]男Ｂ[line]「進化には多少の犠牲はつきものという点については、異論はないよ」[%p]"
-msgstr "600:[name]男Ｂ[line]If you're trying to tell me that evolution always involves some form of sacrifice, then fine.[%p]"
+msgstr "600:[name]男Ｂ[line]「進化には多少の犠牲はつきものという点については、異論はないよ」[%p]"
 
 msgid "700:[name]男Ｃ[line]「死人のことなどどうでもいい」[%p]"
-msgstr "700:[name]男Ｃ[line]The casualties are irrelevant.[%p]"
+msgstr "700:[name]男Ｃ[line]「死人のことなどどうでもいい」[%p]"
 
 msgid "800:[name]男Ｃ[line]「重要なのは、予定と違うということだ！」[%p]"
-msgstr "800:[name]男Ｃ[line]What's important is that this wasn't in the plan![%p]"
+msgstr "800:[name]男Ｃ[line]「重要なのは、予定と違うということだ！」[%p]"
 
 msgid "900:[name]男Ａ[line]「想定の範囲内ですよ。私の中ではね」[%p]"
-msgstr "900:[name]男Ａ[line]This outcome was within expected parameters, at least in my mind.[%p]"
+msgstr "900:[name]男Ａ[line]「想定の範囲内ですよ。私の中ではね」[%p]"
 
 msgid "1000:[name]男Ｃ[line]「ならばなぜ事前に我々へ連絡せんのだ」[%p]"
-msgstr "1000:[name]男Ｃ[line]Then why didn't you inform us beforehand?[%p]"
+msgstr "1000:[name]男Ｃ[line]「ならばなぜ事前に我々へ連絡せんのだ」[%p]"
 
 msgid "1100:[name]男Ｃ[line]「情報をコントロールするには、それなりの下準備が必要なのだぞ」[%p]"
-msgstr "1100:[name]男Ｃ[line]It takes time and preparation to keep the wrong information from reaching the public.[%p]"
+msgstr "1100:[name]男Ｃ[line]「情報をコントロールするには、それなりの下準備が必要なのだぞ」[%p]"
 
 msgid "1200:[name]男Ｃ[line]「貴様の酔狂のために、人や金を犠牲にしてきたわけではない。それを忘れるな」[%p]"
-msgstr "1200:[name]男Ｃ[line]We aren't sacrificing this much money and this many lives so that you can entertain yourself. Don't forget that.[%p]"
+msgstr "1200:[name]男Ｃ[line]「貴様の酔狂のために、人や金を犠牲にしてきたわけではない。それを忘れるな」[%p]"
 
 msgid "1300:[name]男Ａ[line]「ご安心を。先ほど申しました通り、すべては想定の範囲内」[%p]"
-msgstr "1300:[name]男Ａ[line]Don't worry. As I said, this was within expected values.[%p]"
+msgstr "1300:[name]男Ａ[line]「ご安心を。先ほど申しました通り、すべては想定の範囲内」[%p]"
 
 msgid "1400:[name]男Ａ[line]「いずれ近いうちに、選挙での票集めに苦労することも、強引な勧誘活動を告発される恐れもなくなるでしょう」[%p]"
-msgstr "1400:[name]男Ａ[line]Before long, you won't have to worry about getting enough votes during elections, or having your... overzealous evangelism attract the attention of local prosecutors.[%p]"
+msgstr "1400:[name]男Ａ[line]「いずれ近いうちに、選挙での票集めに苦労することも、強引な勧誘活動を告発される恐れもなくなるでしょう」[%p]"
 
 msgid "1500:[name]男Ａ[line]「我々が日本を……いや、世界を変える日もじきに……」[%p]"
-msgstr "1500:[name]男Ａ[line]Before long, we will change Japan... no, the world, forever.[%p]"
+msgstr "1500:[name]男Ａ[line]「我々が日本を……いや、世界を変える日もじきに……」[%p]"
 
 msgid "1600:[name]男Ｃ[line]「口を慎め。[color index="A0FF0000"]３００人委員会[color index="800000"]への造反が知れれば、我らに待っているのは破滅だけだ」[%p]"
-msgstr "1600:[name]男Ｃ[line]Silence. If the [color index="A0FF0000"]Committee of 300[color index="800000"] finds out about this act of treason, we're all finished.[%p]"
+msgstr "1600:[name]男Ｃ[line]「口を慎め。[color index="A0FF0000"]３００人委員会[color index="800000"]への造反が知れれば、我らに待っているのは破滅だけだ」[%p]"
 
 msgid "1700:[name]男Ｂ[line]「キミの役目は、計画通りに事を進めることであって、それ以上でも以下でもないよ」[%p]"
-msgstr "1700:[name]男Ｂ[line]Your job is to ensure the plan proceeds as scheduled. Nothing less and nothing more.[%p]"
+msgstr "1700:[name]男Ｂ[line]「キミの役目は、計画通りに事を進めることであって、それ以上でも以下でもないよ」[%p]"
 
 msgid "1800:[name]男Ｃ[line]「調整は我々がやる」[%p]"
-msgstr "1800:[name]男Ｃ[line]We'll ensure this gets covered up.[%p]"
+msgstr "1800:[name]男Ｃ[line]「調整は我々がやる」[%p]"
 
 msgid "1900:[name]男Ａ[line]「承知しています。クク……」[%p]"
-msgstr "1900:[name]男Ａ[line]I'm aware. Heheh...[%p]"
+msgstr "1900:[name]男Ａ[line]「承知しています。クク……」[%p]"
 
 msgid "2000:[name]男Ｂ[line]「それで。第２世代についての報告を聞こうか」[%p]"
-msgstr "2000:[name]男Ｂ[line]So? Let's hear your report on the Second Generation.[%p]"
+msgstr "2000:[name]男Ｂ[line]「それで。第２世代についての報告を聞こうか」[%p]"
 
 msgid "2100:[name]男Ａ[line]「おふたりにも満足していただける仕上がりですよ」[%p]"
-msgstr "2100:[name]男Ａ[line]I'm sure the two of you will be completely satisfied.[%p]"
+msgstr "2100:[name]男Ａ[line]「おふたりにも満足していただける仕上がりですよ」[%p]"
 
 msgid "2200:[name]男Ａ[line]「『ノアⅡ』はね……」[%p]"
-msgstr "2200:[name]男Ａ[line]Noah II will in fact, be...[%p]"
+msgstr "2200:[name]男Ａ[line]「『ノアⅡ』はね……」[%p]"
 

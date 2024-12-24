@@ -10,146 +10,146 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:僕には、為す術もなくそれを見ていることしかできなかった。[%p]"
-msgstr "0:All I could do was watch, helplessly.[%p]"
+msgstr "0:僕には、為す術もなくそれを見ていることしかできなかった。[%p]"
 
 msgid "100:あやせは両手を広げたかと思うと――[%p]"
-msgstr "100:Ayase spread out her hands,[%p]"
+msgstr "100:あやせは両手を広げたかと思うと――[%p]"
 
 msgid "200:そこに見えない階段でもあるかのように、ゆっくりと足を中空へと踏み出した。[%p]"
-msgstr "200:and slowly stepped off the roof, like there was an invisible staircase there.[%p]"
+msgstr "200:そこに見えない階段でもあるかのように、ゆっくりと足を中空へと踏み出した。[%p]"
 
 msgid "300:野次馬たちの間から、一斉にどよめきや悲鳴が溢れる。[%p]"
-msgstr "300:Screams and loud murmurs rose from the crowd of gawkers.[%p]"
+msgstr "300:野次馬たちの間から、一斉にどよめきや悲鳴が溢れる。[%p]"
 
 msgid "400:あやせの身体は、糸の切れた人形のように支えを失い、[linebreak]真っ逆さまに舞った。[%p]"
-msgstr "400:No longer supported by anything, she fell, like a puppet with its strings cut.[%p]"
+msgstr "400:あやせの身体は、糸の切れた人形のように支えを失い、[linebreak]真っ逆さまに舞った。[%p]"
 
 msgid "500:すべてがスローモーションになっていた。[%p]"
-msgstr "500:Everything was happening in slow motion.[%p]"
+msgstr "500:すべてがスローモーションになっていた。[%p]"
 
 msgid "600:あやせの身体が墜落する。[%p]"
-msgstr "600:Ayase's body fell.[%p]"
+msgstr "600:あやせの身体が墜落する。[%p]"
 
 msgid "700:その速度はひどく緩慢で。[%p]"
-msgstr "700:It fell so slowly,[%p]"
+msgstr "700:その速度はひどく緩慢で。[%p]"
 
 msgid "800:でも確かに落ちてくる。[%p]"
-msgstr "800:but there was no stopping it.[%p]"
+msgstr "800:でも確かに落ちてくる。[%p]"
 
 msgid "900:死ぬ――[%p]"
-msgstr "900:She was going to die.[%p]"
+msgstr "900:死ぬ――[%p]"
 
 msgid "1000:あれは死ぬ――[%p]"
-msgstr "1000:Ayase was going to die.[%p]"
+msgstr "1000:あれは死ぬ――[%p]"
 
 msgid "1100:僕には助けられない。[linebreak]あの高さから落ちたら助からない。[%p]"
-msgstr "1100:There was no way I could help her. If she fell from that height, she'd die for sure.[%p]"
+msgstr "1100:僕には助けられない。[linebreak]あの高さから落ちたら助からない。[%p]"
 
 msgid "1200:ましてや下はコンクリートだ。[%p]"
-msgstr "1200:The ground below her was solid concrete.[%p]"
+msgstr "1200:ましてや下はコンクリートだ。[%p]"
 
 msgid "1300:骨は砕け、内臓は潰れ、脳漿がぶちまかれ、どす黒い血が飛び散るんだ。[%p]"
-msgstr "1300:Her bones would shatter, her organs would be smashed, her brains and dark red blood would be splashed all over the place.[%p]"
+msgstr "1300:骨は砕け、内臓は潰れ、脳漿がぶちまかれ、どす黒い血が飛び散るんだ。[%p]"
 
 msgid "1400:せめて花壇かなにかがそこにあったなら。[%p]"
-msgstr "1400:If there was at least a flowerbed there...[%p]"
+msgstr "1400:せめて花壇かなにかがそこにあったなら。[%p]"
 
 msgid "1500:せめて、柔らかい土の上だったなら。[%p]"
-msgstr "1500:If there was soft earth instead of concrete...[%p]"
+msgstr "1500:せめて、柔らかい土の上だったなら。[%p]"
 
 msgid "1600:もしかしたら助かったかもしれないのに……[%p]"
-msgstr "1600:Then maybe she'd survive.[%p]"
+msgstr "1600:もしかしたら助かったかもしれないのに……[%p]"
 
 msgid "1700:人が死ぬ瞬間なんて、見たくない！[%p]"
-msgstr "1700:I didn't want to see anyone die![%p]"
+msgstr "1700:人が死ぬ瞬間なんて、見たくない！[%p]"
 
 msgid "1800:僕は目を閉じようとした――[%p]"
-msgstr "1800:I tried to close my eyes.[%p]"
+msgstr "1800:僕は目を閉じようとした――[%p]"
 
 msgid "1900:その刹那。感じた。[%p]"
-msgstr "1900:And then I felt it.[%p]"
+msgstr "1900:その刹那。感じた。[%p]"
 
 msgid "2000:うなじのあたりに、チリチリとした感覚。[%p]"
-msgstr "2000:The prickling at the back of my neck.[%p]"
+msgstr "2000:うなじのあたりに、チリチリとした感覚。[%p]"
 
 msgid "2100:振り返る。僕を見ている人間なんて、誰もいない。[%p]"
-msgstr "2100:I turned. Nobody was looking at me.[%p]"
+msgstr "2100:振り返る。僕を見ている人間なんて、誰もいない。[%p]"
 
 msgid "2200:みんな、うつむいているか見上げているかのどちらかだった。[%p]"
-msgstr "2200:Everyone was looking up towards Ayase or down at the ground.[%p]"
+msgstr "2200:みんな、うつむいているか見上げているかのどちらかだった。[%p]"
 
 msgid "2300:――その目だれの目？[%p]"
-msgstr "2300:Whose eyes are those?[%p]"
+msgstr "2300:――その目だれの目？[%p]"
 
 msgid "2400:音が、響いた。[%p]"
-msgstr "2400:I heard a noise.[%p]"
+msgstr "2400:音が、響いた。[%p]"
 
 msgid "2500:人が墜落した音。[%p]"
-msgstr "2500:The sound of someone hitting the ground...[%p]"
+msgstr "2500:人が墜落した音。[%p]"
 
 msgid "2600:初めて聞いた。[%p]"
-msgstr "2600:I'd never heard that sound before.[%p]"
+msgstr "2600:初めて聞いた。[%p]"
 
 msgid "2700:その音は……意外にも衝撃が少なくて。[%p]"
-msgstr "2700:It was... less loud than I thought it would be.[%p]"
+msgstr "2700:その音は……意外にも衝撃が少なくて。[%p]"
 
 msgid "2800:[name]三住[line]「まさか……」[%p]"
-msgstr "2800:[name]三住[line]No way...[%p]"
+msgstr "2800:[name]三住[line]「まさか……」[%p]"
 
 msgid "2900:隣で、三住くんが呆然と目を見開いていた。[%p]"
-msgstr "2900:Misumi was standing next to me, watching in shock.[%p]"
+msgstr "2900:隣で、三住くんが呆然と目を見開いていた。[%p]"
 
 msgid "3000:その視線は確かにあやせが落ちた場所を向いているはずなのに、恐ろしさや哀しみよりも、むしろ驚きの色を強くたたえている。[%p]"
-msgstr "3000:He was looking where Ayase had fallen, but instead of showing fear or sorrow, his expression was one of surprise.[%p]"
+msgstr "3000:その視線は確かにあやせが落ちた場所を向いているはずなのに、恐ろしさや哀しみよりも、むしろ驚きの色を強くたたえている。[%p]"
 
 msgid "3100:三住くんだけじゃない。[%p]"
-msgstr "3100:It wasn't just Misumi, either.[%p]"
+msgstr "3100:三住くんだけじゃない。[%p]"
 
 msgid "3200:野次馬の誰もが、なにが起こったのか理解できていないような表情で、声を失っていた。[%p]"
-msgstr "3200:The whole crowd of gawking onlookers had fallen silent, like they weren't sure what had just happened.[%p]"
+msgstr "3200:野次馬の誰もが、なにが起こったのか理解できていないような表情で、声を失っていた。[%p]"
 
 msgid "3300:[name]三住[line]「……生きて……る……」[%p]"
-msgstr "3300:[name]三住[line]She's... alive.[%p]"
+msgstr "3300:[name]三住[line]「……生きて……る……」[%p]"
 
 msgid "3400:…………え！？[%p]"
-msgstr "3400:Huh?![%p]"
+msgstr "3400:…………え！？[%p]"
 
 msgid "3500:生きてる？[%p]"
-msgstr "3500:Alive?[%p]"
+msgstr "3500:生きてる？[%p]"
 
 msgid "3600:あやせが、倒れている。[%p]"
-msgstr "3600:Ayase was lying on the ground.[%p]"
+msgstr "3600:あやせが、倒れている。[%p]"
 
 msgid "3700:骨が砕けたのかどうか……分からない。[linebreak]内臓が潰れたのかどうか……分からない。[%p]"
-msgstr "3700:Had her bones been shattered? I couldn't tell. Had her organs been smashed? I didn't know.[%p]"
+msgstr "3700:骨が砕けたのかどうか……分からない。[linebreak]内臓が潰れたのかどうか……分からない。[%p]"
 
 msgid "3800:脳漿は……ぶちまかれていない。[linebreak]どす黒い血は……飛び散っていない。[%p]"
-msgstr "3800:Her brains... weren't splattered all over the place. Her dark red blood... wasn't anywhere to be seen, either.[%p]"
+msgstr "3800:脳漿は……ぶちまかれていない。[linebreak]どす黒い血は……飛び散っていない。[%p]"
 
 msgid "3900:[name]あやせ[line]「う……」[%p]"
-msgstr "3900:[name]あやせ[line]Ugh...[%p]"
+msgstr "3900:[name]あやせ[line]「う……」[%p]"
 
 msgid "4000:あやせの口から、か細いが確かにうめくような声が漏れた。[%p]"
-msgstr "4000:A soft but clearly audible moan escaped her lips.[%p]"
+msgstr "4000:あやせの口から、か細いが確かにうめくような声が漏れた。[%p]"
 
 msgid "4100:生きてる……。[%p]"
-msgstr "4100:She was alive...[%p]"
+msgstr "4100:生きてる……。[%p]"
 
 msgid "4200:意識は失ってるみたいで、ピクリとも動かない。でも外傷はほとんどない。額にわずかに血が垂れているぐらい。[%p]"
-msgstr "4200:She had passed out and wasn't moving at all, but she didn't seem to be injured. The most I could see was a small trickle of blood on her forehead.[%p]"
+msgstr "4200:意識は失ってるみたいで、ピクリとも動かない。でも外傷はほとんどない。額にわずかに血が垂れているぐらい。[%p]"
 
 msgid "4300:屋上から落ちたはずなのに。[%p]"
-msgstr "4300:She'd fallen all the way from the top of the roof,[%p]"
+msgstr "4300:屋上から落ちたはずなのに。[%p]"
 
 msgid "4400:そこに、ほぼ無傷で倒れている。[linebreak]花壇の上に、倒れている。[%p]"
-msgstr "4400:but now she was almost unharmed. She was lying on top of the flowerbed.[%p]"
+msgstr "4400:そこに、ほぼ無傷で倒れている。[linebreak]花壇の上に、倒れている。[%p]"
 
 msgid "4500:[name]拓巳[line]「…………花壇……に？」[%p]"
-msgstr "4500:[name]拓巳[line]Flowerbed?[%p]"
+msgstr "4500:[name]拓巳[line]「…………花壇……に？」[%p]"
 
 msgid "4600:そこに、[%p]"
-msgstr "4600:Had there been...[%p]"
+msgstr "4600:そこに、[%p]"
 
 msgid "4700:花壇なんてあったっけ……？[%p]"
-msgstr "4700:a flowerbed there?[%p]"
+msgstr "4700:花壇なんてあったっけ……？[%p]"
 

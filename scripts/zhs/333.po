@@ -10,203 +10,203 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:時間の感覚が、完全に失われてしまった。[%p]"
-msgstr "0:I'd completely lost track of how long I'd been in here.[%p]"
+msgstr "0:時間の感覚が、完全に失われてしまった。[%p]"
 
 msgid "100:この部屋には窓がない。[linebreak]だから今が何時なのかも分からない。[%p]"
-msgstr "100:There were no windows in this room. So, I couldn't even tell what time it was now.[%p]"
+msgstr "100:この部屋には窓がない。[linebreak]だから今が何時なのかも分からない。[%p]"
 
 msgid "200:[name]優愛[line]「“その目だれの目？”ってどういう意味？」[%p]"
-msgstr "200:[name]優愛[line]What does “Whose eyes are those?” mean?[%p]"
+msgstr "200:[name]優愛[line]「“その目だれの目？”ってどういう意味？」[%p]"
 
 msgid "300:[name]優愛[line]「どうしてこれから殺す相手に言わせたの？」[%p]"
-msgstr "300:[name]優愛[line]Why did you make the people you were about to kill say it?[%p]"
+msgstr "300:[name]優愛[line]「どうしてこれから殺す相手に言わせたの？」[%p]"
 
 msgid "400:[name]優愛[line]「どうしてダイイングメッセージとして残したの？」[%p]"
-msgstr "400:[name]優愛[line]Why did you make them leave it as a dying message?[%p]"
+msgstr "400:[name]優愛[line]「どうしてダイイングメッセージとして残したの？」[%p]"
 
 msgid "500:[name]優愛[line]「あなたはなにを訴えたいの？」[%p]"
-msgstr "500:[name]優愛[line]What are you trying to say?[%p]"
+msgstr "500:[name]優愛[line]「あなたはなにを訴えたいの？」[%p]"
 
 msgid "600:時計は、ＰＣを見るかケータイを見ることでしか確認できない。[linebreak]僕はいまだベッドの足に縛られたままで、そのどちらも不可能だ。[%p]"
-msgstr "600:The only way to tell inside the Base was to look at my computer clock or my cell phone. Tied to the bedpost, I couldn't do either.[%p]"
+msgstr "600:時計は、ＰＣを見るかケータイを見ることでしか確認できない。[linebreak]僕はいまだベッドの足に縛られたままで、そのどちらも不可能だ。[%p]"
 
 msgid "700:トイレに行くときは外に出るから、かろうじて時間を確認できた。[%p]"
-msgstr "700:When I went to the bathroom, I was able to go outside. So, I could get a general idea of what time it was then.[%p]"
+msgstr "700:トイレに行くときは外に出るから、かろうじて時間を確認できた。[%p]"
 
 msgid "800:でも、この状態が長くなればなるほど、トイレに立つのも億劫になって。水分を取っていないせいなのか、尿意をもよおすこともほとんどなくて。[%p]"
-msgstr "800:But as this dragged on, I started to get reluctant to even go to the bathroom. Without any water, I didn't have any urge to pee.[%p]"
+msgstr "800:でも、この状態が長くなればなるほど、トイレに立つのも億劫になって。水分を取っていないせいなのか、尿意をもよおすこともほとんどなくて。[%p]"
 
 msgid "900:まるで、もう丸１日以上、生理現象に見舞われていないような気がする。[%p]"
-msgstr "900:It felt like I hadn't needed to use the toilet for at least a full day now.[%p]"
+msgstr "900:まるで、もう丸１日以上、生理現象に見舞われていないような気がする。[%p]"
 
 msgid "1000:[name]優愛[line]「どうしてダーススパイダーなの？」[%p]"
-msgstr "1000:[name]優愛[line]Why Darth Spider?[%p]"
+msgstr "1000:[name]優愛[line]「どうしてダーススパイダーなの？」[%p]"
 
 msgid "1100:[name]優愛[line]「それをかぶることでなにを訴えたかったの？」[%p]"
-msgstr "1100:[name]優愛[line]What are you trying to say by wearing that helmet?[%p]"
+msgstr "1100:[name]優愛[line]「それをかぶることでなにを訴えたかったの？」[%p]"
 
 msgid "1200:[name]優愛[line]「宗教的な意味があるの？」[%p]"
-msgstr "1200:[name]優愛[line]Does it have some religious meaning?[%p]"
+msgstr "1200:[name]優愛[line]「宗教的な意味があるの？」[%p]"
 
 msgid "1300:[name]優愛[line]「ダークヒーロー願望？」[%p]"
-msgstr "1300:[name]優愛[line]Are you trying to make yourself out to be an antihero?[%p]"
+msgstr "1300:[name]優愛[line]「ダークヒーロー願望？」[%p]"
 
 msgid "1400:[name]優愛[line]「それとも世論をバカにしたいだけ？」[%p]"
-msgstr "1400:[name]優愛[line]Or is it your way of having fun at society's expense?[%p]"
+msgstr "1400:[name]優愛[line]「それとも世論をバカにしたいだけ？」[%p]"
 
 msgid "1500:優愛はほとんど動かない。[%p]"
-msgstr "1500:Yua barely moved.[%p]"
+msgstr "1500:優愛はほとんど動かない。[%p]"
 
 msgid "1600:ソファに座り続け、たまに座り直したり、立ち上がったりする程度。[%p]"
-msgstr "1600:All she did was sit on the sofa. Occasionally, she would stand up for a little, or change how she sat, but nothing more.[%p]"
+msgstr "1600:ソファに座り続け、たまに座り直したり、立ち上がったりする程度。[%p]"
 
 msgid "1700:その間も、つぶやきは止まらない。よくそれだけ喋り続けることができるよ……。[%p]"
-msgstr "1700:And the whole time, she kept whispering. It amazed me that she could talk so much.[%p]"
+msgstr "1700:その間も、つぶやきは止まらない。よくそれだけ喋り続けることができるよ……。[%p]"
 
 msgid "1800:ＰＣで暇つぶしをしたり、どこかに電話やメールをしたりもせず、そして眠ることもせずに、ひたすら僕を質問責めにしてくる。優愛の声がまるで念仏のように思えてきた。[%p]"
-msgstr "1800:She didn't call or text anyone, or use the computer to kill time. She didn't sleep. All she did was ask me questions. The words themselves were starting to lose their meaning.[%p]"
+msgstr "1800:ＰＣで暇つぶしをしたり、どこかに電話やメールをしたりもせず、そして眠ることもせずに、ひたすら僕を質問責めにしてくる。優愛の声がまるで念仏のように思えてきた。[%p]"
 
 msgid "1900:見られ続けるのは、嫌いだ。[%p]"
-msgstr "1900:I hated being stared at.[%p]"
+msgstr "1900:見られ続けるのは、嫌いだ。[%p]"
 
 msgid "2000:それでも、『将軍』からの思考盗撮は、ごくたまに視線を感じるぐらいだった。イヤだったけど、まだ耐えられた。[%p]"
-msgstr "2000:Shogun's mind reading, at least, only happened once in a while. I hated it, but it wasn't unbearable.[%p]"
+msgstr "2000:それでも、『将軍』からの思考盗撮は、ごくたまに視線を感じるぐらいだった。イヤだったけど、まだ耐えられた。[%p]"
 
 msgid "2100:でも、優愛による完璧な監視は――しかも眼鏡の奥のその瞳はひたすら感情のない冷徹なもの――僕という存在を絶えず否定され続けている感じがした。[%p]"
-msgstr "2100:But having Yua watch my every action with her expressionless, cold eyes... that felt like it was striking a fatal blow at the very core of who I was.[%p]"
+msgstr "2100:でも、優愛による完璧な監視は――しかも眼鏡の奥のその瞳はひたすら感情のない冷徹なもの――僕という存在を絶えず否定され続けている感じがした。[%p]"
 
 msgid "2200:とにかく、ここでこうして縛られて動けない――動かない――限り、目に見えた変化をどこからも確認できないから。[%p]"
-msgstr "2200:As long as I was tied up here, unable to move, I couldn't see anything changing.[%p]"
+msgstr "2200:とにかく、ここでこうして縛られて動けない――動かない――限り、目に見えた変化をどこからも確認できないから。[%p]"
 
 msgid "2300:時間の感覚は、失われた。[%p]"
-msgstr "2300:I'd lost track of how long I'd been tied up.[%p]"
+msgstr "2300:時間の感覚は、失われた。[%p]"
 
 msgid "2400:こうして拘束されてから何日経っているのか、分からない。[%p]"
-msgstr "2400:I had no idea how many days it had been.[%p]"
+msgstr "2400:こうして拘束されてから何日経っているのか、分からない。[%p]"
 
 msgid "2500:まだ２日ぐらいしか経ってない気もするし、もう１ヶ月ぐらいこうしているような錯覚もある。[%p]"
-msgstr "2500:It felt like it might've only been two days, but it also might've been a month.[%p]"
+msgstr "2500:まだ２日ぐらいしか経ってない気もするし、もう１ヶ月ぐらいこうしているような錯覚もある。[%p]"
 
 msgid "2600:自分で自由に動き回ることができないのは、かなりのストレスだ。[linebreak]ここ何時間かは、ひたすら“時計が見たい”と思い続けている。それ以外のことをなにも考えられない。[%p]"
-msgstr "2600:Not being able to move was really stressful. For the past several hours, I'd thought of nothing but how I wanted to see a clock. I couldn't think of anything else.[%p]"
+msgstr "2600:自分で自由に動き回ることができないのは、かなりのストレスだ。[linebreak]ここ何時間かは、ひたすら“時計が見たい”と思い続けている。それ以外のことをなにも考えられない。[%p]"
 
 msgid "2700:[name]優愛[line]「それとも……」[%p]"
-msgstr "2700:[name]優愛[line]Or...[%p]"
+msgstr "2700:[name]優愛[line]「それとも……」[%p]"
 
 msgid "2800:[name]優愛[line]「っ……」[%p]"
-msgstr "2800:[name]優愛[line]...[%p]"
+msgstr "2800:[name]優愛[line]「っ……」[%p]"
 
 msgid "2900:優愛の頭が、かくんと揺れた。[%p]"
-msgstr "2900:Her head suddenly began to sway.[%p]"
+msgstr "2900:優愛の頭が、かくんと揺れた。[%p]"
 
 msgid "3000:眼鏡を外し、目をしょぼしょぼさせながら、まぶたをこすっている。[linebreak]さすがに一睡もしてない疲れが出始めたみたいだ。[%p]"
-msgstr "3000:She took off her glasses and rubbed her tired eyes. The effect of having no sleep at all was finally catching up with her.[%p]"
+msgstr "3000:眼鏡を外し、目をしょぼしょぼさせながら、まぶたをこすっている。[linebreak]さすがに一睡もしてない疲れが出始めたみたいだ。[%p]"
 
 msgid "3100:後先考えずに無茶するからだ。[linebreak]優愛のしていることはあまりに無駄で、不毛な努力。僕の話をちゃんと聞いてくれたなら、こんなことせずに済んだのに。[%p]"
-msgstr "3100:She was getting what she deserved for being so stupid. What she was doing was pointless. A waste of effort. If she'd just listened to what I was telling her, none of this would've happened.[%p]"
+msgstr "3100:後先考えずに無茶するからだ。[linebreak]優愛のしていることはあまりに無駄で、不毛な努力。僕の話をちゃんと聞いてくれたなら、こんなことせずに済んだのに。[%p]"
 
 msgid "3200:[name]優愛[line]「いつ、出てきてくれるんですか……」[%p]"
-msgstr "3200:[name]優愛[line]When are you going to show yourself?[%p]"
+msgstr "3200:[name]優愛[line]「いつ、出てきてくれるんですか……」[%p]"
 
 msgid "3300:そのささやきは、うわごとのようだった。[linebreak]出てくるって、『将軍』のことか。[%p]"
-msgstr "3300:Her whisper sounded so pained. Was she talking to Shogun?[%p]"
+msgstr "3300:そのささやきは、うわごとのようだった。[linebreak]出てくるって、『将軍』のことか。[%p]"
 
 msgid "3400:[name]優愛[line]「どうしたら、出てきてくれるんですか……」[%p]"
-msgstr "3400:[name]優愛[line]What do I have to do to make you show yourself?[%p]"
+msgstr "3400:[name]優愛[line]「どうしたら、出てきてくれるんですか……」[%p]"
 
 msgid "3500:[name]優愛[line]「出てきてよ……」[%p]"
-msgstr "3500:[name]優愛[line]Come out, please.[%p]"
+msgstr "3500:[name]優愛[line]「出てきてよ……」[%p]"
 
 msgid "3600:出てこないよ、残念ながら。[linebreak]最初から、いないんだから。[%p]"
-msgstr "3600:He's not coming. Sorry. He was never here in the first place.[%p]"
+msgstr "3600:出てこないよ、残念ながら。[linebreak]最初から、いないんだから。[%p]"
 
 msgid "3700:[name]優愛[line]「待ってるから……」[%p]"
-msgstr "3700:[name]優愛[line]I'll be waiting.[%p]"
+msgstr "3700:[name]優愛[line]「待ってるから……」[%p]"
 
 msgid "3800:[name]優愛[line]「待っ……て……」[%p]"
-msgstr "3800:[name]優愛[line]Wait...[%p]"
+msgstr "3800:[name]優愛[line]「待っ……て……」[%p]"
 
 msgid "3900:[name]優愛[line]「…………」[%p]"
-msgstr "3900:[name]優愛[line]...[%p]"
+msgstr "3900:[name]優愛[line]「…………」[%p]"
 
 msgid "4000:再び沈黙したかと思うと、優愛の身体がゆっくりと傾き。[%p]"
-msgstr "4000:Her voice dropped off, and then her body began to tilt to the side.[%p]"
+msgstr "4000:再び沈黙したかと思うと、優愛の身体がゆっくりと傾き。[%p]"
 
 msgid "4100:力なく、ソファに横たわってしまった。[%p]"
-msgstr "4100:She slumped over onto the sofa and lay there, unmoving.[%p]"
+msgstr "4100:力なく、ソファに横たわってしまった。[%p]"
 
 msgid "4200:……寝たの？[linebreak]ついに耐えられなくなったの？[%p]"
-msgstr "4200:Had she fallen asleep? Had she finally run out of steam?[%p]"
+msgstr "4200:……寝たの？[linebreak]ついに耐えられなくなったの？[%p]"
 
 msgid "4300:僕はホッと一息ついて、身体の緊張を解いた。[linebreak]見つめられている間、気持ちが安らぐ時間がなかったけど、やっと少し休める。[%p]"
-msgstr "4300:I sighed in relief as the tension left my body. I hadn't had a moment's relief while she was staring at me, but now I could finally get a little rest.[%p]"
+msgstr "4300:僕はホッと一息ついて、身体の緊張を解いた。[linebreak]見つめられている間、気持ちが安らぐ時間がなかったけど、やっと少し休める。[%p]"
 
 msgid "4400:[name]星来[line]「タッキー、なに呑気なこと言ってんの！？」[%p]"
-msgstr "4400:[name]星来[line]Takky, get a hold of yourself![%p]"
+msgstr "4400:[name]星来[line]「タッキー、なに呑気なこと言ってんの！？」[%p]"
 
 msgid "4500:ＰＣモニタの横に立っている星来たんから、声がした。[%p]"
-msgstr "4500:I heard Seira-tan's voice coming from next to the PC monitor.[%p]"
+msgstr "4500:ＰＣモニタの横に立っている星来たんから、声がした。[%p]"
 
 msgid "4600:[name]星来[line]「逃げるなら今がチャンスなんよ！？」[%p]"
-msgstr "4600:[name]星来[line]This is your only chance to escape![%p]"
+msgstr "4600:[name]星来[line]「逃げるなら今がチャンスなんよ！？」[%p]"
 
 msgid "4700:[name]星来[line]「それどころかさ、今なら無防備な優愛っちを逆監禁できるかも！」[%p]"
-msgstr "4700:[name]星来[line]In fact, this is your chance to tie her up! She's defenseless![%p]"
+msgstr "4700:[name]星来[line]「それどころかさ、今なら無防備な優愛っちを逆監禁できるかも！」[%p]"
 
 msgid "4800:[name]星来[line]「そしたらぁ、やりたい放題じゃん、ぼけなすぅ♪」[%p]"
-msgstr "4800:[name]星来[line]And then you can do whatever you want, dork! ♪[%p]"
+msgstr "4800:[name]星来[line]「そしたらぁ、やりたい放題じゃん、ぼけなすぅ♪」[%p]"
 
 msgid "4900:なるほど、陵辱したり調教したりするんですね。分かります。[%p]"
-msgstr "4900:I see. I could, for example, rape her. Or make her endure all kinds of sexy punishments, perhaps.[%p]"
+msgstr "4900:なるほど、陵辱したり調教したりするんですね。分かります。[%p]"
 
 msgid "5000:ソファに横たわっている優愛の顔を、恐る恐るのぞき込む。[%p]"
-msgstr "5000:Trembling, I looked over at her face.[%p]"
+msgstr "5000:ソファに横たわっている優愛の顔を、恐る恐るのぞき込む。[%p]"
 
 msgid "5100:その寝顔だけを見る限り、けっこうかわいい。[linebreak]初めて会ったときの、あの柔らかな笑みの印象がよみがえる。[%p]"
-msgstr "5100:Asleep, she was actually pretty cute. I remembered the soft smile she'd shown me when we'd first met.[%p]"
+msgstr "5100:その寝顔だけを見る限り、けっこうかわいい。[linebreak]初めて会ったときの、あの柔らかな笑みの印象がよみがえる。[%p]"
 
 msgid "5200:当たり前のことだけど、優愛は優愛で思うことがあって、僕を敵視してきたんだろうな。[%p]"
-msgstr "5200:Obviously, she had her reasons for thinking of me as her enemy.[%p]"
+msgstr "5200:当たり前のことだけど、優愛は優愛で思うことがあって、僕を敵視してきたんだろうな。[%p]"
 
 msgid "5300:僕だって、優愛を勝手に『将軍』の手下、敵だと思ってきた。[%p]"
-msgstr "5300:I'd thought she was working for Shogun, too.[%p]"
+msgstr "5300:僕だって、優愛を勝手に『将軍』の手下、敵だと思ってきた。[%p]"
 
 msgid "5400:でも、そう思わせたのは優愛だ。[linebreak]僕を裏切ったのは、騙していたのは、優愛の方なんだ。だからこいつは、僕に陵辱されたり調教されたって文句は言えない。[%p]"
-msgstr "5400:But she was the one who'd made me think that. She was the one who'd tricked me. Lied to me. So even if I raped her, or made her endure all kinds of sexy punishments, she wouldn't have the right to complain.[%p]"
+msgstr "5400:でも、そう思わせたのは優愛だ。[linebreak]僕を裏切ったのは、騙していたのは、優愛の方なんだ。だからこいつは、僕に陵辱されたり調教されたって文句は言えない。[%p]"
 
 msgid "5500:もう一度、優愛の寝顔をうかがう。[linebreak]まぶたが、ピクピクと痙攣していた。[linebreak]苦しそうに表情を歪めている。[%p]"
-msgstr "5500:I looked at her face again. Her eyelids were twitching. Her face was twisted in pain.[%p]"
+msgstr "5500:もう一度、優愛の寝顔をうかがう。[linebreak]まぶたが、ピクピクと痙攣していた。[linebreak]苦しそうに表情を歪めている。[%p]"
 
 msgid "5600:と、彼女の目尻から、涙が一筋、こぼれ落ちた。[%p]"
-msgstr "5600:Suddenly, a single tear fell from the corner of her eye.[%p]"
+msgstr "5600:と、彼女の目尻から、涙が一筋、こぼれ落ちた。[%p]"
 
 msgid "5700:[name]優愛[line]「ぅ……」[%p]"
-msgstr "5700:[name]優愛[line]...[%p]"
+msgstr "5700:[name]優愛[line]「ぅ……」[%p]"
 
 msgid "5800:もしかすると、死んだ妹の夢でも見ているんだろうか……。[%p]"
-msgstr "5800:Maybe she was dreaming about her dead sister.[%p]"
+msgstr "5800:もしかすると、死んだ妹の夢でも見ているんだろうか……。[%p]"
 
 msgid "5900:[name]星来[line]「タッキー、調教しないの？」[%p]"
-msgstr "5900:[name]星来[line]Takky, you're not going to make her endure sexy punishments?[%p]"
+msgstr "5900:[name]星来[line]「タッキー、調教しないの？」[%p]"
 
 msgid "6000:……涙なんか流されたら、とてもそんな気分にはなれないよ。[%p]"
-msgstr "6000:I couldn't, after seeing her cry.[%p]"
+msgstr "6000:……涙なんか流されたら、とてもそんな気分にはなれないよ。[%p]"
 
 msgid "6100:[name]星来[line]「監禁されて、緊縛されてるのに？\u3000タッキーって聖人君子だねぇ。優しい。優しすぎる！\u3000そこはタッキーのいいところだけど、時と場合によるよ？」[%p]"
-msgstr "6100:[name]星来[line]Even though she locked you in here and tied you up? Takky, you're a saint. You're so nice. Too nice! That's one of the things I admire about you, but I think there's a time and place for it![%p]"
+msgstr "6100:[name]星来[line]「監禁されて、緊縛されてるのに？\u3000タッキーって聖人君子だねぇ。優しい。優しすぎる！\u3000そこはタッキーのいいところだけど、時と場合によるよ？」[%p]"
 
 msgid "6200:そんなんじゃなくて……。[%p]"
-msgstr "6200:No, it's not like that.[%p]"
+msgstr "6200:そんなんじゃなくて……。[%p]"
 
 msgid "6300:もちろん優愛を許せない気持ちもあるけど。[linebreak]なんだか、怒りとか、抵抗する気力とか、そんなものも消えてしまった。[%p]"
-msgstr "6300:Of course, I still couldn't forgive what she'd done. But somehow, my anger and my will to resist her were gone.[%p]"
+msgstr "6300:もちろん優愛を許せない気持ちもあるけど。[linebreak]なんだか、怒りとか、抵抗する気力とか、そんなものも消えてしまった。[%p]"
 
 msgid "6400:緊張から解放されたせいだろうか。[linebreak]それとも、妹の話を聞いたから？[%p]"
-msgstr "6400:Was it because I wasn't as nervous now that she wasn't staring at me? Or because I'd heard about what had happened to her sister?[%p]"
+msgstr "6400:緊張から解放されたせいだろうか。[linebreak]それとも、妹の話を聞いたから？[%p]"
 
 msgid "6500:なんとなく、優愛は僕に危害を加えるつもりはないんだ、っていう気がして。[%p]"
-msgstr "6500:Somehow, it felt like she actually wasn't going to hurt me.[%p]"
+msgstr "6500:なんとなく、優愛は僕に危害を加えるつもりはないんだ、っていう気がして。[%p]"
 
 msgid "6600:強烈な眠気が襲ってくる。[linebreak]縛られた腕の痛みも忘れて、少しだけ、この眠気に身を委ねて。[linebreak]この状況からどう脱出するかは、その後で考えよう……。[%p]"
-msgstr "6600:I felt incredibly sleepy. I decided to forget the pain in my arms from being tied up, and just give in to the sleepiness. I could figure out how to escape later.[%p]"
+msgstr "6600:強烈な眠気が襲ってくる。[linebreak]縛られた腕の痛みも忘れて、少しだけ、この眠気に身を委ねて。[linebreak]この状況からどう脱出するかは、その後で考えよう……。[%p]"
 

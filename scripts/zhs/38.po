@@ -10,110 +10,110 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:それから丸１日、僕はバゼラードに潜り続けた。食事を取る時間も惜しんで、ひたすら西條拓巳を消してナイトハルトであり続けた。[%p]"
-msgstr "0:I spent the entirety of the next 24 hours in Baselard. I didn't even quit to eat. I dedicated myself fully to erasing Takumi Nishijo and being KnightHeart.[%p]"
+msgstr "0:それから丸１日、僕はバゼラードに潜り続けた。食事を取る時間も惜しんで、ひたすら西條拓巳を消してナイトハルトであり続けた。[%p]"
 
 msgid "100:エンスーでは僕は神だ。悪魔に怯えるようなこともない。みんなが僕を尊敬してくれるんだ。[%p]"
-msgstr "100:In ESO, I was a god. I didn't need to be scared of any demons. Everybody respected me.[%p]"
+msgstr "100:エンスーでは僕は神だ。悪魔に怯えるようなこともない。みんなが僕を尊敬してくれるんだ。[%p]"
 
 msgid "200:この居心地のいい世界に永遠にいられたらどんなにいいだろうと、いつも思う。[%p]"
-msgstr "200:I always thought how nice it would be if I could spend forever in this wonderful world.[%p]"
+msgstr "200:この居心地のいい世界に永遠にいられたらどんなにいいだろうと、いつも思う。[%p]"
 
 msgid "300:[name]拓巳[line]「ちょ！\u3000お、おおお！\u3000エンジェルハィロゥ、キターー！\u3000キタコレ！[linebreak]超レア！\u3000すげー！\u3000ふひひ！」[%p]"
-msgstr "300:[name]拓巳[line]Hey! Ooh, ooh! I got an Angel Halo! I got one! This thing's an ultra-rare! Wow! Fweheheh![%p]"
+msgstr "300:[name]拓巳[line]「ちょ！\u3000お、おおお！\u3000エンジェルハィロゥ、キターー！\u3000キタコレ！[linebreak]超レア！\u3000すげー！\u3000ふひひ！」[%p]"
 
 msgid "400:ナイトハルト＞エンジェルハィロゥｋｔｋｒ！！！１１！！１！！１"
-msgstr "400:KnightHeart: GOT AN ANGEL HALO!11!!1!!1 ktkr!"
+msgstr "400:ナイトハルト＞エンジェルハィロゥｋｔｋｒ！！！１１！！１！！１"
 
 msgid "500:[name]拓巳[line]「こ、これはさっそく使わないと……えーっと、装備装備……」[%p]"
-msgstr "500:[name]拓巳[line]I-I need to use this right now. Let me open up my equip screen...[%p]"
+msgstr "500:[name]拓巳[line]「こ、これはさっそく使わないと……えーっと、装備装備……」[%p]"
 
 msgid "600:[name]拓巳[line]「おおお、キャラの見た目変わった！\u3000すげ！\u3000これすげ！\u3000ちょ、見て見て、見ろってグリム！」[%p]"
-msgstr "600:[name]拓巳[line]Oh, wow, my character's appearance changed! Awesome! This is awesome! Look, you gotta see this, Grimm![%p]"
+msgstr "600:[name]拓巳[line]「おおお、キャラの見た目変わった！\u3000すげ！\u3000これすげ！\u3000ちょ、見て見て、見ろってグリム！」[%p]"
 
 msgid "700:[name]拓巳[line]「ん？」[%p]"
-msgstr "700:[name]拓巳[line]Hmm?[%p]"
+msgstr "700:[name]拓巳[line]「ん？」[%p]"
 
 msgid "800:ＳＷ＞ナイトハルト自重しろ"
-msgstr "800:SW: KnightHeart, cut it the hell out."
+msgstr "800:ＳＷ＞ナイトハルト自重しろ"
 
 msgid "900:グリム＞ナイトハルト自重しろ"
-msgstr "900:Grimm: KnightHeart, cut it the hell out."
+msgstr "900:グリム＞ナイトハルト自重しろ"
 
 msgid "1000:ゲジ姉＞ナイトハルト自重しろ"
-msgstr "1000:Big Sis Geji: KnightHeart, cut it the hell out."
+msgstr "1000:ゲジ姉＞ナイトハルト自重しろ"
 
 msgid "1100:[name]拓巳[line]「『ナイトハルト自重しろ』？\u3000うっせー氏ねよ負け組。ふひひひひ」[%p]"
-msgstr "1100:[name]拓巳[line]“KnightHeart, cut it the hell out”? Shut up, losers. You're just jealous. Fweheheh.[%p]"
+msgstr "1100:[name]拓巳[line]「『ナイトハルト自重しろ』？\u3000うっせー氏ねよ負け組。ふひひひひ」[%p]"
 
 msgid "1200:[name]拓巳[line]「ちょっと街に戻って見せびらかしてこようかなぁ」[%p]"
-msgstr "1200:[name]拓巳[line]Maybe I'll head back into town and show this off.[%p]"
+msgstr "1200:[name]拓巳[line]「ちょっと街に戻って見せびらかしてこようかなぁ」[%p]"
 
 msgid "1300:ずっと探し求めていた超レアアイテムのひとつが手に入って、僕は興奮状態だった。憂鬱な気分はすっかり吹き飛んでいた。[%p]"
-msgstr "1300:I'd finally gotten one of the ultra-rare drops I wanted, and was incredibly excited. All the depression I'd been feeling had just blown away.[%p]"
+msgstr "1300:ずっと探し求めていた超レアアイテムのひとつが手に入って、僕は興奮状態だった。憂鬱な気分はすっかり吹き飛んでいた。[%p]"
 
 msgid "1400:エンジェルハィロゥって言えば、ドロップ率０．０００１％っていう幻のアイテムなんだぞ！[%p]"
-msgstr "1400:An Angel Halo had a drop rate of 0.0001%![%p]"
+msgstr "1400:エンジェルハィロゥって言えば、ドロップ率０．０００１％っていう幻のアイテムなんだぞ！[%p]"
 
 msgid "1500:その効果はキャラの外見が変わるだけっていう、ちっとも役に立たないアイテムなんだけど。[%p]"
-msgstr "1500:It was completely useless, and just changed the way your character looked.[%p]"
+msgstr "1500:その効果はキャラの外見が変わるだけっていう、ちっとも役に立たないアイテムなんだけど。[%p]"
 
 msgid "1600:逆に言えば一目でエンジェルハィロゥを持ってるって周囲に分かるから、羨望の眼差しを受けること間違いなしだ。[%p]"
-msgstr "1600:But this also meant that everybody could see that you had an Angel Halo, and they would all be really jealous.[%p]"
+msgstr "1600:逆に言えば一目でエンジェルハィロゥを持ってるって周囲に分かるから、羨望の眼差しを受けること間違いなしだ。[%p]"
 
 msgid "1700:[name]拓巳[line]「ふひひ、やった……ナイトハルトがまた一歩、神に近づいた……！」[%p]"
-msgstr "1700:[name]拓巳[line]Fweheheh. Yes! KnightHeart takes another step towards godhood![%p]"
+msgstr "1700:[name]拓巳[line]「ふひひ、やった……ナイトハルトがまた一歩、神に近づいた……！」[%p]"
 
 msgid "1800:[name]？？？[line]「こーらーぁ！\u3000開ーけーろー！」[%p]"
-msgstr "1800:[name]？？？[line]Hey! Open the door![%p]"
+msgstr "1800:[name]？？？[line]「こーらーぁ！\u3000開ーけーろー！」[%p]"
 
 msgid "1900:うるさいなあ。さっきからドンドンと扉を叩いてるのはどこの誰だ！？[%p]"
-msgstr "1900:Shut up. Who's that pounding on my door, anyway?[%p]"
+msgstr "1900:うるさいなあ。さっきからドンドンと扉を叩いてるのはどこの誰だ！？[%p]"
 
 msgid "2000:せっかくレアアイテムゲットの喜びに浸ってるって言うのに。僕の邪魔をするなよ……。[%p]"
-msgstr "2000:I'm enjoying my new rare item. Don't interrupt me...[%p]"
+msgstr "2000:せっかくレアアイテムゲットの喜びに浸ってるって言うのに。僕の邪魔をするなよ……。[%p]"
 
 msgid "2100:[name]？？？[line]「バカおにーー！」[%p]"
-msgstr "2100:[name]？？？[line]You stupid brother![%p]"
+msgstr "2100:[name]？？？[line]「バカおにーー！」[%p]"
 
 msgid "2200:[name]拓巳[line]「げ…………」[%p]"
-msgstr "2200:[name]拓巳[line]Geh...[%p]"
+msgstr "2200:[name]拓巳[line]「げ…………」[%p]"
 
 msgid "2300:この声……[%p]"
-msgstr "2300:That voice.[%p]"
+msgstr "2300:この声……[%p]"
 
 msgid "2400:聞き覚えのある声を聞いたとたん、僕はげんなりした。[linebreak]間違いない、この声の主は両親が放った刺客――妹の[ruby-base]七海[ruby-text-start]ななみ[ruby-text-end]だ。めんどくさいことになったぞ。[%p]"
-msgstr "2400:The minute I heard it, my good mood vanished. It was an assassin sent by my parents—my little sister, Nanami. This was going to be a pain in the butt.[%p]"
+msgstr "2400:聞き覚えのある声を聞いたとたん、僕はげんなりした。[linebreak]間違いない、この声の主は両親が放った刺客――妹の[ruby-base]七海[ruby-text-start]ななみ[ruby-text-end]だ。めんどくさいことになったぞ。[%p]"
 
 msgid "2500:[name]？？？[line]「開けないとひどいんだからねー！」[%p]"
-msgstr "2500:[name]？？？[line]It's really mean of you to not open the door![%p]"
+msgstr "2500:[name]？？？[line]「開けないとひどいんだからねー！」[%p]"
 
 msgid "2600:く、くそう……。[%p]"
-msgstr "2600:D-Damn it...[%p]"
+msgstr "2600:く、くそう……。[%p]"
 
 msgid "2700:嵐のような時間が始まってしまう。[%p]"
-msgstr "2700:A storm was about to roll in.[%p]"
+msgstr "2700:嵐のような時間が始まってしまう。[%p]"
 
 msgid "2800:ホントは開けたくないけど、そんなことをしたら今度は両親が駆けつけてきて“やっぱりひとり暮らしはやめて実家に戻ってきなさい”って言われてしまう……。[%p]"
-msgstr "2800:I didn't want to open the door at all, but if I kept it shut, my parents would be the next ones to come. They'd tell me to stop living by myself and come home.[%p]"
+msgstr "2800:ホントは開けたくないけど、そんなことをしたら今度は両親が駆けつけてきて“やっぱりひとり暮らしはやめて実家に戻ってきなさい”って言われてしまう……。[%p]"
 
 msgid "2900:ここのビルのオーナーは実質的には父さんだから、圧力をかけて僕を追い出すことなんて朝飯前だろう。[%p]"
-msgstr "2900:My dad was pretty much the owner of this building. If he wanted to kick me out, he could.[%p]"
+msgstr "2900:ここのビルのオーナーは実質的には父さんだから、圧力をかけて僕を追い出すことなんて朝飯前だろう。[%p]"
 
 msgid "3000:うう、こんな理不尽なことったらないよ……。[%p]"
-msgstr "3000:This just wasn't fair![%p]"
+msgstr "3000:うう、こんな理不尽なことったらないよ……。[%p]"
 
 msgid "3100:[name]？？？[line]「おーーーにーーー！」[%p]"
-msgstr "3100:[name]？？？[line]Brother![%p]"
+msgstr "3100:[name]？？？[line]「おーーーにーーー！」[%p]"
 
 msgid "3200:[color index="A0FF0000"]ｕｚｅｅｅｅｅｅｅｅｅｅｅ！[color index="800000"][%p]"
-msgstr "3200:[color index="A0FF0000"]Shaddup![color index="800000"][%p]"
+msgstr "3200:[color index="A0FF0000"]ｕｚｅｅｅｅｅｅｅｅｅｅｅ！[color index="800000"][%p]"
 
 msgid "3300:そんな大声でわめき散らすなよ……。[%p]"
-msgstr "3300:Don't yell so loud![%p]"
+msgstr "3300:そんな大声でわめき散らすなよ……。[%p]"
 
 msgid "3400:扉はいまだに、外から乱暴に叩かれ続けている。[linebreak]コンテナハウスの壁は鉄板一枚だから、音が室内にすごく響く。それを分かっててヤツはわざとやってるんだ。[%p]"
-msgstr "3400:She was still banging on the outside of the door. The walls of a shipping container are a single piece of metal, so any sound echoes really loudly. She knew that, and was doing it anyway.[%p]"
+msgstr "3400:扉はいまだに、外から乱暴に叩かれ続けている。[linebreak]コンテナハウスの壁は鉄板一枚だから、音が室内にすごく響く。それを分かっててヤツはわざとやってるんだ。[%p]"
 
 msgid "3500:僕はやむなく、内側からかけておいた南京錠の鍵を外し、観音扉を開けた。[%p]"
-msgstr "3500:I unlocked the padlock on the inside and opened the doors outward. I had no other choice.[%p]"
+msgstr "3500:僕はやむなく、内側からかけておいた南京錠の鍵を外し、観音扉を開けた。[%p]"
 

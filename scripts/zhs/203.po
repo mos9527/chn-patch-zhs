@@ -10,140 +10,140 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:三住くんと僕は、互いにぐったりと肩を落としながら、病棟の１階まで降りた。[%p]"
-msgstr "0:Misumi and I both looked at each other and shrugged as we walked down to the first floor.[%p]"
+msgstr "0:三住くんと僕は、互いにぐったりと肩を落としながら、病棟の１階まで降りた。[%p]"
 
 msgid "100:[name]三住[line]「俺、もう岸本のことはどうでもよくなった……」[%p]"
-msgstr "100:[name]三住[line]I'm totally over Kishimoto.[%p]"
+msgstr "100:[name]三住[line]「俺、もう岸本のことはどうでもよくなった……」[%p]"
 
 msgid "200:[name]三住[line]「これまでの俺のポリシーはな、タク。[linebreak]可愛ければなんでも許してやる、だった」[%p]"
-msgstr "200:[name]三住[line]Until now, I've had a rule, Taku. If she's cute, I'll put up with anything.[%p]"
+msgstr "200:[name]三住[line]「これまでの俺のポリシーはな、タク。[linebreak]可愛ければなんでも許してやる、だった」[%p]"
 
 msgid "300:[name]三住[line]「けどそりゃ間違ってたよ。[linebreak]あんな強烈なデンパ、俺には受け止めらんねえよ……」[%p]"
-msgstr "300:[name]三住[line]But that was wrong. She's too nuts for me.[%p]"
+msgstr "300:[name]三住[line]「けどそりゃ間違ってたよ。[linebreak]あんな強烈なデンパ、俺には受け止めらんねえよ……」[%p]"
 
 msgid "400:[name]三住[line]「素直に梢ちゃんだけ狙うことにするぜ」[%p]"
-msgstr "400:[name]三住[line]I'll just focus my attention on Kozue, I guess.[%p]"
+msgstr "400:[name]三住[line]「素直に梢ちゃんだけ狙うことにするぜ」[%p]"
 
 msgid "500:[name]拓巳[line]「…………」[%p]"
-msgstr "500:[name]拓巳[line]...[%p]"
+msgstr "500:[name]拓巳[line]「…………」[%p]"
 
 msgid "600:それはそれで、どうかと思うけど。[linebreak]三住くんにはちゃんと、付き合っているカノジョがいるんだから。[%p]"
-msgstr "600:I wasn't sure that was a good idea, either. Misumi already had a girlfriend, after all.[%p]"
+msgstr "600:それはそれで、どうかと思うけど。[linebreak]三住くんにはちゃんと、付き合っているカノジョがいるんだから。[%p]"
 
 msgid "700:[name]三住[line]「お前、マジですごいな」[%p]"
-msgstr "700:[name]三住[line]You've really got my respect, though.[%p]"
+msgstr "700:[name]三住[line]「お前、マジですごいな」[%p]"
 
 msgid "800:[name]三住[line]「岸本のあの脳みそお花畑な話、[linebreak]よく３０分近くも聞いてられるよ。俺、尊敬したぜ」[%p]"
-msgstr "800:[name]三住[line]You managed to listen to Kishimoto's crazy talk for almost half an hour. I'm in awe.[%p]"
+msgstr "800:[name]三住[line]「岸本のあの脳みそお花畑な話、[linebreak]よく３０分近くも聞いてられるよ。俺、尊敬したぜ」[%p]"
 
 msgid "900:[name]三住[line]「俺は３分ももたなかった……。この俺がだぞ！？」[%p]"
-msgstr "900:[name]三住[line]I couldn't handle three minutes of it. Me, of all people![%p]"
+msgstr "900:[name]三住[line]「俺は３分ももたなかった……。この俺がだぞ！？」[%p]"
 
 msgid "1000:し、知らんがな……(´・ω・`)[%p]"
-msgstr "1000:U-Uh, okay... (´・ω・`)[%p]"
+msgstr "1000:し、知らんがな……(´・ω・`)[%p]"
 
 msgid "1100:三住くんの話は適当に聞き流し、周囲を気にしながら歩く。[%p]"
-msgstr "1100:I kept an eye on my surroundings as I walked, only occasionally responding to some comment Misumi made.[%p]"
+msgstr "1100:三住くんの話は適当に聞き流し、周囲を気にしながら歩く。[%p]"
 
 msgid "1200:と、外来棟のロビーの手前に、ぼんやりと立っている梨深の姿を見つけた。[%p]"
-msgstr "1200:When we got to the outpatient building lobby, I could see Rimi standing there, looking a little spaced out.[%p]"
+msgstr "1200:と、外来棟のロビーの手前に、ぼんやりと立っている梨深の姿を見つけた。[%p]"
 
 msgid "1300:冷たい風に吹かれ髪を揺らしているその横顔には、いつもの元気さはない。どこか思い詰めたような様子で、夕焼け空を見上げている。[%p]"
-msgstr "1300:Cold wind was rustling through her hair, and I could see she lacked her usual cheerful demeanor. She was looking up at the night sky as if some big problem was on her mind.[%p]"
+msgstr "1300:冷たい風に吹かれ髪を揺らしているその横顔には、いつもの元気さはない。どこか思い詰めたような様子で、夕焼け空を見上げている。[%p]"
 
 msgid "1400:[name]三住[line]「おーい、梨深」[%p]"
-msgstr "1400:[name]三住[line]Hey! Rimi![%p]"
+msgstr "1400:[name]三住[line]「おーい、梨深」[%p]"
 
 msgid "1500:三住くんが声をかけると、こっちを見た梨深がすぐさまパッと表情を輝かせ、大きく手を振った。[%p]"
-msgstr "1500:When Misumi said her name, she turned to us with a sudden bright smile on her face, and waved energetically at us.[%p]"
+msgstr "1500:三住くんが声をかけると、こっちを見た梨深がすぐさまパッと表情を輝かせ、大きく手を振った。[%p]"
 
 msgid "1600:[name]梨深[line]「やっと見つかったぁ」[%p]"
-msgstr "1600:[name]梨深[line]I finally found you![%p]"
+msgstr "1600:[name]梨深[line]「やっと見つかったぁ」[%p]"
 
 msgid "1700:その笑顔を見て、僕はホッとした。[linebreak]衝動的に、梨深に駆け寄ってしまう。[%p]"
-msgstr "1700:Seeing her smile made me feel relieved. I found myself running up to her.[%p]"
+msgstr "1700:その笑顔を見て、僕はホッとした。[linebreak]衝動的に、梨深に駆け寄ってしまう。[%p]"
 
 msgid "1800:まあ、その後抱き寄せるみたいなことはさすがにできないから、ホントに駆け寄っただけなんだけど。[%p]"
-msgstr "1800:Of course, I couldn't hug her, or anything like that, so running up to her was all I did.[%p]"
+msgstr "1800:まあ、その後抱き寄せるみたいなことはさすがにできないから、ホントに駆け寄っただけなんだけど。[%p]"
 
 msgid "1900:[name]梨深[line]「タク、感動の再会だね。また会えて嬉しい」[%p]"
-msgstr "1900:[name]梨深[line]I'm happy to see you again.[%p]"
+msgstr "1900:[name]梨深[line]「タク、感動の再会だね。また会えて嬉しい」[%p]"
 
 msgid "2000:[name]三住[line]「どこほっつき歩いてたんだ？」[%p]"
-msgstr "2000:[name]三住[line]Where have you been?[%p]"
+msgstr "2000:[name]三住[line]「どこほっつき歩いてたんだ？」[%p]"
 
 msgid "2100:[name]梨深[line]「病室、どこか分からなくて。あちこちさまよっちゃった」[%p]"
-msgstr "2100:[name]梨深[line]I didn't know which room she was in. I was looking all over for it.[%p]"
+msgstr "2100:[name]梨深[line]「病室、どこか分からなくて。あちこちさまよっちゃった」[%p]"
 
 msgid "2200:[name]梨深[line]「ひどいよー、置いてくなんて」[%p]"
-msgstr "2200:[name]梨深[line]How could you guys just leave me like that? That's so mean![%p]"
+msgstr "2200:[name]梨深[line]「ひどいよー、置いてくなんて」[%p]"
 
 msgid "2300:梨深はわざとらしく泣き真似をして見せる。[%p]"
-msgstr "2300:She gave us a show of fake crying.[%p]"
+msgstr "2300:梨深はわざとらしく泣き真似をして見せる。[%p]"
 
 msgid "2400:[name]三住[line]「お前が先に行けって言ったんだろ」[%p]"
-msgstr "2400:[name]三住[line]You're the one who told us to go on without you.[%p]"
+msgstr "2400:[name]三住[line]「お前が先に行けって言ったんだろ」[%p]"
 
 msgid "2500:[name]梨深[line]「あは。そうだったね」[%p]"
-msgstr "2500:[name]梨深[line]Ahah. That's right, isn't it?[%p]"
+msgstr "2500:[name]梨深[line]「あは。そうだったね」[%p]"
 
 msgid "2600:[name]梨深[line]「で、岸本さんには会えた？」[%p]"
-msgstr "2600:[name]梨深[line]So, did you find Kishimoto?[%p]"
+msgstr "2600:[name]梨深[line]「で、岸本さんには会えた？」[%p]"
 
 msgid "2700:うなずく僕の横で、三住くんがあからさまにニヤリと笑うのが分かった。[%p]"
-msgstr "2700:I nodded. Misumi was behind me, but I could tell he was grinning.[%p]"
+msgstr "2700:うなずく僕の横で、三住くんがあからさまにニヤリと笑うのが分かった。[%p]"
 
 msgid "2800:[name]三住[line]「お前、岸本にビンタされてただろ」[%p]"
-msgstr "2800:[name]三住[line]Kishimoto slapped you, didn't she?[%p]"
+msgstr "2800:[name]三住[line]「お前、岸本にビンタされてただろ」[%p]"
 
 msgid "2900:[name]梨深[line]「え……」[%p]"
-msgstr "2900:[name]梨深[line]Huh?[%p]"
+msgstr "2900:[name]梨深[line]「え……」[%p]"
 
 msgid "3000:[name]梨深[line]「さ、さあて、なんのことでしょーう？」[%p]"
-msgstr "3000:[name]梨深[line]I-I don't know what you're talking about.[%p]"
+msgstr "3000:[name]梨深[line]「さ、さあて、なんのことでしょーう？」[%p]"
 
 msgid "3100:どうやら梨深は、あやせにひっぱたかれたことは隠しておきたいらしい。[%p]"
-msgstr "3100:Evidently Rimi had wanted to keep the fact that Ayase had slapped her a secret.[%p]"
+msgstr "3100:どうやら梨深は、あやせにひっぱたかれたことは隠しておきたいらしい。[%p]"
 
 msgid "3200:あえて触れずにおこうと思ってたのに。三住くん空気嫁。[%p]"
-msgstr "3200:I hadn't intended to bring it up. Misumi, read the room.[%p]"
+msgstr "3200:あえて触れずにおこうと思ってたのに。三住くん空気嫁。[%p]"
 
 msgid "3300:[name]三住[line]「隠そうったって無駄だぜ。俺は一部始終を見てたんだ。某家政婦のようにな」[%p]"
-msgstr "3300:[name]三住[line]No sense in hiding it. I saw the whole thing. Every second of it.[%p]"
+msgstr "3300:[name]三住[line]「隠そうったって無駄だぜ。俺は一部始終を見てたんだ。某家政婦のようにな」[%p]"
 
 msgid "3400:[name]梨深[line]「……ええー。なーんだ、バレてたのかあ」[%p]"
-msgstr "3400:[name]梨深[line]Oh... You saw it, huh?[%p]"
+msgstr "3400:[name]梨深[line]「……ええー。なーんだ、バレてたのかあ」[%p]"
 
 msgid "3500:罰が悪そうにため息をつきシュンとすると、僕の顔を上目遣いで窺ってくる。[%p]"
-msgstr "3500:She gave us an awkward look, and then stared up into my eyes.[%p]"
+msgstr "3500:罰が悪そうにため息をつきシュンとすると、僕の顔を上目遣いで窺ってくる。[%p]"
 
 msgid "3600:[name]梨深[line]「もしかして、タクも見てたの？」[%p]"
-msgstr "3600:[name]梨深[line]Did you see it too, Taku?[%p]"
+msgstr "3600:[name]梨深[line]「もしかして、タクも見てたの？」[%p]"
 
 msgid "3700:[name]拓巳[line]「え……と……」[%p]"
-msgstr "3700:[name]拓巳[line]Oh, um...[%p]"
+msgstr "3700:[name]拓巳[line]「え……と……」[%p]"
 
 msgid "3800:[name]三住[line]「そうだ。俺とタクで、決定的瞬間をバッチリ見てた」[%p]"
-msgstr "3800:[name]三住[line]That's right. Taku and I got a good look right when it happened.[%p]"
+msgstr "3800:[name]三住[line]「そうだ。俺とタクで、決定的瞬間をバッチリ見てた」[%p]"
 
 msgid "3900:い、言うなよ……。[%p]"
-msgstr "3900:D-Don't tell her that.[%p]"
+msgstr "3900:い、言うなよ……。[%p]"
 
 msgid "4000:[name]梨深[line]「たはは。なんだ、それじゃ必死にごまかそうとしてたのがバカみたいじゃない」[%p]"
-msgstr "4000:[name]梨深[line]Tahaha. Aw, now I look like an idiot for trying to hide it.[%p]"
+msgstr "4000:[name]梨深[line]「たはは。なんだ、それじゃ必死にごまかそうとしてたのがバカみたいじゃない」[%p]"
 
 msgid "4100:[name]梨深[line]「屋上に行ったらちょうど岸本さんがいたから。つい、気になってたことを質問をしちゃったの」[%p]"
-msgstr "4100:[name]梨深[line]I'd gone up to the roof and she was there. I asked her a question I'd been wondering about.[%p]"
+msgstr "4100:[name]梨深[line]「屋上に行ったらちょうど岸本さんがいたから。つい、気になってたことを質問をしちゃったの」[%p]"
 
 msgid "4200:[name]梨深[line]「そしたら、機嫌損ねたみたい」[%p]"
-msgstr "4200:[name]梨深[line]And I guess she got mad.[%p]"
+msgstr "4200:[name]梨深[line]「そしたら、機嫌損ねたみたい」[%p]"
 
 msgid "4300:気になってた、こと……？[%p]"
-msgstr "4300:A question?[%p]"
+msgstr "4300:気になってた、こと……？[%p]"
 
 msgid "4400:[name]三住[line]「なんだよ、気になってたことって」[%p]"
-msgstr "4400:[name]三住[line]What question?[%p]"
+msgstr "4400:[name]三住[line]「なんだよ、気になってたことって」[%p]"
 
 msgid "4500:[name]梨深[line]「えーっとね」[%p]"
-msgstr "4500:[name]梨深[line]Um...[%p]"
+msgstr "4500:[name]梨深[line]「えーっとね」[%p]"
 

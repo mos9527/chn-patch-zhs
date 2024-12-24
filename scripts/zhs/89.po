@@ -10,71 +10,71 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:翌日の朝一番で、僕は病院へ向かった。[%p]"
-msgstr "0:The next day, I headed to the hospital.[%p]"
+msgstr "0:翌日の朝一番で、僕は病院へ向かった。[%p]"
 
 msgid "100:前に来たときは結局確認できなかったけど、今日こそ僕は正常だって認めてもらうんだ。[%p]"
-msgstr "100:Last time, I hadn't been able to get the assurance I wanted, but today, I was going to make them tell me I was sane.[%p]"
+msgstr "100:前に来たときは結局確認できなかったけど、今日こそ僕は正常だって認めてもらうんだ。[%p]"
 
 msgid "200:先生には僕のことを思い出してもらう。[linebreak]“４年前まであなたの患者だった西條です”って打ち明けてやるんだ。そして、いろいろ話を聞いてもらおう。[%p]"
-msgstr "200:I was going to have the doctor remember me. I was going to tell him that I was his patient until four years ago, and then I was going to have him listen to everything I had to say.[%p]"
+msgstr "200:先生には僕のことを思い出してもらう。[linebreak]“４年前まであなたの患者だった西條です”って打ち明けてやるんだ。そして、いろいろ話を聞いてもらおう。[%p]"
 
 msgid "300:おかしいのは僕じゃない。[linebreak]悪魔女や三住くんの方なんだ。先生もそう言ってくれるはず。[%p]"
-msgstr "300:I wasn't the crazy one. It was the demon girl and Misumi. I knew that's what he would tell me.[%p]"
+msgstr "300:おかしいのは僕じゃない。[linebreak]悪魔女や三住くんの方なんだ。先生もそう言ってくれるはず。[%p]"
 
 msgid "400:ここの開院時間は朝８時と、普通の病院より少し早い。[linebreak]だからその開院時間ぴったりに来たんだけど……[%p]"
-msgstr "400:This hospital opened at eight, earlier than a lot of them. That's why I'd decided to come right on time...[%p]"
+msgstr "400:ここの開院時間は朝８時と、普通の病院より少し早い。[linebreak]だからその開院時間ぴったりに来たんだけど……[%p]"
 
 msgid "500:すでにロビーのソファには多くの老人たちが座っていた。[%p]"
-msgstr "500:Only to find the lobby sofas packed with old people.[%p]"
+msgstr "500:すでにロビーのソファには多くの老人たちが座っていた。[%p]"
 
 msgid "600:なんでだよ！[%p]"
-msgstr "600:How?[%p]"
+msgstr "600:なんでだよ！[%p]"
 
 msgid "700:開院時間直後なのになんでもうこんなに人がいるんだよ！[linebreak]フライングするなんてズルいぞ！\u3000ちゃんと時間通りに来いよ！[%p]"
-msgstr "700:How could there be this many people here when it had just opened? Had they all cheated and got here before it opened somehow? That's not fair![%p]"
+msgstr "700:開院時間直後なのになんでもうこんなに人がいるんだよ！[linebreak]フライングするなんてズルいぞ！\u3000ちゃんと時間通りに来いよ！[%p]"
 
 msgid "800:心の中で悪態をつきつつも、やむなく待つことにした。[%p]"
-msgstr "800:I was angry, but I didn't have any choice but to wait.[%p]"
+msgstr "800:心の中で悪態をつきつつも、やむなく待つことにした。[%p]"
 
 msgid "900:予約を入れるべきだった、と後悔したのは待ち始めて１時間が経った頃だった。[%p]"
-msgstr "900:It was after an hour of waiting that I realized I should've made an appointment.[%p]"
+msgstr "900:予約を入れるべきだった、と後悔したのは待ち始めて１時間が経った頃だった。[%p]"
 
 msgid "1000:でもその直後に僕の名前を呼ばれ、先週ほど待たされなくて助かったとホッとした。[%p]"
-msgstr "1000:But very shortly after, they called my name, and I was relieved to see that I wouldn't have to wait as long as last time.[%p]"
+msgstr "1000:でもその直後に僕の名前を呼ばれ、先週ほど待たされなくて助かったとホッとした。[%p]"
 
 msgid "1100:ところが、通された診察室で僕を待っていたのは高科先生じゃなくて、見ず知らずの白髪のじいさんだった。[%p]"
-msgstr "1100:But the doctor waiting for me in the exam room wasn't Dr. Takashina, but a white-haired old man I'd never seen before.[%p]"
+msgstr "1100:ところが、通された診察室で僕を待っていたのは高科先生じゃなくて、見ず知らずの白髪のじいさんだった。[%p]"
 
 msgid "1200:[name]拓巳[line]「あの……た、た……高科、先生は……？」[%p]"
-msgstr "1200:[name]拓巳[line]U-Um... where's Dr. Takashina?[%p]"
+msgstr "1200:[name]拓巳[line]「あの……た、た……高科、先生は……？」[%p]"
 
 msgid "1300:僕が戸惑っていると、ちょうど後ろに控えていた[linebreak]看護師さん――名前は確か……葉月さんだ――が申し訳なさそうな顔をしながら答えてくれた。[%p]"
-msgstr "1300:The nurse standing behind him—Hazuki, I think?—answered apologetically.[%p]"
+msgstr "1300:僕が戸惑っていると、ちょうど後ろに控えていた[linebreak]看護師さん――名前は確か……葉月さんだ――が申し訳なさそうな顔をしながら答えてくれた。[%p]"
 
 msgid "1400:[name]葉月[line]「高科先生は、もういません……」[%p]"
-msgstr "1400:[name]葉月[line]Dr. Takashina isn't here.[%p]"
+msgstr "1400:[name]葉月[line]「高科先生は、もういません……」[%p]"
 
 msgid "1500:もう、いない……？[%p]"
-msgstr "1500:Isn't here?[%p]"
+msgstr "1500:もう、いない……？[%p]"
 
 msgid "1600:[name]精神科医[line]「もういないと言うか、過労がたたって先週末に倒れてしまわれてね。[linebreak]今週はそれでずっと休みだよ」[%p]"
-msgstr "1600:[name]精神科医[line]He collapsed from overwork last weekend. He's been out the whole week.[%p]"
+msgstr "1600:[name]精神科医[line]「もういないと言うか、過労がたたって先週末に倒れてしまわれてね。[linebreak]今週はそれでずっと休みだよ」[%p]"
 
 msgid "1700:なんてことだ……僕の唯一の味方が……。[%p]"
-msgstr "1700:Oh no. My one ally...[%p]"
+msgstr "1700:なんてことだ……僕の唯一の味方が……。[%p]"
 
 msgid "1800:……いや、ホントに先生が倒れたのは過労か？[%p]"
-msgstr "1800:Wait, was it really overwork that had made him collapse?[%p]"
+msgstr "1800:……いや、ホントに先生が倒れたのは過労か？[%p]"
 
 msgid "1900:[name]拓巳[line]「い、陰謀だ……悪魔女の……陰謀だ……」[%p]"
-msgstr "1900:[name]拓巳[line]I-It's a conspiracy... It's the demon girl![%p]"
+msgstr "1900:[name]拓巳[line]「い、陰謀だ……悪魔女の……陰謀だ……」[%p]"
 
 msgid "2000:[name]葉月[line]「に、西條さん……？」[%p]"
-msgstr "2000:[name]葉月[line]N-Nishijo?[%p]"
+msgstr "2000:[name]葉月[line]「に、西條さん……？」[%p]"
 
 msgid "2100:きっと食事に毒を盛られるとか、脅迫の手紙を送るとかして、先生を精神的に追い詰めたんだ。あの悪魔女の仕業なんだ。僕を孤立無援にしようとしているんだ。[%p]"
-msgstr "2100:She must've poisoned his food or sent him a threatening letter to stress him out. It was the demon girl's doing. She was trying to isolate me.[%p]"
+msgstr "2100:きっと食事に毒を盛られるとか、脅迫の手紙を送るとかして、先生を精神的に追い詰めたんだ。あの悪魔女の仕業なんだ。僕を孤立無援にしようとしているんだ。[%p]"
 
 msgid "2200:僕は自分のことについて高科先生以外の人間に診てもらうつもりはなかった。だから診察は受けず、逃げるように病院を後にした。[%p]"
-msgstr "2200:I had no intention of letting anybody but Dr. Takashina talk to me. So instead of getting an exam, I fled from the hospital.[%p]"
+msgstr "2200:僕は自分のことについて高科先生以外の人間に診てもらうつもりはなかった。だから診察は受けず、逃げるように病院を後にした。[%p]"
 

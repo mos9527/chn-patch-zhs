@@ -16,425 +16,425 @@ msgid "100:ノーマルエンド"
 msgstr "100:ノーマルエンド"
 
 msgid "200:[name]拓巳[line]僕は――[%p]"
-msgstr "200:[name]拓巳[line]I am...[%p]"
+msgstr "200:[name]拓巳[line]僕は――[%p]"
 
 msgid "300:[name]梨深[line]「タクーっ！」[%p]"
-msgstr "300:[name]梨深[line]Taku![%p]"
+msgstr "300:[name]梨深[line]「タクーっ！」[%p]"
 
 msgid "400:[name]拓巳[line]その声が聞こえた瞬間に。[%p]"
-msgstr "400:[name]拓巳[line]The second I heard that voice,[%p]"
+msgstr "400:[name]拓巳[line]その声が聞こえた瞬間に。[%p]"
 
 msgid "500:[name]拓巳[line]意識が僕を固定した。[%p]"
-msgstr "500:[name]拓巳[line]my mind fixed me in place.[%p]"
+msgstr "500:[name]拓巳[line]意識が僕を固定した。[%p]"
 
 msgid "600:[name]拓巳[line]ぐちゃぐちゃにかき回されていた世界が、一気に収束する。[%p]"
-msgstr "600:[name]拓巳[line]The messed up, mixed-up world came together in an instant.[%p]"
+msgstr "600:[name]拓巳[line]ぐちゃぐちゃにかき回されていた世界が、一気に収束する。[%p]"
 
 msgid "700:[name]拓巳[line]混沌は、僕のディソードを形作って収束する。[%p]"
-msgstr "700:[name]拓巳[line]The chaos converged in the form of my Di-Sword.[%p]"
+msgstr "700:[name]拓巳[line]混沌は、僕のディソードを形作って収束する。[%p]"
 
 msgid "800:[name]拓巳[line]僕は、僕としての形に、戻る。[%p]"
-msgstr "800:[name]拓巳[line]I regained my shape.[%p]"
+msgstr "800:[name]拓巳[line]僕は、僕としての形に、戻る。[%p]"
 
 msgid "900:[name]拓巳[line]世界は、世界としての形に、戻る。[%p]"
-msgstr "900:[name]拓巳[line]The world regained its shape.[%p]"
+msgstr "900:[name]拓巳[line]世界は、世界としての形に、戻る。[%p]"
 
 msgid "1000:[name]拓巳[line]僕は、僕だ――！[%p]"
-msgstr "1000:[name]拓巳[line]I am... me![%p]"
+msgstr "1000:[name]拓巳[line]僕は、僕だ――！[%p]"
 
 msgid "1100:視界はクリアになっていた。[%p]"
-msgstr "1100:My vision became clear again.[%p]"
+msgstr "1100:視界はクリアになっていた。[%p]"
 
 msgid "1200:身体の傷は治っていた。[%p]"
-msgstr "1200:My wounds were healed.[%p]"
+msgstr "1200:身体の傷は治っていた。[%p]"
 
 msgid "1300:上半身と下半身は繋がっていた。[%p]"
-msgstr "1300:My top and bottom were connected once more.[%p]"
+msgstr "1300:上半身と下半身は繋がっていた。[%p]"
 
 msgid "1400:僕は自分の足で、立っていた。[%p]"
-msgstr "1400:I was standing on my own two feet.[%p]"
+msgstr "1400:僕は自分の足で、立っていた。[%p]"
 
 msgid "1500:痛みは完璧に消えていた。[%p]"
-msgstr "1500:The pain was completely gone.[%p]"
+msgstr "1500:痛みは完璧に消えていた。[%p]"
 
 msgid "1600:心は、穏やかに凪いでいた。[%p]"
-msgstr "1600:My heart was completely at peace.[%p]"
+msgstr "1600:心は、穏やかに凪いでいた。[%p]"
 
 msgid "1700:[name]タクミ[line]「妄想によく打ち勝ったね」[%p]"
-msgstr "1700:[name]タクミ[line]Good. You defeated the delusion.[%p]"
+msgstr "1700:[name]タクミ[line]「妄想によく打ち勝ったね」[%p]"
 
 msgid "1800:[name]タクミ[line]「僕の最期の力を、君に託すよ」[%p]"
-msgstr "1800:[name]タクミ[line]I'll entrust you with the last of my power.[%p]"
+msgstr "1800:[name]タクミ[line]「僕の最期の力を、君に託すよ」[%p]"
 
 msgid "1900:梨深の姿を視界の隅に認める。[%p]"
-msgstr "1900:I could see Rimi in the corner of my vision.[%p]"
+msgstr "1900:梨深の姿を視界の隅に認める。[%p]"
 
 msgid "2000:彼女は無事。[linebreak]僕を見ている。[linebreak]泣いている。[%p]"
-msgstr "2000:She was safe. She was looking at me. She was crying.[%p]"
+msgstr "2000:彼女は無事。[linebreak]僕を見ている。[linebreak]泣いている。[%p]"
 
 msgid "2100:泣かないで。[%p]"
-msgstr "2100:Don't cry.[%p]"
+msgstr "2100:泣かないで。[%p]"
 
 msgid "2200:ディソードの柄を握る手。[linebreak]力を込める。[%p]"
-msgstr "2200:I gripped the Di-Sword's handle. I held it tight.[%p]"
+msgstr "2200:ディソードの柄を握る手。[linebreak]力を込める。[%p]"
 
 msgid "2300:感触を確かめる。[linebreak]腕がちゃんと動く。[linebreak]完全に再生している。[%p]"
-msgstr "2300:I felt its sensation in my hands. My arms were moving. They were completely restored.[%p]"
+msgstr "2300:感触を確かめる。[linebreak]腕がちゃんと動く。[linebreak]完全に再生している。[%p]"
 
 msgid "2400:[name]野呂瀬[line]「これは……実に興味深いですよ」[%p]"
-msgstr "2400:[name]野呂瀬[line]This is... a truly interesting phenomenon.[%p]"
+msgstr "2400:[name]野呂瀬[line]「これは……実に興味深いですよ」[%p]"
 
 msgid "2500:[name]野呂瀬[line]「この……化け物め……！」[%p]"
-msgstr "2500:[name]野呂瀬[line]You... monster![%p]"
+msgstr "2500:[name]野呂瀬[line]「この……化け物め……！」[%p]"
 
 msgid "2600:僕は野呂瀬を見据え。[%p]"
-msgstr "2600:I looked straight at Norose.[%p]"
+msgstr "2600:僕は野呂瀬を見据え。[%p]"
 
 msgid "2700:[name]拓巳[line]「確かに、僕は、化け物だよ。でもこれが」[%p]"
-msgstr "2700:[name]拓巳[line]Yeah, I may be a monster. But this is...[%p]"
+msgstr "2700:[name]拓巳[line]「確かに、僕は、化け物だよ。でもこれが」[%p]"
 
 msgid "2800:梨深を救い出すために。[linebreak]ノアⅡを破壊するために。[%p]"
-msgstr "2800:To save Rimi. To destroy Noah II.[%p]"
+msgstr "2800:梨深を救い出すために。[linebreak]ノアⅡを破壊するために。[%p]"
 
 msgid "2900:[name]拓巳[line]「僕が望んだ妄想だ――」[%p]"
-msgstr "2900:[name]拓巳[line]...the delusion I desired.[%p]"
+msgstr "2900:[name]拓巳[line]「僕が望んだ妄想だ――」[%p]"
 
 msgid "3000:野呂瀬の反応は素早かった。[%p]"
-msgstr "3000:Norose's response was fast.[%p]"
+msgstr "3000:野呂瀬の反応は素早かった。[%p]"
 
 msgid "3100:いまだ、ニシジョウタクミのＣＯＤＥサンプルは採れていない。[%p]"
-msgstr "3100:He still didn't have Takumi Nishijo's code sample.[%p]"
+msgstr "3100:いまだ、ニシジョウタクミのＣＯＤＥサンプルは採れていない。[%p]"
 
 msgid "3200:妄想による精神攻撃で追い詰めたはずが、逆に足をすくわれかけている。[%p]"
-msgstr "3200:He'd thought he'd pushed the boy to the brink with a delusion attack, but now, the tables had almost completely turned.[%p]"
+msgstr "3200:妄想による精神攻撃で追い詰めたはずが、逆に足をすくわれかけている。[%p]"
 
 msgid "3300:それを許すわけにはいかなかった。[%p]"
-msgstr "3300:He couldn't let that happen.[%p]"
+msgstr "3300:それを許すわけにはいかなかった。[%p]"
 
 msgid "3400:野呂瀬は拓巳との間合いを詰め。[linebreak]ディソードを斜め下から振り上げる。[%p]"
-msgstr "3400:Norose charged. He brought his Di-Sword up from below.[%p]"
+msgstr "3400:野呂瀬は拓巳との間合いを詰め。[linebreak]ディソードを斜め下から振り上げる。[%p]"
 
 msgid "3500:拓巳の胸を斜めに斬りつける。[linebreak]いかなるものを切断するディソード。[%p]"
-msgstr "3500:He sliced it across Takumi's chest. The Di-Sword could cut through anything.[%p]"
+msgstr "3500:拓巳の胸を斜めに斬りつける。[linebreak]いかなるものを切断するディソード。[%p]"
 
 msgid "3600:対象の硬さに関係しない。[linebreak]ましてや人を斬るなど、ゼリーを切るように簡単。[%p]"
-msgstr "3600:It didn't matter what it was. Cutting through a human was no more difficult than cutting through jelly.[%p]"
+msgstr "3600:対象の硬さに関係しない。[linebreak]ましてや人を斬るなど、ゼリーを切るように簡単。[%p]"
 
 msgid "3700:野呂瀬の素早い一撃で。[linebreak]拓巳の身体は両断され。[%p]"
-msgstr "3700:Norose's lightning-fast attack had sliced Takumi in two.[%p]"
+msgstr "3700:野呂瀬の素早い一撃で。[linebreak]拓巳の身体は両断され。[%p]"
 
 msgid "3800:だが血は出ない。[%p]"
-msgstr "3800:But there was no blood.[%p]"
+msgstr "3800:だが血は出ない。[%p]"
 
 msgid "3900:拓巳の下半身が、倒れかけて。[%p]"
-msgstr "3900:Takumi's lower half almost fell,[%p]"
+msgstr "3900:拓巳の下半身が、倒れかけて。[%p]"
 
 msgid "4000:踏ん張る。[%p]"
-msgstr "4000:but it didn't.[%p]"
+msgstr "4000:踏ん張る。[%p]"
 
 msgid "4100:踏ん張っていた。[%p]"
-msgstr "4100:It was still standing.[%p]"
+msgstr "4100:踏ん張っていた。[%p]"
 
 msgid "4200:次の瞬間には、再生していた。[%p]"
-msgstr "4200:And in the next moment, it regenerated.[%p]"
+msgstr "4200:次の瞬間には、再生していた。[%p]"
 
 msgid "4300:無傷。[linebreak]無効。[%p]"
-msgstr "4300:Uninjured. As if it never happened.[%p]"
+msgstr "4300:無傷。[linebreak]無効。[%p]"
 
 msgid "4400:そして、再生した。[%p]"
-msgstr "4400:And then he regenerated.[%p]"
+msgstr "4400:そして、再生した。[%p]"
 
 msgid "4500:たった１秒前に斬られた身体。[linebreak]すでに、新たな首と右手、右肩が生まれていた。[%p]"
-msgstr "4500:The body that had been sliced apart just a second ago... had already grown a new head, a new right arm, and a new right shoulder.[%p]"
+msgstr "4500:たった１秒前に斬られた身体。[linebreak]すでに、新たな首と右手、右肩が生まれていた。[%p]"
 
 msgid "4600:[name]拓巳[line]「痛覚は遮断した」[%p]"
-msgstr "4600:[name]拓巳[line]I shut off my sense of pain.[%p]"
+msgstr "4600:[name]拓巳[line]「痛覚は遮断した」[%p]"
 
 msgid "4700:拓巳が一歩、野呂瀬へ歩み寄る。[%p]"
-msgstr "4700:Takumi took a step towards Norose.[%p]"
+msgstr "4700:拓巳が一歩、野呂瀬へ歩み寄る。[%p]"
 
 msgid "4800:野呂瀬は舌打ち。[linebreak]ディソードを翻し。[%p]"
-msgstr "4800:Norose grimaced. He flipped the Di-Sword over.[%p]"
+msgstr "4800:野呂瀬は舌打ち。[linebreak]ディソードを翻し。[%p]"
 
 msgid "4900:[name]野呂瀬[line]「肉体の形を捨てたが故に――」[%p]"
-msgstr "4900:[name]野呂瀬[line]So, since you abandoned the shape of your body...[%p]"
+msgstr "4900:[name]野呂瀬[line]「肉体の形を捨てたが故に――」[%p]"
 
 msgid "5000:[name]野呂瀬[line]「いかなる形をも取れる、ということですか」[%p]"
-msgstr "5000:[name]野呂瀬[line]You can take any shape you want?[%p]"
+msgstr "5000:[name]野呂瀬[line]「いかなる形をも取れる、ということですか」[%p]"
 
 msgid "5100:[name]拓巳[line]「あんたの見せてくれた、妄想のおかげだよ」[%p]"
-msgstr "5100:[name]拓巳[line]It's thanks to the delusion you showed me.[%p]"
+msgstr "5100:[name]拓巳[line]「あんたの見せてくれた、妄想のおかげだよ」[%p]"
 
 msgid "5200:人としての形が保てなかった――[linebreak]その妄想を取り込み、拓巳は自分のものとした。[%p]"
-msgstr "5200:He hadn't been able to maintain his shape as a human. But he had taken that delusion and made it his own.[%p]"
+msgstr "5200:人としての形が保てなかった――[linebreak]その妄想を取り込み、拓巳は自分のものとした。[%p]"
 
 msgid "5300:これは再生ではなく。[linebreak]補充。[%p]"
-msgstr "5300:He wasn't regenerating. He was replenishing.[%p]"
+msgstr "5300:これは再生ではなく。[linebreak]補充。[%p]"
 
 msgid "5400:失われた部分は。[linebreak]拓巳の体内から無限に増殖する塵から、再び肉を、骨を作り出し。[linebreak]補う。[%p]"
-msgstr "5400:The lost parts were made from the infinitely multiplying dust inside him, formed into flesh and bones.[%p]"
+msgstr "5400:失われた部分は。[linebreak]拓巳の体内から無限に増殖する塵から、再び肉を、骨を作り出し。[linebreak]補う。[%p]"
 
 msgid "5500:形は一定ではなく。[%p]"
-msgstr "5500:His shape wasn't fixed.[%p]"
+msgstr "5500:形は一定ではなく。[%p]"
 
 msgid "5600:アメーバのように。[linebreak]スライムのように。[linebreak]自在に変えられる。[%p]"
-msgstr "5600:Like an amoeba, like a slime... He could change it to be whatever he wanted.[%p]"
+msgstr "5600:アメーバのように。[linebreak]スライムのように。[linebreak]自在に変えられる。[%p]"
 
 msgid "5700:化け物と、拓巳が自らを呼んだ、それが理由。[%p]"
-msgstr "5700:That was the reason Takumi had called himself a monster.[%p]"
+msgstr "5700:化け物と、拓巳が自らを呼んだ、それが理由。[%p]"
 
 msgid "5800:拓巳の足が、さらに一歩、野呂瀬へ。[%p]"
-msgstr "5800:His legs took another step toward Norose.[%p]"
+msgstr "5800:拓巳の足が、さらに一歩、野呂瀬へ。[%p]"
 
 msgid "5900:野呂瀬の苛立ちが増す。[linebreak]ディソードのグリップ部を握りながら、迫る拓巳へと突き出す。[linebreak]巨大なはさみが拓巳の頭を挟み込んだ。[%p]"
-msgstr "5900:Norose's frustration increased. He held the grip of his Di-Sword and stabbed it out towards the approaching Takumi. The huge scissors stretched out towards either side of the boy's head.[%p]"
+msgstr "5900:野呂瀬の苛立ちが増す。[linebreak]ディソードのグリップ部を握りながら、迫る拓巳へと突き出す。[linebreak]巨大なはさみが拓巳の頭を挟み込んだ。[%p]"
 
 msgid "6000:[name]野呂瀬[line]「脳を失えば、妄想はできないでしょう？」[%p]"
-msgstr "6000:[name]野呂瀬[line]You can't have delusions without a brain, can you?[%p]"
+msgstr "6000:[name]野呂瀬[line]「脳を失えば、妄想はできないでしょう？」[%p]"
 
 msgid "6100:潰される。[linebreak]割れたスイカ。[linebreak]血が炸裂する。[%p]"
-msgstr "6100:He crushed it, as one would smash a watermelon. Blood spurted everywhere.[%p]"
+msgstr "6100:潰される。[linebreak]割れたスイカ。[linebreak]血が炸裂する。[%p]"
 
 msgid "6200:拓巳の身体はそれでも前へ。[%p]"
-msgstr "6200:But Takumi's body kept going forward.[%p]"
+msgstr "6200:拓巳の身体はそれでも前へ。[%p]"
 
 msgid "6300:再生――補充――は、一瞬。[%p]"
-msgstr "6300:The regeneration—replenishing—only took an instant.[%p]"
+msgstr "6300:再生――補充――は、一瞬。[%p]"
 
 msgid "6400:踏み出したかかとが床に付くのと同時。[%p]"
-msgstr "6400:When his foot touched the ground,[%p]"
+msgstr "6400:踏み出したかかとが床に付くのと同時。[%p]"
 
 msgid "6500:何事もなかったように。[%p]"
-msgstr "6500:as if nothing had ever happened,[%p]"
+msgstr "6500:何事もなかったように。[%p]"
 
 msgid "6600:すげ替えたかのように。[%p]"
-msgstr "6600:as if it had been replaced with a new one,[%p]"
+msgstr "6600:すげ替えたかのように。[%p]"
 
 msgid "6700:頭は傷ひとつなく、そこにある。[%p]"
-msgstr "6700:his head was there, and undamaged.[%p]"
+msgstr "6700:頭は傷ひとつなく、そこにある。[%p]"
 
 msgid "6800:野呂瀬は悟る。[linebreak]自分では勝てない、と。[%p]"
-msgstr "6800:Norose understood. He couldn't win.[%p]"
+msgstr "6800:野呂瀬は悟る。[linebreak]自分では勝てない、と。[%p]"
 
 msgid "6900:ディソードによる物理攻撃は通用しない。[%p]"
-msgstr "6900:No physical attacks with his Di-Sword would be effective.[%p]"
+msgstr "6900:ディソードによる物理攻撃は通用しない。[%p]"
 
 msgid "7000:存在理由を否定する妄想攻撃は逆に取り込まれた。[%p]"
-msgstr "7000:His enemy had taken his delusion attack, his attempt to deny their existence, and turned it to their advantage.[%p]"
+msgstr "7000:存在理由を否定する妄想攻撃は逆に取り込まれた。[%p]"
 
 msgid "7100:今の西條拓巳は。[%p]"
-msgstr "7100:In this moment, Takumi Nishijo was...[%p]"
+msgstr "7100:今の西條拓巳は。[%p]"
 
 msgid "7200:人としてはあまりに常軌を逸していて。[%p]"
-msgstr "7200:so far beyond human,[%p]"
+msgstr "7200:人としてはあまりに常軌を逸していて。[%p]"
 
 msgid "7300:存在としてはあまりに歪で。[%p]"
-msgstr "7300:so twisted an existence…[%p]"
+msgstr "7300:存在としてはあまりに歪で。[%p]"
 
 msgid "7400:化け物としてあまりにもふさわしい。[%p]"
-msgstr "7400:So perfect a monster.[%p]"
+msgstr "7400:化け物としてあまりにもふさわしい。[%p]"
 
 msgid "7500:それでも野呂瀬は引き下がるわけにはいかなかった。[%p]"
-msgstr "7500:But Norose couldn't give up.[%p]"
+msgstr "7500:それでも野呂瀬は引き下がるわけにはいかなかった。[%p]"
 
 msgid "7600:ノアⅡの力を利用し、拓巳に無数の反粒子をぶつけるべきだと考える。[%p]"
-msgstr "7600:He thought of using Noah II's power to blast Takumi with countless antiparticles.[%p]"
+msgstr "7600:ノアⅡの力を利用し、拓巳に無数の反粒子をぶつけるべきだと考える。[%p]"
 
 msgid "7700:いかなる存在も、反粒子をぶつけられれば負の物質へと変化し、自己崩壊へと至る。[%p]"
-msgstr "7700:Nothing could withstand collision with antiparticles without turning into negative matter and collapsing in on itself.[%p]"
+msgstr "7700:いかなる存在も、反粒子をぶつけられれば負の物質へと変化し、自己崩壊へと至る。[%p]"
 
 msgid "7800:外部からの破壊が無理ならば。[linebreak]内部から崩壊させればいい。[%p]"
-msgstr "7800:If destruction from outside was impossible, then he would have to destroy his foe from the inside.[%p]"
+msgstr "7800:外部からの破壊が無理ならば。[linebreak]内部から崩壊させればいい。[%p]"
 
 msgid "7900:[name]拓巳[line]「そうなんだね」[%p]"
-msgstr "7900:[name]拓巳[line]Good idea.[%p]"
+msgstr "7900:[name]拓巳[line]「そうなんだね」[%p]"
 
 msgid "8000:野呂瀬の考えを。[linebreak]拓巳は、読んだ。[%p]"
-msgstr "8000:Takumi had read Norose's thoughts.[%p]"
+msgstr "8000:野呂瀬の考えを。[linebreak]拓巳は、読んだ。[%p]"
 
 msgid "8100:[name]野呂瀬[line]「な……！」[%p]"
-msgstr "8100:[name]野呂瀬[line]What?[%p]"
+msgstr "8100:[name]野呂瀬[line]「な……！」[%p]"
 
 msgid "8200:拓巳のディソードの輝きが、赤から黒へと変わる。[%p]"
-msgstr "8200:The light of Takumi's Di-Sword changed from red to black.[%p]"
+msgstr "8200:拓巳のディソードの輝きが、赤から黒へと変わる。[%p]"
 
 msgid "8300:黒き炎は剣を包み。[linebreak]うねり。[linebreak]伸びる。[%p]"
-msgstr "8300:Black flames shrouded the blade. It roared. It stretched out.[%p]"
+msgstr "8300:黒き炎は剣を包み。[linebreak]うねり。[linebreak]伸びる。[%p]"
 
 msgid "8400:その姿は、さながら――[%p]"
-msgstr "8400:It was as if it was...[%p]"
+msgstr "8400:その姿は、さながら――[%p]"
 
 msgid "8500:黒の大蛇。[%p]"
-msgstr "8500:a huge black snake.[%p]"
+msgstr "8500:黒の大蛇。[%p]"
 
 msgid "8600:[name]あやせ[line]「そして、現れるのよ――」[%p]"
-msgstr "8600:[name]あやせ[line]And then it will appear.[%p]"
+msgstr "8600:[name]あやせ[line]「そして、現れるのよ――」[%p]"
 
 msgid "8700:ドーム内を窮屈そうにさまよい。[%p]"
-msgstr "8700:It wandered the room, too big for the dome.[%p]"
+msgstr "8700:ドーム内を窮屈そうにさまよい。[%p]"
 
 msgid "8800:屋根を、床を、[linebreak]舐めるように。[linebreak]削り取っていくように。[%p]"
-msgstr "8800:It scraped against the roof. It scraped up against the floor. As if it was eating away at them both...[%p]"
+msgstr "8800:屋根を、床を、[linebreak]舐めるように。[linebreak]削り取っていくように。[%p]"
 
 msgid "8900:食らっていく。[%p]"
-msgstr "8900:Devouring them.[%p]"
+msgstr "8900:食らっていく。[%p]"
 
 msgid "9000:[name]あやせ[line]「邪心の黒き大蛇。あらゆる崩壊を呑み込み、邪心王の身を砕くことのできる、同質にして異質なるものが」[%p]"
-msgstr "9000:[name]あやせ[line]The great black serpent of wicked hearts. That which is the same and yet different, which swallows all destruction and can shatter the body of the King of Wicked Hearts.[%p]"
+msgstr "9000:[name]あやせ[line]「邪心の黒き大蛇。あらゆる崩壊を呑み込み、邪心王の身を砕くことのできる、同質にして異質なるものが」[%p]"
 
 msgid "9100:大蛇の身体は、反粒子により形成されたもの。[%p]"
-msgstr "9100:The snake's body was composed of antiparticles,[%p]"
+msgstr "9100:大蛇の身体は、反粒子により形成されたもの。[%p]"
 
 msgid "9200:いかなるものをも、触れるだけで自己崩壊させる。[%p]"
-msgstr "9200:particles which would cause anything they touched to collapse in on itself.[%p]"
+msgstr "9200:いかなるものをも、触れるだけで自己崩壊させる。[%p]"
 
 msgid "9300:あまりにもどん欲な、破壊の噴流。[%p]"
-msgstr "9300:It was an all-devouring torrent of destruction.[%p]"
+msgstr "9300:あまりにもどん欲な、破壊の噴流。[%p]"
 
 msgid "9400:[name]拓巳[line]「[color index="A0FF0000"]触手ゲー[color index="800000"]は、あんまり好みじゃないけど」[%p]"
-msgstr "9400:[name]拓巳[line][color index="A0FF0000"]Tentacle games[color index="800000"] aren't really my thing, but I'll make an exception for you.[%p]"
+msgstr "9400:[name]拓巳[line]「[color index="A0FF0000"]触手ゲー[color index="800000"]は、あんまり好みじゃないけど」[%p]"
 
 msgid "9500:拓巳はその場でディソードを振り。[linebreak]切っ先を、野呂瀬へと固定した。[%p]"
-msgstr "9500:Takumi swung the Di-Sword where he stood. He pointed the tip at Norose.[%p]"
+msgstr "9500:拓巳はその場でディソードを振り。[linebreak]切っ先を、野呂瀬へと固定した。[%p]"
 
 msgid "9600:とぐろを巻いていた黒い蛇は、その身を鞭のようにしならせ。[linebreak]あぎとが、野呂瀬に食らいついた。[%p]"
-msgstr "9600:The circling snake snapped its body like a whip, and its jaw bit down on Norose.[%p]"
+msgstr "9600:とぐろを巻いていた黒い蛇は、その身を鞭のようにしならせ。[linebreak]あぎとが、野呂瀬に食らいついた。[%p]"
 
 msgid "9700:[name]野呂瀬[line]「まさか、これほどとは……！」[%p]"
-msgstr "9700:[name]野呂瀬[line]You can't possibly be this powerful![%p]"
+msgstr "9700:[name]野呂瀬[line]「まさか、これほどとは……！」[%p]"
 
 msgid "9800:野呂瀬はディソードのそんな現象を、いまだかつて見たことがなかった。[%p]"
-msgstr "9800:Norose had never seen a Di-Sword do something like this.[%p]"
+msgstr "9800:野呂瀬はディソードのそんな現象を、いまだかつて見たことがなかった。[%p]"
 
 msgid "9900:これがギガロマニアックスに秘められた力なのか、拓巳による妄想なのか、その判断は付かない。[%p]"
-msgstr "9900:He couldn't tell if this was Takumi's delusion, or some hidden Gigalomaniac power.[%p]"
+msgstr "9900:これがギガロマニアックスに秘められた力なのか、拓巳による妄想なのか、その判断は付かない。[%p]"
 
 msgid "10000:黒い牙に、野呂瀬の身体は侵食される。[linebreak]崩壊していく。[%p]"
-msgstr "10000:The black fangs were eating away at his body. He was falling apart.[%p]"
+msgstr "10000:黒い牙に、野呂瀬の身体は侵食される。[linebreak]崩壊していく。[%p]"
 
 msgid "10100:あまりにも緩慢に。[linebreak]蛇の腹の中でゆっくりと溶かされるカエルのように。[%p]"
-msgstr "10100:But it was so, so slow... Like a frog slowly being devoured in the belly of a snake.[%p]"
+msgstr "10100:あまりにも緩慢に。[linebreak]蛇の腹の中でゆっくりと溶かされるカエルのように。[%p]"
 
 msgid "10200:闇に、呑まれていく。[%p]"
-msgstr "10200:The darkness was slowly swallowing him up.[%p]"
+msgstr "10200:闇に、呑まれていく。[%p]"
 
 msgid "10300:痛みは感じない。[linebreak]本来なら一瞬で死に至るはずだった。[%p]"
-msgstr "10300:He felt no pain. Death should have been instant.[%p]"
+msgstr "10300:痛みは感じない。[linebreak]本来なら一瞬で死に至るはずだった。[%p]"
 
 msgid "10400:しかしそれを拓巳が望んでいない。[linebreak]野呂瀬はそれに気付き、自嘲気味に唇を歪めた。[%p]"
-msgstr "10400:But Takumi didn't want that. Norose realized this, and laughed bitterly.[%p]"
+msgstr "10400:しかしそれを拓巳が望んでいない。[linebreak]野呂瀬はそれに気付き、自嘲気味に唇を歪めた。[%p]"
 
 msgid "10500:野呂瀬は死は恐れていない。[linebreak]彼の目指した理想は、ノアⅡの完成により達成されたと言っていいのだ。[%p]"
-msgstr "10500:He wasn't afraid of death. His ideal, the completion of Noah II, was at hand.[%p]"
+msgstr "10500:野呂瀬は死は恐れていない。[linebreak]彼の目指した理想は、ノアⅡの完成により達成されたと言っていいのだ。[%p]"
 
 msgid "10600:[name]野呂瀬[line]「私を殺しても、ノアⅡには誰も近づけない」[%p]"
-msgstr "10600:[name]野呂瀬[line]You can kill me, but no one can approach Noah II.[%p]"
+msgstr "10600:[name]野呂瀬[line]「私を殺しても、ノアⅡには誰も近づけない」[%p]"
 
 msgid "10700:[name]野呂瀬[line]「[color index="A0FF0000"]永久機関[color index="800000"]なんですよ、それは」[%p]"
-msgstr "10700:[name]野呂瀬[line]It's a [color index="A0FF0000"]perpetual motion machine[color index="800000"].[%p]"
+msgstr "10700:[name]野呂瀬[line]「[color index="A0FF0000"]永久機関[color index="800000"]なんですよ、それは」[%p]"
 
 msgid "10800:[name]野呂瀬[line]「人類を、未来永劫に渡って管理し続ける」[%p]"
-msgstr "10800:[name]野呂瀬[line]It will rule over mankind for all eternity.[%p]"
+msgstr "10800:[name]野呂瀬[line]「人類を、未来永劫に渡って管理し続ける」[%p]"
 
 msgid "10900:[name]野呂瀬[line]「ただ座して眺めているだけではない、人の幸福のために干渉してくる、人工の神なのです」[%p]"
-msgstr "10900:[name]野呂瀬[line]It won't just sit there silently. It's an artificial god, which will guide mankind to happiness.[%p]"
+msgstr "10900:[name]野呂瀬[line]「ただ座して眺めているだけではない、人の幸福のために干渉してくる、人工の神なのです」[%p]"
 
 msgid "11000:言わば、野呂瀬は神の創造主。[linebreak]ノアⅡが存在し続ける限り、人は滅びず。[linebreak]野呂瀬が願った永遠なる理想郷は現実となる。[%p]"
-msgstr "11000:In a way, Norose was the creator of a god. As long as Noah II existed, humanity would not go extinct. Norose's utopia would be realized.[%p]"
+msgstr "11000:言わば、野呂瀬は神の創造主。[linebreak]ノアⅡが存在し続ける限り、人は滅びず。[linebreak]野呂瀬が願った永遠なる理想郷は現実となる。[%p]"
 
 msgid "11100:だが――[%p]"
-msgstr "11100:But...[%p]"
+msgstr "11100:だが――[%p]"
 
 msgid "11200:[name]拓巳[line]「あんたなら――」[%p]"
-msgstr "11200:[name]拓巳[line]You...[%p]"
+msgstr "11200:[name]拓巳[line]「あんたなら――」[%p]"
 
 msgid "11300:[name]拓巳[line]「近づけるんでしょ？」[%p]"
-msgstr "11300:[name]拓巳[line]You can get close to it, right?[%p]"
+msgstr "11300:[name]拓巳[line]「近づけるんでしょ？」[%p]"
 
 msgid "11400:[name]野呂瀬[line]「な……に……？」[%p]"
-msgstr "11400:[name]野呂瀬[line]What?[%p]"
+msgstr "11400:[name]野呂瀬[line]「な……に……？」[%p]"
 
 msgid "11500:野呂瀬を捕らえた蛇が、その身を蠢かせる。[linebreak]彼の身体を持ち上げ。[%p]"
-msgstr "11500:The snake holding Norose began to move. It raised his body up high.[%p]"
+msgstr "11500:野呂瀬を捕らえた蛇が、その身を蠢かせる。[linebreak]彼の身体を持ち上げ。[%p]"
 
 msgid "11600:[name]拓巳[line]「それなら、あんたは、鍵だ」[%p]"
-msgstr "11600:[name]拓巳[line]That means you're the key.[%p]"
+msgstr "11600:[name]拓巳[line]「それなら、あんたは、鍵だ」[%p]"
 
 msgid "11700:野呂瀬は呆然とする。[linebreak]けれどそれはすぐに、苦悶の表情へと変わった。[%p]"
-msgstr "11700:Norose's expression was one of pure shock. But it quickly changed into one of pain.[%p]"
+msgstr "11700:野呂瀬は呆然とする。[linebreak]けれどそれはすぐに、苦悶の表情へと変わった。[%p]"
 
 msgid "11800:蛇が、その身体を軽々と振り回す。[%p]"
-msgstr "11800:The snake flung his body around in a circle like it weighed nothing.[%p]"
+msgstr "11800:蛇が、その身体を軽々と振り回す。[%p]"
 
 msgid "11900:拓巳は、チラリと梨深を見た。[linebreak]目が合う。[%p]"
-msgstr "11900:Takumi gave a quick glance at Rimi. Their eyes met.[%p]"
+msgstr "11900:拓巳は、チラリと梨深を見た。[linebreak]目が合う。[%p]"
 
 msgid "12000:梨深は、どんな想いで見ているんだろう。[linebreak]心を読むことはたやすい。[linebreak]けれど拓巳はそれをしなかった。[%p]"
-msgstr "12000:What was she thinking right now? It would be easy to read her mind. But Takumi didn't.[%p]"
+msgstr "12000:梨深は、どんな想いで見ているんだろう。[linebreak]心を読むことはたやすい。[linebreak]けれど拓巳はそれをしなかった。[%p]"
 
 msgid "12100:――どうやら、君を助けることができたみたいだ。[%p]"
-msgstr "12100:—Looks like I was able to save you.[%p]"
+msgstr "12100:――どうやら、君を助けることができたみたいだ。[%p]"
 
 msgid "12200:すぐに目をそらす。[%p]"
-msgstr "12200:He quickly looked away.[%p]"
+msgstr "12200:すぐに目をそらす。[%p]"
 
 msgid "12300:その視線を、今もうなり続けるノアⅡへ向けた。[linebreak]誰をも寄せ付けない、神の座。[linebreak]幸せな夢を見せる、ゆりかご。[%p]"
-msgstr "12300:His gaze was now fixed on Noah II, still emitting its roar. The seat of God, which none could approach. A cradle that showed happy dreams.[%p]"
+msgstr "12300:その視線を、今もうなり続けるノアⅡへ向けた。[linebreak]誰をも寄せ付けない、神の座。[linebreak]幸せな夢を見せる、ゆりかご。[%p]"
 
 msgid "12400:[name]拓巳[line]「ごめん」[%p]"
-msgstr "12400:[name]拓巳[line]I'm sorry.[%p]"
+msgstr "12400:[name]拓巳[line]「ごめん」[%p]"
 
 msgid "12500:誰にともなく謝った。[%p]"
-msgstr "12500:He whispered to no one in particular.[%p]"
+msgstr "12500:誰にともなく謝った。[%p]"
 
 msgid "12600:[name]拓巳[line]「僕は、人類にとっての敵かもね」[%p]"
-msgstr "12600:[name]拓巳[line]I might be humanity's enemy, I guess.[%p]"
+msgstr "12600:[name]拓巳[line]「僕は、人類にとっての敵かもね」[%p]"
 
 msgid "12700:この装置が生み出す、永遠の理想郷を。[%p]"
-msgstr "12700:This machine would create an eternal paradise,[%p]"
+msgstr "12700:この装置が生み出す、永遠の理想郷を。[%p]"
 
 msgid "12800:争いのない未来を。[%p]"
-msgstr "12800:a future without conflict.[%p]"
+msgstr "12800:争いのない未来を。[%p]"
 
 msgid "12900:拓巳は、この手で摘み取ろうとしている。[%p]"
-msgstr "12900:And now Takumi was about to ruin that future.[%p]"
+msgstr "12900:拓巳は、この手で摘み取ろうとしている。[%p]"
 
 msgid "13000:それが正しいのか間違いなのか、その答えは拓巳には出せない。[%p]"
-msgstr "13000:Whether that was wrong or right, Takumi didn't know.[%p]"
+msgstr "13000:それが正しいのか間違いなのか、その答えは拓巳には出せない。[%p]"
 
 msgid "13100:[name]拓巳[line]「でも、神話でもよくあるでしょ」[%p]"
-msgstr "13100:[name]拓巳[line]But you see it all the time in myths, right?[%p]"
+msgstr "13100:[name]拓巳[line]「でも、神話でもよくあるでしょ」[%p]"
 
 msgid "13200:[name]拓巳[line]「神だって、女絡みでウダウダやってる」[%p]"
-msgstr "13200:[name]拓巳[line]Gods screwing things up for the sake of a girl.[%p]"
+msgstr "13200:[name]拓巳[line]「神だって、女絡みでウダウダやってる」[%p]"
 
 msgid "13300:[name]拓巳[line]「だから僕も――」[%p]"
-msgstr "13300:[name]拓巳[line]So, I think I'll do the same.[%p]"
+msgstr "13300:[name]拓巳[line]「だから僕も――」[%p]"
 
 msgid "13400:好きな女の子のために、人類の幸福を犠牲にする――[%p]"
-msgstr "13400:Sacrificing humanity's happiness for the sake of a girl he loved,[%p]"
+msgstr "13400:好きな女の子のために、人類の幸福を犠牲にする――[%p]"
 
 msgid "13500:拓巳は、[linebreak]ディソードを持つ腕を、[linebreak]大きく弓なりに反らし。[%p]"
-msgstr "13500:Takumi... drew the hand which held his Di-Sword... back behind his body...[%p]"
+msgstr "13500:拓巳は、[linebreak]ディソードを持つ腕を、[linebreak]大きく弓なりに反らし。[%p]"
 
 msgid "13600:[name]拓巳[line]「突き破れぇぇ……！」[%p]"
-msgstr "13600:[name]拓巳[line]Break through![%p]"
+msgstr "13600:[name]拓巳[line]「突き破れぇぇ……！」[%p]"
 
 msgid "13700:突く。[linebreak]槍のごとく。[linebreak]暗黒の大蛇は一直線に猛進する。[%p]"
-msgstr "13700:...and then thrust it forward, like a spear. The black snake charged forward in a straight line.[%p]"
+msgstr "13700:突く。[linebreak]槍のごとく。[linebreak]暗黒の大蛇は一直線に猛進する。[%p]"
 
 msgid "13800:先端に野呂瀬という餌を刺したまま。[linebreak]ノアⅡへ。[%p]"
-msgstr "13800:Its prey, Norose, was impaled on its fangs... as it raced towards Noah II.[%p]"
+msgstr "13800:先端に野呂瀬という餌を刺したまま。[linebreak]ノアⅡへ。[%p]"
 
 msgid "13900:いかなるものをも消滅させる、反粒子の巨大なる槍は。[%p]"
-msgstr "13900:A spear of pure antiparticles,[%p]"
+msgstr "13900:いかなるものをも消滅させる、反粒子の巨大なる槍は。[%p]"
 
 msgid "14000:意志など持たない。故に、歪まされることもなく。[%p]"
-msgstr "14000:it had no will of its own. Thus, there was nothing for Noah II to disrupt.[%p]"
+msgstr "14000:意志など持たない。故に、歪まされることもなく。[%p]"
 
 msgid "14100:どん欲なる破壊の衝動が、[linebreak]野呂瀬という鍵を使って、[linebreak]妄想の結界を、[%p]"
-msgstr "14100:The all-encompassing torrent of destruction... used Norose as its key, and easily broke...[%p]"
+msgstr "14100:どん欲なる破壊の衝動が、[linebreak]野呂瀬という鍵を使って、[linebreak]妄想の結界を、[%p]"
 
 msgid "14200:あっさりと打ち破った――[%p]"
-msgstr "14200:through the delusion barrier.[%p]"
+msgstr "14200:あっさりと打ち破った――[%p]"
 

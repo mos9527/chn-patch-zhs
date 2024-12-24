@@ -10,155 +10,155 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:渋谷駅前に静態保存され一般人に開放されている、通称“青ガエル”と呼ばれる電車のカットボディ。[%p]"
-msgstr "0:In front of Shibuya Station, there's an old train car called the Green Frog that's open to visitors.[%p]"
+msgstr "0:渋谷駅前に静態保存され一般人に開放されている、通称“青ガエル”と呼ばれる電車のカットボディ。[%p]"
 
 msgid "100:その車内のシートに、蒼井セナは座っていた。[linebreak]外を歩く人々の姿をつまらなさそうな様子で眺め、親指の爪を噛む。[%p]"
-msgstr "100:Sena Aoi was sitting inside the car. She bit her thumbnail as she watched people coming and going outside, a bored expression on her face.[%p]"
+msgstr "100:その車内のシートに、蒼井セナは座っていた。[linebreak]外を歩く人々の姿をつまらなさそうな様子で眺め、親指の爪を噛む。[%p]"
 
 msgid "200:西條拓巳と話をした昨日に引き続き、セナはこの電車に来ている。[linebreak]学校には行かなかった。それどころではないと、彼女は考えていた。[%p]"
-msgstr "200:This was where she'd met Takumi Nishijo the other day, and now she was back here again. She didn't go to school. She didn't think she had time.[%p]"
+msgstr "200:西條拓巳と話をした昨日に引き続き、セナはこの電車に来ている。[linebreak]学校には行かなかった。それどころではないと、彼女は考えていた。[%p]"
 
 msgid "300:常に焦りの感情に追い立てられている。[linebreak]結果、イライラして、誰に対してもキツく接してしまう。[%p]"
-msgstr "300:There was a constant sense in her mind that time was running out. It made her angry and annoyed, and she took it out on everyone she met.[%p]"
+msgstr "300:常に焦りの感情に追い立てられている。[linebreak]結果、イライラして、誰に対してもキツく接してしまう。[%p]"
 
 msgid "400:[name]セナ[line]「どこにいる、波多野……っ」[%p]"
-msgstr "400:[name]セナ[line]Where are you, Hatano?[%p]"
+msgstr "400:[name]セナ[line]「どこにいる、波多野……っ」[%p]"
 
 msgid "500:憎しみに満ちた声で、ひとりごちてから。[linebreak]制服のポケットに手を突っ込み、１枚の紙片を取り出した。[%p]"
-msgstr "500:Sena said to herself, her voice filled with hate. She stuffed a hand into her uniform pocket and took out a single piece of paper.[%p]"
+msgstr "500:憎しみに満ちた声で、ひとりごちてから。[linebreak]制服のポケットに手を突っ込み、１枚の紙片を取り出した。[%p]"
 
 msgid "600:それはメモ用紙程度の小さなもので、しかもしわくちゃだった。[%p]"
-msgstr "600:It looked to have come from a small memo pad, and was badly wrinkled.[%p]"
+msgstr "600:それはメモ用紙程度の小さなもので、しかもしわくちゃだった。[%p]"
 
 msgid "700:紙には、なにかの公式らしき数字とアルファベットの羅列が書かれている。[%p]"
-msgstr "700:Written on the paper was a complex row of numbers and letters that seemed to be some kind of formula.[%p]"
+msgstr "700:紙には、なにかの公式らしき数字とアルファベットの羅列が書かれている。[%p]"
 
 msgid "800:けれど鉛筆で書かれたもののせいなのか、あるいは書いてからかなり時間が経っているせいなのか、字はかすれて消えかかっていた。[%p]"
-msgstr "800:But, perhaps because it was written in pencil, or maybe because so much time had passed since it was written, the writing was faded to the point of almost being impossible to read.[%p]"
+msgstr "800:けれど鉛筆で書かれたもののせいなのか、あるいは書いてからかなり時間が経っているせいなのか、字はかすれて消えかかっていた。[%p]"
 
 msgid "900:かろうじて読み取れるのは『Ｉｒ２』という文字ぐらい。[%p]"
-msgstr "900:The most you could make out was “Ir2.”[%p]"
+msgstr "900:かろうじて読み取れるのは『Ｉｒ２』という文字ぐらい。[%p]"
 
 msgid "1000:それはかつて、セナの父が走り書きしたものだった。[%p]"
-msgstr "1000:It was something that Sena's father had once written.[%p]"
+msgstr "1000:それはかつて、セナの父が走り書きしたものだった。[%p]"
 
 msgid "1100:後生大事に持っている、というわけではない。[linebreak]だがセナにとってこの小さな紙片は、父への憎しみを忘れないために必要なもの。[%p]"
-msgstr "1100:It wasn't a keepsake, or a treasured memory. To Sena, it was something she needed to keep from forgetting how much she hated him.[%p]"
+msgstr "1100:後生大事に持っている、というわけではない。[linebreak]だがセナにとってこの小さな紙片は、父への憎しみを忘れないために必要なもの。[%p]"
 
 msgid "1200:かつてセナの家族は、幸せだった。[linebreak]だが父が、このメモ用紙にとある公式を走り書きしたときから、静かに、ゆっくりと、けれど確実に、すべてが狂い始めたのだ――[%p]"
-msgstr "1200:Sena's family had once been happy. But ever since her father had written that formula on this piece of paper, things had slowly, quietly, but surely, started to go wrong.[%p]"
+msgstr "1200:かつてセナの家族は、幸せだった。[linebreak]だが父が、このメモ用紙にとある公式を走り書きしたときから、静かに、ゆっくりと、けれど確実に、すべてが狂い始めたのだ――[%p]"
 
 msgid "1300:セナの父は、とある大企業の研究者だった。[%p]"
-msgstr "1300:Sena's father was a scientist working for a large corporation.[%p]"
+msgstr "1300:セナの父は、とある大企業の研究者だった。[%p]"
 
 msgid "1400:まだ小学生だったセナには、父がどんな仕事をしているのかはよく分からなかったが、とにかく忙しそうだというのだけは分かった。[%p]"
-msgstr "1400:Sena was only in elementary school at the time, and she didn't really know what he did, but she knew he was a busy man.[%p]"
+msgstr "1400:まだ小学生だったセナには、父がどんな仕事をしているのかはよく分からなかったが、とにかく忙しそうだというのだけは分かった。[%p]"
 
 msgid "1500:家にはほとんど帰ってこない。たまに帰ってくると、優しそうな態度でセナに接してくれるが、それも１日と続かない。すぐに仕事場にとんぼ返りだった。[%p]"
-msgstr "1500:He almost never came home. When he did, he was always really nice to her, but he'd never be home for more than a day. He'd be back to work almost immediately.[%p]"
+msgstr "1500:家にはほとんど帰ってこない。たまに帰ってくると、優しそうな態度でセナに接してくれるが、それも１日と続かない。すぐに仕事場にとんぼ返りだった。[%p]"
 
 msgid "1600:父のことは決して嫌いではなかったが、夕食を家族そろって食べた記憶などはほとんどなくて、それがセナには少し不満だった。[%p]"
-msgstr "1600:At the time, she wasn't mad at him for never being home. But she had almost no memories of her family eating dinner together, which bothered her a little.[%p]"
+msgstr "1600:父のことは決して嫌いではなかったが、夕食を家族そろって食べた記憶などはほとんどなくて、それがセナには少し不満だった。[%p]"
 
 msgid "1700:いつもは穏やかな表情を浮かべ、落ち着いた物腰の父が、ひどく興奮した様子で家に帰ってきたのが、６年半ほど前のある日のことだった。[%p]"
-msgstr "1700:Then one day about six and a half years ago, her normally calm and quiet father came home in a flurry of excitement.[%p]"
+msgstr "1700:いつもは穏やかな表情を浮かべ、落ち着いた物腰の父が、ひどく興奮した様子で家に帰ってきたのが、６年半ほど前のある日のことだった。[%p]"
 
 msgid "1800:[name]セナの父[line]「セナ、父さんは、すごい発見をしたぞ！\u3000これは、ノーベル賞どころの騒ぎじゃない！」[%p]"
-msgstr "1800:[name]セナの父[line]Sena, your dad's made a huge discovery! This is bigger than even a Nobel prize![%p]"
+msgstr "1800:[name]セナの父[line]「セナ、父さんは、すごい発見をしたぞ！\u3000これは、ノーベル賞どころの騒ぎじゃない！」[%p]"
 
 msgid "1900:[name]セナ[line]「なにが、そんなにすごいの？」[%p]"
-msgstr "1900:[name]セナ[line]What's so amazing?[%p]"
+msgstr "1900:[name]セナ[line]「なにが、そんなにすごいの？」[%p]"
 
 msgid "2000:[name]セナの父[line]「この公式は、これまでの世界の仕組みをも変えるだろう。それほどの大発見なんだ！」[%p]"
-msgstr "2000:[name]セナの父[line]This formula will change our understanding of the entire world! It's that big of a discovery![%p]"
+msgstr "2000:[name]セナの父[line]「この公式は、これまでの世界の仕組みをも変えるだろう。それほどの大発見なんだ！」[%p]"
 
 msgid "2100:そう言って、セナに見せるために手近にあったメモ用紙に書いてくれたのが、『Ｉｒ２』という公式だった。[%p]"
-msgstr "2100:Then he took a sheet off a memo pad to write out the “Ir2” formula for her.[%p]"
+msgstr "2100:そう言って、セナに見せるために手近にあったメモ用紙に書いてくれたのが、『Ｉｒ２』という公式だった。[%p]"
 
 msgid "2200:[name]セナの父[line]「ずっと、探していたんだよ。父さんでは、どうしても思いつけなかった。プロジェクト・ノアは停滞していた。手詰まりだった」[%p]"
-msgstr "2200:[name]セナの父[line]I've been searching for so long... It wasn't something I could come up with on my own. Project Noah was at a standstill. A dead end.[%p]"
+msgstr "2200:[name]セナの父[line]「ずっと、探していたんだよ。父さんでは、どうしても思いつけなかった。プロジェクト・ノアは停滞していた。手詰まりだった」[%p]"
 
 msgid "2300:[name]セナの父[line]「だが、この公式があれば、計画は次の段階に進めるんだ」[%p]"
-msgstr "2300:[name]セナの父[line]But with this formula, we can go to the next stage.[%p]"
+msgstr "2300:[name]セナの父[line]「だが、この公式があれば、計画は次の段階に進めるんだ」[%p]"
 
 msgid "2400:[name]セナの父[line]「まさか、あんなところで見つけるなんて、思いもしなかったよ！\u3000これはまさに、神光の救いだね」[%p]"
-msgstr "2400:[name]セナの父[line]I can't believe where I found it, too! It must be the guidance of the Divine Light![%p]"
+msgstr "2400:[name]セナの父[line]「まさか、あんなところで見つけるなんて、思いもしなかったよ！\u3000これはまさに、神光の救いだね」[%p]"
 
 msgid "2500:[name]セナの父[line]「東京駅だ。たまたま通りかかったんだ。本当に偶然だった。セナは東京駅に行ったことはあったかな？\u3000やたら広いだろう、あの駅の構内は」[%p]"
-msgstr "2500:[name]セナの父[line]Tokyo Station. I just happened to be passing by. It was a total coincidence. Sena, have you ever been to Tokyo Station? It's really big, you know.[%p]"
+msgstr "2500:[name]セナの父[line]「東京駅だ。たまたま通りかかったんだ。本当に偶然だった。セナは東京駅に行ったことはあったかな？\u3000やたら広いだろう、あの駅の構内は」[%p]"
 
 msgid "2600:[name]セナの父[line]「その構内の一角に、たくさんの作文が展示されていたんだ。文部省の、全国なんとか作文コンクールとか、そんな名前の展覧会だったよ」[%p]"
-msgstr "2600:[name]セナの父[line]But in one corner, they had a display of a bunch of essays. It was some kind of national essay contest put on by the Cultural Ministry.[%p]"
+msgstr "2600:[name]セナの父[line]「その構内の一角に、たくさんの作文が展示されていたんだ。文部省の、全国なんとか作文コンクールとか、そんな名前の展覧会だったよ」[%p]"
 
 msgid "2700:[name]セナの父[line]「優秀な子供たちの作文が、飾ってあってね」[%p]"
-msgstr "2700:[name]セナの父[line]The winning essays were up on display.[%p]"
+msgstr "2700:[name]セナの父[line]「優秀な子供たちの作文が、飾ってあってね」[%p]"
 
 msgid "2800:[name]セナの父[line]「セナ、知ってるかい？\u3000もしかして、応募したりしたかい？」[%p]"
-msgstr "2800:[name]セナの父[line]Sena, did you know about it? Did you maybe apply?[%p]"
+msgstr "2800:[name]セナの父[line]「セナ、知ってるかい？\u3000もしかして、応募したりしたかい？」[%p]"
 
 msgid "2900:[name]セナ[line]「分かんない。たぶん、知らない」[%p]"
-msgstr "2900:[name]セナ[line]No, I don't think I did.[%p]"
+msgstr "2900:[name]セナ[line]「分かんない。たぶん、知らない」[%p]"
 
 msgid "3000:[name]セナの父[line]「セナが出れば、きっとセナも優秀作品に選ばれていたんじゃないかな」[%p]"
-msgstr "3000:[name]セナの父[line]Well, if you had, I'm sure you would've won, too.[%p]"
+msgstr "3000:[name]セナの父[line]「セナが出れば、きっとセナも優秀作品に選ばれていたんじゃないかな」[%p]"
 
 msgid "3100:[name]セナ[line]「そんなことないよ。私、作文は苦手」[%p]"
-msgstr "3100:[name]セナ[line]No, I'm not good at writing.[%p]"
+msgstr "3100:[name]セナ[line]「そんなことないよ。私、作文は苦手」[%p]"
 
 msgid "3200:[name]セナの父[line]「そうか？\u3000もっと自信を持つべきだと思うがなあ」[%p]"
-msgstr "3200:[name]セナの父[line]You sure? I think you should be more confident.[%p]"
+msgstr "3200:[name]セナの父[line]「そうか？\u3000もっと自信を持つべきだと思うがなあ」[%p]"
 
 msgid "3300:[name]セナ[line]「ねえ、作文が、すごい大発見だったんだ？」[%p]"
-msgstr "3300:[name]セナ[line]So this essay was a big discovery?[%p]"
+msgstr "3300:[name]セナ[line]「ねえ、作文が、すごい大発見だったんだ？」[%p]"
 
 msgid "3400:[name]セナの父[line]「いや、違う違う。そうじゃないんだ。作文なんてどうでもいいんだよ。重要だったのは、その裏に描かれていた、落書きなんだ」[%p]"
-msgstr "3400:[name]セナの父[line]No, no. That's not how it happened. The essay doesn't matter. What's important is what was scribbled on the back.[%p]"
+msgstr "3400:[name]セナの父[line]「いや、違う違う。そうじゃないんだ。作文なんてどうでもいいんだよ。重要だったのは、その裏に描かれていた、落書きなんだ」[%p]"
 
 msgid "3500:[name]セナの父[line]「そこに飾られていた作文は、透明のプラスチックの額に収められていてね。裏側も見ることができた」[%p]"
-msgstr "3500:[name]セナの父[line]The essays were put up in these transparent plastic frames. You could see the back, too.[%p]"
+msgstr "3500:[name]セナの父[line]「そこに飾られていた作文は、透明のプラスチックの額に収められていてね。裏側も見ることができた」[%p]"
 
 msgid "3600:[name]セナの父[line]「それは多分、演出とかそういうものじゃない。たまたま透明なだけだったんだろうね」[%p]"
-msgstr "3600:[name]セナの父[line]I don't think it was something they meant to do. I think it was just chance that the frames were see-through.[%p]"
+msgstr "3600:[name]セナの父[line]「それは多分、演出とかそういうものじゃない。たまたま透明なだけだったんだろうね」[%p]"
 
 msgid "3700:[name]セナの父[line]「きっと主催者には、作文の裏の落書きを見せようなんて気はなかったはずなんだ」[%p]"
-msgstr "3700:[name]セナの父[line]I'm sure whoever held the contest didn't intend for us to see the scribblings on the back.[%p]"
+msgstr "3700:[name]セナの父[line]「きっと主催者には、作文の裏の落書きを見せようなんて気はなかったはずなんだ」[%p]"
 
 msgid "3800:[name]セナの父[line]「だからこの公式を父さんが見る確率は、それこそ天文学的数字だったわけさ。これが奇跡というヤツなのかな」[%p]"
-msgstr "3800:[name]セナの父[line]That's why the probability that I was able to see this formula was so astronomically low! It's what you'd call a miracle, I guess.[%p]"
+msgstr "3800:[name]セナの父[line]「だからこの公式を父さんが見る確率は、それこそ天文学的数字だったわけさ。これが奇跡というヤツなのかな」[%p]"
 
 msgid "3900:[name]セナ[line]「公式っていうことは、算数なんだね」[%p]"
-msgstr "3900:[name]セナ[line]A formula's like a math problem, right?[%p]"
+msgstr "3900:[name]セナ[line]「公式っていうことは、算数なんだね」[%p]"
 
 msgid "4000:[name]セナの父[line]「ああ、そうだよ。すごく難しい、算数だ」[%p]"
-msgstr "4000:[name]セナの父[line]Yes, that's right. A really hard math problem.[%p]"
+msgstr "4000:[name]セナの父[line]「ああ、そうだよ。すごく難しい、算数だ」[%p]"
 
 msgid "4100:[name]セナ[line]「算数で、世界を変えられちゃったりするのかな？」[%p]"
-msgstr "4100:[name]セナ[line]Can a math problem change the world?[%p]"
+msgstr "4100:[name]セナ[line]「算数で、世界を変えられちゃったりするのかな？」[%p]"
 
 msgid "4200:[name]セナの父[line]「ああ、変えられるよ。父さんの研究はね、世界を変えることなんだ」[%p]"
-msgstr "4200:[name]セナの父[line]Yeah, it sure can. Daddy's research is going to change the world forever.[%p]"
+msgstr "4200:[name]セナの父[line]「ああ、変えられるよ。父さんの研究はね、世界を変えることなんだ」[%p]"
 
 msgid "4300:[name]セナ[line]「ホント？\u3000信じられないなあ」[%p]"
-msgstr "4300:[name]セナ[line]Really? I don't know if I believe that.[%p]"
+msgstr "4300:[name]セナ[line]「ホント？\u3000信じられないなあ」[%p]"
 
 msgid "4400:[name]セナの父[line]「いつか、証明してあげるよ。見ていてくれ、セナ」[%p]"
-msgstr "4400:[name]セナの父[line]Someday, I'll prove it to you. Just you wait, Sena...[%p]"
+msgstr "4400:[name]セナの父[line]「いつか、証明してあげるよ。見ていてくれ、セナ」[%p]"
 
 msgid "4500:あれから６年半――[%p]"
-msgstr "4500:Six and a half years had passed since then.[%p]"
+msgstr "4500:あれから６年半――[%p]"
 
 msgid "4600:セナはギリリと奥歯を噛みしめ、紙片をポケットにしまった。[linebreak]窓の外、くすんだ色の空を見上げる。[%p]"
-msgstr "4600:Sena gritted her teeth and shoved the paper back in her pocket. She looked up at the cloudy sky outside the windows.[%p]"
+msgstr "4600:セナはギリリと奥歯を噛みしめ、紙片をポケットにしまった。[linebreak]窓の外、くすんだ色の空を見上げる。[%p]"
 
 msgid "4700:確かに、父の言う通り、世界は変わろうとしている。[linebreak]すでにセナを取り巻く周囲の環境は、劇的に変わった。[%p]"
-msgstr "4700:Her dad had been right. The world was about to change. Things around Sena had already changed dramatically.[%p]"
+msgstr "4700:確かに、父の言う通り、世界は変わろうとしている。[linebreak]すでにセナを取り巻く周囲の環境は、劇的に変わった。[%p]"
 
 msgid "4800:どこまでも最低で最悪な。あまりにも醜悪な世界が、生まれつつある。[%p]"
-msgstr "4800:The world was being reborn into something ugly and awful. The worst kind of world imaginable.[%p]"
+msgstr "4800:どこまでも最低で最悪な。あまりにも醜悪な世界が、生まれつつある。[%p]"
 
 msgid "4900:[name]セナ[line]「そんな世界は……作らせない……っ」[%p]"
-msgstr "4900:[name]セナ[line]I won't let him make that world…[%p]"
+msgstr "4900:[name]セナ[line]「そんな世界は……作らせない……っ」[%p]"
 
 msgid "5000:[name]セナ[line]「ヤツを殺して……、私が、止めてやる……！」[%p]"
-msgstr "5000:[name]セナ[line]I'll kill him and stop it![%p]"
+msgstr "5000:[name]セナ[line]「ヤツを殺して……、私が、止めてやる……！」[%p]"
 

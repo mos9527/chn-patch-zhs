@@ -10,302 +10,302 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:衆議院議員、猪鼻康三と、天成神光会教祖、[ruby-base]倉持[ruby-text-start]くらもち[ruby-text-end][ruby-base]雄大[ruby-text-start]ゆうだい[ruby-text-end]は、目の前で不気味な唸りを上げる巨大な装置――ノアⅡを見て、満足げにうなずいた。[%p]"
-msgstr "0:Kozo Inohana, member of the lower house of the Japanese National Diet, and Yudai Kuramochi, founder and leader of the Cosmic Church of the Divine Light, were looking at the huge machine in front of them with satisfaction. It was Noah II, and it was giving off an eerie roar.[%p]"
+msgstr "0:衆議院議員、猪鼻康三と、天成神光会教祖、[ruby-base]倉持[ruby-text-start]くらもち[ruby-text-end][ruby-base]雄大[ruby-text-start]ゆうだい[ruby-text-end]は、目の前で不気味な唸りを上げる巨大な装置――ノアⅡを見て、満足げにうなずいた。[%p]"
 
 msgid "100:[name]猪鼻[line]「５０００人を殺すと言い出したときは、どうなることかと思ったが」[%p]"
-msgstr "100:[name]猪鼻[line]I was a little worried when you said it would kill 5,000 people.[%p]"
+msgstr "100:[name]猪鼻[line]「５０００人を殺すと言い出したときは、どうなることかと思ったが」[%p]"
 
 msgid "200:[name]倉持[line]「調整にはずいぶんと骨が折れたよ。特に、３００人委員会に勘付かれないようにするのはね」[%p]"
-msgstr "200:[name]倉持[line]It was a big task, getting everything in order. And especially keeping the Committee of 300 from finding out.[%p]"
+msgstr "200:[name]倉持[line]「調整にはずいぶんと骨が折れたよ。特に、３００人委員会に勘付かれないようにするのはね」[%p]"
 
 msgid "300:[name]野呂瀬[line]「ご協力に感謝します」[%p]"
-msgstr "300:[name]野呂瀬[line]Thank you for your cooperation.[%p]"
+msgstr "300:[name]野呂瀬[line]「ご協力に感謝します」[%p]"
 
 msgid "400:野呂瀬が、わずかに頭を下げる。[%p]"
-msgstr "400:Norose bowed to them, shallowly.[%p]"
+msgstr "400:野呂瀬が、わずかに頭を下げる。[%p]"
 
 msgid "500:[name]猪鼻[line]「だがこれが完成した今、５０００人などちっぽけな数字でしかなくなった」[%p]"
-msgstr "500:[name]猪鼻[line]But now that this is finished, 5,000 is a tiny, meaningless number.[%p]"
+msgstr "500:[name]猪鼻[line]「だがこれが完成した今、５０００人などちっぽけな数字でしかなくなった」[%p]"
 
 msgid "600:[name]倉持[line]「早くも影響が目に見えて出てきているよ。人々の家畜化が始まっている」[%p]"
-msgstr "600:[name]倉持[line]We're seeing the effects already. The cultivation of mankind has begun.[%p]"
+msgstr "600:[name]倉持[line]「早くも影響が目に見えて出てきているよ。人々の家畜化が始まっている」[%p]"
 
 msgid "700:[name]猪鼻[line]「これで、いよいよ我らが世界を手に入れる日も現実のものとなったわけだ」[%p]"
-msgstr "700:[name]猪鼻[line]The day when the whole world becomes ours is not far off at all.[%p]"
+msgstr "700:[name]猪鼻[line]「これで、いよいよ我らが世界を手に入れる日も現実のものとなったわけだ」[%p]"
 
 msgid "800:猪鼻と倉持は、互いに顔を見合わせて、ニヤリと不穏な笑みを浮かべた。[%p]"
-msgstr "800:Inohana and Kuramochi looked at each other, sharing an unnerving grin.[%p]"
+msgstr "800:猪鼻と倉持は、互いに顔を見合わせて、ニヤリと不穏な笑みを浮かべた。[%p]"
 
 msgid "900:それを、野呂瀬は眉ひとつ動かさずに見つめる。[%p]"
-msgstr "900:Norose watched them, unmoving and unblinking.[%p]"
+msgstr "900:それを、野呂瀬は眉ひとつ動かさずに見つめる。[%p]"
 
 msgid "1000:[name]猪鼻[line]「しかし野呂瀬よ。貴様、なかなか興味深い趣味を持っているようじゃないか」[%p]"
-msgstr "1000:[name]猪鼻[line]I must say though, Norose, you certainly are a man possessed of interesting tastes.[%p]"
+msgstr "1000:[name]猪鼻[line]「しかし野呂瀬よ。貴様、なかなか興味深い趣味を持っているようじゃないか」[%p]"
 
 msgid "1100:[name]野呂瀬[line]「なんのことでしょう」[%p]"
-msgstr "1100:[name]野呂瀬[line]Whatever are you referring to?[%p]"
+msgstr "1100:[name]野呂瀬[line]「なんのことでしょう」[%p]"
 
 msgid "1200:猪鼻は、卑しそうな含み笑いをして、[linebreak]ノアⅡの傍らに立てられている“オブジェ”へと顎をしゃくった。[%p]"
-msgstr "1200:Inohana gave him a nasty smile. He jerked his head in the direction of the “artwork” next to Noah II.[%p]"
+msgstr "1200:猪鼻は、卑しそうな含み笑いをして、[linebreak]ノアⅡの傍らに立てられている“オブジェ”へと顎をしゃくった。[%p]"
 
 msgid "1300:[name]猪鼻[line]「なんとも芸術性に溢れるオブジェだ。ぜひワシにもひとつ、用意してもらいたいものだな」[%p]"
-msgstr "1300:[name]猪鼻[line]It's a fine piece of work. Very artistic. I'd like to have one for myself, I think.[%p]"
+msgstr "1300:[name]猪鼻[line]「なんとも芸術性に溢れるオブジェだ。ぜひワシにもひとつ、用意してもらいたいものだな」[%p]"
 
 msgid "1400:[name]倉持[line]「素材ならば、我が教団の信者の中から選りすぐりを提供してもよい」[%p]"
-msgstr "1400:[name]倉持[line]If you're in need of materials, I'll gladly offer you a selection from the finest of my believers.[%p]"
+msgstr "1400:[name]倉持[line]「素材ならば、我が教団の信者の中から選りすぐりを提供してもよい」[%p]"
 
 msgid "1500:[name]猪鼻[line]「くく、倉持先生は気前がいい」[%p]"
-msgstr "1500:[name]猪鼻[line]Heheh. That's a very kind offer you're making, Mr. Kuramochi.[%p]"
+msgstr "1500:[name]猪鼻[line]「くく、倉持先生は気前がいい」[%p]"
 
 msgid "1600:[name]野呂瀬[line]「……あれは、餌ですよ」[%p]"
-msgstr "1600:[name]野呂瀬[line]What you see is bait.[%p]"
+msgstr "1600:[name]野呂瀬[line]「……あれは、餌ですよ」[%p]"
 
 msgid "1700:[name]猪鼻[line]「餌？」[%p]"
-msgstr "1700:[name]猪鼻[line]Bait?[%p]"
+msgstr "1700:[name]猪鼻[line]「餌？」[%p]"
 
 msgid "1800:[name]野呂瀬[line]「ノアⅡをより完璧なものにするための」[%p]"
-msgstr "1800:[name]野呂瀬[line]To make Noah II more perfect than it is.[%p]"
+msgstr "1800:[name]野呂瀬[line]「ノアⅡをより完璧なものにするための」[%p]"
 
 msgid "1900:[name]猪鼻[line]「まあ、そういうことにしておこう」[%p]"
-msgstr "1900:[name]猪鼻[line]Well, if you say so. I won't inquire further.[%p]"
+msgstr "1900:[name]猪鼻[line]「まあ、そういうことにしておこう」[%p]"
 
 msgid "2000:[name]倉持[line]「それより、ノアⅡが具体的にどれほどのことができるのか、実演してもらいたいところだね」[%p]"
-msgstr "2000:[name]倉持[line]What I would like to see though, is a practical demonstration of just what Noah II is capable of.[%p]"
+msgstr "2000:[name]倉持[line]「それより、ノアⅡが具体的にどれほどのことができるのか、実演してもらいたいところだね」[%p]"
 
 msgid "2100:[name]猪鼻[line]「それはいい。早速やって見せたまえ」[%p]"
-msgstr "2100:[name]猪鼻[line]That's an excellent idea. Why don't we have him do it right now?[%p]"
+msgstr "2100:[name]猪鼻[line]「それはいい。早速やって見せたまえ」[%p]"
 
 msgid "2200:野呂瀬は能面のように無表情を貫いたまま、小さく肩をすくめた。[%p]"
-msgstr "2200:Norose gave a small shrug. His face was still an expressionless mask.[%p]"
+msgstr "2200:野呂瀬は能面のように無表情を貫いたまま、小さく肩をすくめた。[%p]"
 
 msgid "2300:[name]野呂瀬[line]「では、このようなものはどうですか？」[%p]"
-msgstr "2300:[name]野呂瀬[line]How about this, then?[%p]"
+msgstr "2300:[name]野呂瀬[line]「では、このようなものはどうですか？」[%p]"
 
 msgid "2400:野呂瀬がそう言い終えたときには、すでに“実演”は始まっていた。[%p]"
-msgstr "2400:Norose began speaking, and by the time his sentence was finished, the “demonstration” had already begun.[%p]"
+msgstr "2400:野呂瀬がそう言い終えたときには、すでに“実演”は始まっていた。[%p]"
 
 msgid "2500:ふと気付くと、猪鼻も倉持も、その手に拳銃を持っている。[%p]"
-msgstr "2500:Both Inohana and Kuramochi were suddenly holding pistols in their hands.[%p]"
+msgstr "2500:ふと気付くと、猪鼻も倉持も、その手に拳銃を持っている。[%p]"
 
 msgid "2600:ノアⅡも、野呂瀬も、まったくなんの変化も動作もしないまま、その奇跡のような出来事は現実となっていた。[%p]"
-msgstr "2600:It had happened without the slightest change on the part of Norose, or even Noah II.[%p]"
+msgstr "2600:ノアⅡも、野呂瀬も、まったくなんの変化も動作もしないまま、その奇跡のような出来事は現実となっていた。[%p]"
 
 msgid "2700:[name]猪鼻[line]「ほう、本物そっくりだ」[%p]"
-msgstr "2700:[name]猪鼻[line]Amazing. Just like the real thing.[%p]"
+msgstr "2700:[name]猪鼻[line]「ほう、本物そっくりだ」[%p]"
 
 msgid "2800:[name]倉持[line]「まるで手品のようだよ」[%p]"
-msgstr "2800:[name]倉持[line]Almost like a magic trick.[%p]"
+msgstr "2800:[name]倉持[line]「まるで手品のようだよ」[%p]"
 
 msgid "2900:[name]野呂瀬[line]「手品と一緒にしてもらっては困ります」[%p]"
-msgstr "2900:[name]野呂瀬[line]It's no mere magic trick, I assure you.[%p]"
+msgstr "2900:[name]野呂瀬[line]「手品と一緒にしてもらっては困ります」[%p]"
 
 msgid "3000:[name]野呂瀬[line]「その銃の存在は、現実」[%p]"
-msgstr "3000:[name]野呂瀬[line]The guns themselves are quite real.[%p]"
+msgstr "3000:[name]野呂瀬[line]「その銃の存在は、現実」[%p]"
 
 msgid "3100:猪鼻と倉持は、銃をしげしげと眺めながら、再び満足そうにうなずく。[%p]"
-msgstr "3100:Inohana and Kuramochi stared at the weapons intently, before giving a satisfied smile.[%p]"
+msgstr "3100:猪鼻と倉持は、銃をしげしげと眺めながら、再び満足そうにうなずく。[%p]"
 
 msgid "3200:[name]猪鼻[line]「実に素晴らしい」[%p]"
-msgstr "3200:[name]猪鼻[line]Splendid, really.[%p]"
+msgstr "3200:[name]猪鼻[line]「実に素晴らしい」[%p]"
 
 msgid "3300:[name]倉持[line]「いかにも。神をも超越する力だ」[%p]"
-msgstr "3300:[name]倉持[line]Indeed. A power to surpass God himself.[%p]"
+msgstr "3300:[name]倉持[line]「いかにも。神をも超越する力だ」[%p]"
 
 msgid "3400:[name]猪鼻[line]「この銃は記念にもらっておくとするか」[%p]"
-msgstr "3400:[name]猪鼻[line]I'll keep the gun as a souvenir, I think.[%p]"
+msgstr "3400:[name]猪鼻[line]「この銃は記念にもらっておくとするか」[%p]"
 
 msgid "3500:[name]野呂瀬[line]「……小物ですね」[%p]"
-msgstr "3500:[name]野呂瀬[line]Such tiny, unimportant little men...[%p]"
+msgstr "3500:[name]野呂瀬[line]「……小物ですね」[%p]"
 
 msgid "3600:野呂瀬のそのかすかなつぶやきは、他の２人に聞こえることはなかった。[%p]"
-msgstr "3600:Norose's whisper went unheard by the other two.[%p]"
+msgstr "3600:野呂瀬のそのかすかなつぶやきは、他の２人に聞こえることはなかった。[%p]"
 
 msgid "3700:[name]猪鼻[line]「早速、今後の計画を検討しよう」[%p]"
-msgstr "3700:[name]猪鼻[line]Now, let's discuss the rest of our plan.[%p]"
+msgstr "3700:[name]猪鼻[line]「早速、今後の計画を検討しよう」[%p]"
 
 msgid "3800:[name]倉持[line]「まずは３００人委員会の排除を」[%p]"
-msgstr "3800:[name]倉持[line]First, we need to eliminate the Committee of 300.[%p]"
+msgstr "3800:[name]倉持[line]「まずは３００人委員会の排除を」[%p]"
 
 msgid "3900:[name]猪鼻[line]「野呂瀬。ご苦労だったな」[%p]"
-msgstr "3900:[name]猪鼻[line]Norose, you've done excellent work.[%p]"
+msgstr "3900:[name]猪鼻[line]「野呂瀬。ご苦労だったな」[%p]"
 
 msgid "4000:[name]倉持[line]「今後のことは、追って連絡する」[%p]"
-msgstr "4000:[name]倉持[line]We'll contact you later with your next task.[%p]"
+msgstr "4000:[name]倉持[line]「今後のことは、追って連絡する」[%p]"
 
 msgid "4100:２人はすっかり上機嫌で、足取りも軽くプラネタリウムから出ていこうとする。[linebreak]だが――[%p]"
-msgstr "4100:The two went to leave the planetarium, both satisfied and pleased with themselves. But...[%p]"
+msgstr "4100:２人はすっかり上機嫌で、足取りも軽くプラネタリウムから出ていこうとする。[linebreak]だが――[%p]"
 
 msgid "4200:[name]野呂瀬[line]「その必要はありません」[%p]"
-msgstr "4200:[name]野呂瀬[line]There's no need for that.[%p]"
+msgstr "4200:[name]野呂瀬[line]「その必要はありません」[%p]"
 
 msgid "4300:[name]猪鼻[line]「……なに？」[%p]"
-msgstr "4300:[name]猪鼻[line]What?[%p]"
+msgstr "4300:[name]猪鼻[line]「……なに？」[%p]"
 
 msgid "4400:[name]倉持[line]「どういうことだ？」[%p]"
-msgstr "4400:[name]倉持[line]What do you mean?[%p]"
+msgstr "4400:[name]倉持[line]「どういうことだ？」[%p]"
 
 msgid "4500:そこで初めて、野呂瀬の表情に変化が起きた。[%p]"
-msgstr "4500:Only then did the expression on Norose's face change.[%p]"
+msgstr "4500:そこで初めて、野呂瀬の表情に変化が起きた。[%p]"
 
 msgid "4600:目を細め、わずかに顎をそらして、その長身から２人を見据える。それはまるで見下しているかのような態度。[%p]"
-msgstr "4600:His eyes narrowed, and he tilted his head very slightly to look at them from a height. He was looking down on them...[%p]"
+msgstr "4600:目を細め、わずかに顎をそらして、その長身から２人を見据える。それはまるで見下しているかのような態度。[%p]"
 
 msgid "4700:いや、現実に、彼は２人を見下していた――[%p]"
-msgstr "4700:Both in a physical sense, and in sheer contempt.[%p]"
+msgstr "4700:いや、現実に、彼は２人を見下していた――[%p]"
 
 msgid "4800:[name]野呂瀬[line]「計画は私が引き継ぎましょう。ただし、あなた方の考えているような低俗な目的ではなく、より崇高な理由のために、です」[%p]"
-msgstr "4800:[name]野呂瀬[line]I will take over the plan from now on. But not for the petty goals that you espouse, but for a more noble ideal.[%p]"
+msgstr "4800:[name]野呂瀬[line]「計画は私が引き継ぎましょう。ただし、あなた方の考えているような低俗な目的ではなく、より崇高な理由のために、です」[%p]"
 
 msgid "4900:野呂瀬はあくまでも丁寧な口調を続ける。[linebreak]だがその言葉の意味に気付き、当然のように猪鼻も倉持も激昂した。[%p]"
-msgstr "4900:Norose's words were completely polite. But both Inohana and Kuramochi understood exactly what they meant, and were enraged.[%p]"
+msgstr "4900:野呂瀬はあくまでも丁寧な口調を続ける。[linebreak]だがその言葉の意味に気付き、当然のように猪鼻も倉持も激昂した。[%p]"
 
 msgid "5000:[name]猪鼻[line]「貴様、裏切るのか！」[%p]"
-msgstr "5000:[name]猪鼻[line]You're going to betray us, then?![%p]"
+msgstr "5000:[name]猪鼻[line]「貴様、裏切るのか！」[%p]"
 
 msgid "5100:[name]倉持[line]「神にでもなったつもりかね？」[%p]"
-msgstr "5100:[name]倉持[line]Do you think you've become God?[%p]"
+msgstr "5100:[name]倉持[line]「神にでもなったつもりかね？」[%p]"
 
 msgid "5200:[name]猪鼻[line]「３００人委員会が黙ってはおらんぞ！」[%p]"
-msgstr "5200:[name]猪鼻[line]The Committee of 300 won't let you get away with this![%p]"
+msgstr "5200:[name]猪鼻[line]「３００人委員会が黙ってはおらんぞ！」[%p]"
 
 msgid "5300:[name]野呂瀬[line]「おふたりも、３００人委員会のメンバーでありながら、反旗を翻そうとしていたではありませんか」[%p]"
-msgstr "5300:[name]野呂瀬[line]Both of you are members of the Committee, but you betrayed it yourselves, didn't you?[%p]"
+msgstr "5300:[name]野呂瀬[line]「おふたりも、３００人委員会のメンバーでありながら、反旗を翻そうとしていたではありませんか」[%p]"
 
 msgid "5400:野呂瀬の、２人を捉える瞳。[linebreak]そこにある感情は――蔑み。[%p]"
-msgstr "5400:Norose was staring at both of them. The look in his eyes was one of pure disgust.[%p]"
+msgstr "5400:野呂瀬の、２人を捉える瞳。[linebreak]そこにある感情は――蔑み。[%p]"
 
 msgid "5500:汚いものでも見るような冷たい視線が意味するもの。それは彼がこれまでずっと、猪鼻と倉持をただ利用してきただけだということだ。[%p]"
-msgstr "5500:His cold gaze, like he was looking at something filthy, could only mean one thing. This whole time, he'd been using Inohana and Kuramochi for his own purposes.[%p]"
+msgstr "5500:汚いものでも見るような冷たい視線が意味するもの。それは彼がこれまでずっと、猪鼻と倉持をただ利用してきただけだということだ。[%p]"
 
 msgid "5600:[name]野呂瀬[line]「これは、すべて予定通りの行動ですよ」[%p]"
-msgstr "5600:[name]野呂瀬[line]All of this was part of the plan.[%p]"
+msgstr "5600:[name]野呂瀬[line]「これは、すべて予定通りの行動ですよ」[%p]"
 
 msgid "5700:[name]野呂瀬[line]「あなた方がここで死ぬことも含めて」[%p]"
-msgstr "5700:[name]野呂瀬[line]As is both of your deaths, right here.[%p]"
+msgstr "5700:[name]野呂瀬[line]「あなた方がここで死ぬことも含めて」[%p]"
 
 msgid "5800:[name]猪鼻[line]「ふざけるな！」[%p]"
-msgstr "5800:[name]猪鼻[line]Bastard![%p]"
+msgstr "5800:[name]猪鼻[line]「ふざけるな！」[%p]"
 
 msgid "5900:[name]倉持[line]「戯れ言を！」[%p]"
-msgstr "5900:[name]倉持[line]Nonsense![%p]"
+msgstr "5900:[name]倉持[line]「戯れ言を！」[%p]"
 
 msgid "6000:倉持と猪鼻は、揃って銃口を野呂瀬へと向ける。[linebreak]引き金に手をかけた。[%p]"
-msgstr "6000:Both Kuramochi and Inohana pointed their guns at Norose. They pulled their triggers.[%p]"
+msgstr "6000:倉持と猪鼻は、揃って銃口を野呂瀬へと向ける。[linebreak]引き金に手をかけた。[%p]"
 
 msgid "6100:[name]野呂瀬[line]「戯れ言ではなく――」[%p]"
-msgstr "6100:[name]野呂瀬[line]Not nonsense...[%p]"
+msgstr "6100:[name]野呂瀬[line]「戯れ言ではなく――」[%p]"
 
 msgid "6200:ふたつの銃が同時に火を噴き。[linebreak]ドーム内に、轟音が響き渡った。[%p]"
-msgstr "6200:Bursts of fire erupted from the guns at the same time, and the noise of the gunshots echoed throughout the dome.[%p]"
+msgstr "6200:ふたつの銃が同時に火を噴き。[linebreak]ドーム内に、轟音が響き渡った。[%p]"
 
 msgid "6300:[name]野呂瀬[line]「予知、だったのですが」[%p]"
-msgstr "6300:[name]野呂瀬[line]...but a vision of the future.[%p]"
+msgstr "6300:[name]野呂瀬[line]「予知、だったのですが」[%p]"
 
 msgid "6400:倒れたのは、野呂瀬ではなく、猪鼻と倉持。[%p]"
-msgstr "6400:But it wasn't Norose that collapsed, but Inohana and Kuramochi.[%p]"
+msgstr "6400:倒れたのは、野呂瀬ではなく、猪鼻と倉持。[%p]"
 
 msgid "6500:なぜか彼らは、引き金を引く直前で、銃の狙いを野呂瀬から外し、お互いを撃ち合ったのだ。[%p]"
-msgstr "6500:For some reason, the two of them had pointed their guns at each other just before pulling the trigger.[%p]"
+msgstr "6500:なぜか彼らは、引き金を引く直前で、銃の狙いを野呂瀬から外し、お互いを撃ち合ったのだ。[%p]"
 
 msgid "6600:即死――。[%p]"
-msgstr "6600:Death was instantaneous.[%p]"
+msgstr "6600:即死――。[%p]"
 
 msgid "6700:互いの額に穴を開け仲良く倒れた２人にすでに息はなく、ただの肉の塊と化していた。[%p]"
-msgstr "6700:The two of them both collapsed, identical holes in their skulls. Neither were breathing. They were now just lumps of meat.[%p]"
+msgstr "6700:互いの額に穴を開け仲良く倒れた２人にすでに息はなく、ただの肉の塊と化していた。[%p]"
 
 msgid "6800:[name]野呂瀬[line]「ノアⅡは、我が手にあります」[%p]"
-msgstr "6800:[name]野呂瀬[line]Noah II is in my hands.[%p]"
+msgstr "6800:[name]野呂瀬[line]「ノアⅡは、我が手にあります」[%p]"
 
 msgid "6900:[name]野呂瀬[line]「俗物には、その意味がお分かりにはならなかったようだ」[%p]"
-msgstr "6900:[name]野呂瀬[line]It appears you were too petty to understand what that means.[%p]"
+msgstr "6900:[name]野呂瀬[line]「俗物には、その意味がお分かりにはならなかったようだ」[%p]"
 
 msgid "7000:野呂瀬が２人に見せた“実演”は、銃を出すだけではなかった。彼らに、お互いを野呂瀬だと勘違いさせ、殺し合わせる。[%p]"
-msgstr "7000:Norose's “demonstration” wasn't simply creating a pistol. He'd made the two of them both think the other was Norose.[%p]"
+msgstr "7000:野呂瀬が２人に見せた“実演”は、銃を出すだけではなかった。彼らに、お互いを野呂瀬だと勘違いさせ、殺し合わせる。[%p]"
 
 msgid "7100:そこまでが“実演”。[%p]"
-msgstr "7100:That was also part of the demonstration, as well as their deaths.[%p]"
+msgstr "7100:そこまでが“実演”。[%p]"
 
 msgid "7200:ノアⅡの力をもってすれば、それはあまりにも造作のないことだった。[%p]"
-msgstr "7200:With Noah II's power, it was simple.[%p]"
+msgstr "7200:ノアⅡの力をもってすれば、それはあまりにも造作のないことだった。[%p]"
 
 msgid "7300:野呂瀬は“オブジェ”へと向き直る。[%p]"
-msgstr "7300:Norose turned his gaze to the “artwork.”[%p]"
+msgstr "7300:野呂瀬は“オブジェ”へと向き直る。[%p]"
 
 msgid "7400:そこには、張り付けにされた咲畑梨深の姿があった。[%p]"
-msgstr "7400:There was Rimi Sakihata, hanging, crucified on a cross-shaped object.[%p]"
+msgstr "7400:そこには、張り付けにされた咲畑梨深の姿があった。[%p]"
 
 msgid "7500:梨深は七海を解放するように懇願し、野呂瀬はそれを了承する代わりに彼女を人質とした。[%p]"
-msgstr "7500:Rimi had begged him to let Nanami go, and he'd agreed, on the condition that she become his hostage instead.[%p]"
+msgstr "7500:梨深は七海を解放するように懇願し、野呂瀬はそれを了承する代わりに彼女を人質とした。[%p]"
 
 msgid "7600:七海に精神攻撃を受けたせいか、梨深からはほとんど生気が失われ、今も張り付けにされて力なくうなだれている。[%p]"
-msgstr "7600:Nanami's psychological attacks had drained much of the life from her. Even now she hung there helplessly.[%p]"
+msgstr "7600:七海に精神攻撃を受けたせいか、梨深からはほとんど生気が失われ、今も張り付けにされて力なくうなだれている。[%p]"
 
 msgid "7700:だが野呂瀬が近づくと、わずかに肩を震わせた。[%p]"
-msgstr "7700:But when Norose approached, her shoulders shook, just a little.[%p]"
+msgstr "7700:だが野呂瀬が近づくと、わずかに肩を震わせた。[%p]"
 
 msgid "7800:[name]梨深[line]「自分の……手を汚さずに……卑怯なことばっかり……」[%p]"
-msgstr "7800:[name]梨深[line]You never do anything yourself. You always get other people to do it for you.[%p]"
+msgstr "7800:[name]梨深[line]「自分の……手を汚さずに……卑怯なことばっかり……」[%p]"
 
 msgid "7900:[name]梨深[line]「あなたこそ……俗物だよ」[%p]"
-msgstr "7900:[name]梨深[line]You're the petty one.[%p]"
+msgstr "7900:[name]梨深[line]「あなたこそ……俗物だよ」[%p]"
 
 msgid "8000:[name]梨深[line]「……っ」[%p]"
-msgstr "8000:[name]梨深[line]...[%p]"
+msgstr "8000:[name]梨深[line]「……っ」[%p]"
 
 msgid "8100:野呂瀬の手の甲が、梨深の頬を打つ。[linebreak]それから、野呂瀬は彼女の顎をつかみ、無理矢理自分の方を向かせた。[%p]"
-msgstr "8100:Norose's palm struck her across the cheek. Then he grabbed her jaw and forced her to look at him.[%p]"
+msgstr "8100:野呂瀬の手の甲が、梨深の頬を打つ。[linebreak]それから、野呂瀬は彼女の顎をつかみ、無理矢理自分の方を向かせた。[%p]"
 
 msgid "8200:表情は死んでいると言うのに、梨深の薄く開かれた目だけは、今も爛々と輝き野呂瀬を射ている。[%p]"
-msgstr "8200:Her expression was dead, but there was still a bright, burning light in her half-opened eyes.[%p]"
+msgstr "8200:表情は死んでいると言うのに、梨深の薄く開かれた目だけは、今も爛々と輝き野呂瀬を射ている。[%p]"
 
 msgid "8300:[name]野呂瀬[line]「なぜ、ニシジョウタクミに助けを求めないのです？」[%p]"
-msgstr "8300:[name]野呂瀬[line]Why don't you call to Takumi Nishijo for help?[%p]"
+msgstr "8300:[name]野呂瀬[line]「なぜ、ニシジョウタクミに助けを求めないのです？」[%p]"
 
 msgid "8400:梨深の耳元で、野呂瀬はささやく。[%p]"
-msgstr "8400:He whispered in her ear.[%p]"
+msgstr "8400:梨深の耳元で、野呂瀬はささやく。[%p]"
 
 msgid "8500:[name]梨深[line]「彼を……巻き込まないで……」[%p]"
-msgstr "8500:[name]梨深[line]Leave him... out of this.[%p]"
+msgstr "8500:[name]梨深[line]「彼を……巻き込まないで……」[%p]"
 
 msgid "8600:[name]野呂瀬[line]「どちらの“彼”のことを言っているのですか？」[%p]"
-msgstr "8600:[name]野呂瀬[line]Which “him” are you referring to?[%p]"
+msgstr "8600:[name]野呂瀬[line]「どちらの“彼”のことを言っているのですか？」[%p]"
 
 msgid "8700:[name]梨深[line]「２人とも……だよ……」[%p]"
-msgstr "8700:[name]梨深[line]Both of them.[%p]"
+msgstr "8700:[name]梨深[line]「２人とも……だよ……」[%p]"
 
 msgid "8800:[name]野呂瀬[line]「私としては、どちらかひとりでじゅうぶんですがね」[%p]"
-msgstr "8800:[name]野呂瀬[line]Either one would serve my purposes just fine.[%p]"
+msgstr "8800:[name]野呂瀬[line]「私としては、どちらかひとりでじゅうぶんですがね」[%p]"
 
 msgid "8900:[name]野呂瀬[line]「Ｉｒ２を生み出した者と、その完全なるコピー」[%p]"
-msgstr "8900:[name]野呂瀬[line]The creator of Ir2, or his perfect copy.[%p]"
+msgstr "8900:[name]野呂瀬[line]「Ｉｒ２を生み出した者と、その完全なるコピー」[%p]"
 
 msgid "9000:[name]野呂瀬[line]「２人とも、化け物じみた力を持っている」[%p]"
-msgstr "9000:[name]野呂瀬[line]Both of them have monstrously strong powers.[%p]"
+msgstr "9000:[name]野呂瀬[line]「２人とも、化け物じみた力を持っている」[%p]"
 
 msgid "9100:[name]野呂瀬[line]「彼らどちらかのＣＯＤＥサンプルが手に入れば、ノアⅡはより完璧へと近づくでしょう」[%p]"
-msgstr "9100:[name]野呂瀬[line]With their code samples, Noah II could be even more complete.[%p]"
+msgstr "9100:[name]野呂瀬[line]「彼らどちらかのＣＯＤＥサンプルが手に入れば、ノアⅡはより完璧へと近づくでしょう」[%p]"
 
 msgid "9200:[name]野呂瀬[line]「神をも超える力を得るのです」[%p]"
-msgstr "9200:[name]野呂瀬[line]More powerful than God![%p]"
+msgstr "9200:[name]野呂瀬[line]「神をも超える力を得るのです」[%p]"
 
 msgid "9300:[name]梨深[line]「…………」[%p]"
-msgstr "9300:[name]梨深[line]...[%p]"
+msgstr "9300:[name]梨深[line]「…………」[%p]"
 
 msgid "9400:梨深が辛そうに目を伏せる。[%p]"
-msgstr "9400:Rimi looked down, pain on her face.[%p]"
+msgstr "9400:梨深が辛そうに目を伏せる。[%p]"
 
 msgid "9500:野呂瀬は彼女の顎をつかんでいた手を乱暴に振り払うと、ノアⅡを見上げ、唇の端に笑みを浮かべた。[%p]"
-msgstr "9500:Norose tore his hand away from her jaw, then looked up at Noah II with a satisfied smile on his lips.[%p]"
+msgstr "9500:野呂瀬は彼女の顎をつかんでいた手を乱暴に振り払うと、ノアⅡを見上げ、唇の端に笑みを浮かべた。[%p]"
 
 msgid "9600:[name]野呂瀬[line]「さあ、呼びかけなさい」[%p]"
-msgstr "9600:[name]野呂瀬[line]Now, call to them.[%p]"
+msgstr "9600:[name]野呂瀬[line]「さあ、呼びかけなさい」[%p]"
 
 msgid "9700:[name]野呂瀬[line]「どちらでもいい」[%p]"
-msgstr "9700:[name]野呂瀬[line]Either of them.[%p]"
+msgstr "9700:[name]野呂瀬[line]「どちらでもいい」[%p]"
 
 msgid "9800:[name]野呂瀬[line]「私は、歓迎しますよ」[%p]"
-msgstr "9800:[name]野呂瀬[line]I'll be here to welcome them.[%p]"
+msgstr "9800:[name]野呂瀬[line]「私は、歓迎しますよ」[%p]"
 
 msgid "9900:むしろ、彼は心待ちにしていた。[linebreak]西條拓巳が、野呂瀬の出した“試験”を乗り越えて、この場にやって来るのを。[%p]"
-msgstr "9900:If anything, he was looking forward to it... looking forward to Takumi Nishijo overcoming the trial that he'd laid out for him, and coming here.[%p]"
+msgstr "9900:むしろ、彼は心待ちにしていた。[linebreak]西條拓巳が、野呂瀬の出した“試験”を乗り越えて、この場にやって来るのを。[%p]"
 

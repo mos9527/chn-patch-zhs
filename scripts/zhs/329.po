@@ -10,401 +10,401 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:やっぱり『将軍』なのか？[linebreak]あいつが、僕を挑発しているのか……！？[%p]"
-msgstr "0:Was it Shogun? Was he taunting me?[%p]"
+msgstr "0:やっぱり『将軍』なのか？[linebreak]あいつが、僕を挑発しているのか……！？[%p]"
 
 msgid "100:この次こそ僕が殺されるのか？[%p]"
-msgstr "100:Telling me that I was next?[%p]"
+msgstr "100:この次こそ僕が殺されるのか？[%p]"
 
 msgid "200:また『将軍』が僕の前に現れる可能性がある。[linebreak]どうやらあいつは、ゲーム感覚で僕を狙っているらしい。だからあいつの気まぐれで次の“クエスト”がいつ始まるかもしれないんだ。[%p]"
-msgstr "200:There was a chance that Shogun would come back. He seemed to be coming after me as some sort of game. Which meant the next “quest” might start whenever he felt like it.[%p]"
+msgstr "200:また『将軍』が僕の前に現れる可能性がある。[linebreak]どうやらあいつは、ゲーム感覚で僕を狙っているらしい。だからあいつの気まぐれで次の“クエスト”がいつ始まるかもしれないんだ。[%p]"
 
 msgid "300:それが怖い。[%p]"
-msgstr "300:That scared me.[%p]"
+msgstr "300:それが怖い。[%p]"
 
 msgid "400:梨深、助けてくれ……。[linebreak]どこに行っちゃったんだよ。僕を守ってくれるんじゃ、なかったの……？[%p]"
-msgstr "400:Rimi, help me. Where'd she gone? Wasn't she supposed to protect me?[%p]"
+msgstr "400:梨深、助けてくれ……。[linebreak]どこに行っちゃったんだよ。僕を守ってくれるんじゃ、なかったの……？[%p]"
 
 msgid "500:[name]拓巳[line]「……っ！？」[%p]"
-msgstr "500:[name]拓巳[line]...?![%p]"
+msgstr "500:[name]拓巳[line]「……っ！？」[%p]"
 
 msgid "600:今、扉がノックされたぞ……。[%p]"
-msgstr "600:Somebody was here.[%p]"
+msgstr "600:今、扉がノックされたぞ……。[%p]"
 
 msgid "700:誰かが、来たんだ。[%p]"
-msgstr "700:I looked at the clock on the computer. It was just after 8 in the evening.[%p]"
+msgstr "700:誰かが、来たんだ。[%p]"
 
 msgid "800:ＰＣの時計を見る。今は午後８時過ぎ。[linebreak]こんな時間に、誰が……？[%p]"
-msgstr "800:Who could be coming at this hour?[%p]"
+msgstr "800:ＰＣの時計を見る。今は午後８時過ぎ。[linebreak]こんな時間に、誰が……？[%p]"
 
 msgid "900:梨深だ……。きっと梨深に違いない！[linebreak]やっと助けに来てくれたんだ！[%p]"
-msgstr "900:Rimi... It had to be Rimi! She'd finally come to save me![%p]"
+msgstr "900:梨深だ……。きっと梨深に違いない！[linebreak]やっと助けに来てくれたんだ！[%p]"
 
 msgid "1000:僕と一緒にいてくれると言ったんだ、来るのは当然だよな。[linebreak]っていうか、来るの遅すぎ！[%p]"
-msgstr "1000:She'd said she'd stay with me. Of course she'd come. She'd certainly taken her time, though![%p]"
+msgstr "1000:僕と一緒にいてくれると言ったんだ、来るのは当然だよな。[linebreak]っていうか、来るの遅すぎ！[%p]"
 
 msgid "1100:僕は救われた気がして、急いで扉にすがりついた。[linebreak]内側から扉をロックしている南京錠を外して。[linebreak]その扉を、開けた。[%p]"
-msgstr "1100:I hurried to the door, feeling that salvation was at hand. I undid the padlock locking the door from the inside. And then I flung open the door.[%p]"
+msgstr "1100:僕は救われた気がして、急いで扉にすがりついた。[linebreak]内側から扉をロックしている南京錠を外して。[linebreak]その扉を、開けた。[%p]"
 
 msgid "1200:[name]拓巳[line]「り――」[%p]"
-msgstr "1200:[name]拓巳[line]Ri...[%p]"
+msgstr "1200:[name]拓巳[line]「り――」[%p]"
 
 msgid "1300:梨深の名を呼ぼうとした僕の口が、いきなり塞がれた。[%p]"
-msgstr "1300:I tried to say Rimi's name, but suddenly somebody put a hand over my mouth.[%p]"
+msgstr "1300:梨深の名を呼ぼうとした僕の口が、いきなり塞がれた。[%p]"
 
 msgid "1400:一瞬にしてパニックになる。[linebreak]相手の顔を見る余裕もなく。[%p]"
-msgstr "1400:In an instant, I started to panic. I didn't even get to see who it was.[%p]"
+msgstr "1400:一瞬にしてパニックになる。[linebreak]相手の顔を見る余裕もなく。[%p]"
 
 msgid "1500:僕の口を塞ぐその手を振り払おうとした。[%p]"
-msgstr "1500:I tried to knock the hand away.[%p]"
+msgstr "1500:僕の口を塞ぐその手を振り払おうとした。[%p]"
 
 msgid "1600:でもそれより前に、体重をかけられ、僕は後ろ向きによろける。[%p]"
-msgstr "1600:But before I could, they pressed their body weight against me, and I started to stagger backwards.[%p]"
+msgstr "1600:でもそれより前に、体重をかけられ、僕は後ろ向きによろける。[%p]"
 
 msgid "1700:必死で踏ん張る。[%p]"
-msgstr "1700:I tried as hard as I could to stay standing.[%p]"
+msgstr "1700:必死で踏ん張る。[%p]"
 
 msgid "1800:手をめちゃくちゃに振り回し、逃れようとした。[linebreak]顎を引き、相手の手に思い切り噛みつく。[%p]"
-msgstr "1800:I flailed my hands about, trying to stay upright. I lowered my head and bit their hand as hard as I could.[%p]"
+msgstr "1800:手をめちゃくちゃに振り回し、逃れようとした。[linebreak]顎を引き、相手の手に思い切り噛みつく。[%p]"
 
 msgid "1900:[name]優愛[line]「っ」[%p]"
-msgstr "1900:[name]優愛[line]...![%p]"
+msgstr "1900:[name]優愛[line]「っ」[%p]"
 
 msgid "2000:その何者かは無言。[linebreak]なおも強引に詰め寄ってくる。[%p]"
-msgstr "2000:Whoever they were, they weren't saying a word. They kept trying to press themselves up against me.[%p]"
+msgstr "2000:その何者かは無言。[linebreak]なおも強引に詰め寄ってくる。[%p]"
 
 msgid "2100:かなり強く噛みついたはずなのに、その手は離れない。[linebreak]身体を強く押され、足を引っかけられて。[linebreak]ついに我慢できず、押し倒された。[%p]"
-msgstr "2100:I was biting pretty hard, but their hand wasn't budging. They pushed me back and tripped me, and I fell, unable to stay upright anymore.[%p]"
+msgstr "2100:かなり強く噛みついたはずなのに、その手は離れない。[linebreak]身体を強く押され、足を引っかけられて。[linebreak]ついに我慢できず、押し倒された。[%p]"
 
 msgid "2200:後頭部をしたたかに打ち、意識が飛びそうになる。[linebreak]ぐらぐらと視界が揺れ、自分がどんな体勢になっているのか分からなくなった。[%p]"
-msgstr "2200:I hit the back of my head hard and almost passed out. My vision was swimming, and I couldn't even tell what position I was lying on the floor in.[%p]"
+msgstr "2200:後頭部をしたたかに打ち、意識が飛びそうになる。[linebreak]ぐらぐらと視界が揺れ、自分がどんな体勢になっているのか分からなくなった。[%p]"
 
 msgid "2300:なおも相手の手が口に押しつけられているせいで、満足に呼吸ができない。[%p]"
-msgstr "2300:They still had their hand up against my mouth. It was hard to breath.[%p]"
+msgstr "2300:なおも相手の手が口に押しつけられているせいで、満足に呼吸ができない。[%p]"
 
 msgid "2400:飛びそうになる意識の中で、僕は必死に、自分に襲いかかってきた人物の顔を見上げた。[%p]"
-msgstr "2400:As my mind started to slip into the darkness, I used all the energy I had to look up at the face of the person in front of me.[%p]"
+msgstr "2400:飛びそうになる意識の中で、僕は必死に、自分に襲いかかってきた人物の顔を見上げた。[%p]"
 
 msgid "2500:[name]優愛[line]「はあっ、はあっ、はあっ……！」[%p]"
-msgstr "2500:[name]優愛[line]Hahh... Hahh... Hahh...![%p]"
+msgstr "2500:[name]優愛[line]「はあっ、はあっ、はあっ……！」[%p]"
 
 msgid "2600:優……愛……！？[%p]"
-msgstr "2600:Yua...?[%p]"
+msgstr "2600:優……愛……！？[%p]"
 
 msgid "2700:そうだ、こいつの存在を忘れていた……！[linebreak]『将軍』のことばかりを気にしていたけど、その手下にはこの女がいたんだった！[%p]"
-msgstr "2700:That's right! I'd forgotten about her! I'd been so focused on Shogun that I'd forgotten about her, his servant![%p]"
+msgstr "2700:そうだ、こいつの存在を忘れていた……！[linebreak]『将軍』のことばかりを気にしていたけど、その手下にはこの女がいたんだった！[%p]"
 
 msgid "2800:恐怖で全身に鳥肌が立っていた。[linebreak]必死にもがき、逃げようとした。[%p]"
-msgstr "2800:Panic seized me. I struggled and tried as hard as I could to escape.[%p]"
+msgstr "2800:恐怖で全身に鳥肌が立っていた。[linebreak]必死にもがき、逃げようとした。[%p]"
 
 msgid "2900:でも優愛が全体重を押しつけてくるから、僕は身体を起こせない。[linebreak]女子と密着している状態だけど、欲情なんかとてもしていられない。女子の身体の感触を味わう余裕はない。[%p]"
-msgstr "2900:But Yua's whole bodyweight was on top of me, and I couldn't get up. A girl was pressing herself up against me, but there was no time to get horny over it. I didn't have it in me to enjoy the feeling of her body.[%p]"
+msgstr "2900:でも優愛が全体重を押しつけてくるから、僕は身体を起こせない。[linebreak]女子と密着している状態だけど、欲情なんかとてもしていられない。女子の身体の感触を味わう余裕はない。[%p]"
 
 msgid "3000:頭の中にあるのは、ただひたすら、逃げなくちゃ殺される、という本能のみ。[%p]"
-msgstr "3000:The only thing in my mind was an instinctive fear that if I didn't run, I'd be killed.[%p]"
+msgstr "3000:頭の中にあるのは、ただひたすら、逃げなくちゃ殺される、という本能のみ。[%p]"
 
 msgid "3100:さっき僕が噛みついた優愛の手は、わずかに血がにじんでいた。[%p]"
-msgstr "3100:There was a little trickle of blood falling from her hand where I'd bit her.[%p]"
+msgstr "3100:さっき僕が噛みついた優愛の手は、わずかに血がにじんでいた。[%p]"
 
 msgid "3200:でも優愛はその手の力を緩めない。相変わらずのすさまじい握力。容赦なく顎を締め上げ、しかも爪を頬に食い込ませてくる。刺すような激痛が襲った。[%p]"
-msgstr "3200:But she was still pressing as hard as before. Her hands were incredibly strong. She was pressing my jaw as hard as she could, and even digging her nails into my cheek. I was hit by a stabbing pain.[%p]"
+msgstr "3200:でも優愛はその手の力を緩めない。相変わらずのすさまじい握力。容赦なく顎を締め上げ、しかも爪を頬に食い込ませてくる。刺すような激痛が襲った。[%p]"
 
 msgid "3300:[name]優愛[line]「はぁっ、はぁっ、あなたよ……はぁっ……はぁっ……」[%p]"
-msgstr "3300:[name]優愛[line]Hahh... Hahh... It's you... Hahh... Hahh...[%p]"
+msgstr "3300:[name]優愛[line]「はぁっ、はぁっ、あなたよ……はぁっ……はぁっ……」[%p]"
 
 msgid "3400:荒い呼吸の合間にささやきが漏れてきて、僕はゾッとした。[%p]"
-msgstr "3400:I could hear her whisper between ragged breaths, and I shivered.[%p]"
+msgstr "3400:荒い呼吸の合間にささやきが漏れてきて、僕はゾッとした。[%p]"
 
 msgid "3500:抵抗しようと、優愛の長い髪の毛をつかみ、引っ張る。[%p]"
-msgstr "3500:I grabbed a tuft of her long hair and yanked it, trying to fight back.[%p]"
+msgstr "3500:抵抗しようと、優愛の長い髪の毛をつかみ、引っ張る。[%p]"
 
 msgid "3600:[name]優愛[line]「うっ――」[%p]"
-msgstr "3600:[name]優愛[line]Aah![%p]"
+msgstr "3600:[name]優愛[line]「うっ――」[%p]"
 
 msgid "3700:顔をしかめながらも、優愛はどこうとしない。[linebreak]髪をつかんだ僕の手を、優愛も空いた方の手でつかみ、またも爪を立ててくる。[%p]"
-msgstr "3700:She winced, but still didn't get off. With her open hand, she grabbed the hand I was using to pull her hair and dug her nails into it, too.[%p]"
+msgstr "3700:顔をしかめながらも、優愛はどこうとしない。[linebreak]髪をつかんだ僕の手を、優愛も空いた方の手でつかみ、またも爪を立ててくる。[%p]"
 
 msgid "3800:[name]拓巳[line]「ぁっ！」[%p]"
-msgstr "3800:[name]拓巳[line]Ah![%p]"
+msgstr "3800:[name]拓巳[line]「ぁっ！」[%p]"
 
 msgid "3900:あまりの痛みに、反射的に髪を離してしまった。[linebreak]その隙を突かれ、手も床に押し付けられてしまった。[%p]"
-msgstr "3900:It hurt so bad, I let go. When I did, she pinned my hand to the floor.[%p]"
+msgstr "3900:あまりの痛みに、反射的に髪を離してしまった。[linebreak]その隙を突かれ、手も床に押し付けられてしまった。[%p]"
 
 msgid "4000:[name]優愛[line]「はぁ、はぁ、あなた、でしょ？\u3000あなたなのよ……！」[%p]"
-msgstr "4000:[name]優愛[line]Hahh... Hahh... It's you, isn't it? It's you![%p]"
+msgstr "4000:[name]優愛[line]「はぁ、はぁ、あなた、でしょ？\u3000あなたなのよ……！」[%p]"
 
 msgid "4100:優愛の眼鏡は、もみ合ったせいでわずかにずれてしまっている。[linebreak]その奥の瞳には、僕が髪を引っ張ったせいか涙が浮かんでいる。[%p]"
-msgstr "4100:Her glasses had tilted sightly on her nose during our struggle. I could see tears in her eyes from when I pulled her hair.[%p]"
+msgstr "4100:優愛の眼鏡は、もみ合ったせいでわずかにずれてしまっている。[linebreak]その奥の瞳には、僕が髪を引っ張ったせいか涙が浮かんでいる。[%p]"
 
 msgid "4200:ただ、いつかの松濤公園でのときみたいに、その目はひたすらに冷たく、僕をじっとにらみつけてくる。[%p]"
-msgstr "4200:But her eyes were endlessly cold as she stared at me, just like at Shoto Park.[%p]"
+msgstr "4200:ただ、いつかの松濤公園でのときみたいに、その目はひたすらに冷たく、僕をじっとにらみつけてくる。[%p]"
 
 msgid "4300:[name]優愛[line]「あなたが、はぁ、はぁ、殺した……っ」[%p]"
-msgstr "4300:[name]優愛[line]You... hahh... hahh... killed her.[%p]"
+msgstr "4300:[name]優愛[line]「あなたが、はぁ、はぁ、殺した……っ」[%p]"
 
 msgid "4400:いったいなんの話だ……！？[linebreak]相変わらず僕のことをニュージェネ犯人だって主張する気か！？[linebreak]なにが殺しただよ！\u3000お前が殺しに来たんだろ！[%p]"
-msgstr "4400:What was she talking about? Was she still saying I was the NewGen killer? I didn't kill anybody! She was the one who was here to kill me![%p]"
+msgstr "4400:いったいなんの話だ……！？[linebreak]相変わらず僕のことをニュージェネ犯人だって主張する気か！？[linebreak]なにが殺しただよ！\u3000お前が殺しに来たんだろ！[%p]"
 
 msgid "4500:優愛の冷たい視線を見つめ返していると、恐ろしくてしょうがない。[%p]"
-msgstr "4500:Staring back into her cold gaze was terrifying.[%p]"
+msgstr "4500:優愛の冷たい視線を見つめ返していると、恐ろしくてしょうがない。[%p]"
 
 msgid "4600:危ないヤツとは目を合わせちゃいけない。[linebreak]常軌を逸した目、というのは確かに存在する。それを僕は思い知った。[%p]"
-msgstr "4600:I learned in that moment that you shouldn't lock eyes with crazy people. There are some eyes that are just abnormal. Insane.[%p]"
+msgstr "4600:危ないヤツとは目を合わせちゃいけない。[linebreak]常軌を逸した目、というのは確かに存在する。それを僕は思い知った。[%p]"
 
 msgid "4700:目をそらし、ひたすらこの悪夢から目覚めてくれと願う。[linebreak]でも――[%p]"
-msgstr "4700:I looked away, praying to wake up from this nightmare. But...[%p]"
+msgstr "4700:目をそらし、ひたすらこの悪夢から目覚めてくれと願う。[linebreak]でも――[%p]"
 
 msgid "4800:[name]優愛[line]「目をそらさないで」[%p]"
-msgstr "4800:[name]優愛[line]Don't look away.[%p]"
+msgstr "4800:[name]優愛[line]「目をそらさないで」[%p]"
 
 msgid "4900:さらに優愛の顔が迫ってきた。[linebreak]僕の頬に、彼女の荒い息がかかる。[%p]"
-msgstr "4900:Her face got closer. I could feel her unsteady breathing on my cheeks.[%p]"
+msgstr "4900:さらに優愛の顔が迫ってきた。[linebreak]僕の頬に、彼女の荒い息がかかる。[%p]"
 
 msgid "5000:[name]優愛[line]「わたしを見て」[%p]"
-msgstr "5000:[name]優愛[line]Look at me.[%p]"
+msgstr "5000:[name]優愛[line]「わたしを見て」[%p]"
 
 msgid "5100:とても熱い吐息。[linebreak]ここまで近いと、目をそらしたってどうしてもその顔が視界に入ってしまう。[%p]"
-msgstr "5100:Her breath was so hot. She was so close that even if I looked away, she'd still be in my field of vision.[%p]"
+msgstr "5100:とても熱い吐息。[linebreak]ここまで近いと、目をそらしたってどうしてもその顔が視界に入ってしまう。[%p]"
 
 msgid "5200:頭突きを繰り出してやろうとしたけど、優愛に押さえ付けられていて、それすらもできなかった。[%p]"
-msgstr "5200:I thought about giving her a headbutt, but I was pinned too tightly to try.[%p]"
+msgstr "5200:頭突きを繰り出してやろうとしたけど、優愛に押さえ付けられていて、それすらもできなかった。[%p]"
 
 msgid "5300:[name]優愛[line]「教えてあげる」[%p]"
-msgstr "5300:[name]優愛[line]I'll show you.[%p]"
+msgstr "5300:[name]優愛[line]「教えてあげる」[%p]"
 
 msgid "5400:[name]優愛[line]「あなたが知らないあなたを、教えてあげる」[%p]"
-msgstr "5400:[name]優愛[line]I'll show you the “you” that you don't know.[%p]"
+msgstr "5400:[name]優愛[line]「あなたが知らないあなたを、教えてあげる」[%p]"
 
 msgid "5500:[name]優愛[line]「あなたの中には、もう１人のあなたがいるの」[%p]"
-msgstr "5500:[name]優愛[line]There's another “you” inside you.[%p]"
+msgstr "5500:[name]優愛[line]「あなたの中には、もう１人のあなたがいるの」[%p]"
 
 msgid "5600:――ＤＩＤ……多重人格、なんです。[%p]"
-msgstr "5600:DID... Dissociative Identity Disorder. Multiple personalities.[%p]"
+msgstr "5600:――ＤＩＤ……多重人格、なんです。[%p]"
 
 msgid "5700:＠カフェで今みたいにもみ合ったとき、優愛はそう言っていた。[linebreak]でもそんなのはこの女の妄想だ！[linebreak]優愛が僕以上に僕のことを知っているもんか！[%p]"
-msgstr "5700:That's what she'd said at @Café when we'd fought like this. But that was just her delusion. How could Yua know more about me than I knew myself?[%p]"
+msgstr "5700:＠カフェで今みたいにもみ合ったとき、優愛はそう言っていた。[linebreak]でもそんなのはこの女の妄想だ！[linebreak]優愛が僕以上に僕のことを知っているもんか！[%p]"
 
 msgid "5800:[name]優愛[line]「西條くん、まだ知らないの？\u3000自覚できていないの？」[%p]"
-msgstr "5800:[name]優愛[line]Nishijo, do you still not know? You're still not aware of it?[%p]"
+msgstr "5800:[name]優愛[line]「西條くん、まだ知らないの？\u3000自覚できていないの？」[%p]"
 
 msgid "5900:[name]優愛[line]「なにも知りませんでした、で許されると思ってるの？」[%p]"
-msgstr "5900:[name]優愛[line]Do you think as long as you don't know, you're safe?[%p]"
+msgstr "5900:[name]優愛[line]「なにも知りませんでした、で許されると思ってるの？」[%p]"
 
 msgid "6000:[name]優愛[line]「今まで、何度も忠告してきたのに、どうして聞いてくれないの？」[%p]"
-msgstr "6000:[name]優愛[line]I've warned you so many times. Why won't you listen?[%p]"
+msgstr "6000:[name]優愛[line]「今まで、何度も忠告してきたのに、どうして聞いてくれないの？」[%p]"
 
 msgid "6100:[name]優愛[line]「あなたの中にはもう１人の人格……『将軍』がいる。その人格は、許されないことをしているの」[%p]"
-msgstr "6100:[name]優愛[line]There's another personality inside you. “Shogun.” And that personality is doing terrible things.[%p]"
+msgstr "6100:[name]優愛[line]「あなたの中にはもう１人の人格……『将軍』がいる。その人格は、許されないことをしているの」[%p]"
 
 msgid "6200:[name]優愛[line]「これ以上、放置はできない。これ以上、人殺しはさせない」[%p]"
-msgstr "6200:[name]優愛[line]I can't let you keep doing this anymore. I can't let you keep killing people.[%p]"
+msgstr "6200:[name]優愛[line]「これ以上、放置はできない。これ以上、人殺しはさせない」[%p]"
 
 msgid "6300:[name]優愛[line]「あなたは早く病院へ行って治療すべきよ。それがイヤだと言うなら、わたしはあなたを警察に突き出す」[%p]"
-msgstr "6300:[name]優愛[line]You need to go to a hospital and get treatment. And if you refuse, I'm going to turn you over to the police.[%p]"
+msgstr "6300:[name]優愛[line]「あなたは早く病院へ行って治療すべきよ。それがイヤだと言うなら、わたしはあなたを警察に突き出す」[%p]"
 
 msgid "6400:[name]優愛[line]「『将軍』を放置することは、西條くんの罪よ」[%p]"
-msgstr "6400:[name]優愛[line]Your crime is letting Shogun run free.[%p]"
+msgstr "6400:[name]優愛[line]「『将軍』を放置することは、西條くんの罪よ」[%p]"
 
 msgid "6500:[name]優愛[line]「あなたも人殺しに荷担しているんだって、理解して」[%p]"
-msgstr "6500:[name]優愛[line]You're helping a murderer. Understand that.[%p]"
+msgstr "6500:[name]優愛[line]「あなたも人殺しに荷担しているんだって、理解して」[%p]"
 
 msgid "6600:理解なんてできないよっ！[%p]"
-msgstr "6600:I can't understand that![%p]"
+msgstr "6600:理解なんてできないよっ！[%p]"
 
 msgid "6700:[name]優愛[line]「理解できるよね？」[%p]"
-msgstr "6700:[name]優愛[line]You can understand that, can't you?[%p]"
+msgstr "6700:[name]優愛[line]「理解できるよね？」[%p]"
 
 msgid "6800:僕は人殺しなんてしてない！[%p]"
-msgstr "6800:I haven't killed anybody![%p]"
+msgstr "6800:僕は人殺しなんてしてない！[%p]"
 
 msgid "6900:[name]優愛[line]「理解してもらわなきゃ困る」[%p]"
-msgstr "6900:[name]優愛[line]I need you to understand that.[%p]"
+msgstr "6900:[name]優愛[line]「理解してもらわなきゃ困る」[%p]"
 
 msgid "7000:僕は多重人格じゃない！[%p]"
-msgstr "7000:I don't have multiple personalities![%p]"
+msgstr "7000:僕は多重人格じゃない！[%p]"
 
 msgid "7100:[name]優愛[line]「理解すべきよ」[%p]"
-msgstr "7100:[name]優愛[line]You must understand that.[%p]"
+msgstr "7100:[name]優愛[line]「理解すべきよ」[%p]"
 
 msgid "7200:多重人格なんてマンガや小説の中だけの話だ！[linebreak]僕は認めない！[%p]"
-msgstr "7200:Multiple personalities only exist in manga and novels! I refuse to accept it![%p]"
+msgstr "7200:多重人格なんてマンガや小説の中だけの話だ！[linebreak]僕は認めない！[%p]"
 
 msgid "7300:[name]優愛[line]「出てきて。わたしはあなたと話がしたいの。聞こえているんでしょう？『将軍』」[%p]"
-msgstr "7300:[name]優愛[line]Come out. I want to talk to you. You hear me, right? Shogun.[%p]"
+msgstr "7300:[name]優愛[line]「出てきて。わたしはあなたと話がしたいの。聞こえているんでしょう？『将軍』」[%p]"
 
 msgid "7400:『将軍』は僕じゃない！[linebreak]確かに実在する、別人だ！[%p]"
-msgstr "7400:Shogun's not me! It's a real person! A different person![%p]"
+msgstr "7400:『将軍』は僕じゃない！[linebreak]確かに実在する、別人だ！[%p]"
 
 msgid "7500:車イスに座っていて、神出鬼没で、僕のことをいつも思考盗撮しているのぞき魔で、子供みたいな声をしてるくせに、老人みたいに肌がシワだらけなんだ！[%p]"
-msgstr "7500:He uses a wheelchair and shows up at weird times, and he's always reading my mind, and he's got a voice like a little kid and wrinkled skin like an old man![%p]"
+msgstr "7500:車イスに座っていて、神出鬼没で、僕のことをいつも思考盗撮しているのぞき魔で、子供みたいな声をしてるくせに、老人みたいに肌がシワだらけなんだ！[%p]"
 
 msgid "7600:あいつは僕にとって敵だ。[linebreak]僕と同一視するな。それだけで反吐が出そうになる。[%p]"
-msgstr "7600:He's my enemy. He's not me. Just the thought makes me sick.[%p]"
+msgstr "7600:あいつは僕にとって敵だ。[linebreak]僕と同一視するな。それだけで反吐が出そうになる。[%p]"
 
 msgid "7700:っていうか優愛は『将軍』の手下じゃなかったの？[linebreak]優愛は、『将軍』の手下だと思っていた。[%p]"
-msgstr "7700:And wait, didn't Yua work for Shogun? I'd thought she did.[%p]"
+msgstr "7700:っていうか優愛は『将軍』の手下じゃなかったの？[linebreak]優愛は、『将軍』の手下だと思っていた。[%p]"
 
 msgid "7800:でもこの女は、僕をその『将軍』だって、本気で勘違いしてるみたいだ。[%p]"
-msgstr "7800:But it looked like she really thought I was Shogun.[%p]"
+msgstr "7800:でもこの女は、僕をその『将軍』だって、本気で勘違いしてるみたいだ。[%p]"
 
 msgid "7900:[name]優愛[line]「西條くん、自重して。あなたは少し眠っていて」[%p]"
-msgstr "7900:[name]優愛[line]Nishijo, stop struggling. I need you to sleep for a while.[%p]"
+msgstr "7900:[name]優愛[line]「西條くん、自重して。あなたは少し眠っていて」[%p]"
 
 msgid "8000:[name]優愛[line]「『将軍』にその身体を渡して」[%p]"
-msgstr "8000:[name]優愛[line]Give your body over to Shogun.[%p]"
+msgstr "8000:[name]優愛[line]「『将軍』にその身体を渡して」[%p]"
 
 msgid "8100:そんなことできるはずないだろ！[linebreak]そもそも僕は多重人格じゃないんだから！[%p]"
-msgstr "8100:I can't do that! I don't have multiple personalities![%p]"
+msgstr "8100:そんなことできるはずないだろ！[linebreak]そもそも僕は多重人格じゃないんだから！[%p]"
 
 msgid "8200:そう主張しようと必死に声を出すけど、口を塞がれているせいでそれはうめき声にしかならかった。[%p]"
-msgstr "8200:I tried to tell her that, but with her hand over my mouth all that came out were muffled moans.[%p]"
+msgstr "8200:そう主張しようと必死に声を出すけど、口を塞がれているせいでそれはうめき声にしかならかった。[%p]"
 
 msgid "8300:[name]優愛[line]「出てきなさい」[%p]"
-msgstr "8300:[name]優愛[line]Show yourself.[%p]"
+msgstr "8300:[name]優愛[line]「出てきなさい」[%p]"
 
 msgid "8400:[name]優愛[line]「出てきて」[%p]"
-msgstr "8400:[name]優愛[line]Come out.[%p]"
+msgstr "8400:[name]優愛[line]「出てきて」[%p]"
 
 msgid "8500:[name]優愛[line]「出てきてよ」[%p]"
-msgstr "8500:[name]優愛[line]Come out, please.[%p]"
+msgstr "8500:[name]優愛[line]「出てきてよ」[%p]"
 
 msgid "8600:[name]優愛[line]「出られないの？」[%p]"
-msgstr "8600:[name]優愛[line]You can't come out?[%p]"
+msgstr "8600:[name]優愛[line]「出られないの？」[%p]"
 
 msgid "8700:[name]優愛[line]「出てこられるはずよ」[%p]"
-msgstr "8700:[name]優愛[line]You should be able to come out.[%p]"
+msgstr "8700:[name]優愛[line]「出てこられるはずよ」[%p]"
 
 msgid "8800:[name]優愛[line]「出たいでしょ？」[%p]"
-msgstr "8800:[name]優愛[line]You want to come out, don't you?[%p]"
+msgstr "8800:[name]優愛[line]「出たいでしょ？」[%p]"
 
 msgid "8900:[name]優愛[line]「出・て・こ・い。人殺し」[%p]"
-msgstr "8900:[name]優愛[line]COME. OUT. Murderer![%p]"
+msgstr "8900:[name]優愛[line]「出・て・こ・い。人殺し」[%p]"
 
 msgid "9000:[name]拓巳[line]「うぅ……」[%p]"
-msgstr "9000:[name]拓巳[line]Ah...?![%p]"
+msgstr "9000:[name]拓巳[line]「うぅ……」[%p]"
 
 msgid "9100:涙が出てきた。[linebreak]抵抗する気力を失い、身体の力を抜く。[%p]"
-msgstr "9100:I started to cry. My body went limp. I didn't have the strength to resist.[%p]"
+msgstr "9100:涙が出てきた。[linebreak]抵抗する気力を失い、身体の力を抜く。[%p]"
 
 msgid "9200:もう、疲れた。[%p]"
-msgstr "9200:I was just tired.[%p]"
+msgstr "9200:もう、疲れた。[%p]"
 
 msgid "9300:なんで……。[linebreak]なんで僕がこんな目にあわなくちゃいけないんだ。[linebreak]なんで、ここまで言われなくちゃいけないんだ。[%p]"
-msgstr "9300:Why... Why does all this stuff have to happen to me? Why does she have to say all this crap to me?[%p]"
+msgstr "9300:なんで……。[linebreak]なんで僕がこんな目にあわなくちゃいけないんだ。[linebreak]なんで、ここまで言われなくちゃいけないんだ。[%p]"
 
 msgid "9400:僕がなにをしたって言うんだ。[linebreak]こんなの、あんまりだ。[%p]"
-msgstr "9400:What did I ever do to you? This wasn't fair.[%p]"
+msgstr "9400:僕がなにをしたって言うんだ。[linebreak]こんなの、あんまりだ。[%p]"
 
 msgid "9500:この女の勝手な妄想で、ストーキングされて。[linebreak]しかも、誰も助けてくれない。[%p]"
-msgstr "9500:This crazy, delusional woman was stalking me. And there was nobody here to save me.[%p]"
+msgstr "9500:この女の勝手な妄想で、ストーキングされて。[linebreak]しかも、誰も助けてくれない。[%p]"
 
 msgid "9600:僕はここでこの女に殺されるんだろうか。[linebreak]例え今日を生き延びたとしても、明日も無事でいられる保証なんてない。いつ『将軍』が現れるかもしれないじゃないか。[%p]"
-msgstr "9600:Was she going to kill me here? Even if I did make it through today, there was no guarantee I'd survive tomorrow. Shogun could appear at any moment.[%p]"
+msgstr "9600:僕はここでこの女に殺されるんだろうか。[linebreak]例え今日を生き延びたとしても、明日も無事でいられる保証なんてない。いつ『将軍』が現れるかもしれないじゃないか。[%p]"
 
 msgid "9700:僕はこれから一生、ビクビクと怯えながら生きていかなくちゃならないのかな。[%p]"
-msgstr "9700:Was I going to have to spend the rest of my life living in fear and jumping at shadows?[%p]"
+msgstr "9700:僕はこれから一生、ビクビクと怯えながら生きていかなくちゃならないのかな。[%p]"
 
 msgid "9800:そんなの、イヤだ。[linebreak]こんな生活、続けたくない。[%p]"
-msgstr "9800:Please no... I don't want to keep living this life.[%p]"
+msgstr "9800:そんなの、イヤだ。[linebreak]こんな生活、続けたくない。[%p]"
 
 msgid "9900:いっそ、頭がおかしくなってしまった方がいいぐらいだ。[linebreak]いっそ、さっさと死んだ方がいいぐらいだ。[%p]"
-msgstr "9900:Maybe I'd be better off going crazy. Maybe I'd be better off dead.[%p]"
+msgstr "9900:いっそ、頭がおかしくなってしまった方がいいぐらいだ。[linebreak]いっそ、さっさと死んだ方がいいぐらいだ。[%p]"
 
 msgid "10000:[name]優愛[line]「どうして泣くの？」[%p]"
-msgstr "10000:[name]優愛[line]Why are you crying?[%p]"
+msgstr "10000:[name]優愛[line]「どうして泣くの？」[%p]"
 
 msgid "10100:優愛が、ゆっくりと僕の口を塞いでいた手を離す。[linebreak]僕の上に預けていた身体を起こす。それで重みが消え、僕はかなり楽になった。[%p]"
-msgstr "10100:She slowly took her hand off my mouth. She lifted her body off my chest. With the weight gone, I felt a lot better.[%p]"
+msgstr "10100:優愛が、ゆっくりと僕の口を塞いでいた手を離す。[linebreak]僕の上に預けていた身体を起こす。それで重みが消え、僕はかなり楽になった。[%p]"
 
 msgid "10200:[name]優愛[line]「『将軍』が出てきたの？」[%p]"
-msgstr "10200:[name]優愛[line]Did Shogun come out?[%p]"
+msgstr "10200:[name]優愛[line]「『将軍』が出てきたの？」[%p]"
 
 msgid "10300:僕は力なく首を左右に振り。[%p]"
-msgstr "10300:I shook my head limply.[%p]"
+msgstr "10300:僕は力なく首を左右に振り。[%p]"
 
 msgid "10400:[name]拓巳[line]「うんざりなんだ……」[%p]"
-msgstr "10400:[name]拓巳[line]I'm so tired of all this...[%p]"
+msgstr "10400:[name]拓巳[line]「うんざりなんだ……」[%p]"
 
 msgid "10500:[name]拓巳[line]「いっそ殺せ……」[%p]"
-msgstr "10500:[name]拓巳[line]Just kill me.[%p]"
+msgstr "10500:[name]拓巳[line]「いっそ殺せ……」[%p]"
 
 msgid "10600:[name]優愛[line]「……殺さない」[%p]"
-msgstr "10600:[name]優愛[line]I won't kill you.[%p]"
+msgstr "10600:[name]優愛[line]「……殺さない」[%p]"
 
 msgid "10700:[name]優愛[line]「わたしが、殺させない」[%p]"
-msgstr "10700:[name]優愛[line]I won't let you kill, either.[%p]"
+msgstr "10700:[name]優愛[line]「わたしが、殺させない」[%p]"
 
 msgid "10800:[name]優愛[line]「あなたは罪を償うべきなのよ」[%p]"
-msgstr "10800:[name]優愛[line]You must atone for your crimes.[%p]"
+msgstr "10800:[name]優愛[line]「あなたは罪を償うべきなのよ」[%p]"
 
 msgid "10900:[name]優愛[line]「そして真実を語るべき」[%p]"
-msgstr "10900:[name]優愛[line]You must tell everyone the truth.[%p]"
+msgstr "10900:[name]優愛[line]「そして真実を語るべき」[%p]"
 
 msgid "11000:[name]優愛[line]「死んで逃げることは、許さない」[%p]"
-msgstr "11000:[name]優愛[line]I won't let you escape from your crimes by dying.[%p]"
+msgstr "11000:[name]優愛[line]「死んで逃げることは、許さない」[%p]"
 
 msgid "11100:[name]優愛[line]「許さないわ」[%p]"
-msgstr "11100:[name]優愛[line]I won't let you.[%p]"
+msgstr "11100:[name]優愛[line]「許さないわ」[%p]"
 
 msgid "11200:[name]優愛[line]「許すわけにはいかないの」[%p]"
-msgstr "11200:[name]優愛[line]I can't let you.[%p]"
+msgstr "11200:[name]優愛[line]「許すわけにはいかないの」[%p]"
 
 msgid "11300:[name]拓巳[line]「し、『将軍』は、別にいる……」[%p]"
-msgstr "11300:[name]拓巳[line]S-Shogun is someone else.[%p]"
+msgstr "11300:[name]拓巳[line]「し、『将軍』は、別にいる……」[%p]"
 
 msgid "11400:[name]拓巳[line]「ニュージェネの犯人は、そ、そいつだよ」[%p]"
-msgstr "11400:[name]拓巳[line]H-He's the NewGen killer.[%p]"
+msgstr "11400:[name]拓巳[line]「ニュージェネの犯人は、そ、そいつだよ」[%p]"
 
 msgid "11500:[name]優愛[line]「『将軍』はあなたよ」[%p]"
-msgstr "11500:[name]優愛[line]“Shogun” is you.[%p]"
+msgstr "11500:[name]優愛[line]「『将軍』はあなたよ」[%p]"
 
 msgid "11600:[name]優愛[line]「あなたなの」[%p]"
-msgstr "11600:[name]優愛[line]It's you.[%p]"
+msgstr "11600:[name]優愛[line]「あなたなの」[%p]"
 
 msgid "11700:[name]優愛[line]「あなたしか考えられない」[%p]"
-msgstr "11700:[name]優愛[line]It has to be you.[%p]"
+msgstr "11700:[name]優愛[line]「あなたしか考えられない」[%p]"
 
 msgid "11800:理屈が通じない。[linebreak]この女は、自身の考えしか見えていない。[linebreak]それが絶対の真実だと思い込んでいる。[%p]"
-msgstr "11800:Nothing I said was getting through to her. She was only interested in her own ideas. She was convinced they were completely right.[%p]"
+msgstr "11800:理屈が通じない。[linebreak]この女は、自身の考えしか見えていない。[linebreak]それが絶対の真実だと思い込んでいる。[%p]"
 
 msgid "11900:抵抗しても無駄だ。[%p]"
-msgstr "11900:There was no sense in resisting.[%p]"
+msgstr "11900:抵抗しても無駄だ。[%p]"
 
 msgid "12000:[name]優愛[line]「『将軍』、出てきて」[%p]"
-msgstr "12000:[name]優愛[line]Shogun, come out.[%p]"
+msgstr "12000:[name]優愛[line]「『将軍』、出てきて」[%p]"
 
 msgid "12100:[name]優愛[line]「出てきてよ」[%p]"
-msgstr "12100:[name]優愛[line]Come out, please.[%p]"
+msgstr "12100:[name]優愛[line]「出てきてよ」[%p]"
 
 msgid "12200:[name]優愛[line]「出てきてって言ってるでしょう」[%p]"
-msgstr "12200:[name]優愛[line]I said come out.[%p]"
+msgstr "12200:[name]優愛[line]「出てきてって言ってるでしょう」[%p]"
 
 msgid "12300:[name]優愛[line]「どうして出てこないの」[%p]"
-msgstr "12300:[name]優愛[line]Why won't you come out?[%p]"
+msgstr "12300:[name]優愛[line]「どうして出てこないの」[%p]"
 
 msgid "12400:[name]優愛[line]「あなたがそこにいるのは分かってるのよ」[%p]"
-msgstr "12400:[name]優愛[line]I know you're in there.[%p]"
+msgstr "12400:[name]優愛[line]「あなたがそこにいるのは分かってるのよ」[%p]"
 
 msgid "12500:[name]優愛[line]「絶対に『将軍』を引き出して見せるわ」[%p]"
-msgstr "12500:[name]優愛[line]I'm going to draw out Shogun, I swear.[%p]"
+msgstr "12500:[name]優愛[line]「絶対に『将軍』を引き出して見せるわ」[%p]"
 
 msgid "12600:[name]優愛[line]「わたしはあきらめないから」[%p]"
-msgstr "12600:[name]優愛[line]I won't give up.[%p]"
+msgstr "12600:[name]優愛[line]「わたしはあきらめないから」[%p]"
 
 msgid "12700:[name]優愛[line]「それまで、絶対に逃がさないから」[%p]"
-msgstr "12700:[name]優愛[line]And until then, I won't let you get away.[%p]"
+msgstr "12700:[name]優愛[line]「それまで、絶対に逃がさないから」[%p]"
 
 msgid "12800:優愛は不意に立ち上がると、開きっぱなしになっていたコンテナの扉を閉めた。[%p]"
-msgstr "12800:Suddenly, she stood up and closed the container's open door.[%p]"
+msgstr "12800:優愛は不意に立ち上がると、開きっぱなしになっていたコンテナの扉を閉めた。[%p]"
 
 msgid "12900:おもむろに落ちていた南京錠を拾い上げ、しっかりとロックして。[linebreak]鍵は、制服の内ポケットにしまい込んでしまった。[%p]"
-msgstr "12900:She leaned over and picked up the padlock, and locked it. Then she put the key in her uniform pocket.[%p]"
+msgstr "12900:おもむろに落ちていた南京錠を拾い上げ、しっかりとロックして。[linebreak]鍵は、制服の内ポケットにしまい込んでしまった。[%p]"
 
 msgid "13000:なんのつもりだ……？[linebreak]この女、なにを考えてるんだ？[%p]"
-msgstr "13000:What was she doing? What was this girl thinking?[%p]"
+msgstr "13000:なんのつもりだ……？[linebreak]この女、なにを考えてるんだ？[%p]"
 
 msgid "13100:[name]優愛[line]「逃がさないから」[%p]"
-msgstr "13100:[name]優愛[line]I won't let you get away.[%p]"
+msgstr "13100:[name]優愛[line]「逃がさないから」[%p]"
 
 msgid "13200:ひとりごちるように、優愛は冷ややかなつぶやきを漏らした。[%p]"
-msgstr "13200:She whispered coldly, as if she was talking to herself, not me.[%p]"
+msgstr "13200:ひとりごちるように、優愛は冷ややかなつぶやきを漏らした。[%p]"
 

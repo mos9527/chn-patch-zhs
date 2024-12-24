@@ -10,137 +10,137 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[ruby-base]野呂瀬[ruby-text-start]のろせ[ruby-text-end][ruby-base]玄一[ruby-text-start]げんいち[ruby-text-end]は、希グループ本社の最上階に位置する社長室の窓際に立ち、煙草に火を付けた。[%p]"
-msgstr "0:Genichi Norose stood in front of the window in the CEO's office on the top floor of the Nozomi Group building, and lit his cigarette.[%p]"
+msgstr "0:[ruby-base]野呂瀬[ruby-text-start]のろせ[ruby-text-end][ruby-base]玄一[ruby-text-start]げんいち[ruby-text-end]は、希グループ本社の最上階に位置する社長室の窓際に立ち、煙草に火を付けた。[%p]"
 
 msgid "100:希グループ。[%p]"
-msgstr "100:The Nozomi Group.[%p]"
+msgstr "100:希グループ。[%p]"
 
 msgid "200:多くの子会社を有し、国からの許認可ビジネスも行う大企業グループだ。[%p]"
-msgstr "200:A massive corporate group with tight ties to the government, and any number of smaller companies beneath it.[%p]"
+msgstr "200:多くの子会社を有し、国からの許認可ビジネスも行う大企業グループだ。[%p]"
 
 msgid "300:子会社の中には衣料や食料品の販売、商社としての輸入販売業など様々な分野でビジネスを立ち上げ、そして成功を遂げてきた実績がある。[%p]"
-msgstr "300:Some of these child companies had begun in fields like clothing, foodstuffs, and imports, and gone on to achieve remarkable success.[%p]"
+msgstr "300:子会社の中には衣料や食料品の販売、商社としての輸入販売業など様々な分野でビジネスを立ち上げ、そして成功を遂げてきた実績がある。[%p]"
 
 msgid "400:そのグループ全体のトップに君臨する野呂瀬は、自らの城で、眼下に見える光景を眺めた。[%p]"
-msgstr "400:Norose was at the head of the group, and here he was in his castle, looking down at the scenery below him.[%p]"
+msgstr "400:そのグループ全体のトップに君臨する野呂瀬は、自らの城で、眼下に見える光景を眺めた。[%p]"
 
 msgid "500:しかし彼の意識は、その風景を見てはいない。[%p]"
-msgstr "500:But his mind was somewhere else, instead of enjoying the view.[%p]"
+msgstr "500:しかし彼の意識は、その風景を見てはいない。[%p]"
 
 msgid "600:口元には嘲るような笑みが浮かべながらも、爪先は苛立たしげに何度も床を叩いている。[%p]"
-msgstr "600:There was a mocking smile on his lips, but his feet were tapping impatiently on the floor.[%p]"
+msgstr "600:口元には嘲るような笑みが浮かべながらも、爪先は苛立たしげに何度も床を叩いている。[%p]"
 
 msgid "700:[name]野呂瀬[line]「まったく……老人たちの相手は面倒ですよ」[%p]"
-msgstr "700:[name]野呂瀬[line]Hmph... It's tiring, dealing with those old men.[%p]"
+msgstr "700:[name]野呂瀬[line]「まったく……老人たちの相手は面倒ですよ」[%p]"
 
 msgid "800:[name]野呂瀬[line]「そう思いませんか？」[%p]"
-msgstr "800:[name]野呂瀬[line]Don't you think?[%p]"
+msgstr "800:[name]野呂瀬[line]「そう思いませんか？」[%p]"
 
 msgid "900:[name]野呂瀬[line]「……彼らは臆病すぎる。だからこそここまでのし上がってきた、とも言えるのでしょうが」[%p]"
-msgstr "900:[name]野呂瀬[line]They're too cowardly. I guess maybe you could say that's what got them to their position, but still.[%p]"
+msgstr "900:[name]野呂瀬[line]「……彼らは臆病すぎる。だからこそここまでのし上がってきた、とも言えるのでしょうが」[%p]"
 
 msgid "1000:[name]野呂瀬[line]「利用するにも、こうあれこれと横槍を入れられては、いい加減うんざりしてきますよ」[%p]"
-msgstr "1000:[name]野呂瀬[line]It's fine to take advantage of them, but their constant interruptions are becoming a nuisance.[%p]"
+msgstr "1000:[name]野呂瀬[line]「利用するにも、こうあれこれと横槍を入れられては、いい加減うんざりしてきますよ」[%p]"
 
 msgid "1100:[name]野呂瀬[line]「現実は悲しいかな、３００人委員会の影響力というものを侮ることはできません」[%p]"
-msgstr "1100:[name]野呂瀬[line]And sadly, the influence of the Committee of 300 is impossible to overstate.[%p]"
+msgstr "1100:[name]野呂瀬[line]「現実は悲しいかな、３００人委員会の影響力というものを侮ることはできません」[%p]"
 
 msgid "1200:[name]野呂瀬[line]「……ただ、いずれ近いうちに……そのシステムも崩壊する。世界の支配構造は組み替えられる」[%p]"
-msgstr "1200:[name]野呂瀬[line]But soon, that system's going to collapse. The ruling structure of the world will be rebuilt.[%p]"
+msgstr "1200:[name]野呂瀬[line]「……ただ、いずれ近いうちに……そのシステムも崩壊する。世界の支配構造は組み替えられる」[%p]"
 
 msgid "1300:[name]野呂瀬[line]「楽しみですか？\u3000クク、私もですよ」[%p]"
-msgstr "1300:[name]野呂瀬[line]Are you looking forward to that? Heh. So am I.[%p]"
+msgstr "1300:[name]野呂瀬[line]「楽しみですか？\u3000クク、私もですよ」[%p]"
 
 msgid "1400:[name]野呂瀬[line]「ここまで、ずいぶん時間がかかってしまいました」[%p]"
-msgstr "1400:[name]野呂瀬[line]It's taken a long time to get here.[%p]"
+msgstr "1400:[name]野呂瀬[line]「ここまで、ずいぶん時間がかかってしまいました」[%p]"
 
 msgid "1500:[name]野呂瀬[line]「“プロジェクト・ノア”立ち上げからすでに５年あまり」[%p]"
-msgstr "1500:[name]野呂瀬[line]It's already been five years since Project Noah began.[%p]"
+msgstr "1500:[name]野呂瀬[line]「“プロジェクト・ノア”立ち上げからすでに５年あまり」[%p]"
 
 msgid "1600:野呂瀬は自らの机のそばへと歩み寄った。[%p]"
-msgstr "1600:Norose walked over to his desk.[%p]"
+msgstr "1600:野呂瀬は自らの机のそばへと歩み寄った。[%p]"
 
 msgid "1700:天然の楢で作られた重厚感あるデスクの上には飾り気はほとんどなく、事務的なものしか置かれていない。[%p]"
-msgstr "1700:It was a heavy desk, made of natural oak, with very little on top of it. The few things that were there were business-related.[%p]"
+msgstr "1700:天然の楢で作られた重厚感あるデスクの上には飾り気はほとんどなく、事務的なものしか置かれていない。[%p]"
 
 msgid "1800:ただ、唯一、他と異彩を放つものが端の方に無造作に転がっていた。[%p]"
-msgstr "1800:There was, however, one object lying on its corner that was very different than the others.[%p]"
+msgstr "1800:ただ、唯一、他と異彩を放つものが端の方に無造作に転がっていた。[%p]"
 
 msgid "1900:その緑色をした奇妙なデザインのキャラクターを、野呂瀬は手に持った。そしてつまらなさそうに一瞥すると、ゴミ箱へと捨ててしまう。[%p]"
-msgstr "1900:Norose picked up the strange green character. He gave it a disinterested glance and tossed it in the wastebasket.[%p]"
+msgstr "1900:その緑色をした奇妙なデザインのキャラクターを、野呂瀬は手に持った。そしてつまらなさそうに一瞥すると、ゴミ箱へと捨ててしまう。[%p]"
 
 msgid "2000:[name]野呂瀬[line]「さて」[%p]"
-msgstr "2000:[name]野呂瀬[line]Now, then...[%p]"
+msgstr "2000:[name]野呂瀬[line]「さて」[%p]"
 
 msgid "2100:彼の細められた目が、薄暗い室内へと向けられた。[%p]"
-msgstr "2100:His narrowed eyes were turned towards the dimly lit room.[%p]"
+msgstr "2100:彼の細められた目が、薄暗い室内へと向けられた。[%p]"
 
 msgid "2200:部屋の奥には窓からの月光は届いていない。そこに、人のかすかな気配があった。[%p]"
-msgstr "2200:The moonlight from the window didn't reach to the far end. There was a faint sense, however, that someone was present there.[%p]"
+msgstr "2200:部屋の奥には窓からの月光は届いていない。そこに、人のかすかな気配があった。[%p]"
 
 msgid "2300:[name]野呂瀬[line]「まさか君がギガロマニアックスだとは思いもよりませんでした」[%p]"
-msgstr "2300:[name]野呂瀬[line]I certainly didn't expect you to be a Gigalomaniac.[%p]"
+msgstr "2300:[name]野呂瀬[line]「まさか君がギガロマニアックスだとは思いもよりませんでした」[%p]"
 
 msgid "2400:[name]野呂瀬[line]「どうやら神すらも私の味方をしてくれているようだ」[%p]"
-msgstr "2400:[name]野呂瀬[line]It appears that God Himself is on my side.[%p]"
+msgstr "2400:[name]野呂瀬[line]「どうやら神すらも私の味方をしてくれているようだ」[%p]"
 
 msgid "2500:[name]野呂瀬[line]「君のサンプルを取らせてもらいますよ」[%p]"
-msgstr "2500:[name]野呂瀬[line]I'm going to take a sample from you, too.[%p]"
+msgstr "2500:[name]野呂瀬[line]「君のサンプルを取らせてもらいますよ」[%p]"
 
 msgid "2600:[name]野呂瀬[line]「クク、なに、怯える必要はありません」[%p]"
-msgstr "2600:[name]野呂瀬[line]Heh. There's no need to be afraid.[%p]"
+msgstr "2600:[name]野呂瀬[line]「クク、なに、怯える必要はありません」[%p]"
 
 msgid "2700:[name]野呂瀬[line]「私は元医師でしてね。インフォームド・コンセントはきちんとしなければ、気が済まない性質なのです」[%p]"
-msgstr "2700:[name]野呂瀬[line]I used to be a doctor, you see. I was always the type who put a heavy emphasis on informed consent.[%p]"
+msgstr "2700:[name]野呂瀬[line]「私は元医師でしてね。インフォームド・コンセントはきちんとしなければ、気が済まない性質なのです」[%p]"
 
 msgid "2800:[name]野呂瀬[line]「そもそもノアⅡのハードウェアは、すでに完成しています。あと必要なのは、ソフトウェアの方でしてね」[%p]"
-msgstr "2800:[name]野呂瀬[line]You should know that the hardware for Noah II is already complete. All that's left is the software.[%p]"
+msgstr "2800:[name]野呂瀬[line]「そもそもノアⅡのハードウェアは、すでに完成しています。あと必要なのは、ソフトウェアの方でしてね」[%p]"
 
 msgid "2900:[name]野呂瀬[line]「そのために、君たちギガロマニアックスのサンプルが多く必要なのです」[%p]"
-msgstr "2900:[name]野呂瀬[line]And for that, we need samples from you Gigalomaniacs.[%p]"
+msgstr "2900:[name]野呂瀬[line]「そのために、君たちギガロマニアックスのサンプルが多く必要なのです」[%p]"
 
 msgid "3000:[name]野呂瀬[line]「正確に言うならば、ＮＡシナプスに関するＣＯＤＥサンプル。脳の働きに指令を出す役割を果たしている部位の行動サンプルですよ」[%p]"
-msgstr "3000:[name]野呂瀬[line]More specifically, we need CODE samples for the NA synapses. Action samples of the part that gives orders to the rest of the brain.[%p]"
+msgstr "3000:[name]野呂瀬[line]「正確に言うならば、ＮＡシナプスに関するＣＯＤＥサンプル。脳の働きに指令を出す役割を果たしている部位の行動サンプルですよ」[%p]"
 
 msgid "3100:[name]野呂瀬[line]「ＣＯＤＥサンプルには、個人差があります」[%p]"
-msgstr "3100:[name]野呂瀬[line]Every person's code sample is different.[%p]"
+msgstr "3100:[name]野呂瀬[line]「ＣＯＤＥサンプルには、個人差があります」[%p]"
 
 msgid "3200:[name]野呂瀬[line]「持っている能力が高いギガロマニアックスは、ＮＡ[color index="A0FF0000"]シナプス[color index="800000"]もより活性化し、脳のより広い範囲にわたって効果を及ぼします」[%p]"
-msgstr "3200:[name]野呂瀬[line]Powerful Gigalomaniacs have more active NA [color index="A0FF0000"]synapses[color index="800000"], which affect a wider area of the brain.[%p]"
+msgstr "3200:[name]野呂瀬[line]「持っている能力が高いギガロマニアックスは、ＮＡ[color index="A0FF0000"]シナプス[color index="800000"]もより活性化し、脳のより広い範囲にわたって効果を及ぼします」[%p]"
 
 msgid "3300:[name]野呂瀬[line]「人間の脳は全体の１０分の１しか使われていません。しかしギガロマニアックスは違う」[%p]"
-msgstr "3300:[name]野呂瀬[line]A human brain uses only 10% of its full capacity. The Gigalomaniacs, however, are the exception to this rule.[%p]"
+msgstr "3300:[name]野呂瀬[line]「人間の脳は全体の１０分の１しか使われていません。しかしギガロマニアックスは違う」[%p]"
 
 msgid "3400:[name]野呂瀬[line]「残りの１０分の９の部位も使っていることが分かっています」[%p]"
-msgstr "3400:[name]野呂瀬[line]We know from our research that they use the remaining 90% as well.[%p]"
+msgstr "3400:[name]野呂瀬[line]「残りの１０分の９の部位も使っていることが分かっています」[%p]"
 
 msgid "3500:[name]野呂瀬[line]「ギガロマニアックスの頭の中というのは、実に興味深い」[%p]"
-msgstr "3500:[name]野呂瀬[line]The inside of a Gigalomaniac's head is a fascinating place.[%p]"
+msgstr "3500:[name]野呂瀬[line]「ギガロマニアックスの頭の中というのは、実に興味深い」[%p]"
 
 msgid "3600:[name]野呂瀬[line]「そのサンプルが、ノアⅡにとっていわばＣＰＵの役割を果たすわけです」[%p]"
-msgstr "3600:[name]野呂瀬[line]These samples will serve as what you might call Noah II's CPU.[%p]"
+msgstr "3600:[name]野呂瀬[line]「そのサンプルが、ノアⅡにとっていわばＣＰＵの役割を果たすわけです」[%p]"
 
 msgid "3700:[name]野呂瀬[line]「サンプルが多ければ多いほど、ノアⅡの能力は本物のギガロマニアックスに近づき、やがて超えるでしょう」[%p]"
-msgstr "3700:[name]野呂瀬[line]The more samples we have, the more Noah II's power will approximate that of a real Gigalomaniac. And someday, it will surpass it.[%p]"
+msgstr "3700:[name]野呂瀬[line]「サンプルが多ければ多いほど、ノアⅡの能力は本物のギガロマニアックスに近づき、やがて超えるでしょう」[%p]"
 
 msgid "3800:[name]野呂瀬[line]「納得してもらえましたか？」[%p]"
-msgstr "3800:[name]野呂瀬[line]Does that satisfy you?[%p]"
+msgstr "3800:[name]野呂瀬[line]「納得してもらえましたか？」[%p]"
 
 msgid "3900:[name]野呂瀬[line]「結構」[%p]"
-msgstr "3900:[name]野呂瀬[line]Good.[%p]"
+msgstr "3900:[name]野呂瀬[line]「結構」[%p]"
 
 msgid "4000:野呂瀬は満足げにうなずくと、紫煙を吐きながら再び窓の外の景色を眺めた。[%p]"
-msgstr "4000:Norose nodded, satisfied, and let out a puff of cigarette smoke as he turned back toward the window.[%p]"
+msgstr "4000:野呂瀬は満足げにうなずくと、紫煙を吐きながら再び窓の外の景色を眺めた。[%p]"
 
 msgid "4100:渋谷の夜景は、近くから見ると下品そのもので野呂瀬は不快感しか覚えない。[%p]"
-msgstr "4100:Seen up close, Shibuya was a vulgar, disgusting city. Looking at it only brought him displeasure.[%p]"
+msgstr "4100:渋谷の夜景は、近くから見ると下品そのもので野呂瀬は不快感しか覚えない。[%p]"
 
 msgid "4200:だが、このビルのような若干離れた場所からの眺めに関しては、じゅうぶん及第点だと常々考えていた。[%p]"
-msgstr "4200:But high up here, he always found it a more pleasant sight.[%p]"
+msgstr "4200:だが、このビルのような若干離れた場所からの眺めに関しては、じゅうぶん及第点だと常々考えていた。[%p]"
 
 msgid "4300:もっとも、この夜景も近いうちに二度と見られぬものとなってしまうことだろう。彼の進めるプロジェクト・ノアの最終実験によって。[%p]"
-msgstr "4300:Of course, it wouldn't be long before he'd never see it again. After his group's Project Noah performed its last experiment...[%p]"
+msgstr "4300:もっとも、この夜景も近いうちに二度と見られぬものとなってしまうことだろう。彼の進めるプロジェクト・ノアの最終実験によって。[%p]"
 
 msgid "4400:[name]野呂瀬[line]「世界が生まれ変わる日も近い」[%p]"
-msgstr "4400:[name]野呂瀬[line]The world will be reborn soon.[%p]"
+msgstr "4400:[name]野呂瀬[line]「世界が生まれ変わる日も近い」[%p]"
 

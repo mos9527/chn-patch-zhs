@@ -22,296 +22,296 @@ msgid "300:梢ルート無し"
 msgstr "300:梢ルート無し"
 
 msgid "400:ナイトハルト：とまあ、そんな感じで中２病女にリアルに絡まれたわけよ"
-msgstr "400:KnightHeart: So yeah, this weird chick was hassling me."
+msgstr "400:ナイトハルト：とまあ、そんな感じで中２病女にリアルに絡まれたわけよ"
 
 msgid "500:グリム：てめーは漏れを\u3000怒\u3000ら\u3000せ\u3000た"
-msgstr "500:Grimm: YOU HAVE ANGERED ME."
+msgstr "500:グリム：てめーは漏れを\u3000怒\u3000ら\u3000せ\u3000た"
 
 msgid "600:ナイトハルト：(ﾟдﾟ)"
-msgstr "600:KnightHeart: ( ﾟ[д]ﾟ)"
+msgstr "600:ナイトハルト：(ﾟдﾟ)"
 
 msgid "700:グリム：ナイトハルト殿ってさあ"
-msgstr "700:Grimm: Listen, KnightHeart."
+msgstr "700:グリム：ナイトハルト殿ってさあ"
 
 msgid "800:グリム：三次元女に興味ねーとか言ってるけど"
-msgstr "800:Grimm: You keep saying you're not into 3D chicks"
+msgstr "800:グリム：三次元女に興味ねーとか言ってるけど"
 
 msgid "900:グリム：最近いろんな三次元女と仲良さそうじゃね？"
-msgstr "900:Grimm: But you seem to be having a whole lot of fun with [alt-linebreak]them"
+msgstr "900:グリム：最近いろんな三次元女と仲良さそうじゃね？"
 
 msgid "1000:グリム：この前も家に押しかけられたとか言ってたろ"
-msgstr "1000:Grimm: You said one broke inside your house the other [alt-linebreak]day!"
+msgstr "1000:グリム：この前も家に押しかけられたとか言ってたろ"
 
 msgid "1100:グリム：それどう考えてもエロゲ状態じゃねーか！ヽ(`Д´#)ﾉ"
-msgstr "1100:Grimm: That's totally out of an H-game! ヽ(`Д´#)ﾉ"
+msgstr "1100:グリム：それどう考えてもエロゲ状態じゃねーか！ヽ(`Д´#)ﾉ"
 
 msgid "1200:グリム：マジでモテ期突入してたとはな"
-msgstr "1200:Grimm: You've got some luck lately, asshole"
+msgstr "1200:グリム：マジでモテ期突入してたとはな"
 
 msgid "1300:ナイトハルト：いいかよく聞け"
-msgstr "1300:KnightHeart: Listen to me. Listen to what I'm saying."
+msgstr "1300:ナイトハルト：いいかよく聞け"
 
 msgid "1400:ナイトハルト：確かにかわいい女子と話す機会が増えたのは認める"
-msgstr "1400:KnightHeart: Yes, I'll admit I've had more chances to [alt-linebreak]talk to cute girls"
+msgstr "1400:ナイトハルト：確かにかわいい女子と話す機会が増えたのは認める"
 
 msgid "1500:ナイトハルト：だがな…"
-msgstr "1500:KnightHeart: But..."
+msgstr "1500:ナイトハルト：だがな…"
 
 msgid "1600:ナイトハルト：リアルメンヘラばっかだっちゅーねん！"
-msgstr "1600:KnightHeart: THEY'RE ALL CRAZY!"
+msgstr "1600:ナイトハルト：リアルメンヘラばっかだっちゅーねん！"
 
 msgid "1700:ナイトハルト：そんな連中に毒デンパ垂れ流されてみろ"
-msgstr "1700:KnightHeart: Let's see how you'd react if they tried [alt-linebreak]their weird fantasy shit on you"
+msgstr "1700:ナイトハルト：そんな連中に毒デンパ垂れ流されてみろ"
 
 msgid "1800:ナイトハルト：マジでホラーだから((((；ﾟДﾟ)))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ"
-msgstr "1800:KnightHeart: It's seriously scary man"
+msgstr "1800:ナイトハルト：マジでホラーだから((((；ﾟДﾟ)))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ"
 
 msgid "1900:グリム：……正直すまんかった（´・ω・`）"
-msgstr "1900:Grimm: ... lol sry （´・ω・`）"
+msgstr "1900:グリム：……正直すまんかった（´・ω・`）"
 
 msgid "2000:ナイトハルト：気にすんな（´・ω・`）"
-msgstr "2000:KnightHeart: s'all good （´・ω・`）"
+msgstr "2000:ナイトハルト：気にすんな（´・ω・`）"
 
 msgid "2100:家に帰ってからも、セナの語ったことがなんとなく気になっていた。[%p]"
-msgstr "2100:Even after I made it home, I couldn't get Sena's words out of my mind.[%p]"
+msgstr "2100:家に帰ってからも、セナの語ったことがなんとなく気になっていた。[%p]"
 
 msgid "2200:もちろんあの話がホントだとは思えないけど、特許とか大統領命令っていう部分については、ちょっと調べればホントか嘘かを確かめることができるはず。[%p]"
-msgstr "2200:Of course, I didn't think it was real, but that part about the patents and the executive order I could find if I decided to look it up.[%p]"
+msgstr "2200:もちろんあの話がホントだとは思えないけど、特許とか大統領命令っていう部分については、ちょっと調べればホントか嘘かを確かめることができるはず。[%p]"
 
 msgid "2300:というわけでグリムに協力を仰いで、さっそくネットで検索をかけてみた。[%p]"
-msgstr "2300:I went to Grimm for help, and we started searching the internet.[%p]"
+msgstr "2300:というわけでグリムに協力を仰いで、さっそくネットで検索をかけてみた。[%p]"
 
 msgid "2400:グリムの知り合いというアメリカ在住の人にも手伝ってもらって、[linebreak]調べてもらってるんだ。[%p]"
-msgstr "2400:Grimm knew somebody who lived in the US, so we got their help, too.[%p]"
+msgstr "2400:グリムの知り合いというアメリカ在住の人にも手伝ってもらって、[linebreak]調べてもらってるんだ。[%p]"
 
 msgid "2500:まあ、見つかるはずはないだろうけどね。[%p]"
-msgstr "2500:Not that I expected to find anything.[%p]"
+msgstr "2500:まあ、見つかるはずはないだろうけどね。[%p]"
 
 msgid "2600:今の時代、ソースがなくちゃ誰にも信用してもらえないよ。[%p]"
-msgstr "2600:These days, nobody would believe anything without a source.[%p]"
+msgstr "2600:今の時代、ソースがなくちゃ誰にも信用してもらえないよ。[%p]"
 
 msgid "2700:グリム：お、ＳＨＩＨＯから連絡キタお"
-msgstr "2700:Grimm: Oh, I got word from Shiho."
+msgstr "2700:グリム：お、ＳＨＩＨＯから連絡キタお"
 
 msgid "2800:ＳＨＩＨＯ、というのはさっき言ったグリムのネット上の知り合い。アメリカに住んでいて英語もペラペラらしい。[%p]"
-msgstr "2800:Shiho was Grimm's net buddy. They lived in the US and spoke fluent English, supposedly.[%p]"
+msgstr "2800:ＳＨＩＨＯ、というのはさっき言ったグリムのネット上の知り合い。アメリカに住んでいて英語もペラペラらしい。[%p]"
 
 msgid "2900:ナイトハルト：やっぱガセだったろ？"
-msgstr "2900:KnightHeart: It was BS right?"
+msgstr "2900:ナイトハルト：やっぱガセだったろ？"
 
 msgid "3000:ナイトハルト：あのメンヘラ女め"
-msgstr "3000:KnightHeart: That crazy bitch"
+msgstr "3000:ナイトハルト：あのメンヘラ女め"
 
 msgid "3100:ナイトハルト：どうせ僕のこと、英語が分からないヤツだってバカにしてたに違いない"
-msgstr "3100:KnightHeart: She probably thought she could fool me [alt-linebreak]because I didn't speak English"
+msgstr "3100:ナイトハルト：どうせ僕のこと、英語が分からないヤツだってバカにしてたに違いない"
 
 msgid "3200:ナイトハルト：ネットなめんな！"
-msgstr "3200:KnightHeart: Don't underestimate the internet!"
+msgstr "3200:ナイトハルト：ネットなめんな！"
 
 msgid "3300:ナイトハルト：これで論破終了だな"
-msgstr "3300:KnightHeart: Glad that's settled."
+msgstr "3300:ナイトハルト：これで論破終了だな"
 
 msgid "3400:グリム：あったらしいぞ"
-msgstr "3400:Grimm: They found it, they said."
+msgstr "3400:グリム：あったらしいぞ"
 
 msgid "3500:[name]拓巳[line]「…………え？」[%p]"
-msgstr "3500:[name]拓巳[line]Huh?[%p]"
+msgstr "3500:[name]拓巳[line]「…………え？」[%p]"
 
 msgid "3600:“あったらしいぞ”……？[linebreak]って、なにが？[%p]"
-msgstr "3600:“They found it, they said”... Found what?[%p]"
+msgstr "3600:“あったらしいぞ”……？[linebreak]って、なにが？[%p]"
 
 msgid "3700:グリム：わざわざ和訳してくれてるお"
-msgstr "3700:Grimm: They're translating it for us"
+msgstr "3700:グリム：わざわざ和訳してくれてるお"
 
 msgid "3800:グリム：とりあえずうｐるわ"
-msgstr "3800:Grimm: I'll up it for you"
+msgstr "3800:グリム：とりあえずうｐるわ"
 
 msgid "3900:ナイトハルト：また釣りか？"
-msgstr "3900:KnightHeart: This another troll?"
+msgstr "3900:ナイトハルト：また釣りか？"
 
 msgid "4000:グリム：漏れって信用ねーなぁｗｗｗ"
-msgstr "4000:Grimm: Hah, you don't trust me, huh? lol"
+msgstr "4000:グリム：漏れって信用ねーなぁｗｗｗ"
 
 msgid "4100:グリム：まあ普段の行いが悪いせいだけどさｗｗｗ"
-msgstr "4100:Grimm: Well I guess I can understand why given all the [alt-linebreak]shit I pull lol"
+msgstr "4100:グリム：まあ普段の行いが悪いせいだけどさｗｗｗ"
 
 msgid "4200:グリム：じゃあＳＨＩＨＯをここに招待するか？"
-msgstr "4200:Grimm: Want me to bring Shiho here then?"
+msgstr "4200:グリム：じゃあＳＨＩＨＯをここに招待するか？"
 
 msgid "4300:[name]拓巳[line]「も、もしかして……マジなのか……？」[%p]"
-msgstr "4300:[name]拓巳[line]Is it... real?[%p]"
+msgstr "4300:[name]拓巳[line]「も、もしかして……マジなのか……？」[%p]"
 
 msgid "4400:これまでグリムには散々騙されてきた。[%p]"
-msgstr "4400:Grimm had lied to me about all kinds of stuff.[%p]"
+msgstr "4400:これまでグリムには散々騙されてきた。[%p]"
 
 msgid "4500:いつもこんな調子で信用すると、精神的ブラクラを踏まされるんだ。[%p]"
-msgstr "4500:Usually when he did something like this, he'd make me look at some disgusting mental browser crash link.[%p]"
+msgstr "4500:いつもこんな調子で信用すると、精神的ブラクラを踏まされるんだ。[%p]"
 
 msgid "4600:でも、ＳＨＩＨＯを招待するとまで言ってるし、ソースまで出してきたし……。[%p]"
-msgstr "4600:But he even had a source and was saying he'd invite Shiho...[%p]"
+msgstr "4600:でも、ＳＨＩＨＯを招待するとまで言ってるし、ソースまで出してきたし……。[%p]"
 
 msgid "4700:ナイトハルト：もしまた釣りだったらギルドから除名してやる"
-msgstr "4700:KnightHeart: If this is a troll I'm banning you from the guild."
+msgstr "4700:ナイトハルト：もしまた釣りだったらギルドから除名してやる"
 
 msgid "4800:グリム：おｋ"
-msgstr "4800:Grimm: Ok"
+msgstr "4800:グリム：おｋ"
 
 msgid "4900:グリム：今回だけは信じろって"
-msgstr "4900:Grimm: This time, you can trust me."
+msgstr "4900:グリム：今回だけは信じろって"
 
 msgid "5000:ずいぶんな自信だなあ。[linebreak]今回こそ信じてもいいのかも……。[%p]"
-msgstr "5000:He seemed really confident. Maybe this time I could trust him.[%p]"
+msgstr "5000:ずいぶんな自信だなあ。[linebreak]今回こそ信じてもいいのかも……。[%p]"
 
 msgid "5100:[name]拓巳[line]「くそぅ、僕はなんてお人好しなんだ！」[%p]"
-msgstr "5100:[name]拓巳[line]Damn it... why am I so gullible?[%p]"
+msgstr "5100:[name]拓巳[line]「くそぅ、僕はなんてお人好しなんだ！」[%p]"
 
 msgid "5200:少しドキドキしながら、いきなりはっきり見ないようにするため薄目にしつつ、リンクをクリックした。[%p]"
-msgstr "5200:My heart pounded as I clicked on the link, narrowing my eyes so that I wouldn't be able to see it clearly at first.[%p]"
+msgstr "5200:少しドキドキしながら、いきなりはっきり見ないようにするため薄目にしつつ、リンクをクリックした。[%p]"
 
 msgid "5300:[name]拓巳[line]「な、なんだこれ……？」[%p]"
-msgstr "5300:[name]拓巳[line]W-What is this?[%p]"
+msgstr "5300:[name]拓巳[line]「な、なんだこれ……？」[%p]"
 
 msgid "5400:それは英語で書かれた文書で、下の方には奇妙な図が描かれていた。図の中には人の顔みたいな絵も見える。[%p]"
-msgstr "5400:It was a paper written in English, with a strange diagram at the bottom. There was something in the diagram that looked like a human face.[%p]"
+msgstr "5400:それは英語で書かれた文書で、下の方には奇妙な図が描かれていた。図の中には人の顔みたいな絵も見える。[%p]"
 
 msgid "5500:見出しは『Ｕｎｉｔｅｄ Ｓｔａｔｅｓ Ｐａｔｅｎｔ』。[linebreak]Ｐａｔｅｎｔって確か特許っていう意味だったはず……。[%p]"
-msgstr "5500:It said “United States Patent.”[%p]"
+msgstr "5500:見出しは『Ｕｎｉｔｅｄ Ｓｔａｔｅｓ Ｐａｔｅｎｔ』。[linebreak]Ｐａｔｅｎｔって確か特許っていう意味だったはず……。[%p]"
 
 msgid "5600:つまりこれは……[%p]"
-msgstr "5600:Patent... so it was true. In other words, this was...[%p]"
+msgstr "5600:つまりこれは……[%p]"
 
 msgid "5700:[name]拓巳[line]「アメリカの特許……」[%p]"
-msgstr "5700:[name]拓巳[line]An American patent...[%p]"
+msgstr "5700:[name]拓巳[line]「アメリカの特許……」[%p]"
 
 msgid "5800:[name]セナ[line]「ＶＲ技術を知っているか？」[%p]"
-msgstr "5800:[name]セナ[line]Do you know about VR technology?[%p]"
+msgstr "5800:[name]セナ[line]「ＶＲ技術を知っているか？」[%p]"
 
 msgid "5900:[name]セナ[line]「すでに実際にテストは成功している。ある研究チームが特許を取得済みだ」[%p]"
-msgstr "5900:[name]セナ[line]They've already succeeded in tests. One research team already has a patent.[%p]"
+msgstr "5900:[name]セナ[line]「すでに実際にテストは成功している。ある研究チームが特許を取得済みだ」[%p]"
 
 msgid "6000:ホントに、あった……。[%p]"
-msgstr "6000:It was real.[%p]"
+msgstr "6000:ホントに、あった……。[%p]"
 
 msgid "6100:さらに一緒に添付されていたふたつのテキストファイルのうちのひとつを開いてみる。そこには、この特許について触れたらしいニュースが、和訳されてずらっと書かれていた。[%p]"
-msgstr "6100:I opened one of the two text files that were attached with it. It was a Japanese translation of an article talking about the patent.[%p]"
+msgstr "6100:さらに一緒に添付されていたふたつのテキストファイルのうちのひとつを開いてみる。そこには、この特許について触れたらしいニュースが、和訳されてずらっと書かれていた。[%p]"
 
 msgid "6200:アメリカのヴィクトル・コンドリア大学、精神生理学研究室で現在も研究が行われているＶＲ技術（Visual Rebuilding）と呼ばれる画期的な発明がある。[%p]"
-msgstr "6200:The Viktor Chondria University psychophysiology lab is current working on a revolutionary technology called Visual Rebuilding.[%p]"
+msgstr "6200:アメリカのヴィクトル・コンドリア大学、精神生理学研究室で現在も研究が行われているＶＲ技術（Visual Rebuilding）と呼ばれる画期的な発明がある。[%p]"
 
 msgid "6300:これは介護を目的としたもので、世界中の盲目の人々から注目されている研究だ。[%p]"
-msgstr "6300:The technology is intended for the field of therapeutics, and is being eagerly followed by blind people all over the world.[%p]"
+msgstr "6300:これは介護を目的としたもので、世界中の盲目の人々から注目されている研究だ。[%p]"
 
 msgid "6400:生まれながらに盲目の人でもビデオカメラなどの映像機器を介すことで、そこに映る景色が見えるようになるという画期的なものである。[%p]"
-msgstr "6400:This revolutionary invention would allow the blind to see with the aid of a visual device such as a camera.[%p]"
+msgstr "6400:生まれながらに盲目の人でもビデオカメラなどの映像機器を介すことで、そこに映る景色が見えるようになるという画期的なものである。[%p]"
 
 msgid "6500:その手法を簡単に説明すると――[%p]"
-msgstr "6500:To explain in basic terms how it works...[%p]"
+msgstr "6500:その手法を簡単に説明すると――[%p]"
 
 msgid "6600:ビデオカメラに写った風景の映像信号を、脳が唯一認識することのできる神経パルスと呼ばれる電気信号へと変換。[%p]"
-msgstr "6600:The electronic signals generated by the video camera are transformed into nerve impulses, the one form of electrical signal that the brain can read.[%p]"
+msgstr "6600:ビデオカメラに写った風景の映像信号を、脳が唯一認識することのできる神経パルスと呼ばれる電気信号へと変換。[%p]"
 
 msgid "6700:これを脳と繋がっている視神経に接続するのだそうだ。[%p]"
-msgstr "6700:These signals are transmitted to the optic nerves, and through them, to the brain.[%p]"
+msgstr "6700:これを脳と繋がっている視神経に接続するのだそうだ。[%p]"
 
 msgid "6800:既にテストは成功しており、特許についても登録取得された。[%p]"
-msgstr "6800:Tests have been successful and a patent was issued.[%p]"
+msgstr "6800:既にテストは成功しており、特許についても登録取得された。[%p]"
 
 msgid "6900:[name]拓巳[line]「特許……ホントに認められてる……」[%p]"
-msgstr "6900:[name]拓巳[line]The patent... it's real.[%p]"
+msgstr "6900:[name]拓巳[line]「特許……ホントに認められてる……」[%p]"
 
 msgid "7000:セナが言っていたことは中２病の妄想じゃなかったっていうこと？[%p]"
-msgstr "7000:What Sena had been saying wasn't just some silly fantasy, then?[%p]"
+msgstr "7000:セナが言っていたことは中２病の妄想じゃなかったっていうこと？[%p]"
 
 msgid "7100:僕はゴクリと息を呑みつつ、もうひとつのテキストファイルを開いてみた。[%p]"
-msgstr "7100:I gulped and clicked on the other file.[%p]"
+msgstr "7100:僕はゴクリと息を呑みつつ、もうひとつのテキストファイルを開いてみた。[%p]"
 
 msgid "7200:アメリカ政府\u3000ホワイトハウス発表[linebreak]１９９７年３月２７日交付[linebreak]『機密の人体研究に対する保護の強化』[%p]"
-msgstr "7200:Official Order Issued by the White House 3/27/1997: “Strengthening Protections of Research into the Secrets of the Human Body”[%p]"
+msgstr "7200:アメリカ政府\u3000ホワイトハウス発表[linebreak]１９９７年３月２７日交付[linebreak]『機密の人体研究に対する保護の強化』[%p]"
 
 msgid "7300:いかなる機関も[color index="A0FF0000"]インフォームド・コンセント[color index="800000"]なしに人体の機密の研究をしてはならない、もしくはそれを支援してはならない。[%p]"
-msgstr "7300:No organization may do any research into the secrets of the human body without [color index="A0FF0000"]informed consent[color index="800000"], or support any other organization that conducts such research.[%p]"
+msgstr "7300:いかなる機関も[color index="A0FF0000"]インフォームド・コンセント[color index="800000"]なしに人体の機密の研究をしてはならない、もしくはそれを支援してはならない。[%p]"
 
 msgid "7400:本件は１９９８年３月２７日、もしくは立法過程がそれ以前に完了する場合は１９９８年３月２７日以前に実施される。[%p]"
-msgstr "7400:This order will go into effect on 3/27/1998, or earlier if appropriate legislation passes.[%p]"
+msgstr "7400:本件は１９９８年３月２７日、もしくは立法過程がそれ以前に完了する場合は１９９８年３月２７日以前に実施される。[%p]"
 
 msgid "7500:合衆国大統領\u3000ウィリアム・Ｊ・クリントン[%p]"
-msgstr "7500:William J. Clinton, President of the United States[%p]"
+msgstr "7500:合衆国大統領\u3000ウィリアム・Ｊ・クリントン[%p]"
 
 msgid "7600:アメリカ大統領の行政命令……[%p]"
-msgstr "7600:An executive order from the President of the United States.[%p]"
+msgstr "7600:アメリカ大統領の行政命令……[%p]"
 
 msgid "7700:まるで映画の設定にありそうな内容だけど、まさかこれまで現実だったなんて。[%p]"
-msgstr "7700:It was like something you'd see in the backstory for a movie... but it was real.[%p]"
+msgstr "7700:まるで映画の設定にありそうな内容だけど、まさかこれまで現実だったなんて。[%p]"
 
 msgid "7800:試しにＵＲＬのリンク先にも行ってみた。英文を読むぐらい僕にだってできる。こう見えても毎日学校に通ってるＤＱＮ連中よりよっぽど頭はいいんだ。[%p]"
-msgstr "7800:I clicked on the link, too, just to be sure. I could read English, even if I couldn't speak it. I was a lot smarter than the DQNs that went to school every day, after all.[%p]"
+msgstr "7800:試しにＵＲＬのリンク先にも行ってみた。英文を読むぐらい僕にだってできる。こう見えても毎日学校に通ってるＤＱＮ連中よりよっぽど頭はいいんだ。[%p]"
 
 msgid "7900:で、実際に書かれていた内容は、やっぱり和訳されたテキストと同じだった。[%p]"
-msgstr "7900:The actual text was more or less the same as the translation I'd been given.[%p]"
+msgstr "7900:で、実際に書かれていた内容は、やっぱり和訳されたテキストと同じだった。[%p]"
 
 msgid "8000:[name]拓巳[line]「ということは……」[%p]"
-msgstr "8000:[name]拓巳[line]Which means...[%p]"
+msgstr "8000:[name]拓巳[line]「ということは……」[%p]"
 
 msgid "8100:セナの言葉が脳裏にこだまする。[%p]"
-msgstr "8100:Sena's words echoed in my mind.[%p]"
+msgstr "8100:セナの言葉が脳裏にこだまする。[%p]"
 
 msgid "8200:[name]セナ[line]「ある意図的な情報を、[linebreak]神経パルスへコンバートすることが可能なら――」[%p]"
-msgstr "8200:[name]セナ[line]If it were possible to convert a certain deliberately-chosen information pattern into nerve impulses...[%p]"
+msgstr "8200:[name]セナ[line]「ある意図的な情報を、[linebreak]神経パルスへコンバートすることが可能なら――」[%p]"
 
 msgid "8300:[name]セナ[line]「人の五感すべて、さらには人の意志そのものもコントロールできるんじゃないか？」[%p]"
-msgstr "8300:[name]セナ[line]You would be able to control all five of a person's senses, and in fact, their will itself.[%p]"
+msgstr "8300:[name]セナ[line]「人の五感すべて、さらには人の意志そのものもコントロールできるんじゃないか？」[%p]"
 
 msgid "8400:なんだか難しい話になってきたけど、セナが語ったこと、そしてそれを裏付けるネット上のソースを目の当たりにして、背筋がゾワゾワとしてきた。[%p]"
-msgstr "8400:This whole thing was getting kind of complicated, but knowing what Sena said, and that there was a source online to back it up, made my skin crawl.[%p]"
+msgstr "8400:なんだか難しい話になってきたけど、セナが語ったこと、そしてそれを裏付けるネット上のソースを目の当たりにして、背筋がゾワゾワとしてきた。[%p]"
 
 msgid "8500:そこに恐ろしいなにかが潜んでいるような気がしたんだ。[%p]"
-msgstr "8500:It felt like there was some kind of terrible secret involved with all this.[%p]"
+msgstr "8500:そこに恐ろしいなにかが潜んでいるような気がしたんだ。[%p]"
 
 msgid "8600:なによりも気になるのは――[%p]"
-msgstr "8600:And what worried me more than anything was...[%p]"
+msgstr "8600:なによりも気になるのは――[%p]"
 
 msgid "8700:セナがわざわざ僕にこの話をしたその意図。[%p]"
-msgstr "8700:The fact that Sena had chosen to tell me this.[%p]"
+msgstr "8700:セナがわざわざ僕にこの話をしたその意図。[%p]"
 
 msgid "8800:僕にも関係がある話なの？[%p]"
-msgstr "8800:Did it have something to do with me?[%p]"
+msgstr "8800:僕にも関係がある話なの？[%p]"
 
 msgid "8900:“人の意志をコントロールできる”という部分は、はっきり言って他人事じゃなかった。[%p]"
-msgstr "8900:The idea of controlling another person's will seemed to, at least.[%p]"
+msgstr "8900:“人の意志をコントロールできる”という部分は、はっきり言って他人事じゃなかった。[%p]"
 
 msgid "9000:なぜなら僕には夢遊病の可能性があるからだ。[%p]"
-msgstr "9000:I still hadn't ruled out the possibility that I was sleepwalking.[%p]"
+msgstr "9000:なぜなら僕には夢遊病の可能性があるからだ。[%p]"
 
 msgid "9100:ニュージェネ第３の事件『張り付け』が起きた日、[linebreak]自分の記憶にないのに＠カフェで『将軍』としてチャットに書き込みをしていたらしいし……[%p]"
-msgstr "9100:Supposedly the day the third NewGen incident, Crucified, happened, I'd been using the account “Shogun” to chat at @Café.[%p]"
+msgstr "9100:ニュージェネ第３の事件『張り付け』が起きた日、[linebreak]自分の記憶にないのに＠カフェで『将軍』としてチャットに書き込みをしていたらしいし……[%p]"
 
 msgid "9200:それに僕は、梨深のことをまったく覚えていなかった。[linebreak]一年以上、同じクラスメイトとして過ごして、何度か一緒に遊びに行ったらしい仲だけど、記憶にない。[%p]"
-msgstr "9200:And I didn't remember Rimi at all, either. I'd supposedly spent over a year with her as a classmate and even gone to hang out a few times, but I didn't remember her at all.[%p]"
+msgstr "9200:それに僕は、梨深のことをまったく覚えていなかった。[linebreak]一年以上、同じクラスメイトとして過ごして、何度か一緒に遊びに行ったらしい仲だけど、記憶にない。[%p]"
 
 msgid "9300:もしかしたら、僕が何者かに操られている間にそうした行動を取ったかもしれないんだ。[%p]"
-msgstr "9300:Maybe I'd done all that while someone was controlling me.[%p]"
+msgstr "9300:もしかしたら、僕が何者かに操られている間にそうした行動を取ったかもしれないんだ。[%p]"
 
 msgid "9400:そもそも三次元女子と話すのが苦手な僕が、梨深みたいなかわいい子と仲良くなれるはずがない……[%p]"
-msgstr "9400:After all, there was no way a guy like me, who could barely talk to 3D girls, could be friends with a cute girl like Rimi.[%p]"
+msgstr "9400:そもそも三次元女子と話すのが苦手な僕が、梨深みたいなかわいい子と仲良くなれるはずがない……[%p]"
 
 msgid "9500:……いや、考えすぎだ。[%p]"
-msgstr "9500:No, I was overthinking it.[%p]"
+msgstr "9500:……いや、考えすぎだ。[%p]"
 
 msgid "9600:少なくともチャットの件については優愛の妄想なんだ。[%p]"
-msgstr "9600:The thing with the chat, at least, was just a delusion of Yua's.[%p]"
+msgstr "9600:少なくともチャットの件については優愛の妄想なんだ。[%p]"
 
 msgid "9700:『将軍』は別にいて、僕をはめようとしているに過ぎないんだ。[linebreak]その『将軍』の正体があの１０７前に現れた車椅子の老人かどうかはともかくとして。[%p]"
-msgstr "9700:Shogun was someone else, and just trying to set me up. I wasn't sure if he was actually the old man in the wheelchair I'd seen in front of the 107 building, but it didn't matter.[%p]"
+msgstr "9700:『将軍』は別にいて、僕をはめようとしているに過ぎないんだ。[linebreak]その『将軍』の正体があの１０７前に現れた車椅子の老人かどうかはともかくとして。[%p]"
 
 msgid "9800:もしかすると、セナも『将軍』の手下かもしれない。[%p]"
-msgstr "9800:It was even possible that Sena was working with Shogun, too.[%p]"
+msgstr "9800:もしかすると、セナも『将軍』の手下かもしれない。[%p]"
 
 msgid "9900:僕を惑わそうとしているのかもしれない。[%p]"
-msgstr "9900:Maybe she was trying to trick me.[%p]"
+msgstr "9900:僕を惑わそうとしているのかもしれない。[%p]"
 
 msgid "10000:鵜呑みにするな。[linebreak]あんな得体の知れない女の言うことを信じるな。[linebreak]セナも優愛と同じ人種だ。[%p]"
-msgstr "10000:I couldn't believe what she was saying. I didn't know anything about her. And I couldn't trust her. Sena was no different than Yua.[%p]"
+msgstr "10000:鵜呑みにするな。[linebreak]あんな得体の知れない女の言うことを信じるな。[linebreak]セナも優愛と同じ人種だ。[%p]"
 
 msgid "10100:それでいいんだよね、星来たん……。[%p]"
-msgstr "10100:That's what I should be thinking, right, Seira-tan?[%p]"
+msgstr "10100:それでいいんだよね、星来たん……。[%p]"
 

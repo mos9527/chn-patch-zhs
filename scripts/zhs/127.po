@@ -10,176 +10,176 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]ＦＥＳ[line]「ディソードもまた、その意志による導きよ」[%p]"
-msgstr "0:[name]ＦＥＳ[line]The Di-Swords are an expression of the Great Will's guidance.[%p]"
+msgstr "0:[name]ＦＥＳ[line]「ディソードもまた、その意志による導きよ」[%p]"
 
 msgid "100:その言葉を聞いて、僕はもう我慢できなくなっていた。[%p]"
-msgstr "100:That was enough to make me finally snap.[%p]"
+msgstr "100:その言葉を聞いて、僕はもう我慢できなくなっていた。[%p]"
 
 msgid "200:さっきからどうでもいいような話ばかりして、ＦＥＳははぐらかしている。[%p]"
-msgstr "200:FES had been continually changing the subject, talking about things that didn't matter at all.[%p]"
+msgstr "200:さっきからどうでもいいような話ばかりして、ＦＥＳははぐらかしている。[%p]"
 
 msgid "300:大いなる意志とか、渋谷が若者を惹きつける理由とか、そんなの僕にはまったく興味はなかった。[%p]"
-msgstr "300:The Great Will, the reason young people came to Shibuya... I wasn't interested in those things at all.[%p]"
+msgstr "300:大いなる意志とか、渋谷が若者を惹きつける理由とか、そんなの僕にはまったく興味はなかった。[%p]"
 
 msgid "400:聞きたいことはひとつだけ。[%p]"
-msgstr "400:There was only one thing I wanted to know.[%p]"
+msgstr "400:聞きたいことはひとつだけ。[%p]"
 
 msgid "500:[name]拓巳[line]「ディ、ディソードは……[linebreak]ど、どうすれば、手に、は、入る……！？」[%p]"
-msgstr "500:[name]拓巳[line]H-How do I... How do I get a Di-Sword?[%p]"
+msgstr "500:[name]拓巳[line]「ディ、ディソードは……[linebreak]ど、どうすれば、手に、は、入る……！？」[%p]"
 
 msgid "600:勇気を振り絞って、ＦＥＳに問いかけた。[%p]"
-msgstr "600:I worked up my courage and asked.[%p]"
+msgstr "600:勇気を振り絞って、ＦＥＳに問いかけた。[%p]"
 
 msgid "700:[name]拓巳[line]「お、教えて……よ……！」[%p]"
-msgstr "700:[name]拓巳[line]T-Tell me![%p]"
+msgstr "700:[name]拓巳[line]「お、教えて……よ……！」[%p]"
 
 msgid "800:[name]ＦＥＳ[line]「…………」[%p]"
-msgstr "800:[name]ＦＥＳ[line]...[%p]"
+msgstr "800:[name]ＦＥＳ[line]「…………」[%p]"
 
 msgid "900:ＦＥＳはアンニュイな表情を変えずに、自らが持つディソードへと視線を落とす。[%p]"
-msgstr "900:FES's expression of ennui stayed unchanged as she looked down at her own Di-Sword.[%p]"
+msgstr "900:ＦＥＳはアンニュイな表情を変えずに、自らが持つディソードへと視線を落とす。[%p]"
 
 msgid "1000:あんなに巨大な剣なのに、ずいぶん軽々と扱っているように見える。[linebreak]実はＦＥＳってすごい馬鹿力の持ち主なんだろうか。[%p]"
-msgstr "1000:It was such a huge sword, but she seemed to carry it like it weighed nothing. It occurred to me that FES might be incredibly strong.[%p]"
+msgstr "1000:あんなに巨大な剣なのに、ずいぶん軽々と扱っているように見える。[linebreak]実はＦＥＳってすごい馬鹿力の持ち主なんだろうか。[%p]"
 
 msgid "1100:[name]ＦＥＳ[line]「教えられることじゃないわ」[%p]"
-msgstr "1100:[name]ＦＥＳ[line]It's not something you can be told.[%p]"
+msgstr "1100:[name]ＦＥＳ[line]「教えられることじゃないわ」[%p]"
 
 msgid "1200:[name]拓巳[line]「な……んで……っ」[%p]"
-msgstr "1200:[name]拓巳[line]Why?[%p]"
+msgstr "1200:[name]拓巳[line]「な……んで……っ」[%p]"
 
 msgid "1300:ここまであれこれ思わせぶりなことを語っておいて、一番肝心なことを教えないってなんだよ！[%p]"
-msgstr "1300:After all that crap she made me listen to, she wasn't going to tell me the most important thing? What the hell?[%p]"
+msgstr "1300:ここまであれこれ思わせぶりなことを語っておいて、一番肝心なことを教えないってなんだよ！[%p]"
 
 msgid "1400:[name]ＦＥＳ[line]「見つけなくちゃいけない。自分自身で」[%p]"
-msgstr "1400:[name]ＦＥＳ[line]You have to find it. By yourself.[%p]"
+msgstr "1400:[name]ＦＥＳ[line]「見つけなくちゃいけない。自分自身で」[%p]"
 
 msgid "1500:[name]ＦＥＳ[line]「方法なんて、私にも分からない」[%p]"
-msgstr "1500:[name]ＦＥＳ[line]I don't know how.[%p]"
+msgstr "1500:[name]ＦＥＳ[line]「方法なんて、私にも分からない」[%p]"
 
 msgid "1600:分からない……って。[linebreak]じゃあ、ＦＥＳはいったいどうやって、その手に握りしめられているディソードを手に入れたんだ！？[%p]"
-msgstr "1600:She didn't know? So, how did she get the one in her hands?[%p]"
+msgstr "1600:分からない……って。[linebreak]じゃあ、ＦＥＳはいったいどうやって、その手に握りしめられているディソードを手に入れたんだ！？[%p]"
 
 msgid "1700:[name]ＦＥＳ[line]「ただ……」[%p]"
-msgstr "1700:[name]ＦＥＳ[line]But...[%p]"
+msgstr "1700:[name]ＦＥＳ[line]「ただ……」[%p]"
 
 msgid "1800:[name]ＦＥＳ[line]「ディソードは、力を持つ人の目にしか映らない」[%p]"
-msgstr "1800:[name]ＦＥＳ[line]The Di-Sword only reveals itself to those who have the power.[%p]"
+msgstr "1800:[name]ＦＥＳ[line]「ディソードは、力を持つ人の目にしか映らない」[%p]"
 
 msgid "1900:それって、逆に言えば力を持たない人には見えないっていうこと？[%p]"
-msgstr "1900:So, people who didn't have the power couldn't see it?[%p]"
+msgstr "1900:それって、逆に言えば力を持たない人には見えないっていうこと？[%p]"
 
 msgid "2000:僕にははっきりくっきり見えてるんだけど……。[%p]"
-msgstr "2000:I could see it quite clearly...[%p]"
+msgstr "2000:僕にははっきりくっきり見えてるんだけど……。[%p]"
 
 msgid "2100:力って、なんなんだ……？[%p]"
-msgstr "2100:What did she mean by “the power”?[%p]"
+msgstr "2100:力って、なんなんだ……？[%p]"
 
 msgid "2200:今、僕の目の前にＦＥＳが２人いるような超常的な力が、僕にもあるっていうことなの？[%p]"
-msgstr "2200:Did she mean that I had superpowers, too, like the two FESes with me?[%p]"
+msgstr "2200:今、僕の目の前にＦＥＳが２人いるような超常的な力が、僕にもあるっていうことなの？[%p]"
 
 msgid "2300:[name]ＦＥＳ[line]「キミには、私の剣が見えているでしょう？」[%p]"
-msgstr "2300:[name]ＦＥＳ[line]You can see my sword, right?[%p]"
+msgstr "2300:[name]ＦＥＳ[line]「キミには、私の剣が見えているでしょう？」[%p]"
 
 msgid "2400:[name]ＦＥＳ[line]「それが意味するのは、ひとつだけ」[%p]"
-msgstr "2400:[name]ＦＥＳ[line]That can mean only one thing.[%p]"
+msgstr "2400:[name]ＦＥＳ[line]「それが意味するのは、ひとつだけ」[%p]"
 
 msgid "2500:もし、その力があるせいで『将軍』や優愛が僕にちょっかいをかけてきているなら、[%p]"
-msgstr "2500:If having that power was why Yua and Shogun were coming after me,[%p]"
+msgstr "2500:もし、その力があるせいで『将軍』や優愛が僕にちょっかいをかけてきているなら、[%p]"
 
 msgid "2600:そんな訳の分からない力、いらないよ……！[%p]"
-msgstr "2600:then I didn't even want it![%p]"
+msgstr "2600:そんな訳の分からない力、いらないよ……！[%p]"
 
 msgid "2700:ただ――[linebreak]それでもディソードは欲しい。[%p]"
-msgstr "2700:But... I still wanted a Di-Sword.[%p]"
+msgstr "2700:ただ――[linebreak]それでもディソードは欲しい。[%p]"
 
 msgid "2800:それが僕に救いをもたらすって、ＦＥＳは言った。[%p]"
-msgstr "2800:FES said that having it would save me.[%p]"
+msgstr "2800:それが僕に救いをもたらすって、ＦＥＳは言った。[%p]"
 
 msgid "2900:大いなる意志とか、渋谷が若者を惹きつける理由とか、そんなの僕にはどうでもいいことだ。[%p]"
-msgstr "2900:The Great Will, the reason young people came to Shibuya... those things didn't matter to me.[%p]"
+msgstr "2900:大いなる意志とか、渋谷が若者を惹きつける理由とか、そんなの僕にはどうでもいいことだ。[%p]"
 
 msgid "3000:力なんていらないし厄介事に巻き込まれたくない。でも『将軍』や優愛の魔の手から逃れるためには、剣だけは手に入れなくちゃ……！[%p]"
-msgstr "3000:I didn't need any power. I didn't want any trouble. But the sword... I needed the sword to protect me from Yua and Shogun.[%p]"
+msgstr "3000:力なんていらないし厄介事に巻き込まれたくない。でも『将軍』や優愛の魔の手から逃れるためには、剣だけは手に入れなくちゃ……！[%p]"
 
 msgid "3100:[name]ＦＥＳ[line]「感じて。世界の選択した意志を」[%p]"
-msgstr "3100:[name]ＦＥＳ[line]Feel it. Feel the will the world has chosen.[%p]"
+msgstr "3100:[name]ＦＥＳ[line]「感じて。世界の選択した意志を」[%p]"
 
 msgid "3200:でも、やっぱりＦＥＳの答えは曖昧なものでしかなくて。[%p]"
-msgstr "3200:But FES's answer was vague and hard to understand.[%p]"
+msgstr "3200:でも、やっぱりＦＥＳの答えは曖昧なものでしかなくて。[%p]"
 
 msgid "3300:唇を噛み、どうやったらＦＥＳから情報を引き出せるかに必死で考えを巡らせる。[%p]"
-msgstr "3300:I bit my lip, trying to figure out how to get more information out of her.[%p]"
+msgstr "3300:唇を噛み、どうやったらＦＥＳから情報を引き出せるかに必死で考えを巡らせる。[%p]"
 
 msgid "3400:だけど、三次元の人と話すのが苦手で口下手な僕には、有効な手がさっぱり思いつかなかった。[%p]"
-msgstr "3400:But I could barely talk to 3D girls even on a good day... trying to figure out a way to get information out of one was beyond me.[%p]"
+msgstr "3400:だけど、三次元の人と話すのが苦手で口下手な僕には、有効な手がさっぱり思いつかなかった。[%p]"
 
 msgid "3500:エロゲのシチュエーションで参考になりそうなものを考えてみたけど、媚薬を飲ませるとか縛るとか監禁するとか、そういう不穏なものしか思い浮かばない。[%p]"
-msgstr "3500:I tried to think back through the H-games I'd played to see if they'd give me any ideas. But neither “slip her an aphrodisiac,” “tie her up,” or “lock her in a basement” seemed like good choices.[%p]"
+msgstr "3500:エロゲのシチュエーションで参考になりそうなものを考えてみたけど、媚薬を飲ませるとか縛るとか監禁するとか、そういう不穏なものしか思い浮かばない。[%p]"
 
 msgid "3600:うう、僕って最低かも……。[%p]"
-msgstr "3600:Man... I just realized that I might be a piece of shit.[%p]"
+msgstr "3600:うう、僕って最低かも……。[%p]"
 
 msgid "3700:[name]ＦＥＳ[line]「キミ、名前は？」[%p]"
-msgstr "3700:[name]ＦＥＳ[line]What's your name?[%p]"
+msgstr "3700:[name]ＦＥＳ[line]「キミ、名前は？」[%p]"
 
 msgid "3800:[name]拓巳[line]「え？」[%p]"
-msgstr "3800:[name]拓巳[line]Huh?[%p]"
+msgstr "3800:[name]拓巳[line]「え？」[%p]"
 
 msgid "3900:ＦＥＳが、僕に背中を向けてゆっくりとトンネルの奥へ向かって歩き出した。[%p]"
-msgstr "3900:FES had turned away from me and was walking deeper into the tunnel.[%p]"
+msgstr "3900:ＦＥＳが、僕に背中を向けてゆっくりとトンネルの奥へ向かって歩き出した。[%p]"
 
 msgid "4000:[name]ＦＥＳ[line]「私は、岸本あやせ」[%p]"
-msgstr "4000:[name]ＦＥＳ[line]I'm Ayase Kishimoto.[%p]"
+msgstr "4000:[name]ＦＥＳ[line]「私は、岸本あやせ」[%p]"
 
 msgid "4100:そう言われて、まだお互いに自己紹介すらしていないことに気付く。[%p]"
-msgstr "4100:Only then did I realize we hadn't introduced ourselves to each other.[%p]"
+msgstr "4100:そう言われて、まだお互いに自己紹介すらしていないことに気付く。[%p]"
 
 msgid "4200:[name]拓巳[line]「に、西條……拓巳……」[%p]"
-msgstr "4200:[name]拓巳[line]Takumi... Nishijo.[%p]"
+msgstr "4200:[name]拓巳[line]「に、西條……拓巳……」[%p]"
 
 msgid "4300:[name]ＦＥＳ[line]「ふふふ」[%p]"
-msgstr "4300:[name]ＦＥＳ[line]Heheheh...[%p]"
+msgstr "4300:[name]ＦＥＳ[line]「ふふふ」[%p]"
 
 msgid "4400:ＦＥＳ――あやせの表情は僕の位置からは見えない。[%p]"
-msgstr "4400:FES—Ayase—had her back to me, so I couldn't see the look on her face.[%p]"
+msgstr "4400:ＦＥＳ――あやせの表情は僕の位置からは見えない。[%p]"
 
 msgid "4500:どうして笑われたのか、分からない。[%p]"
-msgstr "4500:I couldn't tell why she'd laughed.[%p]"
+msgstr "4500:どうして笑われたのか、分からない。[%p]"
 
 msgid "4600:[name]あやせ[line]「また会いましょう……拓巳」[%p]"
-msgstr "4600:[name]あやせ[line]Let's meet again, Takumi.[%p]"
+msgstr "4600:[name]あやせ[line]「また会いましょう……拓巳」[%p]"
 
 msgid "4700:あやせが遠ざかっていく。[%p]"
-msgstr "4700:Ayase got further and further away.[%p]"
+msgstr "4700:あやせが遠ざかっていく。[%p]"
 
 msgid "4800:もうひとりのあやせはどうしているかと思って、恐る恐る振り返ってみたら、[%p]"
-msgstr "4800:I turned around, a little afraid to look at what the other Ayase was doing.[%p]"
+msgstr "4800:もうひとりのあやせはどうしているかと思って、恐る恐る振り返ってみたら、[%p]"
 
 msgid "4900:すでにその姿は跡形もなく消え去ってしまっていた。[%p]"
-msgstr "4900:And she was gone entirely.[%p]"
+msgstr "4900:すでにその姿は跡形もなく消え去ってしまっていた。[%p]"
 
 msgid "5000:文字通り消えたのか、それとも歩いて地下道から出ていったのか……[%p]"
-msgstr "5000:Whether she'd literally disappeared, or just walked out of the tunnel, I couldn't tell.[%p]"
+msgstr "5000:文字通り消えたのか、それとも歩いて地下道から出ていったのか……[%p]"
 
 msgid "5100:あやせは“妄想”だって言ってたけど……[%p]"
-msgstr "5100:Ayase had said she was a delusion.[%p]"
+msgstr "5100:あやせは“妄想”だって言ってたけど……[%p]"
 
 msgid "5200:あれがディソードの力……なんだろうか。[%p]"
-msgstr "5200:Was that the power of a Di-Sword?[%p]"
+msgstr "5200:あれがディソードの力……なんだろうか。[%p]"
 
 msgid "5300:地下道内に視線を戻す。[linebreak]ちょうど、５０メートルくらい奥に見えるもうひとつの階段を、あやせが上っていくところだった。[%p]"
-msgstr "5300:I looked back down the tunnel. There was another staircase 50 meters down the tunnel. Ayase was walking up it.[%p]"
+msgstr "5300:地下道内に視線を戻す。[linebreak]ちょうど、５０メートルくらい奥に見えるもうひとつの階段を、あやせが上っていくところだった。[%p]"
 
 msgid "5400:やがて、完全にその姿が見えなくなる。[linebreak]後には、地下道の薄気味悪いくらいの静けさだけが残った。[%p]"
-msgstr "5400:Before long, she was entirely gone from view. I was left alone with the silence of the eerie tunnel.[%p]"
+msgstr "5400:やがて、完全にその姿が見えなくなる。[linebreak]後には、地下道の薄気味悪いくらいの静けさだけが残った。[%p]"
 
 msgid "5500:大声を出して呼び止めるような図太さはなくて。[%p]"
-msgstr "5500:I didn't have the courage to yell at her,[%p]"
+msgstr "5500:大声を出して呼び止めるような図太さはなくて。[%p]"
 
 msgid "5600:走って追いかけるのも、疲れ切っていたし面倒くさいっていう感情が上回ってしまっていて。[%p]"
-msgstr "5600:and I was too tired and lazy to run after her.[%p]"
+msgstr "5600:走って追いかけるのも、疲れ切っていたし面倒くさいっていう感情が上回ってしまっていて。[%p]"
 
 msgid "5700:結局僕は、優愛や警察に見つからないようにオドオドしながら帰るしかなかった。[%p]"
-msgstr "5700:In the end, all I could do was go back home, and try my best to make sure Yua and the police didn't find me.[%p]"
+msgstr "5700:結局僕は、優愛や警察に見つからないようにオドオドしながら帰るしかなかった。[%p]"
 

@@ -10,128 +10,128 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:一緒に帰るって言っても、僕のベースまでは学校から１０分ほど。優愛が使っている神泉駅の方が遠いから、僕が送ってもらう、っていう形になる。[%p]"
-msgstr "0:The Base was ten minutes away from school, which was a bit farther than the train station at Shinsen Yua used to go home. So, I guess I was walking her home, instead of the other way around.[%p]"
+msgstr "0:一緒に帰るって言っても、僕のベースまでは学校から１０分ほど。優愛が使っている神泉駅の方が遠いから、僕が送ってもらう、っていう形になる。[%p]"
 
 msgid "100:ついいつものくせで、僕は松濤公園に入った。[linebreak]ここを斜めに横切ると、ほんの１分ぐらいだけどショートカットになるんだ。[%p]"
-msgstr "100:Out of sheer habit, I walked us through Shoto Park. Cutting through it diagonally shaved a minute or so off the commute.[%p]"
+msgstr "100:ついいつものくせで、僕は松濤公園に入った。[linebreak]ここを斜めに横切ると、ほんの１分ぐらいだけどショートカットになるんだ。[%p]"
 
 msgid "200:[name]優愛[line]「西條くんって、朝、よくこの公園でパンを食べてませんか？」[%p]"
-msgstr "200:[name]優愛[line]You sometimes eat breakfast here in the morning, don't you?[%p]"
+msgstr "200:[name]優愛[line]「西條くんって、朝、よくこの公園でパンを食べてませんか？」[%p]"
 
 msgid "300:[name]拓巳[line]「あ、うん……」[%p]"
-msgstr "300:[name]拓巳[line]Oh, yeah.[%p]"
+msgstr "300:[name]拓巳[line]「あ、うん……」[%p]"
 
 msgid "400:どうして知ってるんだろう？[%p]"
-msgstr "400:How did she know?[%p]"
+msgstr "400:どうして知ってるんだろう？[%p]"
 
 msgid "500:[name]優愛[line]「やっぱり。よく見かけたんです。でも、いるときといないときがあって」[%p]"
-msgstr "500:[name]優愛[line]I thought so. I saw you here a lot. But some days you were here, and some days you weren't.[%p]"
+msgstr "500:[name]優愛[line]「やっぱり。よく見かけたんです。でも、いるときといないときがあって」[%p]"
 
 msgid "600:[name]優愛[line]「今日、ようやくその謎が解けました。[linebreak]学校にたまにしか来ないからだったんですね」[%p]"
-msgstr "600:[name]優愛[line]And today, I finally figured out the reason. It's because you only come to school a few days a week, right?[%p]"
+msgstr "600:[name]優愛[line]「今日、ようやくその謎が解けました。[linebreak]学校にたまにしか来ないからだったんですね」[%p]"
 
 msgid "700:[name]拓巳[line]「…………」[%p]"
-msgstr "700:[name]拓巳[line]...[%p]"
+msgstr "700:[name]拓巳[line]「…………」[%p]"
 
 msgid "800:[name]優愛[line]「あ、別にそれがダメって言ってるわけじゃなくてですね、素朴な疑問だったので……」[%p]"
-msgstr "800:[name]優愛[line]Oh, I'm not saying that's bad or anything. I'm just saying I was curious.[%p]"
+msgstr "800:[name]優愛[line]「あ、別にそれがダメって言ってるわけじゃなくてですね、素朴な疑問だったので……」[%p]"
 
 msgid "900:[name]拓巳[line]「う、うん……」[%p]"
-msgstr "900:[name]拓巳[line]Y-Yeah...[%p]"
+msgstr "900:[name]拓巳[line]「う、うん……」[%p]"
 
 msgid "1000:優愛はふと立ち止まり、いつも僕が朝食を食べるときに腰掛けるベンチへとその視線を向けた。[linebreak]今、そこには誰も座っていない。[%p]"
-msgstr "1000:Yua suddenly stopped and looked over at the bench where I always ate breakfast. Right now, it was empty.[%p]"
+msgstr "1000:優愛はふと立ち止まり、いつも僕が朝食を食べるときに腰掛けるベンチへとその視線を向けた。[linebreak]今、そこには誰も座っていない。[%p]"
 
 msgid "1100:[name]優愛[line]「なんだかここに座っているあなたの背中は、すごく、その、辛そうに見えて……」[%p]"
-msgstr "1100:[name]優愛[line]For some reason, whenever I saw you sitting there, you looked so sad.[%p]"
+msgstr "1100:[name]優愛[line]「なんだかここに座っているあなたの背中は、すごく、その、辛そうに見えて……」[%p]"
 
 msgid "1200:優愛はわずかに腰をかがめて、ベンチの背もたれ部分を指先でそっと撫でる。[%p]"
-msgstr "1200:She suddenly leaned forward, just a little, and ran her fingers across the back of the bench.[%p]"
+msgstr "1200:優愛はわずかに腰をかがめて、ベンチの背もたれ部分を指先でそっと撫でる。[%p]"
 
 msgid "1300:[name]優愛[line]「何度も見かけるうちに、だんだん気になってきて……」[%p]"
-msgstr "1300:[name]優愛[line]The more I saw you, the more I began to wonder about you.[%p]"
+msgstr "1300:[name]優愛[line]「何度も見かけるうちに、だんだん気になってきて……」[%p]"
 
 msgid "1400:このベンチは、池の柵のすぐ前に設置してある。[linebreak]しかも池側に向かって座る形になるから、誰かの視線を気にしてビクビクする必要もない。[%p]"
-msgstr "1400:The bench was right in front of the fence surrounding the lake. Since I always sat facing the lake, I didn't need to worry about anyone gazing at me.[%p]"
+msgstr "1400:このベンチは、池の柵のすぐ前に設置してある。[linebreak]しかも池側に向かって座る形になるから、誰かの視線を気にしてビクビクする必要もない。[%p]"
 
 msgid "1500:すぐ横にある水車小屋が遮蔽物になって目立たないっていうのも、僕が気に入っている理由だ。[%p]"
-msgstr "1500:There was also a small watermill right next to it, which was another reason I liked it. It served to partially hide me.[%p]"
+msgstr "1500:すぐ横にある水車小屋が遮蔽物になって目立たないっていうのも、僕が気に入っている理由だ。[%p]"
 
 msgid "1600:[name]優愛[line]「ここ最近は、姿を見かけなかった日は心配でご飯ものどを通らなかったりしてたんです……」[%p]"
-msgstr "1600:[name]優愛[line]Lately, on the days I didn't see you, I was so worried I couldn't eat.[%p]"
+msgstr "1600:[name]優愛[line]「ここ最近は、姿を見かけなかった日は心配でご飯ものどを通らなかったりしてたんです……」[%p]"
 
 msgid "1700:そ、そうだったのか。[linebreak]見られてたなんて、全然気付かなかった。[%p]"
-msgstr "1700:R-Really? I hadn't noticed her watching me at all.[%p]"
+msgstr "1700:そ、そうだったのか。[linebreak]見られてたなんて、全然気付かなかった。[%p]"
 
 msgid "1800:[name]優愛[line]「バカみたいですよね、[linebreak]一度も話したこともない人の心配してるなんて……」[%p]"
-msgstr "1800:[name]優愛[line]It's silly, isn't it? Worrying so much about a person I'd never even talked to.[%p]"
+msgstr "1800:[name]優愛[line]「バカみたいですよね、[linebreak]一度も話したこともない人の心配してるなんて……」[%p]"
 
 msgid "1900:[name]優愛[line]「でも、話しかける勇気もなかったので……」[%p]"
-msgstr "1900:[name]優愛[line]But I didn't have the courage to talk to you.[%p]"
+msgstr "1900:[name]優愛[line]「でも、話しかける勇気もなかったので……」[%p]"
 
 msgid "2000:最初のストーカーっぽい行為も、その延長線上にあったわけだ。[linebreak]ストーカーというより、僕のことを心配して見守っていたっていうのが正しいのかもしれない。[%p]"
-msgstr "2000:So that was why she was acting like a stalker at first. She wasn't a stalker, she was just really worried about me, maybe.[%p]"
+msgstr "2000:最初のストーカーっぽい行為も、その延長線上にあったわけだ。[linebreak]ストーカーというより、僕のことを心配して見守っていたっていうのが正しいのかもしれない。[%p]"
 
 msgid "2100:[name]優愛[line]「ちょっと、座ってみてもいいですか？」[%p]"
-msgstr "2100:[name]優愛[line]Can I sit down?[%p]"
+msgstr "2100:[name]優愛[line]「ちょっと、座ってみてもいいですか？」[%p]"
 
 msgid "2200:[name]優愛[line]「西條くんがどんな景色を見ていたのか、わたしも、その、知りたいから……」[%p]"
-msgstr "2200:[name]優愛[line]I want to know what it is you were always looking at.[%p]"
+msgstr "2200:[name]優愛[line]「西條くんがどんな景色を見ていたのか、わたしも、その、知りたいから……」[%p]"
 
 msgid "2300:特に断る理由なんてなかった。[linebreak]僕は池の方を向いたままうなずきを返した。[%p]"
-msgstr "2300:I didn't really have a reason to say no. I nodded, still looking out at the lake.[%p]"
+msgstr "2300:特に断る理由なんてなかった。[linebreak]僕は池の方を向いたままうなずきを返した。[%p]"
 
 msgid "2400:持っていたカバンをベンチの上に置いてから、優愛はそっと腰掛けた。[linebreak]背筋をピンと伸ばして池を見つめる。[%p]"
-msgstr "2400:She put her bag on the bench and then quietly sat down. Then she sat upright, with good posture, looking at the lake.[%p]"
+msgstr "2400:持っていたカバンをベンチの上に置いてから、優愛はそっと腰掛けた。[linebreak]背筋をピンと伸ばして池を見つめる。[%p]"
 
 msgid "2500:とても静かで。[linebreak]とても穏やかで。[linebreak]すぐ横に優愛がいて。[%p]"
-msgstr "2500:It was so quiet, so peaceful... And she was right there with me.[%p]"
+msgstr "2500:とても静かで。[linebreak]とても穏やかで。[linebreak]すぐ横に優愛がいて。[%p]"
 
 msgid "2600:そよ風が、池に波紋を作り、彼女の髪を揺らす。[%p]"
-msgstr "2600:The soft wind made ripples on the water and gently rustled through her hair.[%p]"
+msgstr "2600:そよ風が、池に波紋を作り、彼女の髪を揺らす。[%p]"
 
 msgid "2700:これが、リア充ってことなのかな。[%p]"
-msgstr "2700:Was this what it was like to have a normal life?[%p]"
+msgstr "2700:これが、リア充ってことなのかな。[%p]"
 
 msgid "2800:こんな何気ない風景、何気ないシチュエーションなのに、涙が出そうになるのはどうしてだろう……。[%p]"
-msgstr "2800:It was just a normal day, a normal situation... so why did it feel like I was about to cry?[%p]"
+msgstr "2800:こんな何気ない風景、何気ないシチュエーションなのに、涙が出そうになるのはどうしてだろう……。[%p]"
 
 msgid "2900:[name]優愛[line]「ここで朝食を取るのって、気持ちよさそうですよね」[%p]"
-msgstr "2900:[name]優愛[line]This feels like a nice place to have breakfast.[%p]"
+msgstr "2900:[name]優愛[line]「ここで朝食を取るのって、気持ちよさそうですよね」[%p]"
 
 msgid "3000:そうつぶやく優愛の横顔を、僕は窺う。[%p]"
-msgstr "3000:I watched her from the side as she quietly spoke.[%p]"
+msgstr "3000:そうつぶやく優愛の横顔を、僕は窺う。[%p]"
 
 msgid "3100:エロゲなら、間違いなく今が告白するタイミングだ。そしてふたりは結ばれて、キスをしてグッドエンディングだ。場合によってはそのまま屋外プレイに突入……なんてね、ふひひ。[%p]"
-msgstr "3100:If we were in an H-game, this would totally be when I asked her to be my girlfriend. She'd say yes, we'd kiss, and that would be the good ending. Depending on the route, maybe we'd even engage in some naughty outdoor fun... Fweheheh.[%p]"
+msgstr "3100:エロゲなら、間違いなく今が告白するタイミングだ。そしてふたりは結ばれて、キスをしてグッドエンディングだ。場合によってはそのまま屋外プレイに突入……なんてね、ふひひ。[%p]"
 
 msgid "3200:[name]優愛[line]「わたしも、今度やってみようかな……」[%p]"
-msgstr "3200:[name]優愛[line]Maybe I'll try it too, sometime.[%p]"
+msgstr "3200:[name]優愛[line]「わたしも、今度やってみようかな……」[%p]"
 
 msgid "3300:優愛が首を巡らせて僕を見上げてきた。[linebreak]僕はなにも言い出すことができないまま、視線を落として優愛のカバンへと移す。[%p]"
-msgstr "3300:She tilted her head to look up at me. Unable to speak, I turned my gaze toward her bag.[%p]"
+msgstr "3300:優愛が首を巡らせて僕を見上げてきた。[linebreak]僕はなにも言い出すことができないまま、視線を落として優愛のカバンへと移す。[%p]"
 
 msgid "3400:そのカバンにつけられた３つの『ゲロカエルん』ストラップを見ながら、女子と目を合わせることができない自分の情けなさを呪う。[%p]"
-msgstr "3400:As I stared at the three Gero Froggy straps on it, I cursed myself for being too lame to talk to a girl.[%p]"
+msgstr "3400:そのカバンにつけられた３つの『ゲロカエルん』ストラップを見ながら、女子と目を合わせることができない自分の情けなさを呪う。[%p]"
 
 msgid "3500:[name]拓巳[line]「…………」[%p]"
-msgstr "3500:[name]拓巳[line]...[%p]"
+msgstr "3500:[name]拓巳[line]「…………」[%p]"
 
 msgid "3600:ちょっと、[%p]"
-msgstr "3600:Wait...[%p]"
+msgstr "3600:ちょっと、[%p]"
 
 msgid "3700:待て――[%p]"
-msgstr "3700:Wait a second...[%p]"
+msgstr "3700:待て――[%p]"
 
 msgid "3800:今、僕の視界に、気になるものが、映ったような――[%p]"
-msgstr "3800:Did I just see something...[%p]"
+msgstr "3800:今、僕の視界に、気になるものが、映ったような――[%p]"
 
 msgid "3900:僕が今、見ているもの――[%p]"
-msgstr "3900:What was I looking at?[%p]"
+msgstr "3900:僕が今、見ているもの――[%p]"
 
 msgid "4000:ゲロカエルん。[linebreak]女子高生の間で流行っているっていうキャラクター。[%p]"
-msgstr "4000:Gero Froggy. A character popular with high school girls.[%p]"
+msgstr "4000:ゲロカエルん。[linebreak]女子高生の間で流行っているっていうキャラクター。[%p]"
 
 msgid "4100:前にも、どこかでこれを――[linebreak]どこで――？[%p]"
-msgstr "4100:I'd seen it somewhere before. Where?[%p]"
+msgstr "4100:前にも、どこかでこれを――[linebreak]どこで――？[%p]"
 

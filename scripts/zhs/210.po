@@ -10,143 +10,143 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]野呂瀬[line]「ノアⅡに搭載されている中で最も秀でているのは、中核システムに組み込まれた、とある方程式です」[%p]"
-msgstr "0:[name]野呂瀬[line]The most sophisticated aspect of Noah II is the formula that's integrated into its central system.[%p]"
+msgstr "0:[name]野呂瀬[line]「ノアⅡに搭載されている中で最も秀でているのは、中核システムに組み込まれた、とある方程式です」[%p]"
 
 msgid "100:[name]野呂瀬[line]「これは人類史上、いまだ解答が見つかっていないとされているもの」[%p]"
-msgstr "100:[name]野呂瀬[line]This formula, it's said, has never been solved at any point in human history.[%p]"
+msgstr "100:[name]野呂瀬[line]「これは人類史上、いまだ解答が見つかっていないとされているもの」[%p]"
 
 msgid "200:[name]男Ｂ[line]「[color index="A0FF0000"]ミレニアム７[color index="800000"]のうちのひとつかね？」[%p]"
-msgstr "200:[name]男Ｂ[line]One of the [color index="A0FF0000"]Millennium Seven[color index="800000"]?[%p]"
+msgstr "200:[name]男Ｂ[line]「[color index="A0FF0000"]ミレニアム７[color index="800000"]のうちのひとつかね？」[%p]"
 
 msgid "300:[name]男Ｃ[line]「億単位の懸賞金がかけられているという、数学界で未だ未解決の、７つの問題か」[%p]"
-msgstr "300:[name]男Ｃ[line]The seven unsolved mathematics problems with million-dollar prizes being offered for their solutions?[%p]"
+msgstr "300:[name]男Ｃ[line]「億単位の懸賞金がかけられているという、数学界で未だ未解決の、７つの問題か」[%p]"
 
 msgid "400:[name]野呂瀬[line]「いいえ。その７つの中には入っていません」[%p]"
-msgstr "400:[name]野呂瀬[line]No. It's not one of the seven.[%p]"
+msgstr "400:[name]野呂瀬[line]「いいえ。その７つの中には入っていません」[%p]"
 
 msgid "500:[name]野呂瀬[line]「ですが、実はミレニアム７はもともと問題が８つあった。公開前にひとつだけ削除されたのです」[%p]"
-msgstr "500:[name]野呂瀬[line]There were, however, originally eight problems included in the Millennium series. One was removed before the prize was announced.[%p]"
+msgstr "500:[name]野呂瀬[line]「ですが、実はミレニアム７はもともと問題が８つあった。公開前にひとつだけ削除されたのです」[%p]"
 
 msgid "600:[name]男Ｃ[line]「それが、ノアⅡに組み込まれている方程式だと？」[%p]"
-msgstr "600:[name]男Ｃ[line]And that's the one Noah II incorporates into its system?[%p]"
+msgstr "600:[name]男Ｃ[line]「それが、ノアⅡに組み込まれている方程式だと？」[%p]"
 
 msgid "700:[name]男Ｂ[line]「削除された理由は？」[%p]"
-msgstr "700:[name]男Ｂ[line]Why was it removed?[%p]"
+msgstr "700:[name]男Ｂ[line]「削除された理由は？」[%p]"
 
 msgid "800:[name]野呂瀬[line]「世界に災厄を撒き散らす可能性があるため、というところです」[%p]"
-msgstr "800:[name]野呂瀬[line]Because it had the potential to spread misery and disaster throughout the world.[%p]"
+msgstr "800:[name]野呂瀬[line]「世界に災厄を撒き散らす可能性があるため、というところです」[%p]"
 
 msgid "900:[name]男Ｃ[line]「いったいどのような数式なのだ」[%p]"
-msgstr "900:[name]男Ｃ[line]What kind of formula can do something like that?[%p]"
+msgstr "900:[name]男Ｃ[line]「いったいどのような数式なのだ」[%p]"
 
 msgid "1000:[name]野呂瀬[line]「『[color index="A0FF0000"]基本相互作用[color index="800000"]』における電磁気力を想定した共鳴現象。それを現す計算式です」[%p]"
-msgstr "1000:[name]野呂瀬[line]The formula describes a type of resonance phenomenon that occurs during the [color index="A0FF0000"]fundamental interactions[color index="800000"] of electromagnetic forces.[%p]"
+msgstr "1000:[name]野呂瀬[line]「『[color index="A0FF0000"]基本相互作用[color index="800000"]』における電磁気力を想定した共鳴現象。それを現す計算式です」[%p]"
 
 msgid "1100:[name]野呂瀬[line]「これにより、特定の電磁パルスと受容体とが近接作用することで発現する、未知の力が解明されました」[%p]"
-msgstr "1100:[name]野呂瀬[line]It revealed the existence of an unknown power that manifests during proximate action between a specific electromagnetic pulse and a receiver.[%p]"
+msgstr "1100:[name]野呂瀬[line]「これにより、特定の電磁パルスと受容体とが近接作用することで発現する、未知の力が解明されました」[%p]"
 
 msgid "1200:[name]野呂瀬[line]「各国が３０年以上かけて開発し積み上げてきた『沈黙の兵器』の研究成果を、一瞬にして過去のものとしてしまったんですよ」[%p]"
-msgstr "1200:[name]野呂瀬[line]The research into “silent weapons” that every nation in the world built up over the course of three decades was instantly rendered obsolete.[%p]"
+msgstr "1200:[name]野呂瀬[line]「各国が３０年以上かけて開発し積み上げてきた『沈黙の兵器』の研究成果を、一瞬にして過去のものとしてしまったんですよ」[%p]"
 
 msgid "1300:[name]男Ｃ[line]「その問題に解答を見つけた者は、神になるに等しいというわけだ」[%p]"
-msgstr "1300:[name]男Ｃ[line]Finding the solution to the problem would make one equal to God.[%p]"
+msgstr "1300:[name]男Ｃ[line]「その問題に解答を見つけた者は、神になるに等しいというわけだ」[%p]"
 
 msgid "1400:[name]男Ｂ[line]「それを、キミが果たしたというわけかね」[%p]"
-msgstr "1400:[name]男Ｂ[line]And you've solved it.[%p]"
+msgstr "1400:[name]男Ｂ[line]「それを、キミが果たしたというわけかね」[%p]"
 
 msgid "1500:[name]野呂瀬[line]「それはとても不思議な場所から見つかりました。子供の落書きという、ね」[%p]"
-msgstr "1500:[name]野呂瀬[line]It was found in a very, very strange place. In a child's scribblings.[%p]"
+msgstr "1500:[name]野呂瀬[line]「それはとても不思議な場所から見つかりました。子供の落書きという、ね」[%p]"
 
 msgid "1600:[name]野呂瀬[line]「Ｉｒ２」[%p]"
-msgstr "1600:[name]野呂瀬[line]Ir2.[%p]"
+msgstr "1600:[name]野呂瀬[line]「Ｉｒ２」[%p]"
 
 msgid "1700:[name]野呂瀬[line]「ノアⅡの、いわゆるハードウェア部分は、この公式によって神に匹敵する能力を手に入れました」[%p]"
-msgstr "1700:[name]野呂瀬[line]The so-called hardware aspect of Noah II derives its godlike powers from this formula.[%p]"
+msgstr "1700:[name]野呂瀬[line]「ノアⅡの、いわゆるハードウェア部分は、この公式によって神に匹敵する能力を手に入れました」[%p]"
 
 msgid "1800:[name]野呂瀬[line]「後は、ソフトウェア部分に相当する、ギガロマニアックスのＣＯＤＥサンプルを集めれば」[%p]"
-msgstr "1800:[name]野呂瀬[line]All that's necessary now is to get the code samples from the Gigalomaniacs that form the software aspect.[%p]"
+msgstr "1800:[name]野呂瀬[line]「後は、ソフトウェア部分に相当する、ギガロマニアックスのＣＯＤＥサンプルを集めれば」[%p]"
 
 msgid "1900:[name]野呂瀬[line]「ノアⅡは本格的に稼働し、我々の望むものすべてを実現してくれるでしょう」[%p]"
-msgstr "1900:[name]野呂瀬[line]Then Noah II will begin full operation, and give us everything we want.[%p]"
+msgstr "1900:[name]野呂瀬[line]「ノアⅡは本格的に稼働し、我々の望むものすべてを実現してくれるでしょう」[%p]"
 
 msgid "2000:[name]男Ｂ[line]「かのアインシュタインが現代に生きていれば、と思うよ。彼は高い能力を持つギガロマニアックスだったと聞く」[%p]"
-msgstr "2000:[name]男Ｂ[line]Sometimes I wish Einstein was still alive. I hear he was a powerful Gigalomaniac.[%p]"
+msgstr "2000:[name]男Ｂ[line]「かのアインシュタインが現代に生きていれば、と思うよ。彼は高い能力を持つギガロマニアックスだったと聞く」[%p]"
 
 msgid "2100:[name]男Ｃ[line]「仮定の話よりも、現状がどうなっているかだ」[%p]"
-msgstr "2100:[name]男Ｃ[line]I'm more interested in reality than hypotheticals.[%p]"
+msgstr "2100:[name]男Ｃ[line]「仮定の話よりも、現状がどうなっているかだ」[%p]"
 
 msgid "2200:[name]男Ｃ[line]「ギガロマニアックスは世界中に数えるほどしかいないと言うではないか。大丈夫なのか！？」[%p]"
-msgstr "2200:[name]男Ｃ[line]They say there are only a few Gigalomaniacs in the entire world. Can we find enough?[%p]"
+msgstr "2200:[name]男Ｃ[line]「ギガロマニアックスは世界中に数えるほどしかいないと言うではないか。大丈夫なのか！？」[%p]"
 
 msgid "2300:[name]野呂瀬[line]「すでに５人分のサンプルは確保しました」[%p]"
-msgstr "2300:[name]野呂瀬[line]We have five samples already.[%p]"
+msgstr "2300:[name]野呂瀬[line]「すでに５人分のサンプルは確保しました」[%p]"
 
 msgid "2400:[name]男Ｂ[line]「ノアⅡ稼働にじゅうぶんな数は集まったようだね」[%p]"
-msgstr "2400:[name]男Ｂ[line]You have enough to activate Noah II, then.[%p]"
+msgstr "2400:[name]男Ｂ[line]「ノアⅡ稼働にじゅうぶんな数は集まったようだね」[%p]"
 
 msgid "2500:[name]男Ｃ[line]「ならば結構」[%p]"
-msgstr "2500:[name]男Ｃ[line]Good.[%p]"
+msgstr "2500:[name]男Ｃ[line]「ならば結構」[%p]"
 
 msgid "2600:[name]野呂瀬[line]「ただ、サンプルが多ければ多いほど、ノアⅡの能力は向上します」[%p]"
-msgstr "2600:[name]野呂瀬[line]But the more samples we have, the more powerful it becomes.[%p]"
+msgstr "2600:[name]野呂瀬[line]「ただ、サンプルが多ければ多いほど、ノアⅡの能力は向上します」[%p]"
 
 msgid "2700:[name]野呂瀬[line]「特に……どうしてもサンプルを採取したいギガロマニアックスの少年が、ひとりいましてね」[%p]"
-msgstr "2700:[name]野呂瀬[line]And there's one boy Gigalomaniac who is particularly interesting, you see.[%p]"
+msgstr "2700:[name]野呂瀬[line]「特に……どうしてもサンプルを採取したいギガロマニアックスの少年が、ひとりいましてね」[%p]"
 
 msgid "2800:[name]男Ｃ[line]「だからと言って計画の遅延は許されんぞ」[%p]"
-msgstr "2800:[name]男Ｃ[line]That's not a good enough reason to delay the plan![%p]"
+msgstr "2800:[name]男Ｃ[line]「だからと言って計画の遅延は許されんぞ」[%p]"
 
 msgid "2900:[name]男Ｂ[line]「ノアⅡの本格稼働はいつ頃になりそうなのかね？」[%p]"
-msgstr "2900:[name]男Ｂ[line]When will full operation of Noah II begin?[%p]"
+msgstr "2900:[name]男Ｂ[line]「ノアⅡの本格稼働はいつ頃になりそうなのかね？」[%p]"
 
 msgid "3000:[name]野呂瀬[line]「稼働前に、最終実験として」[%p]"
-msgstr "3000:[name]野呂瀬[line]As a final test before activation,[%p]"
+msgstr "3000:[name]野呂瀬[line]「稼働前に、最終実験として」[%p]"
 
 msgid "3100:[name]野呂瀬[line]「サードメルトを行います」[%p]"
-msgstr "3100:[name]野呂瀬[line]I'm going to initiate a Third Melt.[%p]"
+msgstr "3100:[name]野呂瀬[line]「サードメルトを行います」[%p]"
 
 msgid "3200:[name]男Ｂ[line]「また地震を起こそうと？」[%p]"
-msgstr "3200:[name]男Ｂ[line]Another earthquake?[%p]"
+msgstr "3200:[name]男Ｂ[line]「また地震を起こそうと？」[%p]"
 
 msgid "3300:[name]男Ｃ[line]「予測規模は？」[%p]"
-msgstr "3300:[name]男Ｃ[line]How big are we talking?[%p]"
+msgstr "3300:[name]男Ｃ[line]「予測規模は？」[%p]"
 
 msgid "3400:[name]野呂瀬[line]「想定では関東大震災と同レベル」[%p]"
-msgstr "3400:[name]野呂瀬[line]Equal in size to the Great Kanto Earthquake.[%p]"
+msgstr "3400:[name]野呂瀬[line]「想定では関東大震災と同レベル」[%p]"
 
 msgid "3500:[name]男Ｃ[line]「関東大震災クラスだと！？」[%p]"
-msgstr "3500:[name]男Ｃ[line]The Great Kanto Earthquake?![%p]"
+msgstr "3500:[name]男Ｃ[line]「関東大震災クラスだと！？」[%p]"
 
 msgid "3600:[name]男Ｂ[line]「マグニチュード７．９、だったかな？」[%p]"
-msgstr "3600:[name]男Ｂ[line]That was, I believe, magnitude 7.9?[%p]"
+msgstr "3600:[name]男Ｂ[line]「マグニチュード７．９、だったかな？」[%p]"
 
 msgid "3700:[name]野呂瀬[line]「現在の建築基準と免震対策レベルを考えれば、街にかつてほどの大きな損害を及ぼすことはないでしょう」[%p]"
-msgstr "3700:[name]野呂瀬[line]Building codes and seismic isolation technology have come a long way since then. It won't cause the same level of damage.[%p]"
+msgstr "3700:[name]野呂瀬[line]「現在の建築基準と免震対策レベルを考えれば、街にかつてほどの大きな損害を及ぼすことはないでしょう」[%p]"
 
 msgid "3800:[name]男Ｂ[line]「だが犠牲者の数はファースト、セカンドの比ではなかろう？」[%p]"
-msgstr "3800:[name]男Ｂ[line]But the number of casualties will be vastly greater than the First or Second Melts, right?[%p]"
+msgstr "3800:[name]男Ｂ[line]「だが犠牲者の数はファースト、セカンドの比ではなかろう？」[%p]"
 
 msgid "3900:[name]野呂瀬[line]「およそ５０００人ほどといったところです」[%p]"
-msgstr "3900:[name]野呂瀬[line]I'm estimating it at around five thousand.[%p]"
+msgstr "3900:[name]野呂瀬[line]「およそ５０００人ほどといったところです」[%p]"
 
 msgid "4000:[name]野呂瀬[line]「少なく見積もって……ですが。問題が？」[%p]"
-msgstr "4000:[name]野呂瀬[line]At a minimum, that is. Is that a problem?[%p]"
+msgstr "4000:[name]野呂瀬[line]「少なく見積もって……ですが。問題が？」[%p]"
 
 msgid "4100:[name]男Ｃ[line]「責任は貴様が取るのだろうな」[%p]"
-msgstr "4100:[name]男Ｃ[line]You'll take responsibility for this, right?[%p]"
+msgstr "4100:[name]男Ｃ[line]「責任は貴様が取るのだろうな」[%p]"
 
 msgid "4200:[name]野呂瀬[line]「腹でも切って死んで見せますか？」[%p]"
-msgstr "4200:[name]野呂瀬[line]Do you want me to commit seppuku right in front of you?[%p]"
+msgstr "4200:[name]野呂瀬[line]「腹でも切って死んで見せますか？」[%p]"
 
 msgid "4300:[name]男Ｃ[line]「…………」[%p]"
-msgstr "4300:[name]男Ｃ[line]...[%p]"
+msgstr "4300:[name]男Ｃ[line]「…………」[%p]"
 
 msgid "4400:[name]野呂瀬[line]「これが最終実験です」[%p]"
-msgstr "4400:[name]野呂瀬[line]This will be our final experiment.[%p]"
+msgstr "4400:[name]野呂瀬[line]「これが最終実験です」[%p]"
 
 msgid "4500:[name]野呂瀬[line]「サードメルトが予定通りの成果を上げたとき、ノアⅡは完全なる完成を見る」[%p]"
-msgstr "4500:[name]野呂瀬[line]When the Third Melt performs as expected, it will be fully complete.[%p]"
+msgstr "4500:[name]野呂瀬[line]「サードメルトが予定通りの成果を上げたとき、ノアⅡは完全なる完成を見る」[%p]"
 
 msgid "4600:[name]野呂瀬[line]「世界の可能性は我らの手の中に」[%p]"
-msgstr "4600:[name]野呂瀬[line]And all the world's possibilities will be ours.[%p]"
+msgstr "4600:[name]野呂瀬[line]「世界の可能性は我らの手の中に」[%p]"
 

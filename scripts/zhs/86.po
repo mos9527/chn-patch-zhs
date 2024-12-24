@@ -10,80 +10,80 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]拓巳[line]「うは、覚醒バージョンのコス、エロすぎ。パンもろじゃんか。ふひひ、だがそれがいい」[%p]"
-msgstr "0:[name]拓巳[line]Uwah, the post-awakening costume is so hot. You can totally see her panties. Fweheheh. I like that, though.[%p]"
+msgstr "0:[name]拓巳[line]「うは、覚醒バージョンのコス、エロすぎ。パンもろじゃんか。ふひひ、だがそれがいい」[%p]"
 
 msgid "100:[name]拓巳[line]「ふひひ。顔かわいいよ顔、原作再現度はいまいちだけど、ぷんぷんと漂うエロスがキジマヨシオらしさだよな。これはこれで[color index="A0FF0000"]ＧＪ[color index="800000"]」[%p]"
-msgstr "100:[name]拓巳[line]Fweheheh. Her face is so cute... it's not quite like in the anime, but it's every bit as sexy as you'd expect from Yoshio Kijima. [color index="A0FF0000"]GJ[color index="800000"], man.[%p]"
+msgstr "100:[name]拓巳[line]「ふひひ。顔かわいいよ顔、原作再現度はいまいちだけど、ぷんぷんと漂うエロスがキジマヨシオらしさだよな。これはこれで[color index="A0FF0000"]ＧＪ[color index="800000"]」[%p]"
 
 msgid "200:[name]拓巳[line]「上着キャストオフとか！\u3000この角度からじゃほとんど全裸にしか見えん！\u3000ひょーほぅ！」[%p]"
-msgstr "200:[name]拓巳[line]Oh, wow, her jacket can cast off, too. From this angle, she looks practically naked! Yahoo![%p]"
+msgstr "200:[name]拓巳[line]「上着キャストオフとか！\u3000この角度からじゃほとんど全裸にしか見えん！\u3000ひょーほぅ！」[%p]"
 
 msgid "300:[name]拓巳[line]「髪の動きがいいよなー。覚醒バージョンは髪が命って持論があるわけだが間違ってなかったな」[%p]"
-msgstr "300:[name]拓巳[line]The way her hair seems like it's moving is great. The hair is what really makes the Post-Awakening version special, I always thought. And I was right![%p]"
+msgstr "300:[name]拓巳[line]「髪の動きがいいよなー。覚醒バージョンは髪が命って持論があるわけだが間違ってなかったな」[%p]"
 
 msgid "400:[name]拓巳[line]「さーて、それではお待ちかね、パンツ行ってみようかー。[linebreak]どれどれ……」[%p]"
-msgstr "400:[name]拓巳[line]Now, it's finally time for the panties. Let me see![%p]"
+msgstr "400:[name]拓巳[line]「さーて、それではお待ちかね、パンツ行ってみようかー。[linebreak]どれどれ……」[%p]"
 
 msgid "500:[name]拓巳[line]「ふむふむ、Ｖゾーンの作り込みいいよー。シワの付き方リアルだし……って、お、おおー、こ、これ……ス、スージーさん……？\u3000すげっ、ふひひ、マジでスゲーッ！\u3000クオリティ[color index="A0FF0000"]高杉[color index="800000"]！」[%p]"
-msgstr "500:[name]拓巳[line]Hmm, they obviously put a lot of effort into designing the V-zone. The way it wrinkles is very realistic. Oh, is this... a crease?! Wow! Fweheheh. This is awesome! Truly, [color index="A0FF0000"]Takasugi[color index="800000"] quality![%p]"
+msgstr "500:[name]拓巳[line]「ふむふむ、Ｖゾーンの作り込みいいよー。シワの付き方リアルだし……って、お、おおー、こ、これ……ス、スージーさん……？\u3000すげっ、ふひひ、マジでスゲーッ！\u3000クオリティ[color index="A0FF0000"]高杉[color index="800000"]！」[%p]"
 
 msgid "600:[name]拓巳[line]「これ星来たん５作目にして早くも最高傑作爆誕じゃね？\u3000これ以上すごいのなんて出せないってマジで。やっぱキジマは神！」[%p]"
-msgstr "600:[name]拓巳[line]I think the fifth Seira figure might turn out to be the greatest of them all! I don't think they could make a better one, really. Kijima's a true master![%p]"
+msgstr "600:[name]拓巳[line]「これ星来たん５作目にして早くも最高傑作爆誕じゃね？\u3000これ以上すごいのなんて出せないってマジで。やっぱキジマは神！」[%p]"
 
 msgid "700:新しい星来たんを慎重にＰＣモニタの横に立たせる。[linebreak]ふひひ、星来エロいよ星来。[%p]"
-msgstr "700:I carefully placed my new Seira-tan next to the PC monitor. Fweheheh. Seira, Seira, you're so sexy.[%p]"
+msgstr "700:新しい星来たんを慎重にＰＣモニタの横に立たせる。[linebreak]ふひひ、星来エロいよ星来。[%p]"
 
 msgid "800:眺めているだけでニヤニヤ笑いが止まらない。まさに至福のとき。[%p]"
-msgstr "800:Just looking at her made me grin. This was a moment of pure joy.[%p]"
+msgstr "800:眺めているだけでニヤニヤ笑いが止まらない。まさに至福のとき。[%p]"
 
 msgid "900:さっそく星来たんフィギュアの感想を＠ちゃんのフィギュアスレに書き込んでみる。[%p]"
-msgstr "900:I logged on to @chan to share my thoughts on the Seira-tan figure.[%p]"
+msgstr "900:さっそく星来たんフィギュアの感想を＠ちゃんのフィギュアスレに書き込んでみる。[%p]"
 
 msgid "1000:それが終わったら、メールチェックやフレパラでフレンドの更新があるかどうか確認。[%p]"
-msgstr "1000:When that was done, I checked my email and looked at FrePara to see if I had any new friend requests.[%p]"
+msgstr "1000:それが終わったら、メールチェックやフレパラでフレンドの更新があるかどうか確認。[%p]"
 
 msgid "1100:[name]拓巳[line]「おっと、マイフレ申請来てるじゃん」[%p]"
-msgstr "1100:[name]拓巳[line]Oh, somebody sent a friend request.[%p]"
+msgstr "1100:[name]拓巳[line]「おっと、マイフレ申請来てるじゃん」[%p]"
 
 msgid "1200:[name]拓巳[line]「誰これ」[%p]"
-msgstr "1200:[name]拓巳[line]Who's this guy?[%p]"
+msgstr "1200:[name]拓巳[line]「誰これ」[%p]"
 
 msgid "1300:[name]拓巳[line]「星来コミュの人か」[%p]"
-msgstr "1300:[name]拓巳[line]Somebody from the Seira Community.[%p]"
+msgstr "1300:[name]拓巳[line]「星来コミュの人か」[%p]"
 
 msgid "1400:[name]拓巳[line]「ハイハイ、ＯＫですよ」[%p]"
-msgstr "1400:[name]拓巳[line]Okay, got it. Sure thing.[%p]"
+msgstr "1400:[name]拓巳[line]「ハイハイ、ＯＫですよ」[%p]"
 
 msgid "1500:さてそろそろエンスーを始めようかな、と思った矢先、[%p]"
-msgstr "1500:And just when I was ready to log into ESO...[%p]"
+msgstr "1500:さてそろそろエンスーを始めようかな、と思った矢先、[%p]"
 
 msgid "1600:首筋にチリチリとした感覚を感じた。[%p]"
-msgstr "1600:I felt a prickling on the back of my neck.[%p]"
+msgstr "1600:首筋にチリチリとした感覚を感じた。[%p]"
 
 msgid "1700:いつもの、強烈な気配を放ってくる“視線”だ。[%p]"
-msgstr "1700:It was the same intense gaze that I always felt.[%p]"
+msgstr "1700:いつもの、強烈な気配を放ってくる“視線”だ。[%p]"
 
 msgid "1800:[margin top="266"][center]――その目だれの目？[unk19 index="30"]"
-msgstr "1800:[margin top="266"][center]Whose eyes are those?[unk19 index="30"]"
+msgstr "1800:[margin top="266"][center]――その目だれの目？[unk19 index="30"]"
 
 msgid "1900:くそ、ウザい……。[%p]"
-msgstr "1900:Damn it... Not now.[%p]"
+msgstr "1900:くそ、ウザい……。[%p]"
 
 msgid "2000:この“視線”を感じるようになったのはいつ頃だろう。[linebreak]もうすっかり忘れちゃったよ。[%p]"
-msgstr "2000:When did I first start feeling that gaze? I'd totally forgotten by now.[%p]"
+msgstr "2000:この“視線”を感じるようになったのはいつ頃だろう。[linebreak]もうすっかり忘れちゃったよ。[%p]"
 
 msgid "2100:いちいち僕を邪魔しやがって。僕の平穏な日常をかき乱す要素はたくさんあるけど、この“視線”は七海と双璧を為す鬱陶しさだ。[%p]"
-msgstr "2100:But it kept getting in my way. A lot of things were happening that would interrupt my daily life. But the “gaze” was right up there with Nanami for being obnoxious.[%p]"
+msgstr "2100:いちいち僕を邪魔しやがって。僕の平穏な日常をかき乱す要素はたくさんあるけど、この“視線”は七海と双璧を為す鬱陶しさだ。[%p]"
 
 msgid "2200:よし、またアレをやるか……。[linebreak]“ちょっとやそっとじゃ振り向かないぞゲーム”。[%p]"
-msgstr "2200:Okay, time to play the game again. Time to play the “I'm Not Turning Around That Easily” game.[%p]"
+msgstr "2200:よし、またアレをやるか……。[linebreak]“ちょっとやそっとじゃ振り向かないぞゲーム”。[%p]"
 
 msgid "2300:僕はＰＣモニタを凝視したまま、マンガっぽいセリフを考えてみた。[%p]"
-msgstr "2300:I kept my eyes locked on my computer monitor and tried to think of a cool line.[%p]"
+msgstr "2300:僕はＰＣモニタを凝視したまま、マンガっぽいセリフを考えてみた。[%p]"
 
 msgid "2400:[name]拓巳[line]「キサマ……出てこい」[%p]"
-msgstr "2400:[name]拓巳[line]“You there... Come out.”[%p]"
+msgstr "2400:[name]拓巳[line]「キサマ……出てこい」[%p]"
 
 msgid "2500:[name]拓巳[line]「僕の目をごまかせるとでも思ったか。甘いな」[%p]"
-msgstr "2500:[name]拓巳[line]“Did you think you could deceive my eyes? Fool!”[%p]"
+msgstr "2500:[name]拓巳[line]「僕の目をごまかせるとでも思ったか。甘いな」[%p]"
 

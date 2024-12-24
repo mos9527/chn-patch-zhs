@@ -10,215 +10,215 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:僕がそう思ったのと同時に、世界は錆で覆われた。[%p]"
-msgstr "0:The second I had that thought, rust covered the world.[%p]"
+msgstr "0:僕がそう思ったのと同時に、世界は錆で覆われた。[%p]"
 
 msgid "100:あやせの胸から、黒い靄が蛇のように鎌首をもたげている。[%p]"
-msgstr "100:I could see the black mist coiled like a snake about to strike, one end coming out of her chest.[%p]"
+msgstr "100:あやせの胸から、黒い靄が蛇のように鎌首をもたげている。[%p]"
 
 msgid "200:見るだけで強い不快感を感じる。心が圧迫されて、目をそらしたくなる。[%p]"
-msgstr "200:Just looking at it made me feel terrible. I wanted to look away.[%p]"
+msgstr "200:見るだけで強い不快感を感じる。心が圧迫されて、目をそらしたくなる。[%p]"
 
 msgid "300:ここで目をそらしたら、結局今までと変わらない。[linebreak]だから、頑張らなくちゃ、と思うんだけど……。[%p]"
-msgstr "300:But if I did, nothing would change. I had to try...[%p]"
+msgstr "300:ここで目をそらしたら、結局今までと変わらない。[linebreak]だから、頑張らなくちゃ、と思うんだけど……。[%p]"
 
 msgid "400:耐えられなかった。[linebreak]胸が押し潰されるような感覚を覚えて。[linebreak]頭痛も激しくなってきている。[%p]"
-msgstr "400:But I couldn't. My heart felt like it was being crushed in my chest. The headache was getting worse.[%p]"
+msgstr "400:耐えられなかった。[linebreak]胸が押し潰されるような感覚を覚えて。[linebreak]頭痛も激しくなってきている。[%p]"
 
 msgid "500:無理だ、やっぱり無理だった……。[linebreak]誰かを助けようなんて、僕はそんな器じゃないんだ……。[%p]"
-msgstr "500:I can't do it... I can't... I'm not the kind of person who could save somebody else.[%p]"
+msgstr "500:無理だ、やっぱり無理だった……。[linebreak]誰かを助けようなんて、僕はそんな器じゃないんだ……。[%p]"
 
 msgid "600:[name]あやせ[line]「拓巳……」[%p]"
-msgstr "600:[name]あやせ[line]Takumi...[%p]"
+msgstr "600:[name]あやせ[line]「拓巳……」[%p]"
 
 msgid "700:あやせの呼びかけに、僕は顔を上げた。[linebreak]彼女の手が、僕へと差し出される。[linebreak]潤んだ瞳が、僕をまっすぐに捉えている。[%p]"
-msgstr "700:I looked up when she called my name. She was offering me her hand. Wet eyes stared straight at me.[%p]"
+msgstr "700:あやせの呼びかけに、僕は顔を上げた。[linebreak]彼女の手が、僕へと差し出される。[linebreak]潤んだ瞳が、僕をまっすぐに捉えている。[%p]"
 
 msgid "800:[name]あやせ[line]「来て……」[%p]"
-msgstr "800:[name]あやせ[line]Come...[%p]"
+msgstr "800:[name]あやせ[line]「来て……」[%p]"
 
 msgid "900:[name]あやせ[line]「私を、好きにして……」[%p]"
-msgstr "900:[name]あやせ[line]Do what you want with me.[%p]"
+msgstr "900:[name]あやせ[line]「私を、好きにして……」[%p]"
 
 msgid "1000:完璧なる信頼。[linebreak]あるいは、依存？[%p]"
-msgstr "1000:Complete trust. Or maybe just dependency?[%p]"
+msgstr "1000:完璧なる信頼。[linebreak]あるいは、依存？[%p]"
 
 msgid "1100:だけど、これまで人から頼りにされたことなんてなかった。[linebreak]心が萎えそうになっていたけど、あやせの声でかろうじて踏みとどまる。[%p]"
-msgstr "1100:But nobody had ever relied on me like this before. My heart was starting to lose hope, but with the help of Ayase's voice, I managed to keep from giving up.[%p]"
+msgstr "1100:だけど、これまで人から頼りにされたことなんてなかった。[linebreak]心が萎えそうになっていたけど、あやせの声でかろうじて踏みとどまる。[%p]"
 
 msgid "1200:唇を噛み、僕は一歩、あやせへ踏み出す。[%p]"
-msgstr "1200:I bit my lip and took a step toward her.[%p]"
+msgstr "1200:唇を噛み、僕は一歩、あやせへ踏み出す。[%p]"
 
 msgid "1300:あやせの黒い靄が、獲物を見つけたかのように僕へと伸びてきて、首に巻き付いてきた。[%p]"
-msgstr "1300:Her black snake stretched out to me like it had found new prey, and wrapped around my neck.[%p]"
+msgstr "1300:あやせの黒い靄が、獲物を見つけたかのように僕へと伸びてきて、首に巻き付いてきた。[%p]"
 
 msgid "1400:その靄は、熱いと錯覚してしまうほど冷たくて。[linebreak]緩やかな力で、心地よく、首を絞めてくる。[%p]"
-msgstr "1400:It was so freezing cold that it actually felt hot. It wrapped around my neck with a gentle, almost pleasant force.[%p]"
+msgstr "1400:その靄は、熱いと錯覚してしまうほど冷たくて。[linebreak]緩やかな力で、心地よく、首を絞めてくる。[%p]"
 
 msgid "1500:あやせが僕の方へ寄りかかってきた。[linebreak]身体の力を抜き、ぐったりとしてしまう。[linebreak]僕は、あやせの全体重を支えなくちゃいけなかった。[%p]"
-msgstr "1500:Ayase fell toward me. All the strength had left her body. I had to support her from falling.[%p]"
+msgstr "1500:あやせが僕の方へ寄りかかってきた。[linebreak]身体の力を抜き、ぐったりとしてしまう。[linebreak]僕は、あやせの全体重を支えなくちゃいけなかった。[%p]"
 
 msgid "1600:[name]あやせ[line]「拓巳……」[%p]"
-msgstr "1600:[name]あやせ[line]Takumi...[%p]"
+msgstr "1600:[name]あやせ[line]「拓巳……」[%p]"
 
 msgid "1700:僕は、彼女の細い腰を抱く。[%p]"
-msgstr "1700:I put my hands around her thin waist.[%p]"
+msgstr "1700:僕は、彼女の細い腰を抱く。[%p]"
 
 msgid "1800:[name]拓巳[line]「ほ、ホントに……いいの……？」[%p]"
-msgstr "1800:[name]拓巳[line]Y-You're really sure?[%p]"
+msgstr "1800:[name]拓巳[line]「ほ、ホントに……いいの……？」[%p]"
 
 msgid "1900:[name]あやせ[line]「……いいわ」[%p]"
-msgstr "1900:[name]あやせ[line]Go ahead.[%p]"
+msgstr "1900:[name]あやせ[line]「……いいわ」[%p]"
 
 msgid "2000:ゴクリと、僕は息を呑んで。[linebreak]あやせの胸から溢れ出している黒い靄へ、手を伸ばした。[%p]"
-msgstr "2000:I gulped loudly... And then I reached my hand out toward the black snake coming from her chest.[%p]"
+msgstr "2000:ゴクリと、僕は息を呑んで。[linebreak]あやせの胸から溢れ出している黒い靄へ、手を伸ばした。[%p]"
 
 msgid "2100:刹那、靄は実体を持った黒いヒルへと姿を変える。[linebreak]おぞましさに拍車がかかる。[%p]"
-msgstr "2100:In an instant, the mist took physical form, and became a black leech. The feeling of disgust got even worse.[%p]"
+msgstr "2100:刹那、靄は実体を持った黒いヒルへと姿を変える。[linebreak]おぞましさに拍車がかかる。[%p]"
 
 msgid "2200:あやせのありのままの邪心。[linebreak]あやせが最も人に見せたくない、醜い部分。[linebreak]その塊だ。[%p]"
-msgstr "2200:Ayase's wicked heart, in its purest form. The ugliest parts of her, the ones she didn't want to show anybody. That's what this was.[%p]"
+msgstr "2200:あやせのありのままの邪心。[linebreak]あやせが最も人に見せたくない、醜い部分。[linebreak]その塊だ。[%p]"
 
 msgid "2300:ヒルの身体をつかんだ。[linebreak]ぬるぬるとしていて、しかも痛みすら感じるほどの冷たさ。[%p]"
-msgstr "2300:I grabbed the leech's body. It was slippery, and so cold it was physically painful.[%p]"
+msgstr "2300:ヒルの身体をつかんだ。[linebreak]ぬるぬるとしていて、しかも痛みすら感じるほどの冷たさ。[%p]"
 
 msgid "2400:今すぐ手を離したかったのを、必死で歯を食いしばり、耐えた。[%p]"
-msgstr "2400:I wanted to let go of it immediately, but I didn't.[%p]"
+msgstr "2400:今すぐ手を離したかったのを、必死で歯を食いしばり、耐えた。[%p]"
 
 msgid "2500:[name]あやせ[line]「はぁ……あ……ん……っ」[%p]"
-msgstr "2500:[name]あやせ[line]Hahhhh....Nnh...![%p]"
+msgstr "2500:[name]あやせ[line]「はぁ……あ……ん……っ」[%p]"
 
 msgid "2600:あやせは、恍惚と苦痛のない交ぜになった表情を浮かべ、苦しげにうめく。[%p]"
-msgstr "2600:Ayase was moaning with a look on her face somewhere between ecstasy and pain.[%p]"
+msgstr "2600:あやせは、恍惚と苦痛のない交ぜになった表情を浮かべ、苦しげにうめく。[%p]"
 
 msgid "2700:[name]あやせ[line]「ひっ……ぱって……」[%p]"
-msgstr "2700:[name]あやせ[line]Pull... it...[%p]"
+msgstr "2700:[name]あやせ[line]「ひっ……ぱって……」[%p]"
 
 msgid "2800:[name]あやせ[line]「抜いて……っ」[%p]"
-msgstr "2800:[name]あやせ[line]Take it out...[%p]"
+msgstr "2800:[name]あやせ[line]「抜いて……っ」[%p]"
 
 msgid "2900:思い切り引っ張ってみる。[linebreak]ズルズルと肉がちぎれるような感触が手から伝わってくる。[%p]"
-msgstr "2900:I pulled as hard as I could. I could feel what felt like tearing flesh.[%p]"
+msgstr "2900:思い切り引っ張ってみる。[linebreak]ズルズルと肉がちぎれるような感触が手から伝わってくる。[%p]"
 
 msgid "3000:[name]あやせ[line]「くぅ……あ……ああぁっ……！」[%p]"
-msgstr "3000:[name]あやせ[line]Tch... Ahh... Aaahh![%p]"
+msgstr "3000:[name]あやせ[line]「くぅ……あ……ああぁっ……！」[%p]"
 
 msgid "3100:黒い液体が、あやせの胸から飛び散った。[linebreak]僕の手や顔にかかる。[%p]"
-msgstr "3100:Black liquid poured out of from her heart. It got all over my hands and face.[%p]"
+msgstr "3100:黒い液体が、あやせの胸から飛び散った。[linebreak]僕の手や顔にかかる。[%p]"
 
 msgid "3200:血なのか、それ以外のなにかなのかは分からない。[%p]"
-msgstr "3200:I couldn't tell if it was blood or something else.[%p]"
+msgstr "3200:血なのか、それ以外のなにかなのかは分からない。[%p]"
 
 msgid "3300:それでも構わず、僕はなおもヒルを引っ張る。[%p]"
-msgstr "3300:I ignored it and kept pulling at the leech.[%p]"
+msgstr "3300:それでも構わず、僕はなおもヒルを引っ張る。[%p]"
 
 msgid "3400:[name]あやせ[line]「ダ……メっ……うぅ……ぁあっ……」[%p]"
-msgstr "3400:[name]あやせ[line]No... Aah...[%p]"
+msgstr "3400:[name]あやせ[line]「ダ……メっ……うぅ……ぁあっ……」[%p]"
 
 msgid "3500:[name]拓巳[line]「だ、だだ、大丈夫……！？」[%p]"
-msgstr "3500:[name]拓巳[line]A-Are you okay?[%p]"
+msgstr "3500:[name]拓巳[line]「だ、だだ、大丈夫……！？」[%p]"
 
 msgid "3600:僕はたまらず手を止めた。[linebreak]その手に、あやせが手の平を重ねてきた。[%p]"
-msgstr "3600:I stopped. I couldn't take her screaming. But Ayase put her hand on mine.[%p]"
+msgstr "3600:僕はたまらず手を止めた。[linebreak]その手に、あやせが手の平を重ねてきた。[%p]"
 
 msgid "3700:[name]あやせ[line]「はぁはぁ……と、止めないで……」[%p]"
-msgstr "3700:[name]あやせ[line]Hahh... Hahh... Hahh... D-Don't stop...[%p]"
+msgstr "3700:[name]あやせ[line]「はぁはぁ……と、止めないで……」[%p]"
 
 msgid "3800:[name]あやせ[line]「うぅ……ダメじゃ……ないから……」[%p]"
-msgstr "3800:[name]あやせ[line]I-I'm fine...[%p]"
+msgstr "3800:[name]あやせ[line]「うぅ……ダメじゃ……ないから……」[%p]"
 
 msgid "3900:全身を汗まみれにしながらも、あやせは気丈にそう告げてくる。[%p]"
-msgstr "3900:Her voice was strong, even if she was covered in sweat.[%p]"
+msgstr "3900:全身を汗まみれにしながらも、あやせは気丈にそう告げてくる。[%p]"
 
 msgid "4000:もう躊躇はなかった。[linebreak]逆に躊躇していたらあやせを苦しめるだけだ。[%p]"
-msgstr "4000:I didn't hesitate anymore. If I did, I'd just make her suffer.[%p]"
+msgstr "4000:もう躊躇はなかった。[linebreak]逆に躊躇していたらあやせを苦しめるだけだ。[%p]"
 
 msgid "4100:[name]拓巳[line]「ぬ……けろぉっ……！」[%p]"
-msgstr "4100:[name]拓巳[line]Come... out![%p]"
+msgstr "4100:[name]拓巳[line]「ぬ……けろぉっ……！」[%p]"
 
 msgid "4200:全力を込めて、ヒルを――[%p]"
-msgstr "4200:I used all my strength...[%p]"
+msgstr "4200:全力を込めて、ヒルを――[%p]"
 
 msgid "4300:引き抜く――！[%p]"
-msgstr "4300:and pulled on the leech![%p]"
+msgstr "4300:引き抜く――！[%p]"
 
 msgid "4400:[name]あやせ[line]「あ、ああ……ああああ――――っ」[%p]"
-msgstr "4400:[name]あやせ[line]Aah... Aah... Aaaaaaah![%p]"
+msgstr "4400:[name]あやせ[line]「あ、ああ……ああああ――――っ」[%p]"
 
 msgid "4500:あやせが全身をビクンビクンと痙攣させて。[%p]"
-msgstr "4500:Her body was spasming hard.[%p]"
+msgstr "4500:あやせが全身をビクンビクンと痙攣させて。[%p]"
 
 msgid "4600:ヒルがずるずると抜け出てくる。[linebreak]それは予想以上に長かった。[%p]"
-msgstr "4600:The leech kept coming out. It was longer than I thought.[%p]"
+msgstr "4600:ヒルがずるずると抜け出てくる。[linebreak]それは予想以上に長かった。[%p]"
 
 msgid "4700:ヒルは丸い塊となり、僕の腕に巻き付いた。[linebreak]拳をすさまじい力で締め付けてくる。[linebreak]それは邪心の断末魔とでも言うべきものだった。[%p]"
-msgstr "4700:It turned into a black lump and wrapped itself around my arms. It was squeezing my hands with incredible strength. Maybe these were its death throes.[%p]"
+msgstr "4700:ヒルは丸い塊となり、僕の腕に巻き付いた。[linebreak]拳をすさまじい力で締め付けてくる。[linebreak]それは邪心の断末魔とでも言うべきものだった。[%p]"
 
 msgid "4800:その痛みに、僕は歯噛みして耐える。[linebreak]あやせから引きはがしたのはいいけど、これをどうしたらいいのか分からない。[%p]"
-msgstr "4800:I grit my teeth at the pain. I'd pulled it out, but I didn't know what to do with it.[%p]"
+msgstr "4800:その痛みに、僕は歯噛みして耐える。[linebreak]あやせから引きはがしたのはいいけど、これをどうしたらいいのか分からない。[%p]"
 
 msgid "4900:[name]あやせ[line]「祈って……」[%p]"
-msgstr "4900:[name]あやせ[line]Pray...[%p]"
+msgstr "4900:[name]あやせ[line]「祈って……」[%p]"
 
 msgid "5000:あやせが僕に身体を委ねたまま、僕の頬を優しく撫でてくる。[%p]"
-msgstr "5000:Ayase gently stroked my cheek, leaning her body up against mine.[%p]"
+msgstr "5000:あやせが僕に身体を委ねたまま、僕の頬を優しく撫でてくる。[%p]"
 
 msgid "5100:[name]あやせ[line]「不浄なる邪心は、キミの手で純粋な邪心へと変わるわ……」[%p]"
-msgstr "5100:[name]あやせ[line]Pray that the impure wicked heart may become a pure one.[%p]"
+msgstr "5100:[name]あやせ[line]「不浄なる邪心は、キミの手で純粋な邪心へと変わるわ……」[%p]"
 
 msgid "5200:僕の手で蠢いていた黒い邪心が、やがて紫色に発光する。[%p]"
-msgstr "5200:The black wicked heart in my hand began to glow with a purple light.[%p]"
+msgstr "5200:僕の手で蠢いていた黒い邪心が、やがて紫色に発光する。[%p]"
 
 msgid "5300:悲鳴にも似た共鳴音を発して。[%p]"
-msgstr "5300:With a sound like microphone feedback, or a scream...[%p]"
+msgstr "5300:悲鳴にも似た共鳴音を発して。[%p]"
 
 msgid "5400:――邪心は、剣へと姿を変えていた。[%p]"
-msgstr "5400:It turned into a sword.[%p]"
+msgstr "5400:――邪心は、剣へと姿を変えていた。[%p]"
 
 msgid "5500:[name]拓巳[line]「こ……れ……ディソード……！？」[%p]"
-msgstr "5500:[name]拓巳[line]A Di-Sword?![%p]"
+msgstr "5500:[name]拓巳[line]「こ……れ……ディソード……！？」[%p]"
 
 msgid "5600:あれだけ、欲していて、でもどうしても手に入れられなかった。[linebreak]そのディソードが今、僕の手の中にある。[linebreak]あやせの邪心が、ディソードに変化した。[%p]"
-msgstr "5600:I'd wanted it so badly, but I'd never been able to get one. And now it was in my hands. Ayase's wicked heart had become a Di-Sword.[%p]"
+msgstr "5600:あれだけ、欲していて、でもどうしても手に入れられなかった。[linebreak]そのディソードが今、僕の手の中にある。[linebreak]あやせの邪心が、ディソードに変化した。[%p]"
 
 msgid "5700:[name]あやせ[line]「目覚めたのね、拓巳」[%p]"
-msgstr "5700:[name]あやせ[line]You've awakened, Takumi.[%p]"
+msgstr "5700:[name]あやせ[line]「目覚めたのね、拓巳」[%p]"
 
 msgid "5800:僕の腕の中で、あやせは苦しげながら微笑みを浮かべた。[linebreak]額には汗がにじみ、前髪がそこに張り付いてしまっている。[%p]"
-msgstr "5800:As I held her in my arms, Ayase smiled. She was still in pain, but she was smiling. There was sweat on her forehead and her bangs were stuck to her brow.[%p]"
+msgstr "5800:僕の腕の中で、あやせは苦しげながら微笑みを浮かべた。[linebreak]額には汗がにじみ、前髪がそこに張り付いてしまっている。[%p]"
 
 msgid "5900:[name]あやせ[line]「ありがとう……目覚めてくれて……」[%p]"
-msgstr "5900:[name]あやせ[line]Thank you... for waking up.[%p]"
+msgstr "5900:[name]あやせ[line]「ありがとう……目覚めてくれて……」[%p]"
 
 msgid "6000:僕は、あやせに感謝されることを、したのかな……。[linebreak]分からない。自信がない。[%p]"
-msgstr "6000:Did I really do something worth a thank you? I couldn't tell. I wasn't sure.[%p]"
+msgstr "6000:僕は、あやせに感謝されることを、したのかな……。[linebreak]分からない。自信がない。[%p]"
 
 msgid "6100:[name]あやせ[line]「拓巳……」[%p]"
-msgstr "6100:[name]あやせ[line]Takumi...[%p]"
+msgstr "6100:[name]あやせ[line]「拓巳……」[%p]"
 
 msgid "6200:あやせが、僕の首に手を回して。[linebreak]ギュッと、僕を抱きしめてくる。[%p]"
-msgstr "6200:Ayase put her hand around my neck. She held me tight.[%p]"
+msgstr "6200:あやせが、僕の首に手を回して。[linebreak]ギュッと、僕を抱きしめてくる。[%p]"
 
 msgid "6300:[name]あやせ[line]「キミだけよ。私の話を、真面目に聞いてくれたのは……」[%p]"
-msgstr "6300:[name]あやせ[line]You were the only one... The only one who listened to me.[%p]"
+msgstr "6300:[name]あやせ[line]「キミだけよ。私の話を、真面目に聞いてくれたのは……」[%p]"
 
 msgid "6400:[name]あやせ[line]「嬉しかった。すごく……」[%p]"
-msgstr "6400:[name]あやせ[line]It made me happy... So happy.[%p]"
+msgstr "6400:[name]あやせ[line]「嬉しかった。すごく……」[%p]"
 
 msgid "6500:あやせの身体は、とても熱い。[linebreak]胸の黒い液体は徐々にその色を赤へと変えていた。[linebreak]その血が、僕の服をも汚す。[%p]"
-msgstr "6500:Her body was so hot. The black liquid on her chest was gradually turning red. The blood stained my clothes, too.[%p]"
+msgstr "6500:あやせの身体は、とても熱い。[linebreak]胸の黒い液体は徐々にその色を赤へと変えていた。[linebreak]その血が、僕の服をも汚す。[%p]"
 
 msgid "6600:それでも構わない。僕もあやせをきつく抱きしめる。[linebreak]まだ彼女の息は荒くて、背中が呼吸のたびに大きく揺れていた。[linebreak]あやせの、汗の匂い。その匂いもまた愛おしく感じた。[%p]"
-msgstr "6600:I didn't care. I held Ayase tightly. Her breathing was ragged, and with each breath she took, her whole body heaved. I could smell her sweat, but even that didn't bother me.[%p]"
+msgstr "6600:それでも構わない。僕もあやせをきつく抱きしめる。[linebreak]まだ彼女の息は荒くて、背中が呼吸のたびに大きく揺れていた。[linebreak]あやせの、汗の匂い。その匂いもまた愛おしく感じた。[%p]"
 
 msgid "6700:[name]あやせ[line]「大好き……」[%p]"
-msgstr "6700:[name]あやせ[line]I love you.[%p]"
+msgstr "6700:[name]あやせ[line]「大好き……」[%p]"
 
 msgid "6800:僕は、あやせのこと、好きになってるのかな……？[%p]"
-msgstr "6800:Did I love Ayase?[%p]"
+msgstr "6800:僕は、あやせのこと、好きになってるのかな……？[%p]"
 
 msgid "6900:……依存はしているかもしれない。[linebreak]そしてあやせもまた、僕に依存してくれている。[%p]"
-msgstr "6900:Maybe I was just dependent on her. But she was dependent on me, too.[%p]"
+msgstr "6900:……依存はしているかもしれない。[linebreak]そしてあやせもまた、僕に依存してくれている。[%p]"
 
 msgid "7000:こんな関係も悪くないって思った。[linebreak]このまま２人で――[%p]"
-msgstr "7000:That wasn't so bad, was it? Maybe we could just stay together, like this.[%p]"
+msgstr "7000:こんな関係も悪くないって思った。[linebreak]このまま２人で――[%p]"
 

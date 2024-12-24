@@ -16,155 +16,155 @@ msgid "100:梨深ソファなし"
 msgstr "100:梨深ソファなし"
 
 msgid "200:地震の日から、今日で一週間が経った。[linebreak]その間、僕は学校側から停学を言い渡されていた。[%p]"
-msgstr "200:A week had passed since the earthquake. Sometime in the past few days, the school had sent me notice that I was suspended.[%p]"
+msgstr "200:地震の日から、今日で一週間が経った。[linebreak]その間、僕は学校側から停学を言い渡されていた。[%p]"
 
 msgid "300:たとえ停学にならなくても、精神的に学校へ行ける状態じゃなかった。[%p]"
-msgstr "300:Even if I hadn't been suspended, I wasn't in a mental state where I could go to class.[%p]"
+msgstr "300:たとえ停学にならなくても、精神的に学校へ行ける状態じゃなかった。[%p]"
 
 msgid "400:地震があった日の翌日、新たなニュージェネ事件が起きたんだ。[%p]"
-msgstr "400:Another NewGen incident had happened the day after the earthquake.[%p]"
+msgstr "400:地震があった日の翌日、新たなニュージェネ事件が起きたんだ。[%p]"
 
 msgid "500:その事件の内容は、高科先生が殺されたときと同じく、明らかに僕へのメッセージ性がこめられていた。[%p]"
-msgstr "500:Just like Dr. Takashina's death, it was clearly intended as a message to me.[%p]"
+msgstr "500:その事件の内容は、高科先生が殺されたときと同じく、明らかに僕へのメッセージ性がこめられていた。[%p]"
 
 msgid "600:右手を自ら食いちぎった女性……。[%p]"
-msgstr "600:A woman who'd chewed off her own right hand...[%p]"
+msgstr "600:右手を自ら食いちぎった女性……。[%p]"
 
 msgid "700:それが、七海の切断された右手首を暗示しているのは間違いない。七海のことは『将軍』の釣りだったけど、もしかしたら殺されていたのはホントは七海だったかもしれないって思うと、ゾッとした。[%p]"
-msgstr "700:It had to be a reminder of how Nanami's right hand had been severed. Even if what had happened with Nanami was just Shogun screwing with me, the thought that she could've been killed like that was terrifying.[%p]"
+msgstr "700:それが、七海の切断された右手首を暗示しているのは間違いない。七海のことは『将軍』の釣りだったけど、もしかしたら殺されていたのはホントは七海だったかもしれないって思うと、ゾッとした。[%p]"
 
 msgid "800:それに僕は悪い意味で渋谷で有名人になっちゃったから、今まで以上に外に出ることに恐怖を覚えるようになっていた。[%p]"
-msgstr "800:Besides that, I was now famous in a bad way, and terrified of leaving the house.[%p]"
+msgstr "800:それに僕は悪い意味で渋谷で有名人になっちゃったから、今まで以上に外に出ることに恐怖を覚えるようになっていた。[%p]"
 
 msgid "900:穴があったら入りたかった。コンビニに食事を買いに行くことすら苦痛で、一日なにも食べずに過ごした日もあった。[%p]"
-msgstr "900:If I had the option of going to live in a cave somewhere, I would've taken it. Even going to the convenience store to get food was painful. Some days, I'd eaten nothing at all.[%p]"
+msgstr "900:穴があったら入りたかった。コンビニに食事を買いに行くことすら苦痛で、一日なにも食べずに過ごした日もあった。[%p]"
 
 msgid "1000:顔を上げて外を歩くことができない。[%p]"
-msgstr "1000:I couldn't walk with my head held up while I was outside.[%p]"
+msgstr "1000:顔を上げて外を歩くことができない。[%p]"
 
 msgid "1100:常に、誰かに笑われてるような気がした。[%p]"
-msgstr "1100:It always felt like somebody was laughing at me.[%p]"
+msgstr "1100:常に、誰かに笑われてるような気がした。[%p]"
 
 msgid "1200:他人の視線が怖い。[%p]"
-msgstr "1200:I was scared of other people looking at me.[%p]"
+msgstr "1200:他人の視線が怖い。[%p]"
 
 msgid "1300:誰にも会いたくなかった。[%p]"
-msgstr "1300:I didn't want to talk to anybody.[%p]"
+msgstr "1300:誰にも会いたくなかった。[%p]"
 
 msgid "1400:頻繁にマスコミ関係者と思われる連中が訪ねてきたけど、全部無視した。[%p]"
-msgstr "1400:Some people from the media came by several times, but I ignored all of them.[%p]"
+msgstr "1400:頻繁にマスコミ関係者と思われる連中が訪ねてきたけど、全部無視した。[%p]"
 
 msgid "1500:実家にも連絡しなかったし、七海とも話してない。[%p]"
-msgstr "1500:I hadn't called home, or talked to Nanami.[%p]"
+msgstr "1500:実家にも連絡しなかったし、七海とも話してない。[%p]"
 
 msgid "1600:エンスーもプレイを控えた。どこかでボロが出て、ナイトハルトが僕だって知られたら、それこそ最悪だ。[%p]"
-msgstr "1600:I even quit ESO for the time being. If somehow, somebody found out that I was KnightHeart, that would be just awful.[%p]"
+msgstr "1600:エンスーもプレイを控えた。どこかでボロが出て、ナイトハルトが僕だって知られたら、それこそ最悪だ。[%p]"
 
 msgid "1700:一週間――[%p]"
-msgstr "1700:A week...[%p]"
+msgstr "1700:一週間――[%p]"
 
 msgid "1800:この期間が、ほとぼりを冷ますのに長いのか短いのか。[%p]"
-msgstr "1800:Was that enough time for things to calm down? Or not enough?[%p]"
+msgstr "1800:この期間が、ほとぼりを冷ますのに長いのか短いのか。[%p]"
 
 msgid "1900:人の噂も７５日って言うけど、それは昔の話だよね。[%p]"
-msgstr "1900:There used to be a saying that rumors would last for 75 days, but that was a long time ago.[%p]"
+msgstr "1900:人の噂も７５日って言うけど、それは昔の話だよね。[%p]"
 
 msgid "2000:最近の流行の変化はすごく早い。[linebreak]流行語は、翌年には廃れてる。[%p]"
-msgstr "2000:Trends changed incredibly fast now. Popular phrases would be completely forgotten by the following year.[%p]"
+msgstr "2000:最近の流行の変化はすごく早い。[linebreak]流行語は、翌年には廃れてる。[%p]"
 
 msgid "2100:ネットで誰もが使っているネットスラングも、ほんの数ヶ月で死語になる。[%p]"
-msgstr "2100:Slang that everybody used online would be dead and forgotten in months.[%p]"
+msgstr "2100:ネットで誰もが使っているネットスラングも、ほんの数ヶ月で死語になる。[%p]"
 
 msgid "2200:テレビは毎日のように“ヒーロー”や“アイドル”や“悪者”を求め、消費し、使い捨てる。[%p]"
-msgstr "2200:Every day the TV was in search of “heroes,” “idols,” and “villains” to consume and then discard.[%p]"
+msgstr "2200:テレビは毎日のように“ヒーロー”や“アイドル”や“悪者”を求め、消費し、使い捨てる。[%p]"
 
 msgid "2300:『ニュージェネ』事件だって、６つも起これば最初の方の事件は＠ちゃんねるでも話題にはならなくなる。[%p]"
-msgstr "2300:Even with NewGen, by the time of the sixth murder, @channel wasn't nearly as excited as they'd been during the first.[%p]"
+msgstr "2300:『ニュージェネ』事件だって、６つも起これば最初の方の事件は＠ちゃんねるでも話題にはならなくなる。[%p]"
 
 msgid "2400:なにもかもが、あっという間に人々の記憶から消えていく。[%p]"
-msgstr "2400:Everything disappeared from people's memories so fast.[%p]"
+msgstr "2400:なにもかもが、あっという間に人々の記憶から消えていく。[%p]"
 
 msgid "2500:だから、そんな流行みたいに、できればこの一週間であの騒動のこともみんなの記憶からきれいさっぱり流れ去っていればいいな、って考えていた。[%p]"
-msgstr "2500:I hoped that, like those other trends and fads, what had happened a week ago had faded completely from people's minds.[%p]"
+msgstr "2500:だから、そんな流行みたいに、できればこの一週間であの騒動のこともみんなの記憶からきれいさっぱり流れ去っていればいいな、って考えていた。[%p]"
 
 msgid "2600:しょせん希望的観測……でもそう願わずにはいられない。[%p]"
-msgstr "2600:It was overly optimistic... but I couldn't help but hope anyway.[%p]"
+msgstr "2600:しょせん希望的観測……でもそう願わずにはいられない。[%p]"
 
 msgid "2700:頭と胃が痛くなってきた。[linebreak]いつものベンチに座り、心を落ち着かせる。[%p]"
-msgstr "2700:My head and stomach hurt. I sat down on my usual bench to calm myself down.[%p]"
+msgstr "2700:頭と胃が痛くなってきた。[linebreak]いつものベンチに座り、心を落ち着かせる。[%p]"
 
 msgid "2800:星来たんならきっと、こう言うだろう。[%p]"
-msgstr "2800:I knew exactly what Seira-tan would say if I asked her.[%p]"
+msgstr "2800:星来たんならきっと、こう言うだろう。[%p]"
 
 msgid "2900:[name]星来[line]「そんなに苦しむぐらいなら、もう学校になんか行くのやめればいいっしょ」[%p]"
-msgstr "2900:[name]星来[line]If it hurts that much to go to school, then just don't go![%p]"
+msgstr "2900:[name]星来[line]「そんなに苦しむぐらいなら、もう学校になんか行くのやめればいいっしょ」[%p]"
 
 msgid "3000:それもありかなって、ちょっと思い始めてる。[%p]"
-msgstr "3000:I was starting to think she'd be right.[%p]"
+msgstr "3000:それもありかなって、ちょっと思い始めてる。[%p]"
 
 msgid "3100:治安悪化の影響で、渋谷区内にある学校では自主的に休む学生も増えてるって聞くし。[%p]"
-msgstr "3100:I'd heard that a lot of students were starting to stay home because of how bad the crime in Shibuya was getting.[%p]"
+msgstr "3100:治安悪化の影響で、渋谷区内にある学校では自主的に休む学生も増えてるって聞くし。[%p]"
 
 msgid "3200:卒業できなくたって別に構わないとは、昔から思ってたし。むしろ今すぐ自主退学しちゃってもいい。[%p]"
-msgstr "3200:And I'd always said it never really mattered if I graduated. I was willing to drop out of school right now, actually.[%p]"
+msgstr "3200:卒業できなくたって別に構わないとは、昔から思ってたし。むしろ今すぐ自主退学しちゃってもいい。[%p]"
 
 msgid "3300:それでも僕は、学校に行こうとしている。[linebreak]優愛に遭遇する危険を冒してまで、だ。[%p]"
-msgstr "3300:But still, I was going to school anyway. Even if it meant potentially running into Yua.[%p]"
+msgstr "3300:それでも僕は、学校に行こうとしている。[linebreak]優愛に遭遇する危険を冒してまで、だ。[%p]"
 
 msgid "3400:途中の自販機で買ったコーラを飲み干し、ベンチから立ち上がった。[%p]"
-msgstr "3400:I gulped down the soda I'd bought from a nearby vending machine and stood up from the bench.[%p]"
+msgstr "3400:途中の自販機で買ったコーラを飲み干し、ベンチから立ち上がった。[%p]"
 
 msgid "3500:……自分をごまかすのは、やめよう。[linebreak]僕は学校には行きたくないけど、やめたくもない。[%p]"
-msgstr "3500:It was time to stop lying to myself. I didn't want to go to school, but I didn't want to drop out, either.[%p]"
+msgstr "3500:……自分をごまかすのは、やめよう。[linebreak]僕は学校には行きたくないけど、やめたくもない。[%p]"
 
 msgid "3600:だって、もし学校をやめたら――[%p]"
-msgstr "3600:If I did...[%p]"
+msgstr "3600:だって、もし学校をやめたら――[%p]"
 
 msgid "3700:梨深に、会えなくなっちゃう……。[%p]"
-msgstr "3700:I'd never see Rimi again.[%p]"
+msgstr "3700:梨深に、会えなくなっちゃう……。[%p]"
 
 msgid "3800:今は、クラスメイトだっていう繋がりがあるから、学校にさえ行けば自動的に会える。[linebreak]だけどその繋がりがなくなったら……[%p]"
-msgstr "3800:Right now, since we were classmates, I could see her whenever I went to school. But if we lost that connection...[%p]"
+msgstr "3800:今は、クラスメイトだっていう繋がりがあるから、学校にさえ行けば自動的に会える。[linebreak]だけどその繋がりがなくなったら……[%p]"
 
 msgid "3900:もちろん電話したり、直接会いに行ったりすることはできるだろう。でもそれには能動的行動が必要で、決して自動的じゃない。[%p]"
-msgstr "3900:Of course, I could call her, or go to see her directly. But that required active effort on my part. It wouldn't just happen.[%p]"
+msgstr "3900:もちろん電話したり、直接会いに行ったりすることはできるだろう。でもそれには能動的行動が必要で、決して自動的じゃない。[%p]"
 
 msgid "4000:そして僕はきっと、能動的には動けない。[%p]"
-msgstr "4000:And an active effort like that was beyond me, too.[%p]"
+msgstr "4000:そして僕はきっと、能動的には動けない。[%p]"
 
 msgid "4100:実際、もうずっと梨深に会えていない。[%p]"
-msgstr "4100:In fact, I hadn't seen Rimi in a long time.[%p]"
+msgstr "4100:実際、もうずっと梨深に会えていない。[%p]"
 
 msgid "4200:[name]梨深[line]「あたしが、一緒にいてあげる」[%p]"
-msgstr "4200:[name]梨深[line]I'll be there for you.[%p]"
+msgstr "4200:[name]梨深[line]「あたしが、一緒にいてあげる」[%p]"
 
 msgid "4300:梨深は僕にそう約束してくれたのに。[linebreak]もう１０日以上、まったく連絡がないんだ。[%p]"
-msgstr "4300:That's what she'd promised me. But she hadn't contacted me in over ten days.[%p]"
+msgstr "4300:梨深は僕にそう約束してくれたのに。[linebreak]もう１０日以上、まったく連絡がないんだ。[%p]"
 
 msgid "4400:もしかしたら僕の醜態をテレビで見て、梨深ですら愛想を尽かしちゃったんじゃないかと想像したら、すごく怖く、悲しく、寂しくなった。[%p]"
-msgstr "4400:Maybe she'd seen me embarrass myself on TV, and decided she never wanted to talk to me again. The thought made me so scared, so sad, and so lonely...[%p]"
+msgstr "4400:もしかしたら僕の醜態をテレビで見て、梨深ですら愛想を尽かしちゃったんじゃないかと想像したら、すごく怖く、悲しく、寂しくなった。[%p]"
 
 msgid "4500:誰も――七海ですら――会いに来なくて。[linebreak]ネットでは祭りで誹謗中傷にさらされ。[linebreak]『将軍』や優愛の影に怯えて。[%p]"
-msgstr "4500:Nobody... not even Nanami... came to see me. The internet was saying the most horrible things about me. And Yua and Shogun were still out there, waiting for me.[%p]"
+msgstr "4500:誰も――七海ですら――会いに来なくて。[linebreak]ネットでは祭りで誹謗中傷にさらされ。[linebreak]『将軍』や優愛の影に怯えて。[%p]"
 
 msgid "4600:誰にも会いたくないって言っておきながら、その孤独が辛かった。[%p]"
-msgstr "4600:I said I didn't want to talk to anybody, but the loneliness was killing me.[%p]"
+msgstr "4600:誰にも会いたくないって言っておきながら、その孤独が辛かった。[%p]"
 
 msgid "4700:梨深に、顔を見に来てもらいたかった。[linebreak]大変だったね、って優しく抱きしめてもらいたかった。[%p]"
-msgstr "4700:I wanted Rimi to come see me. I wanted her to hold me gently and tell me she was there for me.[%p]"
+msgstr "4700:梨深に、顔を見に来てもらいたかった。[linebreak]大変だったね、って優しく抱きしめてもらいたかった。[%p]"
 
 msgid "4800:結局僕は、梨深に甘えてる。[%p]"
-msgstr "4800:I was probably relying on her too much.[%p]"
+msgstr "4800:結局僕は、梨深に甘えてる。[%p]"
 
 msgid "4900:でも、梨深がいけないんだ。[linebreak]僕に……三次元の温もりを教えたのは、梨深だ。[%p]"
-msgstr "4900:But it was her fault. The one who'd taught me how warm 3D girls could be... was Rimi.[%p]"
+msgstr "4900:でも、梨深がいけないんだ。[linebreak]僕に……三次元の温もりを教えたのは、梨深だ。[%p]"
 
 msgid "5000:一度あの温もりを知っちゃったら……[linebreak]何度でも求めたくなってしまう。[%p]"
-msgstr "5000:Once I'd known that warmth... I wanted to experience it again and again.[%p]"
+msgstr "5000:一度あの温もりを知っちゃったら……[linebreak]何度でも求めたくなってしまう。[%p]"
 
 msgid "5100:あんなにも心安らぐことは、二次元や妄想じゃ、もうできなくなっちゃったんだ。[linebreak]妄想してるだけじゃ、耐えられないんだ。[%p]"
-msgstr "5100:The peace it had given me was something I couldn't get from 2D or delusions anymore. Delusions weren't enough to keep me going.[%p]"
+msgstr "5100:あんなにも心安らぐことは、二次元や妄想じゃ、もうできなくなっちゃったんだ。[linebreak]妄想してるだけじゃ、耐えられないんだ。[%p]"
 
 msgid "5200:梨深に会いたい……。[%p]"
-msgstr "5200:I needed to see Rimi…[%p]"
+msgstr "5200:梨深に会いたい……。[%p]"
 

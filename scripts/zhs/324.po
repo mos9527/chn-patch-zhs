@@ -10,59 +10,59 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]？？？[line]「エラーはすべて消滅。ノアⅡと野呂瀬玄一の消去も確認したわ」[%p]"
-msgstr "0:[name]？？？[line]All the errors are gone. I've confirmed the destruction of Noah II and the elimination of Genichi Norose as well.[%p]"
+msgstr "0:[name]？？？[line]「エラーはすべて消滅。ノアⅡと野呂瀬玄一の消去も確認したわ」[%p]"
 
 msgid "100:[name]？？？[line]「オリジナルの西條拓巳は確保済み。虫の息だけどね」[%p]"
-msgstr "100:[name]？？？[line]The original Takumi Nishijo has been secured. He's barely alive, but we have him.[%p]"
+msgstr "100:[name]？？？[line]「オリジナルの西條拓巳は確保済み。虫の息だけどね」[%p]"
 
 msgid "200:[name]？？？[line]「コピーの西條拓巳、および波多野セナは予定通り任務を実行後、ともに……」[%p]"
-msgstr "200:[name]？？？[line]As for the copy of Takumi Nishijo, as well as Sena Hatano, as per the plan, when the mission is finished, they're both to be...[%p]"
+msgstr "200:[name]？？？[line]「コピーの西條拓巳、および波多野セナは予定通り任務を実行後、ともに……」[%p]"
 
 msgid "300:[name]？？？[line]「死んだわ」[%p]"
-msgstr "300:[name]？？？[line]They're dead.[%p]"
+msgstr "300:[name]？？？[line]「死んだわ」[%p]"
 
 msgid "400:[name]？？？[line]「今後も引き続き調査は続行するけど、おそらく波多野セナも西條拓巳も、“エラー”は生み出さなかったんでしょ」[%p]"
-msgstr "400:[name]？？？[line]I'll continue my investigation here, but it appears likely that neither Sena Hatano nor Takumi Nishijo created any errors.[%p]"
+msgstr "400:[name]？？？[line]「今後も引き続き調査は続行するけど、おそらく波多野セナも西條拓巳も、“エラー”は生み出さなかったんでしょ」[%p]"
 
 msgid "500:[name]？？？[line]「……それでいいんじゃない？\u3000私の仕事も減ったことだし」[%p]"
-msgstr "500:[name]？？？[line]And isn't that good enough? Less work for me.[%p]"
+msgstr "500:[name]？？？[line]「……それでいいんじゃない？\u3000私の仕事も減ったことだし」[%p]"
 
 msgid "600:[name]？？？[line]「そうそう、ついでに周りをウロチョロしてた、天成神光会の信者連中も、処分しといたから」[%p]"
-msgstr "600:[name]？？？[line]Oh, right. I took care of the followers of the Cosmic Church that were hanging around.[%p]"
+msgstr "600:[name]？？？[line]「そうそう、ついでに周りをウロチョロしてた、天成神光会の信者連中も、処分しといたから」[%p]"
 
 msgid "700:[name]？？？[line]「咲畑梨深には逃げられたみたいだけど、ま、脅威にはならないでしょ」[%p]"
-msgstr "700:[name]？？？[line]Rimi Sakihata escaped, but she's no threat.[%p]"
+msgstr "700:[name]？？？[line]「咲畑梨深には逃げられたみたいだけど、ま、脅威にはならないでしょ」[%p]"
 
 msgid "800:[name]？？？[line]「世界人間牧場計画の予定には、若干の修正が必要ね」[%p]"
-msgstr "800:[name]？？？[line]The Human Cultivation Project is going to need some adjustments.[%p]"
+msgstr "800:[name]？？？[line]「世界人間牧場計画の予定には、若干の修正が必要ね」[%p]"
 
 msgid "900:[name]？？？[line]「でも、今回の一連のエラーは、計画へと利用、還元できると判断するわ」[%p]"
-msgstr "900:[name]？？？[line]But in my judgement, this string of errors can be used to further the plan itself.[%p]"
+msgstr "900:[name]？？？[line]「でも、今回の一連のエラーは、計画へと利用、還元できると判断するわ」[%p]"
 
 msgid "1000:[name]？？？[line]「結果的には、３００人委員会になんらの不利益も生じない」[%p]"
-msgstr "1000:[name]？？？[line]In the end, the Committee of 300 has suffered no damage at all.[%p]"
+msgstr "1000:[name]？？？[line]「結果的には、３００人委員会になんらの不利益も生じない」[%p]"
 
 msgid "1100:[name]？？？[line]「……ええ、了解。デバッガの任務は終了します」[%p]"
-msgstr "1100:[name]？？？[line]Yes, understood. I'm ending my debugging mission.[%p]"
+msgstr "1100:[name]？？？[line]「……ええ、了解。デバッガの任務は終了します」[%p]"
 
 msgid "1200:[name]？？？[line]「以後、監視者の役割に戻るわ」[%p]"
-msgstr "1200:[name]？？？[line]I'll return to my position as observer.[%p]"
+msgstr "1200:[name]？？？[line]「以後、監視者の役割に戻るわ」[%p]"
 
 msgid "1300:[name]？？？[line]「ふう……」[%p]"
-msgstr "1300:[name]？？？[line]Whew...[%p]"
+msgstr "1300:[name]？？？[line]「ふう……」[%p]"
 
 msgid "1400:[name]？？？[line]「あら？\u3000この子、生きてるわね……。エラーになっちゃうわ」[%p]"
-msgstr "1400:[name]？？？[line]Oh? The child's alive. That's going to count as an error.[%p]"
+msgstr "1400:[name]？？？[line]「あら？\u3000この子、生きてるわね……。エラーになっちゃうわ」[%p]"
 
 msgid "1500:[name]？？？[line]「……２人が、命を与えたのかしら？」[%p]"
-msgstr "1500:[name]？？？[line]Did the two of them give it life, I wonder?[%p]"
+msgstr "1500:[name]？？？[line]「……２人が、命を与えたのかしら？」[%p]"
 
 msgid "1600:[name]？？？[line]「…………」[%p]"
-msgstr "1600:[name]？？？[line]...[%p]"
+msgstr "1600:[name]？？？[line]「…………」[%p]"
 
 msgid "1700:[name]？？？[line]「はあ、見なかったことにしますか。私は独身だし、子供はちょっと苦手なんだけど……」[%p]"
-msgstr "1700:[name]？？？[line]Sigh... I suppose I can pretend I didn't see anything. I'm single, and children really aren't my thing, but...[%p]"
+msgstr "1700:[name]？？？[line]「はあ、見なかったことにしますか。私は独身だし、子供はちょっと苦手なんだけど……」[%p]"
 
 msgid "1800:[name]？？？[line]「ミルクは、手に入るかしらね、この渋谷で……」[%p]"
-msgstr "1800:[name]？？？[line]I wonder if it's even possible to get milk in Shibuya right now?[%p]"
+msgstr "1800:[name]？？？[line]「ミルクは、手に入るかしらね、この渋谷で……」[%p]"
 

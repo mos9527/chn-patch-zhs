@@ -10,89 +10,89 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:渋谷の街を歩いてみて、ようやく僕は実感した。[linebreak]この町を襲った地震が、いかにすさまじいものだったか、って。[%p]"
-msgstr "0:Only after making it down to street level did I really understand... just how big the earthquake was.[%p]"
+msgstr "0:渋谷の街を歩いてみて、ようやく僕は実感した。[linebreak]この町を襲った地震が、いかにすさまじいものだったか、って。[%p]"
 
 msgid "100:かつてのきらびやかな街の面影なんて、もうどこにもない。[linebreak]この街は、死んだ。死の街だ。[%p]"
-msgstr "100:There was nothing left of the brightly-lit city I knew. This city had died. It was a city of death.[%p]"
+msgstr "100:かつてのきらびやかな街の面影なんて、もうどこにもない。[linebreak]この街は、死んだ。死の街だ。[%p]"
 
 msgid "200:ピクリとも動かない人たちが何人も、折り重なるようにして倒れている。道路のところどころには、血溜まりができている。[%p]"
-msgstr "200:I could see piles of people lying on top of each other, unmoving. Blood puddles lying in the road.[%p]"
+msgstr "200:ピクリとも動かない人たちが何人も、折り重なるようにして倒れている。道路のところどころには、血溜まりができている。[%p]"
 
 msgid "300:生きていない。[linebreak]みんな、死んでいる。[%p]"
-msgstr "300:Nobody was alive. Everybody was dead.[%p]"
+msgstr "300:生きていない。[linebreak]みんな、死んでいる。[%p]"
 
 msgid "400:波多野さんが、死傷者は４桁以上だって言ってた。[linebreak]そしてこれを引き起こしたのは……ノアⅡ。[%p]"
-msgstr "400:Hatano had said the casualties would be in the four-digit range. And it was Noah II that had caused this.[%p]"
+msgstr "400:波多野さんが、死傷者は４桁以上だって言ってた。[linebreak]そしてこれを引き起こしたのは……ノアⅡ。[%p]"
 
 msgid "500:天災じゃない。人災ですらない。[linebreak]これは、虐殺だ……。[%p]"
-msgstr "500:This wasn't a natural disaster. “Disaster” wasn't the right word at all. This was a slaughter.[%p]"
+msgstr "500:天災じゃない。人災ですらない。[linebreak]これは、虐殺だ……。[%p]"
 
 msgid "600:僕の少し前を歩くセナも、悲痛な面持ちをしていた。[linebreak]波多野さんは一緒じゃない。希テクノロジーのビルに残った。[%p]"
-msgstr "600:Sena was walking a little ahead of me. Her expression was as pained as mine. Hatano wasn't with us. He'd stayed behind in the Nozomi Technologies building.[%p]"
+msgstr "600:僕の少し前を歩くセナも、悲痛な面持ちをしていた。[linebreak]波多野さんは一緒じゃない。希テクノロジーのビルに残った。[%p]"
 
 msgid "700:セナとは親子らしいけど、とてもそうは見えなかったな。[linebreak]セナが一方的に波多野さんを憎んでるって感じだった。[linebreak]母親とか妹とかって単語が、会話の端々に出てきていた。[%p]"
-msgstr "700:He was, supposedly, Sena's father. But it certainly didn't look like that to me. She seemed to hate him. The two of them brought up her mother and sister a few times.[%p]"
+msgstr "700:セナとは親子らしいけど、とてもそうは見えなかったな。[linebreak]セナが一方的に波多野さんを憎んでるって感じだった。[linebreak]母親とか妹とかって単語が、会話の端々に出てきていた。[%p]"
 
 msgid "800:２人の間にはなにかがあったんだろう。[linebreak]そして、そのことできっとセナの心も“壊れた”んだ。[linebreak]詳しい話を聞くつもりはない。どう話せばいいのか分からないし。[%p]"
-msgstr "800:What had happened between them? Whatever it was, it was what broke her. I wasn't going to ask for details. I wouldn't even know what to say.[%p]"
+msgstr "800:２人の間にはなにかがあったんだろう。[linebreak]そして、そのことできっとセナの心も“壊れた”んだ。[linebreak]詳しい話を聞くつもりはない。どう話せばいいのか分からないし。[%p]"
 
 msgid "900:それに今は、チートコードを手に入れるのが最優先だ。[linebreak]それさえあれば、もうセナに守ってもらわなくてもいい。[linebreak]僕は１人で生きていける。[%p]"
-msgstr "900:My priority now was getting the cheat code. As long as I had it, I wouldn't need Sena to protect me. I would be safe on my own.[%p]"
+msgstr "900:それに今は、チートコードを手に入れるのが最優先だ。[linebreak]それさえあれば、もうセナに守ってもらわなくてもいい。[linebreak]僕は１人で生きていける。[%p]"
 
 msgid "1000:ふと、背後から地響きのような音が聞こえてきた。[linebreak]また地震か、と思ってとっさにその場に這いつくばったけど、地面が揺れることはない。[%p]"
-msgstr "1000:Suddenly, I heard a rumbling behind us. I thought it might be another earthquake and quickly dropped to the ground, but the earth wasn't shaking.[%p]"
+msgstr "1000:ふと、背後から地響きのような音が聞こえてきた。[linebreak]また地震か、と思ってとっさにその場に這いつくばったけど、地面が揺れることはない。[%p]"
 
 msgid "1100:恐る恐る振り返る。[linebreak]そこには、僕らがさっきまでいた希の本社ビルがそびえ立っているはずだったけど。[%p]"
-msgstr "1100:I turned around, nervously. A second ago, the Nozomi building has been behind us.[%p]"
+msgstr "1100:恐る恐る振り返る。[linebreak]そこには、僕らがさっきまでいた希の本社ビルがそびえ立っているはずだったけど。[%p]"
 
 msgid "1200:もうもうとした煙が巻き上がっていた。[linebreak]まるで火山が噴火したかのような光景。[linebreak]そして、あったはずのビルの姿が、ない。[%p]"
-msgstr "1200:Now I saw a column of smoke rising into the sky, like a volcano had erupted. The building itself was... gone.[%p]"
+msgstr "1200:もうもうとした煙が巻き上がっていた。[linebreak]まるで火山が噴火したかのような光景。[linebreak]そして、あったはずのビルの姿が、ない。[%p]"
 
 msgid "1300:まさか、崩壊した……？[linebreak]あそこには、波多野さんが残っていたのに……。[%p]"
-msgstr "1300:Had it collapsed? Hatano was still inside…[%p]"
+msgstr "1300:まさか、崩壊した……？[linebreak]あそこには、波多野さんが残っていたのに……。[%p]"
 
 msgid "1400:[name]セナ[line]「あ……ああ……」[%p]"
-msgstr "1400:[name]セナ[line]Ah... Aah...[%p]"
+msgstr "1400:[name]セナ[line]「あ……ああ……」[%p]"
 
 msgid "1500:セナがうめく。呆然と、空を覆い尽くさんばかりの煙を見上げて。[%p]"
-msgstr "1500:Sena let out a moan. She looked up at the huge column of smoke, which was now covering the sky.[%p]"
+msgstr "1500:セナがうめく。呆然と、空を覆い尽くさんばかりの煙を見上げて。[%p]"
 
 msgid "1600:[name]セナ[line]「父さん……」[%p]"
-msgstr "1600:[name]セナ[line]Daddy...[%p]"
+msgstr "1600:[name]セナ[line]「父さん……」[%p]"
 
 msgid "1700:それから僕の視線に気付き、すぐにそっぽを向く。[linebreak]けれど、その肩は震えていた。[%p]"
-msgstr "1700:Then she saw me looking at her and turned away. But her shoulders were shaking.[%p]"
+msgstr "1700:それから僕の視線に気付き、すぐにそっぽを向く。[linebreak]けれど、その肩は震えていた。[%p]"
 
 msgid "1800:[name]セナ[line]「く、そ……っ。こんなことなら、私が、この手で、殺しておくんだった……」[%p]"
-msgstr "1800:[name]セナ[line]Damn it... If I'd known this would happen, I would've killed him myself.[%p]"
+msgstr "1800:[name]セナ[line]「く、そ……っ。こんなことなら、私が、この手で、殺しておくんだった……」[%p]"
 
 msgid "1900:[name]セナ[line]「殺して……おけば……」[%p]"
-msgstr "1900:[name]セナ[line]If I'd killed him myself...[%p]"
+msgstr "1900:[name]セナ[line]「殺して……おけば……」[%p]"
 
 msgid "2000:[name]セナ[line]「ぐすっ……」[%p]"
-msgstr "2000:[name]セナ[line]Sob...[%p]"
+msgstr "2000:[name]セナ[line]「ぐすっ……」[%p]"
 
 msgid "2100:[name]拓巳[line]「だ、だったら……」[%p]"
-msgstr "2100:[name]拓巳[line]T-Then...[%p]"
+msgstr "2100:[name]拓巳[line]「だ、だったら……」[%p]"
 
 msgid "2200:[name]拓巳[line]「あの人も、生き返らせれば、いい……」[%p]"
-msgstr "2200:[name]拓巳[line]You should just bring him back, too, then.[%p]"
+msgstr "2200:[name]拓巳[line]「あの人も、生き返らせれば、いい……」[%p]"
 
 msgid "2300:チートコードを手に入れれば、それができる。[linebreak]できるはずだ。『禁（０漸Ｖ・＄』の言葉を信じるなら。[%p]"
-msgstr "2300:With the cheat code, it was possible. At least, it should be possible. If we were willing to believe KIN(OZENV.$, that is.[%p]"
+msgstr "2300:チートコードを手に入れれば、それができる。[linebreak]できるはずだ。『禁（０漸Ｖ・＄』の言葉を信じるなら。[%p]"
 
 msgid "2400:[name]セナ[line]「フン……、殺すために、生き返らせるのか……？」[%p]"
-msgstr "2400:[name]セナ[line]Hmph... Bring him back so I can kill him?[%p]"
+msgstr "2400:[name]セナ[line]「フン……、殺すために、生き返らせるのか……？」[%p]"
 
 msgid "2500:[name]セナ[line]「非効率的だな……ぐすっ」[%p]"
-msgstr "2500:[name]セナ[line]Seems inefficient. Sob...[%p]"
+msgstr "2500:[name]セナ[line]「非効率的だな……ぐすっ」[%p]"
 
 msgid "2600:自嘲気味に笑って、でもその声は涙で濡れていて。[linebreak]僕はなんて声をかけていいか分からず、うなだれる。[%p]"
-msgstr "2600:She laughed, and then broke into tears. I didn't know what to say to her, so I said nothing.[%p]"
+msgstr "2600:自嘲気味に笑って、でもその声は涙で濡れていて。[linebreak]僕はなんて声をかけていいか分からず、うなだれる。[%p]"
 
 msgid "2700:しばらくセナは涙をこらえていたけど、やがて意を決したように再び歩き出した。もう、その目に涙はなかった。[%p]"
-msgstr "2700:She held in the tears for a while, and then seemed to work up the resolve to start walking again. There were no more tears in her eyes.[%p]"
+msgstr "2700:しばらくセナは涙をこらえていたけど、やがて意を決したように再び歩き出した。もう、その目に涙はなかった。[%p]"
 
 msgid "2800:僕も、慌ててセナを追った。[%p]"
-msgstr "2800:I quickly followed after.[%p]"
+msgstr "2800:僕も、慌ててセナを追った。[%p]"
 

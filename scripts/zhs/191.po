@@ -16,116 +16,116 @@ msgid "100:梨深ルート無し"
 msgstr "100:梨深ルート無し"
 
 msgid "200:昼休み。[linebreak]僕はいつも昼食は抜いている。教室でひとりで食べるのがいやだったからだ。一緒に食べる相手もいない。[%p]"
-msgstr "200:Lunchtime. I always skipped lunch. I hated eating by myself in the classroom. I didn't have anybody to eat with.[%p]"
+msgstr "200:昼休み。[linebreak]僕はいつも昼食は抜いている。教室でひとりで食べるのがいやだったからだ。一緒に食べる相手もいない。[%p]"
 
 msgid "300:最近は梨深に、一緒に食べようって誘われたりしていたけど、さすがに恥ずかしくて結局いつも断っていた。[%p]"
-msgstr "300:Lately, Rimi had tried inviting me to eat with her, but I was always too embarrassed to say yes.[%p]"
+msgstr "300:最近は梨深に、一緒に食べようって誘われたりしていたけど、さすがに恥ずかしくて結局いつも断っていた。[%p]"
 
 msgid "400:というわけで昼休みになると、僕は教室を出て安らげる場所に避難する。[%p]"
-msgstr "400:Whenever lunchtime came around, I would always leave the class and escape somewhere more peaceful.[%p]"
+msgstr "400:というわけで昼休みになると、僕は教室を出て安らげる場所に避難する。[%p]"
 
 msgid "500:それはあるときは図書室だったり、あるときは中庭だったりする。[%p]"
-msgstr "500:Sometimes that would be the library. Sometimes the courtyard.[%p]"
+msgstr "500:それはあるときは図書室だったり、あるときは中庭だったりする。[%p]"
 
 msgid "600:けど、例の騒動以来、学校中に顔が知れ渡ってしまった今、どこへ行こうと落ち着ける場所はなかった。[%p]"
-msgstr "600:But ever since what had happened at O-FRONT, the whole school knew my face. There was no place left where I could relax.[%p]"
+msgstr "600:けど、例の騒動以来、学校中に顔が知れ渡ってしまった今、どこへ行こうと落ち着ける場所はなかった。[%p]"
 
 msgid "700:容赦なく突き刺さる視線。[linebreak]投げかけられる罵倒や嘲笑。[%p]"
-msgstr "700:I could feel them staring at me. I could hear their laughter and insults.[%p]"
+msgstr "700:容赦なく突き刺さる視線。[linebreak]投げかけられる罵倒や嘲笑。[%p]"
 
 msgid "800:今日も、学校中を歩き回ったけど、逆にそうしたものにさらされる結果になり、しょうがなくトイレの個室に逃げ込むしかないのかと考えていたら――[%p]"
-msgstr "800:Like I did every other day, I walked around the whole school and found no escape from them anywhere. Just when I was thinking of hiding in the toilet...[%p]"
+msgstr "800:今日も、学校中を歩き回ったけど、逆にそうしたものにさらされる結果になり、しょうがなくトイレの個室に逃げ込むしかないのかと考えていたら――[%p]"
 
 msgid "900:１年生の教室がある校舎へと繋がる渡り廊下で、七海の後ろ姿を見かけた。[linebreak]ひとりで教室の方へと歩いていくところみたいだった。[%p]"
-msgstr "900:I saw Nanami walking away from me, down the hallway to the first-year students' classrooms. She was walking back to class alone, it looked like.[%p]"
+msgstr "900:１年生の教室がある校舎へと繋がる渡り廊下で、七海の後ろ姿を見かけた。[linebreak]ひとりで教室の方へと歩いていくところみたいだった。[%p]"
 
 msgid "1000:そう言えば七海とは例の事件以来、一度も話をしていない。[linebreak]この一週間、顔を合わせるのを避けていた。[%p]"
-msgstr "1000:I realized I hadn't talked to her once since the incident. I'd been avoiding her for the past week.[%p]"
+msgstr "1000:そう言えば七海とは例の事件以来、一度も話をしていない。[linebreak]この一週間、顔を合わせるのを避けていた。[%p]"
 
 msgid "1100:だって、どんな顔をして会えばいいか分からなかったんだ。[%p]"
-msgstr "1100:I mean, I'd have no idea what to say when I met her.[%p]"
+msgstr "1100:だって、どんな顔をして会えばいいか分からなかったんだ。[%p]"
 
 msgid "1200:僕は、七海の命よりも自分の命を優先させた最低の兄貴。[%p]"
-msgstr "1200:I was a terrible brother. I'd chosen to save my life instead of saving hers.[%p]"
+msgstr "1200:僕は、七海の命よりも自分の命を優先させた最低の兄貴。[%p]"
 
 msgid "1300:七海が無事に解放されたのは奇跡でしかない。僕はなにもしてないんだ。[%p]"
-msgstr "1300:It was nothing more than a miracle that Nanami had been released. I'd done nothing at all.[%p]"
+msgstr "1300:七海が無事に解放されたのは奇跡でしかない。僕はなにもしてないんだ。[%p]"
 
 msgid "1400:もしかしたら七海は、拉致されたのは僕のせいだって『将軍』から聞かされているかもしれない。[%p]"
-msgstr "1400:Maybe Shogun had told Nanami that it was my fault that she'd been kidnapped.[%p]"
+msgstr "1400:もしかしたら七海は、拉致されたのは僕のせいだって『将軍』から聞かされているかもしれない。[%p]"
 
 msgid "1500:だとしたら絶対怒ってる。[linebreak]僕のことを軽蔑して、口も利いてくれないかもしれない。[%p]"
-msgstr "1500:If so, she'd definitely be mad at me. She might hate me now, and not want to speak with me at all.[%p]"
+msgstr "1500:だとしたら絶対怒ってる。[linebreak]僕のことを軽蔑して、口も利いてくれないかもしれない。[%p]"
 
 msgid "1600:だから、会いに行く勇気がなかった。[%p]"
-msgstr "1600:I didn't have the courage to go talk to her.[%p]"
+msgstr "1600:だから、会いに行く勇気がなかった。[%p]"
 
 msgid "1700:でも、いざこうして姿を見たら、今さらになって心配になってきた。[%p]"
-msgstr "1700:But after I'd happened to see her, I started to get worried. Even though it was way too late.[%p]"
+msgstr "1700:でも、いざこうして姿を見たら、今さらになって心配になってきた。[%p]"
 
 msgid "1800:なにかヤバいことをされなかっただろうか。[linebreak]ケガをしたりしなかっただろうか。[linebreak]精神的な傷を負っていないだろうか。[%p]"
-msgstr "1800:Had they done anything to her? Had they hurt her? Was she okay, mentally?[%p]"
+msgstr "1800:なにかヤバいことをされなかっただろうか。[linebreak]ケガをしたりしなかっただろうか。[linebreak]精神的な傷を負っていないだろうか。[%p]"
 
 msgid "1900:一瞬、脳裏にあの“手首”の記憶がよみがえった。[%p]"
-msgstr "1900:For a moment, the memories of that “hand” came back to me.[%p]"
+msgstr "1900:一瞬、脳裏にあの“手首”の記憶がよみがえった。[%p]"
 
 msgid "2000:でも首を振ってそれを吹き消す。[%p]"
-msgstr "2000:But I shook my head.[%p]"
+msgstr "2000:でも首を振ってそれを吹き消す。[%p]"
 
 msgid "2100:あの切断された手首も、[linebreak]その手首にはめられていたバングルも、[linebreak]握られていたケータイも、[%p]"
-msgstr "2100:The severed hand, the bangle on the wrist, the phone...[%p]"
+msgstr "2100:あの切断された手首も、[linebreak]その手首にはめられていたバングルも、[linebreak]握られていたケータイも、[%p]"
 
 msgid "2200:全部、妄想だったんだ。[linebreak]リアルな、妄想。[%p]"
-msgstr "2200:They were all a delusion. A very realistic delusion.[%p]"
+msgstr "2200:全部、妄想だったんだ。[linebreak]リアルな、妄想。[%p]"
 
 msgid "2300:だって冷蔵庫からあの手首はなくなっていた。[linebreak]それは消えたと考えるよりは“最初からなかった”って考えた方が自然だ。[%p]"
-msgstr "2300:I knew this for a fact, because the hand had disappeared from my fridge. Instead of assuming it had disappeared, it was more natural to assume that it had never been there in the first place.[%p]"
+msgstr "2300:だって冷蔵庫からあの手首はなくなっていた。[linebreak]それは消えたと考えるよりは“最初からなかった”って考えた方が自然だ。[%p]"
 
 msgid "2400:こうして七海が元気に生きているのがその証拠だよ。[%p]"
-msgstr "2400:Especially since Nanami was alive, and here at school.[%p]"
+msgstr "2400:こうして七海が元気に生きているのがその証拠だよ。[%p]"
 
 msgid "2500:僕はいつしか、走り出していた。[linebreak]七海を追いかける。[linebreak]その姿がだんだん大きくなってくる。[%p]"
-msgstr "2500:I started to run after her without even realizing I was doing it. She was getting closer.[%p]"
+msgstr "2500:僕はいつしか、走り出していた。[linebreak]七海を追いかける。[linebreak]その姿がだんだん大きくなってくる。[%p]"
 
 msgid "2600:七海はまだ僕に気付かない。[linebreak]歩きながら、右手の指先で髪の先端をくるくると弄んでいる。[%p]"
-msgstr "2600:Nanami hadn't noticed me yet. As she walked, she played with her hair with her right hand.[%p]"
+msgstr "2600:七海はまだ僕に気付かない。[linebreak]歩きながら、右手の指先で髪の先端をくるくると弄んでいる。[%p]"
 
 msgid "2700:僕は、駆け寄って声をかけようとした。[%p]"
-msgstr "2700:I went to call out to her.[%p]"
+msgstr "2700:僕は、駆け寄って声をかけようとした。[%p]"
 
 msgid "2800:髪をいじる、妹の右手の制服の袖が、わずかにずり落ちて。[%p]"
-msgstr "2800:As she played with her hair, the sleeve around her right hand fell back a little.[%p]"
+msgstr "2800:髪をいじる、妹の右手の制服の袖が、わずかにずり落ちて。[%p]"
 
 msgid "2900:違和感を覚えた僕は、出しかけた声を呑み込み。[%p]"
-msgstr "2900:I gulped back my words.[%p]"
+msgstr "2900:違和感を覚えた僕は、出しかけた声を呑み込み。[%p]"
 
 msgid "3000:立ち止まった。[%p]"
-msgstr "3000:I stopped.[%p]"
+msgstr "3000:立ち止まった。[%p]"
 
 msgid "3100:見えたんだ。[%p]"
-msgstr "3100:I'd seen something.[%p]"
+msgstr "3100:見えたんだ。[%p]"
 
 msgid "3200:それは、とても些細な、ホントにどうでもいいような、違和感だったけど――[%p]"
-msgstr "3200:It was something very small, almost unnoticeable, but...[%p]"
+msgstr "3200:それは、とても些細な、ホントにどうでもいいような、違和感だったけど――[%p]"
 
 msgid "3300:でも――[%p]"
-msgstr "3300:But...[%p]"
+msgstr "3300:でも――[%p]"
 
 msgid "3400:白い。[%p]"
-msgstr "3400:Something white.[%p]"
+msgstr "3400:白い。[%p]"
 
 msgid "3500:巻かれていた。[%p]"
-msgstr "3500:Something wrapped.[%p]"
+msgstr "3500:巻かれていた。[%p]"
 
 msgid "3600:目立たないように。[%p]"
-msgstr "3600:Placed so that it wouldn't stand out.[%p]"
+msgstr "3600:目立たないように。[%p]"
 
 msgid "3700:包帯。[%p]"
-msgstr "3700:A bandage.[%p]"
+msgstr "3700:包帯。[%p]"
 
 msgid "3800:右手の。[%p]"
-msgstr "3800:On her right...[%p]"
+msgstr "3800:右手の。[%p]"
 
 msgid "3900:手首に――[%p]"
-msgstr "3900:wrist.[%p]"
+msgstr "3900:手首に――[%p]"
 

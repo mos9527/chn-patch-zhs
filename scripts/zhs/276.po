@@ -10,80 +10,80 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]梢[line]「また、あの車だ……」[%p]"
-msgstr "0:[name]梢[line]That car again...[%p]"
+msgstr "0:[name]梢[line]「また、あの車だ……」[%p]"
 
 msgid "100:神泉駅の前で、折原梢は立ちすくんだ。[linebreak]ここ数日、渋谷駅よりもこちらの駅から帰るようにしていた。[linebreak]それもすべて、以前渋谷駅前で白い車に追いかけ回されたから。[%p]"
-msgstr "100:Kozue Orihara was standing frozen in front of Shinsen Station. She'd been going home from here, rather than Shibuya, for the past few days. She'd made this decision after the white car had chased her around in front of Shibuya Station.[%p]"
+msgstr "100:神泉駅の前で、折原梢は立ちすくんだ。[linebreak]ここ数日、渋谷駅よりもこちらの駅から帰るようにしていた。[linebreak]それもすべて、以前渋谷駅前で白い車に追いかけ回されたから。[%p]"
 
 msgid "200:そのときの、白い車が。[linebreak]まるで、待ち構えていたかのように。[%p]"
-msgstr "200:And now, the same car was here, like it was waiting for her,[%p]"
+msgstr "200:そのときの、白い車が。[linebreak]まるで、待ち構えていたかのように。[%p]"
 
 msgid "300:駅の前に、停まっていた。[%p]"
-msgstr "300:parked in front of the station.[%p]"
+msgstr "300:駅の前に、停まっていた。[%p]"
 
 msgid "400:梢が立ち尽くしていると、助手席のウインドウがゆっくりと下がって、半分ぐらい開いたところで止まった。[%p]"
-msgstr "400:As she stood there, the passenger side window slowly rolled down, and then stopped halfway.[%p]"
+msgstr "400:梢が立ち尽くしていると、助手席のウインドウがゆっくりと下がって、半分ぐらい開いたところで止まった。[%p]"
 
 msgid "500:その隙間から、中に乗っている人の手が、にゅっと飛び出してくる。[linebreak]手鏡を、握りしめて。[%p]"
-msgstr "500:The hand of the person inside popped out. It was holding a mirror tightly,[%p]"
+msgstr "500:その隙間から、中に乗っている人の手が、にゅっと飛び出してくる。[linebreak]手鏡を、握りしめて。[%p]"
 
 msgid "600:梢に、見せつけるかのように。[%p]"
-msgstr "600:as if they wanted to make sure she saw it.[%p]"
+msgstr "600:梢に、見せつけるかのように。[%p]"
 
 msgid "700:[name]梢[line]「……っ」[%p]"
-msgstr "700:[name]梢[line]...[%p]"
+msgstr "700:[name]梢[line]「……っ」[%p]"
 
 msgid "800:息が止まりそうなほどの恐怖。[linebreak]とっさに梢はその場からきびすを返して、逃げ出していた。[%p]"
-msgstr "800:Kozue was so terrified, she could barely breathe. She turned around and ran.[%p]"
+msgstr "800:息が止まりそうなほどの恐怖。[linebreak]とっさに梢はその場からきびすを返して、逃げ出していた。[%p]"
 
 msgid "900:無我夢中であちこちを走り続け、途中、何度も転んで膝を擦りむきながら、なんとか宮下公園に逃げ込み、夜になるまでベンチに座って震え続けた。[%p]"
-msgstr "900:She ran as fast as she could, and as far as she could, down one alley or street after another. Several times, she tripped and scraped her knees, but eventually she made it to Miyashita Park. She sat there shivering on a bench until night fell.[%p]"
+msgstr "900:無我夢中であちこちを走り続け、途中、何度も転んで膝を擦りむきながら、なんとか宮下公園に逃げ込み、夜になるまでベンチに座って震え続けた。[%p]"
 
 msgid "1000:けれど、いつまでもここで膝を抱えているわけにもいかない。[linebreak]怯えながらも、梢は頃合いを見計らって、渋谷駅へと向かった。[%p]"
-msgstr "1000:But she couldn't stay there forever. When she'd waited long enough that she was sure they must've given up, she headed for Shibuya Station.[%p]"
+msgstr "1000:けれど、いつまでもここで膝を抱えているわけにもいかない。[linebreak]怯えながらも、梢は頃合いを見計らって、渋谷駅へと向かった。[%p]"
 
 msgid "1100:そこにも、停まっていた。[linebreak]さっきと同じ、白い車。[%p]"
-msgstr "1100:There it was. The same white car.[%p]"
+msgstr "1100:そこにも、停まっていた。[linebreak]さっきと同じ、白い車。[%p]"
 
 msgid "1200:[name]梢[line]「や、やだ……。やだよぅ……！」[%p]"
-msgstr "1200:[name]梢[line]No... No![%p]"
+msgstr "1200:[name]梢[line]「や、やだ……。やだよぅ……！」[%p]"
 
 msgid "1300:どこへ向かうあてもなく、走り続ける。[linebreak]涙がとめどなく溢れてくる。[linebreak]脳裏をよぎるのは、疑問。[%p]"
-msgstr "1300:She kept running, without any idea of where she was going. The tears wouldn't stop coming. Questions were running through her mind.[%p]"
+msgstr "1300:どこへ向かうあてもなく、走り続ける。[linebreak]涙がとめどなく溢れてくる。[linebreak]脳裏をよぎるのは、疑問。[%p]"
 
 msgid "1400:あの白い車に乗っているのは何者なのか。[linebreak]なぜ梢に嫌がらせをしてくるのか。[%p]"
-msgstr "1400:Who was in the white car? Why were they doing this to her?[%p]"
+msgstr "1400:あの白い車に乗っているのは何者なのか。[linebreak]なぜ梢に嫌がらせをしてくるのか。[%p]"
 
 msgid "1500:いつの間にか、神泉の駅の近くまで来ていた。[linebreak]さっき駅前であの車が待ち構えていたことを考えると、駅には行きたくなかった。[%p]"
-msgstr "1500:At some point, she'd gotten close to Shinsen Station again. The car had been waiting for her before, and she didn't want to go there again.[%p]"
+msgstr "1500:いつの間にか、神泉の駅の近くまで来ていた。[linebreak]さっき駅前であの車が待ち構えていたことを考えると、駅には行きたくなかった。[%p]"
 
 msgid "1600:普段は行かない細い路地を入る。[linebreak]街灯もなく、薄暗い。[linebreak]それが梢の恐怖をより増幅させる。[%p]"
-msgstr "1600:She went down a narrow alley she didn't normally use. It was dark. There were no lights. The darkness only amplified her fear.[%p]"
+msgstr "1600:普段は行かない細い路地を入る。[linebreak]街灯もなく、薄暗い。[linebreak]それが梢の恐怖をより増幅させる。[%p]"
 
 msgid "1700:梢はすでに疲れ切っていた。もう走る体力はない。[linebreak]涙を拭いながら、それでも必死に歩き続け――[%p]"
-msgstr "1700:Kozue was already exhausted. She couldn't run anymore. She wiped away her tears and ran as hard as she could.[%p]"
+msgstr "1700:梢はすでに疲れ切っていた。もう走る体力はない。[linebreak]涙を拭いながら、それでも必死に歩き続け――[%p]"
 
 msgid "1800:大きな通りに出たと思ったら――[linebreak]その瞬間に、目の前をあの白い車が通り過ぎていった。[%p]"
-msgstr "1800:And when she came out to a large street... The white car was passing right in front of her.[%p]"
+msgstr "1800:大きな通りに出たと思ったら――[linebreak]その瞬間に、目の前をあの白い車が通り過ぎていった。[%p]"
 
 msgid "1900:梢は、愕然としてその車の行方を追う。[linebreak]白い車は、５０メートルほど先でハザードランプを点灯させて、路肩に停止した。[%p]"
-msgstr "1900:Kozue watched it in sheer astonishment. It stopped about fifty meters ahead of her and put on its flashers.[%p]"
+msgstr "1900:梢は、愕然としてその車の行方を追う。[linebreak]白い車は、５０メートルほど先でハザードランプを点灯させて、路肩に停止した。[%p]"
 
 msgid "2000:[name]梢[line]「やだ……やだ……」[%p]"
-msgstr "2000:[name]梢[line]No... No...[%p]"
+msgstr "2000:[name]梢[line]「やだ……やだ……」[%p]"
 
 msgid "2100:逃げる気力も失われる。[linebreak]どこへ逃げても、追いかけ回してくる。[linebreak]梢の心を読んでいるかのように、先回りしてくる。[%p]"
-msgstr "2100:She didn't have the energy left to run again. No matter where she ran, it would follow her. It was always ahead of her, like it was reading her mind.[%p]"
+msgstr "2100:逃げる気力も失われる。[linebreak]どこへ逃げても、追いかけ回してくる。[linebreak]梢の心を読んでいるかのように、先回りしてくる。[%p]"
 
 msgid "2200:梢はその場にへたり込み、頭を抱え。[%p]"
-msgstr "2200:Kozue dropped to her knees and put her hands over her head.[%p]"
+msgstr "2200:梢はその場にへたり込み、頭を抱え。[%p]"
 
 msgid "2300:[name]梢[line]「助けて、誰か、助けて……！」[%p]"
-msgstr "2300:[name]梢[line]Help me... Somebody help me![%p]"
+msgstr "2300:[name]梢[line]「助けて、誰か、助けて……！」[%p]"
 
 msgid "2400:心の中で、救いを求めた。[linebreak]けれど、結局誰も、梢を助けに来てはくれなくて。[%p]"
-msgstr "2400:She cried out for help inside her mind. But nobody came to help her.[%p]"
+msgstr "2400:心の中で、救いを求めた。[linebreak]けれど、結局誰も、梢を助けに来てはくれなくて。[%p]"
 
 msgid "2500:白い車は、梢が泣きながら立ち去るまで、そこに停車していた。[linebreak]乗っている人間は、最後まで姿を見せようとはしなかった。[%p]"
-msgstr "2500:The white car stayed there, unmoving, until Kozue left crying. The person inside never showed themselves.[%p]"
+msgstr "2500:白い車は、梢が泣きながら立ち去るまで、そこに停車していた。[linebreak]乗っている人間は、最後まで姿を見せようとはしなかった。[%p]"
 

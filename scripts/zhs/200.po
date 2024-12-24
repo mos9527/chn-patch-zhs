@@ -10,179 +10,179 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:神泉にある古びたビルの屋上。[linebreak]西條拓巳の暮らしているコンテナハウスは、今はひっそりと静まり返っている。[%p]"
-msgstr "0:The shipping crate that Takumi Nishijo called home was perched silently on the roof of an old building in Shinsen.[%p]"
+msgstr "0:神泉にある古びたビルの屋上。[linebreak]西條拓巳の暮らしているコンテナハウスは、今はひっそりと静まり返っている。[%p]"
 
 msgid "100:蒼井セナがこの場所を訪れるのは、二度目だ。[%p]"
-msgstr "100:Sena Aoi was coming here now for the second time.[%p]"
+msgstr "100:蒼井セナがこの場所を訪れるのは、二度目だ。[%p]"
 
 msgid "200:１度目は数日前。センター街で梢と拓巳が一緒にいるところにたまたま遭遇した後、こっそり尾行した。それでこの場所を突き止めたのだった。[%p]"
-msgstr "200:The first had been a few days prior. When she'd run into Takumi and Kozue at Center Street, she'd secretly followed him home. That's how she'd found this place.[%p]"
+msgstr "200:１度目は数日前。センター街で梢と拓巳が一緒にいるところにたまたま遭遇した後、こっそり尾行した。それでこの場所を突き止めたのだった。[%p]"
 
 msgid "300:[name]梢[line]「セナしゃん、やめた方がいいと思うのら……」[%p]"
-msgstr "300:[name]梢[line]Sena, we shouldn't be doing this![%p]"
+msgstr "300:[name]梢[line]「セナしゃん、やめた方がいいと思うのら……」[%p]"
 
 msgid "400:[name]梢[line]「ドロボーしゃんはね、こずぴぃ、嫌いなの〜。ふみゅー」[%p]"
-msgstr "400:[name]梢[line]Kozupii doesn't want to be a thief! Fumyuu...[%p]"
+msgstr "400:[name]梢[line]「ドロボーしゃんはね、こずぴぃ、嫌いなの〜。ふみゅー」[%p]"
 
 msgid "500:[name]セナ[line]「それなら、どうしてついてきた」[%p]"
-msgstr "500:[name]セナ[line]Then why did you come?[%p]"
+msgstr "500:[name]セナ[line]「それなら、どうしてついてきた」[%p]"
 
 msgid "600:肩を落として浮かない顔をしている梢に対し、振り返らずに冷たくそうあしらう。[%p]"
-msgstr "600:Sena spoke coldly, without even looking back at Kozue.[%p]"
+msgstr "600:肩を落として浮かない顔をしている梢に対し、振り返らずに冷たくそうあしらう。[%p]"
 
 msgid "700:セナは拓巳の部屋に忍び込むつもりでここに来た。[%p]"
-msgstr "700:Sena had come here to sneak into Takumi's room.[%p]"
+msgstr "700:セナは拓巳の部屋に忍び込むつもりでここに来た。[%p]"
 
 msgid "800:西條拓巳は、普通じゃない――[%p]"
-msgstr "800:Takumi Nishijo wasn't normal.[%p]"
+msgstr "800:西條拓巳は、普通じゃない――[%p]"
 
 msgid "900:何度か彼と話した結果、セナはそういう結論に達した。[%p]"
-msgstr "900:After talking to him several times, that was the conclusion she'd reached.[%p]"
+msgstr "900:何度か彼と話した結果、セナはそういう結論に達した。[%p]"
 
 msgid "1000:彼が、セナや梢のような“普通”のギガロマニアックスとは一線を画しているのは間違いない。[%p]"
-msgstr "1000:He was different from “normal” Gigalomaniacs, like Sena and Kozue.[%p]"
+msgstr "1000:彼が、セナや梢のような“普通”のギガロマニアックスとは一線を画しているのは間違いない。[%p]"
 
 msgid "1100:恐ろしく人並み外れた妄想能力の持ち主か、あるいはなんらかの“人為的なサポート”を受けているのか。[%p]"
-msgstr "1100:Either the strength of his delusions was incredibly intense, or he was receiving some kind of artificial support.[%p]"
+msgstr "1100:恐ろしく人並み外れた妄想能力の持ち主か、あるいはなんらかの“人為的なサポート”を受けているのか。[%p]"
 
 msgid "1200:いずれにせよ拓巳という存在のあやふやさが、[linebreak]セナにはどうしても引っかかるのだ。[%p]"
-msgstr "1200:Either way, his very existence seemed like it was... unstable, somehow. Something about him bothered Sena a lot.[%p]"
+msgstr "1200:いずれにせよ拓巳という存在のあやふやさが、[linebreak]セナにはどうしても引っかかるのだ。[%p]"
 
 msgid "1300:彼女は、波多野という男を探していた。[%p]"
-msgstr "1300:She was looking for a man named Hatano.[%p]"
+msgstr "1300:彼女は、波多野という男を探していた。[%p]"
 
 msgid "1400:もしかすると西條拓巳は、[linebreak]どこかで波多野と繋がっているかもしれない――[%p]"
-msgstr "1400:And it was possible that Takumi Nishijo was connected to him somehow.[%p]"
+msgstr "1400:もしかすると西條拓巳は、[linebreak]どこかで波多野と繋がっているかもしれない――[%p]"
 
 msgid "1500:確証はなかった。[%p]"
-msgstr "1500:She had no way of being sure.[%p]"
+msgstr "1500:確証はなかった。[%p]"
 
 msgid "1600:だが少しでも疑わしいなら、それを実際にこの目で確かめて、可能性をひとつずつ潰していく。[%p]"
-msgstr "1600:But if there was any chance, even a small one, she wouldn't rest until she'd ruled it out with her own eyes.[%p]"
+msgstr "1600:だが少しでも疑わしいなら、それを実際にこの目で確かめて、可能性をひとつずつ潰していく。[%p]"
 
 msgid "1700:そうすれば、絶対に標的にたどり着ける。セナはそう信じていた。[%p]"
-msgstr "1700:As long as she kept doing that, she'd find her target eventually. That's what Sena believed.[%p]"
+msgstr "1700:そうすれば、絶対に標的にたどり着ける。セナはそう信じていた。[%p]"
 
 msgid "1800:扉には、南京錠がかけられていた。[%p]"
-msgstr "1800:There was a padlock on the door.[%p]"
+msgstr "1800:扉には、南京錠がかけられていた。[%p]"
 
 msgid "1900:セナは小さく鼻を鳴らして、すでにリアルブートしていたディソードを振り下ろす。[%p]"
-msgstr "1900:Sena gave a little snort, and brought down her Di-Sword. She'd already real booted it.[%p]"
+msgstr "1900:セナは小さく鼻を鳴らして、すでにリアルブートしていたディソードを振り下ろす。[%p]"
 
 msgid "2000:あっさりと、南京錠は砕け散った。[%p]"
-msgstr "2000:The padlock shattered easily.[%p]"
+msgstr "2000:あっさりと、南京錠は砕け散った。[%p]"
 
 msgid "2100:[name]梢[line]「拓巳しゃんが帰ってきたら、怒られちゃうよ……？」[%p]"
-msgstr "2100:[name]梢[line]When Takumi comes back, he'll get mad at you![%p]"
+msgstr "2100:[name]梢[line]「拓巳しゃんが帰ってきたら、怒られちゃうよ……？」[%p]"
 
 msgid "2200:拓巳が友人２人とともに学校を出て駅の方へ向かうのを、セナはすでに確認していた。[%p]"
-msgstr "2200:Sena had already seen that Takumi had left school with two friends, heading in the direction of the station.[%p]"
+msgstr "2200:拓巳が友人２人とともに学校を出て駅の方へ向かうのを、セナはすでに確認していた。[%p]"
 
 msgid "2300:それに例え拓巳にバレたとしても構わなかった。セナは自らの目的のためならば、誰に嫌われようが、警察に通報されようが、どうでもよかったのだ。[%p]"
-msgstr "2300:And even if he did find out, she didn't care. Sena would do anything to achieve her goal, even if that meant making somebody mad, or having them call the cops.[%p]"
+msgstr "2300:それに例え拓巳にバレたとしても構わなかった。セナは自らの目的のためならば、誰に嫌われようが、警察に通報されようが、どうでもよかったのだ。[%p]"
 
 msgid "2400:扉を開いて、室内に足を踏み入れる。[%p]"
-msgstr "2400:She opened the door and went inside.[%p]"
+msgstr "2400:扉を開いて、室内に足を踏み入れる。[%p]"
 
 msgid "2500:[name]セナ[line]「…………」[%p]"
-msgstr "2500:[name]セナ[line]...[%p]"
+msgstr "2500:[name]セナ[line]「…………」[%p]"
 
 msgid "2600:ゴミためのような部屋の中の惨状に、セナはたまらず顔をしかめ、うめき声を上げた。[%p]"
-msgstr "2600:The place was like a garbage dump. Sena couldn't help but wince and give a small moan.[%p]"
+msgstr "2600:ゴミためのような部屋の中の惨状に、セナはたまらず顔をしかめ、うめき声を上げた。[%p]"
 
 msgid "2700:[name]梢[line]「きったなーいね♪」[%p]"
-msgstr "2700:[name]梢[line]It's so filthy, huh? ♪[%p]"
+msgstr "2700:[name]梢[line]「きったなーいね♪」[%p]"
 
 msgid "2800:[name]セナ[line]「なんで楽しそうなんだ、梢」[%p]"
-msgstr "2800:[name]セナ[line]You seem like you're having fun, Kozue.[%p]"
+msgstr "2800:[name]セナ[line]「なんで楽しそうなんだ、梢」[%p]"
 
 msgid "2900:[name]梢[line]「靴は脱いだ方がいーいのかなあ？」[%p]"
-msgstr "2900:[name]梢[line]Should I take my shoes off?[%p]"
+msgstr "2900:[name]梢[line]「靴は脱いだ方がいーいのかなあ？」[%p]"
 
 msgid "3000:ため息をつき、セナは土足のまま部屋の奥へと進む。[%p]"
-msgstr "3000:Sena sighed, and went inside the room without bothering to remove her shoes.[%p]"
+msgstr "3000:ため息をつき、セナは土足のまま部屋の奥へと進む。[%p]"
 
 msgid "3100:[name]梢[line]「お人形さん、いっぱいなのらー。うぷー」[%p]"
-msgstr "3100:[name]梢[line]There are lotsa dolls, nora! Upoooh![%p]"
+msgstr "3100:[name]梢[line]「お人形さん、いっぱいなのらー。うぷー」[%p]"
 
 msgid "3200:[name]梢[line]「拓巳しゃんて、ヘンターイさんだったんだ。すごいのー」[%p]"
-msgstr "3200:[name]梢[line]I guess Takumi's a big pervert! Wow![%p]"
+msgstr "3200:[name]梢[line]「拓巳しゃんて、ヘンターイさんだったんだ。すごいのー」[%p]"
 
 msgid "3300:妙な感心をしている梢を放っておいて、セナはＰＣの前に立つ。[%p]"
-msgstr "3300:Sena ignored Kozue, who seemed strangely impressed for some reason, and went over to the computer.[%p]"
+msgstr "3300:妙な感心をしている梢を放っておいて、セナはＰＣの前に立つ。[%p]"
 
 msgid "3400:なんの躊躇もなく電源を入れ、起動を待つ間にデスクの上にある物へと目を走らせた。[%p]"
-msgstr "3400:She turned on Takumi's PC, and while she waited for it to boot up, she ran her eyes across the contents of the desk.[%p]"
+msgstr "3400:なんの躊躇もなく電源を入れ、起動を待つ間にデスクの上にある物へと目を走らせた。[%p]"
 
 msgid "3500:[name]セナ[line]「……？」[%p]"
-msgstr "3500:[name]セナ[line]...?[%p]"
+msgstr "3500:[name]セナ[line]「……？」[%p]"
 
 msgid "3600:眉をひそめつつ、置かれていた作文用紙を手に取る。[%p]"
-msgstr "3600:Her eyes narrowed as she picked up an old sheet of essay paper.[%p]"
+msgstr "3600:眉をひそめつつ、置かれていた作文用紙を手に取る。[%p]"
 
 msgid "3700:[name]梢[line]「あっ！\u3000あっ！\u3000あーーっ！」[%p]"
-msgstr "3700:[name]梢[line]Hey! Hey! Hey![%p]"
+msgstr "3700:[name]梢[line]「あっ！\u3000あっ！\u3000あーーっ！」[%p]"
 
 msgid "3800:[name]梢[line]「“その目だれの目？”だぁ！」[%p]"
-msgstr "3800:[name]梢[line]It's “Whose eyes are those?”[%p]"
+msgstr "3800:[name]梢[line]「“その目だれの目？”だぁ！」[%p]"
 
 msgid "3900:セナの背後から作文をのぞき込んだ梢は、興奮したようにぴょんぴょんとその場で跳ねた。[%p]"
-msgstr "3900:Kozue had been looking over Sena's shoulder. She was jumping up and down with delight.[%p]"
+msgstr "3900:セナの背後から作文をのぞき込んだ梢は、興奮したようにぴょんぴょんとその場で跳ねた。[%p]"
 
 msgid "4000:[name]梢[line]「やっぱり、拓巳しゃんが“その目だれの目？”の人だったのらー！」[%p]"
-msgstr "4000:[name]梢[line]I knew it! Takumi was the “Whose eyes are those?” guy![%p]"
+msgstr "4000:[name]梢[line]「やっぱり、拓巳しゃんが“その目だれの目？”の人だったのらー！」[%p]"
 
 msgid "4100:[name]梢[line]「こずぴぃは、ぱんぱかぱーん！\u3000だったぽーん！」[%p]"
-msgstr "4100:[name]梢[line]Kozupii was right! Pan-paka-pan! Pon![%p]"
+msgstr "4100:[name]梢[line]「こずぴぃは、ぱんぱかぱーん！\u3000だったぽーん！」[%p]"
 
 msgid "4200:[name]セナ[line]「…………」[%p]"
-msgstr "4200:[name]セナ[line]...[%p]"
+msgstr "4200:[name]セナ[line]「…………」[%p]"
 
 msgid "4300:そんな梢とは対照的に、セナは興味なさげにその作文をざっと読み、それから何気なく裏面を見た。[%p]"
-msgstr "4300:Sena, however, seemed much less interested in the essay than Kozue. She flipped it over to see if anything was written on the other side.[%p]"
+msgstr "4300:そんな梢とは対照的に、セナは興味なさげにその作文をざっと読み、それから何気なく裏面を見た。[%p]"
 
 msgid "4400:[name]セナ[line]「……っ！」[%p]"
-msgstr "4400:[name]セナ[line]...![%p]"
+msgstr "4400:[name]セナ[line]「……っ！」[%p]"
 
 msgid "4500:直後、愕然と目を見開く。[%p]"
-msgstr "4500:Suddenly, her eyes went wide with shock.[%p]"
+msgstr "4500:直後、愕然と目を見開く。[%p]"
 
 msgid "4600:[name]セナ[line]「これ……は……！」[%p]"
-msgstr "4600:[name]セナ[line]This... is...![%p]"
+msgstr "4600:[name]セナ[line]「これ……は……！」[%p]"
 
 msgid "4700:そこに描かれていたもの。それは――[%p]"
-msgstr "4700:What she saw there... was...[%p]"
+msgstr "4700:そこに描かれていたもの。それは――[%p]"
 
 msgid "4800:[name]梢[line]「うぴー？\u3000人がいっぱーいだね。これロボットさん？」[%p]"
-msgstr "4800:[name]梢[line]Upiih? There are lots of people. And is this a robot?[%p]"
+msgstr "4800:[name]梢[line]「うぴー？\u3000人がいっぱーいだね。これロボットさん？」[%p]"
 
 msgid "4900:[name]梢[line]「あいあーるに、だって」[%p]"
-msgstr "4900:[name]梢[line]It says “Ir2.”[%p]"
+msgstr "4900:[name]梢[line]「あいあーるに、だって」[%p]"
 
 msgid "5000:[name]セナ[line]「…………」[%p]"
-msgstr "5000:[name]セナ[line]...[%p]"
+msgstr "5000:[name]セナ[line]「…………」[%p]"
 
 msgid "5100:[name]梢[line]「セナしゃん？」[%p]"
-msgstr "5100:[name]梢[line]Sena?[%p]"
+msgstr "5100:[name]梢[line]「セナしゃん？」[%p]"
 
 msgid "5200:セナの口から、ギリリと歯噛みする音が漏れた。[%p]"
-msgstr "5200:Sena was gritting her teeth so loud that you could physically hear it.[%p]"
+msgstr "5200:セナの口から、ギリリと歯噛みする音が漏れた。[%p]"
 
 msgid "5300:その表情はいつも以上に険しく、作文用紙を持っている手は怒りにより小刻みに震えている。[%p]"
-msgstr "5300:Her expression was even angrier than usual, and her hands shook with rage as she held the essay.[%p]"
+msgstr "5300:その表情はいつも以上に険しく、作文用紙を持っている手は怒りにより小刻みに震えている。[%p]"
 
 msgid "5400:[name]セナ[line]「そう、か……」[%p]"
-msgstr "5400:[name]セナ[line]So that's it.[%p]"
+msgstr "5400:[name]セナ[line]「そう、か……」[%p]"
 
 msgid "5500:[name]セナ[line]「西條が……Ｉｒ２を生み出した、張本人か……っ！」[%p]"
-msgstr "5500:[name]セナ[line]Nishijo's the one who created Ir2…[%p]"
+msgstr "5500:[name]セナ[line]「西條が……Ｉｒ２を生み出した、張本人か……っ！」[%p]"
 
 msgid "5600:押し殺した声を発して。[linebreak]"
-msgstr "5600:Her voice was quiet.[linebreak]"
+msgstr "5600:押し殺した声を発して。[linebreak]"
 
 msgid "5700:セナは、ぐしゃりと作文用紙を握り潰した。[%p]"
-msgstr "5700:Sena crumpled up the essay into a ball and crushed it with her fist.[%p]"
+msgstr "5700:セナは、ぐしゃりと作文用紙を握り潰した。[%p]"
 
 msgid "5800:押し殺した声を発して。セナは、ぐしゃりと作文用紙を握り潰した。"
-msgstr "5800:Her voice was quiet. Sena crumpled up the essay into a ball and crushed it with her fist."
+msgstr "5800:押し殺した声を発して。セナは、ぐしゃりと作文用紙を握り潰した。"
 

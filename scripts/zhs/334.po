@@ -10,170 +10,170 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:目を覚まして、違和感を覚えた。[linebreak]なにかが足りない。そんな気がした。[%p]"
-msgstr "0:I woke up and felt something strange. Something was missing. That's how it felt.[%p]"
+msgstr "0:目を覚まして、違和感を覚えた。[linebreak]なにかが足りない。そんな気がした。[%p]"
 
 msgid "100:ぼんやりしたまま、部屋の中を見回す。[%p]"
-msgstr "100:My eyes were still a little blurry as I looked around the room.[%p]"
+msgstr "100:ぼんやりしたまま、部屋の中を見回す。[%p]"
 
 msgid "200:立ち上がろうとして手首が紐に食い込み、痛みが走った。[linebreak]今の自分は縛られているんだった、と思い出す。[linebreak]縛ったのは優愛。[%p]"
-msgstr "200:When I tried to stand up, the cords dug into my wrists, sending pain shooting through my arms. I remembered that I was tied up. Yua was the one who'd tied me up.[%p]"
+msgstr "200:立ち上がろうとして手首が紐に食い込み、痛みが走った。[linebreak]今の自分は縛られているんだった、と思い出す。[linebreak]縛ったのは優愛。[%p]"
 
 msgid "300:……優愛がいない。[%p]"
-msgstr "300:Yua wasn't here.[%p]"
+msgstr "300:……優愛がいない。[%p]"
 
 msgid "400:違和感の正体はそれだ。[linebreak]今、ここにいるのは僕だけだった。[%p]"
-msgstr "400:That was what had felt so wrong. I was the only one here now.[%p]"
+msgstr "400:違和感の正体はそれだ。[linebreak]今、ここにいるのは僕だけだった。[%p]"
 
 msgid "500:優愛はどこに行ったんだろう。[linebreak]食事を作りに行ったのか、あるいはトイレか。[%p]"
-msgstr "500:Where'd she gone? Did she go to make more food? Or to the bathroom?[%p]"
+msgstr "500:優愛はどこに行ったんだろう。[linebreak]食事を作りに行ったのか、あるいはトイレか。[%p]"
 
 msgid "600:優愛に監禁されて何日経っているのかは分からないけど、その間、あの女も僕も一度も学校には行ってない。[%p]"
-msgstr "600:I had no idea how long Yua and I had been here, but neither she nor I had gone to school once during that time.[%p]"
+msgstr "600:優愛に監禁されて何日経っているのかは分からないけど、その間、あの女も僕も一度も学校には行ってない。[%p]"
 
 msgid "700:外に出るのは、トイレと食事のときだけ。[linebreak]シャワーは浴びることを許されなかった。[%p]"
-msgstr "700:The only times either of us left this room were either to cook or use the bathroom. I wasn't even allowed to take a shower.[%p]"
+msgstr "700:外に出るのは、トイレと食事のときだけ。[linebreak]シャワーは浴びることを許されなかった。[%p]"
 
 msgid "800:深々とため息をつく。[linebreak]どうせ優愛はすぐに戻ってくるんだろう。[linebreak]そしてまた、僕を延々と監視し続けるんだ。[%p]"
-msgstr "800:I let out a deep sigh. Yua was probably going to come back any minute now. Then she'd go right back to watching me.[%p]"
+msgstr "800:深々とため息をつく。[linebreak]どうせ優愛はすぐに戻ってくるんだろう。[linebreak]そしてまた、僕を延々と監視し続けるんだ。[%p]"
 
 msgid "900:優愛はかなり辛抱強い性格なんだろうか。[linebreak]それとも妹の死への無念さや憎しみが、そんな異常な行動に駆り立てるんだろうか。[%p]"
-msgstr "900:Did Yua just have a really persistent personality? Or was it her anger and rage at her sister's death that was driving her to act so bizarrely?[%p]"
+msgstr "900:優愛はかなり辛抱強い性格なんだろうか。[linebreak]それとも妹の死への無念さや憎しみが、そんな異常な行動に駆り立てるんだろうか。[%p]"
 
 msgid "1000:どうやったら、僕は『将軍』じゃないって、分かってくれるんだろう。[%p]"
-msgstr "1000:How could I get her to understand that I wasn't Shogun?[%p]"
+msgstr "1000:どうやったら、僕は『将軍』じゃないって、分かってくれるんだろう。[%p]"
 
 msgid "1100:ＰＣに保存してあるはずの、『将軍』からのメールを見せてやろうかな。[%p]"
-msgstr "1100:Maybe I could show her the message I'd received from him on my PC?[%p]"
+msgstr "1100:ＰＣに保存してあるはずの、『将軍』からのメールを見せてやろうかな。[%p]"
 
 msgid "1200:でも優愛はある意味で自分の妄想に取り憑かれていると言っていい。[linebreak]それを見せたぐらいで信じるとも思えない。[%p]"
-msgstr "1200:But Yua was completely overtaken with her own delusions right now. A single email wouldn't change her mind.[%p]"
+msgstr "1200:でも優愛はある意味で自分の妄想に取り憑かれていると言っていい。[linebreak]それを見せたぐらいで信じるとも思えない。[%p]"
 
 msgid "1300:もっと決定的に、僕と『将軍』が別人だと証明しなくちゃ。[linebreak]それこそ『将軍』がこの場に現れてくれれば、その証明はすぐできるんだけど。[%p]"
-msgstr "1300:I needed something more definitive to prove that Shogun and I were separate people. If Shogun were to show up in my room, that'd do it.[%p]"
+msgstr "1300:もっと決定的に、僕と『将軍』が別人だと証明しなくちゃ。[linebreak]それこそ『将軍』がこの場に現れてくれれば、その証明はすぐできるんだけど。[%p]"
 
 msgid "1400:もっとも、それはそれで僕が困る。[%p]"
-msgstr "1400:Of course, that'd be a problem on its own.[%p]"
+msgstr "1400:もっとも、それはそれで僕が困る。[%p]"
 
 msgid "1500:僕は、『将軍』に会いたくない。[linebreak]ヤツがここに来るっていうことはすなわち、僕を殺しに来ることを意味するんだから。[%p]"
-msgstr "1500:I didn't want to see Shogun ever again. If he was here, that meant he'd come to kill me.[%p]"
+msgstr "1500:僕は、『将軍』に会いたくない。[linebreak]ヤツがここに来るっていうことはすなわち、僕を殺しに来ることを意味するんだから。[%p]"
 
 msgid "1600:[name]星来[line]「ねえねえ、タッキー。逃げた方がいいよぉ」[%p]"
-msgstr "1600:[name]星来[line]Hey, hey! Takky! You should get out of here![%p]"
+msgstr "1600:[name]星来[line]「ねえねえ、タッキー。逃げた方がいいよぉ」[%p]"
 
 msgid "1700:[name]星来[line]「あたし、あんな思い込み激しいストーカー女に、これ以上タッキーがいじめられるのを見たくないもん」[%p]"
-msgstr "1700:[name]星来[line]I don't want to see that crazy stalker woman hurt you anymore![%p]"
+msgstr "1700:[name]星来[line]「あたし、あんな思い込み激しいストーカー女に、これ以上タッキーがいじめられるのを見たくないもん」[%p]"
 
 msgid "1800:ありがとう、星来……。[%p]"
-msgstr "1800:Thank you, Seira.[%p]"
+msgstr "1800:ありがとう、星来……。[%p]"
 
 msgid "1900:でも、腕の拘束は僕１人じゃ外せそうにない。[%p]"
-msgstr "1900:I don't think I can untie myself, though.[%p]"
+msgstr "1900:でも、腕の拘束は僕１人じゃ外せそうにない。[%p]"
 
 msgid "2000:もちろんこれまでにも、何度も脱出しようと試みてみたけど、ダメだった。優愛の結び方はきつくて、はっきり言ってびくともしない。[%p]"
-msgstr "2000:I'd tried a bunch of times, of course, but I'd failed. Yua had tied the knots tightly. They weren't budging.[%p]"
+msgstr "2000:もちろんこれまでにも、何度も脱出しようと試みてみたけど、ダメだった。優愛の結び方はきつくて、はっきり言ってびくともしない。[%p]"
 
 msgid "2100:[name]星来[line]「あたしが三次元になれたら、今すぐタッキーを助けに行くのにな……」[%p]"
-msgstr "2100:[name]星来[line]If only I was 3D, I'd untie you right away.[%p]"
+msgstr "2100:[name]星来[line]「あたしが三次元になれたら、今すぐタッキーを助けに行くのにな……」[%p]"
 
 msgid "2200:だけどさ、このままおとなしくしていた方がいいような気もするんだ。[%p]"
-msgstr "2200:But it also felt like staying here was the right move, anyway.[%p]"
+msgstr "2200:だけどさ、このままおとなしくしていた方がいいような気もするんだ。[%p]"
 
 msgid "2300:無理して逃げようとしたら、優愛に逆上されちゃうかもしれない。[linebreak]優愛がキレたときの怖さは異常。[linebreak]できればあんまり刺激したくない。[%p]"
-msgstr "2300:Trying to run might just make her mad. When she got mad, she was incredibly scary. I didn't want to do anything that might piss her off.[%p]"
+msgstr "2300:無理して逃げようとしたら、優愛に逆上されちゃうかもしれない。[linebreak]優愛がキレたときの怖さは異常。[linebreak]できればあんまり刺激したくない。[%p]"
 
 msgid "2400:[name]星来[line]「自分の命を守るために一番いい方法を、ちゃんと考えてるんだね。すごいよタッキー！」[%p]"
-msgstr "2400:[name]星来[line]You're thinking of the best way to keep yourself alive, huh? You're amazing, Takky![%p]"
+msgstr "2400:[name]星来[line]「自分の命を守るために一番いい方法を、ちゃんと考えてるんだね。すごいよタッキー！」[%p]"
 
 msgid "2500:[name]星来[line]「だけどあたしさ、これ以上、タッキーとあの女が同じ部屋にいるのはイヤだな……」[%p]"
-msgstr "2500:[name]星来[line]But for my part, I don't want to see her in the same room with you anymore.[%p]"
+msgstr "2500:[name]星来[line]「だけどあたしさ、これ以上、タッキーとあの女が同じ部屋にいるのはイヤだな……」[%p]"
 
 msgid "2600:僕だってイヤだけど、縛られたこの状態じゃ、優愛に頼るしかない。[%p]"
-msgstr "2600:I didn't either, but tied up like this, I'd just have to rely on her.[%p]"
+msgstr "2600:僕だってイヤだけど、縛られたこの状態じゃ、優愛に頼るしかない。[%p]"
 
 msgid "2700:幸い、今のところ暴力は振るってこないし、食事だって一応用意してくれるし、トイレだって行かせてくれる。[linebreak]まだ、人間扱いしてくれている。[%p]"
-msgstr "2700:Fortunately, she hadn't hurt me yet. And she was feeding me and even letting me use the bathroom. She was still treating me like a human being.[%p]"
+msgstr "2700:幸い、今のところ暴力は振るってこないし、食事だって一応用意してくれるし、トイレだって行かせてくれる。[linebreak]まだ、人間扱いしてくれている。[%p]"
 
 msgid "2800:そして、どれだけ待ったって『将軍』は出てこないって分かれば、解放してくれる。[%p]"
-msgstr "2800:And as soon as she figured out that Shogun wasn't going to show up, she'd let me go.[%p]"
+msgstr "2800:そして、どれだけ待ったって『将軍』は出てこないって分かれば、解放してくれる。[%p]"
 
 msgid "2900:むしろ、謝ってくれるはずだ。もちろんそのときは土下座させるね。ついでに、胸のひとつでも触らせてもらおうか、ふひひ。[%p]"
-msgstr "2900:She'd probably apologize, actually. When that happened, I'd make her get on her knees and beg for forgiveness, of course. I'd also make her let me touch her boobs or something, too. Fweheheh.[%p]"
+msgstr "2900:むしろ、謝ってくれるはずだ。もちろんそのときは土下座させるね。ついでに、胸のひとつでも触らせてもらおうか、ふひひ。[%p]"
 
 msgid "3000:それですべてチャラだ。[linebreak]優愛はもう二度と僕の前には現れない。[linebreak]僕も、二度と優愛とは会わない。[%p]"
-msgstr "3000:Then we'd call it even. Yua would never appear in front of me again. And I'd never go to see her again, either.[%p]"
+msgstr "3000:それですべてチャラだ。[linebreak]優愛はもう二度と僕の前には現れない。[linebreak]僕も、二度と優愛とは会わない。[%p]"
 
 msgid "3100:少なくとも優愛っていう脅威はなくなる。[linebreak]場合によっては優愛を仲間に引き入れることも可能かもしれない。[%p]"
-msgstr "3100:If nothing else, she'd cease to be a threat. And if I was lucky, maybe I could even bring her over to my side.[%p]"
+msgstr "3100:少なくとも優愛っていう脅威はなくなる。[linebreak]場合によっては優愛を仲間に引き入れることも可能かもしれない。[%p]"
 
 msgid "3200:まだ本物の『将軍』の問題が残ってるから、梨深の代わりに優愛に守ってもらえるならそれに越したことはないよ。[%p]"
-msgstr "3200:The real Shogun was still lurking out there. If I was really lucky, I could get Yua to protect me from him.[%p]"
+msgstr "3200:まだ本物の『将軍』の問題が残ってるから、梨深の代わりに優愛に守ってもらえるならそれに越したことはないよ。[%p]"
 
 msgid "3300:なにより優愛は、ニュージェネの真犯人を――『将軍』を、恨んでいる。敵の敵は味方なんだ。[linebreak]優愛と僕は利害が一致している。[%p]"
-msgstr "3300:She hated the person behind the NewGen killings. And the enemy of my enemy was my friend. She and I wanted the same thing.[%p]"
+msgstr "3300:なにより優愛は、ニュージェネの真犯人を――『将軍』を、恨んでいる。敵の敵は味方なんだ。[linebreak]優愛と僕は利害が一致している。[%p]"
 
 msgid "3400:[name]拓巳[line]「ふひひ、ぼ、ぼ、僕って、頭よくね？\u3000天才じゃね？」[%p]"
-msgstr "3400:[name]拓巳[line]Fweheheh. I-I'm really smart, aren't I? I'm a genius![%p]"
+msgstr "3400:[name]拓巳[line]「ふひひ、ぼ、ぼ、僕って、頭よくね？\u3000天才じゃね？」[%p]"
 
 msgid "3500:[name]星来[line]「うん、タッキーってば天才！\u3000あたしさ、ますますタッキーのこと、好きになっちゃった……」[%p]"
-msgstr "3500:[name]星来[line]Yup, you're a genius, Takky! I'm more in love with you than ever![%p]"
+msgstr "3500:[name]星来[line]「うん、タッキーってば天才！\u3000あたしさ、ますますタッキーのこと、好きになっちゃった……」[%p]"
 
 msgid "3600:だから、今は耐えるんだ……。[%p]"
-msgstr "3600:Yeah. The smart move now was just to hang in there.[%p]"
+msgstr "3600:だから、今は耐えるんだ……。[%p]"
 
 msgid "3700:……それにしても遅い。[%p]"
-msgstr "3700:She sure was late, though.[%p]"
+msgstr "3700:……それにしても遅い。[%p]"
 
 msgid "3800:優愛はちっとも戻ってこない。[linebreak]もうだいぶ時間が経ってるはずだ。[linebreak]少なくとも数時間は経ってる。経ってるはず。[%p]"
-msgstr "3800:There was still no sign of her. Quite a lot of time had passed. Several hours, at least. Probably several hours, anyway.[%p]"
+msgstr "3800:優愛はちっとも戻ってこない。[linebreak]もうだいぶ時間が経ってるはずだ。[linebreak]少なくとも数時間は経ってる。経ってるはず。[%p]"
 
 msgid "3900:優愛はいったいどこへ行った？[%p]"
-msgstr "3900:Where had she gone?[%p]"
+msgstr "3900:優愛はいったいどこへ行った？[%p]"
 
 msgid "4000:少なくともトイレじゃない。[%p]"
-msgstr "4000:It wasn't to the bathroom, if nothing else.[%p]"
+msgstr "4000:少なくともトイレじゃない。[%p]"
 
 msgid "4100:でも食事を買いに出たとしても、遅すぎる。[linebreak]これまでにも何度か、食事を買うために近くのスーパーへ出かけていったけど、そのときと比べて明らかに外出時間が長いんだ。[%p]"
-msgstr "4100:But she'd been gone far too long for a shopping trip. She'd made several trips to the store to get food, and this was far longer than any of them.[%p]"
+msgstr "4100:でも食事を買いに出たとしても、遅すぎる。[linebreak]これまでにも何度か、食事を買うために近くのスーパーへ出かけていったけど、そのときと比べて明らかに外出時間が長いんだ。[%p]"
 
 msgid "4200:じゃあ、どこへ？[linebreak]学校だろうか？[%p]"
-msgstr "4200:So where had she gone? School?[%p]"
+msgstr "4200:じゃあ、どこへ？[linebreak]学校だろうか？[%p]"
 
 msgid "4300:今が何時なのか分からないけど、昼間だとしたら学校の可能性はある。[%p]"
-msgstr "4300:I didn't know what time it was, but if it was daytime, she could easily have gone to school.[%p]"
+msgstr "4300:今が何時なのか分からないけど、昼間だとしたら学校の可能性はある。[%p]"
 
 msgid "4400:最低登校シフト表を見れば、今日が何日で、何曜日なのか分かるのに……。[%p]"
-msgstr "4400:If I could look at my schedule, I would at least know what day it was.[%p]"
+msgstr "4400:最低登校シフト表を見れば、今日が何日で、何曜日なのか分かるのに……。[%p]"
 
 msgid "4500:例えば、実は優愛に監禁されてからまだ三日目で、監禁初日が金曜日だったなら、土日をまたいでいるわけだから優愛がこれまで学校に行かず僕に付きっきりだったのも納得なんだ。[%p]"
-msgstr "4500:Say, for example, that she'd locked me up three days ago, and the first day was a Friday. In that case, the last two days would've been the weekend, and it would make sense that she hadn't gone to school.[%p]"
+msgstr "4500:例えば、実は優愛に監禁されてからまだ三日目で、監禁初日が金曜日だったなら、土日をまたいでいるわけだから優愛がこれまで学校に行かず僕に付きっきりだったのも納得なんだ。[%p]"
 
 msgid "4600:つまり今日は月曜日で、優愛は学校に行った。[%p]"
-msgstr "4600:In that case, today would be Monday, then, and she would have left for school.[%p]"
+msgstr "4600:つまり今日は月曜日で、優愛は学校に行った。[%p]"
 
 msgid "4700:きっとそうだ。[linebreak]そのはずだ。[%p]"
-msgstr "4700:That's right. Yeah. It has to be.[%p]"
+msgstr "4700:きっとそうだ。[linebreak]そのはずだ。[%p]"
 
 msgid "4800:優愛がこの部屋に押し入ってきたのって何曜日だったっけ……。[linebreak]意識がぼんやりしていて、いまいちはっきり考えを巡らすことができない。[%p]"
-msgstr "4800:What day had it been when she'd broken in here? My mind was all hazy, and I couldn't think straight.[%p]"
+msgstr "4800:優愛がこの部屋に押し入ってきたのって何曜日だったっけ……。[linebreak]意識がぼんやりしていて、いまいちはっきり考えを巡らすことができない。[%p]"
 
 msgid "4900:もし学校じゃないとしたら？[linebreak]例えば自宅に戻ったとか？[%p]"
-msgstr "4900:What if it wasn't school, though? Like, maybe she'd gone home?[%p]"
+msgstr "4900:もし学校じゃないとしたら？[linebreak]例えば自宅に戻ったとか？[%p]"
 
 msgid "5000:最近のビッチ女子高生は平気で無断外泊とかしてそうだけど、優愛は真面目そうだからな。[%p]"
-msgstr "5000:I could see some dumb slutty teenager sleeping over somewhere without telling her parents, but Yua didn't look like that type.[%p]"
+msgstr "5000:最近のビッチ女子高生は平気で無断外泊とかしてそうだけど、優愛は真面目そうだからな。[%p]"
 
 msgid "5100:無断じゃないにしても僕の部屋に何泊もしていたら、さすがに親が心配するはず。だからそれを安心させるために一度、自宅に戻った……ということ。[%p]"
-msgstr "5100:Maybe she'd made up a lie or something to get their permission to not come home. But even so, after several days, they'd probably start to worry. So maybe she'd decided to head back home to reassure them?[%p]"
+msgstr "5100:無断じゃないにしても僕の部屋に何泊もしていたら、さすがに親が心配するはず。だからそれを安心させるために一度、自宅に戻った……ということ。[%p]"
 
 msgid "5200:それはそれで説得力がある。[%p]"
-msgstr "5200:That theory made sense.[%p]"
+msgstr "5200:それはそれで説得力がある。[%p]"
 
 msgid "5300:どちらにしろ、優愛はいずれ戻ってくる。[%p]"
-msgstr "5300:Either way, she was sure to come back.[%p]"
+msgstr "5300:どちらにしろ、優愛はいずれ戻ってくる。[%p]"
 
 msgid "5400:僕は無駄な体力を使わないように、この場で動かずにいるのがベストのはず。[%p]"
-msgstr "5400:My best move was probably to save my energy, to not move.[%p]"
+msgstr "5400:僕は無駄な体力を使わないように、この場で動かずにいるのがベストのはず。[%p]"
 
 msgid "5500:僕は小さく息をつくと、目を閉じた。[linebreak]もう一眠りしておこう。[%p]"
-msgstr "5500:I took a small deep breath and closed my eyes. Time to take a nap.[%p]"
+msgstr "5500:僕は小さく息をつくと、目を閉じた。[linebreak]もう一眠りしておこう。[%p]"
 

@@ -16,269 +16,269 @@ msgid "100:ＲＯＯＭ３６無し"
 msgstr "100:ＲＯＯＭ３６無し"
 
 msgid "200:週末をまたいでも、『ニュージェネ』第４の事件、通称『ヴァンパイ屋』事件の余韻はまったく醒めていなかった。[%p]"
-msgstr "200:Even after the weekend ended, the furor over the 4th New Generation Madness case, “The Vampire-er,” showed no signs of slowing down.[%p]"
+msgstr "200:週末をまたいでも、『ニュージェネ』第４の事件、通称『ヴァンパイ屋』事件の余韻はまったく醒めていなかった。[%p]"
 
 msgid "300:身体中のすべての血液が抜かれ、およそ人間とは思えないほどに体表が緑に変色していた男性の死体。[%p]"
-msgstr "300:The corpse of a man, drained completely of blood, his skin turning a sickly, inhuman green...[%p]"
+msgstr "300:身体中のすべての血液が抜かれ、およそ人間とは思えないほどに体表が緑に変色していた男性の死体。[%p]"
 
 msgid "400:それが発見されたのは井乃頭線渋谷駅のトイレだった。[%p]"
-msgstr "400:It was found in a toilet on the Shibuya Inokashira Line.[%p]"
+msgstr "400:それが発見されたのは井乃頭線渋谷駅のトイレだった。[%p]"
 
 msgid "500:しかも発見と前後して、ネットオークションにその遺体を写した写真が出品されたとなれば、異常性、残虐性という点からマスコミや＠ちゃんねらーが飛びつかないはずはなかったんだ。[%p]"
-msgstr "500:Not only that, a photo of the corpse was put up on an online auction site at about the same time the corpse was found. The bizarre, cruel nature of the murder meant the media and @channel were sure to leap on it.[%p]"
+msgstr "500:しかも発見と前後して、ネットオークションにその遺体を写した写真が出品されたとなれば、異常性、残虐性という点からマスコミや＠ちゃんねらーが飛びつかないはずはなかったんだ。[%p]"
 
 msgid "600:オークションのページに見出しとして書かれていた“Ｂ型の血液が不足しています！”という文章にも注目が集まった。[%p]"
-msgstr "600:The message on the auction page had also attracted a lot of attention: “There is a shortage of Type B blood!”[%p]"
+msgstr "600:オークションのページに見出しとして書かれていた“Ｂ型の血液が不足しています！”という文章にも注目が集まった。[%p]"
 
 msgid "700:事件の数日前、渋谷駅前でまったく同じ文面が描かれた、献血募集のティッシュが大量に配られていたんだ。[%p]"
-msgstr "700:Large numbers of tissue packets advertising blood donations with that exact same text had been handed out in Shibuya.[%p]"
+msgstr "700:事件の数日前、渋谷駅前でまったく同じ文面が描かれた、献血募集のティッシュが大量に配られていたんだ。[%p]"
 
 msgid "800:僕の手許にもそのティッシュはある。今になって読み返せば、あの違和感だらけの文章は献血募集なんかじゃなく、犯行を予告したものだと受け取ることもできた。[%p]"
-msgstr "800:I had a packet of them with me right now. Thinking back, that strange text wasn't an ad for blood donations at all. It was an announcement predicting the next murder.[%p]"
+msgstr "800:僕の手許にもそのティッシュはある。今になって読み返せば、あの違和感だらけの文章は献血募集なんかじゃなく、犯行を予告したものだと受け取ることもできた。[%p]"
 
 msgid "900:どうやら警察ではそのティッシュ配りをしていたバイトの連中を探しているらしいけど、なぜか手がかりはほとんどないらしい。[%p]"
-msgstr "900:The cops were looking for the part-timers that had been handing them out, but nobody could find much of anything in the way of clues.[%p]"
+msgstr "900:どうやら警察ではそのティッシュ配りをしていたバイトの連中を探しているらしいけど、なぜか手がかりはほとんどないらしい。[%p]"
 
 msgid "1000:今回の『ヴァンパイ屋』はこれまでの３つの事件と決定的に違うところがある。[%p]"
-msgstr "1000:There was something very different about Vampire-er, compared to the previous cases.[%p]"
+msgstr "1000:今回の『ヴァンパイ屋』はこれまでの３つの事件と決定的に違うところがある。[%p]"
 
 msgid "1100:『張り付け』事件ですでにその兆候はあったけど、[color index="A0FF0000"]劇場型犯罪[color index="800000"]としての傾向がより強まったんだとか。[%p]"
-msgstr "1100:There'd been signs of it during the Crucified case, but this latest murder really felt like a [color index="A0FF0000"]theatrical crime[color index="800000"], a spectacle meant for public consumption.[%p]"
+msgstr "1100:『張り付け』事件ですでにその兆候はあったけど、[color index="A0FF0000"]劇場型犯罪[color index="800000"]としての傾向がより強まったんだとか。[%p]"
 
 msgid "1200:マスコミの中には、渋谷を警邏する警官を増やすべきとか、深夜になってもたむろっている若者たちを強制的にでも帰らせるべきとかいう主張も出てきてる。[%p]"
-msgstr "1200:Some pundits were suggesting things like bringing more cops into Shibuya, or establishing a curfew for anybody under a certain age.[%p]"
+msgstr "1200:マスコミの中には、渋谷を警邏する警官を増やすべきとか、深夜になってもたむろっている若者たちを強制的にでも帰らせるべきとかいう主張も出てきてる。[%p]"
 
 msgid "1300:だけど、この街を訪れる若者の数が減少する様子はなかった。[linebreak]相変わらずスクランブル交差点やセンター街は人がごった返している。[%p]"
-msgstr "1300:But the number of young people visiting the city showed no sign of going down. Scramble Crossing and Center Street were as packed as ever.[%p]"
+msgstr "1300:だけど、この街を訪れる若者の数が減少する様子はなかった。[linebreak]相変わらずスクランブル交差点やセンター街は人がごった返している。[%p]"
 
 msgid "1400:ネットでは祭りとなり、一部の“スネーク”たちは深夜の渋谷から実況の書き込みをするほどだ。そして、この街の若者の間ではあるひとつの言葉が流行しつつあった。[%p]"
-msgstr "1400:The net was in an uproar. Several “snakes,” or internet detectives, were going around Shibuya and giving live reports on what they saw. And a popular new phrase was spreading among the youth of the city.[%p]"
+msgstr "1400:ネットでは祭りとなり、一部の“スネーク”たちは深夜の渋谷から実況の書き込みをするほどだ。そして、この街の若者の間ではあるひとつの言葉が流行しつつあった。[%p]"
 
 msgid "1500:――その目だれの目？[%p]"
-msgstr "1500:“Whose eyes are those?”[%p]"
+msgstr "1500:――その目だれの目？[%p]"
 
 msgid "1600:ネットだけじゃなく、渋谷を歩いてるＤＱＮ連中にまでその言葉は浸透しつつある。[%p]"
-msgstr "1600:It was spreading not just online, but among the DQNs who walked around the streets of Shibuya.[%p]"
+msgstr "1600:ネットだけじゃなく、渋谷を歩いてるＤＱＮ連中にまでその言葉は浸透しつつある。[%p]"
 
 msgid "1700:＠ちゃんでは、言葉の意味に関係なくとにかく文末にそのテキストを付け加えるのが流行ってるし。[%p]"
-msgstr "1700:On @chan, people were putting the phrase at the end of messages that had nothing to do with NewGen.[%p]"
+msgstr "1700:＠ちゃんでは、言葉の意味に関係なくとにかく文末にそのテキストを付け加えるのが流行ってるし。[%p]"
 
 msgid "1800:“今週のブラチューは星来たん出番少なくてその目だれの目？”[%p]"
-msgstr "1800:“This week's Blood Tune didn't have enough Seira-tan! Whose eyes are those?”[%p]"
+msgstr "1800:“今週のブラチューは星来たん出番少なくてその目だれの目？”[%p]"
 
 msgid "1900:“新パッチで使えるようになった武器[linebreak]どれも弱すぎだしその目だれの目？”[%p]"
-msgstr "1900:“The new weapons they added in the latest patch are kind of shit! Whose eyes are those?”[%p]"
+msgstr "1900:“新パッチで使えるようになった武器[linebreak]どれも弱すぎだしその目だれの目？”[%p]"
 
 msgid "2000:“それなんてその目だれの目？”[%p]"
-msgstr "2000:“What kind of whose eyes are those is that?”[%p]"
+msgstr "2000:“それなんてその目だれの目？”[%p]"
 
 msgid "2100:みたいな感じ。[%p]"
-msgstr "2100:Like that.[%p]"
+msgstr "2100:みたいな感じ。[%p]"
 
 msgid "2200:『ニュージェネ』は、若者にとって単なるお祭りでしかないかもしれない。[linebreak]僕にとっては、忌々しいことこの上ないけど。[%p]"
-msgstr "2200:NewGen was nothing but a source of fun for the youth of the city, but to me, it was an absolute nightmare.[%p]"
+msgstr "2200:『ニュージェネ』は、若者にとって単なるお祭りでしかないかもしれない。[linebreak]僕にとっては、忌々しいことこの上ないけど。[%p]"
 
 msgid "2300:それでも『ヴァンパイ屋』事件から３日も経てば、僕も少しは落ち着きを取り戻していた。[%p]"
-msgstr "2300:That said, three days after the Vampire-er incident, I'd started to calm down.[%p]"
+msgstr "2300:それでも『ヴァンパイ屋』事件から３日も経てば、僕も少しは落ち着きを取り戻していた。[%p]"
 
 msgid "2400:もちろん心の片隅に、しこりのようなものが残ってはいるんだけど、週末をエンスー漬けで過ごしたら、一時的とはいえイヤなことや不可解なことを忘れられた。[%p]"
-msgstr "2400:Of course, it was still in the back of my mind, but a solid weekend of ESO had helped me forget all the awful and unexplainable things that had happened.[%p]"
+msgstr "2400:もちろん心の片隅に、しこりのようなものが残ってはいるんだけど、週末をエンスー漬けで過ごしたら、一時的とはいえイヤなことや不可解なことを忘れられた。[%p]"
 
 msgid "2500:今日の登校日だって、授業中は寝るか、エンスーのレアアイテム情報について思いを巡らせるかで乗り切ったんだ。[%p]"
-msgstr "2500:Today was a school day, and I'd even managed to make it through the day's classes by sleeping or thinking of rare ESO items.[%p]"
+msgstr "2500:今日の登校日だって、授業中は寝るか、エンスーのレアアイテム情報について思いを巡らせるかで乗り切ったんだ。[%p]"
 
 msgid "2600:僕も少しは成長したよ、ふひひ。[%p]"
-msgstr "2600:I'd grown up a little! Fweheheh.[%p]"
+msgstr "2600:僕も少しは成長したよ、ふひひ。[%p]"
 
 msgid "2700:というわけで、学校帰りに久しぶりに＠カフェに足を運んでみた。いつもの指定席『ＲＯＯＭ３７』が今日もちゃんと空いていたのは嬉しかった。[%p]"
-msgstr "2700:And so, like always, I headed to @Café after school ended. I was happy to see that my designated spot, room 37, was open.[%p]"
+msgstr "2700:というわけで、学校帰りに久しぶりに＠カフェに足を運んでみた。いつもの指定席『ＲＯＯＭ３７』が今日もちゃんと空いていたのは嬉しかった。[%p]"
 
 msgid "2800:前に来たのはかれこれ２週間も前で、こんなに間隔が開いたのは初めてだった。[%p]"
-msgstr "2800:It'd been two weeks since the last time I'd come here. It was the first time there'd been such a long gap.[%p]"
+msgstr "2800:前に来たのはかれこれ２週間も前で、こんなに間隔が開いたのは初めてだった。[%p]"
 
 msgid "2900:すえたような匂いがするエアコンの風とか、マンガ本に染みついているヤニの匂い、リクライニングシートの座り心地の良さ、シーンと静まり返った中に聞こえてくるおっさんのいびき声、[%p]"
-msgstr "2900:The musty smell of the breeze coming from the air conditioner, the stench of the cigarette smoke clinging to the manga, the pleasant feeling of the reclining seats, and the silence, punctuated by the snoring of middle-aged men...[%p]"
+msgstr "2900:すえたような匂いがするエアコンの風とか、マンガ本に染みついているヤニの匂い、リクライニングシートの座り心地の良さ、シーンと静まり返った中に聞こえてくるおっさんのいびき声、[%p]"
 
 msgid "3000:そんな店内の雰囲気がすごく懐かしく思える。[%p]"
-msgstr "3000:It felt so good to be back.[%p]"
+msgstr "3000:そんな店内の雰囲気がすごく懐かしく思える。[%p]"
 
 msgid "3100:[name]優愛[line]「ＲＯＯＭ３７のＰＣのチャットログを調べさせてもらいました」[%p]"
-msgstr "3100:[name]優愛[line]I looked at the chat log for the PC in room 37, too.[%p]"
+msgstr "3100:[name]優愛[line]「ＲＯＯＭ３７のＰＣのチャットログを調べさせてもらいました」[%p]"
 
 msgid "3200:[name]優愛[line]「そこから分かったことは……」[%p]"
-msgstr "3200:[name]優愛[line]And what I learned was...[%p]"
+msgstr "3200:[name]優愛[line]「そこから分かったことは……」[%p]"
 
 msgid "3300:[name]優愛[line]「あなたひとりの自作自演……」[%p]"
-msgstr "3300:[name]優愛[line]This whole thing was an act you put on.[%p]"
+msgstr "3300:[name]優愛[line]「あなたひとりの自作自演……」[%p]"
 
 msgid "3400:[name]優愛[line]「『将軍』は――」[%p]"
-msgstr "3400:[name]優愛[line]Shogun is...[%p]"
+msgstr "3400:[name]優愛[line]「『将軍』は――」[%p]"
 
 msgid "3500:[name]優愛[line]「あなた自身」[%p]"
-msgstr "3500:[name]優愛[line]you.[%p]"
+msgstr "3500:[name]優愛[line]「あなた自身」[%p]"
 
 msgid "3600:優愛のその言葉を思い出し、恐る恐る隣のＲＯＯＭ３６の様子を探ってみる。[%p]"
-msgstr "3600:I remembered Yua's words, and looked over fearfully toward room 36.[%p]"
+msgstr "3600:優愛のその言葉を思い出し、恐る恐る隣のＲＯＯＭ３６の様子を探ってみる。[%p]"
 
 msgid "3700:入店したとき隣に誰もいないことを確認していたし、なんの音も聞こえてこないから今も無人なんだろうけど、それでも誰かいるんじゃないかとビクビクしてしまう。[%p]"
-msgstr "3700:I'd checked to make sure it was empty when I'd arrived, and since I hadn't heard any sounds coming from within, it probably still was. But it still scared me.[%p]"
+msgstr "3700:入店したとき隣に誰もいないことを確認していたし、なんの音も聞こえてこないから今も無人なんだろうけど、それでも誰かいるんじゃないかとビクビクしてしまう。[%p]"
 
 msgid "3800:立ち上がって、仕切りの上からそっとのぞき込んでみたけど、やっぱりＲＯＯＭ３６は無人だった。[%p]"
-msgstr "3800:I stood up, looked over the partition, and confirmed that it was empty.[%p]"
+msgstr "3800:立ち上がって、仕切りの上からそっとのぞき込んでみたけど、やっぱりＲＯＯＭ３６は無人だった。[%p]"
 
 msgid "3900:ホッと安堵して、リクライニングシートに身を沈める。[%p]"
-msgstr "3900:Relieved, I sat back in my reclining seat.[%p]"
+msgstr "3900:ホッと安堵して、リクライニングシートに身を沈める。[%p]"
 
 msgid "4000:あれから優愛には会っていない。学年が違うせいもあるし、そもそも僕は学校にはほとんど行かないんだから、顔を合わせる機会がないのは当然と言えば当然だけど。[%p]"
-msgstr "4000:I hadn't seen Yua since then. We were in different grades, and I didn't go to school that often in the first place. So of course, we wouldn't run into each other that often, but...[%p]"
+msgstr "4000:あれから優愛には会っていない。学年が違うせいもあるし、そもそも僕は学校にはほとんど行かないんだから、顔を合わせる機会がないのは当然と言えば当然だけど。[%p]"
 
 msgid "4100:[name]拓巳[line]「優愛の妄想はすごいよ……」[%p]"
-msgstr "4100:[name]拓巳[line]Yua's delusions were crazy![%p]"
+msgstr "4100:[name]拓巳[line]「優愛の妄想はすごいよ……」[%p]"
 
 msgid "4200:優愛が憐れでしょうがない。[linebreak]きっと心が病んじゃってるんだ。[%p]"
-msgstr "4200:I felt so bad for her. She must have a terrible mental disorder.[%p]"
+msgstr "4200:優愛が憐れでしょうがない。[linebreak]きっと心が病んじゃってるんだ。[%p]"
 
 msgid "4300:ああいうのはそっとしておくに限る。[linebreak]優愛とのことは出会い頭の事故だったんだ。[%p]"
-msgstr "4300:It was best to just ignore people like that. Things with Yua had just been a disaster from the start.[%p]"
+msgstr "4300:ああいうのはそっとしておくに限る。[linebreak]優愛とのことは出会い頭の事故だったんだ。[%p]"
 
 msgid "4400:この２週間ぐらいで、なんだか様々な面倒事に引きずり込まれそうになっている。[%p]"
-msgstr "4400:For the past two weeks, I'd been dragged into one mess after another.[%p]"
+msgstr "4400:この２週間ぐらいで、なんだか様々な面倒事に引きずり込まれそうになっている。[%p]"
 
 msgid "4500:その前まではすごく平凡な毎日で、僕に話しかけてくるヤツなんて三住くんぐらいしかいなかったのに。[%p]"
-msgstr "4500:Until then, my life had been incredibly peaceful. The only person who talked to me was Misumi.[%p]"
+msgstr "4500:その前まではすごく平凡な毎日で、僕に話しかけてくるヤツなんて三住くんぐらいしかいなかったのに。[%p]"
 
 msgid "4600:どうして最近は、おかしなことや理不尽なことばかり起きるんだろう。[%p]"
-msgstr "4600:Why was all this bizarre stuff happening to me lately?[%p]"
+msgstr "4600:どうして最近は、おかしなことや理不尽なことばかり起きるんだろう。[%p]"
 
 msgid "4700:面倒なことはできる限り考えたくない。[%p]"
-msgstr "4700:I didn't even want to think about any of it.[%p]"
+msgstr "4700:面倒なことはできる限り考えたくない。[%p]"
 
 msgid "4800:あのダイイングメッセージだってきっと偶然だよ。[%p]"
-msgstr "4800:That dying message was just a coincidence, I decided.[%p]"
+msgstr "4800:あのダイイングメッセージだってきっと偶然だよ。[%p]"
 
 msgid "4900:なんだかんだ言ったって、ありふれた言葉じゃないか。僕程度が考えつく言葉なんだから、他の誰かが思いついたって不思議じゃない。[%p]"
-msgstr "4900:I mean, they were all really common words. If somebody with a brain like mine could come up with them, anybody could.[%p]"
+msgstr "4900:なんだかんだ言ったって、ありふれた言葉じゃないか。僕程度が考えつく言葉なんだから、他の誰かが思いついたって不思議じゃない。[%p]"
 
 msgid "5000:……あのメッセージが誰に向けられているかについては、興味はなかった。いや、興味を持っちゃいけないって自分に言い聞かせた。[%p]"
-msgstr "5000:I didn't care who that message was meant to reach. No, that wasn't it. I couldn't let myself care.[%p]"
+msgstr "5000:……あのメッセージが誰に向けられているかについては、興味はなかった。いや、興味を持っちゃいけないって自分に言い聞かせた。[%p]"
 
 msgid "5100:[name]拓巳[line]「……！」[%p]"
-msgstr "5100:[name]拓巳[line]...![%p]"
+msgstr "5100:[name]拓巳[line]「……！」[%p]"
 
 msgid "5200:いきなり近くから音が鳴った。[linebreak]僕は驚いて、リクライニングシートの上でビクッと身体を震わせてしまった。[%p]"
-msgstr "5200:I suddenly heard a noise nearby. I shuddered in my reclining seat, shocked.[%p]"
+msgstr "5200:いきなり近くから音が鳴った。[linebreak]僕は驚いて、リクライニングシートの上でビクッと身体を震わせてしまった。[%p]"
 
 msgid "5300:これは電話の音だ。でも誰の？[%p]"
-msgstr "5300:It was the sound of a phone ringing. But whose?[%p]"
+msgstr "5300:これは電話の音だ。でも誰の？[%p]"
 
 msgid "5400:店内が静かだから、やけにその電子音は周囲に響く。[linebreak]僕はあたりを見回した。でも電話なんてどこにも見当たらない。[%p]"
-msgstr "5400:The place was silent, so the ringing sounded really loud. I looked around, but I couldn't even see a phone.[%p]"
+msgstr "5400:店内が静かだから、やけにその電子音は周囲に響く。[linebreak]僕はあたりを見回した。でも電話なんてどこにも見当たらない。[%p]"
 
 msgid "5500:[name]拓巳[line]「あ、もしかして……」[%p]"
-msgstr "5500:[name]拓巳[line]Oh, could it be...[%p]"
+msgstr "5500:[name]拓巳[line]「あ、もしかして……」[%p]"
 
 msgid "5600:ふと思い当たって、カバンの中を漁ってみた。[%p]"
-msgstr "5600:I suddenly had an idea and looked inside my bag.[%p]"
+msgstr "5600:ふと思い当たって、カバンの中を漁ってみた。[%p]"
 
 msgid "5700:すると案の定、鳴っていたのは僕がつい数日前に買ったばかりのケータイだった。[%p]"
-msgstr "5700:Just like I thought, it was the phone I'd bought several days ago.[%p]"
+msgstr "5700:すると案の定、鳴っていたのは僕がつい数日前に買ったばかりのケータイだった。[%p]"
 
 msgid "5800:液晶ディスプレイを恐る恐る眺めてみる。[linebreak]普通、ケータイっていうのはかけてきた相手の電話番号がここに表示されるはずだ。[%p]"
-msgstr "5800:Trembling, I looked at the screen. Phones were supposed to show the number of whoever was calling you, right?[%p]"
+msgstr "5800:液晶ディスプレイを恐る恐る眺めてみる。[linebreak]普通、ケータイっていうのはかけてきた相手の電話番号がここに表示されるはずだ。[%p]"
 
 msgid "5900:これって、出た方がいいのかな……。[linebreak]いや、でもあんまり人と話すのは好きじゃないし。[%p]"
-msgstr "5900:Should I pick up? But... I didn't really like talking to people.[%p]"
+msgstr "5900:これって、出た方がいいのかな……。[linebreak]いや、でもあんまり人と話すのは好きじゃないし。[%p]"
 
 msgid "6000:そもそも、いったい誰がかけてきてるんだ？[%p]"
-msgstr "6000:Who was calling me, anyway?[%p]"
+msgstr "6000:そもそも、いったい誰がかけてきてるんだ？[%p]"
 
 msgid "6100:このケータイの番号はまだ誰にも教えていないはず。[%p]"
-msgstr "6100:I hadn't given this number to anybody.[%p]"
+msgstr "6100:このケータイの番号はまだ誰にも教えていないはず。[%p]"
 
 msgid "6200:知ってるのは、七海がお節介にもアドレス帳に登録した家族だけ。[%p]"
-msgstr "6200:The only ones who knew it were Nanami and the rest of my family. She'd put their names in my contacts, too, even though I hadn't asked her to.[%p]"
+msgstr "6200:知ってるのは、七海がお節介にもアドレス帳に登録した家族だけ。[%p]"
 
 msgid "6300:アドレス帳に登録された番号からかかってきた場合には、その名前が表示されるはずで、つまり今かけてきているのは家族じゃないっていうことになる。[%p]"
-msgstr "6300:If the number dialing me was one registered in my contacts, it should display the name instead, which meant it wasn't my family.[%p]"
+msgstr "6300:アドレス帳に登録された番号からかかってきた場合には、その名前が表示されるはずで、つまり今かけてきているのは家族じゃないっていうことになる。[%p]"
 
 msgid "6400:じゃあ、誰……なんだ……？[%p]"
-msgstr "6400:So... who could it be?[%p]"
+msgstr "6400:じゃあ、誰……なんだ……？[%p]"
 
 msgid "6500:電話はいまだしつこく鳴り続けている。[%p]"
-msgstr "6500:The phone kept ringing.[%p]"
+msgstr "6500:電話はいまだしつこく鳴り続けている。[%p]"
 
 msgid "6600:ケータイにかける人間っていうのは、ここまでしつこく鳴らし続けるものなのか？[%p]"
-msgstr "6600:Were people always this persistent when they called your cell phone?[%p]"
+msgstr "6600:ケータイにかける人間っていうのは、ここまでしつこく鳴らし続けるものなのか？[%p]"
 
 msgid "6700:使ったことがないからさっぱり分からないけど、とにかく迷惑にもほどがある。[%p]"
-msgstr "6700:I'd never used one before, so I didn't know for sure, but it was really annoying.[%p]"
+msgstr "6700:使ったことがないからさっぱり分からないけど、とにかく迷惑にもほどがある。[%p]"
 
 msgid "6800:いきなりプライベートな空間に侵入してきて、こっちが出るまで鳴らし続けるなんて。[%p]"
-msgstr "6800:They were just barging into my private space and ringing my phone until I answered.[%p]"
+msgstr "6800:いきなりプライベートな空間に侵入してきて、こっちが出るまで鳴らし続けるなんて。[%p]"
 
 msgid "6900:プライバシー侵害もいいところじゃないか。[linebreak]だからケータイなんて持つのはイヤだったんだ。[%p]"
-msgstr "6900:That was a violation of my privacy, wasn't it? That's why I never wanted a phone to begin with.[%p]"
+msgstr "6900:プライバシー侵害もいいところじゃないか。[linebreak]だからケータイなんて持つのはイヤだったんだ。[%p]"
 
 msgid "7000:あ、止まった……。[%p]"
-msgstr "7000:Oh, it stopped.[%p]"
+msgstr "7000:あ、止まった……。[%p]"
 
 msgid "7100:ホッとして、改めて液晶画面を見る。[%p]"
-msgstr "7100:Relieved, I looked at the phone's liquid crystal screen.[%p]"
+msgstr "7100:ホッとして、改めて液晶画面を見る。[%p]"
 
 msgid "7200:“着信１件”と出ていた。[%p]"
-msgstr "7200:“One Missed Call,” it read.[%p]"
+msgstr "7200:“着信１件”と出ていた。[%p]"
 
 msgid "7300:相手が誰だか分からないのにかけ直す気にはならなかった。[linebreak]だから放置することに決めた。[%p]"
-msgstr "7300:I didn't know who'd called, but I certainly didn't feel like calling back. So, I decided to just ignore it.[%p]"
+msgstr "7300:相手が誰だか分からないのにかけ直す気にはならなかった。[linebreak]だから放置することに決めた。[%p]"
 
 msgid "7400:今後もこういうことがあるとまずいから、留守電機能の使い方を覚えておいた方がよさそう。[%p]"
-msgstr "7400:I should learn how to set up voice mail so this didn't happen again.[%p]"
+msgstr "7400:今後もこういうことがあるとまずいから、留守電機能の使い方を覚えておいた方がよさそう。[%p]"
 
 msgid "7500:はあ、面倒くさいなあケータイって。[%p]"
-msgstr "7500:Cell phones were such a pain.[%p]"
+msgstr "7500:はあ、面倒くさいなあケータイって。[%p]"
 
 msgid "7600:そもそも電話は好きじゃない。[%p]"
-msgstr "7600:I didn't like phones, anyway.[%p]"
+msgstr "7600:そもそも電話は好きじゃない。[%p]"
 
 msgid "7700:だって、すごく奇妙なんだもん。みんないったいどうやって、電話の向こうの相手が“本物”だって確認してるんだ？[%p]"
-msgstr "7700:I mean, they were really weird. How was anybody ever sure that the person they were talking to was really who they said they were?[%p]"
+msgstr "7700:だって、すごく奇妙なんだもん。みんないったいどうやって、電話の向こうの相手が“本物”だって確認してるんだ？[%p]"
 
 msgid "7800:振り込め詐欺なんかがあるくらいなんだから、実はみんなその確認作業は適当にやってるんじゃないか？[%p]"
-msgstr "7800:There were a lot of phone scams out there, right? Did people just not bother to check?[%p]"
+msgstr "7800:振り込め詐欺なんかがあるくらいなんだから、実はみんなその確認作業は適当にやってるんじゃないか？[%p]"
 
 msgid "7900:どうして、もしかしたら偽物かもしれない相手と平然と会話ができるのか、僕には不思議でならない。[%p]"
-msgstr "7900:I just couldn't understand how somebody could talk to someone else when they weren't even sure they were real.[%p]"
+msgstr "7900:どうして、もしかしたら偽物かもしれない相手と平然と会話ができるのか、僕には不思議でならない。[%p]"
 
 msgid "8000:声が電話回線を通じて遠い場所に届くっていうのも、例え原理を知っていてもなかなか信じにくい。[%p]"
-msgstr "8000:I understood the physics principles that let you talk to somebody far away via a phone, but I still found it hard to believe.[%p]"
+msgstr "8000:声が電話回線を通じて遠い場所に届くっていうのも、例え原理を知っていてもなかなか信じにくい。[%p]"
 
 msgid "8100:電話で話す場合、声は一度電気信号に変換される。それが電話回線を通って相手のところに届き、再び声に再変換されて初めて聞こえるようになる。[%p]"
-msgstr "8100:When you talked on the phone, your voice was turned into an electronic signal. This signal was transmitted down a wire to the person on the other end, and then turned back into a voice so they could be heard.[%p]"
+msgstr "8100:電話で話す場合、声は一度電気信号に変換される。それが電話回線を通って相手のところに届き、再び声に再変換されて初めて聞こえるようになる。[%p]"
 
 msgid "8200:つまり電話で話すためには、最低２回の変換プロセスが必要ってこと。[%p]"
-msgstr "8200:In other words, if you wanted to talk to somebody on the phone, your voice needed to be transformed a minimum of two times.[%p]"
+msgstr "8200:つまり電話で話すためには、最低２回の変換プロセスが必要ってこと。[%p]"
 
 msgid "8300:これがケータイになると、まず音声から変換した電気信号を電波に乗せて近くの基地局へ飛ばし、[%p]"
-msgstr "8300:For a cell phone, first the electrical signals created from your voice were sent to a nearby cell tower,[%p]"
+msgstr "8300:これがケータイになると、まず音声から変換した電気信号を電波に乗せて近くの基地局へ飛ばし、[%p]"
 
 msgid "8400:そこから普通の電話回線を通って交換局→相手がいる場所に一番近い基地局まで向かい、さらにそれを電波として相手のケータイに送る、っていう複雑怪奇なことをしてる。[%p]"
-msgstr "8400:then transferred to a switching center via normal telephone lines. From there, they were sent to the tower nearest to the person you were talking to, and then sent via electromagnetic waves to their cell phone. It was an incredibly complicated and bizarre process.[%p]"
+msgstr "8400:そこから普通の電話回線を通って交換局→相手がいる場所に一番近い基地局まで向かい、さらにそれを電波として相手のケータイに送る、っていう複雑怪奇なことをしてる。[%p]"
 
 msgid "8500:声が電気信号に置き換えられるとして、果たして相手にはホントに“僕自身”の声が一言一句正確に届いているんだろうか。[%p]"
-msgstr "8500:If my voice was being transformed into electrical signals, could the person I was talking to really hear every single thing I was saying, exactly the way I said it?[%p]"
+msgstr "8500:声が電気信号に置き換えられるとして、果たして相手にはホントに“僕自身”の声が一言一句正確に届いているんだろうか。[%p]"
 
 msgid "8600:それどころか、電気信号に変換する過程でまったくでたらめの声や言葉に勝手に変えられている可能性だって、なきにしもあらずじゃないの？[%p]"
-msgstr "8600:Wasn't there a chance that in the process of turning it into an electrical signal, it could end up being turned into something else altogether?[%p]"
+msgstr "8600:それどころか、電気信号に変換する過程でまったくでたらめの声や言葉に勝手に変えられている可能性だって、なきにしもあらずじゃないの？[%p]"
 
 msgid "8700:例えば僕が七海に電話をかけたとして、その電話は実は七海のところには届かず、どこか怪しげな施設へ送られ、[%p]"
-msgstr "8700:For instance, say I called Nanami, and instead of my voice being sent directly to her, it was sent to some weird building somewhere.[%p]"
+msgstr "8700:例えば僕が七海に電話をかけたとして、その電話は実は七海のところには届かず、どこか怪しげな施設へ送られ、[%p]"
 
 msgid "8800:そこで見ず知らずの誰かが“七海を装って”電話に出ているかもしれない。[%p]"
-msgstr "8800:And there, somebody I'd never met could pretend to be Nanami.[%p]"
+msgstr "8800:そこで見ず知らずの誰かが“七海を装って”電話に出ているかもしれない。[%p]"
 
 msgid "8900:相手は人ですらなくて、コンピュータかもしれないんだ。[%p]"
-msgstr "8900:Maybe I wasn't even talking to a person. I could be talking to a computer.[%p]"
+msgstr "8900:相手は人ですらなくて、コンピュータかもしれないんだ。[%p]"
 
 msgid "9000:だから僕は、電話で話すことが怖い。[linebreak]人と面と向かって話す以上に、怖いんだ……。[%p]"
-msgstr "9000:That's why talking on the phone was so scary to me. It was scarier than even talking to someone in person.[%p]"
+msgstr "9000:だから僕は、電話で話すことが怖い。[linebreak]人と面と向かって話す以上に、怖いんだ……。[%p]"
 

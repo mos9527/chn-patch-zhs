@@ -10,311 +10,311 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:――記憶が、混濁している。[%p]"
-msgstr "0:—Her memories were all messed up.[%p]"
+msgstr "0:――記憶が、混濁している。[%p]"
 
 msgid "100:西條七海は、そう感じた。[%p]"
-msgstr "100:That's how it seemed to Nanami Nishijo.[%p]"
+msgstr "100:西條七海は、そう感じた。[%p]"
 
 msgid "200:兄の言葉を引き金として、七海の心に兆した、兄が２人いる、という感覚。[%p]"
-msgstr "200:Her brother's words triggered something in her. It suddenly felt like she had two brothers.[%p]"
+msgstr "200:兄の言葉を引き金として、七海の心に兆した、兄が２人いる、という感覚。[%p]"
 
 msgid "300:“２人いるような”ではなく、[%p]"
-msgstr "300:No, it didn't “feel like” she had two brothers.[%p]"
+msgstr "300:“２人いるような”ではなく、[%p]"
 
 msgid "400:“２人いる”[%p]"
-msgstr "400:She had two brothers.[%p]"
+msgstr "400:“２人いる”[%p]"
 
 msgid "500:フラッシュバックする、２人の兄の顔。[%p]"
-msgstr "500:She could see both of their faces.[%p]"
+msgstr "500:フラッシュバックする、２人の兄の顔。[%p]"
 
 msgid "600:ひとりは、情けなさそうな。[linebreak]ひとりは、しわくちゃの。[%p]"
-msgstr "600:One wimpy and helpless looking. One covered in wrinkles.[%p]"
+msgstr "600:ひとりは、情けなさそうな。[linebreak]ひとりは、しわくちゃの。[%p]"
 
 msgid "700:一方で、自分には兄弟はひとりしかいないという確信もある。[%p]"
-msgstr "700:But she was also sure that she only had a single brother.[%p]"
+msgstr "700:一方で、自分には兄弟はひとりしかいないという確信もある。[%p]"
 
 msgid "800:ズレていく。[linebreak]記憶と、認識が。[%p]"
-msgstr "800:There was a gap, and it was getting bigger. A gap between her memories, and what she knew.[%p]"
+msgstr "800:ズレていく。[linebreak]記憶と、認識が。[%p]"
 
 msgid "900:なにが現実だったのか。[linebreak]なにが幻だったのか。[%p]"
-msgstr "900:What was real? What wasn't?[%p]"
+msgstr "900:なにが現実だったのか。[linebreak]なにが幻だったのか。[%p]"
 
 msgid "1000:分からなくなって、怖くなって、[linebreak]頭の中を空っぽにしようとしたら、[%p]"
-msgstr "1000:She didn't know, and it scared her. She tried to empty out her mind,[%p]"
+msgstr "1000:分からなくなって、怖くなって、[linebreak]頭の中を空っぽにしようとしたら、[%p]"
 
 msgid "1100:ふと、自分自身の声がさざ波のように聞こえてきた。[%p]"
-msgstr "1100:and suddenly her own words came back to her, like a rippling on the water.[%p]"
+msgstr "1100:ふと、自分自身の声がさざ波のように聞こえてきた。[%p]"
 
 msgid "1200:――ナナが、しっかり、しなくちゃ。[%p]"
-msgstr "1200:—I have to be the big sister now.[%p]"
+msgstr "1200:――ナナが、しっかり、しなくちゃ。[%p]"
 
 msgid "1300:気が付けば、七海は夕焼けが射し込む廊下に立っていた。[%p]"
-msgstr "1300:Suddenly, she was standing in a hallway at dusk.[%p]"
+msgstr "1300:気が付けば、七海は夕焼けが射し込む廊下に立っていた。[%p]"
 
 msgid "1400:鼻につく消毒液の匂い。[linebreak]目の前には、飾り気のないドア。[%p]"
-msgstr "1400:The pungent scent of disinfectant hung in her nose. There was a plain, unadorned door in front of her.[%p]"
+msgstr "1400:鼻につく消毒液の匂い。[linebreak]目の前には、飾り気のないドア。[%p]"
 
 msgid "1500:その取っ手を、七海は握りしめている。[linebreak]そして彼女の意志に関係なく、[%p]"
-msgstr "1500:She was holding its handle. And then, without any conscious intent on her part,[%p]"
+msgstr "1500:その取っ手を、七海は握りしめている。[linebreak]そして彼女の意志に関係なく、[%p]"
 
 msgid "1600:彼女の手は、ドアを開いた。[%p]"
-msgstr "1600:her hand opened the door.[%p]"
+msgstr "1600:彼女の手は、ドアを開いた。[%p]"
 
 msgid "1700:[name]七海[line]「あー！\u3000おにぃ、またご飯食べないつもりー？」[%p]"
-msgstr "1700:[name]七海[line]Hey! Are you going to skip dinner again, brother?[%p]"
+msgstr "1700:[name]七海[line]「あー！\u3000おにぃ、またご飯食べないつもりー？」[%p]"
 
 msgid "1800:[name]七海[line]「ちゃんと食べてって、いっつも言ってるじゃん。[linebreak]でないと元気になんないよ？」[%p]"
-msgstr "1800:[name]七海[line]I keep telling you, you have to eat! Or you won't get better![%p]"
+msgstr "1800:[name]七海[line]「ちゃんと食べてって、いっつも言ってるじゃん。[linebreak]でないと元気になんないよ？」[%p]"
 
 msgid "1900:[name]七海[line]「あ、もしかしてグリーンピースが入ってるから？」[%p]"
-msgstr "1900:[name]七海[line]Oh, don't tell me it's because it's got green peas in it![%p]"
+msgstr "1900:[name]七海[line]「あ、もしかしてグリーンピースが入ってるから？」[%p]"
 
 msgid "2000:[name]七海[line]「子供じゃないんだし、いい加減好き嫌いやめたらー？」[%p]"
-msgstr "2000:[name]七海[line]You're not a little kid anymore. Don't be such a picky eater.[%p]"
+msgstr "2000:[name]七海[line]「子供じゃないんだし、いい加減好き嫌いやめたらー？」[%p]"
 
 msgid "2100:[name]七海[line]「そ、そりゃ、ナナだってグリーンピース嫌いだから、残したくなる気持ちは分かるけど……」[%p]"
-msgstr "2100:[name]七海[line]I-I mean, I don't like green peas either, so I know why you wouldn't want to eat them, but...[%p]"
+msgstr "2100:[name]七海[line]「そ、そりゃ、ナナだってグリーンピース嫌いだから、残したくなる気持ちは分かるけど……」[%p]"
 
 msgid "2200:[name]七海[line]「ちゃんと食べてくんないと、ナナが怒られるんだからねっ。あのこわーい看護師長さんに――」[%p]"
-msgstr "2200:[name]七海[line]If you don't eat them, I'm the one that gets yelled at. By that scary head nurse![%p]"
+msgstr "2200:[name]七海[line]「ちゃんと食べてくんないと、ナナが怒られるんだからねっ。あのこわーい看護師長さんに――」[%p]"
 
 msgid "2300:[name]タクミ[line]「七海」[%p]"
-msgstr "2300:[name]タクミ[line]Nanami...[%p]"
+msgstr "2300:[name]タクミ[line]「七海」[%p]"
 
 msgid "2400:[name]七海[line]「な、なに……？」[%p]"
-msgstr "2400:[name]七海[line]W-What?[%p]"
+msgstr "2400:[name]七海[line]「な、なに……？」[%p]"
 
 msgid "2500:[name]タクミ[line]「今まで辛く当たってゴメン」[%p]"
-msgstr "2500:[name]タクミ[line]I'm sorry for taking it all out on you for all this time.[%p]"
+msgstr "2500:[name]タクミ[line]「今まで辛く当たってゴメン」[%p]"
 
 msgid "2600:[name]七海[line]「……？」[%p]"
-msgstr "2600:[name]七海[line]...?[%p]"
+msgstr "2600:[name]七海[line]「……？」[%p]"
 
 msgid "2700:[name]七海[line]「おにぃが謝るなんて、珍しいじゃん」[%p]"
-msgstr "2700:[name]七海[line]It's really rare for you to apologize.[%p]"
+msgstr "2700:[name]七海[line]「おにぃが謝るなんて、珍しいじゃん」[%p]"
 
 msgid "2800:[name]タクミ[line]「もう、僕のために無理をする必要はないんだ」[%p]"
-msgstr "2800:[name]タクミ[line]But you won't have to put up with me anymore.[%p]"
+msgstr "2800:[name]タクミ[line]「もう、僕のために無理をする必要はないんだ」[%p]"
 
 msgid "2900:[name]七海[line]「…………え、っと」[%p]"
-msgstr "2900:[name]七海[line]Um...[%p]"
+msgstr "2900:[name]七海[line]「…………え、っと」[%p]"
 
 msgid "3000:[name]七海[line]「なに、言ってるの？」[%p]"
-msgstr "3000:[name]七海[line]What are you talking about?[%p]"
+msgstr "3000:[name]七海[line]「なに、言ってるの？」[%p]"
 
 msgid "3100:[name]タクミ[line]「僕は、身を隠さなくちゃならなくなった」[%p]"
-msgstr "3100:[name]タクミ[line]I'm going to have to go into hiding.[%p]"
+msgstr "3100:[name]タクミ[line]「僕は、身を隠さなくちゃならなくなった」[%p]"
 
 msgid "3200:[name]タクミ[line]「だから、お前は――」[%p]"
-msgstr "3200:[name]タクミ[line]So, you...[%p]"
+msgstr "3200:[name]タクミ[line]「だから、お前は――」[%p]"
 
 msgid "3300:[name]タクミ[line]「もう、ここには来なくていい」[%p]"
-msgstr "3300:[name]タクミ[line]don't need to come here anymore.[%p]"
+msgstr "3300:[name]タクミ[line]「もう、ここには来なくていい」[%p]"
 
 msgid "3400:[name]七海[line]「……っ」[%p]"
-msgstr "3400:[name]七海[line]...[%p]"
+msgstr "3400:[name]七海[line]「……っ」[%p]"
 
 msgid "3500:[name]七海[line]「なんのつもり――」[%p]"
-msgstr "3500:[name]七海[line]What are you—[%p]"
+msgstr "3500:[name]七海[line]「なんのつもり――」[%p]"
 
 msgid "3600:[name]タクミ[line]「さようなら」[%p]"
-msgstr "3600:[name]タクミ[line]Goodbye.[%p]"
+msgstr "3600:[name]タクミ[line]「さようなら」[%p]"
 
 msgid "3700:そこで、記憶は途絶えていた。[%p]"
-msgstr "3700:Her memories ended there.[%p]"
+msgstr "3700:そこで、記憶は途絶えていた。[%p]"
 
 msgid "3800:本当の兄がいること。[%p]"
-msgstr "3800:The fact that she'd had an older brother, a real one...[%p]"
+msgstr "3800:本当の兄がいること。[%p]"
 
 msgid "3900:重い病に冒されたその兄を、七海は何年もの間、献身的に看病してきたこと。兄を世話するために、自分がしっかりしなくちゃと気を張り続けていたこと。[%p]"
-msgstr "3900:The fact that he was badly ill, and that she'd spent years taking care of him. The fact that she'd always tried to have her act together, to be strong...[%p]"
+msgstr "3900:重い病に冒されたその兄を、七海は何年もの間、献身的に看病してきたこと。兄を世話するために、自分がしっかりしなくちゃと気を張り続けていたこと。[%p]"
 
 msgid "4000:それらが、今の今まで、１年半もの間、すっぽりと記憶から抜け落ちてしまっていた。[%p]"
-msgstr "4000:All these things had vanished from her memories for the past year and a half.[%p]"
+msgstr "4000:それらが、今の今まで、１年半もの間、すっぽりと記憶から抜け落ちてしまっていた。[%p]"
 
 msgid "4100:その記憶が、なかったことにされていた。[%p]"
-msgstr "4100:The memories had been hidden from her.[%p]"
+msgstr "4100:その記憶が、なかったことにされていた。[%p]"
 
 msgid "4200:そして、その代わりに。[linebreak]兄は健康で。渋谷でひとり暮らしをしていて。[%p]"
-msgstr "4200:And in their place were other memories. Her brother was healthy, and lived alone in Shibuya.[%p]"
+msgstr "4200:そして、その代わりに。[linebreak]兄は健康で。渋谷でひとり暮らしをしていて。[%p]"
 
 msgid "4300:自分はその兄の様子を定期的に見に行くようにと母から頼まれていて、学校帰りにたまに兄の部屋に寄る――[%p]"
-msgstr "4300:Her mom had asked her to check up on him every once in a while, and so she'd go to his place after school.[%p]"
+msgstr "4300:自分はその兄の様子を定期的に見に行くようにと母から頼まれていて、学校帰りにたまに兄の部屋に寄る――[%p]"
 
 msgid "4400:それが、過去から続く当たり前の習慣であり、家族の関係であると思い込んでいた。[%p]"
-msgstr "4400:This had been her habit for a long time. It was normal in her family.[%p]"
+msgstr "4400:それが、過去から続く当たり前の習慣であり、家族の関係であると思い込んでいた。[%p]"
 
 msgid "4500:なんの疑問も、抱くことはなかった。[%p]"
-msgstr "4500:She'd never doubted these memories.[%p]"
+msgstr "4500:なんの疑問も、抱くことはなかった。[%p]"
 
 msgid "4600:[name]七海[line]「どうして、ナナは……」[%p]"
-msgstr "4600:[name]七海[line]Why did I...[%p]"
+msgstr "4600:[name]七海[line]「どうして、ナナは……」[%p]"
 
 msgid "4700:[name]七海[line]「忘れちゃってたんだろ……」[%p]"
-msgstr "4700:[name]七海[line]forget?[%p]"
+msgstr "4700:[name]七海[line]「忘れちゃってたんだろ……」[%p]"
 
 msgid "4800:生き埋め状態から助け出されて、３０分ほど。[linebreak]七海は、ようやく本当の兄と再会した。[%p]"
-msgstr "4800:Thirty minutes after she was rescued from being buried alive, Nanami was finally reunited with her real brother.[%p]"
+msgstr "4800:生き埋め状態から助け出されて、３０分ほど。[linebreak]七海は、ようやく本当の兄と再会した。[%p]"
 
 msgid "4900:兄は、路上に横たえられていた。[linebreak]呼吸はしているが、意識はない。[%p]"
-msgstr "4900:He was lying on the road. He was breathing, but unconscious.[%p]"
+msgstr "4900:兄は、路上に横たえられていた。[linebreak]呼吸はしているが、意識はない。[%p]"
 
 msgid "5000:その姿は、相変わらずしわくちゃで、小さくて、ガリガリで、とても弱々しく見える。[linebreak]七海がずっと昔から知っている、兄の姿だった。[%p]"
-msgstr "5000:His body was small, thin, covered in wrinkles... he looked so weak. It was the brother she'd always known.[%p]"
+msgstr "5000:その姿は、相変わらずしわくちゃで、小さくて、ガリガリで、とても弱々しく見える。[linebreak]七海がずっと昔から知っている、兄の姿だった。[%p]"
 
 msgid "5100:[name]七海[line]「こんなの、ひどいよ……」[%p]"
-msgstr "5100:[name]七海[line]This isn't fair…[%p]"
+msgstr "5100:[name]七海[line]「こんなの、ひどいよ……」[%p]"
 
 msgid "5200:[name]七海[line]「ナナは、おにぃに、文句ばっかり、言ってたけど……言ってた、けど……」[%p]"
-msgstr "5200:[name]七海[line]Sure... I complained about my brother a lot, but... but...[%p]"
+msgstr "5200:[name]七海[line]「ナナは、おにぃに、文句ばっかり、言ってたけど……言ってた、けど……」[%p]"
 
 msgid "5300:返事をしない兄の小さな身体にすがりつくようにして、彼女は涙をこぼした。[%p]"
-msgstr "5300:She was weeping as she clung to his tiny body.[%p]"
+msgstr "5300:返事をしない兄の小さな身体にすがりつくようにして、彼女は涙をこぼした。[%p]"
 
 msgid "5400:[name]七海[line]「おにぃのこと、一度だって、忘れたいなんて、思ったことなかった……のに……」[%p]"
-msgstr "5400:[name]七海[line]I never wanted to forget about him.[%p]"
+msgstr "5400:[name]七海[line]「おにぃのこと、一度だって、忘れたいなんて、思ったことなかった……のに……」[%p]"
 
 msgid "5500:[name]七海[line]「勝手だよ……わがまますぎだよぅ……」[%p]"
-msgstr "5500:[name]七海[line]How could he be so selfish?! It's not fair.[%p]"
+msgstr "5500:[name]七海[line]「勝手だよ……わがまますぎだよぅ……」[%p]"
 
 msgid "5600:その兄の服から、金属が擦れるような音がした。[linebreak]胸ポケットから、なにかが滑り落ちてくる。[%p]"
-msgstr "5600:She heard a metallic clinking sound coming from his clothing. Something fell out of his breast pocket.[%p]"
+msgstr "5600:その兄の服から、金属が擦れるような音がした。[linebreak]胸ポケットから、なにかが滑り落ちてくる。[%p]"
 
 msgid "5700:[name]七海[line]「あ……」[%p]"
-msgstr "5700:[name]七海[line]Ah...[%p]"
+msgstr "5700:[name]七海[line]「あ……」[%p]"
 
 msgid "5800:それは、ずっと七海が探していたもの。[linebreak]右手を失ったときに、一緒に手許から離れてしまったもの。[%p]"
-msgstr "5800:It was what she'd sought for so long. It was what she'd lost when they'd taken her right hand.[%p]"
+msgstr "5800:それは、ずっと七海が探していたもの。[linebreak]右手を失ったときに、一緒に手許から離れてしまったもの。[%p]"
 
 msgid "5900:雪の結晶をかたどった、安っぽいバングル。[%p]"
-msgstr "5900:A cheap bangle with a snowflake design.[%p]"
+msgstr "5900:雪の結晶をかたどった、安っぽいバングル。[%p]"
 
 msgid "6000:困惑し、実の兄の顔をじっと見つめる。[linebreak]けれど、皺に埋もれた目は閉じられたまま。[%p]"
-msgstr "6000:She stared at his face, confused. But his wrinkled eyes stayed shut.[%p]"
+msgstr "6000:困惑し、実の兄の顔をじっと見つめる。[linebreak]けれど、皺に埋もれた目は閉じられたまま。[%p]"
 
 msgid "6100:七海はバングルを左手で拾い上げた。[linebreak]覚えのある手触り。[%p]"
-msgstr "6100:She picked up the bangle with her left hand. It felt just like she remembered.[%p]"
+msgstr "6100:七海はバングルを左手で拾い上げた。[linebreak]覚えのある手触り。[%p]"
 
 msgid "6200:“兄”からもらった、初めてのプレゼント。[linebreak]これは、七海にとっての宝物だ。[%p]"
-msgstr "6200:The bangle was the first present her “brother” had given her. It was her treasure.[%p]"
+msgstr "6200:“兄”からもらった、初めてのプレゼント。[linebreak]これは、七海にとっての宝物だ。[%p]"
 
 msgid "6300:七海は視線を上げ、もうひとりの兄の姿を無意識に探していた。[%p]"
-msgstr "6300:She looked up, her eyes unconsciously searching for her other brother.[%p]"
+msgstr "6300:七海は視線を上げ、もうひとりの兄の姿を無意識に探していた。[%p]"
 
 msgid "6400:彼は、長い剣を手にして、七海に背中を向けていた。[%p]"
-msgstr "6400:He had his back turned to her and held a long sword in his hand.[%p]"
+msgstr "6400:彼は、長い剣を手にして、七海に背中を向けていた。[%p]"
 
 msgid "6500:歩き出している。[linebreak]この場を、去ろうとしている。[linebreak]それが、七海には直感として分かった。[%p]"
-msgstr "6500:He was walking away. He was going to leave. Nanami's intuition told her this clearly.[%p]"
+msgstr "6500:歩き出している。[linebreak]この場を、去ろうとしている。[linebreak]それが、七海には直感として分かった。[%p]"
 
 msgid "6600:彼は自分になにも言わずに行ってしまうつもりなのだろうかと、寂しくなる。[%p]"
-msgstr "6600:He was going to leave without saying anything to her. The thought made her sad.[%p]"
+msgstr "6600:彼は自分になにも言わずに行ってしまうつもりなのだろうかと、寂しくなる。[%p]"
 
 msgid "6700:[name]タクミ[line]「行っておいで」[%p]"
-msgstr "6700:[name]タクミ[line]Go.[%p]"
+msgstr "6700:[name]タクミ[line]「行っておいで」[%p]"
 
 msgid "6800:[name]七海[line]「……？」[%p]"
-msgstr "6800:[name]七海[line]...?[%p]"
+msgstr "6800:[name]七海[line]「……？」[%p]"
 
 msgid "6900:七海は眉をひそめ、そっと周囲を見回した。[%p]"
-msgstr "6900:Nanami squinted and looked around.[%p]"
+msgstr "6900:七海は眉をひそめ、そっと周囲を見回した。[%p]"
 
 msgid "7000:[name]七海[line]「今、声が……」[%p]"
-msgstr "7000:[name]七海[line]Did I just hear a voice?[%p]"
+msgstr "7000:[name]七海[line]「今、声が……」[%p]"
 
 msgid "7100:それは記憶の中にある、兄の声だった。[linebreak]意識のないはずの兄からの、心に届いてくる声。[%p]"
-msgstr "7100:It was her brother's voice as she remembered it. It was speaking directly into her mind, coming from his unconscious body.[%p]"
+msgstr "7100:それは記憶の中にある、兄の声だった。[linebreak]意識のないはずの兄からの、心に届いてくる声。[%p]"
 
 msgid "7200:[name]タクミ[line]「彼は、僕と一心同体。もうひとりの、おにぃなんだから」[%p]"
-msgstr "7200:[name]タクミ[line]He and I are one mind in two bodies. He's your other brother.[%p]"
+msgstr "7200:[name]タクミ[line]「彼は、僕と一心同体。もうひとりの、おにぃなんだから」[%p]"
 
 msgid "7300:[name]七海[line]「…………」[%p]"
-msgstr "7300:[name]七海[line]...[%p]"
+msgstr "7300:[name]七海[line]「…………」[%p]"
 
 msgid "7400:それが、兄の発した声だったのか、あるいはただの幻聴だったのかは、七海には分からない。[linebreak]ただ、それでも――[%p]"
-msgstr "7400:Whether it was her brother's voice, or just her own imaginings, Nanami couldn't tell. But either way...[%p]"
+msgstr "7400:それが、兄の発した声だったのか、あるいはただの幻聴だったのかは、七海には分からない。[linebreak]ただ、それでも――[%p]"
 
 msgid "7500:[name]七海[line]「うん、分かった……」[%p]"
-msgstr "7500:[name]七海[line]Yeah. Okay...[%p]"
+msgstr "7500:[name]七海[line]「うん、分かった……」[%p]"
 
 msgid "7600:横たわる兄に向かってつぶやいて。[%p]"
-msgstr "7600:She whispered to her brother as he lay on the ground.[%p]"
+msgstr "7600:横たわる兄に向かってつぶやいて。[%p]"
 
 msgid "7700:立ち上がった七海は、もうひとりの兄の背中へと、歩み寄る。[linebreak]身体に力は入らない。[%p]"
-msgstr "7700:And then she stood up and walked toward her other brother. She could barely walk.[%p]"
+msgstr "7700:立ち上がった七海は、もうひとりの兄の背中へと、歩み寄る。[linebreak]身体に力は入らない。[%p]"
 
 msgid "7800:もう何日も、真っ暗な部屋で、不気味なオブジェに張り付けにされ、ひどい苦痛を味わわされた。[%p]"
-msgstr "7800:She'd spent days in a dark room, pinned to some bizarre object, forced to endure terrible pain.[%p]"
+msgstr "7800:もう何日も、真っ暗な部屋で、不気味なオブジェに張り付けにされ、ひどい苦痛を味わわされた。[%p]"
 
 msgid "7900:何度死のうと思ったか、分からない。[%p]"
-msgstr "7900:She didn't remember how many times she'd thought about dying.[%p]"
+msgstr "7900:何度死のうと思ったか、分からない。[%p]"
 
 msgid "8000:特に右手は、大きなノミを骨に打ち込まれ削られているような、強い痛みが延々と続いている。[%p]"
-msgstr "8000:Her right hand, especially, had a constant pain, like someone had torn clean through the bone with a huge saw.[%p]"
+msgstr "8000:特に右手は、大きなノミを骨に打ち込まれ削られているような、強い痛みが延々と続いている。[%p]"
 
 msgid "8100:そこに自分の手がないという感覚と、手があるという幻覚とで混乱し、おかしくなりそうだった。[%p]"
-msgstr "8100:It felt like there was no hand there, but when she looked, she could see one. The confused sensations were driving her insane.[%p]"
+msgstr "8100:そこに自分の手がないという感覚と、手があるという幻覚とで混乱し、おかしくなりそうだった。[%p]"
 
 msgid "8200:精神的にも、肉体的にも、疲れ切っていた。[%p]"
-msgstr "8200:Mentally and physically, she was exhausted.[%p]"
+msgstr "8200:精神的にも、肉体的にも、疲れ切っていた。[%p]"
 
 msgid "8300:油断すれば、その場にしゃがみ込んでしまい、もう一歩も歩けなくなってしまうだろう。[%p]"
-msgstr "8300:If she wasn't careful, she might collapse here, unable to take another step.[%p]"
+msgstr "8300:油断すれば、その場にしゃがみ込んでしまい、もう一歩も歩けなくなってしまうだろう。[%p]"
 
 msgid "8400:だから七海は、手を伸ばすのにも必死の努力をしなければならなかった。[%p]"
-msgstr "8400:That's why it took all of her strength and effort to even stretch out her hand.[%p]"
+msgstr "8400:だから七海は、手を伸ばすのにも必死の努力をしなければならなかった。[%p]"
 
 msgid "8500:その努力をしてでも、もうひとりの兄を引き止めたかった。[%p]"
-msgstr "8500:But she wanted to stop him from going, no matter how hard it was for her to do.[%p]"
+msgstr "8500:その努力をしてでも、もうひとりの兄を引き止めたかった。[%p]"
 
 msgid "8600:[name]七海[line]「……ま……って……」[%p]"
-msgstr "8600:[name]七海[line]Wait...[%p]"
+msgstr "8600:[name]七海[line]「……ま……って……」[%p]"
 
 msgid "8700:かろうじて声を絞り出すと、それに彼は気付いてくれた。立ち止まり、七海へと振り返る。[%p]"
-msgstr "8700:She just barely squeezed out the word, but he heard it. He stopped and turned back at her.[%p]"
+msgstr "8700:かろうじて声を絞り出すと、それに彼は気付いてくれた。立ち止まり、七海へと振り返る。[%p]"
 
 msgid "8800:[name]七海[line]「…………」[%p]"
-msgstr "8800:[name]七海[line]...[%p]"
+msgstr "8800:[name]七海[line]「…………」[%p]"
 
 msgid "8900:引き止めることには成功したものの、七海はどう声をかけるべきか迷う。[%p]"
-msgstr "8900:She'd succeeding in keeping him from leaving, but now she wasn't sure what to say.[%p]"
+msgstr "8900:引き止めることには成功したものの、七海はどう声をかけるべきか迷う。[%p]"
 
 msgid "9000:この人は兄じゃないという現実。[linebreak]この人は兄だっていう思い込み。[%p]"
-msgstr "9000:The reality was that this boy wasn't her brother. But her mind kept telling her he was.[%p]"
+msgstr "9000:この人は兄じゃないという現実。[linebreak]この人は兄だっていう思い込み。[%p]"
 
 msgid "9100:そのふたつの感覚がぐちゃぐちゃに入り混じり、おいそれとは心の中で整理できない。[%p]"
-msgstr "9100:The two feelings got mixed together in her head, and she couldn't separate them.[%p]"
+msgstr "9100:そのふたつの感覚がぐちゃぐちゃに入り混じり、おいそれとは心の中で整理できない。[%p]"
 
 msgid "9200:ただ――[%p]"
-msgstr "9200:But...[%p]"
+msgstr "9200:ただ――[%p]"
 
 msgid "9300:七海が左手で握りしめている、バングル。[linebreak]冷たい手触りだけど、心は温かくなる、彼からの贈り物。[%p]"
-msgstr "9300:The bangle she held in her left hand. It felt cold to the touch, but the fact that it was a present from him warmed her heart.[%p]"
+msgstr "9300:七海が左手で握りしめている、バングル。[linebreak]冷たい手触りだけど、心は温かくなる、彼からの贈り物。[%p]"
 
 msgid "9400:このバングルの存在が、七海と、彼を、繋いでくれている。そんな気がした。[%p]"
-msgstr "9400:It connected the two of them. That's how it felt to her.[%p]"
+msgstr "9400:このバングルの存在が、七海と、彼を、繋いでくれている。そんな気がした。[%p]"
 
 msgid "9500:答えは、それだけで、よかった。[linebreak]迷いは、すぐに消えていた。[%p]"
-msgstr "9500:That was enough of an answer for her.[%p]"
+msgstr "9500:答えは、それだけで、よかった。[linebreak]迷いは、すぐに消えていた。[%p]"
 
 msgid "9600:[name]七海[line]「おにぃは……ホントのおにぃじゃないかもしれないけど……」[%p]"
-msgstr "9600:[name]七海[line]Brother... you might not be my real brother, but...[%p]"
+msgstr "9600:[name]七海[line]「おにぃは……ホントのおにぃじゃないかもしれないけど……」[%p]"
 
 msgid "9700:[name]七海[line]「頼りにならなくて……オタクさんで……アニメキャラの、お人形さんばっかり、集めてて……」[%p]"
-msgstr "9700:[name]七海[line]You might be a wimp... and an otaku... and do nothing but collect anime dolls...[%p]"
+msgstr "9700:[name]七海[line]「頼りにならなくて……オタクさんで……アニメキャラの、お人形さんばっかり、集めてて……」[%p]"
 
 msgid "9800:[name]七海[line]「口が悪くて……愛想もなくて……[linebreak]意地悪なこと、ばっかり言うけど――」[%p]"
-msgstr "9800:[name]七海[line]And you're mean and foul-mouthed... And you say all kinds of nasty things...[%p]"
+msgstr "9800:[name]七海[line]「口が悪くて……愛想もなくて……[linebreak]意地悪なこと、ばっかり言うけど――」[%p]"
 
 msgid "9900:[name]七海[line]「おにぃも、ナナのおにぃだよ」[%p]"
-msgstr "9900:[name]七海[line]But you're my brother, too.[%p]"
+msgstr "9900:[name]七海[line]「おにぃも、ナナのおにぃだよ」[%p]"
 
 msgid "10000:泣きそうになるのをぐっとこらえて、七海は精一杯微笑んだ。[%p]"
-msgstr "10000:She held back her tears, and smiled as best she could.[%p]"
+msgstr "10000:泣きそうになるのをぐっとこらえて、七海は精一杯微笑んだ。[%p]"
 
 msgid "10100:[name]拓巳[line]「……あ、え、ありがとう、七海」[%p]"
-msgstr "10100:[name]拓巳[line]T-Thank you... Nanami.[%p]"
+msgstr "10100:[name]拓巳[line]「……あ、え、ありがとう、七海」[%p]"
 
 msgid "10200:もうひとりの兄の、照れくさそうな表情を見て。[linebreak]安心した途端、七海の意識はゆっくりと遠のいていった――[%p]"
-msgstr "10200:Her other brother gave her a shy smile. And then, relieved, she slowly began to pass out.[%p]"
+msgstr "10200:もうひとりの兄の、照れくさそうな表情を見て。[linebreak]安心した途端、七海の意識はゆっくりと遠のいていった――[%p]"
 

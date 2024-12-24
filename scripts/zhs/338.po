@@ -10,134 +10,134 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]拓巳[line]「う……」[%p]"
-msgstr "0:[name]拓巳[line]Ugh...[%p]"
+msgstr "0:[name]拓巳[line]「う……」[%p]"
 
 msgid "100:激しい頭痛がして、僕は意識を取り戻した。[%p]"
-msgstr "100:I woke up with a splitting headache.[%p]"
+msgstr "100:激しい頭痛がして、僕は意識を取り戻した。[%p]"
 
 msgid "200:自分が、倒れたベッドの下敷きになっていることに気付く。[linebreak]頭痛だけじゃなく、そのベッドの重みで背中にも痛みがあった。[linebreak]目だけを動かし、部屋の中の惨状を確認する。[%p]"
-msgstr "200:The bed had fallen on top of me, I realized. I wasn't just feeling the pain from the headache, but the weight of the bed pressing into my back. I couldn't move my head, so I moved my eyes to look around the room.[%p]"
+msgstr "200:自分が、倒れたベッドの下敷きになっていることに気付く。[linebreak]頭痛だけじゃなく、そのベッドの重みで背中にも痛みがあった。[linebreak]目だけを動かし、部屋の中の惨状を確認する。[%p]"
 
 msgid "300:[name]優愛[line]「…………」[%p]"
-msgstr "300:[name]優愛[line]...[%p]"
+msgstr "300:[name]優愛[line]「…………」[%p]"
 
 msgid "400:優愛が、ぼんやりと壁際にへたり込んでいた。[%p]"
-msgstr "400:Yua was slumped up against the wall.[%p]"
+msgstr "400:優愛が、ぼんやりと壁際にへたり込んでいた。[%p]"
 
 msgid "500:地震が起きる前は上半身裸だったはずだけど、服は着たらしい。[linebreak]眼鏡をしていない優愛は新鮮だった。その眼鏡は、彼女の足許に落ちている。レンズが割れてしまっていた。[%p]"
-msgstr "500:She'd been half-naked before the quake, but now she'd put her clothes on, from the look of it. It was strange to see her without her glasses. Her glasses had fallen at my feet. The lenses had broken.[%p]"
+msgstr "500:地震が起きる前は上半身裸だったはずだけど、服は着たらしい。[linebreak]眼鏡をしていない優愛は新鮮だった。その眼鏡は、彼女の足許に落ちている。レンズが割れてしまっていた。[%p]"
 
 msgid "600:[name]拓巳[line]「た、助け……て……」[%p]"
-msgstr "600:[name]拓巳[line]Help me.[%p]"
+msgstr "600:[name]拓巳[line]「た、助け……て……」[%p]"
 
 msgid "700:[name]拓巳[line]「紐……ほどいてよ……！」[%p]"
-msgstr "700:[name]拓巳[line]Untie me.[%p]"
+msgstr "700:[name]拓巳[line]「紐……ほどいてよ……！」[%p]"
 
 msgid "800:僕は頭の痛みをこらえつつ、必死で優愛に呼びかけた。[linebreak]虚ろな瞳が、僕に向けられる。[%p]"
-msgstr "800:I called out to her, trying to fight the pain in my head. She looked at me with empty eyes.[%p]"
+msgstr "800:僕は頭の痛みをこらえつつ、必死で優愛に呼びかけた。[linebreak]虚ろな瞳が、僕に向けられる。[%p]"
 
 msgid "900:[name]優愛[line]「……思い出したの」[%p]"
-msgstr "900:[name]優愛[line]I remember now.[%p]"
+msgstr "900:[name]優愛[line]「……思い出したの」[%p]"
 
 msgid "1000:なにを思い出そうが、今はどうでもいい。[linebreak]それより紐をほどけよ……。これじゃ下敷きになったまま動けないだろ……！[%p]"
-msgstr "1000:I didn't really care what she'd remembered, though. Just untie me... I can't move with this thing on top of me.[%p]"
+msgstr "1000:なにを思い出そうが、今はどうでもいい。[linebreak]それより紐をほどけよ……。これじゃ下敷きになったまま動けないだろ……！[%p]"
 
 msgid "1100:[name]優愛[line]「思い出したのよ」[%p]"
-msgstr "1100:[name]優愛[line]I remember.[%p]"
+msgstr "1100:[name]優愛[line]「思い出したのよ」[%p]"
 
 msgid "1200:優愛はのろのろと立ち上がった。[%p]"
-msgstr "1200:She slowly stood up.[%p]"
+msgstr "1200:優愛はのろのろと立ち上がった。[%p]"
 
 msgid "1300:眼鏡をかけていないにもかかわらず、この暗い中で固く結ばれた紐をすんなりとほどく。[%p]"
-msgstr "1300:She wasn't wearing her glasses, but even in the darkness, she could see clearly enough to untie the knots holding me.[%p]"
+msgstr "1300:眼鏡をかけていないにもかかわらず、この暗い中で固く結ばれた紐をすんなりとほどく。[%p]"
 
 msgid "1400:ようやく自由になった僕は、なんとかベッドの下から抜け出すことができた。[%p]"
-msgstr "1400:Finally free, I managed to crawl out from under the bed.[%p]"
+msgstr "1400:ようやく自由になった僕は、なんとかベッドの下から抜け出すことができた。[%p]"
 
 msgid "1500:でもそれが精一杯だった。[linebreak]前の地震のときと同じように、頭が割れるように痛い。[linebreak]立っていることも辛くて、四つん這いのまま痛みに耐える。[%p]"
-msgstr "1500:But that was all I could do. Just like the last earthquake, this one had left me with a splitting headache. It hurt too much to even stand. I was forced to crawl on the ground in pain.[%p]"
+msgstr "1500:でもそれが精一杯だった。[linebreak]前の地震のときと同じように、頭が割れるように痛い。[linebreak]立っていることも辛くて、四つん這いのまま痛みに耐える。[%p]"
 
 msgid "1600:[name]優愛[line]「優愛ちゃんだったのよ……」[%p]"
-msgstr "1600:[name]優愛[line]It was Yua.[%p]"
+msgstr "1600:[name]優愛[line]「優愛ちゃんだったのよ……」[%p]"
 
 msgid "1700:優愛が、まだなにかボソボソとつぶやいている。[%p]"
-msgstr "1700:She was whispering something to herself again.[%p]"
+msgstr "1700:優愛が、まだなにかボソボソとつぶやいている。[%p]"
 
 msgid "1800:[name]優愛[line]「『集団ダイブ』で死んだのは……美愛じゃない。優愛ちゃんだった」[%p]"
-msgstr "1800:[name]優愛[line]It wasn't Mia that died in the Group Dive. It was Yua.[%p]"
+msgstr "1800:[name]優愛[line]「『集団ダイブ』で死んだのは……美愛じゃない。優愛ちゃんだった」[%p]"
 
 msgid "1900:[name]拓巳[line]「優愛……なにを……？」[%p]"
-msgstr "1900:[name]拓巳[line]Yua, what are you...[%p]"
+msgstr "1900:[name]拓巳[line]「優愛……なにを……？」[%p]"
 
 msgid "2000:[name]優愛[line]「わたしは、優愛じゃない」[%p]"
-msgstr "2000:[name]優愛[line]I'm not Yua.[%p]"
+msgstr "2000:[name]優愛[line]「わたしは、優愛じゃない」[%p]"
 
 msgid "2100:優愛は自嘲気味に笑みを浮かべた。[%p]"
-msgstr "2100:She laughed.[%p]"
+msgstr "2100:優愛は自嘲気味に笑みを浮かべた。[%p]"
 
 msgid "2200:[name]優愛[line]「わたしは、美愛よ」[%p]"
-msgstr "2200:[name]優愛[line]I'm Mia.[%p]"
+msgstr "2200:[name]優愛[line]「わたしは、美愛よ」[%p]"
 
 msgid "2300:[name]優愛[line]「自分を、優愛ちゃんだって思い込んでただけ」[%p]"
-msgstr "2300:[name]優愛[line]I'd just convinced myself I was Yua.[%p]"
+msgstr "2300:[name]優愛[line]「自分を、優愛ちゃんだって思い込んでただけ」[%p]"
 
 msgid "2400:[name]優愛[line]「あの日、わたしたちは入れ替わったの。それで、優愛ちゃんは死んだ。本当は、わたしが死ぬはずだったのに」[%p]"
-msgstr "2400:[name]優愛[line]We switched places that day, and Yua died. Actually, though, I was the one that was supposed to die.[%p]"
+msgstr "2400:[name]優愛[line]「あの日、わたしたちは入れ替わったの。それで、優愛ちゃんは死んだ。本当は、わたしが死ぬはずだったのに」[%p]"
 
 msgid "2500:ふと、優愛の顔から表情が消える。[linebreak]相変わらず虚ろな瞳。[linebreak]僕の方に手を差し出して。[%p]"
-msgstr "2500:Suddenly the expression disappeared from her face. Her eyes were still empty. She offered me a hand.[%p]"
+msgstr "2500:ふと、優愛の顔から表情が消える。[linebreak]相変わらず虚ろな瞳。[linebreak]僕の方に手を差し出して。[%p]"
 
 msgid "2600:[name]優愛[line]「西條くん」[%p]"
-msgstr "2600:[name]優愛[line]Nishijo...[%p]"
+msgstr "2600:[name]優愛[line]「西條くん」[%p]"
 
 msgid "2700:[name]優愛[line]「もう、『将軍』のことなんて、どうでもよくなっちゃった」[%p]"
-msgstr "2700:[name]優愛[line]I don't care about Shogun anymore.[%p]"
+msgstr "2700:[name]優愛[line]「もう、『将軍』のことなんて、どうでもよくなっちゃった」[%p]"
 
 msgid "2800:[name]優愛[line]「結局、優愛ちゃんは、わたしが死なせたようなものだから」[%p]"
-msgstr "2800:[name]優愛[line]In the end, I'm the one that killed her.[%p]"
+msgstr "2800:[name]優愛[line]「結局、優愛ちゃんは、わたしが死なせたようなものだから」[%p]"
 
 msgid "2900:[name]優愛[line]「ねえ、一緒に、来てほしい」[%p]"
-msgstr "2900:[name]優愛[line]I want you to come with me.[%p]"
+msgstr "2900:[name]優愛[line]「ねえ、一緒に、来てほしい」[%p]"
 
 msgid "3000:[name]拓巳[line]「ど、どこへ？」[%p]"
-msgstr "3000:[name]拓巳[line]W-Where?[%p]"
+msgstr "3000:[name]拓巳[line]「ど、どこへ？」[%p]"
 
 msgid "3100:[name]優愛[line]「……優愛ちゃんが死んだ場所。一緒に、来てくれるだけでいい」[%p]"
-msgstr "3100:[name]優愛[line]To the place where Yua died. All you have to do is come.[%p]"
+msgstr "3100:[name]優愛[line]「……優愛ちゃんが死んだ場所。一緒に、来てくれるだけでいい」[%p]"
 
 msgid "3200:[name]優愛[line]「お願い」[%p]"
-msgstr "3200:[name]優愛[line]Please.[%p]"
+msgstr "3200:[name]優愛[line]「お願い」[%p]"
 
 msgid "3300:だいたいの事情は分かった。[%p]"
-msgstr "3300:Please.[%p]"
+msgstr "3300:だいたいの事情は分かった。[%p]"
 
 msgid "3400:そして、僕は悟った。[%p]"
-msgstr "3400:And then I understood.[%p]"
+msgstr "3400:そして、僕は悟った。[%p]"
 
 msgid "3500:優愛は――いや、美愛は――死ぬつもりだ。[linebreak]止めるべきかどうか、迷ったけど。[linebreak]たぶん、僕の言葉は今の美愛には届かないから。[%p]"
-msgstr "3500:Yua—no, Mia—was planning to die. I wasn't sure if I should try to stop her. But I realized nothing I said would make a difference.[%p]"
+msgstr "3500:優愛は――いや、美愛は――死ぬつもりだ。[linebreak]止めるべきかどうか、迷ったけど。[linebreak]たぶん、僕の言葉は今の美愛には届かないから。[%p]"
 
 msgid "3600:だから、僕は美愛の手を取り、それを支えに立ち上がろうとした。[%p]"
-msgstr "3600:So, I took her hand, and with her help, tried to stand up.[%p]"
+msgstr "3600:だから、僕は美愛の手を取り、それを支えに立ち上がろうとした。[%p]"
 
 msgid "3700:[name]拓巳[line]「う、ぐああ……っ！」[%p]"
-msgstr "3700:[name]拓巳[line]Ugh... Gah...[%p]"
+msgstr "3700:[name]拓巳[line]「う、ぐああ……っ！」[%p]"
 
 msgid "3800:頭に、刺すような痛み。[%p]"
-msgstr "3800:There was a stabbing pain in my head.[%p]"
+msgstr "3800:頭に、刺すような痛み。[%p]"
 
 msgid "3900:視界が赤く染まるような錯覚。[linebreak]ドクンドクンという、頭の血管の脈動が全身に響く。[linebreak]痛すぎて、身体に力を入れられない。[%p]"
-msgstr "3900:It felt like my vision was turning read. I could feel the sound of the blood pumping through my head. Ka-thud. Ka-thud. It hurt too much to move.[%p]"
+msgstr "3900:視界が赤く染まるような錯覚。[linebreak]ドクンドクンという、頭の血管の脈動が全身に響く。[linebreak]痛すぎて、身体に力を入れられない。[%p]"
 
 msgid "4000:[name]優愛[line]「……歩ける？」[%p]"
-msgstr "4000:[name]優愛[line]Can you walk?[%p]"
+msgstr "4000:[name]優愛[line]「……歩ける？」[%p]"
 
 msgid "4100:美愛が、僕の身体を抱き、支えてくれた。[%p]"
-msgstr "4100:Mia wrapped her arms around me to support me.[%p]"
+msgstr "4100:美愛が、僕の身体を抱き、支えてくれた。[%p]"
 
 msgid "4200:[name]優愛[line]「歩いてくれないと、困るわ。一緒に、来て欲しいの」[%p]"
-msgstr "4200:[name]優愛[line]I need you to walk. I want you to come with me.[%p]"
+msgstr "4200:[name]優愛[line]「歩いてくれないと、困るわ。一緒に、来て欲しいの」[%p]"
 
 msgid "4300:[name]優愛[line]「わたしを、助けると思って……お願い」[%p]"
-msgstr "4300:[name]優愛[line]It would help me so much... please.[%p]"
+msgstr "4300:[name]優愛[line]「わたしを、助けると思って……お願い」[%p]"
 

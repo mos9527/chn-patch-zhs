@@ -10,86 +10,86 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:岸本あやせは、朝の校門前に立ち尽くし、ぼんやりと空を見上げていた。[%p]"
-msgstr "0:Ayase Kishimoto stood in front of the school's gate in the morning, looking up at the sky.[%p]"
+msgstr "0:岸本あやせは、朝の校門前に立ち尽くし、ぼんやりと空を見上げていた。[%p]"
 
 msgid "100:彼女の横を、他の生徒たちが通り過ぎていく。[linebreak]自分に向けられる奇異の視線には気付いていたが、あやせは気にしようとはしない。[%p]"
-msgstr "100:The other students were passing her by. She noticed the strange looks they gave her, but didn't care.[%p]"
+msgstr "100:彼女の横を、他の生徒たちが通り過ぎていく。[linebreak]自分に向けられる奇異の視線には気付いていたが、あやせは気にしようとはしない。[%p]"
 
 msgid "200:彼女の瞳は、無気力さをたたえている。[linebreak]あやせにとって、学校に行くのは意味のないことだった。[linebreak]３年生になった今でも、制服を身にまとうことに違和感を覚える。[%p]"
-msgstr "200:Her eyes were filled with a kind of powerless lethargy. For Ayase, going to school was meaningless. Even now, in her third year, it still felt strange to wear a uniform.[%p]"
+msgstr "200:彼女の瞳は、無気力さをたたえている。[linebreak]あやせにとって、学校に行くのは意味のないことだった。[linebreak]３年生になった今でも、制服を身にまとうことに違和感を覚える。[%p]"
 
 msgid "300:なぜなら、世界が今まさに滅びようとしている、と考えているからだ。[%p]"
-msgstr "300:Why? Because the world was about to be destroyed.[%p]"
+msgstr "300:なぜなら、世界が今まさに滅びようとしている、と考えているからだ。[%p]"
 
 msgid "400:学校になど通っている場合じゃない――"
-msgstr "400:There were more important things to do than go to school."
+msgstr "400:学校になど通っている場合じゃない――"
 
 msgid "500:[linebreak]それがあやせの想いだった。[%p]"
-msgstr "500:[linebreak]That's how Ayase felt, anyway.[%p]"
+msgstr "500:[linebreak]それがあやせの想いだった。[%p]"
 
 msgid "600:学校になど通っている場合じゃない――それがあやせの想いだった。"
-msgstr "600:There were more important things to do than go to school. That's how Ayase felt, anyway."
+msgstr "600:学校になど通っている場合じゃない――それがあやせの想いだった。"
 
 msgid "700:それでもこうしてたまに学校に来るのは、探しているから。[linebreak]“扉”と、他の“黒騎士”たちを。[%p]"
-msgstr "700:Still, she came, because she was searching. Searching for the door, and the other Black Knights.[%p]"
+msgstr "700:それでもこうしてたまに学校に来るのは、探しているから。[linebreak]“扉”と、他の“黒騎士”たちを。[%p]"
 
 msgid "800:この翠明学園は、黒騎士が集まる場所。[linebreak]いや、集められる場所。[linebreak]あやせはそう推理していた。[%p]"
-msgstr "800:Suimei Academy was the place where the Black Knights would gather. No, where they would be gathered, more accurately. That was how Ayase saw it.[%p]"
+msgstr "800:この翠明学園は、黒騎士が集まる場所。[linebreak]いや、集められる場所。[linebreak]あやせはそう推理していた。[%p]"
 
 msgid "900:もともとあやせは、義務教育である中学校もまともに通っていない問題児だった。[linebreak]高校になど入れるわけがなかった。[%p]"
-msgstr "900:She'd always been a problem child, rarely even going to middle school. Middle school was compulsory in Japan, but high school wasn't. She'd never expected to go there.[%p]"
+msgstr "900:もともとあやせは、義務教育である中学校もまともに通っていない問題児だった。[linebreak]高校になど入れるわけがなかった。[%p]"
 
 msgid "1000:けれど、１年生の５月になって、この翠明学園に転入してきた。[linebreak]そのときのことは、今も鮮明に思い出せる。[%p]"
-msgstr "1000:But in May of her first year, she'd transferred in anyway. She still remembered it well.[%p]"
+msgstr "1000:けれど、１年生の５月になって、この翠明学園に転入してきた。[linebreak]そのときのことは、今も鮮明に思い出せる。[%p]"
 
 msgid "1100:あの日も、あやせはこうして、校門の前で立ち尽くしていた。[%p]"
-msgstr "1100:On that day, she was also standing here in front of the school.[%p]"
+msgstr "1100:あの日も、あやせはこうして、校門の前で立ち尽くしていた。[%p]"
 
 msgid "1200:それまで生活していたアークハートメディカル会という施設。[%p]"
-msgstr "1200:Until then, she'd lived at a facility run by the Ark Heart Medical Group.[%p]"
+msgstr "1200:それまで生活していたアークハートメディカル会という施設。[%p]"
 
 msgid "1300:そこで地獄のような試練を乗り越えた結果、あやせは黒騎士となれた。[%p]"
-msgstr "1300:There, she'd endured hellish trials until she'd finally become a Black Knight.[%p]"
+msgstr "1300:そこで地獄のような試練を乗り越えた結果、あやせは黒騎士となれた。[%p]"
 
 msgid "1400:その後、１ヶ月ほど精神の回復に努めた後、施設を追い出された。[%p]"
-msgstr "1400:After a month or so of rest to restore her damaged mental state, she'd been exiled from the facility.[%p]"
+msgstr "1400:その後、１ヶ月ほど精神の回復に努めた後、施設を追い出された。[%p]"
 
 msgid "1500:施設の所長と名乗る男――その男の名前に興味はなかったから、覚えてはいない――は、最後にあやせにこう言った。[%p]"
-msgstr "1500:The director of the facility—she didn't care enough to remember his name—had said this to her just before she left:[%p]"
+msgstr "1500:施設の所長と名乗る男――その男の名前に興味はなかったから、覚えてはいない――は、最後にあやせにこう言った。[%p]"
 
 msgid "1600:“君は明日から、渋谷にある翠明学園という高校に通ってもらう。すでに転入手続きは済ませた”[%p]"
-msgstr "1600:“Starting tomorrow, you'll be attending a school in Shibuya called Suimei Academy. The preparations have already been made.”[%p]"
+msgstr "1600:“君は明日から、渋谷にある翠明学園という高校に通ってもらう。すでに転入手続きは済ませた”[%p]"
 
 msgid "1700:理由は教えてもらえなかった。[%p]"
-msgstr "1700:She was not told the reason.[%p]"
+msgstr "1700:理由は教えてもらえなかった。[%p]"
 
 msgid "1800:だから、転入してきたその日、この校門前で口ずさんだのは。[%p]"
-msgstr "1800:So, on the day she'd transferred here, she'd stood in front of the school gate, and sang a little song to herself.[%p]"
+msgstr "1800:だから、転入してきたその日、この校門前で口ずさんだのは。[%p]"
 
 msgid "1900:[name]あやせ[line]「天空、赤く染まるとき、邪心王の胎動と呼応し、７つの黒き邪心は生まれ、やがて聖域へと召喚される」[%p]"
-msgstr "1900:[name]あやせ[line]When the heavens turn red and the king of wicked hearts stirs in the womb, seven wicked hearts will be born, to someday gather at the holy grounds.[%p]"
+msgstr "1900:[name]あやせ[line]「天空、赤く染まるとき、邪心王の胎動と呼応し、７つの黒き邪心は生まれ、やがて聖域へと召喚される」[%p]"
 
 msgid "2000:[name]あやせ[line]「そして宣言するのだ、悪夢よ、災厄よ、暗黒なる肉塊たちよ、邪心により邪心は屠られ、邪心王が支配する世界は砕け散ると」[%p]"
-msgstr "2000:[name]あやせ[line]There they will declare, “O disaster! O nightmare! O lumps of dark flesh! By wicked hearts are wicked hearts buried, and the world ruled by the king of wicked hearts shall shatter.”[%p]"
+msgstr "2000:[name]あやせ[line]「そして宣言するのだ、悪夢よ、災厄よ、暗黒なる肉塊たちよ、邪心により邪心は屠られ、邪心王が支配する世界は砕け散ると」[%p]"
 
 msgid "2100:それはグラジオール記黙示録詩編と呼ばれる、神話の一節。[linebreak]それであやせは、納得した。[%p]"
-msgstr "2100:It was a line from a myth published under the title “The Apocalyptic Psalms of the Book of Gladiale.” Remembering it satisfied her.[%p]"
+msgstr "2100:それはグラジオール記黙示録詩編と呼ばれる、神話の一節。[linebreak]それであやせは、納得した。[%p]"
 
 msgid "2200:つまりここに、黒騎士は集まるのだ、と。[%p]"
-msgstr "2200:This, she knew, was where the Black Knights would gather.[%p]"
+msgstr "2200:つまりここに、黒騎士は集まるのだ、と。[%p]"
 
 msgid "2300:だから、待ち続けた。[linebreak]だから、探し続けた。[%p]"
-msgstr "2300:So, she waited. And she searched.[%p]"
+msgstr "2300:だから、待ち続けた。[linebreak]だから、探し続けた。[%p]"
 
 msgid "2400:これまでは、邪心の気配すらなかった。[linebreak]けれど今、ようやく１人。[linebreak]黒騎士となり得る存在を見つけた。[%p]"
-msgstr "2400:Until now, there'd been no sign at all of any wicked hearts. But now, at last, one had appeared. She'd found someone who could become a Black Knight.[%p]"
+msgstr "2400:これまでは、邪心の気配すらなかった。[linebreak]けれど今、ようやく１人。[linebreak]黒騎士となり得る存在を見つけた。[%p]"
 
 msgid "2500:それはあやせにとっては遅すぎた変化だったが、歓迎すべき変化でもあった。[%p]"
-msgstr "2500:To Ayase, this change came far too late, but it was still a welcome change indeed.[%p]"
+msgstr "2500:それはあやせにとっては遅すぎた変化だったが、歓迎すべき変化でもあった。[%p]"
 
 msgid "2600:[name]あやせ[line]「もう、時間はないわ……。グラジオールの復活は……すぐそこ」[%p]"
-msgstr "2600:[name]あやせ[line]There's little time left... Gladiale's awakening is upon us.[%p]"
+msgstr "2600:[name]あやせ[line]「もう、時間はないわ……。グラジオールの復活は……すぐそこ」[%p]"
 
 msgid "2700:かすかなつぶやきを漏らして。[linebreak]もう１人の“黒騎士”――あのライブ会場で見かけた少年に会うため、あやせは校門をくぐった。[%p]"
-msgstr "2700:She whispered this softly. Then she stepped through the gate of the school to see the other Black Knight, the boy she'd seen at the concert.[%p]"
+msgstr "2700:かすかなつぶやきを漏らして。[linebreak]もう１人の“黒騎士”――あのライブ会場で見かけた少年に会うため、あやせは校門をくぐった。[%p]"
 

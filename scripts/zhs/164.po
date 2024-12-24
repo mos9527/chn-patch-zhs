@@ -10,188 +10,188 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:地下鉄半蔵門線の改札は、そろそろ日付が変わろうという時間にもかかわらず人でごった返していた。[%p]"
-msgstr "0:The entrance to the Hanzomon Subway was packed, even though it was almost midnight.[%p]"
+msgstr "0:地下鉄半蔵門線の改札は、そろそろ日付が変わろうという時間にもかかわらず人でごった返していた。[%p]"
 
 msgid "100:地震の影響で公共交通機関はどれもダイヤが大きく乱れており、改札を抜けていく誰もが苛立ちを隠そうともしない。[%p]"
-msgstr "100:Thanks to the earthquake, all the trains and buses were running late. The people heading through the turnstiles weren't even trying to hide their annoyance.[%p]"
+msgstr "100:地震の影響で公共交通機関はどれもダイヤが大きく乱れており、改札を抜けていく誰もが苛立ちを隠そうともしない。[%p]"
 
 msgid "200:それを横目で見ながら、判安二は駅員室のモニターをチェックしていた。[%p]"
-msgstr "200:Yasuji Ban was in the station's staff office, watching them on the monitors.[%p]"
+msgstr "200:それを横目で見ながら、判安二は駅員室のモニターをチェックしていた。[%p]"
 
 msgid "300:駅員から通報があったのは昨日の午前中。[%p]"
-msgstr "300:The call had come in from the station staff yesterday morning.[%p]"
+msgstr "300:駅員から通報があったのは昨日の午前中。[%p]"
 
 msgid "400:女子高生が巨大な刃物を持って暴れた、という第一報を受けて、所轄の警官が駆けつけた。だがそのときには女子高生の姿も、襲われたらしい男性の姿もなかった。[%p]"
-msgstr "400:There was a report of a teenage girl attacking people with a huge bladed weapon. The local police had rushed to the scene, but when they'd gotten there, there was no sign of the girl or the man she'd supposedly attacked.[%p]"
+msgstr "400:女子高生が巨大な刃物を持って暴れた、という第一報を受けて、所轄の警官が駆けつけた。だがそのときには女子高生の姿も、襲われたらしい男性の姿もなかった。[%p]"
 
 msgid "500:その話を今日になってたまたま耳にした判は、被害者の男の風体に興味を持った。[%p]"
-msgstr "500:Ban had happened to hear this, and noticed the description of the man she'd supposedly attacked.[%p]"
+msgstr "500:その話を今日になってたまたま耳にした判は、被害者の男の風体に興味を持った。[%p]"
 
 msgid "600:似たような事件が、他にも数件起きているということも引っかかった。[linebreak]それで、こんな時間に自ら足を運んだのだった。[%p]"
-msgstr "600:There were several earlier reports of the same thing happening. That's why he'd come here at this godawful hour.[%p]"
+msgstr "600:似たような事件が、他にも数件起きているということも引っかかった。[linebreak]それで、こんな時間に自ら足を運んだのだった。[%p]"
 
 msgid "700:どうやら事件の様子は監視カメラに克明に撮影されていたらしい。駅員にその映像を見せてくれと頼むと、快く了承してくれたものの“ちょっと薄気味悪いですが”と言われた。[%p]"
-msgstr "700:Supposedly, the station's video cameras had captured the incident on tape. When he'd asked the station staff to show him the video, they'd eagerly agreed, stopping only to add that it was “a little bit creepy.”[%p]"
+msgstr "700:どうやら事件の様子は監視カメラに克明に撮影されていたらしい。駅員にその映像を見せてくれと頼むと、快く了承してくれたものの“ちょっと薄気味悪いですが”と言われた。[%p]"
 
 msgid "800:とりあえず映像をモニターに再生してもらう。[%p]"
-msgstr "800:He had them use the station monitors to show him the footage.[%p]"
+msgstr "800:とりあえず映像をモニターに再生してもらう。[%p]"
 
 msgid "900:映像はノイズだらけだった。[%p]"
-msgstr "900:It was full of static.[%p]"
+msgstr "900:映像はノイズだらけだった。[%p]"
 
 msgid "1000:おそらく地震の影響だろう。あちこちで、パソコンのハードディスクデータが消えたという話が出てきていることに関連していると思われた。[%p]"
-msgstr "1000:The static was probably from the earthquake. He'd heard that a lot of other hard disk drives had lost data today. That probably had something to do with it.[%p]"
+msgstr "1000:おそらく地震の影響だろう。あちこちで、パソコンのハードディスクデータが消えたという話が出てきていることに関連していると思われた。[%p]"
 
 msgid "1100:かろうじて見ることができる、というレベルで、このテープに映っている人物を特定するのは難しそうだ。[%p]"
-msgstr "1100:It was only barely possible to make out what was going on. It would be very hard to identify any individuals on the tape.[%p]"
+msgstr "1100:かろうじて見ることができる、というレベルで、このテープに映っている人物を特定するのは難しそうだ。[%p]"
 
 msgid "1200:映像の中に映っているのは、ひとりの男。[linebreak]画面の右端奥の方で、壁際にたたずんでいる。[%p]"
-msgstr "1200:The monitor was showing a single man. He was on the right side of the screen, a distance away from the monitor, standing against the wall.[%p]"
+msgstr "1200:映像の中に映っているのは、ひとりの男。[linebreak]画面の右端奥の方で、壁際にたたずんでいる。[%p]"
 
 msgid "1300:そこは改札からは少し離れた場所で、電車の乗り換えの際にもまず通らないところだった。[%p]"
-msgstr "1300:The camera was showing a spot a distance away from the turnstiles, one you wouldn't use if you were just here to get on a train.[%p]"
+msgstr "1300:そこは改札からは少し離れた場所で、電車の乗り換えの際にもまず通らないところだった。[%p]"
 
 msgid "1400:実際、他の乗降客は画面手前を横切っていくだけだった。[%p]"
-msgstr "1400:In fact, the only other people to appear onscreen were people quickly cutting across the camera's field of view.[%p]"
+msgstr "1400:実際、他の乗降客は画面手前を横切っていくだけだった。[%p]"
 
 msgid "1500:男の容姿は、ノイズがひどくてはっきりとは分からないが、かなり痩せぎすで背も低い。そして大きなリュックを背負っていた。[%p]"
-msgstr "1500:The screen was so fuzzy with static that it was hard to tell, but he looked like he was short and extremely thin. He was wearing a heavy backpack, too.[%p]"
+msgstr "1500:男の容姿は、ノイズがひどくてはっきりとは分からないが、かなり痩せぎすで背も低い。そして大きなリュックを背負っていた。[%p]"
 
 msgid "1600:いったいなにをしているのか、判には見当もつかない。[%p]"
-msgstr "1600:Ban couldn't imagine what he was doing there.[%p]"
+msgstr "1600:いったいなにをしているのか、判には見当もつかない。[%p]"
 
 msgid "1700:早回ししてみると、映像内で１時間ほど経った頃、ふと小さな変化が起きた。[%p]"
-msgstr "1700:He fast-forwarded the video, and after an hour or so, something happened.[%p]"
+msgstr "1700:早回ししてみると、映像内で１時間ほど経った頃、ふと小さな変化が起きた。[%p]"
 
 msgid "1800:画面を横切る通勤客の中から、数人が男の方へと歩み寄り、立ち止まったのだ。判には、まるで彼らがリュックの男に吸い寄せられたかのように見えた。[%p]"
-msgstr "1800:A few of the passersby walking across the screen headed toward the man and stopped. It looked to Ban as if they were being drawn in by the backpack he was wearing.[%p]"
+msgstr "1800:画面を横切る通勤客の中から、数人が男の方へと歩み寄り、立ち止まったのだ。判には、まるで彼らがリュックの男に吸い寄せられたかのように見えた。[%p]"
 
 msgid "1900:不思議なのは、特に話しかけるわけでもないということだ。その場で、ただぼんやりしている。[%p]"
-msgstr "1900:What was especially strange, though, was that they didn't seem to be talking. They were just standing there.[%p]"
+msgstr "1900:不思議なのは、特に話しかけるわけでもないということだ。その場で、ただぼんやりしている。[%p]"
 
 msgid "2000:立ち止まった数人は知り合いというわけでもなさそうだ。性別や年齢もバラバラで共通点はない。[%p]"
-msgstr "2000:The few who stopped didn't seem to know each other, either. They were of different ages and genders, and seemed to have nothing in common.[%p]"
+msgstr "2000:立ち止まった数人は知り合いというわけでもなさそうだ。性別や年齢もバラバラで共通点はない。[%p]"
 
 msgid "2100:いったいなんなんだ――？[%p]"
-msgstr "2100:What was going on?[%p]"
+msgstr "2100:いったいなんなんだ――？[%p]"
 
 msgid "2200:モニターを眺めながら、判が首を傾げたとき……[%p]"
-msgstr "2200:Just as Ban started to get really confused at the goings-on onscreen, though...[%p]"
+msgstr "2200:モニターを眺めながら、判が首を傾げたとき……[%p]"
 
 msgid "2300:ひとりの少女が、画面内に入ってきた。[%p]"
-msgstr "2300:A girl appeared on the camera.[%p]"
+msgstr "2300:ひとりの少女が、画面内に入ってきた。[%p]"
 
 msgid "2400:翠明学園の制服を着たその長髪の女子高生は、まさに闊歩するという形容そのままに、まっすぐリュックの男へと向かう。[%p]"
-msgstr "2400:She was wearing a Suimei Academy uniform and had long hair. She walked right up to the man with the backpack.[%p]"
+msgstr "2400:翠明学園の制服を着たその長髪の女子高生は、まさに闊歩するという形容そのままに、まっすぐリュックの男へと向かう。[%p]"
 
 msgid "2500:先ほど立ち止まった数人とは明らかに動きが違う。[%p]"
-msgstr "2500:The way she was moving was clearly different from the ones who'd stopped nearby him before.[%p]"
+msgstr "2500:先ほど立ち止まった数人とは明らかに動きが違う。[%p]"
 
 msgid "2600:むしろその少女は、たむろしていた彼らを押しのけていきなりリュック男の襟首をつかみ上げた。[%p]"
-msgstr "2600:She knocked them out of the way as she grabbed the backpack man's collar.[%p]"
+msgstr "2600:むしろその少女は、たむろしていた彼らを押しのけていきなりリュック男の襟首をつかみ上げた。[%p]"
 
 msgid "2700:しばらくの間、２人でなにか口論をしている。というより、少女が一方的に男に凄んでいる……ように見える。[%p]"
-msgstr "2700:The two of them argued for a moment. Or, actually... it felt like the girl was threatening the man.[%p]"
+msgstr "2700:しばらくの間、２人でなにか口論をしている。というより、少女が一方的に男に凄んでいる……ように見える。[%p]"
 
 msgid "2800:立ち止まっていた数人はそれで我に返ったかのように、[linebreak]その場を立ち去ってしまった。[%p]"
-msgstr "2800:This seemed to bring the others back to their senses. They quickly walked away.[%p]"
+msgstr "2800:立ち止まっていた数人はそれで我に返ったかのように、[linebreak]その場を立ち去ってしまった。[%p]"
 
 msgid "2900:やがて少女は男を突き飛ばした。[%p]"
-msgstr "2900:A few moments later, the girl gave the man a hard shove.[%p]"
+msgstr "2900:やがて少女は男を突き飛ばした。[%p]"
 
 msgid "3000:その場に尻餅をついた男から一歩だけ後ずさり、奇妙なポーズを取る。腰を落とし、両手の拳を自身の耳の横に添えるような形。[%p]"
-msgstr "3000:The man fell flat on his ass, and then something strange happened. The girl took a step back and struck an odd pose. She dropped low and seemed to bring her fists up to her ears.[%p]"
+msgstr "3000:その場に尻餅をついた男から一歩だけ後ずさり、奇妙なポーズを取る。腰を落とし、両手の拳を自身の耳の横に添えるような形。[%p]"
 
 msgid "3100:なにかを持っているかのように見えるが、その手にはなにもない。[%p]"
-msgstr "3100:It looked like she was holding something heavy in her hands, but there was nothing there at all.[%p]"
+msgstr "3100:なにかを持っているかのように見えるが、その手にはなにもない。[%p]"
 
 msgid "3200:通報では少女は大きな刃物を振り回したということだったが、いったいどこにそんな物を隠し持っているのか……[%p]"
-msgstr "3200:The report had said she was carrying a huge bladed weapon, but where could she be hiding it on her body?[%p]"
+msgstr "3200:通報では少女は大きな刃物を振り回したということだったが、いったいどこにそんな物を隠し持っているのか……[%p]"
 
 msgid "3300:――その答えは、すぐに明らかになった。[%p]"
-msgstr "3300:The answer immediately became clear.[%p]"
+msgstr "3300:――その答えは、すぐに明らかになった。[%p]"
 
 msgid "3400:突然、画面――カメラが揺れる。これはノイズなどではない。実際に録画していたカメラが揺れていることは、通りすがりの通勤客の髪や服がはためいていることから明らかだ。[%p]"
-msgstr "3400:The screen, that is, the camera, suddenly began to shake. This wasn't static. The way the hair and clothes of the people around them were flapping, as if they were blowing in the wind, made that much clear.[%p]"
+msgstr "3400:突然、画面――カメラが揺れる。これはノイズなどではない。実際に録画していたカメラが揺れていることは、通りすがりの通勤客の髪や服がはためいていることから明らかだ。[%p]"
 
 msgid "3500:[name]判[line]「な、なにっ……！？」[%p]"
-msgstr "3500:[name]判[line]W-What the heck?[%p]"
+msgstr "3500:[name]判[line]「な、なにっ……！？」[%p]"
 
 msgid "3600:判は画面にかじりついた。[%p]"
-msgstr "3600:Ban leapt forward to get a closer look at the screen.[%p]"
+msgstr "3600:判は画面にかじりついた。[%p]"
 
 msgid "3700:どこから取り出したのか、気が付けば少女の手に、自身の身長よりも長い巨大な剣が収まっていたのだ。[%p]"
-msgstr "3700:Suddenly the girl was holding a huge sword in her hands. It was bigger than she was tall, and Ban had no idea where she'd gotten it from.[%p]"
+msgstr "3700:どこから取り出したのか、気が付けば少女の手に、自身の身長よりも長い巨大な剣が収まっていたのだ。[%p]"
 
 msgid "3800:テープを巻き戻してもらってもう一度確認してみる。[%p]"
-msgstr "3800:He had them rewind the tape so he could see it again.[%p]"
+msgstr "3800:テープを巻き戻してもらってもう一度確認してみる。[%p]"
 
 msgid "3900:どう見ても、剣はなにもない空間から浮き上がってきたかのようだった。[%p]"
-msgstr "3900:No matter how many times he watched it, the sword just seemed to appear from thin air.[%p]"
+msgstr "3900:どう見ても、剣はなにもない空間から浮き上がってきたかのようだった。[%p]"
 
 msgid "4000:少なくとも少女は、腰を落とした姿勢のまま微動だにしていない。[%p]"
-msgstr "4000:If nothing else, the girl hadn't moved at all.[%p]"
+msgstr "4000:少なくとも少女は、腰を落とした姿勢のまま微動だにしていない。[%p]"
 
 msgid "4100:[name]判[line]「どんな手品だ、こりゃ……」[%p]"
-msgstr "4100:[name]判[line]What kind of magic trick is this?[%p]"
+msgstr "4100:[name]判[line]「どんな手品だ、こりゃ……」[%p]"
 
 msgid "4200:モニター内に映っている人々は少女が突然出現させた剣を見て、騒然となっている。[linebreak]けれど少女は周囲の目など意に介そうともしない。[%p]"
-msgstr "4200:The people on the screen were freaking out at the girl and her sword. She, however, was completely ignoring them.[%p]"
+msgstr "4200:モニター内に映っている人々は少女が突然出現させた剣を見て、騒然となっている。[linebreak]けれど少女は周囲の目など意に介そうともしない。[%p]"
 
 msgid "4300:一方のリュック男は明らかに怯えていた。[linebreak]必死で立ち上がり、逃げ出そうとする。[%p]"
-msgstr "4300:The man with the backpack, though, was clearly frightened. He scrambled to his feet and tried to run away.[%p]"
+msgstr "4300:一方のリュック男は明らかに怯えていた。[linebreak]必死で立ち上がり、逃げ出そうとする。[%p]"
 
 msgid "4400:だが少女はそれを許さなかった。[%p]"
-msgstr "4400:The girl refused to let him.[%p]"
+msgstr "4400:だが少女はそれを許さなかった。[%p]"
 
 msgid "4500:機敏な動きで逃げる男に追いすがると、あの巨大な剣を軽々と振り回す。[%p]"
-msgstr "4500:The man was surprisingly agile as he ran, but the girl caught up and swung the massive blade like it weighed nothing at all.[%p]"
+msgstr "4500:機敏な動きで逃げる男に追いすがると、あの巨大な剣を軽々と振り回す。[%p]"
 
 msgid "4600:剣は、男の背負っていたリュックを暴風のように切り裂いた。[%p]"
-msgstr "4600:The sword cut through the man's backpack like a tornado.[%p]"
+msgstr "4600:剣は、男の背負っていたリュックを暴風のように切り裂いた。[%p]"
 
 msgid "4700:衝撃の強さに、男が倒れ込む。[%p]"
-msgstr "4700:The impact knocked him to the ground.[%p]"
+msgstr "4700:衝撃の強さに、男が倒れ込む。[%p]"
 
 msgid "4800:だがケガをしたようには見えなかった。[%p]"
-msgstr "4800:He didn't seem to have been hurt, though.[%p]"
+msgstr "4800:だがケガをしたようには見えなかった。[%p]"
 
 msgid "4900:実際、通報直後に駆けつけた警官が現場を調べたところ、血痕のひとつも残っていなかったらしい。[%p]"
-msgstr "4900:In fact, when the police got there, they hadn't found any blood at all.[%p]"
+msgstr "4900:実際、通報直後に駆けつけた警官が現場を調べたところ、血痕のひとつも残っていなかったらしい。[%p]"
 
 msgid "5000:[name]判[line]「いったい……この娘は何者だ……？」[%p]"
-msgstr "5000:[name]判[line]Who the hell is this girl?[%p]"
+msgstr "5000:[name]判[line]「いったい……この娘は何者だ……？」[%p]"
 
 msgid "5100:その判のつぶやきが聞こえたかのように――録画映像だから聞こえるはずもないが――少女がいきなりカメラの方を向く。[%p]"
-msgstr "5100:Ban whispered aloud. The girl suddenly looked at the camera as if she'd heard him, even though there was no way she could with a pre-recorded video.[%p]"
+msgstr "5100:その判のつぶやきが聞こえたかのように――録画映像だから聞こえるはずもないが――少女がいきなりカメラの方を向く。[%p]"
 
 msgid "5200:画面がわずかに乱れ――[%p]"
-msgstr "5200:The screen blurred for a moment.[%p]"
+msgstr "5200:画面がわずかに乱れ――[%p]"
 
 msgid "5300:[name]判[line]「あっ……！」[%p]"
-msgstr "5300:[name]判[line]Aah![%p]"
+msgstr "5300:[name]判[line]「あっ……！」[%p]"
 
 msgid "5400:少女の姿は一瞬にして消えていた。[%p]"
-msgstr "5400:And she was gone.[%p]"
+msgstr "5400:少女の姿は一瞬にして消えていた。[%p]"
 
 msgid "5500:まるで、はじめからそこにいなかったかのようだ。[%p]"
-msgstr "5500:It was as if she'd never been there in the first place.[%p]"
+msgstr "5500:まるで、はじめからそこにいなかったかのようだ。[%p]"
 
 msgid "5600:だが少女の残した痕跡として、確かにリュック男のリュックは切り裂かれてしまっている。[%p]"
-msgstr "5600:The shattered remains of the man's backpack, though, testified that she had been.[%p]"
+msgstr "5600:だが少女の残した痕跡として、確かにリュック男のリュックは切り裂かれてしまっている。[%p]"
 
 msgid "5700:ノイズのせいで分かりにくかったものの、少女が１秒にも満たないうちに画面内から消えたのは確かだ。[%p]"
-msgstr "5700:It was hard to tell from the static on the screen, but it was plain that she'd disappeared in less than a span of a second.[%p]"
+msgstr "5700:ノイズのせいで分かりにくかったものの、少女が１秒にも満たないうちに画面内から消えたのは確かだ。[%p]"
 
 msgid "5800:判は再度映像を巻き戻してみた。[linebreak]画面右下に表示されているタイムカウントに不自然なところはなかった。[%p]"
-msgstr "5800:Ban rewound the tape. The timestamp in the corner showed nothing unusual at all.[%p]"
+msgstr "5800:判は再度映像を巻き戻してみた。[linebreak]画面右下に表示されているタイムカウントに不自然なところはなかった。[%p]"
 
 msgid "5900:つまりこの映像は――[linebreak]編集されたわけではないということ――[%p]"
-msgstr "5900:In other words, this video... hadn't been spliced.[%p]"
+msgstr "5900:つまりこの映像は――[linebreak]編集されたわけではないということ――[%p]"
 
 msgid "6000:だとしたら、あの少女と剣のことをいったいどう説明するのか。[%p]"
-msgstr "6000:But how to explain the disappearance of the girl and the appearance of the sword, then?[%p]"
+msgstr "6000:だとしたら、あの少女と剣のことをいったいどう説明するのか。[%p]"
 
 msgid "6100:判は、幽霊でも見た気分になり、ただただ困惑するしかなかった。[%p]"
-msgstr "6100:Ban felt like he'd seen a ghost. He had no explanation for any of this.[%p]"
+msgstr "6100:判は、幽霊でも見た気分になり、ただただ困惑するしかなかった。[%p]"
 

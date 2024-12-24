@@ -10,296 +10,296 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:声が、聞こえたんだ。[%p]"
-msgstr "0:I heard a voice.[%p]"
+msgstr "0:声が、聞こえたんだ。[%p]"
 
 msgid "100:それは、セナの心の叫びだった。[linebreak]現実を呪うような、その狂気にも似た叫びを聞いて、僕は神泉駅に駆けつけた。[%p]"
-msgstr "100:It was the voice of Sena's heart. I followed the maddening scream to Shinsen Station.[%p]"
+msgstr "100:それは、セナの心の叫びだった。[linebreak]現実を呪うような、その狂気にも似た叫びを聞いて、僕は神泉駅に駆けつけた。[%p]"
 
 msgid "200:でも、そのときにはすでに手遅れだった。[%p]"
-msgstr "200:But by the time I got there, it was already too late.[%p]"
+msgstr "200:でも、そのときにはすでに手遅れだった。[%p]"
 
 msgid "300:薄暗い構内に入ると、かすかに血の匂いが漂っていた。[linebreak]壁際に、こずぴぃが横たわっていた。意識はない。[%p]"
-msgstr "300:There was a faint smell of blood inside the dim station. Kozupii was lying up against the wall. She wasn't conscious.[%p]"
+msgstr "300:薄暗い構内に入ると、かすかに血の匂いが漂っていた。[linebreak]壁際に、こずぴぃが横たわっていた。意識はない。[%p]"
 
 msgid "400:そしてホームには。[linebreak]僕に背を向ける形でへたり込んでいる、セナの姿。[%p]"
-msgstr "400:And on the platform, I could see Sena sitting with her back to me.[%p]"
+msgstr "400:そしてホームには。[linebreak]僕に背を向ける形でへたり込んでいる、セナの姿。[%p]"
 
 msgid "500:うなだれているせいで、長い髪に隠れてその表情は分からない。[%p]"
-msgstr "500:She was looking down, and her long hair made it impossible to see the look on her face.[%p]"
+msgstr "500:うなだれているせいで、長い髪に隠れてその表情は分からない。[%p]"
 
 msgid "600:セナの傍らには、首のない遺体。[%p]"
-msgstr "600:Next to Sena was a headless corpse.[%p]"
+msgstr "600:セナの傍らには、首のない遺体。[%p]"
 
 msgid "700:少し離れたところに転がっている丸い物体が、その遺体にかつて繋がっていた頭だと気付く。[%p]"
-msgstr "700:I realized that the round thing a short distance away had once been its owner's head.[%p]"
+msgstr "700:少し離れたところに転がっている丸い物体が、その遺体にかつて繋がっていた頭だと気付く。[%p]"
 
 msgid "800:波多野さんだ。[linebreak]僕はそう悟り、唇を噛む。[%p]"
-msgstr "800:It was Hatano, I realized, and I bit my lip.[%p]"
+msgstr "800:波多野さんだ。[linebreak]僕はそう悟り、唇を噛む。[%p]"
 
 msgid "900:[name]男[line]「こいつはラッキーッスね」[%p]"
-msgstr "900:[name]男[line]Looks like today's my lucky day.[%p]"
+msgstr "900:[name]男[line]「こいつはラッキーッスね」[%p]"
 
 msgid "1000:線路に、ひとりの男が立っていた。[%p]"
-msgstr "1000:A man was standing on the tracks.[%p]"
+msgstr "1000:線路に、ひとりの男が立っていた。[%p]"
 
 msgid "1100:スーツ姿なのにリュックを背負っていて、その中から耳障りな機械音が響いていた。[%p]"
-msgstr "1100:The man was wearing a suit, but he had a backpack on his back, too. The machine inside was making an awful noise.[%p]"
+msgstr "1100:スーツ姿なのにリュックを背負っていて、その中から耳障りな機械音が響いていた。[%p]"
 
 msgid "1200:諏訪護。警視庁捜査一課の刑事。[linebreak]この男には、会ったことがある。[linebreak]そして――この男のしたことを、僕は知っている。[%p]"
-msgstr "1200:Mamoru Suwa, a detective assigned to Section 1 of the Metropolitan Police. I'd met him before. And... I knew what he'd done.[%p]"
+msgstr "1200:諏訪護。警視庁捜査一課の刑事。[linebreak]この男には、会ったことがある。[linebreak]そして――この男のしたことを、僕は知っている。[%p]"
 
 msgid "1300:[name]諏訪[line]「元々は、目障りな波多野親子を処分しに来たんスけどね」[%p]"
-msgstr "1300:[name]諏訪[line]I came here to get rid of the Hatanos, ‘cause they were becoming a nuisance.[%p]"
+msgstr "1300:[name]諏訪[line]「元々は、目障りな波多野親子を処分しに来たんスけどね」[%p]"
 
 msgid "1400:[name]諏訪[line]「西條くん。キミが自分から火に飛び込んできてくれて、感謝感激ッス」[%p]"
-msgstr "1400:[name]諏訪[line]But Nishijo, I'm happy to see you here, too.[%p]"
+msgstr "1400:[name]諏訪[line]「西條くん。キミが自分から火に飛び込んできてくれて、感謝感激ッス」[%p]"
 
 msgid "1500:[name]諏訪[line]「キミを見かけたら捕まえろってことになってるんスよ」[%p]"
-msgstr "1500:[name]諏訪[line]I'm supposed to capture you if I find you.[%p]"
+msgstr "1500:[name]諏訪[line]「キミを見かけたら捕まえろってことになってるんスよ」[%p]"
 
 msgid "1600:[name]拓巳[line]「誰に……？」[%p]"
-msgstr "1600:[name]拓巳[line]Who told you to do that?[%p]"
+msgstr "1600:[name]拓巳[line]「誰に……？」[%p]"
 
 msgid "1700:[name]諏訪[line]「内緒ッス」[%p]"
-msgstr "1700:[name]諏訪[line]That's a secret.[%p]"
+msgstr "1700:[name]諏訪[line]「内緒ッス」[%p]"
 
 msgid "1800:ヘラヘラとした笑み。[linebreak]その笑い方は、彼の相棒だった判刑事を彷彿とさせる。[%p]"
-msgstr "1800:He had a grin on his face. The way he smiled reminded me of Ban, his partner.[%p]"
+msgstr "1800:ヘラヘラとした笑み。[linebreak]その笑い方は、彼の相棒だった判刑事を彷彿とさせる。[%p]"
 
 msgid "1900:でも、決定的に違うのは。[%p]"
-msgstr "1900:But the difference was this:[%p]"
+msgstr "1900:でも、決定的に違うのは。[%p]"
 
 msgid "2000:判刑事の笑みは、相手を油断させるための、あるいは苛つかせるための演技だった。[%p]"
-msgstr "2000:Ban's smile was an act, to make someone let their guard down.[%p]"
+msgstr "2000:判刑事の笑みは、相手を油断させるための、あるいは苛つかせるための演技だった。[%p]"
 
 msgid "2100:それに対して諏訪は、この狡猾そうな笑みこそ本質だっていうこと。[%p]"
-msgstr "2100:Suwa's sly grin was a reflection of who he really was.[%p]"
+msgstr "2100:それに対して諏訪は、この狡猾そうな笑みこそ本質だっていうこと。[%p]"
 
 msgid "2200:[name]拓巳[line]「あんたは、野呂瀬の居場所を知ってる？」[%p]"
-msgstr "2200:[name]拓巳[line]Do you know where Norose is?[%p]"
+msgstr "2200:[name]拓巳[line]「あんたは、野呂瀬の居場所を知ってる？」[%p]"
 
 msgid "2300:[name]諏訪[line]「西條くんさあ」[%p]"
-msgstr "2300:[name]諏訪[line]Listen, Nishijo...[%p]"
+msgstr "2300:[name]諏訪[line]「西條くんさあ」[%p]"
 
 msgid "2400:諏訪は大げさに首を振りながら、ため息をついた。[%p]"
-msgstr "2400:Suwa shook his head and sighed.[%p]"
+msgstr "2400:諏訪は大げさに首を振りながら、ため息をついた。[%p]"
 
 msgid "2500:[name]諏訪[line]「口の利き方に気をつけてほしいッスねえ。自分の方が年上ッスよ？」[%p]"
-msgstr "2500:[name]諏訪[line]You really need to show me some respect. I'm your elder, you know.[%p]"
+msgstr "2500:[name]諏訪[line]「口の利き方に気をつけてほしいッスねえ。自分の方が年上ッスよ？」[%p]"
 
 msgid "2600:僕は諏訪から視線を離さないまま、慎重にホームから線路上に飛び降りた。[%p]"
-msgstr "2600:I carefully jumped down from the platform onto the tracks, keeping my eyes on Suwa at all times.[%p]"
+msgstr "2600:僕は諏訪から視線を離さないまま、慎重にホームから線路上に飛び降りた。[%p]"
 
 msgid "2700:動けないでいるセナを、背中にかばうような形になる。[%p]"
-msgstr "2700:I put myself between him and Sena, who still wasn't moving.[%p]"
+msgstr "2700:動けないでいるセナを、背中にかばうような形になる。[%p]"
 
 msgid "2800:[name]拓巳[line]「判、っていう人を殺したのは……あんただ……」[%p]"
-msgstr "2800:[name]拓巳[line]You're the one who killed the man named Ban.[%p]"
+msgstr "2800:[name]拓巳[line]「判、っていう人を殺したのは……あんただ……」[%p]"
 
 msgid "2900:[name]諏訪[line]「……だから？」[%p]"
-msgstr "2900:[name]諏訪[line]And if I am?[%p]"
+msgstr "2900:[name]諏訪[line]「……だから？」[%p]"
 
 msgid "3000:[name]拓巳[line]「刑事のくせに、人を殺すなんて……」[%p]"
-msgstr "3000:[name]拓巳[line]You're a detective. You're not supposed to kill people.[%p]"
+msgstr "3000:[name]拓巳[line]「刑事のくせに、人を殺すなんて……」[%p]"
 
 msgid "3100:[name]諏訪[line]「キミには言われたくないッス」[%p]"
-msgstr "3100:[name]諏訪[line]You're one to talk.[%p]"
+msgstr "3100:[name]諏訪[line]「キミには言われたくないッス」[%p]"
 
 msgid "3200:僕はディソードをきつく握りしめる。[%p]"
-msgstr "3200:I clenched my Di-Sword tighter.[%p]"
+msgstr "3200:僕はディソードをきつく握りしめる。[%p]"
 
 msgid "3300:[name]拓巳[line]「あんたみたいなヤツに、敬語を使う義理なんて……ないよ」[%p]"
-msgstr "3300:[name]拓巳[line]I don't need... to show you any respect at all.[%p]"
+msgstr "3300:[name]拓巳[line]「あんたみたいなヤツに、敬語を使う義理なんて……ないよ」[%p]"
 
 msgid "3400:[name]諏訪[line]「……あのさあ」[%p]"
-msgstr "3400:[name]諏訪[line]Listen...[%p]"
+msgstr "3400:[name]諏訪[line]「……あのさあ」[%p]"
 
 msgid "3500:[name]諏訪[line]「お前に言われたくねえって言ってるんだよ！」[%p]"
-msgstr "3500:[name]諏訪[line]You don't have the right to say shit to me![%p]"
+msgstr "3500:[name]諏訪[line]「お前に言われたくねえって言ってるんだよ！」[%p]"
 
 msgid "3600:この距離からでも、はっきりと分かった。[linebreak]諏訪の顔から笑みが消える。[%p]"
-msgstr "3600:Even from this distance, I could see it clearly. The way the smile disappeared from his face.[%p]"
+msgstr "3600:この距離からでも、はっきりと分かった。[linebreak]諏訪の顔から笑みが消える。[%p]"
 
 msgid "3700:[name]諏訪[line]「お前も人殺しだろ……！」[%p]"
-msgstr "3700:[name]諏訪[line]You're a murderer, too![%p]"
+msgstr "3700:[name]諏訪[line]「お前も人殺しだろ……！」[%p]"
 
 msgid "3800:[name]諏訪[line]「違うとは言わせないぞ。お前は、葉月志乃を殺した……！」[%p]"
-msgstr "3800:[name]諏訪[line]Don't tell me you're not! You killed Shino Hazuki![%p]"
+msgstr "3800:[name]諏訪[line]「違うとは言わせないぞ。お前は、葉月志乃を殺した……！」[%p]"
 
 msgid "3900:[name]諏訪[line]「オレは、今すぐにでも、お前を、ブチ殺したいんだよ……！」[%p]"
-msgstr "3900:[name]諏訪[line]If I could, I'd kill you right here and now.[%p]"
+msgstr "3900:[name]諏訪[line]「オレは、今すぐにでも、お前を、ブチ殺したいんだよ……！」[%p]"
 
 msgid "4000:[name]拓巳[line]「…………」[%p]"
-msgstr "4000:[name]拓巳[line]...[%p]"
+msgstr "4000:[name]拓巳[line]「…………」[%p]"
 
 msgid "4100:葉月志乃……。[linebreak]ニュージェネ事件の真犯人だった看護師。[linebreak]２人は、ともに天成神光会の信者……。[%p]"
-msgstr "4100:Shino Hazuki... The nurse who was behind the NewGen killings. Both her and Suwa were believers in the Cosmic Church of the Divine Light.[%p]"
+msgstr "4100:葉月志乃……。[linebreak]ニュージェネ事件の真犯人だった看護師。[linebreak]２人は、ともに天成神光会の信者……。[%p]"
 
 msgid "4200:それだけ、か？[%p]"
-msgstr "4200:But was that all?[%p]"
+msgstr "4200:それだけ、か？[%p]"
 
 msgid "4300:ゴクリと、僕は息を呑む。[%p]"
-msgstr "4300:I gulped.[%p]"
+msgstr "4300:ゴクリと、僕は息を呑む。[%p]"
 
 msgid "4400:[name]諏訪[line]「神光の救いのために、それは自制するが、その代わり……」[%p]"
-msgstr "4400:[name]諏訪[line]I'm gonna control myself, for the sake of the Divine Light's salvation. But instead...[%p]"
+msgstr "4400:[name]諏訪[line]「神光の救いのために、それは自制するが、その代わり……」[%p]"
 
 msgid "4500:[name]諏訪[line]「オレが、責任持って――」[%p]"
-msgstr "4500:[name]諏訪[line]I'm gonna personally see to it...[%p]"
+msgstr "4500:[name]諏訪[line]「オレが、責任持って――」[%p]"
 
 msgid "4600:[name]諏訪[line]「心を、殺してやる」[%p]"
-msgstr "4600:[name]諏訪[line]that your mind is destroyed.[%p]"
+msgstr "4600:[name]諏訪[line]「心を、殺してやる」[%p]"
 
 msgid "4700:とっさに、ディソードを構えようとした。[linebreak]構えたからって、どうなるわけじゃなかった。[%p]"
-msgstr "4700:I went to raise my Di-Sword. Not that raising it would help anything.[%p]"
+msgstr "4700:とっさに、ディソードを構えようとした。[linebreak]構えたからって、どうなるわけじゃなかった。[%p]"
 
 msgid "4800:ただ単に反射的にそうしただけ。[linebreak]そして案の定、どうすることもできなかった。[%p]"
-msgstr "4800:I just did it out of reflex. And just like I thought, it did nothing at all.[%p]"
+msgstr "4800:ただ単に反射的にそうしただけ。[linebreak]そして案の定、どうすることもできなかった。[%p]"
 
 msgid "4900:気が付くと薄暗い部屋にいた。[linebreak]そこには１人の男が立っていて、モニタの中の老人と話をしている。[%p]"
-msgstr "4900:The next thing I knew, I was in a dark room. There was a man there, standing and talking to an old man displayed on a monitor.[%p]"
+msgstr "4900:気が付くと薄暗い部屋にいた。[linebreak]そこには１人の男が立っていて、モニタの中の老人と話をしている。[%p]"
 
 msgid "5000:[name]老人[line]「諏訪くん。君と葉月くんに、やってもらいたい修行があるのだ」[%p]"
-msgstr "5000:[name]老人[line]Suwa, I would like you and Hazuki to engage in a new spiritual exercise.[%p]"
+msgstr "5000:[name]老人[line]「諏訪くん。君と葉月くんに、やってもらいたい修行があるのだ」[%p]"
 
 msgid "5100:[name]諏訪[line]「はい。なんなりと」[%p]"
-msgstr "5100:[name]諏訪[line]Yes. Anything, sir.[%p]"
+msgstr "5100:[name]諏訪[line]「はい。なんなりと」[%p]"
 
 msgid "5200:[name]老人[line]「人を殺してもらいたい」[%p]"
-msgstr "5200:[name]老人[line]I want you to kill a person.[%p]"
+msgstr "5200:[name]老人[line]「人を殺してもらいたい」[%p]"
 
 msgid "5300:[name]諏訪[line]「相手は誰ですか？」[%p]"
-msgstr "5300:[name]諏訪[line]Kill who?[%p]"
+msgstr "5300:[name]諏訪[line]「相手は誰ですか？」[%p]"
 
 msgid "5400:[name]老人[line]「相手が何者かに意味はない」[%p]"
-msgstr "5400:[name]老人[line]Who dies doesn't matter.[%p]"
+msgstr "5400:[name]老人[line]「相手が何者かに意味はない」[%p]"
 
 msgid "5500:[name]諏訪[line]「と、申しますと？」[%p]"
-msgstr "5500:[name]諏訪[line]What do you mean?[%p]"
+msgstr "5500:[name]諏訪[line]「と、申しますと？」[%p]"
 
 msgid "5600:[name]老人[line]「特に決まりはないと言っておこう。殺す対象、殺し方はこちらで指示する」[%p]"
-msgstr "5600:[name]老人[line]Let's just say there's a good deal of flexibility in the matter. As for who you kill, and how you kill them, you will be provided with the information you need.[%p]"
+msgstr "5600:[name]老人[line]「特に決まりはないと言っておこう。殺す対象、殺し方はこちらで指示する」[%p]"
 
 msgid "5700:[name]老人[line]「我らが進めているプロジェクト・ノアを完成させるため、西條拓巳という少年に心理的揺さぶりをかける必要があるのだ」[%p]"
-msgstr "5700:[name]老人[line]The completion of Project Noah requires us to place considerable psychic stress on a boy named Takumi Nishijo.[%p]"
+msgstr "5700:[name]老人[line]「我らが進めているプロジェクト・ノアを完成させるため、西條拓巳という少年に心理的揺さぶりをかける必要があるのだ」[%p]"
 
 msgid "5800:[name]諏訪[line]「揺さぶり、ですか……」[%p]"
-msgstr "5800:[name]諏訪[line]Stress?[%p]"
+msgstr "5800:[name]諏訪[line]「揺さぶり、ですか……」[%p]"
 
 msgid "5900:[name]老人[line]「恐怖を与えるのだ。しかしその少年の秘めた力は強大だ。直接的な行動はこちらの身に危険を及ぼしかねん」[%p]"
-msgstr "5900:[name]老人[line]To make him afraid. But the boy possesses immense hidden power. Any direct action may result in our own undoing.[%p]"
+msgstr "5900:[name]老人[line]「恐怖を与えるのだ。しかしその少年の秘めた力は強大だ。直接的な行動はこちらの身に危険を及ぼしかねん」[%p]"
 
 msgid "6000:[name]老人[line]「故に、連続猟奇殺人事件を起こす」[%p]"
-msgstr "6000:[name]老人[line]We will take another route, and perform a series of bizarre killings.[%p]"
+msgstr "6000:[name]老人[line]「故に、連続猟奇殺人事件を起こす」[%p]"
 
 msgid "6100:[name]諏訪[line]「たったそれだけのために殺人を……」[%p]"
-msgstr "6100:[name]諏訪[line]You're going to kill people, just for that?[%p]"
+msgstr "6100:[name]諏訪[line]「たったそれだけのために殺人を……」[%p]"
 
 msgid "6200:[name]老人[line]「不満かね？」[%p]"
-msgstr "6200:[name]老人[line]Do you have a problem with this?[%p]"
+msgstr "6200:[name]老人[line]「不満かね？」[%p]"
 
 msgid "6300:[name]諏訪[line]「志乃もその修行に参加しなければなりませんか？」[%p]"
-msgstr "6300:[name]諏訪[line]Does Shino have to participate in this as well?[%p]"
+msgstr "6300:[name]諏訪[line]「志乃もその修行に参加しなければなりませんか？」[%p]"
 
 msgid "6400:[name]老人[line]「当然だ。これは神光の理想郷を築くためであり、同時に君たちに神光の救いをもたらすだろう」[%p]"
-msgstr "6400:[name]老人[line]Of course. It's a necessary step in the construction of our divine utopia, and in ensuring that both of you receive the salvation of the Divine Light yourselves.[%p]"
+msgstr "6400:[name]老人[line]「当然だ。これは神光の理想郷を築くためであり、同時に君たちに神光の救いをもたらすだろう」[%p]"
 
 msgid "6500:[name]諏訪[line]「そういうことであれば」[%p]"
-msgstr "6500:[name]諏訪[line]Very well, sir.[%p]"
+msgstr "6500:[name]諏訪[line]「そういうことであれば」[%p]"
 
 msgid "6600:[name]老人[line]「ときに、葉月くんはお腹に君の子を授かっていたな。予定日はいつかね」[%p]"
-msgstr "6600:[name]老人[line]Hazuki's pregnant with your child, isn't she? When's the due date?[%p]"
+msgstr "6600:[name]老人[line]「ときに、葉月くんはお腹に君の子を授かっていたな。予定日はいつかね」[%p]"
 
 msgid "6700:[name]諏訪[line]「あと２ヶ月ほどです」[%p]"
-msgstr "6700:[name]諏訪[line]Two months from now.[%p]"
+msgstr "6700:[name]諏訪[line]「あと２ヶ月ほどです」[%p]"
 
 msgid "6800:[name]老人[line]「その子供……神光の救いのために捧げたまえ」[%p]"
-msgstr "6800:[name]老人[line]You must offer up the child for the sake of the Divine Light's salvation.[%p]"
+msgstr "6800:[name]老人[line]「その子供……神光の救いのために捧げたまえ」[%p]"
 
 msgid "6900:[name]諏訪[line]「……殺せとおっしゃいますか？」[%p]"
-msgstr "6900:[name]諏訪[line]You want me to kill my child?[%p]"
+msgstr "6900:[name]諏訪[line]「……殺せとおっしゃいますか？」[%p]"
 
 msgid "7000:[name]老人[line]「聖なる犠牲だよ。子を捧げれば君と葉月くんには、大いなる神光の救いがもたらされるだろう」[%p]"
-msgstr "7000:[name]老人[line]A holy sacrifice. Offer up your child, and great salvation will be given to both you and Hazuki.[%p]"
+msgstr "7000:[name]老人[line]「聖なる犠牲だよ。子を捧げれば君と葉月くんには、大いなる神光の救いがもたらされるだろう」[%p]"
 
 msgid "7100:[name]諏訪[line]「大いなる、神光の救い……」[%p]"
-msgstr "7100:[name]諏訪[line]Great salvation...[%p]"
+msgstr "7100:[name]諏訪[line]「大いなる、神光の救い……」[%p]"
 
 msgid "7200:[name]諏訪[line]「かしこまりました。すべて教祖様の仰せのままに。きっと志乃も喜びます。神光の救いあれ」[%p]"
-msgstr "7200:[name]諏訪[line]It will be as you say, Leader. I'm sure that Shino will be very pleased, too. May the Divine Light save us.[%p]"
+msgstr "7200:[name]諏訪[line]「かしこまりました。すべて教祖様の仰せのままに。きっと志乃も喜びます。神光の救いあれ」[%p]"
 
 msgid "7300:そうして僕は、ニュージェネ事件の追体験をさせられた。[%p]"
-msgstr "7300:And after that, I was forced to experience all of the NewGen murders.[%p]"
+msgstr "7300:そうして僕は、ニュージェネ事件の追体験をさせられた。[%p]"
 
 msgid "7400:７つの事件。１４人の死者。[%p]"
-msgstr "7400:Seven murders. Fourteen dead.[%p]"
+msgstr "7400:７つの事件。１４人の死者。[%p]"
 
 msgid "7500:強制的に被害者の視点になって、僕は何度も彼らと同じように殺された。[%p]"
-msgstr "7500:I was forced into the viewpoint of the victims, killed like they were.[%p]"
+msgstr "7500:強制的に被害者の視点になって、僕は何度も彼らと同じように殺された。[%p]"
 
 msgid "7600:ダーススパイダーのコスプレをした男と、看護師の女。２人の実行犯に、何度も殺された。[%p]"
-msgstr "7600:A man in a Darth Spider cosplay, and a woman dressed as a nurse killed me again and again.[%p]"
+msgstr "7600:ダーススパイダーのコスプレをした男と、看護師の女。２人の実行犯に、何度も殺された。[%p]"
 
 msgid "7700:痛みも。恐怖も。すべて被害者と同じ感覚を共有させられて。[%p]"
-msgstr "7700:The pain, the terror... I forced to share the victims' sensations.[%p]"
+msgstr "7700:痛みも。恐怖も。すべて被害者と同じ感覚を共有させられて。[%p]"
 
 msgid "7800:今の追体験で、僕は何回死んだんだろう？[%p]"
-msgstr "7800:How many times had I died?[%p]"
+msgstr "7800:今の追体験で、僕は何回死んだんだろう？[%p]"
 
 msgid "7900:３回？\u3000１回？\u3000７回？[%p]"
-msgstr "7900:Three times? One time? Seven times?[%p]"
+msgstr "7900:３回？\u3000１回？\u3000７回？[%p]"
 
 msgid "8000:４回！\u3000２回！\u3000５回！[%p]"
-msgstr "8000:Four times! Two times! Five times![%p]"
+msgstr "8000:４回！\u3000２回！\u3000５回！[%p]"
 
 msgid "8100:人肉はけっこうおいしかった。[%p]"
-msgstr "8100:The human flesh tasted pretty good.[%p]"
+msgstr "8100:人肉はけっこうおいしかった。[%p]"
 
 msgid "8200:痛い。[%p]"
-msgstr "8200:It hurts.[%p]"
+msgstr "8200:痛い。[%p]"
 
 msgid "8300:もうやだ。[%p]"
-msgstr "8300:No more.[%p]"
+msgstr "8300:もうやだ。[%p]"
 
 msgid "8400:ダーススパイダーの格好はシュールだ。ギャグだ。[%p]"
-msgstr "8400:The Darth Spider outfit's pretty surreal. Good comedy, actually.[%p]"
+msgstr "8400:ダーススパイダーの格好はシュールだ。ギャグだ。[%p]"
 
 msgid "8500:それで、何回死んだ？[linebreak]誰が死んだって？[linebreak]僕は死んでない。[%p]"
-msgstr "8500:So, how many times had I died? Who died? I didn't die.[%p]"
+msgstr "8500:それで、何回死んだ？[linebreak]誰が死んだって？[linebreak]僕は死んでない。[%p]"
 
 msgid "8600:怪物はマジでホラー映画。[%p]"
-msgstr "8600:The monster was like something out of a horror movie.[%p]"
+msgstr "8600:怪物はマジでホラー映画。[%p]"
 
 msgid "8700:でもあの怪物の元ネタは、[linebreak]諏訪が言ってたけど『スパークウォーズ』だ。[linebreak]だからなんだよ？[%p]"
-msgstr "8700:From what Suwa was saying, that thing was actually from Spark Wars, too. But so what?[%p]"
+msgstr "8700:でもあの怪物の元ネタは、[linebreak]諏訪が言ってたけど『スパークウォーズ』だ。[linebreak]だからなんだよ？[%p]"
 
 msgid "8800:人肉はけっこうおいしかった。骨も。[%p]"
-msgstr "8800:The human flesh tasted pretty good. The bones, too.[%p]"
+msgstr "8800:人肉はけっこうおいしかった。骨も。[%p]"
 
 msgid "8900:なんでダーススパイダーは黒いんだ。[%p]"
-msgstr "8900:Why is Darth Spider black?[%p]"
+msgstr "8900:なんでダーススパイダーは黒いんだ。[%p]"
 
 msgid "9000:葉月志乃はエロい。[linebreak]でも怖い。頭がおかしい。だからエロい。[%p]"
-msgstr "9000:Shino Hazuki is sexy. But scary. She's crazy. That's why she's sexy.[%p]"
+msgstr "9000:葉月志乃はエロい。[linebreak]でも怖い。頭がおかしい。だからエロい。[%p]"
 
 msgid "9100:ダーススパイダーは骨だから、人肉はなんだよ？[%p]"
-msgstr "9100:Darth Spider was the bones. What was the human flesh?[%p]"
+msgstr "9100:ダーススパイダーは骨だから、人肉はなんだよ？[%p]"
 
 msgid "9200:僕はギャグで何回死んだ？[linebreak]ギャグだっけ？[%p]"
-msgstr "9200:How many times had I died for good comedy? Was it good comedy?[%p]"
+msgstr "9200:僕はギャグで何回死んだ？[linebreak]ギャグだっけ？[%p]"
 
 msgid "9300:死んだんじゃなくて。[linebreak]死んだ。[%p]"
-msgstr "9300:I hadn't died. I'd died.[%p]"
+msgstr "9300:死んだんじゃなくて。[linebreak]死んだ。[%p]"
 
 msgid "9400:死。[linebreak]シ。[linebreak]し。[%p]"
-msgstr "9400:Die. Dead. Corpse.[%p]"
+msgstr "9400:死。[linebreak]シ。[linebreak]し。[%p]"
 
 msgid "9500:しゅーるだ。[linebreak]もういやだ。[linebreak]ほねだ。[%p]"
-msgstr "9500:Surreal. No more. Bones.[%p]"
+msgstr "9500:しゅーるだ。[linebreak]もういやだ。[linebreak]ほねだ。[%p]"
 
 msgid "9600:しにたくない。[linebreak]くろい。[linebreak]しんだんだ。[%p]"
-msgstr "9600:I don't wanna die. Black. Dead.[%p]"
+msgstr "9600:しにたくない。[linebreak]くろい。[linebreak]しんだんだ。[%p]"
 
 msgid "9700:だから、ころして――[%p]"
-msgstr "9700:So, kill me.[%p]"
+msgstr "9700:だから、ころして――[%p]"
 

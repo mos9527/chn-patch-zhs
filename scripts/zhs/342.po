@@ -10,113 +10,113 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]拓巳[line]僕は――[%p]"
-msgstr "0:[name]拓巳[line]I am...[%p]"
+msgstr "0:[name]拓巳[line]僕は――[%p]"
 
 msgid "100:[name]梨深[line]「タクーっ！」[%p]"
-msgstr "100:[name]梨深[line]Taku![%p]"
+msgstr "100:[name]梨深[line]「タクーっ！」[%p]"
 
 msgid "200:[name]拓巳[line]その声が聞こえた瞬間に。[%p]"
-msgstr "200:[name]拓巳[line]The second I heard that voice,[%p]"
+msgstr "200:[name]拓巳[line]その声が聞こえた瞬間に。[%p]"
 
 msgid "300:[name]拓巳[line]意識が僕を固定した。[%p]"
-msgstr "300:[name]拓巳[line]my mind fixed me in place.[%p]"
+msgstr "300:[name]拓巳[line]意識が僕を固定した。[%p]"
 
 msgid "400:[name]拓巳[line]ぐちゃぐちゃにかき回されていた世界が、一気に収束する。[%p]"
-msgstr "400:[name]拓巳[line]The messed-up, mixed-up world came together in an instant.[%p]"
+msgstr "400:[name]拓巳[line]ぐちゃぐちゃにかき回されていた世界が、一気に収束する。[%p]"
 
 msgid "500:[name]拓巳[line]混沌は、僕のディソードを形作って収束する。[%p]"
-msgstr "500:[name]拓巳[line]The chaos converged in the form of my Di-Sword.[%p]"
+msgstr "500:[name]拓巳[line]混沌は、僕のディソードを形作って収束する。[%p]"
 
 msgid "600:[name]拓巳[line]僕は、僕としての形に、戻る。[%p]"
-msgstr "600:[name]拓巳[line]I regained my shape.[%p]"
+msgstr "600:[name]拓巳[line]僕は、僕としての形に、戻る。[%p]"
 
 msgid "700:[name]拓巳[line]世界は、世界としての形に、戻る。[%p]"
-msgstr "700:[name]拓巳[line]The world regained its shape.[%p]"
+msgstr "700:[name]拓巳[line]世界は、世界としての形に、戻る。[%p]"
 
 msgid "800:[name]拓巳[line]僕は、僕だ――！[%p]"
-msgstr "800:[name]拓巳[line]I am... me![%p]"
+msgstr "800:[name]拓巳[line]僕は、僕だ――！[%p]"
 
 msgid "900:視界はクリアになっていた。[%p]"
-msgstr "900:My vision became clear again.[%p]"
+msgstr "900:視界はクリアになっていた。[%p]"
 
 msgid "1000:身体の傷は治っていた。[%p]"
-msgstr "1000:My wounds were healed.[%p]"
+msgstr "1000:身体の傷は治っていた。[%p]"
 
 msgid "1100:上半身と下半身は繋がっていた。[%p]"
-msgstr "1100:My top and bottom were connected once more.[%p]"
+msgstr "1100:上半身と下半身は繋がっていた。[%p]"
 
 msgid "1200:僕は自分の足で、立っていた。[%p]"
-msgstr "1200:I was standing on my own two feet.[%p]"
+msgstr "1200:僕は自分の足で、立っていた。[%p]"
 
 msgid "1300:痛みは完璧に消えていた。[%p]"
-msgstr "1300:The pain was completely gone.[%p]"
+msgstr "1300:痛みは完璧に消えていた。[%p]"
 
 msgid "1400:心は、穏やかに凪いでいた。[%p]"
-msgstr "1400:My heart was completely at peace.[%p]"
+msgstr "1400:心は、穏やかに凪いでいた。[%p]"
 
 msgid "1500:[name]タクミ[line]「妄想によく打ち勝ったね」[%p]"
-msgstr "1500:[name]タクミ[line]Good. You defeated the delusion.[%p]"
+msgstr "1500:[name]タクミ[line]「妄想によく打ち勝ったね」[%p]"
 
 msgid "1600:[name]タクミ[line]「僕の最期の力を、君に託すよ」[%p]"
-msgstr "1600:[name]タクミ[line]I'll entrust you with the last of my power.[%p]"
+msgstr "1600:[name]タクミ[line]「僕の最期の力を、君に託すよ」[%p]"
 
 msgid "1700:梨深の姿を視界の隅に認める。[%p]"
-msgstr "1700:I could see Rimi in the corner of my vision.[%p]"
+msgstr "1700:梨深の姿を視界の隅に認める。[%p]"
 
 msgid "1800:彼女は無事。[linebreak]僕を見ている。[linebreak]泣いている。[%p]"
-msgstr "1800:She was safe. She was looking at me. She was crying.[%p]"
+msgstr "1800:彼女は無事。[linebreak]僕を見ている。[linebreak]泣いている。[%p]"
 
 msgid "1900:泣かないで。[%p]"
-msgstr "1900:Don't cry.[%p]"
+msgstr "1900:泣かないで。[%p]"
 
 msgid "2000:僕のすぐ背後。[linebreak]空間が歪む。[%p]"
-msgstr "2000:And right behind me... Space itself was warping.[%p]"
+msgstr "2000:僕のすぐ背後。[linebreak]空間が歪む。[%p]"
 
 msgid "2100:祈りはもたらされた。[linebreak]それは６つの福音。[linebreak]あるいは６つの魂の衝動。[%p]"
-msgstr "2100:The prayers had been heard. Six gospels, or perhaps the screams of six souls.[%p]"
+msgstr "2100:祈りはもたらされた。[linebreak]それは６つの福音。[linebreak]あるいは６つの魂の衝動。[%p]"
 
 msgid "2200:あまりにも無垢。[linebreak]あまりにも優雅。[linebreak]あまりにも凛として。[%p]"
-msgstr "2200:Far too innocent, far too dazzling and elegant, far too regal,[%p]"
+msgstr "2200:あまりにも無垢。[linebreak]あまりにも優雅。[linebreak]あまりにも凛として。[%p]"
 
 msgid "2300:あまりにも鋭利。[linebreak]あまりにも獰猛。[linebreak]あまりにも破滅的で。[%p]"
-msgstr "2300:far too sharp, far too violent, far too destructive...[%p]"
+msgstr "2300:あまりにも鋭利。[linebreak]あまりにも獰猛。[linebreak]あまりにも破滅的で。[%p]"
 
 msgid "2400:そして、あまりにも美しく禍々しいそれらを。[%p]"
-msgstr "2400:And far too beautiful and terrible.[%p]"
+msgstr "2400:そして、あまりにも美しく禍々しいそれらを。[%p]"
 
 msgid "2500:僕は受け入れる。[%p]"
-msgstr "2500:I took them unto myself.[%p]"
+msgstr "2500:僕は受け入れる。[%p]"
 
 msgid "2600:６つの刃は身をよじり。[%p]"
-msgstr "2600:The six blades spun.[%p]"
+msgstr "2600:６つの刃は身をよじり。[%p]"
 
 msgid "2700:切なげな。[linebreak]あるいは歓喜の。[linebreak]悲鳴を上げて。[%p]"
-msgstr "2700:Sorrowfully, or maybe joyfully, they let out a scream.[%p]"
+msgstr "2700:切なげな。[linebreak]あるいは歓喜の。[linebreak]悲鳴を上げて。[%p]"
 
 msgid "2800:僕のディソードと融合した――[%p]"
-msgstr "2800:They fused with my Di-Sword.[%p]"
+msgstr "2800:僕のディソードと融合した――[%p]"
 
 msgid "2900:ディソードの柄を握る手。[linebreak]力を込める。[%p]"
-msgstr "2900:I gripped the Di-Sword's handle. I held it tight.[%p]"
+msgstr "2900:ディソードの柄を握る手。[linebreak]力を込める。[%p]"
 
 msgid "3000:感触を確かめる。[linebreak]腕がちゃんと動く。[linebreak]完全に再生している。[%p]"
-msgstr "3000:I felt its sensation in my hands. My arms were moving. They were completely restored.[%p]"
+msgstr "3000:感触を確かめる。[linebreak]腕がちゃんと動く。[linebreak]完全に再生している。[%p]"
 
 msgid "3100:[name]野呂瀬[line]「これは……実に興味深いですよ」[%p]"
-msgstr "3100:[name]野呂瀬[line]This is... a truly interesting phenomenon.[%p]"
+msgstr "3100:[name]野呂瀬[line]「これは……実に興味深いですよ」[%p]"
 
 msgid "3200:[name]野呂瀬[line]「この……化け物め……！」[%p]"
-msgstr "3200:[name]野呂瀬[line]You... monster![%p]"
+msgstr "3200:[name]野呂瀬[line]「この……化け物め……！」[%p]"
 
 msgid "3300:僕は野呂瀬を見据え。[%p]"
-msgstr "3300:I looked straight at Norose.[%p]"
+msgstr "3300:僕は野呂瀬を見据え。[%p]"
 
 msgid "3400:[name]拓巳[line]「確かに、僕は、化け物だよ。でもこれが」[%p]"
-msgstr "3400:[name]拓巳[line]Yeah, I may be a monster. But this is...[%p]"
+msgstr "3400:[name]拓巳[line]「確かに、僕は、化け物だよ。でもこれが」[%p]"
 
 msgid "3500:梨深を救い出すために。[linebreak]ノアⅡを破壊するために。[%p]"
-msgstr "3500:To save Rimi. To destroy Noah II.[%p]"
+msgstr "3500:梨深を救い出すために。[linebreak]ノアⅡを破壊するために。[%p]"
 
 msgid "3600:[name]拓巳[line]「僕が望んだ妄想だ――」[%p]"
-msgstr "3600:[name]拓巳[line]…the delusion I desired.[%p]"
+msgstr "3600:[name]拓巳[line]「僕が望んだ妄想だ――」[%p]"
 

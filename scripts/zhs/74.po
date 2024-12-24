@@ -16,38 +16,38 @@ msgid "100:七海ルート無し"
 msgstr "100:七海ルート無し"
 
 msgid "200:その後も七海の下らない話に散々付き合わされ、ケータイ本体が僕の手許に戻ってきた頃には日も暮れていた。[%p]"
-msgstr "200:After that, I was forced to listen to more of her boring stories before she finally handed the phone over to me. By then, the sun had set.[%p]"
+msgstr "200:その後も七海の下らない話に散々付き合わされ、ケータイ本体が僕の手許に戻ってきた頃には日も暮れていた。[%p]"
 
 msgid "300:長く、苦痛な数時間だった……。[linebreak]ようやく七海と別れて帰路につくことができた。[%p]"
-msgstr "300:It had been a long, painful few hours. I was finally able to say goodbye and head home.[%p]"
+msgstr "300:長く、苦痛な数時間だった……。[linebreak]ようやく七海と別れて帰路につくことができた。[%p]"
 
 msgid "400:もうすっかり秋になったみたいで、少し肌寒さを感じさせる夜風が、頭痛と吐き気のする身には心地いい。[%p]"
-msgstr "400:Fall was in full swing, and the chill of the night breeze did wonders to calm my headaches and urge to vomit.[%p]"
+msgstr "400:もうすっかり秋になったみたいで、少し肌寒さを感じさせる夜風が、頭痛と吐き気のする身には心地いい。[%p]"
 
 msgid "500:人混みの中に長時間いると、僕はいつもこの頭痛と吐き気に苛まれる。[%p]"
-msgstr "500:Being in a crowd for a long time always made my head hurt and made me want to throw up.[%p]"
+msgstr "500:人混みの中に長時間いると、僕はいつもこの頭痛と吐き気に苛まれる。[%p]"
 
 msgid "600:七海なんか、氏ねばいいんだ。[linebreak]死ね、まではいかなくてもいいけど、とにかく氏ね。[%p]"
-msgstr "600:I wished Nanami would die. Not literally die, but you know.[%p]"
+msgstr "600:七海なんか、氏ねばいいんだ。[linebreak]死ね、まではいかなくてもいいけど、とにかく氏ね。[%p]"
 
 msgid "700:あいつは自分のことしか考えてない。[%p]"
-msgstr "700:She only cared about herself.[%p]"
+msgstr "700:あいつは自分のことしか考えてない。[%p]"
 
 msgid "800:あいつの行動がどれだけ僕を傷つけているかなんて、どうせこれっぽっちも気付いてないんだろうな。[%p]"
-msgstr "800:She had absolutely no idea how much the things she was doing were hurting me. I was sure of that.[%p]"
+msgstr "800:あいつの行動がどれだけ僕を傷つけているかなんて、どうせこれっぽっちも気付いてないんだろうな。[%p]"
 
 msgid "900:できることなら、今すぐにでも買ったケータイをバキッと真っ二つにして、近くのゴミ箱に捨ててしまいたい。[linebreak]どうせ僕のお金で買ったものじゃないしね。[%p]"
-msgstr "900:If I could've, I would've snapped the phone in half and thrown it in the nearest garbage can. It wasn't my money, for one thing.[%p]"
+msgstr "900:できることなら、今すぐにでも買ったケータイをバキッと真っ二つにして、近くのゴミ箱に捨ててしまいたい。[linebreak]どうせ僕のお金で買ったものじゃないしね。[%p]"
 
 msgid "1000:でもそんなことしたら、七海だけじゃなく両親までやって来て、懲りずにまた“壊れたから新しいケータイを買いに行こう”とか間抜けなことをのたまうに決まってる。[%p]"
-msgstr "1000:But if I did that, Nanami would come back, with my parents in tow this time, and they'd just tell me I had to buy another one since the first one broke.[%p]"
+msgstr "1000:でもそんなことしたら、七海だけじゃなく両親までやって来て、懲りずにまた“壊れたから新しいケータイを買いに行こう”とか間抜けなことをのたまうに決まってる。[%p]"
 
 msgid "1100:だから僕はやむを得ず、破壊衝動をぐっと抑えた。[%p]"
-msgstr "1100:I restrained my impulse to destroy the thing.[%p]"
+msgstr "1100:だから僕はやむを得ず、破壊衝動をぐっと抑えた。[%p]"
 
 msgid "1200:早く、帰ろう……。[linebreak]帰って、今日もエンスーに潜ろう。[%p]"
-msgstr "1200:Time to just go home. Go home and play some ESO...[%p]"
+msgstr "1200:早く、帰ろう……。[linebreak]帰って、今日もエンスーに潜ろう。[%p]"
 
 msgid "1300:ここ数日、ストレスが溜まらない日がない。[linebreak]僕の平穏な日々が早く戻ってきてくれないかな……。[%p]"
-msgstr "1300:The stress had really been building up over these past few days. I hoped my peaceful daily life would come back soon.[%p]"
+msgstr "1300:ここ数日、ストレスが溜まらない日がない。[linebreak]僕の平穏な日々が早く戻ってきてくれないかな……。[%p]"
 

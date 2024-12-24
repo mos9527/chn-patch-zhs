@@ -10,62 +10,62 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]？？？[line]「Fly and cross Fly and cross 約束は今――」[%p]"
-msgstr "0:[name]？？？[line]Fly and cross, fly and cross... the promise is now...[%p]"
+msgstr "0:[name]？？？[line]「Fly and cross Fly and cross 約束は今――」[%p]"
 
 msgid "100:[name]？？？[line]「Fly and cross Fly and cross 果たされるから――」[%p]"
-msgstr "100:[name]？？？[line]Fly and cross, fly and cross... about to be fulfilled...[%p]"
+msgstr "100:[name]？？？[line]「Fly and cross Fly and cross 果たされるから――」[%p]"
 
 msgid "200:[name]？？？[line]「Fly and cross Fly and cross 解き放たれた――」[%p]"
-msgstr "200:[name]？？？[line]Fly and cross, fly and cross... and the end...[%p]"
+msgstr "200:[name]？？？[line]「Fly and cross Fly and cross 解き放たれた――」[%p]"
 
 msgid "300:[name]？？？[line]「Fly and cross Fly and cross 終末――」[%p]"
-msgstr "300:[name]？？？[line]Fly and cross, fly and cross... is now unleashed...[%p]"
+msgstr "300:[name]？？？[line]「Fly and cross Fly and cross 終末――」[%p]"
 
 msgid "400:深夜の宮下公園に、澄んだ歌声が響く。[%p]"
-msgstr "400:A clear voice echoed across Miyashita Park in the depths of the night,[%p]"
+msgstr "400:深夜の宮下公園に、澄んだ歌声が響く。[%p]"
 
 msgid "500:明治通りにかかる歩道橋。[linebreak]橋の下ではひっきりなしに車が通りすぎていく。[%p]"
-msgstr "500:on top of the pedestrian bridge over Meiji Street, as the cars came and went below.[%p]"
+msgstr "500:明治通りにかかる歩道橋。[linebreak]橋の下ではひっきりなしに車が通りすぎていく。[%p]"
 
 msgid "600:その雑音を気にする素振りすら見せず、橋の手すりにもたれかかって、人々からＦＥＳと呼ばれている少女は歌う。[%p]"
-msgstr "600:The girl they called FES leaned up against the bridge's safety rail, seemingly oblivious to the noise below.[%p]"
+msgstr "600:その雑音を気にする素振りすら見せず、橋の手すりにもたれかかって、人々からＦＥＳと呼ばれている少女は歌う。[%p]"
 
 msgid "700:[name]ＦＥＳ[line]「月夜の光が\u3000示された従者よ――」[%p]"
-msgstr "700:[name]ＦＥＳ[line]Followers guided by the light of the moon…[%p]"
+msgstr "700:[name]ＦＥＳ[line]「月夜の光が\u3000示された従者よ――」[%p]"
 
 msgid "800:ギャラリーは誰もいなかった。[linebreak]彼女がストリートで歌えばおそらく１００人以上が立ち止まり、その歌声を聴きたがるだろう。[%p]"
-msgstr "800:She had no audience. If she'd done a real street performance, she probably would've had at least a hundred people stopping to listen.[%p]"
+msgstr "800:ギャラリーは誰もいなかった。[linebreak]彼女がストリートで歌えばおそらく１００人以上が立ち止まり、その歌声を聴きたがるだろう。[%p]"
 
 msgid "900:だがＦＥＳは今、意識的に、密やかな夜のとばりの中へと自らの存在を溶け込ませていた。[%p]"
-msgstr "900:But for now, FES had chosen instead to hide herself behind the veil of night.[%p]"
+msgstr "900:だがＦＥＳは今、意識的に、密やかな夜のとばりの中へと自らの存在を溶け込ませていた。[%p]"
 
 msgid "1000:[name]ＦＥＳ[line]「この場所へ繋がる\u3000幻の道――」[%p]"
-msgstr "1000:[name]ＦＥＳ[line]A path of illusions that leads to this place...[%p]"
+msgstr "1000:[name]ＦＥＳ[line]「この場所へ繋がる\u3000幻の道――」[%p]"
 
 msgid "1100:ただ静かにこの場にたたずむだけでいい。[%p]"
-msgstr "1100:All she had to do was stand here in the silence.[%p]"
+msgstr "1100:ただ静かにこの場にたたずむだけでいい。[%p]"
 
 msgid "1200:そうすることで、闇と一体化して、この渋谷という街の汚れきった空気から一瞬でも解放される気がする。[linebreak]ＦＥＳはそう感じていた。[%p]"
-msgstr "1200:Then she could be one with the darkness, and for a moment, at least, freed from the filthy air of Shibuya. That's how it seemed to her, anyway.[%p]"
+msgstr "1200:そうすることで、闇と一体化して、この渋谷という街の汚れきった空気から一瞬でも解放される気がする。[linebreak]ＦＥＳはそう感じていた。[%p]"
 
 msgid "1300:[name]ＦＥＳ[line]「叫びはいつしか\u3000沈黙に変わって――」[%p]"
-msgstr "1300:[name]ＦＥＳ[line]The shouts soon turn to silence...[%p]"
+msgstr "1300:[name]ＦＥＳ[line]「叫びはいつしか\u3000沈黙に変わって――」[%p]"
 
 msgid "1400:ふとＦＥＳは、夜空を見上げる。[%p]"
-msgstr "1400:Suddenly she looked up at the night sky.[%p]"
+msgstr "1400:ふとＦＥＳは、夜空を見上げる。[%p]"
 
 msgid "1500:さっきまで一面を覆っていた雲は少しずつ晴れてきて、わずかに月明かりも射し込むようになった。[%p]"
-msgstr "1500:The clouds that had covered it were slowly parting, and a faint ray of moonlight trickled through.[%p]"
+msgstr "1500:さっきまで一面を覆っていた雲は少しずつ晴れてきて、わずかに月明かりも射し込むようになった。[%p]"
 
 msgid "1600:だが、渋谷の煌々とした街の灯に照らされ、星のためらいがちな瞬きはかき消されてしまっている。[%p]"
-msgstr "1600:But the bright, dazzling lights of Shibuya were hiding the hesitant twinkling of the stars.[%p]"
+msgstr "1600:だが、渋谷の煌々とした街の灯に照らされ、星のためらいがちな瞬きはかき消されてしまっている。[%p]"
 
 msgid "1700:[name]ＦＥＳ[line]「落ちてゆく安息\u3000風に手と手を繋いで……」[%p]"
-msgstr "1700:[name]ＦＥＳ[line]Feeling peace as you fall, two hands clasping in the wind...[%p]"
+msgstr "1700:[name]ＦＥＳ[line]「落ちてゆく安息\u3000風に手と手を繋いで……」[%p]"
 
 msgid "1800:ＦＥＳは口を閉ざし、ゆっくりと手を空へと掲げる。[%p]"
-msgstr "1800:FES closed her mouth and reached up toward the sky.[%p]"
+msgstr "1800:ＦＥＳは口を閉ざし、ゆっくりと手を空へと掲げる。[%p]"
 
 msgid "1900:[name]ＦＥＳ[line]「その目だれの目？」[%p]"
-msgstr "1900:[name]ＦＥＳ[line]Whose eyes are those?[%p]"
+msgstr "1900:[name]ＦＥＳ[line]「その目だれの目？」[%p]"
 

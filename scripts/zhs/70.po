@@ -10,197 +10,197 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:中に入ると、いきなり爆音が耳をつんざいた。[linebreak]こんな大きな音、これまで経験したことがない。[%p]"
-msgstr "0:When I went inside, my ears were assaulted with a wave of sound. I'd never experienced anything this loud.[%p]"
+msgstr "0:中に入ると、いきなり爆音が耳をつんざいた。[linebreak]こんな大きな音、これまで経験したことがない。[%p]"
 
 msgid "100:腹の底を無理矢理震わされ、振動で全身を粉砕されてしまうんじゃないかと錯覚しそうになった。[%p]"
-msgstr "100:I could feel it shaking the bottom of my stomach, and the vibrations felt like they threatened to tear me apart.[%p]"
+msgstr "100:腹の底を無理矢理震わされ、振動で全身を粉砕されてしまうんじゃないかと錯覚しそうになった。[%p]"
 
 msgid "200:客席にはイスはひとつもなくて、みんな立ち見だ。[%p]"
-msgstr "200:There weren't any seats. Everyone was standing.[%p]"
+msgstr "200:客席にはイスはひとつもなくて、みんな立ち見だ。[%p]"
 
 msgid "300:誰もがリズムに合わせて身体を揺らし、タイミングよく“ＦＥＳ！！”“フェス！！”というかけ声とともに拳が振り上げられている。さすがに[color index="A0FF0000"]オタ芸[color index="800000"]ってほどじゃないけど。[%p]"
-msgstr "300:The audience rocked their bodies in time with the rhythm, and I could hear cries of “Fes! Fes!” in time with the music. Their movements weren't as coordinated as the [color index="A0FF0000"]ota-gei[color index="800000"] you saw at idol concerts, but they were still really impressive.[%p]"
+msgstr "300:誰もがリズムに合わせて身体を揺らし、タイミングよく“ＦＥＳ！！”“フェス！！”というかけ声とともに拳が振り上げられている。さすがに[color index="A0FF0000"]オタ芸[color index="800000"]ってほどじゃないけど。[%p]"
 
 msgid "400:ものすごい熱気。人いきれで吐きそうになる。[%p]"
-msgstr "400:The intensity was incredible. I felt like I was about to throw up from the heat of so many bodies.[%p]"
+msgstr "400:ものすごい熱気。人いきれで吐きそうになる。[%p]"
 
 msgid "500:僕はオタだけど、アイドルオタや声優オタじゃない。だからこういう客席のノリなんかははっきり言って嫌いだ。[%p]"
-msgstr "500:I was an otaku, but not an idol or voice actress otaku. So, to be honest, I didn't like concerts like this.[%p]"
+msgstr "500:僕はオタだけど、アイドルオタや声優オタじゃない。だからこういう客席のノリなんかははっきり言って嫌いだ。[%p]"
 
 msgid "600:誰も僕になんて目もくれないのがせめてもの救いだけど、自分がこの場ですごく浮いているのは否定できない。[%p]"
-msgstr "600:The one saving grace was that nobody was looking at me, but I couldn't deny that I was terribly out of place here.[%p]"
+msgstr "600:誰も僕になんて目もくれないのがせめてもの救いだけど、自分がこの場ですごく浮いているのは否定できない。[%p]"
 
 msgid "700:観客に遮られて、奥にあるステージはよく見えなかった。[linebreak]ステージに当てられたライトだけがやけに目にまぶしく、その光の中に４人ほど立っているのがかろうじて認識できる。[%p]"
-msgstr "700:There were so many people that I couldn't get a clear look at the stage. The most I could make out were the silhouettes of four people standing under bright stage lights.[%p]"
+msgstr "700:観客に遮られて、奥にあるステージはよく見えなかった。[linebreak]ステージに当てられたライトだけがやけに目にまぶしく、その光の中に４人ほど立っているのがかろうじて認識できる。[%p]"
 
 msgid "800:雰囲気に圧倒されていると、三住くんがプラスチックカップに入ったジュースを手渡してくれた。[%p]"
-msgstr "800:As I stood there, overwhelmed, Misumi handed me a plastic cup with some soda in it.[%p]"
+msgstr "800:雰囲気に圧倒されていると、三住くんがプラスチックカップに入ったジュースを手渡してくれた。[%p]"
 
 msgid "900:入場料は三住くんが払ってくれたらしい。後できちんと返さなくちゃ。[%p]"
-msgstr "900:He must've paid for my ticket. I'd have to pay him back later.[%p]"
+msgstr "900:入場料は三住くんが払ってくれたらしい。後できちんと返さなくちゃ。[%p]"
 
 msgid "1000:と、そのとき演奏が終わった。[linebreak]客席から拍手や歓声が上がる。[%p]"
-msgstr "1000:And then, the song ended. A wave of cheers and applause went up from the audience.[%p]"
+msgstr "1000:と、そのとき演奏が終わった。[linebreak]客席から拍手や歓声が上がる。[%p]"
 
 msgid "1100:それで少し落ち着いたのか、誰もが振り上げていた拳を下ろした。そのおかげで、ステージに向かって道が開けるかのように、視界がクリアになった。[%p]"
-msgstr "1100:Finally, everyone lowered their raised fists. I had a clear view of the stage.[%p]"
+msgstr "1100:それで少し落ち着いたのか、誰もが振り上げていた拳を下ろした。そのおかげで、ステージに向かって道が開けるかのように、視界がクリアになった。[%p]"
 
 msgid "1200:ステージ中央に立つ、ショートカットの女の顔がはっきり見えるようになる。[linebreak]確かにあの悪魔女とは別人だった。[%p]"
-msgstr "1200:I could get a clear look at the short-haired girl up there. She definitely wasn't the demon girl.[%p]"
+msgstr "1200:ステージ中央に立つ、ショートカットの女の顔がはっきり見えるようになる。[linebreak]確かにあの悪魔女とは別人だった。[%p]"
 
 msgid "1300:[name]ＦＥＳ[line]「今日は……いつもより調子いいわ……」[%p]"
-msgstr "1300:[name]ＦＥＳ[line]Today... I'm feeling better than most days.[%p]"
+msgstr "1300:[name]ＦＥＳ[line]「今日は……いつもより調子いいわ……」[%p]"
 
 msgid "1400:[name]ＦＥＳ[line]「声が、クリアに聞こえる」[%p]"
-msgstr "1400:[name]ＦＥＳ[line]I can hear the voices clearly.[%p]"
+msgstr "1400:[name]ＦＥＳ[line]「声が、クリアに聞こえる」[%p]"
 
 msgid "1500:[name]ＦＥＳ[line]「世界が、とても澄んでいる」[%p]"
-msgstr "1500:[name]ＦＥＳ[line]The world is so still and silent.[%p]"
+msgstr "1500:[name]ＦＥＳ[line]「世界が、とても澄んでいる」[%p]"
 
 msgid "1600:アンプを通して聞こえてくる声も、あのとき僕に謎の言葉を投げかけた悪魔女の声とは似ても似つかない。[%p]"
-msgstr "1600:Her voice, picked up by the amplifier and coming through the speakers, was nothing like the demon girl's, either.[%p]"
+msgstr "1600:アンプを通して聞こえてくる声も、あのとき僕に謎の言葉を投げかけた悪魔女の声とは似ても似つかない。[%p]"
 
 msgid "1700:ＦＥＳは、三住くんが言う通り、アンニュイな雰囲気を持っていた。[%p]"
-msgstr "1700:FES had, as Misumi said, a sense of ennui about her.[%p]"
+msgstr "1700:ＦＥＳは、三住くんが言う通り、アンニュイな雰囲気を持っていた。[%p]"
 
 msgid "1800:ボーイッシュっていう感じはしない。可愛さと妖艶さの両方を兼ね備えていて、かつ孤高さも持っている、そんな不思議なオーラをまとっていた。[%p]"
-msgstr "1800:She didn't seem boyish, despite her short hair. She had a strange aura that was simultaneously cute and seductive, but also aloof.[%p]"
+msgstr "1800:ボーイッシュっていう感じはしない。可愛さと妖艶さの両方を兼ね備えていて、かつ孤高さも持っている、そんな不思議なオーラをまとっていた。[%p]"
 
 msgid "1900:身につけているいくつものシルバーアクセサリーが、照明に反射してキラキラと輝いているのがまた幻想的だ。[%p]"
-msgstr "1900:The accessories on her body reflected in the lights and gleamed silver, giving her a strange, unearthly look, like something from a fairy tale.[%p]"
+msgstr "1900:身につけているいくつものシルバーアクセサリーが、照明に反射してキラキラと輝いているのがまた幻想的だ。[%p]"
 
 msgid "2000:＠ちゃんでＦＥＳのスレが立つのもなんとなく分かる気がする。[%p]"
-msgstr "2000:I could understand why she was so popular on @chan.[%p]"
+msgstr "2000:＠ちゃんでＦＥＳのスレが立つのもなんとなく分かる気がする。[%p]"
 
 msgid "2100:普通、こういうライブではバンドの人はもっと弾けてるって勝手にイメージしてたけど、ＦＥＳはやけに淡々としたＭＣを入れる。[%p]"
-msgstr "2100:You'd expect a singer like her to be loud and passionate, or so I assumed, but FES was calm as she spoke into the mic.[%p]"
+msgstr "2100:普通、こういうライブではバンドの人はもっと弾けてるって勝手にイメージしてたけど、ＦＥＳはやけに淡々としたＭＣを入れる。[%p]"
 
 msgid "2200:客席の盛り上がりとはまるで正反対だ。そういう性格なのかもしれない。[%p]"
-msgstr "2200:It was the complete opposite of the excitement of the crowd. Maybe that was just her personality.[%p]"
+msgstr "2200:客席の盛り上がりとはまるで正反対だ。そういう性格なのかもしれない。[%p]"
 
 msgid "2300:ただ、客もわきまえたもので、ＭＣ中はシーンと静まり返り、ＦＥＳの言葉に耳を傾けている。[%p]"
-msgstr "2300:But the audience knew better than to shout over her. There was silence as she spoke, and everyone listened.[%p]"
+msgstr "2300:ただ、客もわきまえたもので、ＭＣ中はシーンと静まり返り、ＦＥＳの言葉に耳を傾けている。[%p]"
 
 msgid "2400:[name]ＦＥＳ[line]「[color index="A0FF0000"]コキュートス[color index="800000"]への門が閉じているからかもしれない」[%p]"
-msgstr "2400:[name]ＦＥＳ[line]Maybe it's because the gate to [color index="A0FF0000"]Cocytus[color index="800000"] is closed.[%p]"
+msgstr "2400:[name]ＦＥＳ[line]「[color index="A0FF0000"]コキュートス[color index="800000"]への門が閉じているからかもしれない」[%p]"
 
 msgid "2500:な、なんだって……？[linebreak]コキュートス？\u3000何語だ？[%p]"
-msgstr "2500:W-What did she say? Cocytus? What language was that?[%p]"
+msgstr "2500:な、なんだって……？[linebreak]コキュートス？\u3000何語だ？[%p]"
 
 msgid "2600:[name]ＦＥＳ[line]「世界の均衡は、“大いなる意志”が生まれてから数千年間保たれていた」[%p]"
-msgstr "2600:[name]ＦＥＳ[line]The planetary balance has been maintained for thousands of years, since the birth of the Great Will.[%p]"
+msgstr "2600:[name]ＦＥＳ[line]「世界の均衡は、“大いなる意志”が生まれてから数千年間保たれていた」[%p]"
 
 msgid "2700:[name]ＦＥＳ[line]「でも今、それは崩れつつある。とても、不安定……」[%p]"
-msgstr "2700:[name]ＦＥＳ[line]But now, it is falling apart. Becoming unstable...[%p]"
+msgstr "2700:[name]ＦＥＳ[line]「でも今、それは崩れつつある。とても、不安定……」[%p]"
 
 msgid "2800:[name]ＦＥＳ[line]「だから、私は歌うわ……」[%p]"
-msgstr "2800:[name]ＦＥＳ[line]That's why I sing.[%p]"
+msgstr "2800:[name]ＦＥＳ[line]「だから、私は歌うわ……」[%p]"
 
 msgid "2900:[name]ＦＥＳ[line]「キミたちのカオスを、受け入れてあげる……」[%p]"
-msgstr "2900:[name]ＦＥＳ[line]I will take your chaos into myself.[%p]"
+msgstr "2900:[name]ＦＥＳ[line]「キミたちのカオスを、受け入れてあげる……」[%p]"
 
 msgid "3000:なるほど、これはゴシックパンクバンドとしてのキャラ付けかもしれない。[%p]"
-msgstr "3000:Oh, now I understood. She was speaking in character. It was a goth-punk thing.[%p]"
+msgstr "3000:なるほど、これはゴシックパンクバンドとしてのキャラ付けかもしれない。[%p]"
 
 msgid "3100:確かに普通の人にはちょっと理解できないような、でも思わせぶりなことを言っておけば、神秘性のようなものが出てファンの心をつかみやすいのかも。[%p]"
-msgstr "3100:Maybe she was trying to say stuff that sounded ominous, even if you didn't know what it meant. It would make her seem kind of mystical, and help her connect better with her fans.[%p]"
+msgstr "3100:確かに普通の人にはちょっと理解できないような、でも思わせぶりなことを言っておけば、神秘性のようなものが出てファンの心をつかみやすいのかも。[%p]"
 
 msgid "3200:実際、ＦＥＳはその手に妙なものを持っている。左手には普通のマイク。だけど右手に握りしめているのは、剣のような不思議な形をしたマイクスタンドなんだ。[%p]"
-msgstr "3200:In fact, FES was holding something strange in her hand. In her left hand was a normal mic. But in her right was a strange mic stand that looked like some kind of sword.[%p]"
+msgstr "3200:実際、ＦＥＳはその手に妙なものを持っている。左手には普通のマイク。だけど右手に握りしめているのは、剣のような不思議な形をしたマイクスタンドなんだ。[%p]"
 
 msgid "3300:禍々しさすら感じさせる流麗なフォルム、少しでも触れれば瞬時に指を切断してしまいそうなほどの鋭利さ。[linebreak]すごく大きくて、ＦＥＳの身の丈と同じぐらいの長さがあった。[%p]"
-msgstr "3300:It had a strange form with flowing curves that felt alien and dangerous, and it looked so sharp that even touching it might threaten to sever a finger. It was huge, just as big as she was.[%p]"
+msgstr "3300:禍々しさすら感じさせる流麗なフォルム、少しでも触れれば瞬時に指を切断してしまいそうなほどの鋭利さ。[linebreak]すごく大きくて、ＦＥＳの身の丈と同じぐらいの長さがあった。[%p]"
 
 msgid "3400:しかもライン状に埋め込まれたガラス部分が、妖しく青色に発光している。[%p]"
-msgstr "3400:The glass embedded in the stand glowed with a strange, pale light.[%p]"
+msgstr "3400:しかもライン状に埋め込まれたガラス部分が、妖しく青色に発光している。[%p]"
 
 msgid "3500:それがホントにマイクスタンドなのかどうか、よく分からないけど、キャラ付けの為のアイテムとしては申し分なかった。[%p]"
-msgstr "3500:I wasn't sure if it even was a mic stand, but it was the perfect prop to help define her character.[%p]"
+msgstr "3500:それがホントにマイクスタンドなのかどうか、よく分からないけど、キャラ付けの為のアイテムとしては申し分なかった。[%p]"
 
 msgid "3600:僕は不思議とそれに目が釘付けになっていた。[%p]"
-msgstr "3600:I found myself strangely unable to take my eyes off of it.[%p]"
+msgstr "3600:僕は不思議とそれに目が釘付けになっていた。[%p]"
 
 msgid "3700:するとＦＥＳは、その巨大なマイクスタンドを右手だけで軽々と持ち上げ――[%p]"
-msgstr "3700:FES raised the huge mic stand above her head,[%p]"
+msgstr "3700:するとＦＥＳは、その巨大なマイクスタンドを右手だけで軽々と持ち上げ――[%p]"
 
 msgid "3800:逆手に持ったまま、大きく横なぎに振り払った。[linebreak]ガラス部分の青い光が弧を描く。[%p]"
-msgstr "3800:and with an underhand grip, she swung it in an arc in front of her. The pale light of the glass made a half-circle in the air.[%p]"
+msgstr "3800:逆手に持ったまま、大きく横なぎに振り払った。[linebreak]ガラス部分の青い光が弧を描く。[%p]"
 
 msgid "3900:なんて危ないことするんだ……！[linebreak]客に当たったらどうする。[%p]"
-msgstr "3900:That was really dangerous! What if it hit someone?[%p]"
+msgstr "3900:なんて危ないことするんだ……！[linebreak]客に当たったらどうする。[%p]"
 
 msgid "4000:あれってマイクスタンドじゃなくて、もしかして剣だったりして……。[%p]"
-msgstr "4000:Maybe it wasn't a mic stand, but a sword.[%p]"
+msgstr "4000:あれってマイクスタンドじゃなくて、もしかして剣だったりして……。[%p]"
 
 msgid "4100:そして悪魔女に捧げる生き血を調達するために、毎晩、あの剣によって客の中のひとりが首をかっ切られる……とか……。[%p]"
-msgstr "4100:And maybe, like, she would cut off the head of a member of the audience each night, in order to offer up their still-warm blood to the demon girl.[%p]"
+msgstr "4100:そして悪魔女に捧げる生き血を調達するために、毎晩、あの剣によって客の中のひとりが首をかっ切られる……とか……。[%p]"
 
 msgid "4200:だとしたらこのライブは、さながら魔女たちによる黒ミサか……。[%p]"
-msgstr "4200:That would make this whole concert a black mass, led by witches.[%p]"
+msgstr "4200:だとしたらこのライブは、さながら魔女たちによる黒ミサか……。[%p]"
 
 msgid "4300:ブルルと寒気が走り、全身に鳥肌が立っていた。[linebreak]早くここを立ち去った方がいいかもしれない……そう思い始めたとき、ＦＥＳが静かにつぶやいた。[%p]"
-msgstr "4300:I began to shiver. Maybe it would be better to just leave now.[%p]"
+msgstr "4300:ブルルと寒気が走り、全身に鳥肌が立っていた。[linebreak]早くここを立ち去った方がいいかもしれない……そう思い始めたとき、ＦＥＳが静かにつぶやいた。[%p]"
 
 msgid "4400:[name]ＦＥＳ[line]「次は３曲目……」[%p]"
-msgstr "4400:[name]ＦＥＳ[line]Next is our third song...[%p]"
+msgstr "4400:[name]ＦＥＳ[line]「次は３曲目……」[%p]"
 
 msgid "4500:[name]ＦＥＳ[line]「“密教の首飾り”」[%p]"
-msgstr "4500:[name]ＦＥＳ[line]“The Esoteric Necklace.”[%p]"
+msgstr "4500:[name]ＦＥＳ[line]「“密教の首飾り”」[%p]"
 
 msgid "4600:一際大きな歓声が、客席から上がる。[%p]"
-msgstr "4600:Another huge cheer went up from the audience.[%p]"
+msgstr "4600:一際大きな歓声が、客席から上がる。[%p]"
 
 msgid "4700:直後、ファンタズムのメンバーたちが一斉に動き出し、再び僕の耳に音の洪水が流れ込んでくる。[%p]"
-msgstr "4700:The members of the band all began to move at once, and a flood of sound hit my ears again.[%p]"
+msgstr "4700:直後、ファンタズムのメンバーたちが一斉に動き出し、再び僕の耳に音の洪水が流れ込んでくる。[%p]"
 
 msgid "4800:この轟音で鼓膜を破壊されそうだよ……！[linebreak]みんなこんなところにいて耳がおかしくならないのか？[%p]"
-msgstr "4800:It felt like it was going to destroy my eardrums. How did they all keep from going deaf?[%p]"
+msgstr "4800:この轟音で鼓膜を破壊されそうだよ……！[linebreak]みんなこんなところにいて耳がおかしくならないのか？[%p]"
 
 msgid "4900:隣を見ると、三住くんはすっかりノリノリで、他の客と同じようにリズムを取りながら拳を振り上げている。[%p]"
-msgstr "4900:I looked to my side and Misumi was having a great time, raising his fist to the rhythm along with the rest of the audience.[%p]"
+msgstr "4900:隣を見ると、三住くんはすっかりノリノリで、他の客と同じようにリズムを取りながら拳を振り上げている。[%p]"
 
 msgid "5000:イントロが終わり、ＦＥＳが歌い出したところで、[linebreak]僕はその歌詞にギクリとした。[%p]"
-msgstr "5000:The intro ended and FES began to sing, and the lyrics made me freeze.[%p]"
+msgstr "5000:イントロが終わり、ＦＥＳが歌い出したところで、[linebreak]僕はその歌詞にギクリとした。[%p]"
 
 msgid "5100:＠ちゃんねるに貼ってあった、例の“予言歌”だ。[%p]"
-msgstr "5100:This was the “prophetic song” that I'd seen on @chan.[%p]"
+msgstr "5100:＠ちゃんねるに貼ってあった、例の“予言歌”だ。[%p]"
 
 msgid "5200:暗くて、一握りの救いも感じられないような曲。歌詞のせいもあってか、そのメロディーはとても宗教的にさえ感じられた。[%p]"
-msgstr "5200:It was a dark song, without a glimmer of hope to be found in it. Maybe it was partially the lyrics, too, but the melody felt almost religious.[%p]"
+msgstr "5200:暗くて、一握りの救いも感じられないような曲。歌詞のせいもあってか、そのメロディーはとても宗教的にさえ感じられた。[%p]"
 
 msgid "5300:最初は盛り上がっていた客席も、曲が進むにつれて徐々にテンションを落とし、ついには一言も発することなく誰もが立ち尽くす状態になった。[%p]"
-msgstr "5300:As the song progressed, the crowd's cheers faded, and before long, they were silent.[%p]"
+msgstr "5300:最初は盛り上がっていた客席も、曲が進むにつれて徐々にテンションを落とし、ついには一言も発することなく誰もが立ち尽くす状態になった。[%p]"
 
 msgid "5400:でも、それはむしろ聞き入っているっていう状況で、中には恍惚感に浸りきった顔でＦＥＳを見つめる者までいる。[%p]"
-msgstr "5400:All of them were listening intently, however, and some of them even seemed to be gazing at FES in a kind of ecstasy.[%p]"
+msgstr "5400:でも、それはむしろ聞き入っているっていう状況で、中には恍惚感に浸りきった顔でＦＥＳを見つめる者までいる。[%p]"
 
 msgid "5500:確かにＦＥＳの歌声には、人を惹きつけるなにかがあるかもしれない。僕も、この人混みに対する恐怖や吐き気と戦いながらも、ＦＥＳの歌を聞き逃すまいとただじっと耳を傾けていた。[%p]"
-msgstr "5500:There was certainly something in her voice that drew you to her. Even as I fought against my fear of the crowd and the urge to vomit, I was listening to make sure I heard her sing.[%p]"
+msgstr "5500:確かにＦＥＳの歌声には、人を惹きつけるなにかがあるかもしれない。僕も、この人混みに対する恐怖や吐き気と戦いながらも、ＦＥＳの歌を聞き逃すまいとただじっと耳を傾けていた。[%p]"
 
 msgid "5600:鳥肌が立つ。周囲の温度が、瞬間的に氷点下まで落ちたように思えた。[%p]"
-msgstr "5600:Somehow, the temperature of the room seemed to drop to below freezing in an instant.[%p]"
+msgstr "5600:鳥肌が立つ。周囲の温度が、瞬間的に氷点下まで落ちたように思えた。[%p]"
 
 msgid "5700:曲が終わった。[%p]"
-msgstr "5700:The song ended.[%p]"
+msgstr "5700:曲が終わった。[%p]"
 
 msgid "5800:ＦＥＳは下を向いてユラユラと身体を左右に揺らしながら、ステージの最後の余韻に浸っている。[%p]"
-msgstr "5800:FES looked down, her body swaying from side to side, immersing herself in the last seconds of the song.[%p]"
+msgstr "5800:ＦＥＳは下を向いてユラユラと身体を左右に揺らしながら、ステージの最後の余韻に浸っている。[%p]"
 
 msgid "5900:と、唐突にＦＥＳは顔を上げ――[linebreak]視線をさまよわせることもなく、いきなり――[%p]"
-msgstr "5900:Then she suddenly raised her head, and without any doubt or hesitation—[%p]"
+msgstr "5900:と、唐突にＦＥＳは顔を上げ――[linebreak]視線をさまよわせることもなく、いきなり――[%p]"
 
 msgid "6000:僕を、見た。[%p]"
-msgstr "6000:—looked right at me.[%p]"
+msgstr "6000:僕を、見た。[%p]"
 
 msgid "6100:それは目の方向が合ったとか、一瞬だけ目が合ったとか、そういうレベルじゃなかった。[%p]"
-msgstr "6100:I don't mean our eyes met for a moment, or that she was looking in my direction.[%p]"
+msgstr "6100:それは目の方向が合ったとか、一瞬だけ目が合ったとか、そういうレベルじゃなかった。[%p]"
 
 msgid "6200:ＦＥＳは、明らかに僕を見ていた。[%p]"
-msgstr "6200:She was clearly looking straight at me.[%p]"
+msgstr "6200:ＦＥＳは、明らかに僕を見ていた。[%p]"
 
 msgid "6300:しかも、ジッと。凝視するように。僕という存在を確かめるかのように。僕の心を探ろうとするかのように。[%p]"
-msgstr "6300:Staring, as if trying to see all she could. As if trying to see who I was. As if trying to see into my heart.[%p]"
+msgstr "6300:しかも、ジッと。凝視するように。僕という存在を確かめるかのように。僕の心を探ろうとするかのように。[%p]"
 
 msgid "6400:その視線はとても強烈なもので――[linebreak]なぜか、切なそうで――[%p]"
-msgstr "6400:Her gaze was so powerful... And for some reason, kind of sad.[%p]"
+msgstr "6400:その視線はとても強烈なもので――[linebreak]なぜか、切なそうで――[%p]"
 

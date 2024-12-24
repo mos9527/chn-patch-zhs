@@ -10,95 +10,95 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:すべての気力を失って。[linebreak]気が付けば、僕はベースにいた。[%p]"
-msgstr "0:I no longer had the strength to do anything. The next thing I knew, I was back at the Base.[%p]"
+msgstr "0:すべての気力を失って。[linebreak]気が付けば、僕はベースにいた。[%p]"
 
 msgid "100:山手通りで死に損なってから、ここまでどうやって戻ってきたのか、[linebreak]記憶がはっきりしない。[%p]"
-msgstr "100:I must've gotten here somehow after failing to kill myself on Yamanote Street, but I couldn't remember how.[%p]"
+msgstr "100:山手通りで死に損なってから、ここまでどうやって戻ってきたのか、[linebreak]記憶がはっきりしない。[%p]"
 
 msgid "200:[name]拓巳[line]「このコンテナって……[linebreak]誰が、どうやって、ここまで運んだんだろう……」[%p]"
-msgstr "200:[name]拓巳[line]Who even brought this big shipping crate up here? And how'd they get it up here?[%p]"
+msgstr "200:[name]拓巳[line]「このコンテナって……[linebreak]誰が、どうやって、ここまで運んだんだろう……」[%p]"
 
 msgid "300:今まで疑問にすら思わなかったこと。改めて考えると少しおかしいと感じることが、目に付く。僕をますます追い詰める。[%p]"
-msgstr "300:Until now, I'd never even thought about it. But now, I realized just how bizarre it was. It made me feel even worse.[%p]"
+msgstr "300:今まで疑問にすら思わなかったこと。改めて考えると少しおかしいと感じることが、目に付く。僕をますます追い詰める。[%p]"
 
 msgid "400:扉を閉めると、室内は真っ暗になった。[linebreak]僕は扉に寄りかかって、立ち尽くす。[%p]"
-msgstr "400:When I closed the door, the room became pitch black. I leaned up against it, motionless.[%p]"
+msgstr "400:扉を閉めると、室内は真っ暗になった。[linebreak]僕は扉に寄りかかって、立ち尽くす。[%p]"
 
 msgid "500:静かな部屋の中に、ＰＣのファンがうなる音と、僕の浅い呼吸音だけが響いている。[%p]"
-msgstr "500:The only sounds in the quiet room were the rumbling of my computer fan, and my own shallow breathing.[%p]"
+msgstr "500:静かな部屋の中に、ＰＣのファンがうなる音と、僕の浅い呼吸音だけが響いている。[%p]"
 
 msgid "600:暗闇の中にいると、醜い自分を意識しなくてもよくなるかもしれない、なんて思ったけど、逆効果だった。[%p]"
-msgstr "600:I thought that maybe in the darkness, I wouldn't have to think about how ugly I was, but the opposite was true.[%p]"
+msgstr "600:暗闇の中にいると、醜い自分を意識しなくてもよくなるかもしれない、なんて思ったけど、逆効果だった。[%p]"
 
 msgid "700:なにも見えず、とても静かなせいもあって、さっき梨深に言われたあの残酷な言葉が頭の中で延々とリピートされる。[%p]"
-msgstr "700:With the silence and the darkness surrounding me, Rimi's cruel words were echoing in my mind over and over again.[%p]"
+msgstr "700:なにも見えず、とても静かなせいもあって、さっき梨深に言われたあの残酷な言葉が頭の中で延々とリピートされる。[%p]"
 
 msgid "800:[name]梨深[line][margin top="266"][center]「あなたは……妄想の存在なんだよ」[%e]"
-msgstr "800:[name]梨深[line][margin top="266"][center]You are... a delusion.[%e]"
+msgstr "800:[name]梨深[line][margin top="266"][center]「あなたは……妄想の存在なんだよ」[%e]"
 
 msgid "900:[name]拓巳[line]「うぅぅ……」[%p]"
-msgstr "900:[name]拓巳[line]Waah...[%p]"
+msgstr "900:[name]拓巳[line]「うぅぅ……」[%p]"
 
 msgid "1000:自分のうめき声が、どうしようもなくキモく感じた。吐き気さえ覚えた。[%p]"
-msgstr "1000:Even my crying sounded creepy and disgusting. I felt like I was going to vomit.[%p]"
+msgstr "1000:自分のうめき声が、どうしようもなくキモく感じた。吐き気さえ覚えた。[%p]"
 
 msgid "1100:ただでさえキモい僕なのに、存在として奇形だったら、もう救いようがない。[%p]"
-msgstr "1100:I was creepy enough already. If I didn't even exist like regular people did, that was even worse.[%p]"
+msgstr "1100:ただでさえキモい僕なのに、存在として奇形だったら、もう救いようがない。[%p]"
 
 msgid "1200:消えてしまいたい――[%p]"
-msgstr "1200:I wanted to just disappear.[%p]"
+msgstr "1200:消えてしまいたい――[%p]"
 
 msgid "1300:僕は床に散乱しているゴミに足を取られながら、部屋の奥までのろのろと進んでいった。[%p]"
-msgstr "1300:I slowly walked over to the other side of the room, tripping over the garbage on the floor as I went.[%p]"
+msgstr "1300:僕は床に散乱しているゴミに足を取られながら、部屋の奥までのろのろと進んでいった。[%p]"
 
 msgid "1400:明かりを点け、闇を追い払う。[linebreak]"
-msgstr "1400:I turned on the lights and drove away the darkness.[linebreak]"
+msgstr "1400:明かりを点け、闇を追い払う。[linebreak]"
 
 msgid "1500:ちょうど目に入った星来たんフィギュア（覚醒後バージョン）をつかみ、イスに倒れ込んだ。[%p]"
-msgstr "1500:My eyes fell on the Seira-tan (Post-Awakening Version) figure on my desk. I grabbed it and slumped into my chair.[%p]"
+msgstr "1500:ちょうど目に入った星来たんフィギュア（覚醒後バージョン）をつかみ、イスに倒れ込んだ。[%p]"
 
 msgid "1600:明かりを点け、闇を追い払う。ちょうど目に入った星来たんフィギュア（覚醒後バージョン）をつかみ、イスに倒れ込んだ。"
-msgstr "1600:I turned on the lights and drove away the darkness. My eyes fell on the Seira-tan (Post-Awakening Version) figure on my desk. I grabbed it and slumped into my chair."
+msgstr "1600:明かりを点け、闇を追い払う。ちょうど目に入った星来たんフィギュア（覚醒後バージョン）をつかみ、イスに倒れ込んだ。"
 
 msgid "1700:星来たんを胸元に抱き寄せる。[%p]"
-msgstr "1700:I held Seira-tan close to my chest.[%p]"
+msgstr "1700:星来たんを胸元に抱き寄せる。[%p]"
 
 msgid "1800:彼女はとても小さく。[linebreak]そしてとても硬い。[linebreak]息もしていないし、なにも喋ってくれない。[%p]"
-msgstr "1800:She was so small. So hard. She wasn't breathing. She wasn't speaking to me.[%p]"
+msgstr "1800:彼女はとても小さく。[linebreak]そしてとても硬い。[linebreak]息もしていないし、なにも喋ってくれない。[%p]"
 
 msgid "1900:三次元の女子のような温もりは、ない。[%p]"
-msgstr "1900:She didn't have the warmth a 3D girl did.[%p]"
+msgstr "1900:三次元の女子のような温もりは、ない。[%p]"
 
 msgid "2000:それでも今の僕には、星来たんしかいなかった。[%p]"
-msgstr "2000:But right now, Seira-tan was all I had.[%p]"
+msgstr "2000:それでも今の僕には、星来たんしかいなかった。[%p]"
 
 msgid "2100:梨深は僕の前から去っていった。[%p]"
-msgstr "2100:Rimi had left me.[%p]"
+msgstr "2100:梨深は僕の前から去っていった。[%p]"
 
 msgid "2200:七海は行方不明。[%p]"
-msgstr "2200:Nanami was missing.[%p]"
+msgstr "2200:七海は行方不明。[%p]"
 
 msgid "2300:セナは僕に襲いかかってきたし。[%p]"
-msgstr "2300:Sena had tried to kill me.[%p]"
+msgstr "2300:セナは僕に襲いかかってきたし。[%p]"
 
 msgid "2400:こずぴぃも僕を守ってくれなかった。[%p]"
-msgstr "2400:Kozupii hadn't tried to stop her.[%p]"
+msgstr "2400:こずぴぃも僕を守ってくれなかった。[%p]"
 
 msgid "2500:優愛は敵。[%p]"
-msgstr "2500:Yua was my enemy.[%p]"
+msgstr "2500:優愛は敵。[%p]"
 
 msgid "2600:そしてあやせは入院中。[%p]"
-msgstr "2600:And Ayase was in the hospital.[%p]"
+msgstr "2600:そしてあやせは入院中。[%p]"
 
 msgid "2700:僕が名前を知っている女子は、それだけ。[linebreak]そして誰も、僕のためになにかをしてなんてくれない。[%p]"
-msgstr "2700:These were the only girls whose names I knew. And none of them were going to do anything to help me.[%p]"
+msgstr "2700:僕が名前を知っている女子は、それだけ。[linebreak]そして誰も、僕のためになにかをしてなんてくれない。[%p]"
 
 msgid "2800:現実は甘くない。[linebreak]僕みたいな化け物なんて眼中にないんだ。[%p]"
-msgstr "2800:Reality was cruel. It didn't care about a monster like me.[%p]"
+msgstr "2800:現実は甘くない。[linebreak]僕みたいな化け物なんて眼中にないんだ。[%p]"
 
 msgid "2900:震える手で、星来たんを握りしめる。[linebreak]きつく、きつく。[linebreak]折れそうなほどに。[%p]"
-msgstr "2900:I gripped Seira-tan with shaking hands. Tighter and tighter... Until I thought she'd break.[%p]"
+msgstr "2900:震える手で、星来たんを握りしめる。[linebreak]きつく、きつく。[linebreak]折れそうなほどに。[%p]"
 
 msgid "3000:消えてしまいたい――[%p]"
-msgstr "3000:I wanted to just disappear.[%p]"
+msgstr "3000:消えてしまいたい――[%p]"
 

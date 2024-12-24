@@ -10,155 +10,155 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]星来[line]「朝だよー！\u3000ほら起きて！\u3000起きなさーい！」[%p]"
-msgstr "0:[name]星来[line]It's morning! Wake up, come on! WAKE UP![%p]"
+msgstr "0:[name]星来[line]「朝だよー！\u3000ほら起きて！\u3000起きなさーい！」[%p]"
 
 msgid "100:[name]星来[line]「起きたら、おはようのキスしてあげるからさ……って、あたしなに言ってんだろバカバカ今の忘れて！」[%p]"
-msgstr "100:[name]星来[line]If you get up, I'll give you a good morning kiss! Wait, what am I saying? Forget I ever said that, dummy![%p]"
+msgstr "100:[name]星来[line]「起きたら、おはようのキスしてあげるからさ……って、あたしなに言ってんだろバカバカ今の忘れて！」[%p]"
 
 msgid "200:[name]星来[line]「ちょっと！\u3000いつまで寝てるんさ、このぼけなす！」[%p]"
-msgstr "200:[name]星来[line]Hey! Hey, how long are you gonna be sleeping, dork?[%p]"
+msgstr "200:[name]星来[line]「ちょっと！\u3000いつまで寝てるんさ、このぼけなす！」[%p]"
 
 msgid "300:星来たんの声で目を覚ますと、相変わらず七海の姿はなかった。[linebreak]あいつ、僕に一言もなしに帰ったのか。[linebreak]それとも、学校に行ったのかな？[%p]"
-msgstr "300:I woke up to the sound of Seira-tan's voice. Nanami was still nowhere to be seen. Had she really left without saying a word to me? Or had she gone to school?[%p]"
+msgstr "300:星来たんの声で目を覚ますと、相変わらず七海の姿はなかった。[linebreak]あいつ、僕に一言もなしに帰ったのか。[linebreak]それとも、学校に行ったのかな？[%p]"
 
 msgid "400:今日は、何月何日だっけ？[linebreak]シフト表だと、今日は学校に行く日だっただろうか。[%p]"
-msgstr "400:What day was it today? Was today one of the days I was scheduled to go to school?[%p]"
+msgstr "400:今日は、何月何日だっけ？[linebreak]シフト表だと、今日は学校に行く日だっただろうか。[%p]"
 
 msgid "500:頭の中が、ぼんやりとしていて、霞がかかってるみたいだ。[linebreak]……まだ寝ぼけてるなあ。[linebreak]今、何時だろう……？[%p]"
-msgstr "500:I felt spaced out, like there was a fog settled over my head. I still wasn't fully awake. What time was it?[%p]"
+msgstr "500:頭の中が、ぼんやりとしていて、霞がかかってるみたいだ。[linebreak]……まだ寝ぼけてるなあ。[linebreak]今、何時だろう……？[%p]"
 
 msgid "600:床にしゃがみ込んだまま、なおもボーッとしていると――[%p]"
-msgstr "600:I sat there on the floor, trying to wake up, when...[%p]"
+msgstr "600:床にしゃがみ込んだまま、なおもボーッとしていると――[%p]"
 
 msgid "700:[name]七海[line]「あ、おにぃ。やっと起きたー」[%p]"
-msgstr "700:[name]七海[line]Oh, Brother! You're up![%p]"
+msgstr "700:[name]七海[line]「あ、おにぃ。やっと起きたー」[%p]"
 
 msgid "800:扉が開いて、七海が顔をのぞかせた。[%p]"
-msgstr "800:The door opened, and Nanami poked her head in.[%p]"
+msgstr "800:扉が開いて、七海が顔をのぞかせた。[%p]"
 
 msgid "900:[name]拓巳[line]「か、帰ったんじゃ、ないのか……？」[%p]"
-msgstr "900:[name]拓巳[line]I-I thought you went home.[%p]"
+msgstr "900:[name]拓巳[line]「か、帰ったんじゃ、ないのか……？」[%p]"
 
 msgid "1000:[name]七海[line]「帰ってないよ。泊まるって言ったじゃん」[%p]"
-msgstr "1000:[name]七海[line]No, I didn't. I told you I was staying the night.[%p]"
+msgstr "1000:[name]七海[line]「帰ってないよ。泊まるって言ったじゃん」[%p]"
 
 msgid "1100:[name]拓巳[line]「ということは、や、やっぱり、昨日の深夜のあれは、い、いたずらだったんだな……。も、もう二度と、やるな……」[%p]"
-msgstr "1100:[name]拓巳[line]S-So that thing last night w-was a prank, then. N-Never do something like that again.[%p]"
+msgstr "1100:[name]拓巳[line]「ということは、や、やっぱり、昨日の深夜のあれは、い、いたずらだったんだな……。も、もう二度と、やるな……」[%p]"
 
 msgid "1200:[name]七海[line]「いたずら？\u3000なんのこと？」[%p]"
-msgstr "1200:[name]七海[line]A prank? What are you talking about?[%p]"
+msgstr "1200:[name]七海[line]「いたずら？\u3000なんのこと？」[%p]"
 
 msgid "1300:七海は首を傾げてとぼけている。[linebreak]あくまで、しらを切るつもりか。[%p]"
-msgstr "1300:Nanami had a confused look on her face. She was playing dumb, I realized. She was going to try and lie her way out of this.[%p]"
+msgstr "1300:七海は首を傾げてとぼけている。[linebreak]あくまで、しらを切るつもりか。[%p]"
 
 msgid "1400:ごまかし切れると思っているなんて、僕をバカにするにもほどがあるな。[%p]"
-msgstr "1400:She must think I was a complete idiot if she was trying to get away with this.[%p]"
+msgstr "1400:ごまかし切れると思っているなんて、僕をバカにするにもほどがあるな。[%p]"
 
 msgid "1500:それにしても、一晩明けて、冷静にこうして見てみると、今の七海はとんでもない格好をしてる気がする。[%p]"
-msgstr "1500:In the cold morning light, I realized just how dangerous her outfit was.[%p]"
+msgstr "1500:それにしても、一晩明けて、冷静にこうして見てみると、今の七海はとんでもない格好をしてる気がする。[%p]"
 
 msgid "1600:あのトレーナーの下は、当然ながら……はいてない。[linebreak]はいてないんだよ、うん。[%p]"
-msgstr "1600:There was nothing under that sweatshirt. Nothing at all, yeah.[%p]"
+msgstr "1600:あのトレーナーの下は、当然ながら……はいてない。[linebreak]はいてないんだよ、うん。[%p]"
 
 msgid "1700:七海が手を動かすたびに、裾が持ち上がって、チラチラときわどいところが見えそうなんだけど……。[%p]"
-msgstr "1700:Each time she moved her hands, the hem of the shirt went up, and it looked like I might see something I wasn't supposed to see.[%p]"
+msgstr "1700:七海が手を動かすたびに、裾が持ち上がって、チラチラときわどいところが見えそうなんだけど……。[%p]"
 
 msgid "1800:[name]七海[line]「おにぃ、どこ見てんの？」[%p]"
-msgstr "1800:[name]七海[line]Brother, what are you looking at?[%p]"
+msgstr "1800:[name]七海[line]「おにぃ、どこ見てんの？」[%p]"
 
 msgid "1900:[name]拓巳[line]「ど、どど、どこも」[%p]"
-msgstr "1900:[name]拓巳[line]N-Nothing.[%p]"
+msgstr "1900:[name]拓巳[line]「ど、どど、どこも」[%p]"
 
 msgid "2000:七海は裾を手で伸ばし、足の付け根を隠すようにした。[%p]"
-msgstr "2000:She pulled down the hem to cover the top of her legs.[%p]"
+msgstr "2000:七海は裾を手で伸ばし、足の付け根を隠すようにした。[%p]"
 
 msgid "2100:[name]拓巳[line]「ちょ、そ、そんな伸ばすな！\u3000そのトレーナー、貴重なんだぞ！」[%p]"
-msgstr "2100:[name]拓巳[line]Hey, don't stretch that! That sweatshirt's really rare![%p]"
+msgstr "2100:[name]拓巳[line]「ちょ、そ、そんな伸ばすな！\u3000そのトレーナー、貴重なんだぞ！」[%p]"
 
 msgid "2200:[name]七海[line]「ナナよりトレーナーが心配なんだ。おにぃのバカ」[%p]"
-msgstr "2200:[name]七海[line]You're more worried about the sweatshirt than me. Brother, you jerk.[%p]"
+msgstr "2200:[name]七海[line]「ナナよりトレーナーが心配なんだ。おにぃのバカ」[%p]"
 
 msgid "2300:[name]七海[line]「言っとくけど、下着ははいてるもんね」[%p]"
-msgstr "2300:[name]七海[line]I'm wearing underwear under this, just so you know.[%p]"
+msgstr "2300:[name]七海[line]「言っとくけど、下着ははいてるもんね」[%p]"
 
 msgid "2400:え、そうなのか。それは残念……。[linebreak]って、いやいや、自重しろ僕。妹に欲情するな。[linebreak]でも下着なんてどうやって手に入れたんだろう？[%p]"
-msgstr "2400:Huh? You are? That's a shame. Wait, no. Knock it off. Don't get horny over your own little sister. But where'd she get the underwear from, then?[%p]"
+msgstr "2400:え、そうなのか。それは残念……。[linebreak]って、いやいや、自重しろ僕。妹に欲情するな。[linebreak]でも下着なんてどうやって手に入れたんだろう？[%p]"
 
 msgid "2500:……まあ、いつもの七海に戻ったみたいでなによりだけど。[linebreak]昨日はずいぶん弱ってたけど、一晩寝て、吹っ切れたのかもしれない。[%p]"
-msgstr "2500:Well, at least she was back to being the normal Nanami. She'd looked like she was in really bad shape yesterday, but evidently a good night's sleep had fixed her up.[%p]"
+msgstr "2500:……まあ、いつもの七海に戻ったみたいでなによりだけど。[linebreak]昨日はずいぶん弱ってたけど、一晩寝て、吹っ切れたのかもしれない。[%p]"
 
 msgid "2600:と、やけにいい匂いが漂ってきた。[linebreak]これは……ベーコンが焼ける匂いのような……。[%p]"
-msgstr "2600:I also smelled something really good. Was that... the smell of frying bacon?[%p]"
+msgstr "2600:と、やけにいい匂いが漂ってきた。[linebreak]これは……ベーコンが焼ける匂いのような……。[%p]"
 
 msgid "2700:[name]七海[line]「ねえねえ、おにぃも朝ごはん、食べる？」[%p]"
-msgstr "2700:[name]七海[line]Hey, Brother. You want some breakfast?[%p]"
+msgstr "2700:[name]七海[line]「ねえねえ、おにぃも朝ごはん、食べる？」[%p]"
 
 msgid "2800:[name]拓巳[line]「朝ごはん……」[%p]"
-msgstr "2800:[name]拓巳[line]Breakfast...[%p]"
+msgstr "2800:[name]拓巳[line]「朝ごはん……」[%p]"
 
 msgid "2900:[name]七海[line]「うん。今、作ってるんだけど」[%p]"
-msgstr "2900:[name]七海[line]Yeah. I'm making some right now.[%p]"
+msgstr "2900:[name]七海[line]「うん。今、作ってるんだけど」[%p]"
 
 msgid "3000:このベースにおいてキッチン……というか流し台は、コンテナの外、シャワールームのすぐ横に無造作に置いてある。[%p]"
-msgstr "3000:The Base's kitchen, or rather, sink, was outside the shipping container, next to the shower room.[%p]"
+msgstr "3000:このベースにおいてキッチン……というか流し台は、コンテナの外、シャワールームのすぐ横に無造作に置いてある。[%p]"
 
 msgid "3100:ちなみにガスは来ていない。代わりに、ネットオークションで格安で手に入れた、カセットガスのコンロを使うしかない。[%p]"
-msgstr "3100:There was no gas running up to the roof. Instead, there was a simple portable gas burner that I'd gotten for really cheap online.[%p]"
+msgstr "3100:ちなみにガスは来ていない。代わりに、ネットオークションで格安で手に入れた、カセットガスのコンロを使うしかない。[%p]"
 
 msgid "3200:もっとも僕は自炊なんかしないから、部屋のどこかにしまっておいたままになっていたはず。[%p]"
-msgstr "3200:Of course, I never cooked, so I'd thrown it in a drawer somewhere and forgotten about it.[%p]"
+msgstr "3200:もっとも僕は自炊なんかしないから、部屋のどこかにしまっておいたままになっていたはず。[%p]"
 
 msgid "3300:七海のヤツ、わざわざ探して引っ張り出してきたのか。[%p]"
-msgstr "3300:Had Nanami managed to find it and drag it out, then?[%p]"
+msgstr "3300:七海のヤツ、わざわざ探して引っ張り出してきたのか。[%p]"
 
 msgid "3400:[name]拓巳[line]「メ、メニューは？」[%p]"
-msgstr "3400:[name]拓巳[line]W-What's on the menu?[%p]"
+msgstr "3400:[name]拓巳[line]「メ、メニューは？」[%p]"
 
 msgid "3500:[name]七海[line]「サンドイッチとベーコンエッグ」[%p]"
-msgstr "3500:[name]七海[line]A sandwich, eggs, and bacon.[%p]"
+msgstr "3500:[name]七海[line]「サンドイッチとベーコンエッグ」[%p]"
 
 msgid "3600:[name]七海[line]「ここのキッチンじゃ、あんまり凝ったもの、作れないしね」[%p]"
-msgstr "3600:[name]七海[line]I can't make anything really fancy with this kitchen.[%p]"
+msgstr "3600:[name]七海[line]「ここのキッチンじゃ、あんまり凝ったもの、作れないしね」[%p]"
 
 msgid "3700:[name]七海[line]「それに、おにぃは貧乏舌だから、むしろシンプルなものの方がいいかなぁって」[%p]"
-msgstr "3700:[name]七海[line]Also, you probably couldn't appreciate real cooking, so I figured I'd better just make something simple.[%p]"
+msgstr "3700:[name]七海[line]「それに、おにぃは貧乏舌だから、むしろシンプルなものの方がいいかなぁって」[%p]"
 
 msgid "3800:うーむ。[%p]"
-msgstr "3800:Hmm...[%p]"
+msgstr "3800:うーむ。[%p]"
 
 msgid "3900:僕の普段の朝食は、コーラと菓子パンというような組み合わせばかりだ。[linebreak]久々にまともな朝食にありつけそうだぞ。[%p]"
-msgstr "3900:My normal breakfast was a bottle of soda and a pastry. This would be the first real breakfast I'd had in a long time.[%p]"
+msgstr "3900:僕の普段の朝食は、コーラと菓子パンというような組み合わせばかりだ。[linebreak]久々にまともな朝食にありつけそうだぞ。[%p]"
 
 msgid "4000:それに、妹の手作りっていうのは、いざ実際に作ってもらうとそれなりに嬉しかったりするし。[linebreak]これなら、昨日のいたずらを許してやってもいい。[%p]"
-msgstr "4000:And... I'd never thought I'd want to have my little sister cook for me, but now that she was actually doing it, it made me pretty happy. Maybe I could forgive her for what happened last night, then.[%p]"
+msgstr "4000:それに、妹の手作りっていうのは、いざ実際に作ってもらうとそれなりに嬉しかったりするし。[linebreak]これなら、昨日のいたずらを許してやってもいい。[%p]"
 
 msgid "4100:[name]拓巳[line]「よ、よし。さっさと、用意しろ」[%p]"
-msgstr "4100:[name]拓巳[line]O-Okay. Go get it ready then.[%p]"
+msgstr "4100:[name]拓巳[line]「よ、よし。さっさと、用意しろ」[%p]"
 
 msgid "4200:[name]七海[line]「うわー、偉そう……。まったく、少しは感謝してよね？」[%p]"
-msgstr "4200:[name]七海[line]Wow, look at you, Mr. Bossy. You should be grateful, you know![%p]"
+msgstr "4200:[name]七海[line]「うわー、偉そう……。まったく、少しは感謝してよね？」[%p]"
 
 msgid "4300:[name]拓巳[line]「……と、泊めてやったんだから、むしろ、そっちが感謝しろよ」[%p]"
-msgstr "4300:[name]拓巳[line]I-I let you stay the night for free. So, if anybody should be grateful, it's you.[%p]"
+msgstr "4300:[name]拓巳[line]「……と、泊めてやったんだから、むしろ、そっちが感謝しろよ」[%p]"
 
 msgid "4400:[name]七海[line]「あはは、それもそうかも。じゃ、一応、感謝感謝♪」[%p]"
-msgstr "4400:[name]七海[line]Ahaha. I guess that's right. All right. Thank you! Thank you![%p]"
+msgstr "4400:[name]七海[line]「あはは、それもそうかも。じゃ、一応、感謝感謝♪」[%p]"
 
 msgid "4500:頭でも下げてくれるのかと思ったけど、全然そんなことはなかった。"
-msgstr "4500:I thought she'd give me a little bow or something, but she didn't."
+msgstr "4500:頭でも下げてくれるのかと思ったけど、全然そんなことはなかった。"
 
 msgid "4600:笑顔のまま、七海はさっさと外に出て行ってしまう。[%p]"
-msgstr "4600: She smiled and left.[%p]"
+msgstr "4600:笑顔のまま、七海はさっさと外に出て行ってしまう。[%p]"
 
 msgid "4700:頭でも下げてくれるのかと思ったけど、全然そんなことはなかった。笑顔のまま、七海はさっさと外に出て行ってしまう。"
-msgstr "4700:I thought she'd give me a little bow or something, but she didn't. She smiled and left."
+msgstr "4700:頭でも下げてくれるのかと思ったけど、全然そんなことはなかった。笑顔のまま、七海はさっさと外に出て行ってしまう。"
 
 msgid "4800:[name]七海[line]「おにぃ、外で食べようよー。[linebreak]折りたたみ式のテーブル、あったでしょー？」[%p]"
-msgstr "4800:[name]七海[line]Brother, let's eat outside! You've got that folding table, right?[%p]"
+msgstr "4800:[name]七海[line]「おにぃ、外で食べようよー。[linebreak]折りたたみ式のテーブル、あったでしょー？」[%p]"
 
 msgid "4900:[name]七海[line]「それ、持ってきてー」[%p]"
-msgstr "4900:[name]七海[line]Bring it out here.[%p]"
+msgstr "4900:[name]七海[line]「それ、持ってきてー」[%p]"
 
 msgid "5000:くそぅ、寝起きの人間をこき使いやがって。[linebreak]これで朝メシがまずかったら、許さないぞ……。[%p]"
-msgstr "5000:Crap. I'd just gotten up and already she was bossing me around. That breakfast she was making had better be good.[%p]"
+msgstr "5000:くそぅ、寝起きの人間をこき使いやがって。[linebreak]これで朝メシがまずかったら、許さないぞ……。[%p]"
 

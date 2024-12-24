@@ -10,98 +10,98 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:楠優愛には、双子の妹が、いた。[%p]"
-msgstr "0:Yua Kusunoki had a twin sister, one born right after her,[%p]"
+msgstr "0:楠優愛には、双子の妹が、いた。[%p]"
 
 msgid "100:けれど、１ヶ月前に、死んだ。[linebreak]自殺だった。[%p]"
-msgstr "100:but she'd died a month ago. It was suicide.[%p]"
+msgstr "100:けれど、１ヶ月前に、死んだ。[linebreak]自殺だった。[%p]"
 
 msgid "200:双子の妹というのは、いわば自分の片割れのようなもの。[linebreak]普通の姉妹よりも、結びつきは強い。[%p]"
-msgstr "200:A twin sister was, in a lot of ways, a part of yourself. The two of them were far closer than most siblings.[%p]"
+msgstr "200:双子の妹というのは、いわば自分の片割れのようなもの。[linebreak]普通の姉妹よりも、結びつきは強い。[%p]"
 
 msgid "300:優愛にとっても妹はそんな存在であり、まさに自分の半身が失われたようなショックを受けた。[%p]"
-msgstr "300:She meant everything to Yua, and when she died, it was like losing half of herself.[%p]"
+msgstr "300:優愛にとっても妹はそんな存在であり、まさに自分の半身が失われたようなショックを受けた。[%p]"
 
 msgid "400:妹の死を聞いてから、優愛は延々、泣き続けた。[%p]"
-msgstr "400:When she heard the news, she'd cried and cried.[%p]"
+msgstr "400:妹の死を聞いてから、優愛は延々、泣き続けた。[%p]"
 
 msgid "500:妹の部屋のベッドに突っ伏し、ほんの１日前までそこで生活していた妹の影を必死で探した。[%p]"
-msgstr "500:She'd laid down on the bed in her younger sister's room, looking for any trace of the girl who'd lived there just the day before.[%p]"
+msgstr "500:妹の部屋のベッドに突っ伏し、ほんの１日前までそこで生活していた妹の影を必死で探した。[%p]"
 
 msgid "600:妹がなぜ死んだのか。その理由が、優愛にはまるで思い当たらなかった。[%p]"
-msgstr "600:Why did she die? Yua couldn't come up with a single reason.[%p]"
+msgstr "600:妹がなぜ死んだのか。その理由が、優愛にはまるで思い当たらなかった。[%p]"
 
 msgid "700:あれは自殺じゃない。妹は自殺なんてするはずがない。誰かに、殺されたんだ。そんな思いは、悲しみが募れば募るほど強くなった。[%p]"
-msgstr "700:It wasn't suicide. Her sister would never do that. Somebody had killed her. As her sadness deepened, she became more and more sure of it.[%p]"
+msgstr "700:あれは自殺じゃない。妹は自殺なんてするはずがない。誰かに、殺されたんだ。そんな思いは、悲しみが募れば募るほど強くなった。[%p]"
 
 msgid "800:どこかに、優愛が気付くことができなかった、妹からのメッセージが残されているのではないか。[%p]"
-msgstr "800:Maybe there was a message from her sister somewhere that she hadn't noticed?[%p]"
+msgstr "800:どこかに、優愛が気付くことができなかった、妹からのメッセージが残されているのではないか。[%p]"
 
 msgid "900:そんな気がして、後ろめたさを感じながらも、妹の持ち物を調べてみた。そして、一冊の日記を見つけた。[linebreak]そこに書かれていたのは――[%p]"
-msgstr "900:Feeling a little guilty, she began to look through her sister's things. She found a diary. And in it were the words...[%p]"
+msgstr "900:そんな気がして、後ろめたさを感じながらも、妹の持ち物を調べてみた。そして、一冊の日記を見つけた。[linebreak]そこに書かれていたのは――[%p]"
 
 msgid "1000:“その目だれの目？”[%p]"
-msgstr "1000:“Whose eyes are those?”[%p]"
+msgstr "1000:“その目だれの目？”[%p]"
 
 msgid "1100:それは確実に、妹からのＳＯＳだった。[linebreak]ただ、優愛にはこれがなにを意味しているのか分からず、ダメもとで、インターネットで調べてみることにした。[%p]"
-msgstr "1100:It was an SOS from her sister. It had to be. But she had no idea what it meant. In desperation, she decided to search for it on the Internet.[%p]"
+msgstr "1100:それは確実に、妹からのＳＯＳだった。[linebreak]ただ、優愛にはこれがなにを意味しているのか分からず、ダメもとで、インターネットで調べてみることにした。[%p]"
 
 msgid "1200:その結果、ひとつの作文のタイトルに行き着いた。[%p]"
-msgstr "1200:That led her to something.[%p]"
+msgstr "1200:その結果、ひとつの作文のタイトルに行き着いた。[%p]"
 
 msgid "1300:『全国小学生作文コンクール』。[%p]"
-msgstr "1300:The National Elementary School Essay Contest.[%p]"
+msgstr "1300:『全国小学生作文コンクール』。[%p]"
 
 msgid "1400:当時の文部省が行っていたそのコンクールにおいて、６年ほど前の受賞作のタイトルが“その目だれの目？”だった。[%p]"
-msgstr "1400:It was something the Ministry of Culture had held six years ago. The winning essay was titled, “Whose Eyes Are Those?”[%p]"
+msgstr "1400:当時の文部省が行っていたそのコンクールにおいて、６年ほど前の受賞作のタイトルが“その目だれの目？”だった。[%p]"
 
 msgid "1500:作者は、西條拓巳。ご丁寧にふりがなまで振ってあった。ニシジョウタクミ。当時、小学５年生。[%p]"
-msgstr "1500:The author's name was written on the page, too. “Takumi Nishijo.” He would've been in 5th grade at the time.[%p]"
+msgstr "1500:作者は、西條拓巳。ご丁寧にふりがなまで振ってあった。ニシジョウタクミ。当時、小学５年生。[%p]"
 
 msgid "1600:けれどそこで、行き詰まってしまった。[linebreak]妹の死と、西條拓巳に、いったいどんな繋がりがあるのか、見当も付かなかった。[%p]"
-msgstr "1600:But she couldn't imagine what the relationship between her sister and this Takumi Nishijo was. It seemed to be a dead end.[%p]"
+msgstr "1600:けれどそこで、行き詰まってしまった。[linebreak]妹の死と、西條拓巳に、いったいどんな繋がりがあるのか、見当も付かなかった。[%p]"
 
 msgid "1700:きっかけは、偶然だった。[%p]"
-msgstr "1700:Her chance to investigate further came suddenly.[%p]"
+msgstr "1700:きっかけは、偶然だった。[%p]"
 
 msgid "1800:優愛は学校に行くとき、いつも松濤公園の前を通る。[%p]"
-msgstr "1800:Yua would always pass by Shoto Park on her way to school.[%p]"
+msgstr "1800:優愛は学校に行くとき、いつも松濤公園の前を通る。[%p]"
 
 msgid "1900:その公園のベンチで、週に２度ほど、１人寂しそうにパンを食べている男子生徒がいた。[%p]"
-msgstr "1900:Twice a week or so, she'd see a lonely-looking boy eating a pastry while sitting on a park bench.[%p]"
+msgstr "1900:その公園のベンチで、週に２度ほど、１人寂しそうにパンを食べている男子生徒がいた。[%p]"
 
 msgid "2000:とても寂しそうな彼の背中を何度も見ているうちに、優愛はなぜか彼のことが気になるようになった。[%p]"
-msgstr "2000:As she looked at him sitting there, forlorn, for some reason he began to intrigue her.[%p]"
+msgstr "2000:とても寂しそうな彼の背中を何度も見ているうちに、優愛はなぜか彼のことが気になるようになった。[%p]"
 
 msgid "2100:ある日、優愛はたまたま駅で会ったクラスメイトと一緒に登校している途中、その男子生徒がいつものベンチにいるのを発見した。優愛が彼のことを見ていると、クラスメイトがこう言ったのだ。[%p]"
-msgstr "2100:One day, she was going to school alongside a classmate she happened to run into at the station, and she saw him on the bench in his usual spot. When her classmate saw her interest in him, this is what she said:[%p]"
+msgstr "2100:ある日、優愛はたまたま駅で会ったクラスメイトと一緒に登校している途中、その男子生徒がいつものベンチにいるのを発見した。優愛が彼のことを見ていると、クラスメイトがこう言ったのだ。[%p]"
 
 msgid "2200:[name]女子Ｆ[line]「あいつ、２年のニシジョウっていう子らしいよ。弟が同じクラスでさ。引きこもりのキモオタなんだって。楠、あんなヤツに興味持つの、やめときなよ」[%p]"
-msgstr "2200:[name]女子Ｆ[line]That's Nishijo, one of the second-year students. My little brother's in his class. He's a creepy otaku, and a hikikomori, he says. Kusunoki, you should just forget about him.[%p]"
+msgstr "2200:[name]女子Ｆ[line]「あいつ、２年のニシジョウっていう子らしいよ。弟が同じクラスでさ。引きこもりのキモオタなんだって。楠、あんなヤツに興味持つの、やめときなよ」[%p]"
 
 msgid "2300:ニシジョウと、西條。[%p]"
-msgstr "2300:Nishijo...[%p]"
+msgstr "2300:ニシジョウと、西條。[%p]"
 
 msgid "2400:西條という字なら“サイジョウ”と読むのが普通だ。[linebreak]“ニシジョウ”と読ませるのは珍しい。[linebreak]単なる偶然だとは思えなかった。[%p]"
-msgstr "2400:“Nishijo” was a very unusual name. This couldn't be a coincidence.[%p]"
+msgstr "2400:西條という字なら“サイジョウ”と読むのが普通だ。[linebreak]“ニシジョウ”と読ませるのは珍しい。[linebreak]単なる偶然だとは思えなかった。[%p]"
 
 msgid "2500:さっそく優愛は、翠明学園の２年生の生徒名簿を手に入れた。[linebreak]そこに、見つけた。あの名前を。“西條拓巳”の名を。[%p]"
-msgstr "2500:Yua quickly got her hands on a student roster for the second-year classes. She found what she was looking for. That name: “Takumi Nishijo.”[%p]"
+msgstr "2500:さっそく優愛は、翠明学園の２年生の生徒名簿を手に入れた。[linebreak]そこに、見つけた。あの名前を。“西條拓巳”の名を。[%p]"
 
 msgid "2600:それでもまだ、あの作文の作者とは単なる同姓同名の、別人かもしれない。[%p]"
-msgstr "2600:But there was still a chance that it might be a different person who just happened to have the same name.[%p]"
+msgstr "2600:それでもまだ、あの作文の作者とは単なる同姓同名の、別人かもしれない。[%p]"
 
 msgid "2700:だから、優愛は試してみたのだ。[%p]"
-msgstr "2700:So Yua decided to test him.[%p]"
+msgstr "2700:だから、優愛は試してみたのだ。[%p]"
 
 msgid "2800:“その目だれの目？”[%p]"
-msgstr "2800:“Whose eyes are those?”[%p]"
+msgstr "2800:“その目だれの目？”[%p]"
 
 msgid "2900:黒板にそれを書くことで、彼は激しく動揺して見せた。[%p]"
-msgstr "2900:When she wrote those words on the blackboard, he seemed to panic.[%p]"
+msgstr "2900:黒板にそれを書くことで、彼は激しく動揺して見せた。[%p]"
 
 msgid "3000:その直後のことだ。[linebreak]『張り付け』事件が起きて、“翠明学園の生徒が現場から走り去った”という目撃情報がネットにリークされたのは。[%p]"
-msgstr "3000:And it was right after that... When the “Crucified” killing occurred, and someone on the net leaked a witness statement that a Suimei Academy student had been seen running from the scene.[%p]"
+msgstr "3000:その直後のことだ。[linebreak]『張り付け』事件が起きて、“翠明学園の生徒が現場から走り去った”という目撃情報がネットにリークされたのは。[%p]"
 
 msgid "3100:優愛は確信した。[linebreak]西條拓巳は、怪しい。[linebreak]妹を殺したのは、西條拓巳かもしれない、と――。[%p]"
-msgstr "3100:Yua was sure of it now. There was something suspicious about Takumi Nishijo. He might have been the one who killed her sister.[%p]"
+msgstr "3100:優愛は確信した。[linebreak]西條拓巳は、怪しい。[linebreak]妹を殺したのは、西條拓巳かもしれない、と――。[%p]"
 

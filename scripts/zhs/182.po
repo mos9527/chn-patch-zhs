@@ -10,470 +10,470 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:あの華奢な身体のどこに、そんな力があるんだ。[%p]"
-msgstr "0:Where could she be keeping so much power in her tiny body?[%p]"
+msgstr "0:あの華奢な身体のどこに、そんな力があるんだ。[%p]"
 
 msgid "100:見た限りだと、少なくとも５ｋｇ以上は確実にある大きさだぞ。[%p]"
-msgstr "100:It had to weigh more than five kilograms, by my estimate.[%p]"
+msgstr "100:見た限りだと、少なくとも５ｋｇ以上は確実にある大きさだぞ。[%p]"
 
 msgid "200:そんな僕の心の中の疑問を、文字通り“読み取った”こずぴぃが、僕に振り向いて遠慮がちに微笑む。[%p]"
-msgstr "200:Kozupii must have “read” my doubts, because she turned toward me and gave me a hesitant smile.[%p]"
+msgstr "200:そんな僕の心の中の疑問を、文字通り“読み取った”こずぴぃが、僕に振り向いて遠慮がちに微笑む。[%p]"
 
 msgid "300:[name]梢[line]「こずぴぃは、拓巳しゃんを守るたーめだけに造られた、[linebreak]アンドロイドなのらー」[%p]"
-msgstr "300:[name]梢[line]Kozupii is an android... made just to protect you, nora![%p]"
+msgstr "300:[name]梢[line]「こずぴぃは、拓巳しゃんを守るたーめだけに造られた、[linebreak]アンドロイドなのらー」[%p]"
 
 msgid "400:[name]拓巳[line]「……はい？」[%p]"
-msgstr "400:[name]拓巳[line]Huh?[%p]"
+msgstr "400:[name]拓巳[line]「……はい？」[%p]"
 
 msgid "500:今、アンドロイド……って言った？[linebreak]どこのアニメの設定だよ、それ……。[%p]"
-msgstr "500:Did you just say... android? What anime is that from?[%p]"
+msgstr "500:今、アンドロイド……って言った？[linebreak]どこのアニメの設定だよ、それ……。[%p]"
 
 msgid "600:あ然となっている僕を無視して、こずぴぃは可愛らしく片手で握り拳を作る。[%p]"
-msgstr "600:Kozupii ignored my shock and made a cute little fist with one hand.[%p]"
+msgstr "600:あ然となっている僕を無視して、こずぴぃは可愛らしく片手で握り拳を作る。[%p]"
 
 msgid "700:[name]梢[line]「拓巳しゃん、もう安心なの」[%p]"
-msgstr "700:[name]梢[line]You're safe now, Takumi![%p]"
+msgstr "700:[name]梢[line]「拓巳しゃん、もう安心なの」[%p]"
 
 msgid "800:[name]梢[line]「拓巳しゃんを狙う悪いヤーツは、こずぴぃがドッカーンってするのら」[%p]"
-msgstr "800:[name]梢[line]I'll beat up ALL the bad guys who are after you, nora![%p]"
+msgstr "800:[name]梢[line]「拓巳しゃんを狙う悪いヤーツは、こずぴぃがドッカーンってするのら」[%p]"
 
 msgid "900:[name]梢[line]「ちーなみに、こずぴぃはメイド機能もあるの」[%p]"
-msgstr "900:[name]梢[line]Also, I have maid functions, too.[%p]"
+msgstr "900:[name]梢[line]「ちーなみに、こずぴぃはメイド機能もあるの」[%p]"
 
 msgid "1000:[name]梢[line]「だからーだからー、これから拓巳しゃんと一緒に住んで、身の回りのお世話もしたいのらー」[%p]"
-msgstr "1000:[name]梢[line]And so, and so, I'm going to live with you and take care of you, nora![%p]"
+msgstr "1000:[name]梢[line]「だからーだからー、これから拓巳しゃんと一緒に住んで、身の回りのお世話もしたいのらー」[%p]"
 
 msgid "1100:な、なるほど、それは便利だ……。[%p]"
-msgstr "1100:I-I see... that would be handy.[%p]"
+msgstr "1100:な、なるほど、それは便利だ……。[%p]"
 
 msgid "1200:こずぴぃがアンドロイドであることも、まあ受け入れてあげてもいい。[linebreak]ただし、そのためにはひとつだけ譲れない条件があった。[%p]"
-msgstr "1200:I was willing to accept that Kozupii was an android. Maybe. But for that to happen, there was one thing I wouldn't budge on.[%p]"
+msgstr "1200:こずぴぃがアンドロイドであることも、まあ受け入れてあげてもいい。[linebreak]ただし、そのためにはひとつだけ譲れない条件があった。[%p]"
 
 msgid "1300:[name]拓巳[line]「……え、えっちなことをできる機能はありますか？」[%p]"
-msgstr "1300:[name]拓巳[line]D-Do you have naughty functions, too?[%p]"
+msgstr "1300:[name]拓巳[line]「……え、えっちなことをできる機能はありますか？」[%p]"
 
 msgid "1400:なぜか敬語になってしまった……。[%p]"
-msgstr "1400:I asked my question hesitantly.[%p]"
+msgstr "1400:なぜか敬語になってしまった……。[%p]"
 
 msgid "1500:っていうか僕、今とんでもないことを聞いちゃったような。[%p]"
-msgstr "1500:Only after I spoke did I realize how ridiculous a question it was.[%p]"
+msgstr "1500:っていうか僕、今とんでもないことを聞いちゃったような。[%p]"
 
 msgid "1600:謝ろうかどうか迷っていると、"
-msgstr "1600:As I was wondering whether or not to apologize..."
+msgstr "1600:謝ろうかどうか迷っていると、"
 
 msgid "1700:こずぴぃは頬を染めて目を伏せた。[%p]"
-msgstr "1700: Kozupii's cheeks flushed.[%p]"
+msgstr "1700:こずぴぃは頬を染めて目を伏せた。[%p]"
 
 msgid "1800:謝ろうかどうか迷っていると、こずぴぃは頬を染めて目を伏せた。"
-msgstr "1800:As I was wondering whether or not to apologize… Kozupii's cheeks flushed."
+msgstr "1800:謝ろうかどうか迷っていると、こずぴぃは頬を染めて目を伏せた。"
 
 msgid "1900:[name]梢[line]「……うん」[%p]"
-msgstr "1900:[name]梢[line]Yes...[%p]"
+msgstr "1900:[name]梢[line]「……うん」[%p]"
 
 msgid "2000:[name]拓巳[line]「え……？」[%p]"
-msgstr "2000:[name]拓巳[line]Huh?[%p]"
+msgstr "2000:[name]拓巳[line]「え……？」[%p]"
 
 msgid "2100:[name]梢[line]「えっちなことも……できるの……」[%p]"
-msgstr "2100:[name]梢[line]I can do naughty things, too.[%p]"
+msgstr "2100:[name]梢[line]「えっちなことも……できるの……」[%p]"
 
 msgid "2200:[name]梢[line]「夜のご奉仕、頑張るの……」[%p]"
-msgstr "2200:[name]梢[line]I'll do my best to serve you in bed.[%p]"
+msgstr "2200:[name]梢[line]「夜のご奉仕、頑張るの……」[%p]"
 
 msgid "2300:[name]拓巳[line]「…………！」[%p]"
-msgstr "2300:[name]拓巳[line]...![%p]"
+msgstr "2300:[name]拓巳[line]「…………！」[%p]"
 
 msgid "2400:キタコレ！！！１１！！！１！[%p]"
-msgstr "2400:YES! YES!!!!11![%p]"
+msgstr "2400:キタコレ！！！１１！！！１！[%p]"
 
 msgid "2500:戦闘能力を有したメイドアンドロイドで、さらに夜のご奉仕機能まで付いてるなんて！[%p]"
-msgstr "2500:I had a combat maid, and one that could service me at night, too![%p]"
+msgstr "2500:戦闘能力を有したメイドアンドロイドで、さらに夜のご奉仕機能まで付いてるなんて！[%p]"
 
 msgid "2600:それなんてエロゲ！[%p]"
-msgstr "2600:Just like an H-Game![%p]"
+msgstr "2600:それなんてエロゲ！[%p]"
 
 msgid "2700:オプション機能充実しすぎだろｗ[%p]"
-msgstr "2700:Talk about coming loaded with options, lol![%p]"
+msgstr "2700:オプション機能充実しすぎだろｗ[%p]"
 
 msgid "2800:日本の技術力は世界イチィィィィ！[%p]"
-msgstr "2800:Japan's technology is the best in the world![%p]"
+msgstr "2800:日本の技術力は世界イチィィィィ！[%p]"
 
 msgid "2900:……そんなアホな妄想をしている間も、こずぴぃは剣を持ったまま軽い足取りで店内を闊歩していく。[%p]"
-msgstr "2900:As I indulged myself in a ridiculous delusion, Kozupii was walking around the shop, holding her sword.[%p]"
+msgstr "2900:……そんなアホな妄想をしている間も、こずぴぃは剣を持ったまま軽い足取りで店内を闊歩していく。[%p]"
 
 msgid "3000:こずぴぃは、それが当たり前であるかのように周囲から剣を隠そうとはしない。[%p]"
-msgstr "3000:She wasn't making any effort to hide the weapon at all.[%p]"
+msgstr "3000:こずぴぃは、それが当たり前であるかのように周囲から剣を隠そうとはしない。[%p]"
 
 msgid "3100:セナと同じだ。あの女も渋谷のど真ん中で周囲の迷惑も顧みずあの巨大なディソードを持ち歩いていた。[%p]"
-msgstr "3100:Sena had been the same way. I'd seen her carrying her gigantic Di-Sword down the middle of Shibuya without any regard for the people around her.[%p]"
+msgstr "3100:セナと同じだ。あの女も渋谷のど真ん中で周囲の迷惑も顧みずあの巨大なディソードを持ち歩いていた。[%p]"
 
 msgid "3200:あまりにも平然としすぎている。[linebreak]セナもこずぴぃも、やっぱり異常だ。[%p]"
-msgstr "3200:They didn't seem to care that other people might stare. Both Sena and Kozupii had something very wrong with them.[%p]"
+msgstr "3200:あまりにも平然としすぎている。[linebreak]セナもこずぴぃも、やっぱり異常だ。[%p]"
 
 msgid "3300:なんで、こずぴぃがディソードを……[%p]"
-msgstr "3300:Why would Kozupii have a Di-Sword?[%p]"
+msgstr "3300:なんで、こずぴぃがディソードを……[%p]"
 
 msgid "3400:[name]梢[line]「だーって、こずぴぃは――」[%p]"
-msgstr "3400:[name]梢[line]BECAUSE... Kozupii is...[%p]"
+msgstr "3400:[name]梢[line]「だーって、こずぴぃは――」[%p]"
 
 msgid "3500:こずぴぃは無邪気な笑みを浮かべたまま、僕の方を振り返り――[%p]"
-msgstr "3500:She turned to face me, an innocent smile still on her face.[%p]"
+msgstr "3500:こずぴぃは無邪気な笑みを浮かべたまま、僕の方を振り返り――[%p]"
 
 msgid "3600:[name]梢[line]「しょーぐんしゃんの手下だもーん♪」[%p]"
-msgstr "3600:[name]梢[line]...working for Shogun! ♪[%p]"
+msgstr "3600:[name]梢[line]「しょーぐんしゃんの手下だもーん♪」[%p]"
 
 msgid "3700:あの巨大なスノボーのような板が、[linebreak]空気を切り裂くかのように閃く。[%p]"
-msgstr "3700:The huge, snowboard-like blade... It whipped through the air in a flash.[%p]"
+msgstr "3700:あの巨大なスノボーのような板が、[linebreak]空気を切り裂くかのように閃く。[%p]"
 
 msgid "3800:[name]拓巳[line]「……え？」[%p]"
-msgstr "3800:[name]拓巳[line]Huh?[%p]"
+msgstr "3800:[name]拓巳[line]「……え？」[%p]"
 
 msgid "3900:なにが起きたのか、よく理解できなかった。[linebreak]僕が反応する前に、すべては終わっていた。[%p]"
-msgstr "3900:I couldn't understand what had just happened to me. It was all over before I could react.[%p]"
+msgstr "3900:なにが起きたのか、よく理解できなかった。[linebreak]僕が反応する前に、すべては終わっていた。[%p]"
 
 msgid "4000:こずぴぃは、ディソードを小さな身体で抱きしめるようにする。[%p]"
-msgstr "4000:Kozupii was holding the Di-Sword tight to her tiny body, embracing it.[%p]"
+msgstr "4000:こずぴぃは、ディソードを小さな身体で抱きしめるようにする。[%p]"
 
 msgid "4100:その剣に、べったりとこびりついている――血。[%p]"
-msgstr "4100:There was blood stuck to it.[%p]"
+msgstr "4100:その剣に、べったりとこびりついている――血。[%p]"
 
 msgid "4200:[name]梢[line]「バイバーイ、拓巳しゃん♪」[%p]"
-msgstr "4200:[name]梢[line]Bye-bye, Takumi![%p]"
+msgstr "4200:[name]梢[line]「バイバーイ、拓巳しゃん♪」[%p]"
 
 msgid "4300:ずるり、と。[linebreak]僕の身体が、[linebreak]歪んだ。[%p]"
-msgstr "4300:And then, in an instant, my body... Twisted.[%p]"
+msgstr "4300:ずるり、と。[linebreak]僕の身体が、[linebreak]歪んだ。[%p]"
 
 msgid "4400:倒れそうになって、右足を前へ出して踏ん張ろうとした。[%p]"
-msgstr "4400:I felt like I was going to fall forward, and tried to move my right leg out to stay upright.[%p]"
+msgstr "4400:倒れそうになって、右足を前へ出して踏ん張ろうとした。[%p]"
 
 msgid "4500:でも、足が動かない。[linebreak]下半身の感覚が、消失していた。[linebreak]腰のあたりに、強烈な熱を感じる。[%p]"
-msgstr "4500:But my legs refused to move. I couldn't feel the bottom half of my body, but I felt an intense heat near my waist.[%p]"
+msgstr "4500:でも、足が動かない。[linebreak]下半身の感覚が、消失していた。[linebreak]腰のあたりに、強烈な熱を感じる。[%p]"
 
 msgid "4600:[name]拓巳[line]「あ……れ……？」[%p]"
-msgstr "4600:[name]拓巳[line]Huh?[%p]"
+msgstr "4600:[name]拓巳[line]「あ……れ……？」[%p]"
 
 msgid "4700:僕は前のめりに倒れる。[linebreak]身体の自由がきかない。[%p]"
-msgstr "4700:I collapsed, falling forward. My body wasn't doing what I told it to.[%p]"
+msgstr "4700:僕は前のめりに倒れる。[linebreak]身体の自由がきかない。[%p]"
 
 msgid "4800:手だけでわずかに身を起こし、混乱しながらも、自分の身体へと目を向けた。[%p]"
-msgstr "4800:I lifted myself up just a little with my hands, turning to look back at my body in confusion.[%p]"
+msgstr "4800:手だけでわずかに身を起こし、混乱しながらも、自分の身体へと目を向けた。[%p]"
 
 msgid "4900:脇腹から、ドクドクと流れ出る血。[linebreak]はみ出した腸がぬらぬらと光り。[linebreak]露わになった白い骨に、ピンク色の肉がこびりついている。[%p]"
-msgstr "4900:Crimson blood poured from my waist. My intestines stuck out, slick and wet. Pink bits of flesh clung to exposed white bone.[%p]"
+msgstr "4900:脇腹から、ドクドクと流れ出る血。[linebreak]はみ出した腸がぬらぬらと光り。[linebreak]露わになった白い骨に、ピンク色の肉がこびりついている。[%p]"
 
 msgid "5000:えぐられた、身体。[linebreak]自分のものとは思えない。[%p]"
-msgstr "5000:A sliced-open body... You know, it didn't feel like it could be mine.[%p]"
+msgstr "5000:えぐられた、身体。[linebreak]自分のものとは思えない。[%p]"
 
 msgid "5100:[name]拓巳[line]「ウソ……でしょ……」[%p]"
-msgstr "5100:[name]拓巳[line]No... way...[%p]"
+msgstr "5100:[name]拓巳[line]「ウソ……でしょ……」[%p]"
 
 msgid "5200:その光景が信じられなくて、こずぴぃを見上げた。[%p]"
-msgstr "5200:I looked up at Kozupii, unable to believe what I was seeing.[%p]"
+msgstr "5200:その光景が信じられなくて、こずぴぃを見上げた。[%p]"
 
 msgid "5300:[name]梢[line]「うぴゅ〜」[%p]"
-msgstr "5300:[name]梢[line]Upyuh![%p]"
+msgstr "5300:[name]梢[line]「うぴゅ〜」[%p]"
 
 msgid "5400:こずぴぃは、僕を蔑むような瞳で見つめたまま、[%p]"
-msgstr "5400:Her eyes were filled with mockery...[%p]"
+msgstr "5400:こずぴぃは、僕を蔑むような瞳で見つめたまま、[%p]"
 
 msgid "5500:ディソードに付いた僕の血を、[%p]"
-msgstr "5500:as she slowly brought the Di-Sword to her mouth,[%p]"
+msgstr "5500:ディソードに付いた僕の血を、[%p]"
 
 msgid "5600:その可愛らしい舌で、[%p]"
-msgstr "5600:and with her cute tongue,[%p]"
+msgstr "5600:その可愛らしい舌で、[%p]"
 
 msgid "5700:ゆっくりと、[%p]"
-msgstr "5700:slowly,[%p]"
+msgstr "5700:ゆっくりと、[%p]"
 
 msgid "5800:見せつけるように、[%p]"
-msgstr "5800:as if she wanted to make sure I saw...[%p]"
+msgstr "5800:見せつけるように、[%p]"
 
 msgid "5900:――舐めた。[%p]"
-msgstr "5900:—She licked it.[%p]"
+msgstr "5900:――舐めた。[%p]"
 
 msgid "6000:[name]拓巳[line]「うえ……」[%p]"
-msgstr "6000:[name]拓巳[line]Bleh...[%p]"
+msgstr "6000:[name]拓巳[line]「うえ……」[%p]"
 
 msgid "6100:自分の妄想で気持ち悪くなってしまった。[%p]"
-msgstr "6100:My own delusion was making me sick.[%p]"
+msgstr "6100:自分の妄想で気持ち悪くなってしまった。[%p]"
 
 msgid "6200:でも、その妄想が現実にならないとは限らない。[%p]"
-msgstr "6200:But I couldn't say for sure that it wouldn't become real.[%p]"
+msgstr "6200:でも、その妄想が現実にならないとは限らない。[%p]"
 
 msgid "6300:最悪の事態を想定し、僕はこずぴぃから少し距離を取った。いつでも逃げられるように身構える。[%p]"
-msgstr "6300:I took a few steps back from Kozupii, just in case the worst happened. I made sure I was ready to go at any time.[%p]"
+msgstr "6300:最悪の事態を想定し、僕はこずぴぃから少し距離を取った。いつでも逃げられるように身構える。[%p]"
 
 msgid "6400:……そんな僕の気持ちになんて気付いてないかのように、こずぴぃは剣を持ったまま軽い足取りで店内を闊歩していく。[%p]"
-msgstr "6400:Kozupii was walking around the shop, holding her sword, as if she had no idea how I felt at all.[%p]"
+msgstr "6400:……そんな僕の気持ちになんて気付いてないかのように、こずぴぃは剣を持ったまま軽い足取りで店内を闊歩していく。[%p]"
 
 msgid "6500:それが当たり前であるかのように周囲から剣を隠そうとはしない。[%p]"
-msgstr "6500:She wasn't making any efforts to hide the weapon at all.[%p]"
+msgstr "6500:それが当たり前であるかのように周囲から剣を隠そうとはしない。[%p]"
 
 msgid "6600:セナと同じだ。あの女も渋谷のど真ん中で周囲の迷惑も顧みずあの巨大なディソードを持ち歩いていた。[%p]"
-msgstr "6600:Sena had been the same way. I'd seen her carrying her gigantic Di-Sword down the middle of Shibuya without any regard for the people around her.[%p]"
+msgstr "6600:セナと同じだ。あの女も渋谷のど真ん中で周囲の迷惑も顧みずあの巨大なディソードを持ち歩いていた。[%p]"
 
 msgid "6700:あまりにも平然としすぎている。[%p]"
-msgstr "6700:They were far too calm about it.[%p]"
+msgstr "6700:あまりにも平然としすぎている。[%p]"
 
 msgid "6800:例えこずぴぃが『将軍』の手下じゃないとしても。[linebreak]やっぱり異常だ。[%p]"
-msgstr "6800:Even if Kozupii wasn't working for Shogun... There was still something wrong with her.[%p]"
+msgstr "6800:例えこずぴぃが『将軍』の手下じゃないとしても。[linebreak]やっぱり異常だ。[%p]"
 
 msgid "6900:それは、屋内で振り回すにはあまりにも巨大だった。[%p]"
-msgstr "6900:That thing was too big to be swinging around indoors.[%p]"
+msgstr "6900:それは、屋内で振り回すにはあまりにも巨大だった。[%p]"
 
 msgid "7000:周囲には他に客だっている。もし誰かにケガなんかさせたら大変なことになる。[%p]"
-msgstr "7000:There were other people around her, too. If she hurt someone, it could be really bad.[%p]"
+msgstr "7000:周囲には他に客だっている。もし誰かにケガなんかさせたら大変なことになる。[%p]"
 
 msgid "7100:僕は、こずぴぃの立ち振る舞いにハラハラさせられた。[%p]"
-msgstr "7100:Watching her holding it made me feel like I was going to have a heart attack.[%p]"
+msgstr "7100:僕は、こずぴぃの立ち振る舞いにハラハラさせられた。[%p]"
 
 msgid "7200:そんな僕の心配なんて知ってか知らずか、こずぴぃは無謀にも剣を下ろしてクルクルとその場で回る。楽しそうに。[%p]"
-msgstr "7200:Whether she knew of my worries or not, Kozupii lowered the blade from above her head and began to spin. She looked like she was having the time of her life.[%p]"
+msgstr "7200:そんな僕の心配なんて知ってか知らずか、こずぴぃは無謀にも剣を下ろしてクルクルとその場で回る。楽しそうに。[%p]"
 
 msgid "7300:[name]梢[line]「これが、こずぴぃの剣だよー」[%p]"
-msgstr "7300:[name]梢[line]This is Kozupii's sword, okay?[%p]"
+msgstr "7300:[name]梢[line]「これが、こずぴぃの剣だよー」[%p]"
 
 msgid "7400:[name]梢[line]「悪い人をやっつけるのら」[%p]"
-msgstr "7400:[name]梢[line]It beats up the bad people, nora![%p]"
+msgstr "7400:[name]梢[line]「悪い人をやっつけるのら」[%p]"
 
 msgid "7500:悪い人を……やっつける？[%p]"
-msgstr "7500:Beats up... the bad people?[%p]"
+msgstr "7500:悪い人を……やっつける？[%p]"
 
 msgid "7600:その言葉に、僕は胸騒ぎを覚えた。[linebreak]なにかが、引っかかる。[%p]"
-msgstr "7600:Something about her words made my heart start beating faster. Something was wrong.[%p]"
+msgstr "7600:その言葉に、僕は胸騒ぎを覚えた。[linebreak]なにかが、引っかかる。[%p]"
 
 msgid "7700:そして思い出したのは、匂い。[linebreak]血の、匂い。[%p]"
-msgstr "7700:That's when I remembered the smell. The smell of blood.[%p]"
+msgstr "7700:そして思い出したのは、匂い。[linebreak]血の、匂い。[%p]"
 
 msgid "7800:さっきのＤＱＮたちが、血まみれで倒れていた光景を思い出す……[%p]"
-msgstr "7800:I remembered how I'd seen those DQNs lying in puddles of their own blood.[%p]"
+msgstr "7800:さっきのＤＱＮたちが、血まみれで倒れていた光景を思い出す……[%p]"
 
 msgid "7900:[name]梢[line]「あんなひどいことする人たちは、死んでとーうぜんだよ、ぷんぷん」[%p]"
-msgstr "7900:[name]梢[line]Anybody who'd do something so mean deserves to die! Hmph![%p]"
+msgstr "7900:[name]梢[line]「あんなひどいことする人たちは、死んでとーうぜんだよ、ぷんぷん」[%p]"
 
 msgid "8000:や、やっぱりあいつら、死んでた……の？[%p]"
-msgstr "8000:S-So they were dead after all?[%p]"
+msgstr "8000:や、やっぱりあいつら、死んでた……の？[%p]"
 
 msgid "8100:[name]梢[line]「ううん」[%p]"
-msgstr "8100:[name]梢[line]Nope.[%p]"
+msgstr "8100:[name]梢[line]「ううん」[%p]"
 
 msgid "8200:[name]梢[line]「生きてる価値もなーいけど。あんな、ゴキゴキな人たちは」[%p]"
-msgstr "8200:[name]梢[line]Not that they're worth keeping alive, though, those roachy-roach people![%p]"
+msgstr "8200:[name]梢[line]「生きてる価値もなーいけど。あんな、ゴキゴキな人たちは」[%p]"
 
 msgid "8300:ゴキゴキ？[%p]"
-msgstr "8300:Roachy-roach?[%p]"
+msgstr "8300:ゴキゴキ？[%p]"
 
 msgid "8400:[name]梢[line]「ゴキブリ♪」[%p]"
-msgstr "8400:[name]梢[line]Cockroaches! ♪[%p]"
+msgstr "8400:[name]梢[line]「ゴキブリ♪」[%p]"
 
 msgid "8500:[name]梢[line]「はーあ、殺したかったなぁ」[%p]"
-msgstr "8500:[name]梢[line]Sigh... I wish I could've killed them.[%p]"
+msgstr "8500:[name]梢[line]「はーあ、殺したかったなぁ」[%p]"
 
 msgid "8600:そう言い放ったときのこずぴぃの心の動きが、僕にははっきりと感じられた。[%p]"
-msgstr "8600:I could tell exactly how her heart was feeling when she said those words.[%p]"
+msgstr "8600:そう言い放ったときのこずぴぃの心の動きが、僕にははっきりと感じられた。[%p]"
 
 msgid "8700:彼女の中には、これっぽっちの悪意もなかった。[linebreak]ただ純粋に、悪い人に報復したいっていうだけで、それはなにも間違ってないって思ってる。[%p]"
-msgstr "8700:There wasn't any malice inside her. As far as she was concerned, she was just giving bad people what they deserved, and there was nothing wrong with that at all.[%p]"
+msgstr "8700:彼女の中には、これっぽっちの悪意もなかった。[linebreak]ただ純粋に、悪い人に報復したいっていうだけで、それはなにも間違ってないって思ってる。[%p]"
 
 msgid "8800:[name]梢[line]「最近、渋谷はまーすます物騒だよ」[%p]"
-msgstr "8800:[name]梢[line]Shibuya's been even more dangerous than usual lately![%p]"
+msgstr "8800:[name]梢[line]「最近、渋谷はまーすます物騒だよ」[%p]"
 
 msgid "8900:[name]梢[line]「昨日も怖そうなゴキゴキ男たちに拉致されそうになっちゃったから、ドガドガドガーンってしてやったのら」[%p]"
-msgstr "8900:[name]梢[line]Yesterday, a bunch of roachy-roach people tried to kidnap me, so I went ker-thwack, ker-thwack right in their faces, nora![%p]"
+msgstr "8900:[name]梢[line]「昨日も怖そうなゴキゴキ男たちに拉致されそうになっちゃったから、ドガドガドガーンってしてやったのら」[%p]"
 
 msgid "9000:[name]拓巳[line]「…………」[%p]"
-msgstr "9000:[name]拓巳[line]...[%p]"
+msgstr "9000:[name]拓巳[line]「…………」[%p]"
 
 msgid "9100:この子も、歪んでいるかもしれない。[linebreak]僕とは、違う意味で。[%p]"
-msgstr "9100:She might be twisted, too. In a different way than me.[%p]"
+msgstr "9100:この子も、歪んでいるかもしれない。[linebreak]僕とは、違う意味で。[%p]"
 
 msgid "9200:[name]梢[line]「西條くん、こっちでーす」[%p]"
-msgstr "9200:[name]梢[line]Nishijo! This way![%p]"
+msgstr "9200:[name]梢[line]「西條くん、こっちでーす」[%p]"
 
 msgid "9300:こずぴぃは、巨大なディソードを持ったまま歩き始めた。[%p]"
-msgstr "9300:Kozupii started walking again, carrying the huge Di-Sword in her hands.[%p]"
+msgstr "9300:こずぴぃは、巨大なディソードを持ったまま歩き始めた。[%p]"
 
 msgid "9400:背も低くて、腕も細くて、力なんて全然なさそうに見えるのに、特に剣を重たがる素振りを見せず、足取りも軽く進んでいく。[%p]"
-msgstr "9400:She was tiny, with thin arms. She looked so weak, and yet she didn't seem to struggle at all with the heavy-looking weapon.[%p]"
+msgstr "9400:背も低くて、腕も細くて、力なんて全然なさそうに見えるのに、特に剣を重たがる素振りを見せず、足取りも軽く進んでいく。[%p]"
 
 msgid "9500:すれ違う他の客や、陳列してある商品に何度も剣の端がぶつかりそうになり、僕はその度に目を覆った。でも、奇跡的にどこにも、誰にも当たらずに済んだ。[%p]"
-msgstr "9500:Many times, the blade came close to slamming into a shelf or a nearby shopper, and each time I covered my eyes. But miraculously, it didn't hit anyone.[%p]"
+msgstr "9500:すれ違う他の客や、陳列してある商品に何度も剣の端がぶつかりそうになり、僕はその度に目を覆った。でも、奇跡的にどこにも、誰にも当たらずに済んだ。[%p]"
 
 msgid "9600:行き着いた先は、階段だった。[%p]"
-msgstr "9600:We ended up in a stairwell.[%p]"
+msgstr "9600:行き着いた先は、階段だった。[%p]"
 
 msgid "9700:薄暗いそこは、フロア内とは違って人の気配がまったくない。誰も来ない。[%p]"
-msgstr "9700:It was dimly lit, and unlike the rest of the floor we were on, there was nobody here at all. Nobody came by, either.[%p]"
+msgstr "9700:薄暗いそこは、フロア内とは違って人の気配がまったくない。誰も来ない。[%p]"
 
 msgid "9800:渋谷の駅から歩いてわずか５分の距離にある、天下のＲｏｆｔ店内に、こんなうら寂しいスペースがあるなんて、意外だった。[%p]"
-msgstr "9800:It was shocking to me that just five minutes from Shibuya Station—and inside the Roft building, one of the most famous stores in Japan—there was a space that could be this empty.[%p]"
+msgstr "9800:渋谷の駅から歩いてわずか５分の距離にある、天下のＲｏｆｔ店内に、こんなうら寂しいスペースがあるなんて、意外だった。[%p]"
 
 msgid "9900:[name]梢[line]「Ｒｏｆｔだけじゃないのだ」[%p]"
-msgstr "9900:[name]梢[line]It's not just Roft.[%p]"
+msgstr "9900:[name]梢[line]「Ｒｏｆｔだけじゃないのだ」[%p]"
 
 msgid "10000:[name]梢[line]「デパートの階段って、ぜんぜーん人がいないのー」[%p]"
-msgstr "10000:[name]梢[line]Nobody ever uses the stairs in a department store.[%p]"
+msgstr "10000:[name]梢[line]「デパートの階段って、ぜんぜーん人がいないのー」[%p]"
 
 msgid "10100:渋谷に住んでもうすぐ２年になろうとしてる僕が知らないことを、引っ越してきて数週間の彼女がどうして知ってるんだろう……。[%p]"
-msgstr "10100:I'd lived in Shibuya for almost two years and didn't know that. How had she figured it out in just a few weeks?[%p]"
+msgstr "10100:渋谷に住んでもうすぐ２年になろうとしてる僕が知らないことを、引っ越してきて数週間の彼女がどうして知ってるんだろう……。[%p]"
 
 msgid "10200:[name]梢[line]「こずぴぃは、東京に来てから毎日渋谷を歩き回ってたのら」[%p]"
-msgstr "10200:[name]梢[line]Kozupii's been walking around Shibuya ever since she came to Tokyo![%p]"
+msgstr "10200:[name]梢[line]「こずぴぃは、東京に来てから毎日渋谷を歩き回ってたのら」[%p]"
 
 msgid "10300:[name]梢[line]「それで見ーつけたの。憩いの場所だよー」[%p]"
-msgstr "10300:[name]梢[line]That's how I found this place. It's my own little rest stop![%p]"
+msgstr "10300:[name]梢[line]「それで見ーつけたの。憩いの場所だよー」[%p]"
 
 msgid "10400:こずぴぃは上機嫌な様子で、階段に座り込んだ。[linebreak]"
-msgstr "10400:Kozupii sat down on the steps, clearly in a good mood.[linebreak]"
+msgstr "10400:こずぴぃは上機嫌な様子で、階段に座り込んだ。[linebreak]"
 
 msgid "10500:すぐ横にディソードを無造作に寝かせる。[%p]"
-msgstr "10500:She casually set the Di-Sword down next to her.[%p]"
+msgstr "10500:すぐ横にディソードを無造作に寝かせる。[%p]"
 
 msgid "10600:こずぴぃは上機嫌な様子で、階段に座り込んだ。すぐ横にディソードを無造作に寝かせる。"
-msgstr "10600:Kozupii sat down on the steps, clearly in a good mood. She casually set the Di-Sword down next to her."
+msgstr "10600:こずぴぃは上機嫌な様子で、階段に座り込んだ。すぐ横にディソードを無造作に寝かせる。"
 
 msgid "10700:僕も脇腹の痛みが耐えきれなくなってきていたから、とりあえず一休みすることにした。[%p]"
-msgstr "10700:The pain in my side was getting too much for me to bear, so I decided to take a rest.[%p]"
+msgstr "10700:僕も脇腹の痛みが耐えきれなくなってきていたから、とりあえず一休みすることにした。[%p]"
 
 msgid "10800:[name]梢[line]「それでそれでー、景色とか模様とか見ると、別のものが見えたりしなーいかな？」[%p]"
-msgstr "10800:[name]梢[line]And so, and so... when you look at patterns and at scenery and stuff, do they ever look like something different?[%p]"
+msgstr "10800:[name]梢[line]「それでそれでー、景色とか模様とか見ると、別のものが見えたりしなーいかな？」[%p]"
 
 msgid "10900:[name]梢[line]「ゾウさんとか、ウサギさんとか、ライオンさんとか」[%p]"
-msgstr "10900:[name]梢[line]Like elephants, or rabbits, or lions![%p]"
+msgstr "10900:[name]梢[line]「ゾウさんとか、ウサギさんとか、ライオンさんとか」[%p]"
 
 msgid "11000:[name]梢[line]「一番おおーって思ったのは、オオサンショウウオさんに見えたとーき」[%p]"
-msgstr "11000:[name]梢[line]The one that made me go “Whoa!” the most was when I saw a Japanese giant salamander![%p]"
+msgstr "11000:[name]梢[line]「一番おおーって思ったのは、オオサンショウウオさんに見えたとーき」[%p]"
 
 msgid "11100:……いったいなんの話？[%p]"
-msgstr "11100:What was she talking about?[%p]"
+msgstr "11100:……いったいなんの話？[%p]"
 
 msgid "11200:[name]梢[line]「ディソードの話でーすよ、うぷー」[%p]"
-msgstr "11200:[name]梢[line]About the Di-Sword! Uboooh![%p]"
+msgstr "11200:[name]梢[line]「ディソードの話でーすよ、うぷー」[%p]"
 
 msgid "11300:[name]梢[line]「なにかの模様とか、景色とか見ると、動物さんとか、色んな形に見えることがあって」[%p]"
-msgstr "11300:[name]梢[line]Say you're looking at a pattern, or out at some scenery or something, and you'll see animals or other shapes.[%p]"
+msgstr "11300:[name]梢[line]「なにかの模様とか、景色とか見ると、動物さんとか、色んな形に見えることがあって」[%p]"
 
 msgid "11400:ああ、そのことか。[linebreak]そう、僕もそれは経験ある。[%p]"
-msgstr "11400:Oh, that? Yeah, I'd seen that before.[%p]"
+msgstr "11400:ああ、そのことか。[linebreak]そう、僕もそれは経験ある。[%p]"
 
 msgid "11500:そしてあのＯ－ＦＲＯＮＴ屋上でも、そんな視点で見てみたら、あった。[%p]"
-msgstr "11500:I'd tried to see something like that on top of the O-FRONT building and succeeded.[%p]"
+msgstr "11500:そしてあのＯ－ＦＲＯＮＴ屋上でも、そんな視点で見てみたら、あった。[%p]"
 
 msgid "11600:景色の中に溶け込んでいた、ディソードが。[%p]"
-msgstr "11600:I'd seen the Di-Sword blended in with the scenery.[%p]"
+msgstr "11600:景色の中に溶け込んでいた、ディソードが。[%p]"
 
 msgid "11700:[name]梢[line]「はーい、ピンポンでーす♪」[%p]"
-msgstr "11700:[name]梢[line]Yup! That's right![%p]"
+msgstr "11700:[name]梢[line]「はーい、ピンポンでーす♪」[%p]"
 
 msgid "11800:[name]梢[line]「こずぴぃが最初に見えたときは、ハムポンポンが死んじゃったとき」[%p]"
-msgstr "11800:[name]梢[line]The first time Kozupii saw it was when Hamponpon died.[%p]"
+msgstr "11800:[name]梢[line]「こずぴぃが最初に見えたときは、ハムポンポンが死んじゃったとき」[%p]"
 
 msgid "11900:ハムポンポン？[%p]"
-msgstr "11900:Hamponpon?[%p]"
+msgstr "11900:ハムポンポン？[%p]"
 
 msgid "12000:[name]梢[line]「小学生のとき飼ってたハムスター」[%p]"
-msgstr "12000:[name]梢[line]The hamster I had in elementary school.[%p]"
+msgstr "12000:[name]梢[line]「小学生のとき飼ってたハムスター」[%p]"
 
 msgid "12100:[name]梢[line]「ほいで、ハムポンポンのお墓を作ってあげよーうって、土手に行ったのら」[%p]"
-msgstr "12100:[name]梢[line]I wanted to make a grave for him, so I went out to the riverbank.[%p]"
+msgstr "12100:[name]梢[line]「ほいで、ハムポンポンのお墓を作ってあげよーうって、土手に行ったのら」[%p]"
 
 msgid "12200:[name]梢[line]「でもスコップ忘れて、お墓作れなくて、ふみゅーって泣いていたら」[%p]"
-msgstr "12200:[name]梢[line]But I forgot my shovel and I couldn't dig his grave, so I went “Fumyuuh!” and cried a lot.[%p]"
+msgstr "12200:[name]梢[line]「でもスコップ忘れて、お墓作れなくて、ふみゅーって泣いていたら」[%p]"
 
 msgid "12300:[name]梢[line]「お空に、この剣の形が見えた」[%p]"
-msgstr "12300:[name]梢[line]And then, I saw the shape of the sword in the sky.[%p]"
+msgstr "12300:[name]梢[line]「お空に、この剣の形が見えた」[%p]"
 
 msgid "12400:[name]梢[line]「それからは、いろんなところでよく見るようになったのら」[%p]"
-msgstr "12400:[name]梢[line]After that, I started to see it in a lot of places.[%p]"
+msgstr "12400:[name]梢[line]「それからは、いろんなところでよく見るようになったのら」[%p]"
 
 msgid "12500:どうやって手に入れた？[%p]"
-msgstr "12500:How did you get it, though?[%p]"
+msgstr "12500:どうやって手に入れた？[%p]"
 
 msgid "12600:僕は結局、ディソードを見つけたものの、つかめなかった。どれだけ手を伸ばしても、手応えはなくて、つかめなかったんだ……。[%p]"
-msgstr "12600:I'd found it, but I couldn't grab it. No matter how much I reached out, I couldn't touch it or grab it...[%p]"
+msgstr "12600:僕は結局、ディソードを見つけたものの、つかめなかった。どれだけ手を伸ばしても、手応えはなくて、つかめなかったんだ……。[%p]"
 
 msgid "12700:[name]梢[line]「ただ、願ったんだよ」[%p]"
-msgstr "12700:[name]梢[line]I just wished.[%p]"
+msgstr "12700:[name]梢[line]「ただ、願ったんだよ」[%p]"
 
 msgid "12800:願った？[linebreak]手に入れたい、って？[linebreak]でもそれなら僕だって――[%p]"
-msgstr "12800:Wished? You wished to get the sword? But I did that, too.[%p]"
+msgstr "12800:願った？[linebreak]手に入れたい、って？[linebreak]でもそれなら僕だって――[%p]"
 
 msgid "12900:と、こずぴぃは上目遣いで僕を見て、かすかに首を振った。[%p]"
-msgstr "12900:Kozupii looked up at me, softly shaking her head.[%p]"
+msgstr "12900:と、こずぴぃは上目遣いで僕を見て、かすかに首を振った。[%p]"
 
 msgid "13000:[name]梢[line]「ちがーうのだ」[%p]"
-msgstr "13000:[name]梢[line]Nope.[%p]"
+msgstr "13000:[name]梢[line]「ちがーうのだ」[%p]"
 
 msgid "13100:[name]梢[line]「願ったのはね」[%p]"
-msgstr "13100:[name]梢[line]My wish...[%p]"
+msgstr "13100:[name]梢[line]「願ったのはね」[%p]"
 
 msgid "13200:[name]梢[line]「……殺してやりたい、っていうこと」[%p]"
-msgstr "13200:[name]梢[line]was to kill.[%p]"
+msgstr "13200:[name]梢[line]「……殺してやりたい、っていうこと」[%p]"
 
 msgid "13300:[name]拓巳[line]「……え？」[%p]"
-msgstr "13300:[name]拓巳[line]Huh?[%p]"
+msgstr "13300:[name]拓巳[line]「……え？」[%p]"
 
 msgid "13400:彼女の心の声は、はっきりと僕の頭の中に響く。[linebreak]聞き間違いとかじゃない。[linebreak]今、はっきりと言った。[%p]"
-msgstr "13400:I could hear the voice of her mind clearly within my own. I hadn't mistaken it. I'd heard exactly what she said.[%p]"
+msgstr "13400:彼女の心の声は、はっきりと僕の頭の中に響く。[linebreak]聞き間違いとかじゃない。[linebreak]今、はっきりと言った。[%p]"
 
 msgid "13500:“殺してやりたいと願った”って。[linebreak]はにかみながら、言ったんだ。[%p]"
-msgstr "13500:“My wish was to kill.” She'd said it with a smile, too.[%p]"
+msgstr "13500:“殺してやりたいと願った”って。[linebreak]はにかみながら、言ったんだ。[%p]"
 
 msgid "13600:Ｒｏｆｔの５階から６階へ上る階段には、店内のＢＧＭがかすかに届くくらいで、とても静か。[%p]"
-msgstr "13600:The stairs leading up from the fifth floor of the Roft building to its sixth floor were very quiet. You could only faintly hear the music coming from the shops.[%p]"
+msgstr "13600:Ｒｏｆｔの５階から６階へ上る階段には、店内のＢＧＭがかすかに届くくらいで、とても静か。[%p]"
 
 msgid "13700:僕も、彼女も、一言も発しない。[linebreak]誰かの息づかいが、やけに耳につく。[%p]"
-msgstr "13700:She didn't say a word, and neither did I. I could hear somebody's breath loudly in my ears.[%p]"
+msgstr "13700:僕も、彼女も、一言も発しない。[linebreak]誰かの息づかいが、やけに耳につく。[%p]"
 
 msgid "13800:それは彼女のもの？[%p]"
-msgstr "13800:Was it hers?[%p]"
+msgstr "13800:それは彼女のもの？[%p]"
 
 msgid "13900:いや、僕自身のものだ。[%p]"
-msgstr "13900:No, it was mine.[%p]"
+msgstr "13900:いや、僕自身のものだ。[%p]"
 
 msgid "14000:誰も、来ない階段。[%p]"
-msgstr "14000:A staircase where nobody came.[%p]"
+msgstr "14000:誰も、来ない階段。[%p]"
 
 msgid "14100:渋谷っていう街の中心にある、死角。エアポケット。[%p]"
-msgstr "14100:A blind spot in the dead center of Shibuya. An air pocket.[%p]"
+msgstr "14100:渋谷っていう街の中心にある、死角。エアポケット。[%p]"
 
 msgid "14200:僕は、渇いたのどを潤すために、唾を飲み込んだ。[%p]"
-msgstr "14200:I gulped down saliva to wet my suddenly-parched throat.[%p]"
+msgstr "14200:僕は、渇いたのどを潤すために、唾を飲み込んだ。[%p]"
 
 msgid "14300:[name]梢[line]「そう願いながら、みゅーって空見たら、また剣が見えて」[%p]"
-msgstr "14300:[name]梢[line]I wished, and then looked waaaay up into the sky, and I could see the sword.[%p]"
+msgstr "14300:[name]梢[line]「そう願いながら、みゅーって空見たら、また剣が見えて」[%p]"
 
 msgid "14400:[name]梢[line]「でもでもー、そのときまで、剣とは思ってなかったよ。[linebreak]なんだかガキーンってしたものって思ってた」[%p]"
-msgstr "14400:[name]梢[line]But! But! I didn't think it was a sword until then! I just thought it was kind of a big clangy thing.[%p]"
+msgstr "14400:[name]梢[line]「でもでもー、そのときまで、剣とは思ってなかったよ。[linebreak]なんだかガキーンってしたものって思ってた」[%p]"
 
 msgid "14500:[name]梢[line]「あれでブーン！\u3000ってやったら殺せるかなーって、[linebreak]無意識に手を伸ばしたら……」[%p]"
-msgstr "14500:[name]梢[line]I wondered if I could kill them if I went “bang” with it, and I reached out my hand…[%p]"
+msgstr "14500:[name]梢[line]「あれでブーン！\u3000ってやったら殺せるかなーって、[linebreak]無意識に手を伸ばしたら……」[%p]"
 
 msgid "14600:[name]梢[line]「ホントに、つかめたのらー」[%p]"
-msgstr "14600:[name]梢[line]And I really was able to![%p]"
+msgstr "14600:[name]梢[line]「ホントに、つかめたのらー」[%p]"
 
 msgid "14700:それで……どうしたの？[linebreak]なにを、したの？[%p]"
-msgstr "14700:And then... what happened? What did you do?[%p]"
+msgstr "14700:それで……どうしたの？[linebreak]なにを、したの？[%p]"
 
 msgid "14800:[name]梢[line]「…………」[%p]"
-msgstr "14800:[name]梢[line]...[%p]"
+msgstr "14800:[name]梢[line]「…………」[%p]"
 
 msgid "14900:[name]梢[line]「殺そうとしたけど、できなかった」[%p]"
-msgstr "14900:[name]梢[line]I tried to kill them, but I couldn't.[%p]"
+msgstr "14900:[name]梢[line]「殺そうとしたけど、できなかった」[%p]"
 
 msgid "15000:[name]梢[line]「こずぴぃの力じゃ、半殺しにするのが精一杯だったのでーす」[%p]"
-msgstr "15000:[name]梢[line]Kozupii wasn't strong enough to do more than half-kill them.[%p]"
+msgstr "15000:[name]梢[line]「こずぴぃの力じゃ、半殺しにするのが精一杯だったのでーす」[%p]"
 
 msgid "15100:この子は……壊れてる……。[%p]"
-msgstr "15100:This girl was... broken.[%p]"
+msgstr "15100:この子は……壊れてる……。[%p]"
 
 msgid "15200:[name]梢[line]「壊れてなーいよ、ぷんぷん。ここに剣あるもーん」[%p]"
-msgstr "15200:[name]梢[line]I'm not broken! Hmph! I've got the sword right here.[%p]"
+msgstr "15200:[name]梢[line]「壊れてなーいよ、ぷんぷん。ここに剣あるもーん」[%p]"
 
 msgid "15300:彼女が、傍らに置かれたディソードを愛おしそうに見つめるその態度からは、まさに絶対的信頼を置いていることが見て取れた。彼女の心もまた、僕にそう告げていて。[%p]"
-msgstr "15300:She was gazing lovingly at the sword next to her. I could tell from the way she was looking at it that she had complete trust in it. Her mind was telling me the same thing.[%p]"
+msgstr "15300:彼女が、傍らに置かれたディソードを愛おしそうに見つめるその態度からは、まさに絶対的信頼を置いていることが見て取れた。彼女の心もまた、僕にそう告げていて。[%p]"
 
 msgid "15400:僕も、これくらい壊れなきゃ、ディソードを手に入れられないのかな。[%p]"
-msgstr "15400:Maybe I couldn't get the Di-Sword unless I was broken, too.[%p]"
+msgstr "15400:僕も、これくらい壊れなきゃ、ディソードを手に入れられないのかな。[%p]"
 
 msgid "15500:……そもそも僕は、まだ、壊れてなかったのか？[%p]"
-msgstr "15500:Wait, did this mean I wasn't broken already?[%p]"
+msgstr "15500:……そもそも僕は、まだ、壊れてなかったのか？[%p]"
 

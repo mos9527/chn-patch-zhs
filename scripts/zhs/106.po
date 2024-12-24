@@ -10,200 +10,200 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:サインシティは渋谷スクランブル交差点のすぐ南に位置する、ふたつのビルだ。[%p]"
-msgstr "0:Sign City was a pair of buildings located just south of Shibuya Scramble Crossing.[%p]"
+msgstr "0:サインシティは渋谷スクランブル交差点のすぐ南に位置する、ふたつのビルだ。[%p]"
 
 msgid "100:駅と隣接するＥＡＳＴ棟１階の入り口は小さな広場になっており、ハチ公前やモヤイ像ほどではないものの、待ち合わせ場所としてよく利用される。[%p]"
-msgstr "100:The east building was located next to Shibuya Station. There was a small plaza just inside the entrance which was often used as a meeting spot, even if it wasn't as famous as the Hachiko or Moyai statues.[%p]"
+msgstr "100:駅と隣接するＥＡＳＴ棟１階の入り口は小さな広場になっており、ハチ公前やモヤイ像ほどではないものの、待ち合わせ場所としてよく利用される。[%p]"
 
 msgid "200:今も十数人程度の人たちが、約束の時間を待ちつつケータイとにらめっこしていた。[%p]"
-msgstr "200:A dozen or so people were in there now, waiting and playing with their phones.[%p]"
+msgstr "200:今も十数人程度の人たちが、約束の時間を待ちつつケータイとにらめっこしていた。[%p]"
 
 msgid "300:その中に、ひとりだけ妙に厳しい表情をしてたたずんでいる[linebreak]女子高生――蒼井セナの姿があった。[%p]"
-msgstr "300:One of them was standing alone with a curiously stern expression on her face.[%p]"
+msgstr "300:その中に、ひとりだけ妙に厳しい表情をしてたたずんでいる[linebreak]女子高生――蒼井セナの姿があった。[%p]"
 
 msgid "400:サインシティ２階にある井乃頭線の駅から降りてくる[linebreak]下りエスカレーター。[%p]"
-msgstr "400:She was a teenage girl named Sena Aoi.[%p]"
+msgstr "400:サインシティ２階にある井乃頭線の駅から降りてくる[linebreak]下りエスカレーター。[%p]"
 
 msgid "500:そのすぐ横にある白い柱に背中を預け、視線をぬかりなく周囲へと走らせている。[%p]"
-msgstr "500:If you went down the escalator on the second floor of Sign City, the one that lead away from the Inokashira Line station, you would see her there, leaning against a white pillar, watching her surroundings carefully.[%p]"
+msgstr "500:そのすぐ横にある白い柱に背中を預け、視線をぬかりなく周囲へと走らせている。[%p]"
 
 msgid "600:だがその視線の鋭さとは対照的に、なぜかこんな季節に棒アイスをかじっているため、傍目にはひどく微笑ましく映る。[%p]"
-msgstr "600:Despite her stern expression and the season, she was nibbling on a popsicle. It was kind of cute, in a way.[%p]"
+msgstr "600:だがその視線の鋭さとは対照的に、なぜかこんな季節に棒アイスをかじっているため、傍目にはひどく微笑ましく映る。[%p]"
 
 msgid "700:もっとも、彼女は決して待ち合わせをしているわけではなく、[linebreak]道行く人々を静かに観察しているのだった。[%p]"
-msgstr "700:Of course, she wasn't waiting for anyone. She was quietly observing the people coming and going around her.[%p]"
+msgstr "700:もっとも、彼女は決して待ち合わせをしているわけではなく、[linebreak]道行く人々を静かに観察しているのだった。[%p]"
 
 msgid "800:ちょうど彼女の立つ位置からは、スクランブル交差点の大型ビジョンまで見通すことができる。[%p]"
-msgstr "800:From where she was standing, you could see all the way to the big TVs at Scramble Crossing.[%p]"
+msgstr "800:ちょうど彼女の立つ位置からは、スクランブル交差点の大型ビジョンまで見通すことができる。[%p]"
 
 msgid "900:ビジョンには有名歌手のＰＶが流れている。[linebreak]その画面下方で、俗に言う『ニュージェネ』事件の続報をテロップにて伝えていた。[%p]"
-msgstr "900:They were showing a promo for some famous singer. At the bottom of the screen was a scrolling line of text talking about the NewGen murders.[%p]"
+msgstr "900:ビジョンには有名歌手のＰＶが流れている。[linebreak]その画面下方で、俗に言う『ニュージェネ』事件の続報をテロップにて伝えていた。[%p]"
 
 msgid "1000:『ニュージェネ』関連のニュースを目にしない日はない。[linebreak]テレビ、新聞、ネット、週刊誌、さらには街頭の大型ビジョンや電光掲示板。[%p]"
-msgstr "1000:Not a day went by when she didn't see something about NewGen. The TV, the papers, the net, the magazines, even the big TVs in the city...[%p]"
+msgstr "1000:『ニュージェネ』関連のニュースを目にしない日はない。[linebreak]テレビ、新聞、ネット、週刊誌、さらには街頭の大型ビジョンや電光掲示板。[%p]"
 
 msgid "1100:セナはそうした報道にまったく興味がなかったが、渋谷を歩いていればその手の話題を口にしている人間とよくすれ違った。[%p]"
-msgstr "1100:Sena wasn't interested in them at all, but walking through Shibuya, she would often hear people talking about the murders.[%p]"
+msgstr "1100:セナはそうした報道にまったく興味がなかったが、渋谷を歩いていればその手の話題を口にしている人間とよくすれ違った。[%p]"
 
 msgid "1200:『その目だれの目？』[%p]"
-msgstr "1200:“Whose eyes are those?”[%p]"
+msgstr "1200:『その目だれの目？』[%p]"
 
 msgid "1300:胸元にそう書かれたＴシャツを着ている人間なども、ここ数日で見かけるようになった。[%p]"
-msgstr "1300:Lately, she'd been seeing people wearing t-shirts with that question printed across their fronts.[%p]"
+msgstr "1300:胸元にそう書かれたＴシャツを着ている人間なども、ここ数日で見かけるようになった。[%p]"
 
 msgid "1400:渋谷ではアングラネタとしてその言葉が流行し、独り歩きを始めている。[%p]"
-msgstr "1400:It had gotten its start as an underground meme in Shibuya, and now it was getting out of control.[%p]"
+msgstr "1400:渋谷ではアングラネタとしてその言葉が流行し、独り歩きを始めている。[%p]"
 
 msgid "1500:原宿の土産店で売り出されてけっこう売れているらしい、と道行く人々が笑顔のまま話しているという今の状況は、人々がいかに自分以外に興味がないかということを端的に象徴していた。[%p]"
-msgstr "1500:Somebody at a Harajuku gift shop had started selling t-shirts, and they'd sold pretty well. At least, that's what she'd heard a smiling man say as he passed by her on the street. It was a good sign of how little people cared about anything but themselves.[%p]"
+msgstr "1500:原宿の土産店で売り出されてけっこう売れているらしい、と道行く人々が笑顔のまま話しているという今の状況は、人々がいかに自分以外に興味がないかということを端的に象徴していた。[%p]"
 
 msgid "1600:セナは嘲るように小さく鼻を鳴らすと、棒アイスの最後の一口を食べきり、厳しい表情は変えないままそっと目を閉じた。[%p]"
-msgstr "1600:Sena gave a little snort of contempt before she ate the last bite of her popsicle. She closed her eyes, the stern expression still on her face.[%p]"
+msgstr "1600:セナは嘲るように小さく鼻を鳴らすと、棒アイスの最後の一口を食べきり、厳しい表情は変えないままそっと目を閉じた。[%p]"
 
 msgid "1700:町のノイズに耳を澄ませる。[linebreak]日曜日の駅前には様々な音が溢れかえっていた。[%p]"
-msgstr "1700:She listened to the noise of the city. On Sundays, the area around the station was filled with many different sounds.[%p]"
+msgstr "1700:町のノイズに耳を澄ませる。[linebreak]日曜日の駅前には様々な音が溢れかえっていた。[%p]"
 
 msgid "1800:電車がホームに到着する轟音、タクシーのクラクション、人々が歩きながらお喋りする声。[%p]"
-msgstr "1800:Trains rattling into the station, taxi horns, people talking as they walked...[%p]"
+msgstr "1800:電車がホームに到着する轟音、タクシーのクラクション、人々が歩きながらお喋りする声。[%p]"
 
 msgid "1900:大型ビジョンやサインシティ店内から流れてくるＢＧＭ、エスカレーターの安全な乗り方を伝えるアナウンス音声……[%p]"
-msgstr "1900:Music from the big TVs and inside the shops at Sign City, announcements endlessly telling you how to safely ride an escalator...[%p]"
+msgstr "1900:大型ビジョンやサインシティ店内から流れてくるＢＧＭ、エスカレーターの安全な乗り方を伝えるアナウンス音声……[%p]"
 
 msgid "2000:音は途切れることがなく、ひとつの音が終わる前に別の音が出現し、それらが多層的に積み重なって不協和音のようなノイズを奏でていた。[%p]"
-msgstr "2000:The sounds never stopped. As soon as one ended, another took its place. All the different sounds layered together into a dissonant jumble of static.[%p]"
+msgstr "2000:音は途切れることがなく、ひとつの音が終わる前に別の音が出現し、それらが多層的に積み重なって不協和音のようなノイズを奏でていた。[%p]"
 
 msgid "2100:そのノイズの中から、セナは人々の声だけに注意を向けていく。[%p]"
-msgstr "2100:Sena focused on the noise, directing her attention to the people's voices.[%p]"
+msgstr "2100:そのノイズの中から、セナは人々の声だけに注意を向けていく。[%p]"
 
 msgid "2200:他の音は彼女の脳内で遮断され、[linebreak]言葉がクリアに聞こえるようになる。[%p]"
-msgstr "2200:Her brain shut out any other sound, so she could hear the words clearly.[%p]"
+msgstr "2200:他の音は彼女の脳内で遮断され、[linebreak]言葉がクリアに聞こえるようになる。[%p]"
 
 msgid "2300:「結局全部同じ犯人なのかな？」"
-msgstr "2300:“So, do you think they're all the same guy?”"
+msgstr "2300:「結局全部同じ犯人なのかな？」"
 
 msgid "2400:「違うってニュースで言ってたぞ。手口が違い過ぎるって」"
-msgstr "2400:“The news was saying they're not. Each one is too different.”"
+msgstr "2400:「違うってニュースで言ってたぞ。手口が違い過ぎるって」"
 
 msgid "2500:「っつーか、殺人が流行ったりしたら怖くね？」"
-msgstr "2500:“Man, wouldn't it be scary if committing murder became a hip thing to do?”"
+msgstr "2500:「っつーか、殺人が流行ったりしたら怖くね？」"
 
 msgid "2600:「なんとかっつーバンドの歌詞と一緒らしいじゃん。ま、どうせ後からこじつけて歌詞にしただけだろうけどよ」"
-msgstr "2600:“Supposedly some band talked about the murders in their lyrics. I'm sure the lyrics were written after they happened, though.”"
+msgstr "2600:「なんとかっつーバンドの歌詞と一緒らしいじゃん。ま、どうせ後からこじつけて歌詞にしただけだろうけどよ」"
 
 msgid "2700:「ばっか、おめーファンタズムなめんな。あれは預言だって」"
-msgstr "2700:“That's Phantasm you're talking about, moron. Their songs are prophecies.”"
+msgstr "2700:「ばっか、おめーファンタズムなめんな。あれは預言だって」"
 
 msgid "2800:「げ、お前あのバンド好きなん？\u3000マジきめえんだけど」"
-msgstr "2800:“Really? You like that band? They're creepy as hell.”"
+msgstr "2800:「げ、お前あのバンド好きなん？\u3000マジきめえんだけど」"
 
 msgid "2900:「きもくねーよ。あたしあの曲の歌詞にマジ共感したんだけど」"
-msgstr "2900:“They're not creepy. I love the lyrics to their songs.”"
+msgstr "2900:「きもくねーよ。あたしあの曲の歌詞にマジ共感したんだけど」"
 
 msgid "3000:「え、お、お前もあのバンドのファンなの？」"
-msgstr "3000:“Wait, you're a fan, too?”"
+msgstr "3000:「え、お、お前もあのバンドのファンなの？」"
 
 msgid "3100:「今どきファンタズム知らないなんてさ、マジ遅れてるよな」"
-msgstr "3100:“If you really don't know Phantasm, then you're seriously out of touch.”"
+msgstr "3100:「今どきファンタズム知らないなんてさ、マジ遅れてるよな」"
 
 msgid "3200:「んだよ、じゃあＣＤ貸せよ」"
-msgstr "3200:“Fine, lend me their CD, then.”"
+msgstr "3200:「んだよ、じゃあＣＤ貸せよ」"
 
 msgid "3300:「ほらこれ見てくれよ」"
-msgstr "3300:“Check this out.”"
+msgstr "3300:「ほらこれ見てくれよ」"
 
 msgid "3400:「げ、なにこれ超ウケるんだけど」"
-msgstr "3400:“What the hell? That's hilarious.”"
+msgstr "3400:「げ、なにこれ超ウケるんだけど」"
 
 msgid "3500:「この前買ってきた。『その目だれの目』Ｔシャツ」"
-msgstr "3500:“I bought it the other day. It's a “Whose eyes are those?” t-shirt.”"
+msgstr "3500:「この前買ってきた。『その目だれの目』Ｔシャツ」"
 
 msgid "3600:「これ普通に売ってたんだな。でもマジで着てるヤツ初めて見た。ぎゃはは」"
-msgstr "3600:“Wow, they're really selling these things. I've never seen anybody actually wear one before. Gyahaha!”"
+msgstr "3600:「これ普通に売ってたんだな。でもマジで着てるヤツ初めて見た。ぎゃはは」"
 
 msgid "3700:「けっこうクールじゃね？」"
-msgstr "3700:“Pretty cool, don't you think?”"
+msgstr "3700:「けっこうクールじゃね？」"
 
 msgid "3800:「超クール。俺にくれよ」"
-msgstr "3800:“Super-cool. Gimmie.”"
+msgstr "3800:「超クール。俺にくれよ」"
 
 msgid "3900:「ざけんな。自分で買ってこい」"
-msgstr "3900:“Screw you. Go buy your own.”"
+msgstr "3900:「ざけんな。自分で買ってこい」"
 
 msgid "4000:「でもあれじゃね？\u3000これってニュージェネの犯人に、殺してくださいってアピールしてるようなもんじゃん」"
-msgstr "4000:“Doesn't it scare you, though? You're basically asking the NewGen killer to come get you.”"
+msgstr "4000:「でもあれじゃね？\u3000これってニュージェネの犯人に、殺してくださいってアピールしてるようなもんじゃん」"
 
 msgid "4100:「俺の顔がニュースで全国に流れるかもな。俺もいよいよ全国デビューか。ぎゃはは」"
-msgstr "4100:“My face would be on the news all over Japan, then. I'd be famous! Gyahaha.”"
+msgstr "4100:「俺の顔がニュースで全国に流れるかもな。俺もいよいよ全国デビューか。ぎゃはは」"
 
 msgid "4200:「最近渋谷超コワくない？」"
-msgstr "4200:“Is it just me, or is Shibuya really scary lately?”"
+msgstr "4200:「最近渋谷超コワくない？」"
 
 msgid "4300:「怖い怖い〜。夜ひとりで歩けねーし」"
-msgstr "4300:“It sure is. I don't feel safe walking alone at night.”"
+msgstr "4300:「怖い怖い〜。夜ひとりで歩けねーし」"
 
 msgid "4400:「マジウザいんだけど、ニュージェネ」"
-msgstr "4400:“I wish this NewGen shit would just go away.”"
+msgstr "4400:「マジウザいんだけど、ニュージェネ」"
 
 msgid "4500:「犯人さっさと捕まってほしいよねー」"
-msgstr "4500:“I hope they catch the guy already.”"
+msgstr "4500:「犯人さっさと捕まってほしいよねー」"
 
 msgid "4600:「でも犯人オンナらしいよ」"
-msgstr "4600:“They say it's a girl, actually.”"
+msgstr "4600:「でも犯人オンナらしいよ」"
 
 msgid "4700:「えっ、マジマジマジ？\u3000なにそれすげーじゃん。ってゆーかマコ、犯人見たの！？」"
-msgstr "4700:“Huh? Really? That's crazy. Wait, Mako, did you see her?!”"
+msgstr "4700:「えっ、マジマジマジ？\u3000なにそれすげーじゃん。ってゆーかマコ、犯人見たの！？」"
 
 msgid "4800:「見てねーよ。見てたらとっくに殺されてんじゃん。ぎゃはは」"
-msgstr "4800:“Of course not. If I did, she would've killed me. Gyahaha!”"
+msgstr "4800:「見てねーよ。見てたらとっくに殺されてんじゃん。ぎゃはは」"
 
 msgid "4900:「なんかそーゆー噂があるらしいってだけ」"
-msgstr "4900:“That's just what the rumor says.”"
+msgstr "4900:「なんかそーゆー噂があるらしいってだけ」"
 
 msgid "5000:「じゃウチら殺される可能性低いんじゃない？\u3000同じオンナだし」"
-msgstr "5000:“So, it's not likely we'll get killed then, right? Since we're both girls.”"
+msgstr "5000:「じゃウチら殺される可能性低いんじゃない？\u3000同じオンナだし」"
 
 msgid "5100:「どうせならさ、くせーオジさんとかキモい男とかだけ殺してほしいよね」"
-msgstr "5100:“It'd be nice if she just killed creeps and stinky old men.”"
+msgstr "5100:「どうせならさ、くせーオジさんとかキモい男とかだけ殺してほしいよね」"
 
 msgid "5200:「もしそうならあたしマジ応援する〜」"
-msgstr "5200:“Yeah, I'd totally cheer her on.”"
+msgstr "5200:「もしそうならあたしマジ応援する〜」"
 
 msgid "5300:[name]セナ[line]「…………」[%p]"
-msgstr "5300:[name]セナ[line]…[%p]"
+msgstr "5300:[name]セナ[line]「…………」[%p]"
 
 msgid "5400:セナの口から、小さく舌打ちが漏れる。[%p]"
-msgstr "5400:Sena let out a little grunt.[%p]"
+msgstr "5400:セナの口から、小さく舌打ちが漏れる。[%p]"
 
 msgid "5500:彼女はすぐに耳を澄ませるのを中断した。[%p]"
-msgstr "5500:She stopped listening almost immediately.[%p]"
+msgstr "5500:彼女はすぐに耳を澄ませるのを中断した。[%p]"
 
 msgid "5600:いずれのノイズにも価値らしいものは見出せなかった。[linebreak]ノイズはしょせんノイズでしかない。[%p]"
-msgstr "5600:The noise offered her nothing useful. In the end, the noise was just noise.[%p]"
+msgstr "5600:いずれのノイズにも価値らしいものは見出せなかった。[linebreak]ノイズはしょせんノイズでしかない。[%p]"
 
 msgid "5700:[name]セナ[line]「この視線の感覚……気のせいか？」[%p]"
-msgstr "5700:[name]セナ[line]This sensation of being watched... Am I imagining it?[%p]"
+msgstr "5700:[name]セナ[line]「この視線の感覚……気のせいか？」[%p]"
 
 msgid "5800:もう一度だけ、セナは周囲を見回した。[%p]"
-msgstr "5800:Sena looked around one more time.[%p]"
+msgstr "5800:もう一度だけ、セナは周囲を見回した。[%p]"
 
 msgid "5900:背筋を冷たい指で撫でられたようなおぞましさを、彼女は先ほどから感じていた。[%p]"
-msgstr "5900:For a while now, she'd had this awful feeling, like a cold finger running down her spine.[%p]"
+msgstr "5900:背筋を冷たい指で撫でられたようなおぞましさを、彼女は先ほどから感じていた。[%p]"
 
 msgid "6000:何者かから投げかけられる“視線”。[%p]"
-msgstr "6000:Someone's gaze was upon her.[%p]"
+msgstr "6000:何者かから投げかけられる“視線”。[%p]"
 
 msgid "6100:だがその正体を探り当てることはできなかった。[%p]"
-msgstr "6100:But she couldn't find out who it was.[%p]"
+msgstr "6100:だがその正体を探り当てることはできなかった。[%p]"
 
 msgid "6200:セナはもたれかかっていた柱から身を離し――[%p]"
-msgstr "6200:Sena stepped away from the pillar she'd been leaning up against.[%p]"
+msgstr "6200:セナはもたれかかっていた柱から身を離し――[%p]"
 
 msgid "6300:それからふと思い出したかのように、手に残っていた棒アイスの棒をじっと眺めた。[%p]"
-msgstr "6300:And then, as if she'd just remembered she was holding it, she stared down at the popsicle stick in her hand.[%p]"
+msgstr "6300:それからふと思い出したかのように、手に残っていた棒アイスの棒をじっと眺めた。[%p]"
 
 msgid "6400:[name]セナ[line]「ハズレか」[%p]"
-msgstr "6400:[name]セナ[line]Not a winner, huh?[%p]"
+msgstr "6400:[name]セナ[line]「ハズレか」[%p]"
 
 msgid "6500:ますます不機嫌そうに眉間にしわを寄せると、足早に駅前の方へと向かって歩き出した。[%p]"
-msgstr "6500:She looked even more upset as she walked quickly towards the station.[%p]"
+msgstr "6500:ますます不機嫌そうに眉間にしわを寄せると、足早に駅前の方へと向かって歩き出した。[%p]"
 

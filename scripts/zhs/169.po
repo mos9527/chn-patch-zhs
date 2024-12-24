@@ -10,239 +10,239 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:七海が生きていることを知った後、医師が僕のところにやってきて簡単な質問をいくつかされた。僕が正常かどうかを調べるための質問だった。[%p]"
-msgstr "0:After I found out Nanami was alive, a doctor came and asked me some simple questions. The questions were to see if I was functioning well or not.[%p]"
+msgstr "0:七海が生きていることを知った後、医師が僕のところにやってきて簡単な質問をいくつかされた。僕が正常かどうかを調べるための質問だった。[%p]"
 
 msgid "100:僕は適当に受け答えしつつ、母さんが来る前に病院を出ようって決めた。[%p]"
-msgstr "100:I gave half-hearted answers as I decided to get out of the hospital before my mom came.[%p]"
+msgstr "100:僕は適当に受け答えしつつ、母さんが来る前に病院を出ようって決めた。[%p]"
 
 msgid "200:昨日、日本全国に醜態をさらした僕が、どの面を下げて家族に顔を合わせろって言うんだ。[%p]"
-msgstr "200:I'd just embarrassed myself on national TV. How was I supposed to face my family?[%p]"
+msgstr "200:昨日、日本全国に醜態をさらした僕が、どの面を下げて家族に顔を合わせろって言うんだ。[%p]"
 
 msgid "300:そ、それに……もし七海まで来たら、きっと僕は嬉しさのあまり、また号泣しちゃうだろう。[%p]"
-msgstr "300:A-And... if Nanami came, I was sure to start crying from sheer joy.[%p]"
+msgstr "300:そ、それに……もし七海まで来たら、きっと僕は嬉しさのあまり、また号泣しちゃうだろう。[%p]"
 
 msgid "400:そしてそんな僕の気持ちも知らないで、七海は“心配かけないでよね、バカ！”なんて真顔で怒鳴ってくるだろう。[%p]"
-msgstr "400:And then Nanami would say, “Don't make me worry like that, jerk!” She'd be totally serious, too. And have no idea what I'd been through.[%p]"
+msgstr "400:そしてそんな僕の気持ちも知らないで、七海は“心配かけないでよね、バカ！”なんて真顔で怒鳴ってくるだろう。[%p]"
 
 msgid "500:その場面を想像したら、恥ずかしさのあまり悶絶しちゃったよ。[linebreak]というわけで、そんな状況になる前に戦略的撤退をすることにしたんだ。[%p]"
-msgstr "500:Imagining the embarrassment made me feel almost physical pain. I decided to make a strategic retreat before it actually happened.[%p]"
+msgstr "500:その場面を想像したら、恥ずかしさのあまり悶絶しちゃったよ。[linebreak]というわけで、そんな状況になる前に戦略的撤退をすることにしたんだ。[%p]"
 
 msgid "600:クソまずい朝食が出されてそれに少し手を付けた後、こっそりと病室を抜け出した。[%p]"
-msgstr "600:After eating a small amount of the disgusting breakfast they brought me, I slipped out of my room.[%p]"
+msgstr "600:クソまずい朝食が出されてそれに少し手を付けた後、こっそりと病室を抜け出した。[%p]"
 
 msgid "700:１階まで降りて、ロビーを通り抜ける。[%p]"
-msgstr "700:I went down to the first floor and through the lobby.[%p]"
+msgstr "700:１階まで降りて、ロビーを通り抜ける。[%p]"
 
 msgid "800:まだ診療時間は始まっていないから、いつも老人でごった返しているこの外来ロビーも、今は閑散としていた。[%p]"
-msgstr "800:Since the hospital wasn't open, the outpatient hall wasn't packed with seniors like it usually was.[%p]"
+msgstr "800:まだ診療時間は始まっていないから、いつも老人でごった返しているこの外来ロビーも、今は閑散としていた。[%p]"
 
 msgid "900:正面の出入り口から堂々と外に出た。[linebreak]幸いにして、自動ドアはちゃんと開いた。[%p]"
-msgstr "900:When I got to the front door, I walked right out it. Fortunately, the automatic door opened just like it was supposed to.[%p]"
+msgstr "900:正面の出入り口から堂々と外に出た。[linebreak]幸いにして、自動ドアはちゃんと開いた。[%p]"
 
 msgid "1000:勝手に病院から抜け出したら、医者や看護師さんに怒られるかもしれないけど、ほとぼりが冷めるまでこの病院には来なければいいだけの話だし。[%p]"
-msgstr "1000:Leaving the hospital might get the doctors and nurses mad at me, but I could always go back here once everything had calmed down.[%p]"
+msgstr "1000:勝手に病院から抜け出したら、医者や看護師さんに怒られるかもしれないけど、ほとぼりが冷めるまでこの病院には来なければいいだけの話だし。[%p]"
 
 msgid "1100:入院費に関しては“後で払っておいてくれ”っていうメモを母さん宛てに残してきたから、大丈夫だよね。[%p]"
-msgstr "1100:I'd left a note for my mom telling her to pay my bill. That was good enough, right?[%p]"
+msgstr "1100:入院費に関しては“後で払っておいてくれ”っていうメモを母さん宛てに残してきたから、大丈夫だよね。[%p]"
 
 msgid "1200:病院に一泊したとはいえ、肉体的にはどこにも問題はなかったし、精神的にも七海の無事が分かったことで、鬱な気分はだいぶ消えてくれた。[%p]"
-msgstr "1200:I'd spent the night in the hospital, but physically there was nothing wrong with me. And mentally, knowing Nanami was safe had driven a lot of my depression away.[%p]"
+msgstr "1200:病院に一泊したとはいえ、肉体的にはどこにも問題はなかったし、精神的にも七海の無事が分かったことで、鬱な気分はだいぶ消えてくれた。[%p]"
 
 msgid "1300:途中で『将軍』や優愛が待ち伏せしていないかどうか注意を払いつつ、僕は足早にベースへ向かった。[%p]"
-msgstr "1300:I headed back to the Base at top speed, being careful to make sure Yua and Shogun weren't waiting in ambush for me.[%p]"
+msgstr "1300:途中で『将軍』や優愛が待ち伏せしていないかどうか注意を払いつつ、僕は足早にベースへ向かった。[%p]"
 
 msgid "1400:[name]拓巳[line]「ふう……」[%p]"
-msgstr "1400:[name]拓巳[line]Whew...[%p]"
+msgstr "1400:[name]拓巳[line]「ふう……」[%p]"
 
 msgid "1500:戻ってきた……。[%p]"
-msgstr "1500:I was back.[%p]"
+msgstr "1500:戻ってきた……。[%p]"
 
 msgid "1600:昨日の夜、ここを出たときとは精神状態がまるで違う。[%p]"
-msgstr "1600:My mental state was completely different than it was when I'd left.[%p]"
+msgstr "1600:昨日の夜、ここを出たときとは精神状態がまるで違う。[%p]"
 
 msgid "1700:もちろん今は清々しい気分だ。むしろ昨日の自分に言ってやりたいね。[%p]"
-msgstr "1700:Now I felt great, of course. If anything, I wished I could speak to the me who'd left here yesterday.[%p]"
+msgstr "1700:もちろん今は清々しい気分だ。むしろ昨日の自分に言ってやりたいね。[%p]"
 
 msgid "1800:お前、釣られすぎm9(^Д^)ﾌﾟｷﾞｬｰ[linebreak]そんなに必死にならなくても七海は大丈夫っすからｗｗｗ\u3000ふひひｗｗ[%p]"
-msgstr "1800:“You're about to get trolled! m9(^Д^)” “You don't need to worry so much, Nanami's fine lolol fweheheh”[%p]"
+msgstr "1800:お前、釣られすぎm9(^Д^)ﾌﾟｷﾞｬｰ[linebreak]そんなに必死にならなくても七海は大丈夫っすからｗｗｗ\u3000ふひひｗｗ[%p]"
 
 msgid "1900:――みたいな。[%p]"
-msgstr "1900:—I'd say something like that.[%p]"
+msgstr "1900:――みたいな。[%p]"
 
 msgid "2000:でも、昨日はホントに辛かった。[linebreak]なにもかもが辛かった。[%p]"
-msgstr "2000:Yesterday had been really awful. Everything had been awful.[%p]"
+msgstr "2000:でも、昨日はホントに辛かった。[linebreak]なにもかもが辛かった。[%p]"
 
 msgid "2100:朝から妙な電話がかかってきて。[linebreak]地震があって。[%p]"
-msgstr "2100:It started with that weird call in the morning. Then the earthquake.[%p]"
+msgstr "2100:朝から妙な電話がかかってきて。[linebreak]地震があって。[%p]"
 
 msgid "2200:ハードディスクのデータが消えて。[linebreak]あやせの自殺未遂を目の前で目撃する羽目になって。[%p]"
-msgstr "2200:Then I'd lost the data on my hard drive. I'd had to witness Ayase's suicide attempt up close.[%p]"
+msgstr "2200:ハードディスクのデータが消えて。[linebreak]あやせの自殺未遂を目の前で目撃する羽目になって。[%p]"
 
 msgid "2300:『将軍』がメールしてくるし。[linebreak]切断された手首が送られてくるし――[%p]"
-msgstr "2300:And then there was that email from Shogun. And he sent me a severed hand.[%p]"
+msgstr "2300:『将軍』がメールしてくるし。[linebreak]切断された手首が送られてくるし――[%p]"
 
 msgid "2400:切断された、手首……。[%p]"
-msgstr "2400:A severed hand...[%p]"
+msgstr "2400:切断された、手首……。[%p]"
 
 msgid "2500:浮かれた気分は一瞬で吹き飛んだ。[%p]"
-msgstr "2500:The joy I was feeling faded instantly.[%p]"
+msgstr "2500:浮かれた気分は一瞬で吹き飛んだ。[%p]"
 
 msgid "2600:僕は、ゴクリと唾を呑み込んで、冷蔵庫へと視線を向けた。[%p]"
-msgstr "2600:I gulped and turned toward the fridge.[%p]"
+msgstr "2600:僕は、ゴクリと唾を呑み込んで、冷蔵庫へと視線を向けた。[%p]"
 
 msgid "2700:――そこに、あの手首が入ってる。[%p]"
-msgstr "2700:The hand was still inside.[%p]"
+msgstr "2700:――そこに、あの手首が入ってる。[%p]"
 
 msgid "2800:昨日、ここを出る前、混乱する頭で考えた末に、手首はとりあえず冷蔵庫の中にしまったんだ。[%p]"
-msgstr "2800:Before I'd left, my head had been a total mess. The best idea I could come up with was to put it in the refrigerator.[%p]"
+msgstr "2800:昨日、ここを出る前、混乱する頭で考えた末に、手首はとりあえず冷蔵庫の中にしまったんだ。[%p]"
 
 msgid "2900:出しっぱなしにしておいたら、腐っちゃうかもしれないし。[linebreak]血の匂いがきつかったっていうのもあるし。[%p]"
-msgstr "2900:It might rot if I left it out. And the blood smelled really bad, too.[%p]"
+msgstr "2900:出しっぱなしにしておいたら、腐っちゃうかもしれないし。[linebreak]血の匂いがきつかったっていうのもあるし。[%p]"
 
 msgid "3000:よくＳＦのアニメや映画なんかで、冷凍保存すれば人は何百年も仮死状態でいられるみたいなネタがあるじゃないか。[%p]"
-msgstr "3000:There were lots of sci-fi anime and movies where people lived for hundreds of years in cold sleep, right?[%p]"
+msgstr "3000:よくＳＦのアニメや映画なんかで、冷凍保存すれば人は何百年も仮死状態でいられるみたいなネタがあるじゃないか。[%p]"
 
 msgid "3100:要するにそれと同じような発想というか。[%p]"
-msgstr "3100:It was kind of the same as that.[%p]"
+msgstr "3100:要するにそれと同じような発想というか。[%p]"
 
 msgid "3200:七海が無事だったときに、腕を少しでも新鮮な状態にしておけば、もしかしたら手術で繋げることができるんじゃないかとか、昨日は本気で考えていたんだ。[%p]"
-msgstr "3200:Yesterday, I'd been really thinking that when Nanami was safe, if I'd kept her hand in good condition, maybe they could do an operation and put it back on.[%p]"
+msgstr "3200:七海が無事だったときに、腕を少しでも新鮮な状態にしておけば、もしかしたら手術で繋げることができるんじゃないかとか、昨日は本気で考えていたんだ。[%p]"
 
 msgid "3300:[name]拓巳[line]「…………」[%p]"
-msgstr "3300:[name]拓巳[line]...[%p]"
+msgstr "3300:[name]拓巳[line]「…………」[%p]"
 
 msgid "3400:もし、あれが七海の手首じゃないなら。[linebreak]いったい、誰のものなんだろう……。[%p]"
-msgstr "3400:If that wasn't Nanami's hand... Then whose was it?[%p]"
+msgstr "3400:もし、あれが七海の手首じゃないなら。[linebreak]いったい、誰のものなんだろう……。[%p]"
 
 msgid "3500:それにケータイやバングルのことはどう説明する？[%p]"
-msgstr "3500:And how to explain the bangle and the phone?[%p]"
+msgstr "3500:それにケータイやバングルのことはどう説明する？[%p]"
 
 msgid "3600:僕の見間違いじゃなければ、あれは確かに七海のものだった。[%p]"
-msgstr "3600:If I wasn't mistaken, those both belonged to Nanami.[%p]"
+msgstr "3600:僕の見間違いじゃなければ、あれは確かに七海のものだった。[%p]"
 
 msgid "3700:七海に電話をかけたらあの手首が握っていたケータイに繋がったし。[%p]"
-msgstr "3700:When I'd called Nanami's number, that phone had rung.[%p]"
+msgstr "3700:七海に電話をかけたらあの手首が握っていたケータイに繋がったし。[%p]"
 
 msgid "3800:それとも、そういうところも全部含めて、『将軍』の罠だったのかな。[%p]"
-msgstr "3800:Or maybe that was all part of Shogun's plan.[%p]"
+msgstr "3800:それとも、そういうところも全部含めて、『将軍』の罠だったのかな。[%p]"
 
 msgid "3900:あそこまで完璧に、七海の腕を偽装することなんて、できるのかな……。[%p]"
-msgstr "3900:Was it really possible to make such a perfect copy of her hand, though?[%p]"
+msgstr "3900:あそこまで完璧に、七海の腕を偽装することなんて、できるのかな……。[%p]"
 
 msgid "4000:[name]拓巳[line]「もう一度、た、確かめて、みるべき、かも……」[%p]"
-msgstr "4000:[name]拓巳[line]Maybe I should... take another look at it.[%p]"
+msgstr "4000:[name]拓巳[line]「もう一度、た、確かめて、みるべき、かも……」[%p]"
 
 msgid "4100:ホントはすごくイヤだけど。[%p]"
-msgstr "4100:I really didn't want to, though.[%p]"
+msgstr "4100:ホントはすごくイヤだけど。[%p]"
 
 msgid "4200:人の手首なんて、気持ち悪い。思い出すだけで吐きそうになる。[linebreak]たとえそれが七海のものだったとしても、だ。[%p]"
-msgstr "4200:A severed hand was just disgusting. Just imagining it made me want to throw up. Even if it was Nanami's.[%p]"
+msgstr "4200:人の手首なんて、気持ち悪い。思い出すだけで吐きそうになる。[linebreak]たとえそれが七海のものだったとしても、だ。[%p]"
 
 msgid "4300:でも、だからっていつまでも冷蔵庫の中に入れておくわけにはいかない。このままじゃコーラを冷やすことだってできない。[%p]"
-msgstr "4300:But I couldn't keep it in the fridge forever. I'd have nowhere to chill my soda.[%p]"
+msgstr "4300:でも、だからっていつまでも冷蔵庫の中に入れておくわけにはいかない。このままじゃコーラを冷やすことだってできない。[%p]"
 
 msgid "4400:警察に回収してもらおうかとも一瞬思ったけど、よく考えたらあいつらは僕をニュージェネ事件の犯人だって疑ってる。[%p]"
-msgstr "4400:I thought about getting the cops to come get it, but then I remembered they thought I was the NewGen killer.[%p]"
+msgstr "4400:警察に回収してもらおうかとも一瞬思ったけど、よく考えたらあいつらは僕をニュージェネ事件の犯人だって疑ってる。[%p]"
 
 msgid "4500:その状況で“人の切断された手首を引き取ってください”なんて１１０番したら、それこそ自殺行為だ。[%p]"
-msgstr "4500:It would be suicide to call 110 and tell the operator, “Can you please come get this severed hand?”[%p]"
+msgstr "4500:その状況で“人の切断された手首を引き取ってください”なんて１１０番したら、それこそ自殺行為だ。[%p]"
 
 msgid "4600:どうしよう。[linebreak]捨てるべきかな。[%p]"
-msgstr "4600:What should I do? Should I throw it away?[%p]"
+msgstr "4600:どうしよう。[linebreak]捨てるべきかな。[%p]"
 
 msgid "4700:でももし仮に七海の腕だったら、捨てるのはまずい気がするし……。[%p]"
-msgstr "4700:But if it was Nanami's, it would be a bad idea to throw it away, right?[%p]"
+msgstr "4700:でももし仮に七海の腕だったら、捨てるのはまずい気がするし……。[%p]"
 
 msgid "4800:そもそも人の手首をゴミとして捨てていいの？[linebreak]捨てるとしたら燃えるゴミ？\u3000燃えないゴミ？[%p]"
-msgstr "4800:Could you even put severed human hands in the garbage? Was that against the rules? If you could, would it be burnable garbage? Non-burnable garbage?[%p]"
+msgstr "4800:そもそも人の手首をゴミとして捨てていいの？[linebreak]捨てるとしたら燃えるゴミ？\u3000燃えないゴミ？[%p]"
 
 msgid "4900:僕は頭を掻きむしった。[%p]"
-msgstr "4900:I scratched at my head, hard.[%p]"
+msgstr "4900:僕は頭を掻きむしった。[%p]"
 
 msgid "5000:考えててもしょうがない。[%p]"
-msgstr "5000:There was no point in thinking about it.[%p]"
+msgstr "5000:考えててもしょうがない。[%p]"
 
 msgid "5100:とりあえず、手首にはめられていたバングルと、握っていたケータイだけ、もう一度ちゃんと調べよう。[%p]"
-msgstr "5100:For now, I could start by taking another look at the bangle on the wrist and the phone in the hand.[%p]"
+msgstr "5100:とりあえず、手首にはめられていたバングルと、握っていたケータイだけ、もう一度ちゃんと調べよう。[%p]"
 
 msgid "5200:あれが七海のものなのか、違うのか。[%p]"
-msgstr "5200:I could try and see if they were Nanami's or not.[%p]"
+msgstr "5200:あれが七海のものなのか、違うのか。[%p]"
 
 msgid "5300:僕は冷蔵庫の前に立ち、取っ手を握りしめた。[linebreak]目を閉じ、二度、三度と深呼吸をする。[%p]"
-msgstr "5300:I stood in front of the fridge and grabbed the handle. I closed my eyes and took a few deep breaths.[%p]"
+msgstr "5300:僕は冷蔵庫の前に立ち、取っ手を握りしめた。[linebreak]目を閉じ、二度、三度と深呼吸をする。[%p]"
 
 msgid "5400:やっぱり、梨深を呼んで代わりに調べてもらおうか、という誘惑が頭をもたげる。[linebreak]でもすぐにその誘惑をかき消した。[%p]"
-msgstr "5400:The idea of having Rimi come and open it for me crossed my mind. It was tempting. But I quickly discarded it.[%p]"
+msgstr "5400:やっぱり、梨深を呼んで代わりに調べてもらおうか、という誘惑が頭をもたげる。[linebreak]でもすぐにその誘惑をかき消した。[%p]"
 
 msgid "5500:いくら梨深が僕の味方でも、さすがに冷蔵庫に人の手首が入ってたら、ドン引きだ。ヘタをすると愛想を尽かされて、警察に突き出されるかもしれないし。[%p]"
-msgstr "5500:Even if Rimi was on my side, a human hand in a fridge would freak her out. She might decide to abandon me and turn me over to the police.[%p]"
+msgstr "5500:いくら梨深が僕の味方でも、さすがに冷蔵庫に人の手首が入ってたら、ドン引きだ。ヘタをすると愛想を尽かされて、警察に突き出されるかもしれないし。[%p]"
 
 msgid "5600:これは、僕ひとりでなんとかするしかないんだ……。[%p]"
-msgstr "5600:I had to deal with this myself.[%p]"
+msgstr "5600:これは、僕ひとりでなんとかするしかないんだ……。[%p]"
 
 msgid "5700:[name]拓巳[line]「うう、くそぅ……」[%p]"
-msgstr "5700:[name]拓巳[line]Ugh, damn it...[%p]"
+msgstr "5700:[name]拓巳[line]「うう、くそぅ……」[%p]"
 
 msgid "5800:歯を食いしばる。[linebreak]さらに二度、深呼吸。[%p]"
-msgstr "5800:I gritted my teeth. I took two more deep breaths.[%p]"
+msgstr "5800:歯を食いしばる。[linebreak]さらに二度、深呼吸。[%p]"
 
 msgid "5900:そして、意を決して取っ手を引いた。[%p]"
-msgstr "5900:And then... I pulled hard on the handle.[%p]"
+msgstr "5900:そして、意を決して取っ手を引いた。[%p]"
 
 msgid "6000:[name]拓巳[line]「…………あ……れ？」[%p]"
-msgstr "6000:[name]拓巳[line]Huh?[%p]"
+msgstr "6000:[name]拓巳[line]「…………あ……れ？」[%p]"
 
 msgid "6100:ない。[linebreak]見当たらない。[%p]"
-msgstr "6100:It wasn't there. I didn't see it at all[%p]"
+msgstr "6100:ない。[linebreak]見当たらない。[%p]"
 
 msgid "6200:昨日、確かにこの中に入れたはずの、手首。[linebreak]アルミホイルに包まれた、手首。[%p]"
-msgstr "6200:I remembered putting the hand in there yesterday. It was wrapped in aluminum foil.[%p]"
+msgstr "6200:昨日、確かにこの中に入れたはずの、手首。[linebreak]アルミホイルに包まれた、手首。[%p]"
 
 msgid "6300:一番上の段に、置いたはずなんだ。[%p]"
-msgstr "6300:I'd put it on the top shelf.[%p]"
+msgstr "6300:一番上の段に、置いたはずなんだ。[%p]"
 
 msgid "6400:なのに、影も形もない。[%p]"
-msgstr "6400:But there was no sign of it.[%p]"
+msgstr "6400:なのに、影も形もない。[%p]"
 
 msgid "6500:冷蔵庫に入っているのは、コーラのペットボトルが何本かと、腐りかけたみかんが数個。[linebreak]それだけ。[%p]"
-msgstr "6500:The only things in the fridge were a few soda bottles and a few rotting oranges. Nothing more.[%p]"
+msgstr "6500:冷蔵庫に入っているのは、コーラのペットボトルが何本かと、腐りかけたみかんが数個。[linebreak]それだけ。[%p]"
 
 msgid "6600:[name]拓巳[line]「消えた……。なんで……」[%p]"
-msgstr "6600:[name]拓巳[line]It's gone. How...?[%p]"
+msgstr "6600:[name]拓巳[line]「消えた……。なんで……」[%p]"
 
 msgid "6700:忽然と、消失していた。[%p]"
-msgstr "6700:It had just disappeared.[%p]"
+msgstr "6700:忽然と、消失していた。[%p]"
 
 msgid "6800:しゃがみ込んで、冷蔵庫の奥までちゃんとのぞき込んでみた。でもやっぱりない。[%p]"
-msgstr "6800:I crouched down and checked the back, too. It wasn't there.[%p]"
+msgstr "6800:しゃがみ込んで、冷蔵庫の奥までちゃんとのぞき込んでみた。でもやっぱりない。[%p]"
 
 msgid "6900:そもそも中には大したものが入ってなくてほとんど空だから、見落とすなんてことはあり得ない。[%p]"
-msgstr "6900:There wasn't that much else in the fridge. There was no way I could miss it.[%p]"
+msgstr "6900:そもそも中には大したものが入ってなくてほとんど空だから、見落とすなんてことはあり得ない。[%p]"
 
 msgid "7000:[name]拓巳[line]「……昨日、ここに入れたよなあ……」[%p]"
-msgstr "7000:[name]拓巳[line]I put it in here yesterday, though.[%p]"
+msgstr "7000:[name]拓巳[line]「……昨日、ここに入れたよなあ……」[%p]"
 
 msgid "7100:それともそう思い込んでいただけで、実際にはほったらかしにしたままだったりして。[%p]"
-msgstr "7100:Or maybe I was only telling myself I'd done that, and I'd just left it where it was the whole time?[%p]"
+msgstr "7100:それともそう思い込んでいただけで、実際にはほったらかしにしたままだったりして。[%p]"
 
 msgid "7200:冷蔵庫を閉めて、ゴミが散乱している部屋の中を見回す。[%p]"
-msgstr "7200:I closed the fridge and looked around my garbage-filled room.[%p]"
+msgstr "7200:冷蔵庫を閉めて、ゴミが散乱している部屋の中を見回す。[%p]"
 
 msgid "7300:[name]拓巳[line]「ダンボールも……ない……」[%p]"
-msgstr "7300:[name]拓巳[line]The box is gone, too.[%p]"
+msgstr "7300:[name]拓巳[line]「ダンボールも……ない……」[%p]"
 
 msgid "7400:手首が入っていた、大きめのダンボール。[%p]"
-msgstr "7400:The big box with the hand inside...[%p]"
+msgstr "7400:手首が入っていた、大きめのダンボール。[%p]"
 
 msgid "7500:昨日、あれはどうしたんだっけ……。[linebreak]そのまま部屋の隅に放り出しておいたような気がするけど……。[%p]"
-msgstr "7500:What had I done with it? I thought I remembered throwing it into a corner.[%p]"
+msgstr "7500:昨日、あれはどうしたんだっけ……。[linebreak]そのまま部屋の隅に放り出しておいたような気がするけど……。[%p]"
 
 msgid "7600:とにかく昨日の夜の記憶はあまりはっきりしない。[%p]"
-msgstr "7600:My memories of last night weren't clear at all.[%p]"
+msgstr "7600:とにかく昨日の夜の記憶はあまりはっきりしない。[%p]"
 
 msgid "7700:昨日は僕の脳みそのキャパを超えるくらいたくさんイベントがあったから。そのどれもが衝撃的だったっていうこともあって、ずっと混乱しっぱなしだったせいだ。[%p]"
-msgstr "7700:So much had happened yesterday that it'd overwhelmed my brain. Everything had been so crazy that I hadn't had time to think.[%p]"
+msgstr "7700:昨日は僕の脳みそのキャパを超えるくらいたくさんイベントがあったから。そのどれもが衝撃的だったっていうこともあって、ずっと混乱しっぱなしだったせいだ。[%p]"
 
 msgid "7800:落ち着け。[linebreak]冷静になって、整理してみろ。[linebreak]昨日はあったはずの手首が消えた理由を、考えよう。[%p]"
-msgstr "7800:Calm down. Think. Get things straight in your head. Try to figure out why the hand that was there yesterday suddenly vanished.[%p]"
+msgstr "7800:落ち着け。[linebreak]冷静になって、整理してみろ。[linebreak]昨日はあったはずの手首が消えた理由を、考えよう。[%p]"
 

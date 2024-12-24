@@ -10,32 +10,32 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]梨深[line]「あの空は――」[%p]"
-msgstr "0:[name]梨深[line]Why is that sky...[%p]"
+msgstr "0:[name]梨深[line]「あの空は――」[%p]"
 
 msgid "100:[name]梨深[line]「どうして、あんなに泣きたくなるくらい青いのかな？」[%p]"
-msgstr "100:[name]梨深[line]so blue, like it makes you want to cry?[%p]"
+msgstr "100:[name]梨深[line]「どうして、あんなに泣きたくなるくらい青いのかな？」[%p]"
 
 msgid "200:――それを望んだから。[%p]"
-msgstr "200:—Because that's what I wished for.[%p]"
+msgstr "200:――それを望んだから。[%p]"
 
 msgid "300:[name]梨深[line]「あたしは、望んでない……」[%p]"
-msgstr "300:[name]梨深[line]I didn't wish for it.[%p]"
+msgstr "300:[name]梨深[line]「あたしは、望んでない……」[%p]"
 
 msgid "400:――僕が、望んだんだ。[%p]"
-msgstr "400:—I did.[%p]"
+msgstr "400:――僕が、望んだんだ。[%p]"
 
 msgid "500:――ここは、君の心象世界であると同時に、僕の心象世界でもあるから。[%p]"
-msgstr "500:—This is your mental world, but it's mine, too.[%p]"
+msgstr "500:――ここは、君の心象世界であると同時に、僕の心象世界でもあるから。[%p]"
 
 msgid "600:[name]梨深[line]「……ねえ」[%p]"
-msgstr "600:[name]梨深[line]Hey...[%p]"
+msgstr "600:[name]梨深[line]「……ねえ」[%p]"
 
 msgid "700:[name]梨深[line]「あの空は、どこにあるの？」[%p]"
-msgstr "700:[name]梨深[line]Where can I find that sky?[%p]"
+msgstr "700:[name]梨深[line]「あの空は、どこにあるの？」[%p]"
 
 msgid "800:――君が、望めば、どこにでも。[%p]"
-msgstr "800:—Anywhere, if you wish for it.[%p]"
+msgstr "800:――君が、望めば、どこにでも。[%p]"
 
 msgid "900:[name]梨深[line]「望んで、いいの……？」[%p]"
-msgstr "900:[name]梨深[line]Is it okay... for me to wish?[%p]"
+msgstr "900:[name]梨深[line]「望んで、いいの……？」[%p]"
 

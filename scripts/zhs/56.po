@@ -10,41 +10,41 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]拓巳[line]「なにも見たくない」[%p]"
-msgstr "0:[name]拓巳[line]I don't want to see anything.[%p]"
+msgstr "0:[name]拓巳[line]「なにも見たくない」[%p]"
 
 msgid "100:[name]拓巳[line]「なにも聞きたくない」[%p]"
-msgstr "100:[name]拓巳[line]I don't want to hear anything.[%p]"
+msgstr "100:[name]拓巳[line]「なにも聞きたくない」[%p]"
 
 msgid "200:[name]拓巳[line]「時間は一定じゃない」[%p]"
-msgstr "200:[name]拓巳[line]Time isn't constant.[%p]"
+msgstr "200:[name]拓巳[line]「時間は一定じゃない」[%p]"
 
 msgid "300:[name]拓巳[line]「記憶には矛盾がある」[%p]"
-msgstr "300:[name]拓巳[line]Memories can contradict each other.[%p]"
+msgstr "300:[name]拓巳[line]「記憶には矛盾がある」[%p]"
 
 msgid "400:[name]拓巳[line]「視界にはエラーがある」[%p]"
-msgstr "400:[name]拓巳[line]There are errors in your vision.[%p]"
+msgstr "400:[name]拓巳[line]「視界にはエラーがある」[%p]"
 
 msgid "500:[name]拓巳[line]「地球は回ってない」[%p]"
-msgstr "500:[name]拓巳[line]The Earth doesn't spin.[%p]"
+msgstr "500:[name]拓巳[line]「地球は回ってない」[%p]"
 
 msgid "600:[name]拓巳[line]「これはきっとゲームなんだ」[%p]"
-msgstr "600:[name]拓巳[line]This is all just a game.[%p]"
+msgstr "600:[name]拓巳[line]「これはきっとゲームなんだ」[%p]"
 
 msgid "700:ＰＣの電源を入れながら、魚肉ソーセージを頬張る。[%p]"
-msgstr "700:I turned on my computer and took a bite out of a fish sausage.[%p]"
+msgstr "700:ＰＣの電源を入れながら、魚肉ソーセージを頬張る。[%p]"
 
 msgid "800:[name]拓巳[line]「僕は……僕じゃない」[%p]"
-msgstr "800:[name]拓巳[line]I'm... not me.[%p]"
+msgstr "800:[name]拓巳[line]「僕は……僕じゃない」[%p]"
 
 msgid "900:やがてモニタに星来たんの壁紙が表示される。[%p]"
-msgstr "900:The Seira-tan wallpaper came up on the monitor.[%p]"
+msgstr "900:やがてモニタに星来たんの壁紙が表示される。[%p]"
 
 msgid "1000:[name]拓巳[line]「僕がいるべき世界は、」[%p]"
-msgstr "1000:[name]拓巳[line]The world where I belong...[%p]"
+msgstr "1000:[name]拓巳[line]「僕がいるべき世界は、」[%p]"
 
 msgid "1100:僕は迷うことなく、真っ先にエンスーを起動させた。[%p]"
-msgstr "1100:I booted up ESO without the slightest hesitation.[%p]"
+msgstr "1100:僕は迷うことなく、真っ先にエンスーを起動させた。[%p]"
 
 msgid "1200:[name]拓巳[line]「ここじゃないんだ……」[%p]"
-msgstr "1200:[name]拓巳[line]... isn't this one.[%p]"
+msgstr "1200:[name]拓巳[line]「ここじゃないんだ……」[%p]"
 

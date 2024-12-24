@@ -16,137 +16,137 @@ msgid "100:梨深ルート無し"
 msgstr "100:梨深ルート無し"
 
 msgid "200:[name]拓巳[line]「あふぁ……そろそろ寝るかぁ……」[%p]"
-msgstr "200:[name]拓巳[line]Whew... I think it's time to sleep.[%p]"
+msgstr "200:[name]拓巳[line]「あふぁ……そろそろ寝るかぁ……」[%p]"
 
 msgid "300:あくびを噛み殺してＰＣの時計を見ると、午前５時を表示していた。[%p]"
-msgstr "300:I bit back a yawn and looked over at my PC's block. It was showing 5:00 AM.[%p]"
+msgstr "300:あくびを噛み殺してＰＣの時計を見ると、午前５時を表示していた。[%p]"
 
 msgid "400:今日もエンスーで延々と狩りを続けたけど、お目当てのレアアイテムは結局ドロップしなかった。[%p]"
-msgstr "400:I'd spent the whole night grinding in ESO and hadn't gotten the rare item I wanted.[%p]"
+msgstr "400:今日もエンスーで延々と狩りを続けたけど、お目当てのレアアイテムは結局ドロップしなかった。[%p]"
 
 msgid "500:８時間ぐらいぶっ通しでやってたのに成果なしか……。[linebreak]ま、よくあることだけど。[%p]"
-msgstr "500:Eight hours of work and nothing. Well, it happened a lot.[%p]"
+msgstr "500:８時間ぐらいぶっ通しでやってたのに成果なしか……。[linebreak]ま、よくあることだけど。[%p]"
 
 msgid "600:ちらりと、ＰＣデスクの横に目をやる。[%p]"
-msgstr "600:I looked over to the side of my computer desk.[%p]"
+msgstr "600:ちらりと、ＰＣデスクの横に目をやる。[%p]"
 
 msgid "700:そこには昨日買ったディソードが立て掛けてあった。いつでも手に取れる範囲に置いてある。[%p]"
-msgstr "700:The Di-Sword I'd bought yesterday was still there. It was close enough that I could grab it at any time.[%p]"
+msgstr "700:そこには昨日買ったディソードが立て掛けてあった。いつでも手に取れる範囲に置いてある。[%p]"
 
 msgid "800:ちなみに、この剣はまったく光らなかった。そのうち変形とかしてセナが持っていたようなカッコイイ形になってくれるのを期待してるんだけど……。[%p]"
-msgstr "800:It hadn't glowed at all, for what it was worth. I was hoping that at some point it would transform into an awesome weapon like the one Sena had.[%p]"
+msgstr "800:ちなみに、この剣はまったく光らなかった。そのうち変形とかしてセナが持っていたようなカッコイイ形になってくれるのを期待してるんだけど……。[%p]"
 
 msgid "900:モニタ内では、ちょうどグリムが使っているアバターがレベルアップしたところだった。僕のナイトハルトはレベルマックスだからこれ以上アップしない。[%p]"
-msgstr "900:On the monitor, Grimm's avatar had just leveled up. My KnightHeart was max level, so he wouldn't level up again.[%p]"
+msgstr "900:モニタ内では、ちょうどグリムが使っているアバターがレベルアップしたところだった。僕のナイトハルトはレベルマックスだからこれ以上アップしない。[%p]"
 
 msgid "1000:そろそろリーゼロッテに続く３人目のキャラを作ろうかな、なんて眠い目をこすりながら思う。[%p]"
-msgstr "1000:As I rubbed my tired eyes, I wondered if it was time to make a third character after Liselotte.[%p]"
+msgstr "1000:そろそろリーゼロッテに続く３人目のキャラを作ろうかな、なんて眠い目をこすりながら思う。[%p]"
 
 msgid "1100:経験値……か。[%p]"
-msgstr "1100:I found myself thinking about experience points.[%p]"
+msgstr "1100:経験値……か。[%p]"
 
 msgid "1200:ＲＰＧではおなじみの概念だけど、リアルでも経験値ってあると思う。[%p]"
-msgstr "1200:They were something you saw a lot in video games, but the way I saw it, there were experience points in the real world, too.[%p]"
+msgstr "1200:ＲＰＧではおなじみの概念だけど、リアルでも経験値ってあると思う。[%p]"
 
 msgid "1300:僕だって初めてエンスーをやったときは右も左も分からないぺーぺーだったけど、今やバゼラード最強を誇る“疾風迅雷のナイトハルト”として名を知られてる。[%p]"
-msgstr "1300:When I'd started ESO, I'd been a completely clueless newbie, but now I was Baselard's famous Lightning-Fast KnightHeart, the game's ultimate warrior.[%p]"
+msgstr "1300:僕だって初めてエンスーをやったときは右も左も分からないぺーぺーだったけど、今やバゼラード最強を誇る“疾風迅雷のナイトハルト”として名を知られてる。[%p]"
 
 msgid "1400:例えば――[%p]"
-msgstr "1400:So, for instance...[%p]"
+msgstr "1400:例えば――[%p]"
 
 msgid "1500:僕の中の人の経験値の一部が、なにかの拍子にクリアされてしまったなんていうことは考えられないだろうか。[%p]"
-msgstr "1500:Was it possible that some of the person inside me's experience points had been reset somehow?[%p]"
+msgstr "1500:僕の中の人の経験値の一部が、なにかの拍子にクリアされてしまったなんていうことは考えられないだろうか。[%p]"
 
 msgid "1600:だから当然知っていることも忘れちゃっているのかもしれない。記憶の齟齬もその影響で生まれたのかも。[%p]"
-msgstr "1600:Maybe that's why I'd forgotten things that I should've known. Maybe that's where the weird inconsistencies in my memories had come from.[%p]"
+msgstr "1600:だから当然知っていることも忘れちゃっているのかもしれない。記憶の齟齬もその影響で生まれたのかも。[%p]"
 
 msgid "1700:『将軍』のこととか、悪魔女のこととか。[%p]"
-msgstr "1700:Like with Shogun, or the demon girl.[%p]"
+msgstr "1700:『将軍』のこととか、悪魔女のこととか。[%p]"
 
 msgid "1800:経験値をクリアされてしまう前の僕は――僕の中の人は――当たり前のように『将軍』というハンドルネームでチャットに書き込みをして、[%p]"
-msgstr "1800:Before I'd lost my experience points, I—that is, the person inside me—had used the nickname Shogun in chat.[%p]"
+msgstr "1800:経験値をクリアされてしまう前の僕は――僕の中の人は――当たり前のように『将軍』というハンドルネームでチャットに書き込みをして、[%p]"
 
 msgid "1900:当たり前のように悪魔女――梨深とのリア充生活をしていたのかもしれない。[%p]"
-msgstr "1900:Maybe the demon girl, Rimi, had been a big part of my life too, and I wasn't a friendless otaku.[%p]"
+msgstr "1900:当たり前のように悪魔女――梨深とのリア充生活をしていたのかもしれない。[%p]"
 
 msgid "2000:いや、さすがにそれはあり得ないか。[%p]"
-msgstr "2000:No, that was going too far.[%p]"
+msgstr "2000:いや、さすがにそれはあり得ないか。[%p]"
 
 msgid "2100:でも以前にはあの悪魔女ときちんと対抗できるぐらいのすごい能力を僕は持っていたかもしれないんだ。[%p]"
-msgstr "2100:But maybe before, I'd had some kind of incredible power that would have let me fight the demon girl.[%p]"
+msgstr "2100:でも以前にはあの悪魔女ときちんと対抗できるぐらいのすごい能力を僕は持っていたかもしれないんだ。[%p]"
 
 msgid "2200:こんなこと考えるのは僕ぐらいなのかな。[linebreak]そんなに不思議な考え方じゃないような気もするけど。[%p]"
-msgstr "2200:I wondered if I was the only person who could come up with an idea like this. Not that it really seemed that strange to me.[%p]"
+msgstr "2200:こんなこと考えるのは僕ぐらいなのかな。[linebreak]そんなに不思議な考え方じゃないような気もするけど。[%p]"
 
 msgid "2300:人間って自分勝手に作り出した価値基準でしか判断できないから、もしかすると今も僕は――僕だけじゃなくて、世界中の人たちが――[%p]"
-msgstr "2300:Humans could only ever judge things by standards they created for themselves.[%p]"
+msgstr "2300:人間って自分勝手に作り出した価値基準でしか判断できないから、もしかすると今も僕は――僕だけじゃなくて、世界中の人たちが――[%p]"
 
 msgid "2400:間違った判断をしながら日々を生きていることだって考えられるじゃないか。[%p]"
-msgstr "2400:Did that mean it was possible that I, and not just me, but everybody else in the world, was wrong about everything?[%p]"
+msgstr "2400:間違った判断をしながら日々を生きていることだって考えられるじゃないか。[%p]"
 
 msgid "2500:小さい頃、歯医者に行ったときに[linebreak]“よくここまで痛いのを我慢できたねぇ”って言われたことがある。[%p]"
-msgstr "2500:When I was little, I'd gone to the dentist, and they'd said to me, “You did a great job, not crying when it hurt so much.”[%p]"
+msgstr "2500:小さい頃、歯医者に行ったときに[linebreak]“よくここまで痛いのを我慢できたねぇ”って言われたことがある。[%p]"
 
 msgid "2600:当時の僕はそれに対して、痛みに耐え抜いた自分はすごいんだってなんとなく誇らしい気分になっただけだった。[%p]"
-msgstr "2600:Back then, I'd felt kind of proud for enduring the pain, like I'd done something special.[%p]"
+msgstr "2600:当時の僕はそれに対して、痛みに耐え抜いた自分はすごいんだってなんとなく誇らしい気分になっただけだった。[%p]"
 
 msgid "2700:でも今にして思えば、その言葉はたぶん、痛みの度合いを虫歯の進行度と比較判断して発したコメントだと思う。[%p]"
-msgstr "2700:But looking back, they were probably judging how much pain I was in by looking at how bad the cavity was.[%p]"
+msgstr "2700:でも今にして思えば、その言葉はたぶん、痛みの度合いを虫歯の進行度と比較判断して発したコメントだと思う。[%p]"
 
 msgid "2800:けど、同じレベルの痛みでも我慢できる人とできない人がいるかもしれない。[%p]"
-msgstr "2800:But maybe the same level of pain was really bad for some people, and not so much for others.[%p]"
+msgstr "2800:けど、同じレベルの痛みでも我慢できる人とできない人がいるかもしれない。[%p]"
 
 msgid "2900:つまり、感覚の認識の仕方、感じ方は人によって全然違うのかなって思ったりするんだ。[%p]"
-msgstr "2900:Maybe the way people felt things or sensed things was totally different.[%p]"
+msgstr "2900:つまり、感覚の認識の仕方、感じ方は人によって全然違うのかなって思ったりするんだ。[%p]"
 
 msgid "3000:例えば出産。[linebreak]その痛みは女性には耐え抜くことができても、男性には到底無理らしいっていう話をネットでもよく見かける。[%p]"
-msgstr "3000:Take giving birth, for instance. I'd seen a lot of people online, for instance, saying that women could handle the pain, but men couldn't.[%p]"
+msgstr "3000:例えば出産。[linebreak]その痛みは女性には耐え抜くことができても、男性には到底無理らしいっていう話をネットでもよく見かける。[%p]"
 
 msgid "3100:例えばマラソン選手。[linebreak]あの人たちの優れてる点はもしかすると体力の部分じゃなくて、痛みに耐える能力なのかもしれない。[%p]"
-msgstr "3100:Or what about marathon runners? Maybe what made them special wasn't their stamina, but the way they could endure pain.[%p]"
+msgstr "3100:例えばマラソン選手。[linebreak]あの人たちの優れてる点はもしかすると体力の部分じゃなくて、痛みに耐える能力なのかもしれない。[%p]"
 
 msgid "3200:例えばＳの人とＭの人。[linebreak]痛めつけられて悦ぶ人もいれば、痛めつけるのを快感と感じる人もいる。[%p]"
-msgstr "3200:Or maybe take S&M. Some people enjoyed receiving pain, and some people enjoyed giving it.[%p]"
+msgstr "3200:例えばＳの人とＭの人。[linebreak]痛めつけられて悦ぶ人もいれば、痛めつけるのを快感と感じる人もいる。[%p]"
 
 msgid "3300:つまり人によって感じ方と、それに耐えられる根性の度合いが違うんじゃないかって思うんだ。[%p]"
-msgstr "3300:Maybe everybody had different ways of experiencing their senses, and different levels that they could endure.[%p]"
+msgstr "3300:つまり人によって感じ方と、それに耐えられる根性の度合いが違うんじゃないかって思うんだ。[%p]"
 
 msgid "3400:だからボクが時々ガマンしている歯痛や頭痛のレベルも、実は普通の人間が許容できる痛みの範囲を超えていて、[%p]"
-msgstr "3400:Maybe the toothaches and headaches that I sometimes had to put up with were a level of pain beyond what an ordinary person could handle,[%p]"
+msgstr "3400:だからボクが時々ガマンしている歯痛や頭痛のレベルも、実は普通の人間が許容できる痛みの範囲を超えていて、[%p]"
 
 msgid "3500:同じ痛みのレベルを誰かにバトンタッチとかしたら、その人はあまりの痛みにショック死してしまうんじゃないだろうか……。[%p]"
-msgstr "3500:and if I could pass that pain to them somehow, they'd die on the spot from shock.[%p]"
+msgstr "3500:同じ痛みのレベルを誰かにバトンタッチとかしたら、その人はあまりの痛みにショック死してしまうんじゃないだろうか……。[%p]"
 
 msgid "3600:そこから導かれる結論は、自分がもしかするととても特殊な人間なのかもしれないっていう勝手な妄想。[%p]"
-msgstr "3600:All this speculation left me with the selfish delusion that I was somehow special.[%p]"
+msgstr "3600:そこから導かれる結論は、自分がもしかするととても特殊な人間なのかもしれないっていう勝手な妄想。[%p]"
 
 msgid "3700:[name]拓巳[line]「特殊な人間かぁ……っていうか、なにを大袈裟な」[%p]"
-msgstr "3700:[name]拓巳[line]So I'm special, huh? Nah… no way.[%p]"
+msgstr "3700:[name]拓巳[line]「特殊な人間かぁ……っていうか、なにを大袈裟な」[%p]"
 
 msgid "3800:自分では否定しつつも、こんな妄想はきっと誰だってしたことがあるはずだ。[%p]"
-msgstr "3800:I denied it, but I'm sure it was a delusion everybody shared.[%p]"
+msgstr "3800:自分では否定しつつも、こんな妄想はきっと誰だってしたことがあるはずだ。[%p]"
 
 msgid "3900:男なら誰だって、世界最強に憧れる。[linebreak]自分っていう人間は特殊であり選ばれた者なんだって思いたい。[%p]"
-msgstr "3900:Every man wants to be the strongest in the world. Everybody wants to think they're special. Chosen.[%p]"
+msgstr "3900:男なら誰だって、世界最強に憧れる。[linebreak]自分っていう人間は特殊であり選ばれた者なんだって思いたい。[%p]"
 
 msgid "4000:映画やドラマみたいに波瀾万丈で劇的な人生がきっと未来には待っているって思いたい。[%p]"
-msgstr "4000:They want to believe a dramatic future filled with adventure is waiting for them, like on TV or in the movies.[%p]"
+msgstr "4000:映画やドラマみたいに波瀾万丈で劇的な人生がきっと未来には待っているって思いたい。[%p]"
 
 msgid "4100:いわゆるヒーロー願望的なもの。ぶっちゃけ中２病。僕だって、そういう願望は当然抱いている。[%p]"
-msgstr "4100:The desire to be a hero, I guess you could call it. It was childish, really. Of course, I had that same desire.[%p]"
+msgstr "4100:いわゆるヒーロー願望的なもの。ぶっちゃけ中２病。僕だって、そういう願望は当然抱いている。[%p]"
 
 msgid "4200:あの悪魔女を倒すことは、まさに僕の人生に与えられた運命かもしれないんだ。[%p]"
-msgstr "4200:Maybe it was my destiny in life to defeat the demon girl.[%p]"
+msgstr "4200:あの悪魔女を倒すことは、まさに僕の人生に与えられた運命かもしれないんだ。[%p]"
 
 msgid "4300:もっとも、それを現実にやれと言われたら――いくつか条件を出す。[%p]"
-msgstr "4300:Of course, if someone actually told me to do it, I'd have several conditions.[%p]"
+msgstr "4300:もっとも、それを現実にやれと言われたら――いくつか条件を出す。[%p]"
 
 msgid "4400:少なくとも[color index="A0FF0000"]チート[color index="800000"]プレイは必須だね。裏技というか、『無敵プレイ』というか。[linebreak]痛い思いとか怖い思いはしたくないんだ。[%p]"
-msgstr "4400:I'd need [color index="A0FF0000"]cheat[color index="800000"] codes, obviously. Like God Mode, for one thing. Or invincibility. I didn't want to be scared or get hurt.[%p]"
+msgstr "4400:少なくとも[color index="A0FF0000"]チート[color index="800000"]プレイは必須だね。裏技というか、『無敵プレイ』というか。[linebreak]痛い思いとか怖い思いはしたくないんだ。[%p]"
 
 msgid "4500:それができないなら――つまり今の僕の能力のままなら、絶対にやらない。[%p]"
-msgstr "4500:If I couldn't have that—in other words, if I had to do it right now, I would absolutely refuse.[%p]"
+msgstr "4500:それができないなら――つまり今の僕の能力のままなら、絶対にやらない。[%p]"
 
 msgid "4600:だから僕の中の人の経験値がクリアされちゃったのなら、それは僕にとっても大きな傷手なのかもしれない……。[%p]"
-msgstr "4600:Which meant that if the person inside me's experience points had been reset, I might be at a big disadvantage.[%p]"
+msgstr "4600:だから僕の中の人の経験値がクリアされちゃったのなら、それは僕にとっても大きな傷手なのかもしれない……。[%p]"
 

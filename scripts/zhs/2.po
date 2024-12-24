@@ -10,16 +10,16 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:破損データ"
-msgstr "0:Damaged Data"
+msgstr "0:破損データ"
 
 msgid "100:Ｎｏ ｄａｔａ"
-msgstr "100:No Data"
+msgstr "100:Ｎｏ ｄａｔａ"
 
 msgid "200:プレイ時間"
-msgstr "200:Play Time"
+msgstr "200:プレイ時間"
 
 msgid "300:セーブ日時"
-msgstr "300:Save Date"
+msgstr "300:セーブ日時"
 
 msgid "400:／"
 msgstr "400:／"
@@ -31,19 +31,19 @@ msgid "600:Ｎｏ．"
 msgstr "600:Ｎｏ．"
 
 msgid "700:総プレイ時間"
-msgstr "700:Total Play Time"
+msgstr "700:総プレイ時間"
 
 msgid "800:分"
-msgstr "800:Minutes"
+msgstr "800:分"
 
 msgid "900:秒"
-msgstr "900:Seconds"
+msgstr "900:秒"
 
 msgid "1000:時間"
-msgstr "1000:Hours"
+msgstr "1000:時間"
 
 msgid "1100:．"
-msgstr "1100:."
+msgstr "1100:．"
 
 msgid "1200:％"
 msgstr "1200:％"
@@ -58,31 +58,31 @@ msgid "1500:？？？？？？"
 msgstr "1500:？？？？？？"
 
 msgid "1600:エンディング"
-msgstr "1600:Ending"
+msgstr "1600:エンディング"
 
 msgid "1700:シーンタイトル"
-msgstr "1700:Scene title"
+msgstr "1700:シーンタイトル"
 
 msgid "1800:イベントＣＧ"
-msgstr "1800:Event CG"
+msgstr "1800:イベントＣＧ"
 
 msgid "1900:ＢＧＭ"
-msgstr "1900:BGM"
+msgstr "1900:ＢＧＭ"
 
 msgid "2000:"
 msgstr "2000:"
 
 msgid "2100:『"
-msgstr "2100:“"
+msgstr "2100:『"
 
 msgid "2200:』"
-msgstr "2200:”"
+msgstr "2200:』"
 
 msgid "2300:新規"
-msgstr "2300:New"
+msgstr "2300:新規"
 
 msgid "2400:未読"
-msgstr "2400:Unread"
+msgstr "2400:未読"
 
 msgid "2500:＿"
 msgstr "2500:＿"
@@ -91,16 +91,16 @@ msgid "2600:・"
 msgstr "2600:・"
 
 msgid "2700:】"
-msgstr "2700:"
+msgstr "2700:】"
 
 msgid "2800:この章の最初から開始しますか？"
-msgstr "2800:Start from this chapter?"
+msgstr "2800:この章の最初から開始しますか？"
 
 msgid "2900:はい"
-msgstr "2900:Yes"
+msgstr "2900:はい"
 
 msgid "3000:いいえ"
-msgstr "3000:No"
+msgstr "3000:いいえ"
 
 msgid "3100:"
 msgstr "3100:"
@@ -136,7 +136,7 @@ msgid "4100:"
 msgstr "4100:"
 
 msgid "4200:？？？"
-msgstr "4200:"
+msgstr "4200:？？？"
 
 msgid "4300:"
 msgstr "4300:"
@@ -145,16 +145,16 @@ msgid "4400:"
 msgstr "4400:"
 
 msgid "4500:マップ移動"
-msgstr "4500:"
+msgstr "4500:マップ移動"
 
 msgid "4600:\u3000あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや\u3000ゆ\u3000よらりるれろわ\u3000を\u3000んぁぃぅぇぉゃゅょっーがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ"
-msgstr "4600:"
+msgstr "4600:\u3000あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや\u3000ゆ\u3000よらりるれろわ\u3000を\u3000んぁぃぅぇぉゃゅょっーがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ"
 
 msgid "4700:\u3000ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
-msgstr "4700:"
+msgstr "4700:\u3000ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
 
 msgid "4800:\u3000０１２３４５６７８９"
-msgstr "4800:"
+msgstr "4800:\u3000０１２３４５６７８９"
 
 msgid "4900:"
 msgstr "4900:"
@@ -310,277 +310,277 @@ msgid "9900:"
 msgstr "9900:"
 
 msgid "10000:戻る"
-msgstr "10000:Back"
+msgstr "10000:戻る"
 
 msgid "10010:決定"
-msgstr "10010:Okay"
+msgstr "10010:決定"
 
 msgid "10020:データロック"
-msgstr "10020:Data lock"
+msgstr "10020:データロック"
 
 msgid "10030:再生"
-msgstr "10030:Play"
+msgstr "10030:再生"
 
 msgid "10040:停止"
-msgstr "10040:Stop"
+msgstr "10040:停止"
 
 msgid "10050:再生モードの変更"
-msgstr "10050:Change Play Mode"
+msgstr "10050:再生モードの変更"
 
 msgid "10060:説明文のスクロール"
-msgstr "10060:TIPS Scroll"
+msgstr "10060:説明文のスクロール"
 
 msgid "10070:音声の再生"
-msgstr "10070:Play Voice"
+msgstr "10070:音声の再生"
 
 msgid "10080:デフォルト設定に戻す"
-msgstr "10080:Return to Default"
+msgstr "10080:デフォルト設定に戻す"
 
 msgid "10090:キャラ別音声のＯＮ／ＯＦＦ"
-msgstr "10090:Turn On/Off Character Voices"
+msgstr "10090:キャラ別音声のＯＮ／ＯＦＦ"
 
 msgid "10100:ページ切り替え"
-msgstr "10100:Change Page"
+msgstr "10100:ページ切り替え"
 
 msgid "10110:次のＣＧ"
-msgstr "10110:Next CG"
+msgstr "10110:次のＣＧ"
 
 msgid "10120:操作ガイド非表示"
-msgstr "10120:Hide Guide"
+msgstr "10120:操作ガイド非表示"
 
 msgid "10130:ズーム"
-msgstr "10130:Zoom"
+msgstr "10130:ズーム"
 
 msgid "20000:第１章"
-msgstr "20000:Chapter 1"
+msgstr "20000:第１章"
 
 msgid "20010:Ｅｙｅｓ ｉｎ ｅｙｅｓ"
 msgstr "20010:Ｅｙｅｓ ｉｎ ｅｙｅｓ"
 
 msgid "20020:第２章"
-msgstr "20020:Chapter 2"
+msgstr "20020:第２章"
 
 msgid "20030:Ｃｌｉｃｋ ｍｅ"
 msgstr "20030:Ｃｌｉｃｋ ｍｅ"
 
 msgid "20040:第３章"
-msgstr "20040:Chapter 3"
+msgstr "20040:第３章"
 
 msgid "20050:将軍"
-msgstr "20050:Shogun"
+msgstr "20050:将軍"
 
 msgid "20060:第４章"
-msgstr "20060:Chapter 4"
+msgstr "20060:第４章"
 
 msgid "20070:Ｄｉ-Ｓｗｏｒｄ"
 msgstr "20070:Ｄｉ-Ｓｗｏｒｄ"
 
 msgid "20080:第５章"
-msgstr "20080:Chapter 5"
+msgstr "20080:第５章"
 
 msgid "20090:妄想"
-msgstr "20090:Delusions"
+msgstr "20090:妄想"
 
 msgid "20100:第６章"
-msgstr "20100:Chapter 6"
+msgstr "20100:第６章"
 
 msgid "20110:Ｎｏａｈ"
 msgstr "20110:Ｎｏａｈ"
 
 msgid "20120:第７章"
-msgstr "20120:Chapter 7"
+msgstr "20120:第７章"
 
 msgid "20130:ｐｓｙｃｈｏｐａｔｈ"
 msgstr "20130:ｐｓｙｃｈｏｐａｔｈ"
 
 msgid "20140:第８章"
-msgstr "20140:Chapter 8"
+msgstr "20140:第８章"
 
 msgid "20150:Ｉｒ２"
 msgstr "20150:Ｉｒ２"
 
 msgid "20160:第９章"
-msgstr "20160:Chapter 9"
+msgstr "20160:第９章"
 
 msgid "20170:ｇｉｇａ-ｌｏ-ｍａｎｉａｃ"
 msgstr "20170:ｇｉｇａ-ｌｏ-ｍａｎｉａｃ"
 
 msgid "20180:第１０章"
-msgstr "20180:Chapter 10"
+msgstr "20180:第１０章"
 
 msgid "20190:ｓｉｌｅｎｔ ｓｋｙ"
 msgstr "20190:ｓｉｌｅｎｔ ｓｋｙ"
 
 msgid "20200:第１０章"
-msgstr "20200:Chapter 10"
+msgstr "20200:第１０章"
 
 msgid "20210:ｃｒｙｉｎｇ ｓｋｙ"
 msgstr "20210:ｃｒｙｉｎｇ ｓｋｙ"
 
 msgid "20220:第９章\u3000梨深編"
-msgstr "20220:Chapter 9 Rimi:"
+msgstr "20220:第９章\u3000梨深編"
 
 msgid "20230:アニマの像"
-msgstr "20230:Anima Archetype"
+msgstr "20230:アニマの像"
 
 msgid "20240:第８章\u3000セナ編"
-msgstr "20240:Chapter 8 Sena:"
+msgstr "20240:第８章\u3000セナ編"
 
 msgid "20250:デウス・エクス・マキナ"
-msgstr "20250:Deus Ex Machina"
+msgstr "20250:デウス・エクス・マキナ"
 
 msgid "20260:第８章\u3000優愛編"
-msgstr "20260:Chapter 8 Yua:"
+msgstr "20260:第８章\u3000優愛編"
 
 msgid "20270:月と太陽"
-msgstr "20270:Moon and Sun"
+msgstr "20270:月と太陽"
 
 msgid "20280:第８章\u3000梢編"
-msgstr "20280:Chapter 8 Kozue:"
+msgstr "20280:第８章\u3000梢編"
 
 msgid "20290:殺戮に至る病"
-msgstr "20290:A Disease that Leads to Slaughter"
+msgstr "20290:殺戮に至る病"
 
 msgid "20300:第８章\u3000あやせ編"
-msgstr "20300:Chapter 8 Ayase:"
+msgstr "20300:第８章\u3000あやせ編"
 
 msgid "20310:罪過に契約の血を"
-msgstr "20310:A Bloody Contract for Your Sins"
+msgstr "20310:罪過に契約の血を"
 
 msgid "20320:第７章\u3000七海編"
-msgstr "20320:Chapter 7 Nanami:"
+msgstr "20320:第７章\u3000七海編"
 
 msgid "20330:ｄａｙｄｒｅａｍ"
 msgstr "20330:ｄａｙｄｒｅａｍ"
 
 msgid "20340:第１０章"
-msgstr "20340:Chapter 10"
+msgstr "20340:第１０章"
 
 msgid "20350:ｂｌｕｅ ｓｋｙ"
 msgstr "20350:ｂｌｕｅ ｓｋｙ"
 
 msgid "25000:【第１章】"
-msgstr "25000:Chapter 1"
+msgstr "25000:【第１章】"
 
 msgid "25010:【Ｅｙｅｓ ｉｎ ｅｙｅｓ】"
-msgstr "25010:Ｅｙｅｓ ｉｎ ｅｙｅｓ"
+msgstr "25010:【Ｅｙｅｓ ｉｎ ｅｙｅｓ】"
 
 msgid "25020:【第２章】"
-msgstr "25020:Chapter 2"
+msgstr "25020:【第２章】"
 
 msgid "25030:【Ｃｌｉｃｋ ｍｅ】"
-msgstr "25030:Ｃｌｉｃｋ ｍｅ"
+msgstr "25030:【Ｃｌｉｃｋ ｍｅ】"
 
 msgid "25040:【第３章】"
-msgstr "25040:Chapter 3"
+msgstr "25040:【第３章】"
 
 msgid "25050:【将軍】"
-msgstr "25050:Shogun"
+msgstr "25050:【将軍】"
 
 msgid "25060:【第４章】"
-msgstr "25060:Chapter 4"
+msgstr "25060:【第４章】"
 
 msgid "25070:【Ｄｉ-Ｓｗｏｒｄ】"
-msgstr "25070:Ｄｉ-Ｓｗｏｒｄ"
+msgstr "25070:【Ｄｉ-Ｓｗｏｒｄ】"
 
 msgid "25080:【第５章】"
-msgstr "25080:Chapter 5"
+msgstr "25080:【第５章】"
 
 msgid "25090:【妄想】"
-msgstr "25090:Delusions"
+msgstr "25090:【妄想】"
 
 msgid "25100:【第６章】"
-msgstr "25100:Chapter 6"
+msgstr "25100:【第６章】"
 
 msgid "25110:【Ｎｏａｈ】"
-msgstr "25110:Ｎｏａｈ"
+msgstr "25110:【Ｎｏａｈ】"
 
 msgid "25120:【第７章】"
-msgstr "25120:Chapter 7"
+msgstr "25120:【第７章】"
 
 msgid "25130:【ｐｓｙｃｈｏｐａｔｈ】"
-msgstr "25130:ｐｓｙｃｈｏｐａｔｈ"
+msgstr "25130:【ｐｓｙｃｈｏｐａｔｈ】"
 
 msgid "25140:【第８章】"
-msgstr "25140:Chapter 8"
+msgstr "25140:【第８章】"
 
 msgid "25150:【Ｉｒ２】"
-msgstr "25150:Ｉｒ２"
+msgstr "25150:【Ｉｒ２】"
 
 msgid "25160:【第９章】"
-msgstr "25160:Chapter 9"
+msgstr "25160:【第９章】"
 
 msgid "25170:【ｇｉｇａ-ｌｏ-ｍａｎｉａｃ】"
-msgstr "25170:ｇｉｇａ-ｌｏ-ｍａｎｉａｃ"
+msgstr "25170:【ｇｉｇａ-ｌｏ-ｍａｎｉａｃ】"
 
 msgid "25180:【第１０章】"
-msgstr "25180:Chapter 10"
+msgstr "25180:【第１０章】"
 
 msgid "25190:【ｓｉｌｅｎｔ ｓｋｙ】"
-msgstr "25190:ｓｉｌｅｎｔ ｓｋｙ"
+msgstr "25190:【ｓｉｌｅｎｔ ｓｋｙ】"
 
 msgid "25200:【第１０章】"
-msgstr "25200:Chapter 10"
+msgstr "25200:【第１０章】"
 
 msgid "25210:【ｃｒｙｉｎｇ ｓｋｙ】"
-msgstr "25210:ｃｒｙｉｎｇ ｓｋｙ"
+msgstr "25210:【ｃｒｙｉｎｇ ｓｋｙ】"
 
 msgid "25220:【第９章\u3000梨深編】"
-msgstr "25220:Chapter 9 Rimi:"
+msgstr "25220:【第９章\u3000梨深編】"
 
 msgid "25230:【アニマの像】"
-msgstr "25230:Anima Archetype"
+msgstr "25230:【アニマの像】"
 
 msgid "25240:【第８章\u3000セナ編】"
-msgstr "25240:Chapter 8 Sena:"
+msgstr "25240:【第８章\u3000セナ編】"
 
 msgid "25250:【デウス・エクス・マキナ】"
-msgstr "25250:Deus Ex Machina"
+msgstr "25250:【デウス・エクス・マキナ】"
 
 msgid "25260:【第８章\u3000優愛編】"
-msgstr "25260:Chapter 8 Yua:"
+msgstr "25260:【第８章\u3000優愛編】"
 
 msgid "25270:【月と太陽】"
-msgstr "25270:Moon and Sun"
+msgstr "25270:【月と太陽】"
 
 msgid "25280:【第８章\u3000梢編】"
-msgstr "25280:Chapter 8 Kozue:"
+msgstr "25280:【第８章\u3000梢編】"
 
 msgid "25290:【殺戮に至る病】"
-msgstr "25290:A Disease that Leads to Slaughter"
+msgstr "25290:【殺戮に至る病】"
 
 msgid "25300:【第８章\u3000あやせ編】"
-msgstr "25300:Chapter 8 Ayase:"
+msgstr "25300:【第８章\u3000あやせ編】"
 
 msgid "25310:【罪過に契約の血を】"
-msgstr "25310:A Bloody Contract for Your Sins"
+msgstr "25310:【罪過に契約の血を】"
 
 msgid "25320:【第７章\u3000七海編】"
-msgstr "25320:Chapter 7 Nanami:"
+msgstr "25320:【第７章\u3000七海編】"
 
 msgid "25330:【ｄａｙｄｒｅａｍ】"
-msgstr "25330:ｄａｙｄｒｅａｍ"
+msgstr "25330:【ｄａｙｄｒｅａｍ】"
 
 msgid "25340:【第１０章】"
-msgstr "25340:Chapter 10"
+msgstr "25340:【第１０章】"
 
 msgid "25350:【ｂｌｕｅ ｓｋｙ】"
-msgstr "25350:ｂｌｕｅ ｓｋｙ"
+msgstr "25350:【ｂｌｕｅ ｓｋｙ】"
 
 msgid "30000:アニマの像"
-msgstr "30000:Anima Archetype"
+msgstr "30000:アニマの像"
 
 msgid "30010:月と太陽"
-msgstr "30010:Moon and Sun"
+msgstr "30010:月と太陽"
 
 msgid "30020:デウス・エクス・マキナ"
-msgstr "30020:Deus Ex Machina"
+msgstr "30020:デウス・エクス・マキナ"
 
 msgid "30030:殺戮の至る病"
-msgstr "30030:A Disease that Leads to Slaughter"
+msgstr "30030:殺戮の至る病"
 
 msgid "30040:罪過に契約の血を"
-msgstr "30040:A Bloody Contract for Your Sins"
+msgstr "30040:罪過に契約の血を"
 
 msgid "30050:ｄａｙｄｒｅａｍ"
 msgstr "30050:ｄａｙｄｒｅａｍ"
@@ -622,718 +622,718 @@ msgid "40080:"
 msgstr "40080:"
 
 msgid "40090:聴かせてあげなくもないわよっ！\u3000あなただからよ。"
-msgstr "40090:I guess I'll sing this song for you! But don't think you're special!"
+msgstr "40090:聴かせてあげなくもないわよっ！\u3000あなただからよ。"
 
 msgid "40100:M.I.L"
 msgstr "40100:M.I.L"
 
 msgid "40110:阿保 剛"
-msgstr "40110:Takeshi Abo"
+msgstr "40110:阿保 剛"
 
 msgid "40120:Silence"
 msgstr "40120:Silence"
 
 msgid "40130:磯江俊道"
-msgstr "40130:Toshimichi Isoe"
+msgstr "40130:磯江俊道"
 
 msgid "40140:Adventure"
 msgstr "40140:Adventure"
 
 msgid "40150:阿保 剛"
-msgstr "40150:Takeshi Abo"
+msgstr "40150:阿保 剛"
 
 msgid "40160:Soliloquy"
 msgstr "40160:Soliloquy"
 
 msgid "40170:阿保 剛"
-msgstr "40170:Takeshi Abo"
+msgstr "40170:阿保 剛"
 
 msgid "40180:SHIBUYA"
 msgstr "40180:SHIBUYA"
 
 msgid "40190:阿保 剛"
-msgstr "40190:Takeshi Abo"
+msgstr "40190:阿保 剛"
 
 msgid "40200:Delusion"
 msgstr "40200:Delusion"
 
 msgid "40210:阿保 剛"
-msgstr "40210:Takeshi Abo"
+msgstr "40210:阿保 剛"
 
 msgid "40220:Fear"
 msgstr "40220:Fear"
 
 msgid "40230:磯江俊道"
-msgstr "40230:Toshimichi Isoe"
+msgstr "40230:磯江俊道"
 
 msgid "40240:SEIRA"
 msgstr "40240:SEIRA"
 
 msgid "40250:阿保 剛"
-msgstr "40250:Takeshi Abo"
+msgstr "40250:阿保 剛"
 
 msgid "40260:Girls"
 msgstr "40260:Girls"
 
 msgid "40270:阿保 剛"
-msgstr "40270:Takeshi Abo"
+msgstr "40270:阿保 剛"
 
 msgid "40280:Gradually Panic"
 msgstr "40280:Gradually Panic"
 
 msgid "40290:磯江俊道"
-msgstr "40290:Toshimichi Isoe"
+msgstr "40290:磯江俊道"
 
 msgid "40300:Tender hearts"
 msgstr "40300:Tender hearts"
 
 msgid "40310:阿保 剛"
-msgstr "40310:Takeshi Abo"
+msgstr "40310:阿保 剛"
 
 msgid "40320:Doubt"
 msgstr "40320:Doubt"
 
 msgid "40330:阿保 剛"
-msgstr "40330:Takeshi Abo"
+msgstr "40330:阿保 剛"
 
 msgid "40340:Mysterious"
 msgstr "40340:Mysterious"
 
 msgid "40350:磯江俊道"
-msgstr "40350:Toshimichi Isoe"
+msgstr "40350:磯江俊道"
 
 msgid "40360:Virtual reality"
 msgstr "40360:Virtual reality"
 
 msgid "40370:阿保 剛"
-msgstr "40370:Takeshi Abo"
+msgstr "40370:阿保 剛"
 
 msgid "40380:I'm rounder"
 msgstr "40380:I'm rounder"
 
 msgid "40390:阿保 剛"
-msgstr "40390:Takeshi Abo"
+msgstr "40390:阿保 剛"
 
 msgid "40400:In the ward"
 msgstr "40400:In the ward"
 
 msgid "40410:阿保 剛"
-msgstr "40410:Takeshi Abo"
+msgstr "40410:阿保 剛"
 
 msgid "40420:Town Vanguard"
 msgstr "40420:Town Vanguard"
 
 msgid "40430:大山 曜"
-msgstr "40430:Yoh Ohyama"
+msgstr "40430:大山 曜"
 
 msgid "40440:Pity"
 msgstr "40440:Pity"
 
 msgid "40450:阿保 剛"
-msgstr "40450:Takeshi Abo"
+msgstr "40450:阿保 剛"
 
 msgid "40460:Detective"
 msgstr "40460:Detective"
 
 msgid "40470:阿保 剛"
-msgstr "40470:Takeshi Abo"
+msgstr "40470:阿保 剛"
 
 msgid "40480:Distorted theory"
 msgstr "40480:Distorted theory"
 
 msgid "40490:阿保 剛"
-msgstr "40490:Takeshi Abo"
+msgstr "40490:阿保 剛"
 
 msgid "40500:Truth and false"
 msgstr "40500:Truth and false"
 
 msgid "40510:阿保 剛"
-msgstr "40510:Takeshi Abo"
+msgstr "40510:阿保 剛"
 
 msgid "40520:White out"
 msgstr "40520:White out"
 
 msgid "40530:神保伸太郎"
-msgstr "40530:Shintaro Jinbo"
+msgstr "40530:神保伸太郎"
 
 msgid "40540:Shogun"
 msgstr "40540:Shogun"
 
 msgid "40550:大山 曜"
-msgstr "40550:Yoh Ohyama"
+msgstr "40550:大山 曜"
 
 msgid "40560:Last Battle"
 msgstr "40560:Last Battle"
 
 msgid "40570:大山 曜"
-msgstr "40570:Yoh Ohyama"
+msgstr "40570:大山 曜"
 
 msgid "40580:Convert"
 msgstr "40580:Convert"
 
 msgid "40590:阿保 剛"
-msgstr "40590:Takeshi Abo"
+msgstr "40590:阿保 剛"
 
 msgid "40600:Final chapter"
 msgstr "40600:Final chapter"
 
 msgid "40610:阿保 剛"
-msgstr "40610:Takeshi Abo"
+msgstr "40610:阿保 剛"
 
 msgid "40620:Colors"
 msgstr "40620:Colors"
 
 msgid "40630:阿保 剛"
-msgstr "40630:Takeshi Abo"
+msgstr "40630:阿保 剛"
 
 msgid "40640:Real link"
 msgstr "40640:Real link"
 
 msgid "40650:阿保 剛"
-msgstr "40650:Takeshi Abo"
+msgstr "40650:阿保 剛"
 
 msgid "40660:Silent sky"
 msgstr "40660:Silent sky"
 
 msgid "40670:阿保 剛"
-msgstr "40670:Takeshi Abo"
+msgstr "40670:阿保 剛"
 
 msgid "40680:Find the blue"
 msgstr "40680:Find the blue"
 
 msgid "40690:いとうかなこ"
-msgstr "40690:ITO KANAKO"
+msgstr "40690:いとうかなこ"
 
 msgid "40700:Desire Blue sky"
 msgstr "40700:Desire Blue sky"
 
 msgid "40710:いとうかなこ"
-msgstr "40710:ITO KANAKO"
+msgstr "40710:いとうかなこ"
 
 msgid "40720:クライ"
-msgstr "40720:KURAI"
+msgstr "40720:クライ"
 
 msgid "40730:いとうかなこ"
-msgstr "40730:ITO KANAKO"
+msgstr "40730:いとうかなこ"
 
 msgid "40740:グラジオール"
-msgstr "40740:Gladiale"
+msgstr "40740:グラジオール"
 
 msgid "40750:FES cv. 榊原ゆい"
-msgstr "40750:FES VA Yui Sakakibara"
+msgstr "40750:FES cv. 榊原ゆい"
 
 msgid "40760:罪過に契約の血を"
-msgstr "40760:A Bloody Contract for Your Sins"
+msgstr "40760:罪過に契約の血を"
 
 msgid "40770:FES cv. 榊原ゆい"
-msgstr "40770:FES VA Yui Sakakibara"
+msgstr "40770:FES cv. 榊原ゆい"
 
 msgid "40780:fake me"
 msgstr "40780:fake me"
 
 msgid "40790:いとうかなこ"
-msgstr "40790:ITO KANAKO"
+msgstr "40790:いとうかなこ"
 
 msgid "40800:Trust in me"
 msgstr "40800:Trust in me"
 
 msgid "40810:咲畑梨深 cv.喜多村英梨"
-msgstr "40810:Rimi Sakihata VA Eri Kitamura"
+msgstr "40810:咲畑梨深 cv.喜多村英梨"
 
 msgid "40820:Love Power"
 msgstr "40820:Love Power"
 
 msgid "40830:西條七海 cv. 宮崎羽衣"
-msgstr "40830:Nanami Nishijou VA Ui Miyazaki"
+msgstr "40830:西條七海 cv. 宮崎羽衣"
 
 msgid "40840:WHITE LILY"
 msgstr "40840:WHITE LILY"
 
 msgid "40850:楠 優愛 cv. たかはし智秋"
-msgstr "40850:Yua Kusunoki VA Chiaki Takahashi"
+msgstr "40850:楠 優愛 cv. たかはし智秋"
 
 msgid "40860:心の闇を切り裂いて"
-msgstr "40860:Heart's Darkness Ripped Apart"
+msgstr "40860:心の闇を切り裂いて"
 
 msgid "40870:岸本あやせ cv. 榊原ゆい"
-msgstr "40870:Ayase Kishimoto VA Yui Sakakibara"
+msgstr "40870:岸本あやせ cv. 榊原ゆい"
 
 msgid "40880:Calling"
 msgstr "40880:Calling"
 
 msgid "40890:蒼井セナ cv. 生天目仁美"
-msgstr "40890:Sena Aoi VA Hitomi Nabatame"
+msgstr "40890:蒼井セナ cv. 生天目仁美"
 
 msgid "40900:ちいさな声に気づいて"
-msgstr "40900:Hear the Tiny Voices"
+msgstr "40900:ちいさな声に気づいて"
 
 msgid "40910:折原 梢 cv. 辻 あゆみ"
-msgstr "40910:Kozue Orihara VA Ayumi Tsuji"
+msgstr "40910:折原 梢 cv. 辻 あゆみ"
 
 msgid "40920:A WILL"
 msgstr "40920:A WILL"
 
 msgid "40930:いとうかなこ"
-msgstr "40930:ITOKANAKO"
+msgstr "40930:いとうかなこ"
 
 msgid "40940:アレルイヤの福音〜使徒からの手紙第二編より〜"
-msgstr "40940:The Gospel of Hallelujah"
+msgstr "40940:アレルイヤの福音〜使徒からの手紙第二編より〜"
 
 msgid "40950:FES cv. 榊原ゆい"
-msgstr "40950:FES VA Yui Sakakibara"
+msgstr "40950:FES cv. 榊原ゆい"
 
 msgid "40960:密教の首飾り〜グラジオール列王記邪心編より〜"
-msgstr "40960:Esoteric Necklace"
+msgstr "40960:密教の首飾り〜グラジオール列王記邪心編より〜"
 
 msgid "40970:FES cv. 榊原ゆい"
-msgstr "40970:FES VA Yui Sakakibara"
+msgstr "40970:FES cv. 榊原ゆい"
 
 msgid "40980:Fetishism Ark"
 msgstr "40980:Fetishism Ark"
 
 msgid "40990:いとうかなこ"
-msgstr "40990:ITO KANAKO"
+msgstr "40990:いとうかなこ"
 
 msgid "41000:イノセンス"
-msgstr "41000:Innocence"
+msgstr "41000:イノセンス"
 
 msgid "41010:FES cv. 榊原ゆい"
-msgstr "41010:FES VA Yui Sakakibara"
+msgstr "41010:FES cv. 榊原ゆい"
 
 msgid "41020:カオスロジック"
-msgstr "41020:Chaos Logic"
+msgstr "41020:カオスロジック"
 
 msgid "41030:いとうかなこ"
-msgstr "41030:ITO KANAKO"
+msgstr "41030:いとうかなこ"
 
 msgid "60000:"
-msgstr "60000:″,"
+msgstr "60000:"
 
 msgid "60100:拓巳"
-msgstr "60100:Takumi"
+msgstr "60100:拓巳"
 
 msgid "60200:梨深"
-msgstr "60200:Rimi"
+msgstr "60200:梨深"
 
 msgid "60300:少女"
-msgstr "60300:Girl"
+msgstr "60300:少女"
 
 msgid "60400:？？？"
 msgstr "60400:？？？"
 
 msgid "60500:七海"
-msgstr "60500:Nanami"
+msgstr "60500:七海"
 
 msgid "60600:優愛"
-msgstr "60600:Yua"
+msgstr "60600:優愛"
 
 msgid "60700:女子"
-msgstr "60700:Girl"
+msgstr "60700:女子"
 
 msgid "60800:美愛"
-msgstr "60800:Mia"
+msgstr "60800:美愛"
 
 msgid "60900:あやせ"
-msgstr "60900:Ayase"
+msgstr "60900:あやせ"
 
 msgid "61000:ＦＥＳ"
 msgstr "61000:ＦＥＳ"
 
 msgid "61100:セナ"
-msgstr "61100:Sena"
+msgstr "61100:セナ"
 
 msgid "61200:梢"
-msgstr "61200:Kozue"
+msgstr "61200:梢"
 
 msgid "61300:転校生"
-msgstr "61300:Transfer Student"
+msgstr "61300:転校生"
 
 msgid "61400:星来"
-msgstr "61400:Seira"
+msgstr "61400:星来"
 
 msgid "61500:三住"
-msgstr "61500:Misumi"
+msgstr "61500:三住"
 
 msgid "61600:将軍"
-msgstr "61600:Shogun"
+msgstr "61600:将軍"
 
 msgid "61700:判"
-msgstr "61700:Ban"
+msgstr "61700:判"
 
 msgid "61800:男"
-msgstr "61800:Man"
+msgstr "61800:男"
 
 msgid "61900:中年刑事"
-msgstr "61900:Middle-Aged Detective"
+msgstr "61900:中年刑事"
 
 msgid "62000:諏訪"
-msgstr "62000:Suwa"
+msgstr "62000:諏訪"
 
 msgid "62100:青年刑事"
-msgstr "62100:Young Detective"
+msgstr "62100:青年刑事"
 
 msgid "62200:葉月"
-msgstr "62200:Hazuki"
+msgstr "62200:葉月"
 
 msgid "62300:看護師"
-msgstr "62300:Nurse"
+msgstr "62300:看護師"
 
 msgid "62400:百瀬"
-msgstr "62400:Momose"
+msgstr "62400:百瀬"
 
 msgid "62500:高科"
-msgstr "62500:Takashina"
+msgstr "62500:高科"
 
 msgid "62600:医師"
-msgstr "62600:Doctor"
+msgstr "62600:医師"
 
 msgid "62700:野呂瀬"
-msgstr "62700:Norose"
+msgstr "62700:野呂瀬"
 
 msgid "62800:男Ａ"
-msgstr "62800:Man Ａ"
+msgstr "62800:男Ａ"
 
 msgid "62900:波多野"
-msgstr "62900:Hatano"
+msgstr "62900:波多野"
 
 msgid "63000:セナの父"
-msgstr "63000:Sena's Father"
+msgstr "63000:セナの父"
 
 msgid "63100:少年"
-msgstr "63100:Boy"
+msgstr "63100:少年"
 
 msgid "63200:タクミ"
-msgstr "63200:Takumi"
+msgstr "63200:タクミ"
 
 msgid "63300:ナイトハルト"
-msgstr "63300:KnightHeart"
+msgstr "63300:ナイトハルト"
 
 msgid "63400:藤田"
-msgstr "63400:Fujita"
+msgstr "63400:藤田"
 
 msgid "63500:安沢"
-msgstr "63500:Anzawa"
+msgstr "63500:安沢"
 
 msgid "63600:男Ｂ"
-msgstr "63600:Man B"
+msgstr "63600:男Ｂ"
 
 msgid "63700:鷹木"
-msgstr "63700:Takagi"
+msgstr "63700:鷹木"
 
 msgid "63800:男Ｃ"
-msgstr "63800:Man Ｃ"
+msgstr "63800:男Ｃ"
 
 msgid "63900:小沢"
-msgstr "63900:Ozawa"
+msgstr "63900:小沢"
 
 msgid "64000:山井"
-msgstr "64000:Yamai"
+msgstr "64000:山井"
 
 msgid "64100:松永"
-msgstr "64100:matsunaga"
+msgstr "64100:松永"
 
 msgid "64200:林原"
-msgstr "64200:Hayashibara"
+msgstr "64200:林原"
 
 msgid "64300:倉持"
-msgstr "64300:Kuramochi"
+msgstr "64300:倉持"
 
 msgid "64400:老人"
-msgstr "64400:Old Man"
+msgstr "64400:老人"
 
 msgid "64500:モニタの男Ａ"
-msgstr "64500:Monitor Man Ａ"
+msgstr "64500:モニタの男Ａ"
 
 msgid "64600:猪鼻"
-msgstr "64600:Inohana"
+msgstr "64600:猪鼻"
 
 msgid "64700:モニタの男Ｂ"
-msgstr "64700:Monitor Man Ｂ"
+msgstr "64700:モニタの男Ｂ"
 
 msgid "64800:神尾"
-msgstr "64800:Kamio"
+msgstr "64800:神尾"
 
 msgid "64900:美菜子"
-msgstr "64900:Minako"
+msgstr "64900:美菜子"
 
 msgid "65000:梢の母"
-msgstr "65000:Kozue's Mother"
+msgstr "65000:梢の母"
 
 msgid "65100:母親"
-msgstr "65100:Mother"
+msgstr "65100:母親"
 
 msgid "65200:警官"
-msgstr "65200:Police"
+msgstr "65200:警官"
 
 msgid "65300:刑事"
-msgstr "65300:Detective"
+msgstr "65300:刑事"
 
 msgid "65400:オタク１"
-msgstr "65400:Otaku １"
+msgstr "65400:オタク１"
 
 msgid "65500:オタク２"
-msgstr "65500:Otaku ２"
+msgstr "65500:オタク２"
 
 msgid "65600:ポーターＡ"
-msgstr "65600:Porter Ａ"
+msgstr "65600:ポーターＡ"
 
 msgid "65700:ポーターＢ"
-msgstr "65700:Porter Ｂ"
+msgstr "65700:ポーターＢ"
 
 msgid "65800:ポーターＣ"
-msgstr "65800:Porter Ｃ"
+msgstr "65800:ポーターＣ"
 
 msgid "65900:キャスターＡ"
-msgstr "65900:Newscaster Ａ"
+msgstr "65900:キャスターＡ"
 
 msgid "66000:キャスターＢ"
-msgstr "66000:Newscaster Ｂ"
+msgstr "66000:キャスターＢ"
 
 msgid "66100:キャスターＣ"
-msgstr "66100:Newscaster Ｃ"
+msgstr "66100:キャスターＣ"
 
 msgid "66200:コメンテーター１"
-msgstr "66200:Commentator １"
+msgstr "66200:コメンテーター１"
 
 msgid "66300:コメンテーター２"
-msgstr "66300:Commentator ２"
+msgstr "66300:コメンテーター２"
 
 msgid "66400:ケータイアナウンス"
-msgstr "66400:Phone"
+msgstr "66400:ケータイアナウンス"
 
 msgid "66500:主婦Ａ"
-msgstr "66500:Housewife Ａ"
+msgstr "66500:主婦Ａ"
 
 msgid "66600:主婦Ｂ"
-msgstr "66600:Housewife Ｂ"
+msgstr "66600:主婦Ｂ"
 
 msgid "66700:女子Ａ"
-msgstr "66700:Girl A"
+msgstr "66700:女子Ａ"
 
 msgid "66800:女子Ｂ"
-msgstr "66800:Girl B"
+msgstr "66800:女子Ｂ"
 
 msgid "66900:女子Ｃ"
-msgstr "66900:Girl C"
+msgstr "66900:女子Ｃ"
 
 msgid "67000:女子Ｄ"
-msgstr "67000:Girl D"
+msgstr "67000:女子Ｄ"
 
 msgid "67100:女子Ｅ"
-msgstr "67100:Girl E"
+msgstr "67100:女子Ｅ"
 
 msgid "67200:女子Ｆ"
-msgstr "67200:Girl F"
+msgstr "67200:女子Ｆ"
 
 msgid "67300:生徒Ａ"
-msgstr "67300:Student Ａ"
+msgstr "67300:生徒Ａ"
 
 msgid "67400:生徒Ｂ"
-msgstr "67400:Student Ｂ"
+msgstr "67400:生徒Ｂ"
 
 msgid "67500:生徒Ｃ"
-msgstr "67500:Student Ｃ"
+msgstr "67500:生徒Ｃ"
 
 msgid "67600:女子高生Ａ"
-msgstr "67600:teenage girl Ａ"
+msgstr "67600:女子高生Ａ"
 
 msgid "67700:女子高生Ｂ"
-msgstr "67700:teenage girl Ｂ"
+msgstr "67700:女子高生Ｂ"
 
 msgid "67800:コンビニ店員"
-msgstr "67800:Cashier"
+msgstr "67800:コンビニ店員"
 
 msgid "67900:ショップ店員"
-msgstr "67900:Cashier"
+msgstr "67900:ショップ店員"
 
 msgid "68000:シール機"
-msgstr "68000:Photo Booth"
+msgstr "68000:シール機"
 
 msgid "68100:ゾンビ風集団"
-msgstr "68100:Like Zombies"
+msgstr "68100:ゾンビ風集団"
 
 msgid "68200:デモ隊"
-msgstr "68200:Protestors"
+msgstr "68200:デモ隊"
 
 msgid "68300:リュック男"
-msgstr "68300:Backpack Man"
+msgstr "68300:リュック男"
 
 msgid "68400:人々"
-msgstr "68400:People"
+msgstr "68400:人々"
 
 msgid "68500:大学生"
-msgstr "68500:College Student"
+msgstr "68500:大学生"
 
 msgid "68600:太田"
-msgstr "68600:Ota"
+msgstr "68600:太田"
 
 msgid "68700:子供１"
-msgstr "68700:Child １"
+msgstr "68700:子供１"
 
 msgid "68800:怖いお兄さんＣ"
-msgstr "68800:Scary Man C"
+msgstr "68800:怖いお兄さんＣ"
 
 msgid "68900:担任"
-msgstr "68900:Teacher"
+msgstr "68900:担任"
 
 msgid "69000:救急隊員"
-msgstr "69000:Ambulance Tech"
+msgstr "69000:救急隊員"
 
 msgid "69100:数学教師"
-msgstr "69100:Math Teacher"
+msgstr "69100:数学教師"
 
 msgid "69200:日直"
-msgstr "69200:Student"
+msgstr "69200:日直"
 
 msgid "69300:機動隊"
-msgstr "69300:Police"
+msgstr "69300:機動隊"
 
 msgid "69400:母親１"
-msgstr "69400:Mother"
+msgstr "69400:母親１"
 
 msgid "69500:清掃員Ａ"
-msgstr "69500:Cleaner A"
+msgstr "69500:清掃員Ａ"
 
 msgid "69600:清掃員Ｂ"
-msgstr "69600:Cleaner B"
+msgstr "69600:清掃員Ｂ"
 
 msgid "69700:男子高校生Ａ"
-msgstr "69700:teenage boy Ａ"
+msgstr "69700:男子高校生Ａ"
 
 msgid "69800:男子高校生Ｂ"
-msgstr "69800:teenage boy Ｂ"
+msgstr "69800:男子高校生Ｂ"
 
 msgid "69900:男子Ｃ"
-msgstr "69900:Boy Ｃ"
+msgstr "69900:男子Ｃ"
 
 msgid "70000:男子Ｄ"
-msgstr "70000:Boy Ｄ"
+msgstr "70000:男子Ｄ"
 
 msgid "70100:男子Ｅ"
-msgstr "70100:Boy Ｅ"
+msgstr "70100:男子Ｅ"
 
 msgid "70200:男性被災者Ａ"
-msgstr "70200:Male Survivor A"
+msgstr "70200:男性被災者Ａ"
 
 msgid "70300:看護師長"
-msgstr "70300:Head Nurse"
+msgstr "70300:看護師長"
 
 msgid "70400:看護師Ａ"
-msgstr "70400:Nurse A"
+msgstr "70400:看護師Ａ"
 
 msgid "70500:祭参加者コール"
-msgstr "70500:Crowd Members"
+msgstr "70500:祭参加者コール"
 
 msgid "70600:祭参加者１"
-msgstr "70600:Crowd Member 1"
+msgstr "70600:祭参加者１"
 
 msgid "70700:祭参加者２"
-msgstr "70700:Crowd Member 2"
+msgstr "70700:祭参加者２"
 
 msgid "70800:祭参加者３"
-msgstr "70800:Crowd Member 3"
+msgstr "70800:祭参加者３"
 
 msgid "70900:祭参加者４"
-msgstr "70900:Crowd Member 4"
+msgstr "70900:祭参加者４"
 
 msgid "71000:祭参加者５"
-msgstr "71000:Crowd Member 5"
+msgstr "71000:祭参加者５"
 
 msgid "71100:祭参加者６"
-msgstr "71100:Crowd Member 6"
+msgstr "71100:祭参加者６"
 
 msgid "71200:祭参加者７"
-msgstr "71200:Crowd Member 7"
+msgstr "71200:祭参加者７"
 
 msgid "71300:祭参加者８"
-msgstr "71300:Crowd Member 8"
+msgstr "71300:祭参加者８"
 
 msgid "71400:精神科医"
-msgstr "71400:Psychiatrist"
+msgstr "71400:精神科医"
 
 msgid "71500:芸能レポーターＡ"
-msgstr "71500:Gossip Reporter A"
+msgstr "71500:芸能レポーターＡ"
 
 msgid "71600:芸能レポーターＢ"
-msgstr "71600:Gossip Reporter B"
+msgstr "71600:芸能レポーターＢ"
 
 msgid "71700:芸能レポーターＣ"
-msgstr "71700:Gossip Reporter C"
+msgstr "71700:芸能レポーターＣ"
 
 msgid "71800:若い女Ａ"
-msgstr "71800:Young Girl Ａ"
+msgstr "71800:若い女Ａ"
 
 msgid "71900:若い男Ａ"
-msgstr "71900:Young Man Ａ"
+msgstr "71900:若い男Ａ"
 
 msgid "72000:若い男Ｂ"
-msgstr "72000:Young Man Ｂ"
+msgstr "72000:若い男Ｂ"
 
 msgid "72100:通行人たち"
-msgstr "72100:Pedestrians"
+msgstr "72100:通行人たち"
 
 msgid "72200:通行人女１"
-msgstr "72200:Female Pedestrian 1"
+msgstr "72200:通行人女１"
 
 msgid "72300:通行人女２"
-msgstr "72300:Female Pedestrian 2"
+msgstr "72300:通行人女２"
 
 msgid "72400:通行人女３"
-msgstr "72400:Female Pedestrian 3"
+msgstr "72400:通行人女３"
 
 msgid "72500:通行人女４"
-msgstr "72500:Female Pedestrian 4"
+msgstr "72500:通行人女４"
 
 msgid "72600:通行人男１"
-msgstr "72600:Pedestrian １"
+msgstr "72600:通行人男１"
 
 msgid "72700:通行人男２"
-msgstr "72700:Pedestrian ２"
+msgstr "72700:通行人男２"
 
 msgid "72800:通行人Ａ"
-msgstr "72800:Passerby Ａ"
+msgstr "72800:通行人Ａ"
 
 msgid "72900:通行人Ｂ"
-msgstr "72900:Passerby Ｂ"
+msgstr "72900:通行人Ｂ"
 
 msgid "73000:通行人Ｃ"
-msgstr "73000:Passerby Ｃ"
+msgstr "73000:通行人Ｃ"
 
 msgid "73100:通行人Ｄ"
-msgstr "73100:Passerby Ｄ"
+msgstr "73100:通行人Ｄ"
 
 msgid "73200:駅員"
-msgstr "73200:Conductor"
+msgstr "73200:駅員"
 
 msgid "73300:ＯＬ"
 msgstr "73300:ＯＬ"
 
 msgid "73400:こずぴぃ"
-msgstr "73400:Kozupii"
+msgstr "73400:こずぴぃ"
 
 msgid "73500:こずぴぃ？"
-msgstr "73500:Kozupii？"
+msgstr "73500:こずぴぃ？"
 
 msgid "73600:梨深＆梢"
-msgstr "73600:Rimi＆Kozue"
+msgstr "73600:梨深＆梢"
 
 msgid "73700:梨深＆転校生"
-msgstr "73700:Rimi＆Transfer Student"
+msgstr "73700:梨深＆転校生"
 
 msgid "73800:拓巳＆セナ"
-msgstr "73800:Takumi＆Sena"
+msgstr "73800:拓巳＆セナ"
 
 msgid "73900:優愛＆美愛"
-msgstr "73900:Yua＆Mia"
+msgstr "73900:優愛＆美愛"
 
 msgid "74000:みんな"
-msgstr "74000:Everybody"
+msgstr "74000:みんな"
 
 msgid "74100:生徒たち"
-msgstr "74100:Students"
+msgstr "74100:生徒たち"
 
 msgid "80000:"
-msgstr "80000:″,"
+msgstr "80000:"
 
 msgid "80100:拓巳"
 msgstr "80100:拓巳"
@@ -1759,11 +1759,11 @@ msgid "94100:生徒たち"
 msgstr "94100:生徒たち"
 
 msgid "110000:サインアウトされました。タイトル画面に戻ります。"
-msgstr "110000:<0x1D40>号已登出。即将回到<0x1D41><0x1D42>画面。"
+msgstr "110000:サインアウトされました。タイトル画面に戻ります。"
 
 msgid "110010:ゲームパッドが外されました。ゲームパッドを接続してください。"
-msgstr "110010:游<0x1D43>手柄已拔出，<0x1D44>重新<0x1D45>接。"
+msgstr "110010:ゲームパッドが外されました。ゲームパッドを接続してください。"
 
 msgid "110020:ゲームを遊ぶためにはサインインしてください。"
-msgstr "110020:<0x1D46>始游<0x1D43>前<0x1D44>登<0x1D47><0x1D40>号。"
+msgstr "110020:ゲームを遊ぶためにはサインインしてください。"
 

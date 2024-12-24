@@ -10,107 +10,107 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:用事があれば電話よりメールだ"
-msgstr "0:When you need to talk to someone, do prefer to text instead of call?"
+msgstr "0:用事があれば電話よりメールだ"
 
 msgid "100:時々、耳鳴りがする"
-msgstr "100:Do you sometimes have tinnitus?"
+msgstr "100:時々、耳鳴りがする"
 
 msgid "200:誰かの視線を感じて振り返った経験がある"
-msgstr "200:Have you ever felt someone's eyes on you and turned around?"
+msgstr "200:誰かの視線を感じて振り返った経験がある"
 
 msgid "300:止まっているはずの物が、一瞬動いているように見えることがある"
-msgstr "300:Do stationary objects sometimes seem to be moving toward you?"
+msgstr "300:止まっているはずの物が、一瞬動いているように見えることがある"
 
 msgid "400:虫の知らせのような経験をしたことがある"
-msgstr "400:Have you ever had a premonition that turned out to be right?"
+msgstr "400:虫の知らせのような経験をしたことがある"
 
 msgid "500:何気なくデジタル時計を見たとき、偶然にも同じ数字が並んでいることがある"
-msgstr "500:Have you ever checked a digital clock and seen the same numbers repeat?"
+msgstr "500:何気なくデジタル時計を見たとき、偶然にも同じ数字が並んでいることがある"
 
 msgid "600:ひと月以内に涙を流した経験がある"
-msgstr "600:Have you cried within the last month?"
+msgstr "600:ひと月以内に涙を流した経験がある"
 
 msgid "700:想像力だけで自慰行為ができる"
-msgstr "700:Can you masturbate just using your imagination?"
+msgstr "700:想像力だけで自慰行為ができる"
 
 msgid "800:自慰行為中の映像に邪魔が入らない"
-msgstr "800:Can you stay focused on just one mental image when masturbating?"
+msgstr "800:自慰行為中の映像に邪魔が入らない"
 
 msgid "900:目を閉じなくてもなにかを空想することができる"
-msgstr "900:Can you fantasize about something with your eyes open?"
+msgstr "900:目を閉じなくてもなにかを空想することができる"
 
 msgid "1000:車のフロントビューが時々人の顔に見える"
-msgstr "1000:Does the front of an automobile ever look like a face?"
+msgstr "1000:車のフロントビューが時々人の顔に見える"
 
 msgid "1100:ホラー映画を見た後はトイレに行きづらい"
-msgstr "1100:Do you have difficulty going to the bathroom after watching a horror movie?"
+msgstr "1100:ホラー映画を見た後はトイレに行きづらい"
 
 msgid "1200:お化け屋敷は苦手だ"
-msgstr "1200:Not a fan of haunted houses?"
+msgstr "1200:お化け屋敷は苦手だ"
 
 msgid "1300:本を読み始めると時間を忘れて没頭する"
-msgstr "1300:When you start reading a book, do you lose track of time and immerse yourself?"
+msgstr "1300:本を読み始めると時間を忘れて没頭する"
 
 msgid "1400:宇宙には地球以外にも人類のような生物が住む星があると思う"
-msgstr "1400:Do you think aliens are real?"
+msgstr "1400:宇宙には地球以外にも人類のような生物が住む星があると思う"
 
 msgid "1500:血液型性格判断は自分の性格とことごとく当てはまる"
-msgstr "1500:When you look at your horoscope, is it always right?"
+msgstr "1500:血液型性格判断は自分の性格とことごとく当てはまる"
 
 msgid "1600:乗り物酔いをしやすい"
-msgstr "1600:Do you get motion sickness easily?"
+msgstr "1600:乗り物酔いをしやすい"
 
 msgid "1700:神様はいると思う"
-msgstr "1700:Do you think God exists?"
+msgstr "1700:神様はいると思う"
 
 msgid "1800:霊感は強い方だ"
-msgstr "1800:Do you have a sixth sense?"
+msgstr "1800:霊感は強い方だ"
 
 msgid "1900:寝ているとき、カラーの夢を見たことがある"
-msgstr "1900:When you sleep, do you dream in full color?"
+msgstr "1900:寝ているとき、カラーの夢を見たことがある"
 
 msgid "2000:寝ているとき、夢の中でこれが夢だと解ったことがある"
-msgstr "2000:When you are asleep, do you ever understand that you are dreaming?"
+msgstr "2000:寝ているとき、夢の中でこれが夢だと解ったことがある"
 
 msgid "2100:記憶の一部が欠落してしまった経験がある"
-msgstr "2100:Have you experienced partial memory loss?"
+msgstr "2100:記憶の一部が欠落してしまった経験がある"
 
 msgid "2200:人と目を合わせるのが苦手だ"
-msgstr "2200:Do you have trouble making eye contact with others?"
+msgstr "2200:人と目を合わせるのが苦手だ"
 
 msgid "2300:梅干しを見ただけで口の中に唾液が充満してしまう"
-msgstr "2300:Does the sight of a lemon make your mouth full of saliva?"
+msgstr "2300:梅干しを見ただけで口の中に唾液が充満してしまう"
 
 msgid "2400:人のアクビがうつりやすい気がする"
-msgstr "2400:When other people yawn, do you yawn too?"
+msgstr "2400:人のアクビがうつりやすい気がする"
 
 msgid "2500:[name]葉月[line]「はい、お疲れ様でした」[%p]"
-msgstr "2500:[name]葉月[line]Okay, thank you.[%p]"
+msgstr "2500:[name]葉月[line]「はい、お疲れ様でした」[%p]"
 
 msgid "2600:最後の設問にチェックをし終えたと同時に、僕がなにも言ってないのに葉月さんが声をかけてきた。[%p]"
-msgstr "2600:When I checked off the last few questions, Hazuki spoke to me before I had a chance to say anything to her.[%p]"
+msgstr "2600:最後の設問にチェックをし終えたと同時に、僕がなにも言ってないのに葉月さんが声をかけてきた。[%p]"
 
 msgid "2700:ずっと見られてて、すごく恥ずかしかった。顔が紅くなってたかもしれない。[%p]"
-msgstr "2700:I'd been really embarrassed, having her watch me the whole time. Maybe my face had been red.[%p]"
+msgstr "2700:ずっと見られてて、すごく恥ずかしかった。顔が紅くなってたかもしれない。[%p]"
 
 msgid "2800:だから僕は葉月さんの方は見ないようにして、おとなしくチェックシートを手渡した。裏面に自分の症状を書き込む暇はなかった。[%p]"
-msgstr "2800:I quietly handed over the worksheet, trying not to look at her face. I hadn't had time to write my symptoms on the back.[%p]"
+msgstr "2800:だから僕は葉月さんの方は見ないようにして、おとなしくチェックシートを手渡した。裏面に自分の症状を書き込む暇はなかった。[%p]"
 
 msgid "2900:[name]葉月[line]「それでは、待合室でお待ちください」[%p]"
-msgstr "2900:[name]葉月[line]Now, please wait in the waiting room.[%p]"
+msgstr "2900:[name]葉月[line]「それでは、待合室でお待ちください」[%p]"
 
 msgid "3000:[name]葉月[line]「お薬が出てますから」[%p]"
-msgstr "3000:[name]葉月[line]You'll be given some medicine.[%p]"
+msgstr "3000:[name]葉月[line]「お薬が出てますから」[%p]"
 
 msgid "3100:[name]拓巳[line]「え？\u3000く、薬……？」[%p]"
-msgstr "3100:[name]拓巳[line]Huh? M-Medicine?[%p]"
+msgstr "3100:[name]拓巳[line]「え？\u3000く、薬……？」[%p]"
 
 msgid "3200:薬が出るの？[linebreak]先生はそんなこと一言も言ってなかったけど……。[%p]"
-msgstr "3200:I was getting some kind of prescription? The doctor hadn't said a word about that.[%p]"
+msgstr "3200:薬が出るの？[linebreak]先生はそんなこと一言も言ってなかったけど……。[%p]"
 
 msgid "3300:[name]葉月[line]「ええ、先生の指示で。弱い精神安定剤です。ぐっすり眠れるようになるし、副作用などもありませんよ」[%p]"
-msgstr "3300:[name]葉月[line]Yes, those were the doctor's instructions. Some mild sedatives. They'll help you sleep, and don't have any side effects.[%p]"
+msgstr "3300:[name]葉月[line]「ええ、先生の指示で。弱い精神安定剤です。ぐっすり眠れるようになるし、副作用などもありませんよ」[%p]"
 
 msgid "3400:なるほど。さすが先生だ。気が利く。[linebreak]でもまたあのロビーで待たされると思うと、憂鬱な気分になった。[%p]"
-msgstr "3400:Woohoo! Thanks, Doc![linebreak]I was appreciative, but also the thought of waiting in that lobby again made me feel miserable.[%p]"
+msgstr "3400:なるほど。さすが先生だ。気が利く。[linebreak]でもまたあのロビーで待たされると思うと、憂鬱な気分になった。[%p]"
 

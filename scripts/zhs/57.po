@@ -10,251 +10,251 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:――ブーン、ブーン、遠足へ行く人は早く乗って下さーい。[%p]"
-msgstr "0:—Beep, beep. Anybody going on the field trip, get on.[%p]"
+msgstr "0:――ブーン、ブーン、遠足へ行く人は早く乗って下さーい。[%p]"
 
 msgid "100:畳に寝そべった西條拓巳の手には、色鉛筆が握られている。今は黄色。ほんの数分前までは赤色だった。[%p]"
-msgstr "100:Takumi Nishijo lay on the tatami mat, a colored pencil in his hand. This time it was yellow. Just a few minutes ago, it had been red.[%p]"
+msgstr "100:畳に寝そべった西條拓巳の手には、色鉛筆が握られている。今は黄色。ほんの数分前までは赤色だった。[%p]"
 
 msgid "200:広げたスケッチブックに覆い被さるようにして、軽快に筆を走らせている。[%p]"
-msgstr "200:He was happily scribbling with his pencil across the whole of his open sketchbook.[%p]"
+msgstr "200:広げたスケッチブックに覆い被さるようにして、軽快に筆を走らせている。[%p]"
 
 msgid "300:拓巳は絵を描くのが好きだった。学校の授業でも、ノートの端にいつも落書きをしていたぐらいだ。[%p]"
-msgstr "300:Takumi liked to draw. Even during class, he was always scribbling something in the corner of his notebook.[%p]"
+msgstr "300:拓巳は絵を描くのが好きだった。学校の授業でも、ノートの端にいつも落書きをしていたぐらいだ。[%p]"
 
 msgid "400:点けっぱなしになっているテレビには、朝のニュースが映し出されている。[%p]"
-msgstr "400:The TV was turned on, showing the morning news.[%p]"
+msgstr "400:点けっぱなしになっているテレビには、朝のニュースが映し出されている。[%p]"
 
 msgid "500:まだ小学４年生の拓巳にとっては、ニュースなど“つまらないもの”でしかなかったから、テレビ画面を見ようともしなかった。[%p]"
-msgstr "500:For a fourth-grader like him, though, the news was boring. He didn't look at it at all.[%p]"
+msgstr "500:まだ小学４年生の拓巳にとっては、ニュースなど“つまらないもの”でしかなかったから、テレビ画面を見ようともしなかった。[%p]"
 
 msgid "600:――ブーン、ブーン、お菓子は３００円までですよー。[%p]"
-msgstr "600:—Beep, beep. You can't bring more than 300 yen for snacks![%p]"
+msgstr "600:――ブーン、ブーン、お菓子は３００円までですよー。[%p]"
 
 msgid "700:描いているのは、黄色いバス。気分はバス運転手だった。[%p]"
-msgstr "700:He was drawing a yellow bus, and pretending he was the bus driver.[%p]"
+msgstr "700:描いているのは、黄色いバス。気分はバス運転手だった。[%p]"
 
 msgid "800:――満員になっちゃうから出発しちゃいますよー、ブーン。[%p]"
-msgstr "800:—The bus is full, so off we go! Fwoosh![%p]"
+msgstr "800:――満員になっちゃうから出発しちゃいますよー、ブーン。[%p]"
 
 msgid "900:頭の中でその光景を想像しながら、実際に絵に起こしていく。[%p]"
-msgstr "900:He envisioned the scene in his head as he put it onto the page.[%p]"
+msgstr "900:頭の中でその光景を想像しながら、実際に絵に起こしていく。[%p]"
 
 msgid "1000:勢いが付きすぎて、スケッチブックをはみ出して畳に線を描いてしまうことも少なくない。[%p]"
-msgstr "1000:It wasn't uncommon for him to get too excited and let his pencil go off the sketchbook and onto the tatami mat.[%p]"
+msgstr "1000:勢いが付きすぎて、スケッチブックをはみ出して畳に線を描いてしまうことも少なくない。[%p]"
 
 msgid "1100:その度に、隣でマンガを読んでいる七海が、[linebreak]妹のくせに“もー！\u3000汚しちゃダメでしょー”と怒る。[linebreak]それでも構わず、拓巳は絵に没頭する。[%p]"
-msgstr "1100:Whenever that happened, his little sister Nanami would yell, “Hey, don't mess up the mat!” She was a little brat, and he didn't care. He kept drawing anyway.[%p]"
+msgstr "1100:その度に、隣でマンガを読んでいる七海が、[linebreak]妹のくせに“もー！\u3000汚しちゃダメでしょー”と怒る。[linebreak]それでも構わず、拓巳は絵に没頭する。[%p]"
 
 msgid "1200:だが、そのバスの窓部分に、人の姿を描く段階になって、拓巳はふと手を止めた。[%p]"
-msgstr "1200:When it came time to draw the passengers on the bus, he suddenly stopped.[%p]"
+msgstr "1200:だが、そのバスの窓部分に、人の姿を描く段階になって、拓巳はふと手を止めた。[%p]"
 
 msgid "1300:[name]拓巳[line]「…………」[%p]"
-msgstr "1300:[name]拓巳[line]...[%p]"
+msgstr "1300:[name]拓巳[line]「…………」[%p]"
 
 msgid "1400:[name]拓巳[line]「……………………」[%p]"
-msgstr "1400:[name]拓巳[line]…[%p]"
+msgstr "1400:[name]拓巳[line]「……………………」[%p]"
 
 msgid "1500:そして、おもむろにスケッチブックを破り捨てた。[%p]"
-msgstr "1500:And then he ripped the sketchbook up.[%p]"
+msgstr "1500:そして、おもむろにスケッチブックを破り捨てた。[%p]"
 
 msgid "1600:その前日――[linebreak]秋の遠足を翌日に控えた日――[%p]"
-msgstr "1600:Yesterday... The day before he was supposed to go on the class's fall field trip...[%p]"
+msgstr "1600:その前日――[linebreak]秋の遠足を翌日に控えた日――[%p]"
 
 msgid "1700:突然、拓巳は両親から“お前は遠足に行ってはいけない”と言われた。[%p]"
-msgstr "1700:He'd suddenly been told by his parents that he couldn't go.[%p]"
+msgstr "1700:突然、拓巳は両親から“お前は遠足に行ってはいけない”と言われた。[%p]"
 
 msgid "1800:ずっと楽しみにしていた遠足だった。[%p]"
-msgstr "1800:He'd been looking forward to it for a long time.[%p]"
+msgstr "1800:ずっと楽しみにしていた遠足だった。[%p]"
 
 msgid "1900:この日は朝から興奮状態で、早く明日になってくれないかとドキドキしていたほどだ。[%p]"
-msgstr "1900:He'd been excited the whole day.[%p]"
+msgstr "1900:この日は朝から興奮状態で、早く明日になってくれないかとドキドキしていたほどだ。[%p]"
 
 msgid "2000:両親から下された非情な宣告は、拓巳にとって到底受け入れられるものではなかった。[%p]"
-msgstr "2000:So, when his parents told him, he refused to accept it.[%p]"
+msgstr "2000:両親から下された非情な宣告は、拓巳にとって到底受け入れられるものではなかった。[%p]"
 
 msgid "2100:泣きながら、絶対行くと抵抗したが、無駄だった。[%p]"
-msgstr "2100:He cried and said he was going to go no matter what, but it didn't matter.[%p]"
+msgstr "2100:泣きながら、絶対行くと抵抗したが、無駄だった。[%p]"
 
 msgid "2200:両親はなにを言っても聞いてくれず、ただ“お前には無理だ”“これは拓巳のためを思って言っているんだ”と繰り返すばかりだった。[%p]"
-msgstr "2200:No matter what he said, his parents wouldn't listen. “We're saying this for your sake.” “It's impossible for you.” That's all they would say.[%p]"
+msgstr "2200:両親はなにを言っても聞いてくれず、ただ“お前には無理だ”“これは拓巳のためを思って言っているんだ”と繰り返すばかりだった。[%p]"
 
 msgid "2300:拓巳はベッドの中に潜り込み、[linebreak]布団を引きちぎりそうなくらいの悔しさに震えた。[linebreak]両親のことを心から恨んだ。[%p]"
-msgstr "2300:So, he hid under his covers and got mad, so mad he thought he might tear his blanket apart. He hated his parents from the bottom of his heart.[%p]"
+msgstr "2300:拓巳はベッドの中に潜り込み、[linebreak]布団を引きちぎりそうなくらいの悔しさに震えた。[linebreak]両親のことを心から恨んだ。[%p]"
 
 msgid "2400:当時の拓巳にとっては、遠足というのはそれほどに熱を帯びた、大きな大きなイベントだったのだ。[%p]"
-msgstr "2400:That's how important, how critical, the field trip was to little fourth-grade Takumi.[%p]"
+msgstr "2400:当時の拓巳にとっては、遠足というのはそれほどに熱を帯びた、大きな大きなイベントだったのだ。[%p]"
 
 msgid "2500:クラスのみんなは行けるのに、自分ひとりだけが行けない。[linebreak]それは拓巳にしてみれば、あまりにも理不尽なことだった。[%p]"
-msgstr "2500:Everybody else got to go, and he didn't. From his perspective, it was totally unfair.[%p]"
+msgstr "2500:クラスのみんなは行けるのに、自分ひとりだけが行けない。[linebreak]それは拓巳にしてみれば、あまりにも理不尽なことだった。[%p]"
 
 msgid "2600:拓巳がいるのは独りぼっちの世界。[linebreak]みんながいるのはすごく楽しい世界。[linebreak]まるで自分だけが世界から断絶されたように感じた。[%p]"
-msgstr "2600:In his mind, there were two worlds: a lonely world where he was the only resident, and a fun world where everyone else got to be.[%p]"
+msgstr "2600:拓巳がいるのは独りぼっちの世界。[linebreak]みんながいるのはすごく楽しい世界。[linebreak]まるで自分だけが世界から断絶されたように感じた。[%p]"
 
 msgid "2700:担任の先生、クラスメイトたち、みんなが拓巳を置いていくのが許せなかった。[%p]"
-msgstr "2700:He hated his teacher and his classmates for going without him.[%p]"
+msgstr "2700:担任の先生、クラスメイトたち、みんなが拓巳を置いていくのが許せなかった。[%p]"
 
 msgid "2800:そして突然の理不尽な“宣告”をしてきた両親が許せなかった。[%p]"
-msgstr "2800:And he hated his parents for telling him he couldn't go.[%p]"
+msgstr "2800:そして突然の理不尽な“宣告”をしてきた両親が許せなかった。[%p]"
 
 msgid "2900:それは両親に対する、そしてクラスメイト全員に対する憎悪へと変わる。拓巳は血が滲むぐらい強く唇を噛みしめ、ブツブツと呪いの言葉を連呼し続けた。[%p]"
-msgstr "2900:It wasn't long before that hatred boiled over. He bit his lip so hard it drew blood, and began to mutter a curse over and over.[%p]"
+msgstr "2900:それは両親に対する、そしてクラスメイト全員に対する憎悪へと変わる。拓巳は血が滲むぐらい強く唇を噛みしめ、ブツブツと呪いの言葉を連呼し続けた。[%p]"
 
 msgid "3000:[margin top="266"][center]――みんな、行けなくなっちゃえばいいのに。[%e]"
-msgstr "3000:[margin top="266"][center]—I wish nobody got to go.[%e]"
+msgstr "3000:[margin top="266"][center]――みんな、行けなくなっちゃえばいいのに。[%e]"
 
 msgid "3100:翌日の朝。[linebreak]早朝から電話が鳴り続けていた。[%p]"
-msgstr "3100:The next morning, the phone started ringing really early.[%p]"
+msgstr "3100:翌日の朝。[linebreak]早朝から電話が鳴り続けていた。[%p]"
 
 msgid "3200:母親がその都度電話を取っては、なにやら動揺した感じで対応している。拓巳は結局一睡もできなかった。[%p]"
-msgstr "3200:His mom would pick it up and answer it, seemingly shaken by something. She'd set it down and a little later it would ring again. Takumi couldn't sleep at all.[%p]"
+msgstr "3200:母親がその都度電話を取っては、なにやら動揺した感じで対応している。拓巳は結局一睡もできなかった。[%p]"
 
 msgid "3300:時間は９時を過ぎていた。[%p]"
-msgstr "3300:It was past 9:00 AM.[%p]"
+msgstr "3300:時間は９時を過ぎていた。[%p]"
 
 msgid "3400:七海が、座布団にお行儀よく座ってマンガを読んでいた。“ナナも学校休んでおにぃと一緒にいたげるー”と七海は前日拓巳に話しており、さも当然のようにそこにいた。[%p]"
-msgstr "3400:Nanami was sitting on a cushion reading manga. She'd said, “I'll stay home from school with you,” the day before, and so there she was.[%p]"
+msgstr "3400:七海が、座布団にお行儀よく座ってマンガを読んでいた。“ナナも学校休んでおにぃと一緒にいたげるー”と七海は前日拓巳に話しており、さも当然のようにそこにいた。[%p]"
 
 msgid "3500:父親はすでに会社に行っていて、その姿はない。[linebreak]母親は電話の対応をするのが忙しく、朝食の用意をしていなかった。[%p]"
-msgstr "3500:His dad had gone into work and was nowhere to be seen. His mom was so busy answering the phone that she hadn't made breakfast.[%p]"
+msgstr "3500:父親はすでに会社に行っていて、その姿はない。[linebreak]母親は電話の対応をするのが忙しく、朝食の用意をしていなかった。[%p]"
 
 msgid "3600:今日は学校に行く必要がない――。[%p]"
-msgstr "3600:Today he didn't need to go to school.[%p]"
+msgstr "3600:今日は学校に行く必要がない――。[%p]"
 
 msgid "3700:拓巳はむくれたまま、[linebreak]スケッチブックを開いて憂さ晴らしのように絵を描き始めた。[%p]"
-msgstr "3700:Glumly, he began... to draw in his sketchbook.[%p]"
+msgstr "3700:拓巳はむくれたまま、[linebreak]スケッチブックを開いて憂さ晴らしのように絵を描き始めた。[%p]"
 
 msgid "3800:でも結局憤りの感情は消えず、[linebreak]苛立ちに任せてスケッチブックを破り捨てたとき――[%p]"
-msgstr "3800:But it did nothing to help assuage his anger, and just when he'd ripped it up in frustration...[%p]"
+msgstr "3800:でも結局憤りの感情は消えず、[linebreak]苛立ちに任せてスケッチブックを破り捨てたとき――[%p]"
 
 msgid "3900:[name]七海[line]「あれぇ？\u3000このバス……」[%p]"
-msgstr "3900:[name]七海[line]Huh? That bus...[%p]"
+msgstr "3900:[name]七海[line]「あれぇ？\u3000このバス……」[%p]"
 
 msgid "4000:戸惑ったような声を七海があげた。[linebreak]拓巳が描いた絵のことを言っているのかと思ったが、七海の視線はテレビ画面へと注がれていた。[%p]"
-msgstr "4000:There was a note of worry in Nanami's voice. He thought she was talking about his picture, but her eyes were glued to the TV set.[%p]"
+msgstr "4000:戸惑ったような声を七海があげた。[linebreak]拓巳が描いた絵のことを言っているのかと思ったが、七海の視線はテレビ画面へと注がれていた。[%p]"
 
 msgid "4100:[name]七海[line]「ねー、おかーさーん！」[%p]"
-msgstr "4100:[name]七海[line]Mom![%p]"
+msgstr "4100:[name]七海[line]「ねー、おかーさーん！」[%p]"
 
 msgid "4200:七海は、いまだ電話の対応をしている母親を大声で呼ぶ。[linebreak]拓巳はそれを横で聞きながら、妹の視線を追ってテレビ画面をぼんやりと見つめた。[%p]"
-msgstr "4200:Suddenly, she called out for their mom, who was still talking on the phone. Takumi looked disinterestedly over at the TV.[%p]"
+msgstr "4200:七海は、いまだ電話の対応をしている母親を大声で呼ぶ。[linebreak]拓巳はそれを横で聞きながら、妹の視線を追ってテレビ画面をぼんやりと見つめた。[%p]"
 
 msgid "4300:画面には、高速道路の高架が崩落した光景が映し出されていた。崩落したのはわずか５０メートルくらいの区間。[%p]"
-msgstr "4300:It was showing a collapsed bridge on the highway. Only a small, fifty-meter section of the bridge had collapsed.[%p]"
+msgstr "4300:画面には、高速道路の高架が崩落した光景が映し出されていた。崩落したのはわずか５０メートルくらいの区間。[%p]"
 
 msgid "4400:不運にも、ちょうどそこを走行中だった一台のバスが巻き込まれ、高架下に横転していた。[%p]"
-msgstr "4400:A bus had been traveling right over the bridge at the time, and had fallen through the hole.[%p]"
+msgstr "4400:不運にも、ちょうどそこを走行中だった一台のバスが巻き込まれ、高架下に横転していた。[%p]"
 
 msgid "4500:それこそまさに、拓巳が乗るはずだったバス。[linebreak]拓巳のクラスメイトたちが乗っていたバス。[%p]"
-msgstr "4500:It was the bus Takumi was supposed to have been on. It was the one his classmates were all on.[%p]"
+msgstr "4500:それこそまさに、拓巳が乗るはずだったバス。[linebreak]拓巳のクラスメイトたちが乗っていたバス。[%p]"
 
 msgid "4600:一目見ただけで、なにが起こったのか拓巳にはほぼ想像できてしまった。[%p]"
-msgstr "4600:In a single instant, Takumi was able to envision almost everything that had happened.[%p]"
+msgstr "4600:一目見ただけで、なにが起こったのか拓巳にはほぼ想像できてしまった。[%p]"
 
 msgid "4700:クラスメイトたちがそこには映っていた。[%p]"
-msgstr "4700:His classmates were all there.[%p]"
+msgstr "4700:クラスメイトたちがそこには映っていた。[%p]"
 
 msgid "4800:ある子は泣きじゃくり、ある子は額が血まみれになっていて、ある子は担架に寝かせられて救急車に運び込まれている。[%p]"
-msgstr "4800:Some were crying. Some had faces covered in blood. One was being carried off in a stretcher.[%p]"
+msgstr "4800:ある子は泣きじゃくり、ある子は額が血まみれになっていて、ある子は担架に寝かせられて救急車に運び込まれている。[%p]"
 
 msgid "4900:レポーターが深刻ぶった顔で事故の状況を報告していたが、拓巳にはその意味はよく分かっていなかった。[%p]"
-msgstr "4900:A reporter was explaining the accident with a stern expression on his face, but Takumi couldn't understand what he was talking about.[%p]"
+msgstr "4900:レポーターが深刻ぶった顔で事故の状況を報告していたが、拓巳にはその意味はよく分かっていなかった。[%p]"
 
 msgid "5000:[name]母親[line]「タクちゃん、大変よ……！」[%p]"
-msgstr "5000:[name]母親[line]Taku, listen to me![%p]"
+msgstr "5000:[name]母親[line]「タクちゃん、大変よ……！」[%p]"
 
 msgid "5100:母親が、電話の子機を握りしめたまま、蒼白な顔で部屋の入り口に立ち尽くしていた。[%p]"
-msgstr "5100:His mom was standing in the room's doorway, holding the phone in her hand and looking deathly pale.[%p]"
+msgstr "5100:母親が、電話の子機を握りしめたまま、蒼白な顔で部屋の入り口に立ち尽くしていた。[%p]"
 
 msgid "5200:[name]母親[line]「遠足のバスが、高速道路で事故に遭っちゃったんだって……」[%p]"
-msgstr "5200:[name]母親[line]The field trip's bus got into an accident on the highway.[%p]"
+msgstr "5200:[name]母親[line]「遠足のバスが、高速道路で事故に遭っちゃったんだって……」[%p]"
 
 msgid "5300:[name]七海[line]「それ、今テレビでやってる……」[%p]"
-msgstr "5300:[name]七海[line]It's on the TV, too.[%p]"
+msgstr "5300:[name]七海[line]「それ、今テレビでやってる……」[%p]"
 
 msgid "5400:[name]母親[line]「それで、斎藤先生が――」[%p]"
-msgstr "5400:[name]母親[line]And Mr. Saito is...[%p]"
+msgstr "5400:[name]母親[line]「それで、斎藤先生が――」[%p]"
 
 msgid "5500:――死んじゃったんだ。[%p]"
-msgstr "5500:dead.[%p]"
+msgstr "5500:――死んじゃったんだ。[%p]"
 
 msgid "5600:なぜか、拓巳には確信できた。[%p]"
-msgstr "5600:For some reason, Takumi was sure of it.[%p]"
+msgstr "5600:なぜか、拓巳には確信できた。[%p]"
 
 msgid "5700:今テレビでやっているニュースのすべてが、[linebreak]前夜、彼が悔しさと憎しみにまみれて頭の中に思い描いたものと、酷似していたから。[%p]"
-msgstr "5700:Because everything he was seeing on the TV... was just like the scene he'd envisioned last night in his frustration and anger.[%p]"
+msgstr "5700:今テレビでやっているニュースのすべてが、[linebreak]前夜、彼が悔しさと憎しみにまみれて頭の中に思い描いたものと、酷似していたから。[%p]"
 
 msgid "5800:拓巳の心の中を占めていたのは、ただひとつ。[linebreak]自分には予知能力があるんだという、奇妙な確信。[%p]"
-msgstr "5800:In his mind there was only a single thought, a strange certainty that he had the ability to see the future.[%p]"
+msgstr "5800:拓巳の心の中を占めていたのは、ただひとつ。[linebreak]自分には予知能力があるんだという、奇妙な確信。[%p]"
 
 msgid "5900:昔、テレビでやっていた超能力の検証番組が拓巳の記憶には刻みつけられていた。[%p]"
-msgstr "5900:He remembered a TV program he'd seen years ago, about whether psychic powers were real or not.[%p]"
+msgstr "5900:昔、テレビでやっていた超能力の検証番組が拓巳の記憶には刻みつけられていた。[%p]"
 
 msgid "6000:その番組に登場した“予知能力者”は、検証実験において脅威の超能力を発揮して、当時の世間を驚かせたという。[%p]"
-msgstr "6000:There was a psychic on the show who could “see the future,” and put their powers to incredible use during the test the show had given. At the time, it was a huge deal.[%p]"
+msgstr "6000:その番組に登場した“予知能力者”は、検証実験において脅威の超能力を発揮して、当時の世間を驚かせたという。[%p]"
 
 msgid "6100:用意された１２個のアイテムを、１〜１２の番号が振られたボックスのどれに入れられるかを当てるという検証で、[%p]"
-msgstr "6100:In the test, twelve items were put into twelve boxes numbered one to twelve, and they had to guess which one would be put in which.[%p]"
+msgstr "6100:用意された１２個のアイテムを、１〜１２の番号が振られたボックスのどれに入れられるかを当てるという検証で、[%p]"
 
 msgid "6200:能力者は別室にてアイテム名が書かれたカードがどのボックスに入れられるかをあらかじめ予測する。[%p]"
-msgstr "6200:The psychic would be in another room, before anything happened, and make their guesses there.[%p]"
+msgstr "6200:能力者は別室にてアイテム名が書かれたカードがどのボックスに入れられるかをあらかじめ予測する。[%p]"
 
 msgid "6300:その後、別室でスタッフが実際にアイテムをボックスに入れ、予言した内容との一致した数を検証する。[%p]"
-msgstr "6300:Afterward, the show's staff would put the items into the boxes, and the results would be checked.[%p]"
+msgstr "6300:その後、別室でスタッフが実際にアイテムをボックスに入れ、予言した内容との一致した数を検証する。[%p]"
 
 msgid "6400:この実験は、正解率９割というすさまじい結果となり、出演者たちが騒然となっていた。[%p]"
-msgstr "6400:Astonishingly, the psychic was 90% accurate, amazing the rest of the cast.[%p]"
+msgstr "6400:この実験は、正解率９割というすさまじい結果となり、出演者たちが騒然となっていた。[%p]"
 
 msgid "6500:そしてそのとき、テレビを見ていた拓巳も試しに能力者と同じように“予想”をし、全問正解という結果を残していた。もちろんこのことは誰にも言ったことはないが。[%p]"
-msgstr "6500:Takumi had been watching the show, and he'd made his own predictions as well. Every single one was right. Of course, he'd never told anybody this.[%p]"
+msgstr "6500:そしてそのとき、テレビを見ていた拓巳も試しに能力者と同じように“予想”をし、全問正解という結果を残していた。もちろんこのことは誰にも言ったことはないが。[%p]"
 
 msgid "6600:だから今、テレビ画面の中で起きている事故も、自分が予知したことが当たったんだ、と思った。[%p]"
-msgstr "6600:But that's why now, he thought that he'd foretold the crash unfolding on the screen.[%p]"
+msgstr "6600:だから今、テレビ画面の中で起きている事故も、自分が予知したことが当たったんだ、と思った。[%p]"
 
 msgid "6700:[name]母親[line]「クラスの半数以上の子がケガしたらしくて……」[%p]"
-msgstr "6700:[name]母親[line]They said over half the class was injured.[%p]"
+msgstr "6700:[name]母親[line]「クラスの半数以上の子がケガしたらしくて……」[%p]"
 
 msgid "6800:[name]母親[line]「ああ、なんてこと……」[%p]"
-msgstr "6800:[name]母親[line]How awful...[%p]"
+msgstr "6800:[name]母親[line]「ああ、なんてこと……」[%p]"
 
 msgid "6900:母親が、へたり込んでいる拓巳を抱きしめようとしてきたが、拓巳はその手をすり抜けて部屋の隅へと這っていった。[%p]"
-msgstr "6900:His mother tried to reach down and pick him up, but he slid past her and crawled to the corner of the room.[%p]"
+msgstr "6900:母親が、へたり込んでいる拓巳を抱きしめようとしてきたが、拓巳はその手をすり抜けて部屋の隅へと這っていった。[%p]"
 
 msgid "7000:[name]母親[line]「でも、本当によかったわ……」[%p]"
-msgstr "7000:[name]母親[line]I'm so glad, though.[%p]"
+msgstr "7000:[name]母親[line]「でも、本当によかったわ……」[%p]"
 
 msgid "7100:母親が視線を泳がせながら、虚ろな声でつぶやく。[%p]"
-msgstr "7100:She whispered in a hollow voice, her gaze wandering around the room.[%p]"
+msgstr "7100:母親が視線を泳がせながら、虚ろな声でつぶやく。[%p]"
 
 msgid "7200:[name]母親[line]「今日、タクちゃんを休ませておいて……本当に……よかった」[%p]"
-msgstr "7200:[name]母親[line]I'm so glad I kept you home today.[%p]"
+msgstr "7200:[name]母親[line]「今日、タクちゃんを休ませておいて……本当に……よかった」[%p]"
 
 msgid "7300:拓巳は吐き気を覚えた。[linebreak]腐ってる、と思った。[%p]"
-msgstr "7300:Takumi felt like he was about to throw up. It was all rotten, he thought.[%p]"
+msgstr "7300:拓巳は吐き気を覚えた。[linebreak]腐ってる、と思った。[%p]"
 
 msgid "7400:予知能力があるからなんだっていうんだと、[linebreak]心は一瞬にして冷めてしまっていた。[%p]"
-msgstr "7400:What good was seeing the future? In that moment, he felt his heart turn cold.[%p]"
+msgstr "7400:予知能力があるからなんだっていうんだと、[linebreak]心は一瞬にして冷めてしまっていた。[%p]"
 
 msgid "7500:そうして拓巳は、しばらく誰とも口を利くのをやめた。[%p]"
-msgstr "7500:For a while, he didn't talk to anyone.[%p]"
+msgstr "7500:そうして拓巳は、しばらく誰とも口を利くのをやめた。[%p]"
 
 msgid "7600:文字通り、無言。誰に対しても一言も声を発しなかった。[%p]"
-msgstr "7600:He became completely silent. He didn't say a single word to a single person.[%p]"
+msgstr "7600:文字通り、無言。誰に対しても一言も声を発しなかった。[%p]"
 
 msgid "7700:無口になった拓巳を両親は心配し、ただでさえ過保護だったものがますますエスカレートした。[%p]"
-msgstr "7700:His parents were already overprotective, but this only made it worse.[%p]"
+msgstr "7700:無口になった拓巳を両親は心配し、ただでさえ過保護だったものがますますエスカレートした。[%p]"
 
 msgid "7800:拓巳はそんな両親の姿がだんだんバカバカしく思えてきて、無口な少年をわざと演じることにしたのだ。[%p]"
-msgstr "7800:He gradually started to find them ridiculous, and began to keep up his silent act deliberately.[%p]"
+msgstr "7800:拓巳はそんな両親の姿がだんだんバカバカしく思えてきて、無口な少年をわざと演じることにしたのだ。[%p]"
 
 msgid "7900:それが両親への仕返しだと、拓巳は思ってた。[%p]"
-msgstr "7900:That was his way of getting back at his parents, he thought.[%p]"
+msgstr "7900:それが両親への仕返しだと、拓巳は思ってた。[%p]"
 
 msgid "8000:母親は、拓巳があまりに話そうとしないので、総合病院の精神科で診てもらうことにした。[linebreak]拓巳はＰＴＳＤと診断された。[%p]"
-msgstr "8000:He was so quiet that they took him to a psychiatrist at a general hospital. He was diagnosed with PTSD.[%p]"
+msgstr "8000:母親は、拓巳があまりに話そうとしないので、総合病院の精神科で診てもらうことにした。[linebreak]拓巳はＰＴＳＤと診断された。[%p]"
 
 msgid "8100:もちろん拓巳はＰＴＳＤなどではなかったから、[linebreak]もらった薬は一度も飲まなかった。[linebreak]飲むフリをしていただけだった。[%p]"
-msgstr "8100:Of course, he didn't have PTSD, so he never took the medicine they gave him. He just pretended to take it.[%p]"
+msgstr "8100:もちろん拓巳はＰＴＳＤなどではなかったから、[linebreak]もらった薬は一度も飲まなかった。[linebreak]飲むフリをしていただけだった。[%p]"
 
 msgid "8200:拓巳の演技に両親は気付かなかったし、拓巳のことを心配して苦悩している彼らの姿を見ても、申し訳なさなどこれっぽっちも感じなかった。[%p]"
-msgstr "8200:His parents never picked up on the act, and even when he saw how worried and miserable they looked, he didn't feel the slightest bit guilty.[%p]"
+msgstr "8200:拓巳の演技に両親は気付かなかったし、拓巳のことを心配して苦悩している彼らの姿を見ても、申し訳なさなどこれっぽっちも感じなかった。[%p]"
 

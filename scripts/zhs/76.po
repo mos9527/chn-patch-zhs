@@ -10,269 +10,269 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:その夜、また新しい猟奇的事件が起きた。[linebreak]ニュージェネ第４の事件だ。[%p]"
-msgstr "0:Another bizarre murder had taken place that night. The 4th NewGen murder.[%p]"
+msgstr "0:その夜、また新しい猟奇的事件が起きた。[linebreak]ニュージェネ第４の事件だ。[%p]"
 
 msgid "100:エンスーをやっていたら、例によってグリムが情報を仕入れてきたんだ。[%p]"
-msgstr "100:I was playing ESO when Grimm, as usual, came to tell me.[%p]"
+msgstr "100:エンスーをやっていたら、例によってグリムが情報を仕入れてきたんだ。[%p]"
 
 msgid "200:ナイトハルト＞おっす、グリム"
-msgstr "200:KnightHeart: Yo, Grimm."
+msgstr "200:ナイトハルト＞おっす、グリム"
 
 msgid "300:ナイトハルト＞今日は入るの遅かったじゃん"
-msgstr "300:KnightHeart: You're late tonight."
+msgstr "300:ナイトハルト＞今日は入るの遅かったじゃん"
 
 msgid "400:グリム＞その目だれの目？"
-msgstr "400:Grimm: Whose eyes are those?"
+msgstr "400:グリム＞その目だれの目？"
 
 msgid "500:[name]拓巳[line]「……！」[%p]"
-msgstr "500:[name]拓巳[line]...![%p]"
+msgstr "500:[name]拓巳[line]「……！」[%p]"
 
 msgid "600:一瞬、目を疑った。[%p]"
-msgstr "600:For a moment, I couldn't believe my eyes.[%p]"
+msgstr "600:一瞬、目を疑った。[%p]"
 
 msgid "700:なんで……グリムがその言葉を知っているのか……。[linebreak]混乱して、キーボードに添えていた指が震えた。[%p]"
-msgstr "700:How did Grimm know those words? My fingers were shaking on the keyboard.[%p]"
+msgstr "700:なんで……グリムがその言葉を知っているのか……。[linebreak]混乱して、キーボードに添えていた指が震えた。[%p]"
 
 msgid "800:どんな返事をすればいいか分からなくて、グリムの言葉を目で追いかけていくのが精一杯になる。[%p]"
-msgstr "800:I didn't know what to say. It was all I could do to keep my eyes on the monitor as he typed.[%p]"
+msgstr "800:どんな返事をすればいいか分からなくて、グリムの言葉を目で追いかけていくのが精一杯になる。[%p]"
 
 msgid "900:グリム＞ニュージェネ第４の事件が起きたお（＾ω＾）"
-msgstr "900:Grimm: The 4th NewGen murder happened."
+msgstr "900:グリム＞ニュージェネ第４の事件が起きたお（＾ω＾）"
 
 msgid "1000:グリム＞その祭りをずっと追ってた"
-msgstr "1000:Grimm: I've been watching the festival."
+msgstr "1000:グリム＞その祭りをずっと追ってた"
 
 msgid "1100:グリム＞いやー、マジで渋谷始まったな"
-msgstr "1100:Grimm: Shibuya's going nuts, man."
+msgstr "1100:グリム＞いやー、マジで渋谷始まったな"
 
 msgid "1200:グリム＞今回もぶっ飛んでてすげーヤバいｗ"
-msgstr "1200:Grimm: This one's the craziest of the lot."
+msgstr "1200:グリム＞今回もぶっ飛んでてすげーヤバいｗ"
 
 msgid "1300:グリム＞被害者の死体から血が全部抜かれたらしい"
-msgstr "1300:Grimm: All the blood was drained from the victim's corpse."
+msgstr "1300:グリム＞被害者の死体から血が全部抜かれたらしい"
 
 msgid "1400:グリム＞井乃頭線の駅のトイレに倒れてたんだけど"
-msgstr "1400:Grimm: They found the body in the Inokashira Line station's toilets."
+msgstr "1400:グリム＞井乃頭線の駅のトイレに倒れてたんだけど"
 
 msgid "1500:グリム＞その死体がさ、すごいんだお！"
-msgstr "1500:Grimm: And what happened to the body is just messed up!"
+msgstr "1500:グリム＞その死体がさ、すごいんだお！"
 
 msgid "1600:グリム＞全身の皮膚が緑色に変色してるんだお！"
-msgstr "1600:Grimm: All its skin turned green!"
+msgstr "1600:グリム＞全身の皮膚が緑色に変色してるんだお！"
 
 msgid "1700:グリム＞こええええ！\u3000マジこえええええ！(;´Д｀)"
-msgstr "1700:Grimm: Scary! Super scary! (;´Д｀)"
+msgstr "1700:グリム＞こええええ！\u3000マジこえええええ！(;´Д｀)"
 
 msgid "1800:グリム＞漏れ、オカルト説もあながち間違ってないかも、とか最近思い始めてきたお"
-msgstr "1800:Grimm: I'm starting to believe the guys who say something [alt-linebreak]occult is going on are right."
+msgstr "1800:グリム＞漏れ、オカルト説もあながち間違ってないかも、とか最近思い始めてきたお"
 
 msgid "1900:グリム＞人にできる犯行じゃねーって！"
-msgstr "1900:Grimm: No human could have done that!"
+msgstr "1900:グリム＞人にできる犯行じゃねーって！"
 
 msgid "2000:僕はＰＣの前で唇を噛んだ。[%p]"
-msgstr "2000:I bit my lip in front of the computer.[%p]"
+msgstr "2000:僕はＰＣの前で唇を噛んだ。[%p]"
 
 msgid "2100:頭の中で想像しそうになった。でもなんとかその妄想を振り払った。ひとまずコーラをペットボトルから一口飲み、気分を落ち着かせる。[%p]"
-msgstr "2100:I came close to imagining it in my mind. But I managed to shake off the delusion. I took a sip of soda to calm myself down.[%p]"
+msgstr "2100:頭の中で想像しそうになった。でもなんとかその妄想を振り払った。ひとまずコーラをペットボトルから一口飲み、気分を落ち着かせる。[%p]"
 
 msgid "2200:くそぅ、グリムのヤツ、絶対わざと奇襲のようなマネをしているに違いない。[%p]"
-msgstr "2200:Damn that Grimm. He was deliberately trying to ambush me. I knew it.[%p]"
+msgstr "2200:くそぅ、グリムのヤツ、絶対わざと奇襲のようなマネをしているに違いない。[%p]"
 
 msgid "2300:グリム＞あり？\u3000ありり？"
-msgstr "2300:Grimm: Huh? Huh-Huh?"
+msgstr "2300:グリム＞あり？\u3000ありり？"
 
 msgid "2400:グリム＞リアクションなし？(´・ω・｀)"
-msgstr "2400:Grimm: No reaction? (´・ω・｀)"
+msgstr "2400:グリム＞リアクションなし？(´・ω・｀)"
 
 msgid "2500:ナイトハルト＞なんでそんな詳しいんだ？"
-msgstr "2500:KnightHeart: How do you know so much about it?"
+msgstr "2500:ナイトハルト＞なんでそんな詳しいんだ？"
 
 msgid "2600:ナイトハルト＞まるで実際に見てきたみたいだぞ"
-msgstr "2600:KnightHeart: You're talking like you actually saw it."
+msgstr "2600:ナイトハルト＞まるで実際に見てきたみたいだぞ"
 
 msgid "2700:グリム＞まあ似たようなもんだ"
-msgstr "2700:Grimm: Well, I did, basically."
+msgstr "2700:グリム＞まあ似たようなもんだ"
 
 msgid "2800:グリム＞つーか相変わらずナイトハルトは興味なし？"
-msgstr "2800:Grimm: You still don't care, then?"
+msgstr "2800:グリム＞つーか相変わらずナイトハルトは興味なし？"
 
 msgid "2900:グリム＞ニュージェネのこと"
-msgstr "2900:Grimm: About NewGen."
+msgstr "2900:グリム＞ニュージェネのこと"
 
 msgid "3000:ナイトハルト＞ニュージェネ追ってるぐらいなら"
-msgstr "3000:KnightHeart: I'd rather spend my free time grinding in ESO"
+msgstr "3000:ナイトハルト＞ニュージェネ追ってるぐらいなら"
 
 msgid "3100:ナイトハルト＞エンスーで狩りに打ち込むね"
-msgstr "3100:KnightHeart: than reading up on NewGen."
+msgstr "3100:ナイトハルト＞エンスーで狩りに打ち込むね"
 
 msgid "3200:グリム＞さすが疾風迅雷のナイトハルト"
-msgstr "3200:Grimm: That's our Lightning-Fast KnightHeart."
+msgstr "3200:グリム＞さすが疾風迅雷のナイトハルト"
 
 msgid "3300:グリム＞俺たちにはできない廃人プレイを平然とやってのける！"
-msgstr "3300:Grimm: He grinds like no mere mortal man can!"
+msgstr "3300:グリム＞俺たちにはできない廃人プレイを平然とやってのける！"
 
 msgid "3400:グリム＞そこにしびれるあこがれるゥ！"
-msgstr "3400:Grimm: Our inspiration! Our idol!"
+msgstr "3400:グリム＞そこにしびれるあこがれるゥ！"
 
 msgid "3500:ニュージェネの話題なんかしたくなかったから、なんとかうまくごまかしてこの話を終わらせようとした。[%p]"
-msgstr "3500:I didn't want to talk about NewGen so I tried to change the subject as soon as possible.[%p]"
+msgstr "3500:ニュージェネの話題なんかしたくなかったから、なんとかうまくごまかしてこの話を終わらせようとした。[%p]"
 
 msgid "3600:グリム＞ところでこいつを見てくれ"
-msgstr "3600:Grimm: Anyway, check this out."
+msgstr "3600:グリム＞ところでこいつを見てくれ"
 
 msgid "3700:グリム＞つhttp://a07.gyotaku.jp/http://page16.auctions.taboo.co.jp/jp/auction/u15524569"
-msgstr "3700:Grimm: > http://a07.gyotaku.jp/http://page16.auctions.taboo.co.jp/jp/auction/u15524569"
+msgstr "3700:グリム＞つhttp://a07.gyotaku.jp/http://page16.auctions.taboo.co.jp/jp/auction/u15524569"
 
 msgid "3800:グリム＞どう思う？"
-msgstr "3800:Grimm: Well?"
+msgstr "3800:グリム＞どう思う？"
 
 msgid "3900:ナイトハルト＞すごく……釣りの予感です……"
-msgstr "3900:KnightHeart: I feel... like I'm gonna get trolled."
+msgstr "3900:ナイトハルト＞すごく……釣りの予感です……"
 
 msgid "4000:前にもこういう展開でグロ画像だとさんざん煽っておいて、バカ画像だった。[linebreak]その逆もじゅうぶんあり得る。[%p]"
-msgstr "4000:Last time this had happened, he'd trolled me with what he'd said was a guro image, and it turned out to be something stupid he'd drawn. It was entirely possible he'd do the opposite this time.[%p]"
+msgstr "4000:前にもこういう展開でグロ画像だとさんざん煽っておいて、バカ画像だった。[linebreak]その逆もじゅうぶんあり得る。[%p]"
 
 msgid "4100:グリム＞あれ、マジで知らんのか？"
-msgstr "4100:Grimm: Wait, you seriously don't know?"
+msgstr "4100:グリム＞あれ、マジで知らんのか？"
 
 msgid "4200:ナイトハルト＞なにが？"
-msgstr "4200:KnightHeart: Know what?"
+msgstr "4200:ナイトハルト＞なにが？"
 
 msgid "4300:グリム＞ナイトハルトって実は情報弱者なんじゃね？"
-msgstr "4300:Grimm: Are you actually just that far behind everybody else?"
+msgstr "4300:グリム＞ナイトハルトって実は情報弱者なんじゃね？"
 
 msgid "4400:ナイトハルト＞うっせー"
-msgstr "4400:KnightHeart: Shut up."
+msgstr "4400:ナイトハルト＞うっせー"
 
 msgid "4500:ナイトハルト＞で、なんなんだ？"
-msgstr "4500:KnightHeart: So, what is it?"
+msgstr "4500:ナイトハルト＞で、なんなんだ？"
 
 msgid "4600:グリム＞おまいの大好きな星来たん関係、と言えばどうかな？"
-msgstr "4600:Grimm: What if I told you your beloved Seira-tan was [alt-linebreak]involved?"
+msgstr "4600:グリム＞おまいの大好きな星来たん関係、と言えばどうかな？"
 
 msgid "4700:マジ！？[linebreak]それは見るしかない！[%p]"
-msgstr "4700:Really? Then I had to look at it![%p]"
+msgstr "4700:マジ！？[linebreak]それは見るしかない！[%p]"
 
 msgid "4800:まあ、ＵＲＬから推測する限り、リンク先はネットオークションのページみたいだし、いきなり精神的[color index="A0FF0000"]ブラクラ[color index="800000"]を踏むこともないだろう。[%p]"
-msgstr "4800:Well, it looked like some kind of auction site. It probably wasn't a mental [color index="A0FF0000"]browser crash[color index="800000"] or anything bad like that, right?[%p]"
+msgstr "4800:まあ、ＵＲＬから推測する限り、リンク先はネットオークションのページみたいだし、いきなり精神的[color index="A0FF0000"]ブラクラ[color index="800000"]を踏むこともないだろう。[%p]"
 
 msgid "4900:僕は少し興奮しつつリンクを開いた。[%p]"
-msgstr "4900:I clicked on the link, a little excited.[%p]"
+msgstr "4900:僕は少し興奮しつつリンクを開いた。[%p]"
 
 msgid "5000:[name]拓巳[line]「ん？」[%p]"
-msgstr "5000:[name]拓巳[line]Hmm?[%p]"
+msgstr "5000:[name]拓巳[line]「ん？」[%p]"
 
 msgid "5100:“Ｂ型の血液が不足しています”……？[%p]"
-msgstr "5100:“There is a shortage of Type B blood”?[%p]"
+msgstr "5100:“Ｂ型の血液が不足しています”……？[%p]"
 
 msgid "5200:なんだかこの見出し……前にもどこかで見たような。[linebreak]またデジャヴかな。[%p]"
-msgstr "5200:What was this flyer... I'd seen it somewhere. Déjà vu again.[%p]"
+msgstr "5200:なんだかこの見出し……前にもどこかで見たような。[linebreak]またデジャヴかな。[%p]"
 
 msgid "5300:いや、そんなことより星来たんハァハァな画像はどこでつか！？[linebreak]マウスのホイールを回転させて、ページをスクロールさせていった。[%p]"
-msgstr "5300:Anyway, where was the pic of Seira-tan? I scrolled the mouse wheel to go down the page.[%p]"
+msgstr "5300:いや、そんなことより星来たんハァハァな画像はどこでつか！？[linebreak]マウスのホイールを回転させて、ページをスクロールさせていった。[%p]"
 
 msgid "5400:[name]拓巳[line]「……！」[%p]"
-msgstr "5400:[name]拓巳[line]...![%p]"
+msgstr "5400:[name]拓巳[line]「……！」[%p]"
 
 msgid "5500:モニタにいきなり表示されたのは、[linebreak]一目でグロ画像と分かるもので、[%p]"
-msgstr "5500:And I was suddenly met... with what was clearly a guro image.[%p]"
+msgstr "5500:モニタにいきなり表示されたのは、[linebreak]一目でグロ画像と分かるもので、[%p]"
 
 msgid "5600:僕は慌てて視線を左のモニタへ戻しておいて、ブラウザのウインドウを消した。[%p]"
-msgstr "5600:I quickly looked back toward the left monitor and closed the browser.[%p]"
+msgstr "5600:僕は慌てて視線を左のモニタへ戻しておいて、ブラウザのウインドウを消した。[%p]"
 
 msgid "5700:[name]拓巳[line]「はあ……はあ……」[%p]"
-msgstr "5700:[name]拓巳[line]Hahh... hahh...[%p]"
+msgstr "5700:[name]拓巳[line]「はあ……はあ……」[%p]"
 
 msgid "5800:モニタにグロ画像が表示されていた時間は、３秒もなかった。まともにこの目で見た時間で言えば、１秒にも満たない。それなのに――[%p]"
-msgstr "5800:The guro image had only been on my monitor for three seconds. I'd only really gotten a solid look at it for less than a second. But still...[%p]"
+msgstr "5800:モニタにグロ画像が表示されていた時間は、３秒もなかった。まともにこの目で見た時間で言えば、１秒にも満たない。それなのに――[%p]"
 
 msgid "5900:グリム＞それ、ニュージェネ第４の事件の遺体写真"
-msgstr "5900:Grimm: It's a pic of the 4th NewGen body."
+msgstr "5900:グリム＞それ、ニュージェネ第４の事件の遺体写真"
 
 msgid "6000:グリム＞マスコミが事件を報じるより前に"
-msgstr "6000:Grimm: It was put up on an auction site"
+msgstr "6000:グリム＞マスコミが事件を報じるより前に"
 
 msgid "6100:グリム＞オークションに普通に出品されてたんだお"
-msgstr "6100:Grimm: before the media had reported on the murder."
+msgstr "6100:グリム＞オークションに普通に出品されてたんだお"
 
 msgid "6200:グリム＞被害者の悲惨な姿そのものに値付けされてるわけ"
-msgstr "6200:Grimm: You could buy the victim's brutally murdered [alt-linebreak]corpse, lol"
+msgstr "6200:グリム＞被害者の悲惨な姿そのものに値付けされてるわけ"
 
 msgid "6300:グリム＞つまり出品者がニュージェネの真犯人ってこと"
-msgstr "6300:Grimm: In other words, the one who posted it has to be the [alt-linebreak]NewGen killer."
+msgstr "6300:グリム＞つまり出品者がニュージェネの真犯人ってこと"
 
 msgid "6400:グリム＞すごくね？"
-msgstr "6400:Grimm: Crazy, huh?"
+msgstr "6400:グリム＞すごくね？"
 
 msgid "6500:グリム＞出品者名は『ヴァンパイ屋』"
-msgstr "6500:Grimm: Their username for the auction was “Vampire-er.”"
+msgstr "6500:グリム＞出品者名は『ヴァンパイ屋』"
 
 msgid "6600:グリム＞ま、捨てＩＤなんだけどな"
-msgstr "6600:Grimm: I mean, it's obviously a throwaway username, though."
+msgstr "6600:グリム＞ま、捨てＩＤなんだけどな"
 
 msgid "6700:グリム＞早くもネットじゃ祭り発生中"
-msgstr "6700:Grimm: But the whole internet's going nuts."
+msgstr "6700:グリム＞早くもネットじゃ祭り発生中"
 
 msgid "6800:グリム＞いろんな画像掲示板に貼られまくってるし"
-msgstr "6800:Grimm: It's getting pasted to all kinds of different message boards."
+msgstr "6800:グリム＞いろんな画像掲示板に貼られまくってるし"
 
 msgid "6900:グリム＞ネタ画像なんかも作られてる"
-msgstr "6900:Grimm: They're making memes of it, too."
+msgstr "6900:グリム＞ネタ画像なんかも作られてる"
 
 msgid "7000:グリム＞職人仕事早すぎだおｗ"
-msgstr "7000:Grimm: The meme craftsmen were right on top of it."
+msgstr "7000:グリム＞職人仕事早すぎだおｗ"
 
 msgid "7100:[name]拓巳[line]「…………」[%p]"
-msgstr "7100:[name]拓巳[line]...[%p]"
+msgstr "7100:[name]拓巳[line]「…………」[%p]"
 
 msgid "7200:グリム＞ってか、ダイイングメッセージあるだろ？"
-msgstr "7200:Grimm: And there's a dying message in it, too."
+msgstr "7200:グリム＞ってか、ダイイングメッセージあるだろ？"
 
 msgid "7300:グリム＞さっきの画像の中に"
-msgstr "7300:Grimm: In the image."
+msgstr "7300:グリム＞さっきの画像の中に"
 
 msgid "7400:ダイイング……メッセージ……[%p]"
-msgstr "7400:A dying message... A dying message...[%p]"
+msgstr "7400:ダイイング……メッセージ……[%p]"
 
 msgid "7500:グリム＞壁にさ、被害者が血で書いたやつ"
-msgstr "7500:Grimm: On the wall, written in the victim's blood."
+msgstr "7500:グリム＞壁にさ、被害者が血で書いたやつ"
 
 msgid "7600:グリム＞ああいうの、マジであるんだな"
-msgstr "7600:Grimm: I didn't realize that stuff was real."
+msgstr "7600:グリム＞ああいうの、マジであるんだな"
 
 msgid "7700:グリム＞犯人が面白がってやったのかもしれんね"
-msgstr "7700:Grimm: Maybe the killer is just doing it for the lulz."
+msgstr "7700:グリム＞犯人が面白がってやったのかもしれんね"
 
 msgid "7800:グリム＞って、おーい、ナイトハルトさーん？"
-msgstr "7800:Grimm: Hello, Mr. KnightHeart?"
+msgstr "7800:グリム＞って、おーい、ナイトハルトさーん？"
 
 msgid "7900:グリム＞フリーズしてる？"
-msgstr "7900:Grimm: Did you freeze on me?"
+msgstr "7900:グリム＞フリーズしてる？"
 
 msgid "8000:ダイイング……メッセージ……[%p]"
-msgstr "8000:I'd only gotten to see the picture for a second.[%p]"
+msgstr "8000:ダイイング……メッセージ……[%p]"
 
 msgid "8100:さっき、一瞬しか画像を見なかった。[linebreak]それなのに――[%p]"
-msgstr "8100:But still...[%p]"
+msgstr "8100:さっき、一瞬しか画像を見なかった。[linebreak]それなのに――[%p]"
 
 msgid "8200:[name]拓巳[line]「ゲームだ……こんな世界は、[linebreak]虚構の……ゲームの世界に違いないんだ……」[%p]"
-msgstr "8200:[name]拓巳[line]It's a game. This whole world's a game. It's a fictional... game.[%p]"
+msgstr "8200:[name]拓巳[line]「ゲームだ……こんな世界は、[linebreak]虚構の……ゲームの世界に違いないんだ……」[%p]"
 
 msgid "8300:壁に紅い文字で不格好に描かれた、断末魔のメッセージが、脳裏に焼き付いてしまっている……[%p]"
-msgstr "8300:The image of those red letters sloppily painted on the wall was burned into my brain.[%p]"
+msgstr "8300:壁に紅い文字で不格好に描かれた、断末魔のメッセージが、脳裏に焼き付いてしまっている……[%p]"
 
 msgid "8400:考えないようにしているにもかかわらず、ひとつひとつの文字がまぶたの裏に浮かび上がり、僕に訴えかけてくるんだ。[%p]"
-msgstr "8400:I tried not to think about it, but each of them came into my mind in turn, as if accusing me.[%p]"
+msgstr "8400:考えないようにしているにもかかわらず、ひとつひとつの文字がまぶたの裏に浮かび上がり、僕に訴えかけてくるんだ。[%p]"
 
 msgid "8500:[name]拓巳[line]「なんであの言葉が……あの言葉がここで出てくるんだ……」[%p]"
-msgstr "8500:[name]拓巳[line]Why were those words... Why were they there?[%p]"
+msgstr "8500:[name]拓巳[line]「なんであの言葉が……あの言葉がここで出てくるんだ……」[%p]"
 
 msgid "8600:それは、僕の見知った言葉。[linebreak]よくつぶやいている言葉。[%p]"
-msgstr "8600:I knew those words well. I said those words often.[%p]"
+msgstr "8600:それは、僕の見知った言葉。[linebreak]よくつぶやいている言葉。[%p]"
 
 msgid "8700:誰にともなく問いかけている言葉。[linebreak]さっきグリムがエンスーに入ってきたとき最初に言い放った言葉。[%p]"
-msgstr "8700:They were a question I would ask no one in particular. And Grimm had said them to me when I'd logged into ESO.[%p]"
+msgstr "8700:誰にともなく問いかけている言葉。[linebreak]さっきグリムがエンスーに入ってきたとき最初に言い放った言葉。[%p]"
 
 msgid "8800:ありふれているようで――[linebreak]普通に生活する分にはまったく使う機会のない言葉――[%p]"
-msgstr "8800:Each of the words was common by itself. But no one else used them the way I did.[%p]"
+msgstr "8800:ありふれているようで――[linebreak]普通に生活する分にはまったく使う機会のない言葉――[%p]"
 

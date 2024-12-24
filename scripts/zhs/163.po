@@ -16,332 +16,332 @@ msgid "100:梨深ルート無し"
 msgstr "100:梨深ルート無し"
 
 msgid "200:でも、七海が……[%p]"
-msgstr "200:But Nanami...[%p]"
+msgstr "200:でも、七海が……[%p]"
 
 msgid "300:[name]星来[line]「タッキーはよくやったよ」[%p]"
-msgstr "300:[name]星来[line]You did great.[%p]"
+msgstr "300:[name]星来[line]「タッキーはよくやったよ」[%p]"
 
 msgid "400:[name]星来[line]「妹を亡くした悲劇の兄として、今後もやってけるって♪」[%p]"
-msgstr "400:[name]星来[line]And from now on, you can be the tragic older brother who lost his sister! ♪[%p]"
+msgstr "400:[name]星来[line]「妹を亡くした悲劇の兄として、今後もやってけるって♪」[%p]"
 
 msgid "500:悲劇の兄……。[%p]"
-msgstr "500:The older brother who lost his sister...[%p]"
+msgstr "500:悲劇の兄……。[%p]"
 
 msgid "600:[name]星来[line]「ＰＴＳＤって言えばなにもかも許されるっしょ」[%p]"
-msgstr "600:[name]星来[line]Tell everybody you have PTSD, and they'll let you get away with anything![%p]"
+msgstr "600:[name]星来[line]「ＰＴＳＤって言えばなにもかも許されるっしょ」[%p]"
 
 msgid "700:[name]星来[line]「正々堂々と引きこもれるんだよ？」[%p]"
-msgstr "700:[name]星来[line]You can spend your whole life as a hikikomori and nobody will say a thing![%p]"
+msgstr "700:[name]星来[line]「正々堂々と引きこもれるんだよ？」[%p]"
 
 msgid "800:[name]星来[line]「あ、もしかしたらさ、どっかの偽善者が同情して、タッキーを養ってくれるかもしんないね」[%p]"
-msgstr "800:[name]星来[line]Oh, maybe some wanna-be do-gooder will even take pity on you and pay for all your expenses![%p]"
+msgstr "800:[name]星来[line]「あ、もしかしたらさ、どっかの偽善者が同情して、タッキーを養ってくれるかもしんないね」[%p]"
 
 msgid "900:[name]星来[line]「ブログに適当なこと書けば、出版社に目を付けられてベストセラーになっちゃうかも！」[%p]"
-msgstr "900:[name]星来[line]You can write some low-effort blog posts about how sad you are, and maybe a publishing company will pick it up and make you a bestselling author![%p]"
+msgstr "900:[name]星来[line]「ブログに適当なこと書けば、出版社に目を付けられてベストセラーになっちゃうかも！」[%p]"
 
 msgid "1000:[name]星来[line]「“日本中が泣いた”とか白々しいキャッチコピーが付けられて、[linebreak]それに乗せられたバカでゆとりな人たちからの[linebreak]“感動した、共感した”っていう絶賛の嵐！」[%p]"
-msgstr "1000:[name]星来[line]They'll put “The book that made Japan cry!” in big letters on the back, and all the lazy idiots who want to look sophisticated will buy it and talk about how great it is![%p]"
+msgstr "1000:[name]星来[line]「“日本中が泣いた”とか白々しいキャッチコピーが付けられて、[linebreak]それに乗せられたバカでゆとりな人たちからの[linebreak]“感動した、共感した”っていう絶賛の嵐！」[%p]"
 
 msgid "1100:[name]星来[line]「それで印税もがっぽがっぽ。半年後に映画化決定っしょ！」[%p]"
-msgstr "1100:[name]星来[line]You'll make tons of money off the royalties! And six months later, they'll even make it into a movie![%p]"
+msgstr "1100:[name]星来[line]「それで印税もがっぽがっぽ。半年後に映画化決定っしょ！」[%p]"
 
 msgid "1200:[name]星来[line]「すごいよ。七海っちをここで見殺しにするだけで、タッキーにはバラ色の人生が待ってるんさ！」[%p]"
-msgstr "1200:[name]星来[line]It'll be great! The life you've dreamed of is waiting for you, and all you have to do is leave Nanami for dead![%p]"
+msgstr "1200:[name]星来[line]「すごいよ。七海っちをここで見殺しにするだけで、タッキーにはバラ色の人生が待ってるんさ！」[%p]"
 
 msgid "1300:[name]星来[line]「さあ、どっちを選ぶ？」[%p]"
-msgstr "1300:[name]星来[line]Which are you going to choose?[%p]"
+msgstr "1300:[name]星来[line]「さあ、どっちを選ぶ？」[%p]"
 
 msgid "1400:[name]星来[line]「タッキーがここで頑張って、でも死んですべてが無になるか」[%p]"
-msgstr "1400:[name]星来[line]You can try hard here, and then die, so it doesn't even matter.[%p]"
+msgstr "1400:[name]星来[line]「タッキーがここで頑張って、でも死んですべてが無になるか」[%p]"
 
 msgid "1500:[name]星来[line]「バラ色の人生か」[%p]"
-msgstr "1500:[name]星来[line]Or you can have your dream life.[%p]"
+msgstr "1500:[name]星来[line]「バラ色の人生か」[%p]"
 
 msgid "1600:でも、七海が……[%p]"
-msgstr "1600:But Nanami...[%p]"
+msgstr "1600:でも、七海が……[%p]"
 
 msgid "1700:[name]星来[line]「じゃあはっきり言ったげる」[%p]"
-msgstr "1700:[name]星来[line]All right, I'll just come out and say it.[%p]"
+msgstr "1700:[name]星来[line]「じゃあはっきり言ったげる」[%p]"
 
 msgid "1800:[name]星来[line]「七海っちが死んだっていいじゃん」[%p]"
-msgstr "1800:[name]星来[line]Who cares if Nanami dies?[%p]"
+msgstr "1800:[name]星来[line]「七海っちが死んだっていいじゃん」[%p]"
 
 msgid "1900:え……[%p]"
-msgstr "1900:Huh?[%p]"
+msgstr "1900:え……[%p]"
 
 msgid "2000:[name]星来[line]「タッキーは、自分の命より七海っちの命の方が大事なの？」[%p]"
-msgstr "2000:[name]星来[line]Is Nanami's life more important than yours?[%p]"
+msgstr "2000:[name]星来[line]「タッキーは、自分の命より七海っちの命の方が大事なの？」[%p]"
 
 msgid "2100:な、七海は僕の、大切な妹で……[%p]"
-msgstr "2100:Nanami... Nanami's my little sister. I care about her.[%p]"
+msgstr "2100:な、七海は僕の、大切な妹で……[%p]"
 
 msgid "2200:[name]星来[line]「でも、突き詰めれば他人っしょ？」[%p]"
-msgstr "2200:[name]星来[line]But in the end, she's not you, right?[%p]"
+msgstr "2200:[name]星来[line]「でも、突き詰めれば他人っしょ？」[%p]"
 
 msgid "2300:[name]星来[line]「死んだら悲しいけど、それだけ」[%p]"
-msgstr "2300:[name]星来[line]If she dies, you'll be sad. But that's it.[%p]"
+msgstr "2300:[name]星来[line]「死んだら悲しいけど、それだけ」[%p]"
 
 msgid "2400:[name]星来[line]「タッキーになにか害が及ぶ？」[%p]"
-msgstr "2400:[name]星来[line]Would it hurt you in any way?[%p]"
+msgstr "2400:[name]星来[line]「タッキーになにか害が及ぶ？」[%p]"
 
 msgid "2500:………………及ばない。[%p]"
-msgstr "2500:No...[%p]"
+msgstr "2500:………………及ばない。[%p]"
 
 msgid "2600:[name]星来[line]「自分の命と、他人の命と、どっちが大事？」[%p]"
-msgstr "2600:[name]星来[line]Between your own life and somebody else's, whose is more important?[%p]"
+msgstr "2600:[name]星来[line]「自分の命と、他人の命と、どっちが大事？」[%p]"
 
 msgid "2700:[name]星来[line]「死んだらさ、世界が終わるんだよ？」[%p]"
-msgstr "2700:[name]星来[line]If you die, the world ends![%p]"
+msgstr "2700:[name]星来[line]「死んだらさ、世界が終わるんだよ？」[%p]"
 
 msgid "2800:[name]星来[line]「タッキーにとっての世界は終わるの。分かる？\u3000死んだら後はなにも残らない」[%p]"
-msgstr "2800:[name]星来[line]Your world ends. Do you understand? Once you're dead, there's nothing.[%p]"
+msgstr "2800:[name]星来[line]「タッキーにとっての世界は終わるの。分かる？\u3000死んだら後はなにも残らない」[%p]"
 
 msgid "2900:[name]星来[line]「死後の世界なんてない。天国もない。生まれ変わることもない」[%p]"
-msgstr "2900:[name]星来[line]There's no afterlife. No heaven, no being reborn.[%p]"
+msgstr "2900:[name]星来[line]「死後の世界なんてない。天国もない。生まれ変わることもない」[%p]"
 
 msgid "3000:[name]星来[line]「ただ、タッキーっていうひとりの動物の生命活動が終わって、タッキーはもう世界を“観測”できなくなるんさ。それって世界が終わるってことっしょ」[%p]"
-msgstr "3000:[name]星来[line]All that happens is that the life of the animal called “Takky” terminates, and “Takky” ceases to be able to observe the world. That's the same as the world ending, right?[%p]"
+msgstr "3000:[name]星来[line]「ただ、タッキーっていうひとりの動物の生命活動が終わって、タッキーはもう世界を“観測”できなくなるんさ。それって世界が終わるってことっしょ」[%p]"
 
 msgid "3100:[name]星来[line]「つまりさ――」[%p]"
-msgstr "3100:[name]星来[line]So, what I'm saying is...[%p]"
+msgstr "3100:[name]星来[line]「つまりさ――」[%p]"
 
 msgid "3200:[name]星来[line]「タッキーが死んだら、タッキーが観測してた七海っちもどうせ消えるってことなんだよ。七海っちだけじゃない。梨深っちも、あやせっちも、それにあたしも」[%p]"
-msgstr "3200:[name]星来[line]If you die, you won't be able to observe Nanami anymore, so she'll disappear anyway. Not just Nanami, too. Rimi, Ayase, and me.[%p]"
+msgstr "3200:[name]星来[line]「タッキーが死んだら、タッキーが観測してた七海っちもどうせ消えるってことなんだよ。七海っちだけじゃない。梨深っちも、あやせっちも、それにあたしも」[%p]"
 
 msgid "3300:[name]星来[line]「みんな消える」[%p]"
-msgstr "3300:[name]星来[line]We'll all disappear.[%p]"
+msgstr "3300:[name]星来[line]「みんな消える」[%p]"
 
 msgid "3400:[name]星来[line]「でも、七海っちが死んだだけなら、タッキーは消えないで済むし、タッキーの世界も消えないで済むんさ」[%p]"
-msgstr "3400:[name]星来[line]But if Nanami dies and you're alive, you won't disappear, and your world won't, either.[%p]"
+msgstr "3400:[name]星来[line]「でも、七海っちが死んだだけなら、タッキーは消えないで済むし、タッキーの世界も消えないで済むんさ」[%p]"
 
 msgid "3500:[name]星来[line]「ブラチューの最終回もちゃんと見られるし、来年発売予定のブラチューのゲームも、あたしの新作フィギュアも、ちゃんと買える世界が残るんさ」[%p]"
-msgstr "3500:[name]星来[line]You'll get to see the last episode of Blood Tune, and get the Blood Tune game when it comes out next year. You can even buy my new figures, too![%p]"
+msgstr "3500:[name]星来[line]「ブラチューの最終回もちゃんと見られるし、来年発売予定のブラチューのゲームも、あたしの新作フィギュアも、ちゃんと買える世界が残るんさ」[%p]"
 
 msgid "3600:[name]星来[line]「ねえ、タッキー」[%p]"
-msgstr "3600:[name]星来[line]Okay, Takky?[%p]"
+msgstr "3600:[name]星来[line]「ねえ、タッキー」[%p]"
 
 msgid "3700:[name]星来[line]「死にたい？」[%p]"
-msgstr "3700:[name]星来[line]Do you want to die?[%p]"
+msgstr "3700:[name]星来[line]「死にたい？」[%p]"
 
 msgid "3800:[name]星来[line]「死にたくない？」[%p]"
-msgstr "3800:[name]星来[line]Or not?![%p]"
+msgstr "3800:[name]星来[line]「死にたくない？」[%p]"
 
 msgid "3900:でも、七海が……[%p]"
-msgstr "3900:But Nanami...[%p]"
+msgstr "3900:でも、七海が……[%p]"
 
 msgid "4000:[name]星来[line]「どうせ生意気な七海っちのことだからさ」[%p]"
-msgstr "4000:[name]星来[line]She's a little brat, anyway.[%p]"
+msgstr "4000:[name]星来[line]「どうせ生意気な七海っちのことだからさ」[%p]"
 
 msgid "4100:[name]星来[line]「ここでタッキーが頑張って助けたって、[linebreak]感謝してくれなさそうじゃん？」[%p]"
-msgstr "4100:[name]星来[line]Even if you somehow managed to save her here, she probably wouldn't even thank you, would she?[%p]"
+msgstr "4100:[name]星来[line]「ここでタッキーが頑張って助けたって、[linebreak]感謝してくれなさそうじゃん？」[%p]"
 
 msgid "4200:その核心を突いた星来たんの言葉に、僕はハッとした。[%p]"
-msgstr "4200:The truth of what Seira-tan said stopped me in my tracks.[%p]"
+msgstr "4200:その核心を突いた星来たんの言葉に、僕はハッとした。[%p]"
 
 msgid "4300:確かに、僕が命を賭けて助けても、七海ならきっとこう言うだろう。[%p]"
-msgstr "4300:She was right. Even if I saved Nanami here, I knew exactly what she'd day.[%p]"
+msgstr "4300:確かに、僕が命を賭けて助けても、七海ならきっとこう言うだろう。[%p]"
 
 msgid "4400:[name]七海[line]「おにぃのせいでこんな目に遭ったんだからね、バカ！」[%p]"
-msgstr "4400:[name]七海[line]“This only happened to me because of you, jerk!”[%p]"
+msgstr "4400:[name]七海[line]「おにぃのせいでこんな目に遭ったんだからね、バカ！」[%p]"
 
 msgid "4500:感謝すらせず、それどころか逆に罵られて。[%p]"
-msgstr "4500:She wouldn't be grateful. She'd just be mean.[%p]"
+msgstr "4500:感謝すらせず、それどころか逆に罵られて。[%p]"
 
 msgid "4600:僕は家族からも蔑まれてこれから生きていく羽目になるんだ。[%p]"
-msgstr "4600:I'd spent the rest of my life with my whole family hating me.[%p]"
+msgstr "4600:僕は家族からも蔑まれてこれから生きていく羽目になるんだ。[%p]"
 
 msgid "4700:なんだかんだ言ったって、七海はしょせん三次元の妹。[%p]"
-msgstr "4700:At the end of the day, she was just a 3D sister.[%p]"
+msgstr "4700:なんだかんだ言ったって、七海はしょせん三次元の妹。[%p]"
 
 msgid "4800:萌えもしないし、二次元キャラのようにキレイな心なんて持ってない。[%p]"
-msgstr "4800:She wasn't moe. She wasn't pretty, like a 2D character.[%p]"
+msgstr "4800:萌えもしないし、二次元キャラのようにキレイな心なんて持ってない。[%p]"
 
 msgid "4900:あいつはいつも僕に対して上から目線で、密かに……いや、あからさまに僕のことバカにしてる。[%p]"
-msgstr "4900:She was always looking down on me. She was always secretly... no, openly making fun of me.[%p]"
+msgstr "4900:あいつはいつも僕に対して上から目線で、密かに……いや、あからさまに僕のことバカにしてる。[%p]"
 
 msgid "5000:あんな生意気な妹がどうなろうと僕の知ったことじゃない……。[%p]"
-msgstr "5000:Whatever happened to that little brat wasn't my problem.[%p]"
+msgstr "5000:あんな生意気な妹がどうなろうと僕の知ったことじゃない……。[%p]"
 
 msgid "5100:星来たんならともかく、あのクソ妹には僕の命を賭ける価値はない。[%p]"
-msgstr "5100:Maybe I could risk my life for Seira-tan, but not her.[%p]"
+msgstr "5100:星来たんならともかく、あのクソ妹には僕の命を賭ける価値はない。[%p]"
 
 msgid "5200:[name]星来[line]「タッキー、自分のことだけ考えよう？」[%p]"
-msgstr "5200:[name]星来[line]Takky, just think about yourself, okay?[%p]"
+msgstr "5200:[name]星来[line]「タッキー、自分のことだけ考えよう？」[%p]"
 
 msgid "5300:[name]星来[line]「あたしはさ、タッキーに死んでほしくないな」[%p]"
-msgstr "5300:[name]星来[line]I don't want you to die.[%p]"
+msgstr "5300:[name]星来[line]「あたしはさ、タッキーに死んでほしくないな」[%p]"
 
 msgid "5400:[name]星来[line]「こうして、ずっとタッキーの脳内で、ふたりきりでお話し続けたいんよ」[%p]"
-msgstr "5400:[name]星来[line]I want to keep talking with you like this, inside your head, forever![%p]"
+msgstr "5400:[name]星来[line]「こうして、ずっとタッキーの脳内で、ふたりきりでお話し続けたいんよ」[%p]"
 
 msgid "5500:僕もだよ……。[linebreak]僕も、星来たんと話してるときが一番落ち着く。[linebreak]七海なんて、どうでもいい……。[%p]"
-msgstr "5500:I want that, too. Talking to Seira-tan was what made me happiest. What happened to Nanami didn't matter.[%p]"
+msgstr "5500:僕もだよ……。[linebreak]僕も、星来たんと話してるときが一番落ち着く。[linebreak]七海なんて、どうでもいい……。[%p]"
 
 msgid "5600:[name]拓巳[line]「死にたく……ない……」[%p]"
-msgstr "5600:[name]拓巳[line]I don't want to die.[%p]"
+msgstr "5600:[name]拓巳[line]「死にたく……ない……」[%p]"
 
 msgid "5700:[name]拓巳[line]「痛いのは、イヤだ……」[%p]"
-msgstr "5700:[name]拓巳[line]I don't want to get hurt.[%p]"
+msgstr "5700:[name]拓巳[line]「痛いのは、イヤだ……」[%p]"
 
 msgid "5800:[name]拓巳[line]「死ぬのは、イヤだ……」[%p]"
-msgstr "5800:[name]拓巳[line]I don't want to die.[%p]"
+msgstr "5800:[name]拓巳[line]「死ぬのは、イヤだ……」[%p]"
 
 msgid "5900:[name]拓巳[line]「消えるのは、イヤだ……」[%p]"
-msgstr "5900:[name]拓巳[line]I don't want to disappear.[%p]"
+msgstr "5900:[name]拓巳[line]「消えるのは、イヤだ……」[%p]"
 
 msgid "6000:[name]拓巳[line]「七海がどうなろうと……僕は痛くもかゆくもない……」[%p]"
-msgstr "6000:[name]拓巳[line]I don't care at all what happens to Nanami.[%p]"
+msgstr "6000:[name]拓巳[line]「七海がどうなろうと……僕は痛くもかゆくもない……」[%p]"
 
 msgid "6100:自分に言い聞かせるように。[linebreak]僕はブツブツとつぶやく。[%p]"
-msgstr "6100:I kept whispering the words, as if I were trying to make myself believe them.[%p]"
+msgstr "6100:自分に言い聞かせるように。[linebreak]僕はブツブツとつぶやく。[%p]"
 
 msgid "6200:正しいのは……『将軍』じゃない。星来たんだ。[%p]"
-msgstr "6200:There was one person here who was right... and it wasn't Shogun. It was Seira-tan.[%p]"
+msgstr "6200:正しいのは……『将軍』じゃない。星来たんだ。[%p]"
 
 msgid "6300:[name]拓巳[line]「あの剣は……剣に見えるだけで、剣じゃない。ただの光の反射とか、目の錯覚だ……」[%p]"
-msgstr "6300:[name]拓巳[line]That sword... it looks like a sword, but it's not. It's just a reflection of the light, just my eyes playing tricks.[%p]"
+msgstr "6300:[name]拓巳[line]「あの剣は……剣に見えるだけで、剣じゃない。ただの光の反射とか、目の錯覚だ……」[%p]"
 
 msgid "6400:[name]星来[line]「そうだよ。さあ、帰ろ？」[%p]"
-msgstr "6400:[name]星来[line]That's right. Now let's go home.[%p]"
+msgstr "6400:[name]星来[line]「そうだよ。さあ、帰ろ？」[%p]"
 
 msgid "6500:[name]星来[line]「帰ったらさ、あたしのパンツ見ながら、いっぱいエッチなこと想像していいから」[%p]"
-msgstr "6500:[name]星来[line]When you get home, I'll let you stare at my panties and have all kinds of naughty delusions.[%p]"
+msgstr "6500:[name]星来[line]「帰ったらさ、あたしのパンツ見ながら、いっぱいエッチなこと想像していいから」[%p]"
 
 msgid "6600:[name]拓巳[line]「…………うん。僕、帰る」[%p]"
-msgstr "6600:[name]拓巳[line]Yeah. I'm going home.[%p]"
+msgstr "6600:[name]拓巳[line]「…………うん。僕、帰る」[%p]"
 
 msgid "6700:[name]拓巳[line]「帰って……星来たんでハァハァするよ……」[%p]"
-msgstr "6700:[name]拓巳[line]I'm going to go home... and jerk off to Seira-tan.[%p]"
+msgstr "6700:[name]拓巳[line]「帰って……星来たんでハァハァするよ……」[%p]"
 
 msgid "6800:[name]星来[line]「嬉しいな」[%p]"
-msgstr "6800:[name]星来[line]That makes me so happy![%p]"
+msgstr "6800:[name]星来[line]「嬉しいな」[%p]"
 
 msgid "6900:[name]星来[line]「タッキーのために、エッチなポーズたくさんしてあげるね」[%p]"
-msgstr "6900:[name]星来[line]I'll make all kinds of naughty poses for you.[%p]"
+msgstr "6900:[name]星来[line]「タッキーのために、エッチなポーズたくさんしてあげるね」[%p]"
 
 msgid "7000:僕は伸ばした手をゆっくりと引っ込めた。[linebreak]それだけで、とても安らかな気持ちになる。[%p]"
-msgstr "7000:I slowly pulled back my hand. Just doing so made me feel so much better.[%p]"
+msgstr "7000:僕は伸ばした手をゆっくりと引っ込めた。[linebreak]それだけで、とても安らかな気持ちになる。[%p]"
 
 msgid "7100:胸元のポケットに入っている星来たんを取り出して、その笑顔を眺める。星来たんが許してくれるなら、僕は他になにもいらない……。[%p]"
-msgstr "7100:I took the Seira-tan figure out of my pocket and stared at her smile. If Seira-tan was okay with what I was doing, that was all that mattered.[%p]"
+msgstr "7100:胸元のポケットに入っている星来たんを取り出して、その笑顔を眺める。星来たんが許してくれるなら、僕は他になにもいらない……。[%p]"
 
 msgid "7200:鼻から垂れた鼻水をすすった。[linebreak]回れ右して、『将軍』の方に歩み寄る。[%p]"
-msgstr "7200:I wiped the snot from my nose. I turned around and walked toward Shogun.[%p]"
+msgstr "7200:鼻から垂れた鼻水をすすった。[linebreak]回れ右して、『将軍』の方に歩み寄る。[%p]"
 
 msgid "7300:[name]将軍[line]「誰が、動いていいと許可した？」[%p]"
-msgstr "7300:[name]将軍[line]Who told you that you could move?[%p]"
+msgstr "7300:[name]将軍[line]「誰が、動いていいと許可した？」[%p]"
 
 msgid "7400:[name]将軍[line]「クエストはまだクリアしていないぞ？」[%p]"
-msgstr "7400:[name]将軍[line]You haven't finished your quest.[%p]"
+msgstr "7400:[name]将軍[line]「クエストはまだクリアしていないぞ？」[%p]"
 
 msgid "7500:[name]拓巳[line]「僕は……勇者なんかじゃない……」[%p]"
-msgstr "7500:[name]拓巳[line]I'm not... a hero.[%p]"
+msgstr "7500:[name]拓巳[line]「僕は……勇者なんかじゃない……」[%p]"
 
 msgid "7600:[name]拓巳[line]「妹ひとり救えないような、ヘタレな、キモオタ……だよ……」[%p]"
-msgstr "7600:[name]拓巳[line]I'm just a loser. A creepy otaku who can't even save his sister.[%p]"
+msgstr "7600:[name]拓巳[line]「妹ひとり救えないような、ヘタレな、キモオタ……だよ……」[%p]"
 
 msgid "7700:[name]拓巳[line]「僕に、期待しないで……」[%p]"
-msgstr "7700:[name]拓巳[line]Don't have any hopes for me.[%p]"
+msgstr "7700:[name]拓巳[line]「僕に、期待しないで……」[%p]"
 
 msgid "7800:[name]拓巳[line]「僕を、見ないで……」[%p]"
-msgstr "7800:[name]拓巳[line]Don't look at me.[%p]"
+msgstr "7800:[name]拓巳[line]「僕を、見ないで……」[%p]"
 
 msgid "7900:[name]拓巳[line]「僕を、そっとしておいて……」[%p]"
-msgstr "7900:[name]拓巳[line]Just leave me alone.[%p]"
+msgstr "7900:[name]拓巳[line]「僕を、そっとしておいて……」[%p]"
 
 msgid "8000:[name]将軍[line]「では、七海ちゃんは殺すことにするよ」[%p]"
-msgstr "8000:[name]将軍[line]I'll have to kill Nanami, then.[%p]"
+msgstr "8000:[name]将軍[line]「では、七海ちゃんは殺すことにするよ」[%p]"
 
 msgid "8100:[name]拓巳[line]「…………」[%p]"
-msgstr "8100:[name]拓巳[line]...[%p]"
+msgstr "8100:[name]拓巳[line]「…………」[%p]"
 
 msgid "8200:[name]拓巳[line]「どうせ、もう死んでる……」[%p]"
-msgstr "8200:[name]拓巳[line]She's already dead anyway.[%p]"
+msgstr "8200:[name]拓巳[line]「どうせ、もう死んでる……」[%p]"
 
 msgid "8300:もう、死んでるんだ……。[%p]"
-msgstr "8300:She was already dead…[%p]"
+msgstr "8300:もう、死んでるんだ……。[%p]"
 
 msgid "8400:七海は、『将軍』に無惨に殺されたんだ。[%p]"
-msgstr "8400:Shogun had killed her in some horrible way.[%p]"
+msgstr "8400:七海は、『将軍』に無惨に殺されたんだ。[%p]"
 
 msgid "8500:ニュージェネ第６の事件として、明日にでも大々的に報道されるんだ。[%p]"
-msgstr "8500:It would probably be the top story on the news tomorrow, the sixth NewGen case.[%p]"
+msgstr "8500:ニュージェネ第６の事件として、明日にでも大々的に報道されるんだ。[%p]"
 
 msgid "8600:悲しいけど、僕にはどうしようもない……[%p]"
-msgstr "8600:It was sad, but I couldn't do anything about it.[%p]"
+msgstr "8600:悲しいけど、僕にはどうしようもない……[%p]"
 
 msgid "8700:[name]七海[line]「おにぃ……」[%p]"
-msgstr "8700:[name]七海[line]Brother...[%p]"
+msgstr "8700:[name]七海[line]「おにぃ……」[%p]"
 
 msgid "8800:[name]七海[line]「お……にぃ……」[%p]"
-msgstr "8800:[name]七海[line]Brother...[%p]"
+msgstr "8800:[name]七海[line]「お……にぃ……」[%p]"
 
 msgid "8900:水滴が、垂れている音がする。[linebreak]それは、水滴じゃなくて。[%p]"
-msgstr "8900:I heard what sounded like dripping water. But it wasn't water.[%p]"
+msgstr "8900:水滴が、垂れている音がする。[linebreak]それは、水滴じゃなくて。[%p]"
 
 msgid "9000:七海の血。[%p]"
-msgstr "9000:It was Nanami's blood.[%p]"
+msgstr "9000:七海の血。[%p]"
 
 msgid "9100:切断された手首から垂れる、真っ赤な血。[%p]"
-msgstr "9100:It was bright red blood dripping from her severed wrist.[%p]"
+msgstr "9100:切断された手首から垂れる、真っ赤な血。[%p]"
 
 msgid "9200:[name]七海[line]「なんで……助け……て、くれ……なかったの……？」[%p]"
-msgstr "9200:[name]七海[line]Why... didn't you save me?[%p]"
+msgstr "9200:[name]七海[line]「なんで……助け……て、くれ……なかったの……？」[%p]"
 
 msgid "9300:[name]七海[line]「おにぃ……」[%p]"
-msgstr "9300:[name]七海[line]Brother...[%p]"
+msgstr "9300:[name]七海[line]「おにぃ……」[%p]"
 
 msgid "9400:[name]七海[line]「おにぃって……」[%p]"
-msgstr "9400:[name]七海[line]Brother, you're...[%p]"
+msgstr "9400:[name]七海[line]「おにぃって……」[%p]"
 
 msgid "9500:[name]七海[line]「最低」[%p]"
-msgstr "9500:[name]七海[line]the worst.[%p]"
+msgstr "9500:[name]七海[line]「最低」[%p]"
 
 msgid "9600:[name]拓巳[line]「うわあああああああああああああああああああああああああああああああああああああああ！！！！！」[%p]"
-msgstr "9600:[name]拓巳[line]UWAAAAAAAAAH![%p]"
+msgstr "9600:[name]拓巳[line]「うわあああああああああああああああああああああああああああああああああああああああ！！！！！」[%p]"
 
 msgid "9700:絶叫していた――[%p]"
-msgstr "9700:I screamed―[%p]"
+msgstr "9700:絶叫していた――[%p]"
 
 msgid "9800:[name]拓巳[line]「よくも！\u3000よくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくも！！！！！！！」[%p]"
-msgstr "9800:[name]拓巳[line]DAMN YOU! DAMN YOU! DAMN YOU! DAMN YOU! DAMN YOU! DAMN YOU! DAMN YOU![%p]"
+msgstr "9800:[name]拓巳[line]「よくも！\u3000よくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくもよくも！！！！！！！」[%p]"
 
 msgid "9900:世界が真っ赤に染まって。[linebreak]怒りと悲しみと情けなさで、思考がぐちゃぐちゃになって。[%p]"
-msgstr "9900:The whole world turned red. My mind went blank with rage, sorrow, and helplessness...[%p]"
+msgstr "9900:世界が真っ赤に染まって。[linebreak]怒りと悲しみと情けなさで、思考がぐちゃぐちゃになって。[%p]"
 
 msgid "10000:ただ訳もなく『将軍』に突進していた。[linebreak]影の中にたたずむ『将軍』につかみかかる。[%p]"
-msgstr "10000:And I charged into Shogun at full speed. I grabbed at the figure hidden in the shadows.[%p]"
+msgstr "10000:ただ訳もなく『将軍』に突進していた。[linebreak]影の中にたたずむ『将軍』につかみかかる。[%p]"
 
 msgid "10100:でも――[%p]"
-msgstr "10100:But...[%p]"
+msgstr "10100:でも――[%p]"
 
 msgid "10200:予想以上に手応えがなくて――[%p]"
-msgstr "10200:My hands passed through thin air,[%p]"
+msgstr "10200:予想以上に手応えがなくて――[%p]"
 
 msgid "10300:僕は車椅子ごと倒れ込んだ。[%p]"
-msgstr "10300:and I collapsed onto the wheelchair.[%p]"
+msgstr "10300:僕は車椅子ごと倒れ込んだ。[%p]"
 
 msgid "10400:肘を打ったらしく、痛みが走る。[%p]"
-msgstr "10400:I must've hit my elbow, because it was stinging from the pain.[%p]"
+msgstr "10400:肘を打ったらしく、痛みが走る。[%p]"
 
 msgid "10500:顔をしかめながら、戸惑いつつ車椅子に座っていた人物の姿を探す。[%p]"
-msgstr "10500:I winced and looked for the person in the wheelchair.[%p]"
+msgstr "10500:顔をしかめながら、戸惑いつつ車椅子に座っていた人物の姿を探す。[%p]"
 
 msgid "10600:僕の足許に、生首が、転がっていた。[%p]"
-msgstr "10600:There was a severed head rolling at my feet.[%p]"
+msgstr "10600:僕の足許に、生首が、転がっていた。[%p]"
 
 msgid "10700:恐る恐る、手を伸ばしてみる。[linebreak]それはとても硬くて。[linebreak]生首ではなく、明らかに、[%p]"
-msgstr "10700:Trembling, I picked it up off the ground. It was very hard. I realized quickly that it wasn't a severed head at all.[%p]"
+msgstr "10700:恐る恐る、手を伸ばしてみる。[linebreak]それはとても硬くて。[linebreak]生首ではなく、明らかに、[%p]"
 
 msgid "10800:ヘルメットのようなものだった。[%p]"
-msgstr "10800:It was some kind of helmet.[%p]"
+msgstr "10800:ヘルメットのようなものだった。[%p]"
 
 msgid "10900:[name]拓巳[line]「これ……」[%p]"
-msgstr "10900:[name]拓巳[line]This is...[%p]"
+msgstr "10900:[name]拓巳[line]「これ……」[%p]"
 
 msgid "11000:真っ黒な、ヘルメット……[%p]"
-msgstr "11000:A black helmet…[%p]"
+msgstr "11000:真っ黒な、ヘルメット……[%p]"
 
 msgid "11100:[name]拓巳[line]「ダ、ダーススパイダー……？」[%p]"
-msgstr "11100:[name]拓巳[line]Darth... Spider?[%p]"
+msgstr "11100:[name]拓巳[line]「ダ、ダーススパイダー……？」[%p]"
 

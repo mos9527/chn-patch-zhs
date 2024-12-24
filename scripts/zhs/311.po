@@ -10,161 +10,161 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:ナイトハルトさんが入室しました[linebreak]現在のメンバー：２人"
-msgstr "0:KnightHeart entered the room. Current Members: 2"
+msgstr "0:ナイトハルトさんが入室しました[linebreak]現在のメンバー：２人"
 
 msgid "100:ナイトハルト：おっす"
-msgstr "100:KnightHeart: Hey!"
+msgstr "100:ナイトハルト：おっす"
 
 msgid "200:グリム：やあナイトハルトくん"
-msgstr "200:Grimm: Heya KnightHeart."
+msgstr "200:グリム：やあナイトハルトくん"
 
 msgid "300:グリム：お待ちしておりました"
-msgstr "300:Grimm: I've been waiting!"
+msgstr "300:グリム：お待ちしておりました"
 
 msgid "400:グリム：新しい乳毛だお！(｀・ω・´)"
-msgstr "400:Grimm: We got new Nice Guy! (｀・ω・´)"
+msgstr "400:グリム：新しい乳毛だお！(｀・ω・´)"
 
 msgid "500:ナイトハルト：お前はなにを言っているんだ（ＡＡ略"
-msgstr "500:KnightHeart: We've got what? (Too lazy to find AA)"
+msgstr "500:ナイトハルト：お前はなにを言っているんだ（ＡＡ略"
 
 msgid "600:グリム：ニュージェネだよニュージェネ！"
-msgstr "600:Grimm: NewGen, dude! NewGen!"
+msgstr "600:グリム：ニュージェネだよニュージェネ！"
 
 msgid "700:ナイトハルト：なんでニュージェネが乳毛なんだ"
-msgstr "700:KnightHeart: NewGen = Nice Guy?"
+msgstr "700:ナイトハルト：なんでニュージェネが乳毛なんだ"
 
 msgid "800:グリム：NEW GENERATION→NEW GE→にゅうげ→乳毛"
-msgstr "800:Grimm: NewGen -> NG -> Nice Guy"
+msgstr "800:グリム：NEW GENERATION→NEW GE→にゅうげ→乳毛"
 
 msgid "900:グリム：分かるだろ、常識的に考えて"
-msgstr "900:Grimm: It shouldn't be that hard to figure out, right?"
+msgstr "900:グリム：分かるだろ、常識的に考えて"
 
 msgid "1000:グリム：それより、第７の事件だ！"
-msgstr "1000:Grimm: Anyway, it's here! The 7th murder!"
+msgstr "1000:グリム：それより、第７の事件だ！"
 
 msgid "1100:『第７の事件』……！[%p]"
-msgstr "1100:The seventh murder![%p]"
+msgstr "1100:『第７の事件』……！[%p]"
 
 msgid "1200:また、起きた。[linebreak]またニュージェネだ。[%p]"
-msgstr "1200:Another one. Another NewGen murder.[%p]"
+msgstr "1200:また、起きた。[linebreak]またニュージェネだ。[%p]"
 
 msgid "1300:いったい、いつまで続くんだ。[linebreak]僕が殺されるのは次か？\u3000その次か？[%p]"
-msgstr "1300:How long was this going to keep happening? Would the next one be the one where they finally got me? Or the one after that?[%p]"
+msgstr "1300:いったい、いつまで続くんだ。[linebreak]僕が殺されるのは次か？\u3000その次か？[%p]"
 
 msgid "1400:それにしても、グリムはまるでニュージェネ事件の広報担当みたいだ。[linebreak]いちいち僕に報せてくる。[%p]"
-msgstr "1400:Anyway, had Grimm gotten a job at the NewGen advertising division or something? He was constantly telling me about them whenever one happened.[%p]"
+msgstr "1400:それにしても、グリムはまるでニュージェネ事件の広報担当みたいだ。[linebreak]いちいち僕に報せてくる。[%p]"
 
 msgid "1500:今も、わざわざニュースサイトなど複数のリンクを貼り付けてきていた。[linebreak]見ろ、ということらしい。[%p]"
-msgstr "1500:Once again, he'd posted a bunch of links to news sites, too. This must've been his way of telling me to look at them.[%p]"
+msgstr "1500:今も、わざわざニュースサイトなど複数のリンクを貼り付けてきていた。[linebreak]見ろ、ということらしい。[%p]"
 
 msgid "1600:やむなくそのリンクをクリックし、きつく唇を噛む。[%p]"
-msgstr "1600:I clicked the link, and bit down hard on my lip.[%p]"
+msgstr "1600:やむなくそのリンクをクリックし、きつく唇を噛む。[%p]"
 
 msgid "1700:[name]キャスターＡ[line]「今日午前４時５０分頃、東京都渋谷区の線路沿いで、男性３人の他殺死体が鉄柱につり下げられているのを、通りかかった新聞販売員の男性が発見しました」[%p]"
-msgstr "1700:[name]キャスターＡ[line]At approximately 4:50 AM today, a newspaper deliveryman found the bodies of three men hanging from a utility tower near the train tracks in Shibuya.[%p]"
+msgstr "1700:[name]キャスターＡ[line]「今日午前４時５０分頃、東京都渋谷区の線路沿いで、男性３人の他殺死体が鉄柱につり下げられているのを、通りかかった新聞販売員の男性が発見しました」[%p]"
 
 msgid "1800:[name]キャスターＡ[line]「警察の調べによりますと、殺されたのは、いずれも渋谷区に住む、無職、藤田耕平さん、大学生の安沢三郎さん、とび職の鷹木了さん、の３人です」[%p]"
-msgstr "1800:[name]キャスターＡ[line]A police investigation revealed that the bodies belonged to three Shibuya residents: a college student named Saburo Anzawa, a part-time worker named Ryo Takagi, and Kohei Fujita, who was unemployed.[%p]"
+msgstr "1800:[name]キャスターＡ[line]「警察の調べによりますと、殺されたのは、いずれも渋谷区に住む、無職、藤田耕平さん、大学生の安沢三郎さん、とび職の鷹木了さん、の３人です」[%p]"
 
 msgid "1900:[name]キャスターＡ[line]「３人とも胴体の部分が切断され、それぞれの上半身と下半身が別々に入れ替えられて、糸で縫合されていました」[%p]"
-msgstr "1900:[name]キャスターＡ[line]All three had their bodies severed at the torso, and the top and bottom halves were switched with another of the murdered men.[%p]"
+msgstr "1900:[name]キャスターＡ[line]「３人とも胴体の部分が切断され、それぞれの上半身と下半身が別々に入れ替えられて、糸で縫合されていました」[%p]"
 
 msgid "2000:[name]キャスターＡ[line]「３人の額にはそれぞれ謎の傷が付けられており、警察では犯人からのメッセージではないかと見て、調べています」[%p]"
-msgstr "2000:[name]キャスターＡ[line]Strange, distinctive injuries were found on their foreheads, which the police believe may be a message from the killer.[%p]"
+msgstr "2000:[name]キャスターＡ[line]「３人の額にはそれぞれ謎の傷が付けられており、警察では犯人からのメッセージではないかと見て、調べています」[%p]"
 
 msgid "2100:[name]キャスターＡ[line]「渋谷では、２ヶ月ほど前から猟奇殺人事件が頻発しており、警察では今回の事件も同一犯による犯行の可能性が高いと見て、捜査を続けています」[%p]"
-msgstr "2100:[name]キャスターＡ[line]Shibuya has suffered from a number of bizarre murders over the past two months, and authorities are treating this as another in the same series of incidents.[%p]"
+msgstr "2100:[name]キャスターＡ[line]「渋谷では、２ヶ月ほど前から猟奇殺人事件が頻発しており、警察では今回の事件も同一犯による犯行の可能性が高いと見て、捜査を続けています」[%p]"
 
 msgid "2200:最後に見た動画ニュースに、被害者３人の顔写真が映し出されていた。[%p]"
-msgstr "2200:The last video I saw showed the faces of the three murdered men.[%p]"
+msgstr "2200:最後に見た動画ニュースに、被害者３人の顔写真が映し出されていた。[%p]"
 
 msgid "2300:僕は、[linebreak]その顔に、[linebreak]見覚えがあった。[%p]"
-msgstr "2300:I... recognized... their faces.[%p]"
+msgstr "2300:僕は、[linebreak]その顔に、[linebreak]見覚えがあった。[%p]"
 
 msgid "2400:[name]拓巳[line]「あ、あいつらだ……」[%p]"
-msgstr "2400:[name]拓巳[line]I-It's them.[%p]"
+msgstr "2400:[name]拓巳[line]「あ、あいつらだ……」[%p]"
 
 msgid "2500:[name]拓巳[line]「き、昨日……僕に、か、絡んできた……」[%p]"
-msgstr "2500:[name]拓巳[line]T-They mugged me yesterday.[%p]"
+msgstr "2500:[name]拓巳[line]「き、昨日……僕に、か、絡んできた……」[%p]"
 
 msgid "2600:僕は財布を差し出して、[linebreak]でも暴力を振るわれて、[%p]"
-msgstr "2600:I gave them my wallet, but they still attacked me anyway.[%p]"
+msgstr "2600:僕は財布を差し出して、[linebreak]でも暴力を振るわれて、[%p]"
 
 msgid "2700:意識を失って、[linebreak]気が付いたら、そこにこずぴぃがいて、[%p]"
-msgstr "2700:I passed out. And when I woke up, Kozupii was there.[%p]"
+msgstr "2700:意識を失って、[linebreak]気が付いたら、そこにこずぴぃがいて、[%p]"
 
 msgid "2800:彼ら３人は血まみれで倒れてた……。[%p]"
-msgstr "2800:The three of them were covered in blood.[%p]"
+msgstr "2800:彼ら３人は血まみれで倒れてた……。[%p]"
 
 msgid "2900:自分の財布をポケットから出して、まじまじと見つめてみる。[%p]"
-msgstr "2900:I took my wallet out of my pocket and stared at it.[%p]"
+msgstr "2900:自分の財布をポケットから出して、まじまじと見つめてみる。[%p]"
 
 msgid "3000:これは、僕が気が付いたとき、こずぴぃが持っていて、返してくれた。[%p]"
-msgstr "3000:When I'd woken up, Kozupii was holding my wallet, and she'd given it back to me.[%p]"
+msgstr "3000:これは、僕が気が付いたとき、こずぴぃが持っていて、返してくれた。[%p]"
 
 msgid "3100:もしかして、あの３人を殺したのは――[%p]"
-msgstr "3100:Could she be the one who...[%p]"
+msgstr "3100:もしかして、あの３人を殺したのは――[%p]"
 
 msgid "3200:いや、違う。[linebreak]あのとき、僕が最後にあの３人を見たとき、確かに顔は変形して血まみれだったけど、胴体が切断されていたりなんかしなかった。[%p]"
-msgstr "3200:No, that wasn't right. When I'd seen them last, their faces were smashed up and they were covered in blood, but they certainly weren't sliced in half.[%p]"
+msgstr "3200:いや、違う。[linebreak]あのとき、僕が最後にあの３人を見たとき、確かに顔は変形して血まみれだったけど、胴体が切断されていたりなんかしなかった。[%p]"
 
 msgid "3300:あの３人が殺されたのは、僕とこずぴぃが立ち去った後……。[%p]"
-msgstr "3300:They'd been killed after Kozupii and I had left.[%p]"
+msgstr "3300:あの３人が殺されたのは、僕とこずぴぃが立ち去った後……。[%p]"
 
 msgid "3400:やっぱり『将軍』だ。[linebreak]あいつが、あのじいさんが、僕を挑発しているんだ……！[%p]"
-msgstr "3400:It had to be Shogun. He was... He was taunting me![%p]"
+msgstr "3400:やっぱり『将軍』だ。[linebreak]あいつが、あのじいさんが、僕を挑発しているんだ……！[%p]"
 
 msgid "3500:くそぅ、どこまで僕を精神的に追い詰める気だ……。[linebreak]吐きそうな気分になった。胃がきりきりと痛み、お腹を手で押さえる。[%p]"
-msgstr "3500:He was trying to destroy my mind. I felt like I was about to throw up. My stomach was wracked with pain. I put my hands up against it hard to try and make it go away.[%p]"
+msgstr "3500:くそぅ、どこまで僕を精神的に追い詰める気だ……。[linebreak]吐きそうな気分になった。胃がきりきりと痛み、お腹を手で押さえる。[%p]"
 
 msgid "3600:次か？[linebreak]この次こそ僕が殺されるのか？[%p]"
-msgstr "3600:Would I be next? Would the next one finally be the one where I was killed?[%p]"
+msgstr "3600:次か？[linebreak]この次こそ僕が殺されるのか？[%p]"
 
 msgid "3700:また『将軍』が僕の前に現れる可能性がある。[linebreak]どうやらあいつは、ゲーム感覚で僕を狙っているらしい。だからあいつの気まぐれで次の“クエスト”がいつ始まるかもしれないんだ。[%p]"
-msgstr "3700:There was a chance that Shogun would come back. He seemed to be coming after me as some sort of game. Which meant the next “quest” might start whenever he felt like it.[%p]"
+msgstr "3700:また『将軍』が僕の前に現れる可能性がある。[linebreak]どうやらあいつは、ゲーム感覚で僕を狙っているらしい。だからあいつの気まぐれで次の“クエスト”がいつ始まるかもしれないんだ。[%p]"
 
 msgid "3800:それが怖い。[%p]"
-msgstr "3800:That scared me.[%p]"
+msgstr "3800:それが怖い。[%p]"
 
 msgid "3900:ディソードを手に入れようとしたのだって、元はと言えば『将軍』から自分の身を守るためだったんだし。[%p]"
-msgstr "3900:The only reason I'd wanted a Di-Sword in the first place was because I was so scared of him.[%p]"
+msgstr "3900:ディソードを手に入れようとしたのだって、元はと言えば『将軍』から自分の身を守るためだったんだし。[%p]"
 
 msgid "4000:剣のない僕が、どうすれば『将軍』の魔の手から逃れられるのか。[%p]"
-msgstr "4000:How was I supposed to protect myself from him without the sword?[%p]"
+msgstr "4000:剣のない僕が、どうすれば『将軍』の魔の手から逃れられるのか。[%p]"
 
 msgid "4100:のど元にナイフを突きつけられているかのような感覚。[linebreak]“いつでもお前を殺せるんだよ”と宣告されているかのような感覚。[%p]"
-msgstr "4100:It felt like there was a knife at my throat. Like somebody was saying they could kill me at any time.[%p]"
+msgstr "4100:のど元にナイフを突きつけられているかのような感覚。[linebreak]“いつでもお前を殺せるんだよ”と宣告されているかのような感覚。[%p]"
 
 msgid "4200:もう、許してよ。[linebreak]僕がなにをしたって言うんだ。[linebreak]こんなの、いい加減うんざりだ……。[%p]"
-msgstr "4200:Please, just leave me alone. What did I ever do to you? I'm just so tired of this all.[%p]"
+msgstr "4200:もう、許してよ。[linebreak]僕がなにをしたって言うんだ。[linebreak]こんなの、いい加減うんざりだ……。[%p]"
 
 msgid "4300:誰か、助けてくれ……。[linebreak]梨深、どこに行ったんだよ。僕を守ってくれるんじゃ、なかったの……？[%p]"
-msgstr "4300:Somebody, save me. Where did Rimi go? Wasn't she supposed to protect me?[%p]"
+msgstr "4300:誰か、助けてくれ……。[linebreak]梨深、どこに行ったんだよ。僕を守ってくれるんじゃ、なかったの……？[%p]"
 
 msgid "4400:ダメだ、梨深はもう、当てにはできない。[linebreak]今日だって、学校に行ってみたけど、梨深はいなかった。[linebreak]まるで最初からいなかったみたいに。[%p]"
-msgstr "4400:No. I couldn't count on Rimi anymore. I'd gone to school today and she hadn't even been there. It was like she'd never been there at all.[%p]"
+msgstr "4400:ダメだ、梨深はもう、当てにはできない。[linebreak]今日だって、学校に行ってみたけど、梨深はいなかった。[linebreak]まるで最初からいなかったみたいに。[%p]"
 
 msgid "4500:だから、梨深以外の、頼りになる誰かに守ってもらうしかない。[linebreak]真っ先に思い浮かんだのは――[%p]"
-msgstr "4500:I needed somebody to protect me. Somebody other than her. And the first person that came to mind was...[%p]"
+msgstr "4500:だから、梨深以外の、頼りになる誰かに守ってもらうしかない。[linebreak]真っ先に思い浮かんだのは――[%p]"
 
 msgid "4600:[name]セナ[line]「お前が望むと望まないとにかかわらず、もしこれ以上踏み込んでくるようなら――」[%p]"
-msgstr "4600:[name]セナ[line]If you feel like you're going to get more involved in this whether you want to or not,[%p]"
+msgstr "4600:[name]セナ[line]「お前が望むと望まないとにかかわらず、もしこれ以上踏み込んでくるようなら――」[%p]"
 
 msgid "4700:[name]セナ[line]「負を正にするぐらいの強い意識を持つんだな」[%p]"
-msgstr "4700:[name]セナ[line]you need to keep a strong will, one that can turn negative into positive.[%p]"
+msgstr "4700:[name]セナ[line]「負を正にするぐらいの強い意識を持つんだな」[%p]"
 
 msgid "4800:[name]セナ[line]「中途半端な気持ちじゃ、妄想に食われるだけだぞ」[%p]"
-msgstr "4800:[name]セナ[line]Without that strength, your delusions will devour you.[%p]"
+msgstr "4800:[name]セナ[line]「中途半端な気持ちじゃ、妄想に食われるだけだぞ」[%p]"
 
 msgid "4900:蒼井セナ。[%p]"
-msgstr "4900:Sena Aoi.[%p]"
+msgstr "4900:蒼井セナ。[%p]"
 
 msgid "5000:昨日、別れ際にそんな忠告を僕にしてきた。[%p]"
-msgstr "5000:She'd given me that warning before we'd said goodbye the other day.[%p]"
+msgstr "5000:昨日、別れ際にそんな忠告を僕にしてきた。[%p]"
 
 msgid "5100:彼女は、なにかを知っている。[linebreak]それにディソードも持っている。[linebreak]なんだか、強そうだし。[%p]"
-msgstr "5100:She knew something. And she had a Di-Sword. She looked kind of strong, too.[%p]"
+msgstr "5100:彼女は、なにかを知っている。[linebreak]それにディソードも持っている。[linebreak]なんだか、強そうだし。[%p]"
 
 msgid "5200:彼女は、僕を助けてくれるだろうか。[linebreak]助けてもらわないと、困るぞ……。[%p]"
-msgstr "5200:Would she save me? I needed her to. Really badly.[%p]"
+msgstr "5200:彼女は、僕を助けてくれるだろうか。[linebreak]助けてもらわないと、困るぞ……。[%p]"
 

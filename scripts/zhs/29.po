@@ -10,116 +10,116 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:自作の『最低登校シフト表』を、僕はじっとにらみつけた。[%p]"
-msgstr "0:I glared at the “Minimum Necessary School Schedule” I'd created.[%p]"
+msgstr "0:自作の『最低登校シフト表』を、僕はじっとにらみつけた。[%p]"
 
 msgid "100:結局、昨日はブラチューをリアルタイムで見られなかった。もちろんその後、ミュウツベに[color index="A0FF0000"]うｐ[color index="800000"]されたのを見たから問題はなかったけど。[%p]"
-msgstr "100:I'd never gotten to see Blood Tune in real time last night. Of course, I saw it when it was [color index="A0FF0000"]upped[color index="800000"] to MewTube, so it didn't matter.[%p]"
+msgstr "100:結局、昨日はブラチューをリアルタイムで見られなかった。もちろんその後、ミュウツベに[color index="A0FF0000"]うｐ[color index="800000"]されたのを見たから問題はなかったけど。[%p]"
 
 msgid "200:でも気分は晴れない。[%p]"
-msgstr "200:But I still didn't feel any better.[%p]"
+msgstr "200:でも気分は晴れない。[%p]"
 
 msgid "300:将軍がログに最後に残したあの言葉――[%p]"
-msgstr "300:The last thing Shogun had said before he'd left...[%p]"
+msgstr "300:将軍がログに最後に残したあの言葉――[%p]"
 
 msgid "400:まるで僕が“神の視線”を恐れているのを見透かしてるみたいだ。偶然にしては、できすぎている。[%p]"
-msgstr "400:It was like he knew how scared I was of God's gaze. It couldn't possibly be a coincidence.[%p]"
+msgstr "400:まるで僕が“神の視線”を恐れているのを見透かしてるみたいだ。偶然にしては、できすぎている。[%p]"
 
 msgid "500:もしかしてどこかに僕の個人情報が流出したのかとか、エンスー内でナイトハルトに反感を持ってるヤツのイタズラじゃないかとか、いろいろ考えた。[%p]"
-msgstr "500:I tried to think of how he might know. Had my personal info leaked? Or was this somebody from ESO who was out to get me?[%p]"
+msgstr "500:もしかしてどこかに僕の個人情報が流出したのかとか、エンスー内でナイトハルトに反感を持ってるヤツのイタズラじゃないかとか、いろいろ考えた。[%p]"
 
 msgid "600:僕みたいな神的存在は、味方も多いけど敵も多いんだ。[%p]"
-msgstr "600:A godlike player like me had lots of friends, but also lots of enemies.[%p]"
+msgstr "600:僕みたいな神的存在は、味方も多いけど敵も多いんだ。[%p]"
 
 msgid "700:ま、敵のほとんどはやっかみだけど。いるんだよね、ナイトハルトの強さや人望に嫉妬して幼稚な挑発をしてくるヤツが。"
-msgstr "700:Well, most of those enemies were just haters, though. You know, guys who were jealous of KnightHeart's strength and charisma."
+msgstr "700:ま、敵のほとんどはやっかみだけど。いるんだよね、ナイトハルトの強さや人望に嫉妬して幼稚な挑発をしてくるヤツが。"
 
 msgid "800:[linebreak]そういうのはスルーするに限るよ。[%p]"
-msgstr "800:[linebreak]It was best to just ignore them, I'd always found.[%p]"
+msgstr "800:[linebreak]そういうのはスルーするに限るよ。[%p]"
 
 msgid "900:ま、敵のほとんどはやっかみだけど。いるんだよね、ナイトハルトの強さや人望に嫉妬して幼稚な挑発をしてくるヤツが。そういうのはスルーするに限るよ。"
-msgstr "900:Well, most of those enemies were just haters, though. You know, guys who were jealous of KnightHeart's strength and charisma. It was best to just ignore them, I'd always found."
+msgstr "900:ま、敵のほとんどはやっかみだけど。いるんだよね、ナイトハルトの強さや人望に嫉妬して幼稚な挑発をしてくるヤツが。そういうのはスルーするに限るよ。"
 
 msgid "1000:って、そんなことは今はどうでもいいんだ。[%p]"
-msgstr "1000:No. That wasn't what was important now.[%p]"
+msgstr "1000:って、そんなことは今はどうでもいいんだ。[%p]"
 
 msgid "1100:とにかく、あの将軍ってのが何者なのか、それが気になっちゃって、その後ログインしたエンスーでの狩りもまったく集中できなかった。[%p]"
-msgstr "1100:Even after I logged into ESO, I couldn't stop wondering who he was, to the point where I couldn't even concentrate on my grinding.[%p]"
+msgstr "1100:とにかく、あの将軍ってのが何者なのか、それが気になっちゃって、その後ログインしたエンスーでの狩りもまったく集中できなかった。[%p]"
 
 msgid "1200:しかも、よりによって今日は……[%p]"
-msgstr "1200:And to make matters worse, today was...[%p]"
+msgstr "1200:しかも、よりによって今日は……[%p]"
 
 msgid "1300:[name]拓巳[line]「最悪の日だ……」[%p]"
-msgstr "1300:[name]拓巳[line]The worst day possible...[%p]"
+msgstr "1300:[name]拓巳[line]「最悪の日だ……」[%p]"
 
 msgid "1400:残念ながら、今日は学校に行かなくちゃいけない日なんだ。[%p]"
-msgstr "1400:It was, unfortunately, a day where I had to go to school.[%p]"
+msgstr "1400:残念ながら、今日は学校に行かなくちゃいけない日なんだ。[%p]"
 
 msgid "1500:ホントは行きたくないんだけど、僕の作った『最低登校シフト表』通りにしないと、後で計算が狂って最悪の場合留年っていうことになりかねない。[%p]"
-msgstr "1500:I didn't want to go, but if I didn't follow my schedule, it might come back to bite me later. I might even end up being held back.[%p]"
+msgstr "1500:ホントは行きたくないんだけど、僕の作った『最低登校シフト表』通りにしないと、後で計算が狂って最悪の場合留年っていうことになりかねない。[%p]"
 
 msgid "1600:[name]拓巳[line]「眠いのに……」[%p]"
-msgstr "1600:[name]拓巳[line]I'm so sleepy, too.[%p]"
+msgstr "1600:[name]拓巳[line]「眠いのに……」[%p]"
 
 msgid "1700:必死にあくびを噛み殺しながら、トボトボと学校へ向かって歩き出した。学校までは、僕のベースから徒歩で１０分ほど。[%p]"
-msgstr "1700:I did my best to stifle a yawn as I staggered down the road to school. At my walking speed, it would take about 10 minutes to get there.[%p]"
+msgstr "1700:必死にあくびを噛み殺しながら、トボトボと学校へ向かって歩き出した。学校までは、僕のベースから徒歩で１０分ほど。[%p]"
 
 msgid "1800:歩き始めてすぐに、気持ちが沈み込んできた。[%p]"
-msgstr "1800:Once I started moving, I only felt worse.[%p]"
+msgstr "1800:歩き始めてすぐに、気持ちが沈み込んできた。[%p]"
 
 msgid "1900:身体がだるくて妙に息苦しいし、全身にじっとりとイヤな汗が出始めてるし。学校に行くときはいつもこうだ。[%p]"
-msgstr "1900:I felt exhausted. It was weirdly hard to breathe, and there was an awful sweat dripping from every pore in my body. This always happened whenever I went to school.[%p]"
+msgstr "1900:身体がだるくて妙に息苦しいし、全身にじっとりとイヤな汗が出始めてるし。学校に行くときはいつもこうだ。[%p]"
 
 msgid "2000:なんだって僕が、苦痛でしかない学校に行かなくちゃならないんだ。アスファルトに引かれた白線に視線を落としたまま、ブツブツつぶやきながら僕はそれでも足を進める。[%p]"
-msgstr "2000:Why did I have to go to school at all, when all it meant was suffering? I mumbled to myself as I stared down at the white lines on the asphalt, but I kept going.[%p]"
+msgstr "2000:なんだって僕が、苦痛でしかない学校に行かなくちゃならないんだ。アスファルトに引かれた白線に視線を落としたまま、ブツブツつぶやきながら僕はそれでも足を進める。[%p]"
 
 msgid "2100:[ruby-base]松濤[ruby-text-start]しょうとう[ruby-text-end]公園の中へと入っていく。ここを通り抜ければ、学校はすぐ目の前だ。[%p]"
-msgstr "2100:My route took me through Shoto Park. Once I was through the park, the school was right there.[%p]"
+msgstr "2100:[ruby-base]松濤[ruby-text-start]しょうとう[ruby-text-end]公園の中へと入っていく。ここを通り抜ければ、学校はすぐ目の前だ。[%p]"
 
 msgid "2200:公園内にある池のほとりには、朝の散歩をしている初老の夫婦と、ベンチに座ってスポーツ新聞を読んでいるサラリーマンの姿があった。[%p]"
-msgstr "2200:As I walked by a lake, I could see an older couple out for a morning walk, and a salaryman sitting on a bench reading the sports section.[%p]"
+msgstr "2200:公園内にある池のほとりには、朝の散歩をしている初老の夫婦と、ベンチに座ってスポーツ新聞を読んでいるサラリーマンの姿があった。[%p]"
 
 msgid "2300:渋谷っていう大都市の外れにある公園にしてはここは静かで、[linebreak]憩いの場っていう表現がぴったりだった。[%p]"
-msgstr "2300:For a park on the outskirts of a major downtown area like Shibuya, it was quiet. It was a perfect place to relax.[%p]"
+msgstr "2300:渋谷っていう大都市の外れにある公園にしてはここは静かで、[linebreak]憩いの場っていう表現がぴったりだった。[%p]"
 
 msgid "2400:僕もベンチのひとつに腰掛ける。[%p]"
-msgstr "2400:I sat down on one of the benches.[%p]"
+msgstr "2400:僕もベンチのひとつに腰掛ける。[%p]"
 
 msgid "2500:徐々に色づき始めた木々に囲まれ、穏やかな水面をたたえる池を見つめながら朝食を取るのが、学校に行くときの日課だった。[%p]"
-msgstr "2500:Every day I went to school, I would always sit here in the morning and eat my breakfast, surrounded by leaves that were gradually beginning to change color, and watch the placid surface of the lake.[%p]"
+msgstr "2500:徐々に色づき始めた木々に囲まれ、穏やかな水面をたたえる池を見つめながら朝食を取るのが、学校に行くときの日課だった。[%p]"
 
 msgid "2600:メニューは途中のコンビニで買ってきた朝食のパン。これで今日の夜まで乗り切る。[%p]"
-msgstr "2600:Breakfast was a pastry I bought at the local convenience store. This would keep me going until evening.[%p]"
+msgstr "2600:メニューは途中のコンビニで買ってきた朝食のパン。これで今日の夜まで乗り切る。[%p]"
 
 msgid "2700:昼はなにも食べずに過ごすんだ。[%p]"
-msgstr "2700:I never ate lunch.[%p]"
+msgstr "2700:昼はなにも食べずに過ごすんだ。[%p]"
 
 msgid "2800:僕みたいなキモオタ野郎と一緒に昼食を食べるヤツなんていないし、かと言って周りが仲良さそうに食べている中でひとりきりで食事するのもまっぴらだから。[%p]"
-msgstr "2800:Nobody wanted to eat with a creepy otaku like me, and I certainly didn't want to eat alone when everyone else was in a group.[%p]"
+msgstr "2800:僕みたいなキモオタ野郎と一緒に昼食を食べるヤツなんていないし、かと言って周りが仲良さそうに食べている中でひとりきりで食事するのもまっぴらだから。[%p]"
 
 msgid "2900:クリームパンをコーラでかき込んでから、僕はぼんやりと空を見上げた。[%p]"
-msgstr "2900:I washed down the cream-filled pastry with a can of soda and stared up at the sky.[%p]"
+msgstr "2900:クリームパンをコーラでかき込んでから、僕はぼんやりと空を見上げた。[%p]"
 
 msgid "3000:渋谷の空は、どこかくすんでいるように思える。それはどんな季節も変わらない。[%p]"
-msgstr "3000:The sky above Shibuya was always kind of cloudy, and never totally clear. This was true no matter what season it was.[%p]"
+msgstr "3000:渋谷の空は、どこかくすんでいるように思える。それはどんな季節も変わらない。[%p]"
 
 msgid "3100:僕の実家はここから数駅行ったところにある街だけど、そこともなにかが決定的に違うって感じるんだ。[%p]"
-msgstr "3100:My family's home was just a few stops away from Shibuya by train, but something made it feel like a whole different world.[%p]"
+msgstr "3100:僕の実家はここから数駅行ったところにある街だけど、そこともなにかが決定的に違うって感じるんだ。[%p]"
 
 msgid "3200:とは言え、そのくすんだ空を僕は嫌いじゃなかった。その理由は、よく分からないけど。[%p]"
-msgstr "3200:Oddly enough, the gray sky didn't bother me. I didn't know why, but it didn't.[%p]"
+msgstr "3200:とは言え、そのくすんだ空を僕は嫌いじゃなかった。その理由は、よく分からないけど。[%p]"
 
 msgid "3300:腕時計を見て、時間を確認。[%p]"
-msgstr "3300:I looked at my watch to check the time.[%p]"
+msgstr "3300:腕時計を見て、時間を確認。[%p]"
 
 msgid "3400:そろそろ行かないと遅刻しちゃう。それは絶対に避けなくちゃいけない。[%p]"
-msgstr "3400:I needed to get going, or I'd be late. Being late was the one thing I absolutely couldn't do.[%p]"
+msgstr "3400:そろそろ行かないと遅刻しちゃう。それは絶対に避けなくちゃいけない。[%p]"
 
 msgid "3500:週に２．５回しか学校に行かない僕は、目立つようなことをしちゃダメなんだ。[%p]"
-msgstr "3500:If I wanted to only go to school 2.5 times a week, then I needed to make sure I didn't stand out at all costs.[%p]"
+msgstr "3500:週に２．５回しか学校に行かない僕は、目立つようなことをしちゃダメなんだ。[%p]"
 
 msgid "3600:とにかく空気みたいにそこにいることが大切。[%p]"
-msgstr "3600:I needed to be like the air we breathe, completely invisible.[%p]"
+msgstr "3600:とにかく空気みたいにそこにいることが大切。[%p]"
 
 msgid "3700:クラスの担任やＤＱＮに目を付けられずに、誰にも干渉されず平穏無事に１日を終えること……それが僕の学校生活における目標だ。[%p]"
-msgstr "3700:I needed to avoid the DQNs (the delinquents and thugs I hated more than anything) and teachers, and spend my day undisturbed, in peace and quiet. That was my goal for my school life.[%p]"
+msgstr "3700:クラスの担任やＤＱＮに目を付けられずに、誰にも干渉されず平穏無事に１日を終えること……それが僕の学校生活における目標だ。[%p]"
 

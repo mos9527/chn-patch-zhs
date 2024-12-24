@@ -10,260 +10,260 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]梢[line]「この剣が、怖くて、仕方なかった」[%p]"
-msgstr "0:[name]梢[line]I used to think this sword was so scary...[%p]"
+msgstr "0:[name]梢[line]「この剣が、怖くて、仕方なかった」[%p]"
 
 msgid "100:折原梢は、東京に出てくるまで、そう思っていた。[%p]"
-msgstr "100:That's what she'd thought until she came to Tokyo.[%p]"
+msgstr "100:折原梢は、東京に出てくるまで、そう思っていた。[%p]"
 
 msgid "200:だが、今は違う。[linebreak]今では、彼女にとってとても大切で、かけがえのないものとなった。[%p]"
-msgstr "200:But now she felt differently. Now, it was something precious, something very important to her.[%p]"
+msgstr "200:だが、今は違う。[linebreak]今では、彼女にとってとても大切で、かけがえのないものとなった。[%p]"
 
 msgid "300:この剣があれば、怖くない。[linebreak]この剣が、自分を守ってくれる。[linebreak]この剣は、自分の心。もうひとりの、自分。[%p]"
-msgstr "300:As long as she had the sword, there was nothing to be scared of. The sword would protect her. The sword was her heart. It was her other self.[%p]"
+msgstr "300:この剣があれば、怖くない。[linebreak]この剣が、自分を守ってくれる。[linebreak]この剣は、自分の心。もうひとりの、自分。[%p]"
 
 msgid "400:そう思うようになったのは、もう３週間ほども前――[%p]"
-msgstr "400:It was about three weeks ago that she'd changed her mind.[%p]"
+msgstr "400:そう思うようになったのは、もう３週間ほども前――[%p]"
 
 msgid "500:梢には、幼い頃から、他人の心の声が聞こえてしまうという力があった。[%p]"
-msgstr "500:Kozue had always had the power to hear what other people were thinking.[%p]"
+msgstr "500:梢には、幼い頃から、他人の心の声が聞こえてしまうという力があった。[%p]"
 
 msgid "600:それをいつ自覚するようになったのかは、もう覚えていない。[%p]"
-msgstr "600:She couldn't remember anymore when she'd first realized she had it.[%p]"
+msgstr "600:それをいつ自覚するようになったのかは、もう覚えていない。[%p]"
 
 msgid "700:自分がおかしくなったんだ、病気になっちゃったんだ――[linebreak]梢は幼いながらに、この力は誰にも悟られちゃいけないものなんだと思った。[%p]"
-msgstr "700:She'd thought she'd gone crazy, or that she was sick. In her own, childish way, she'd thought that she couldn't let anybody find out.[%p]"
+msgstr "700:自分がおかしくなったんだ、病気になっちゃったんだ――[linebreak]梢は幼いながらに、この力は誰にも悟られちゃいけないものなんだと思った。[%p]"
 
 msgid "800:だから、両親にも隠していた。[%p]"
-msgstr "800:She hadn't told anybody, not even her parents.[%p]"
+msgstr "800:だから、両親にも隠していた。[%p]"
 
 msgid "900:力のせいで友人もできず、家族とも溝ができ、“やたらと勘のいい子”と周囲から気味悪がられた。[%p]"
-msgstr "900:Because of her power, she couldn't make any friends. It created a rift between her and her family, too. All the people around her started to think she was creepy, that her intuition was “a little too good.”[%p]"
+msgstr "900:力のせいで友人もできず、家族とも溝ができ、“やたらと勘のいい子”と周囲から気味悪がられた。[%p]"
 
 msgid "1000:渋谷に来ても、彼女は学校へ行くことが怖かった。誰とも会いたくなかった。どうせまた気味悪がられるに決まってると考えていた。[%p]"
-msgstr "1000:Even after coming to Shibuya, she'd been scared to go to school. She hadn't wanted to talk to anybody. She'd thought they'd just find her creepy again.[%p]"
+msgstr "1000:渋谷に来ても、彼女は学校へ行くことが怖かった。誰とも会いたくなかった。どうせまた気味悪がられるに決まってると考えていた。[%p]"
 
 msgid "1100:本来転入するはずだった日も、その次の日も、さらに次の日も、学校へ行かずに朝から渋谷の街をさまよい歩いていた。[%p]"
-msgstr "1100:The first day she was supposed to go to school, and the day after that, and even the day after that, she'd skipped school and spent the day wandering around Shibuya instead.[%p]"
+msgstr "1100:本来転入するはずだった日も、その次の日も、さらに次の日も、学校へ行かずに朝から渋谷の街をさまよい歩いていた。[%p]"
 
 msgid "1200:きっと両親には学校から連絡が行っていただろう。梢が無断欠席していることには気付いたはずだ。でも２人は梢になにも言ってこなかった。[%p]"
-msgstr "1200:She knew the school must have contacted her parents. They must've known Kozue wasn't going. But the two of them didn't say anything to her at all.[%p]"
+msgstr "1200:きっと両親には学校から連絡が行っていただろう。梢が無断欠席していることには気付いたはずだ。でも２人は梢になにも言ってこなかった。[%p]"
 
 msgid "1300:中学生と間違われてもおかしくない容姿の梢が平日の午前中から街を歩いていても、彼女が以前住んでいた田舎とは違って、咎める人間はひとりもいなかった。[%p]"
-msgstr "1300:Kozue looked young enough to be mistaken for a middle schooler, and yet unlike back home in the countryside, nobody stopped her when she was out in the middle of the day.[%p]"
+msgstr "1300:中学生と間違われてもおかしくない容姿の梢が平日の午前中から街を歩いていても、彼女が以前住んでいた田舎とは違って、咎める人間はひとりもいなかった。[%p]"
 
 msgid "1400:渋谷を徘徊するようになって数日。[%p]"
-msgstr "1400:She'd spent days wandering around Shibuya.[%p]"
+msgstr "1400:渋谷を徘徊するようになって数日。[%p]"
 
 msgid "1500:Ｒｏｆｔ内の階段という、彼女にとっての憩いの場所を見つけ、そこに座り込んでぼんやりするのが日課になった。[%p]"
-msgstr "1500:She'd found her little peaceful spot in the Roft stairwell, and every day she'd go up there to sit.[%p]"
+msgstr "1500:Ｒｏｆｔ内の階段という、彼女にとっての憩いの場所を見つけ、そこに座り込んでぼんやりするのが日課になった。[%p]"
 
 msgid "1600:その日も、夕方になるまで４時間近くもそこで過ごした後、帰ろうとＲｏｆｔを出た。[%p]"
-msgstr "1600:One day, she'd spent almost four hours there, until the sun finally began to set. Then she'd left Roft to go home.[%p]"
+msgstr "1600:その日も、夕方になるまで４時間近くもそこで過ごした後、帰ろうとＲｏｆｔを出た。[%p]"
 
 msgid "1700:鈍色の空からは雨の雫が落ちてきていた。[%p]"
-msgstr "1700:Raindrops were pouring from the dull gray sky.[%p]"
+msgstr "1700:鈍色の空からは雨の雫が落ちてきていた。[%p]"
 
 msgid "1800:梢は傘を持っていなかったが、空を見上げることもなく、濡れることも気にせず、力のない足取りで雨の中へと足を踏み出した。[%p]"
-msgstr "1800:She hadn't brought an umbrella, but she neither looked up at the sky nor seemed to care about getting wet. She simply headed home through the rain on unsteady feet.[%p]"
+msgstr "1800:梢は傘を持っていなかったが、空を見上げることもなく、濡れることも気にせず、力のない足取りで雨の中へと足を踏み出した。[%p]"
 
 msgid "1900:そこで、ふと彼女の視界に飛び込んできたもの。[%p]"
-msgstr "1900:Then she saw something in the corner of her eye.[%p]"
+msgstr "1900:そこで、ふと彼女の視界に飛び込んできたもの。[%p]"
 
 msgid "2000:“世界は終わる”[%p]"
-msgstr "2000:It was a sign that read, “The End Is Near.”[%p]"
+msgstr "2000:“世界は終わる”[%p]"
 
 msgid "2100:そう書かれたボード。[linebreak]雨に濡れ、手書きの字はにじんでしまっていた。[%p]"
-msgstr "2100:The hand-written text was blurring in the rain.[%p]"
+msgstr "2100:そう書かれたボード。[linebreak]雨に濡れ、手書きの字はにじんでしまっていた。[%p]"
 
 msgid "2200:そのボードを持っていたのは、ひとりのホームレスの男で、こんな雨の中、道端に気配を消して座り込んでいた。[%p]"
-msgstr "2200:Holding the board was a homeless man, sitting unobtrusively on the side of the road in the middle of the pouring rain.[%p]"
+msgstr "2200:そのボードを持っていたのは、ひとりのホームレスの男で、こんな雨の中、道端に気配を消して座り込んでいた。[%p]"
 
 msgid "2300:うなだれ、その表情は見えない。もしかしたら、死んでいるのかもしれない。[%p]"
-msgstr "2300:His head was slumped forward, and she couldn't see his expression. He might've been dead.[%p]"
+msgstr "2300:うなだれ、その表情は見えない。もしかしたら、死んでいるのかもしれない。[%p]"
 
 msgid "2400:その姿が――[%p]"
-msgstr "2400:The way he looked...[%p]"
+msgstr "2400:その姿が――[%p]"
 
 msgid "2500:さっきまでＲｏｆｔの階段にいた自分とだぶって、梢は足を止めていた。[%p]"
-msgstr "2500:reminded her of how she'd looked sitting in the Roft stairwell. She stopped.[%p]"
+msgstr "2500:さっきまでＲｏｆｔの階段にいた自分とだぶって、梢は足を止めていた。[%p]"
 
 msgid "2600:[name]梢[line]「…………」[%p]"
-msgstr "2600:[name]梢[line]...[%p]"
+msgstr "2600:[name]梢[line]「…………」[%p]"
 
 msgid "2700:少しの間、躊躇した。[%p]"
-msgstr "2700:For a moment, she hesitated.[%p]"
+msgstr "2700:少しの間、躊躇した。[%p]"
 
 msgid "2800:見ず知らずの、しかも東京に来る前には見たことがなかったホームレス。その姿に嫌悪感すら覚えた。もしここで話しかけて、恐ろしいことに巻き込まれたらどうしよう……そんな不安。[%p]"
-msgstr "2800:She'd never met this man, and had never even seen a homeless person until she came to Tokyo. He looked repulsive. She was scared that if she talked to him, something horrible might happen to her.[%p]"
+msgstr "2800:見ず知らずの、しかも東京に来る前には見たことがなかったホームレス。その姿に嫌悪感すら覚えた。もしここで話しかけて、恐ろしいことに巻き込まれたらどうしよう……そんな不安。[%p]"
 
 msgid "2900:けれどそのときの梢は、その不安以上に、男を殺してやりたいという衝動が強かった。あまりにも唐突な衝動だったが、そうすることで今の自分も殺せるんじゃないかという気がした。[%p]"
-msgstr "2900:But there was another desire that won out over her fear, a desire to kill him. It was such a sudden, strong impulse that she thought that if she obeyed it, she might be able to kill herself, too.[%p]"
+msgstr "2900:けれどそのときの梢は、その不安以上に、男を殺してやりたいという衝動が強かった。あまりにも唐突な衝動だったが、そうすることで今の自分も殺せるんじゃないかという気がした。[%p]"
 
 msgid "3000:だから迷った末に、男に“心の声”を送っていた。[%p]"
-msgstr "3000:So, after a short moment's hesitation, she spoke to him with the voice in her mind.[%p]"
+msgstr "3000:だから迷った末に、男に“心の声”を送っていた。[%p]"
 
 msgid "3100:[name]梢[line]「世界は、終わるの？」[%p]"
-msgstr "3100:[name]梢[line]Is the world going to end?[%p]"
+msgstr "3100:[name]梢[line]「世界は、終わるの？」[%p]"
 
 msgid "3200:男の肩が、ピクリと震える。[linebreak]死んでいたわけではなかった。[linebreak]ゆっくりと、顔を上げる。[%p]"
-msgstr "3200:Suddenly his shoulders twitched. He wasn't dead after all. He slowly raised his head.[%p]"
+msgstr "3200:男の肩が、ピクリと震える。[linebreak]死んでいたわけではなかった。[linebreak]ゆっくりと、顔を上げる。[%p]"
 
 msgid "3300:濡れた前髪の間からのぞく濁った目が、梢を見上げてきた。[%p]"
-msgstr "3300:His cloudy eyes peered through his soaked hair as he looked up at her.[%p]"
+msgstr "3300:濡れた前髪の間からのぞく濁った目が、梢を見上げてきた。[%p]"
 
 msgid "3400:[name]男[line]「ああ。終わるよ」[%p]"
-msgstr "3400:[name]男[line]Yeah. It's going to end.[%p]"
+msgstr "3400:[name]男[line]「ああ。終わるよ」[%p]"
 
 msgid "3500:梢は驚き、わずかに目を見開いた。[%p]"
-msgstr "3500:Kozue's eyes went a little wide with surprise.[%p]"
+msgstr "3500:梢は驚き、わずかに目を見開いた。[%p]"
 
 msgid "3600:世界が終わると言い切ったことにではなく。[linebreak]男が、返事をしたことに対して。[%p]"
-msgstr "3600:Not at being told that the world would end. But at the fact that the man had replied to her.[%p]"
+msgstr "3600:世界が終わると言い切ったことにではなく。[linebreak]男が、返事をしたことに対して。[%p]"
 
 msgid "3700:返事なんて期待していなかった。[%p]"
-msgstr "3700:She hadn't expected a reply.[%p]"
+msgstr "3700:返事なんて期待していなかった。[%p]"
 
 msgid "3800:心の声を送られた相手は、戸惑って幻聴かと思い込もうとするか、恐怖に震えてその場を足早に立ち去るかのどちらかだ。[%p]"
-msgstr "3800:Most people she spoke to like this either tried to convince themselves they were hearing things, or got scared and quickly left.[%p]"
+msgstr "3800:心の声を送られた相手は、戸惑って幻聴かと思い込もうとするか、恐怖に震えてその場を足早に立ち去るかのどちらかだ。[%p]"
 
 msgid "3900:もしコミュニケーションに成功したとしても、ここまで整然と返事をよこしてくるのは難しいこと。[%p]"
-msgstr "3900:Even if she did succeed in communicating with somebody, it was hard for them to send back such a straightforward, understandable reply.[%p]"
+msgstr "3900:もしコミュニケーションに成功したとしても、ここまで整然と返事をよこしてくるのは難しいこと。[%p]"
 
 msgid "4000:人の思考というものは、あまりにも脈絡がなく無秩序だから。[%p]"
-msgstr "4000:Doing so was difficult. Human thought was disordered and random.[%p]"
+msgstr "4000:人の思考というものは、あまりにも脈絡がなく無秩序だから。[%p]"
 
 msgid "4100:なのに男は、表情をなんら変えず。[linebreak]梢の問いかけに、シンプルに一言だけで答えてきたのだ。[%p]"
-msgstr "4100:But the man hadn't seemed surprised at all. Instead, he'd given her a short, simple answer.[%p]"
+msgstr "4100:なのに男は、表情をなんら変えず。[linebreak]梢の問いかけに、シンプルに一言だけで答えてきたのだ。[%p]"
 
 msgid "4200:男の声を通して感じる心には、深い悲しみが満ちていた。心が、泣いていた。梢にはそう思えた。[%p]"
-msgstr "4200:Through his voice, she could feel a deep sadness filling his heart. His heart was crying. That's how it felt to her.[%p]"
+msgstr "4200:男の声を通して感じる心には、深い悲しみが満ちていた。心が、泣いていた。梢にはそう思えた。[%p]"
 
 msgid "4300:[name]男[line]「君は、剣を持っているね？」[%p]"
-msgstr "4300:[name]男[line]You have a sword, don't you?[%p]"
+msgstr "4300:[name]男[line]「君は、剣を持っているね？」[%p]"
 
 msgid "4400:[name]梢[line]「どうして分かるの？」[%p]"
-msgstr "4400:[name]梢[line]How do you know?[%p]"
+msgstr "4400:[name]梢[line]「どうして分かるの？」[%p]"
 
 msgid "4500:[name]男[line]「君のような子を、他にも知っているから」[%p]"
-msgstr "4500:[name]男[line]I know other children like you.[%p]"
+msgstr "4500:[name]男[line]「君のような子を、他にも知っているから」[%p]"
 
 msgid "4600:梢は頭上に手を掲げ、その場でディソードを取り出して見せた。男に切っ先を突きつける。[%p]"
-msgstr "4600:She put her hand above her head and summoned her Di-Sword. She pointed the blade at him.[%p]"
+msgstr "4600:梢は頭上に手を掲げ、その場でディソードを取り出して見せた。男に切っ先を突きつける。[%p]"
 
 msgid "4700:[name]梢[line]「この剣が、見えるの？」[%p]"
-msgstr "4700:[name]梢[line]Can you see this sword?[%p]"
+msgstr "4700:[name]梢[line]「この剣が、見えるの？」[%p]"
 
 msgid "4800:[name]男[line]「見えないよ」[%p]"
-msgstr "4800:[name]男[line]I can't.[%p]"
+msgstr "4800:[name]男[line]「見えないよ」[%p]"
 
 msgid "4900:[name]梢[line]「じゃあ、どうして分かるの？」[%p]"
-msgstr "4900:[name]梢[line]Then how do you know?[%p]"
+msgstr "4900:[name]梢[line]「じゃあ、どうして分かるの？」[%p]"
 
 msgid "5000:[name]男[line]「おじさんが、悪い人だからだよ」[%p]"
-msgstr "5000:[name]男[line]Because I'm a bad man.[%p]"
+msgstr "5000:[name]男[line]「おじさんが、悪い人だからだよ」[%p]"
 
 msgid "5100:[name]男[line]「……済まない」[%p]"
-msgstr "5100:[name]男[line]I'm sorry.[%p]"
+msgstr "5100:[name]男[line]「……済まない」[%p]"
 
 msgid "5200:[name]梢[line]「どうして、謝るの？」[%p]"
-msgstr "5200:[name]梢[line]Why are you apologizing?[%p]"
+msgstr "5200:[name]梢[line]「どうして、謝るの？」[%p]"
 
 msgid "5300:[name]男[line]「おじさんの、せいなんだ」[%p]"
-msgstr "5300:[name]男[line]It's my fault.[%p]"
+msgstr "5300:[name]男[line]「おじさんの、せいなんだ」[%p]"
 
 msgid "5400:[name]梢[line]「どうして、おじさんのせいなの？」[%p]"
-msgstr "5400:[name]梢[line]Why is it your fault?[%p]"
+msgstr "5400:[name]梢[line]「どうして、おじさんのせいなの？」[%p]"
 
 msgid "5500:[name]男[line]「忠告しかできないから」[%p]"
-msgstr "5500:[name]男[line]Because all I can do is warn others.[%p]"
+msgstr "5500:[name]男[line]「忠告しかできないから」[%p]"
 
 msgid "5600:[name]男[line]「動き出してしまったから」[%p]"
-msgstr "5600:[name]男[line]Because it's started.[%p]"
+msgstr "5600:[name]男[line]「動き出してしまったから」[%p]"
 
 msgid "5700:[name]男[line]「もう、おじさんには止める術がないから」[%p]"
-msgstr "5700:[name]男[line]Because there's nothing I can do to stop it.[%p]"
+msgstr "5700:[name]男[line]「もう、おじさんには止める術がないから」[%p]"
 
 msgid "5800:[name]梢[line]「じゃあ、おじさんを殺せば、こずぴぃは悪くなくなるの？」[%p]"
-msgstr "5800:[name]梢[line]So, if Kozupii kills you, does that mean she won't be bad anymore?[%p]"
+msgstr "5800:[name]梢[line]「じゃあ、おじさんを殺せば、こずぴぃは悪くなくなるの？」[%p]"
 
 msgid "5900:[name]男[line]「その剣は、君を殺すものにも、守るものにもなる」[%p]"
-msgstr "5900:[name]男[line]That sword can kill you, and it can protect you.[%p]"
+msgstr "5900:[name]男[line]「その剣は、君を殺すものにも、守るものにもなる」[%p]"
 
 msgid "6000:[name]男[line]「思い出してごらん？」[%p]"
-msgstr "6000:[name]男[line]Try to remember.[%p]"
+msgstr "6000:[name]男[line]「思い出してごらん？」[%p]"
 
 msgid "6100:[name]男[line]「空を見れば雲が」[%p]"
-msgstr "6100:[name]男[line]When you look up the sky, you see the clouds.[%p]"
+msgstr "6100:[name]男[line]「空を見れば雲が」[%p]"
 
 msgid "6200:[name]男[line]「川を見れば流れが」[%p]"
-msgstr "6200:[name]男[line]When you look at the river, you see the flow of the water.[%p]"
+msgstr "6200:[name]男[line]「川を見れば流れが」[%p]"
 
 msgid "6300:[name]男[line]「そこにあったはず」[%p]"
-msgstr "6300:[name]男[line]They're always there.[%p]"
+msgstr "6300:[name]男[line]「そこにあったはず」[%p]"
 
 msgid "6400:[name]男[line]「それと同じこと」[%p]"
-msgstr "6400:[name]男[line]This is the same.[%p]"
+msgstr "6400:[name]男[line]「それと同じこと」[%p]"
 
 msgid "6500:[name]男[line]「その剣はいつも君のそばにあった」[%p]"
-msgstr "6500:[name]男[line]The sword was always with you.[%p]"
+msgstr "6500:[name]男[line]「その剣はいつも君のそばにあった」[%p]"
 
 msgid "6600:[name]男[line]「自分自身の心を見てごらん」[%p]"
-msgstr "6600:[name]男[line]Look into your heart.[%p]"
+msgstr "6600:[name]男[line]「自分自身の心を見てごらん」[%p]"
 
 msgid "6700:[name]男[line]「そこにあるのが、その剣なんだよ」[%p]"
-msgstr "6700:[name]男[line]The sword is what you'll find there.[%p]"
+msgstr "6700:[name]男[line]「そこにあるのが、その剣なんだよ」[%p]"
 
 msgid "6800:[name]梢[line]「でも、殺したいって願ったら、これが手許にあったんだよ」[%p]"
-msgstr "6800:[name]梢[line]But it came to me when I wished to kill.[%p]"
+msgstr "6800:[name]梢[line]「でも、殺したいって願ったら、これが手許にあったんだよ」[%p]"
 
 msgid "6900:[name]梢[line]「この剣は、こずぴぃと、こずぴぃの周囲にあるあらゆるものを殺すためのものじゃないの？」[%p]"
-msgstr "6900:[name]梢[line]Isn't this sword supposed to kill me, and all the people around me?[%p]"
+msgstr "6900:[name]梢[line]「この剣は、こずぴぃと、こずぴぃの周囲にあるあらゆるものを殺すためのものじゃないの？」[%p]"
 
 msgid "7000:[name]男[line]「負の感情は、否定されるものじゃない」[%p]"
-msgstr "7000:[name]男[line]It's wrong to deny your negative feelings.[%p]"
+msgstr "7000:[name]男[line]「負の感情は、否定されるものじゃない」[%p]"
 
 msgid "7100:[name]男[line]「人が誰しも持つものだからね」[%p]"
-msgstr "7100:[name]男[line]Every person has them.[%p]"
+msgstr "7100:[name]男[line]「人が誰しも持つものだからね」[%p]"
 
 msgid "7200:[name]男[line]「特別じゃないんだ」[%p]"
-msgstr "7200:[name]男[line]You're not special.[%p]"
+msgstr "7200:[name]男[line]「特別じゃないんだ」[%p]"
 
 msgid "7300:[name]男[line]「どう向き合うか、だよ」[%p]"
-msgstr "7300:[name]男[line]It's how you choose to face them.[%p]"
+msgstr "7300:[name]男[line]「どう向き合うか、だよ」[%p]"
 
 msgid "7400:[name]男[line]「目をそらしてはいけない」[%p]"
-msgstr "7400:[name]男[line]You can't look away.[%p]"
+msgstr "7400:[name]男[line]「目をそらしてはいけない」[%p]"
 
 msgid "7500:[name]男[line]「自分を、否定してはいけない」[%p]"
-msgstr "7500:[name]男[line]You can't deny who you are.[%p]"
+msgstr "7500:[name]男[line]「自分を、否定してはいけない」[%p]"
 
 msgid "7600:[name]男[line]「世界は、鏡像」[%p]"
-msgstr "7600:[name]男[line]The world is a reflection in a mirror.[%p]"
+msgstr "7600:[name]男[line]「世界は、鏡像」[%p]"
 
 msgid "7700:[name]男[line]「君の心の中にある正は」[%p]"
-msgstr "7700:[name]男[line]What's positive in your heart,[%p]"
+msgstr "7700:[name]男[line]「君の心の中にある正は」[%p]"
 
 msgid "7800:[name]男[line]「同時に負となり得るし」[%p]"
-msgstr "7800:[name]男[line]may also be negative.[%p]"
+msgstr "7800:[name]男[line]「同時に負となり得るし」[%p]"
 
 msgid "7900:[name]男[line]「その逆もまた、可能」[%p]"
-msgstr "7900:[name]男[line]And the opposite is true, too.[%p]"
+msgstr "7900:[name]男[line]「その逆もまた、可能」[%p]"
 
 msgid "8000:[name]男[line]「世界が終わるのか、生き続けるのか、それを選べるのは……」[%p]"
-msgstr "8000:[name]男[line]Whether the world ends, or continues to live on...[%p]"
+msgstr "8000:[name]男[line]「世界が終わるのか、生き続けるのか、それを選べるのは……」[%p]"
 
 msgid "8100:[name]男[line]「君たちだけなんだ」[%p]"
-msgstr "8100:[name]男[line]It's up to you children to decide.[%p]"
+msgstr "8100:[name]男[line]「君たちだけなんだ」[%p]"
 
 msgid "8200:結局、梢は男を殺さなかった。衝動は、話しているうちにいつの間にか霧散していた。[%p]"
-msgstr "8200:In the end, she hadn't killed the man. The desire to do so receded as they spoke.[%p]"
+msgstr "8200:結局、梢は男を殺さなかった。衝動は、話しているうちにいつの間にか霧散していた。[%p]"
 
 msgid "8300:男の言葉の意味はよく分からなかった。[linebreak]それでも、必死に考えて、やがて梢はひとつの結論に至った。[%p]"
-msgstr "8300:She didn't understand what the man was trying to say. But she thought and thought, as hard as she could, and finally reached a conclusion.[%p]"
+msgstr "8300:男の言葉の意味はよく分からなかった。[linebreak]それでも、必死に考えて、やがて梢はひとつの結論に至った。[%p]"
 
 msgid "8400:この剣は、自分。[linebreak]否定せずに見れば。[linebreak]自分を助けてくれた。[%p]"
-msgstr "8400:The sword was her. She'd looked at it without denying it, and it had saved her.[%p]"
+msgstr "8400:この剣は、自分。[linebreak]否定せずに見れば。[linebreak]自分を助けてくれた。[%p]"
 
 msgid "8500:だから梢は、純粋な気持ちで、[linebreak]この剣に、依存する。[%p]"
-msgstr "8500:That's why she'd come to depend on it, in her own pure-hearted way.[%p]"
+msgstr "8500:だから梢は、純粋な気持ちで、[linebreak]この剣に、依存する。[%p]"
 

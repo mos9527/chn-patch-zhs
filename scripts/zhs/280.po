@@ -10,173 +10,173 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:こずぴぃに遅れてＲｏｆｔを出ると、もう彼女の姿はどこにも見当たらなかった。別に一緒に帰ろうって言ったわけじゃないけど、僕としては今やこずぴぃだけが頼りなわけで。[%p]"
-msgstr "0:I left the Roft right after Kozupii, but I couldn't see her anywhere. I didn't plan on walking home with her or anything, but right now, she was all I had to rely on.[%p]"
+msgstr "0:こずぴぃに遅れてＲｏｆｔを出ると、もう彼女の姿はどこにも見当たらなかった。別に一緒に帰ろうって言ったわけじゃないけど、僕としては今やこずぴぃだけが頼りなわけで。[%p]"
 
 msgid "100:見失ったとなると、焦るし、不安になってしまう。[linebreak]ましてやこの渋谷のど真ん中で１人でいるのは、すごくイヤだ。[linebreak]道を歩いている人波を見るだけで、じわりと汗がにじんできた。[%p]"
-msgstr "100:When I lost sight of her, I started to get nervous. Especially since now, I was alone in the middle of Shibuya. Just looking at the crowds of people on the street made me sweat.[%p]"
+msgstr "100:見失ったとなると、焦るし、不安になってしまう。[linebreak]ましてやこの渋谷のど真ん中で１人でいるのは、すごくイヤだ。[linebreak]道を歩いている人波を見るだけで、じわりと汗がにじんできた。[%p]"
 
 msgid "200:こずぴぃを探すのはあきらめて、早くベースに帰ろう……。[%p]"
-msgstr "200:I decided to give up on looking for Kozupii and head back to the Base.[%p]"
+msgstr "200:こずぴぃを探すのはあきらめて、早くベースに帰ろう……。[%p]"
 
 msgid "300:――音が、聞こえた。[%p]"
-msgstr "300:—I heard a sound.[%p]"
+msgstr "300:――音が、聞こえた。[%p]"
 
 msgid "400:やけに仰々しいシャッター音。[%p]"
-msgstr "400:It was the loud, and very noticeable, sound of a camera shutter.[%p]"
+msgstr "400:やけに仰々しいシャッター音。[%p]"
 
 msgid "500:音のした方へ視線を巡らせてみる。[linebreak]でもカメラを持っている人なんていない。[%p]"
-msgstr "500:I looked over in the direction it had come from, but nobody there had a camera.[%p]"
+msgstr "500:音のした方へ視線を巡らせてみる。[linebreak]でもカメラを持っている人なんていない。[%p]"
 
 msgid "600:そこで気付く。[%p]"
-msgstr "600:Suddenly, I realized...[%p]"
+msgstr "600:そこで気付く。[%p]"
 
 msgid "700:今の音は、カメラじゃなくて、ケータイのカメラ機能だ。[linebreak]だからあんなにもはっきりした音が聞こえたんだ。[%p]"
-msgstr "700:That sound wasn't coming from a real camera. It was the camera function on a cell phone. That's why it was so loud and clear.[%p]"
+msgstr "700:今の音は、カメラじゃなくて、ケータイのカメラ機能だ。[linebreak]だからあんなにもはっきりした音が聞こえたんだ。[%p]"
 
 msgid "800:だけどケータイを僕の方に向けている人の姿も、どこにも確認できない。[%p]"
-msgstr "800:But I couldn't see anybody pointing a cell phone at me, either.[%p]"
+msgstr "800:だけどケータイを僕の方に向けている人の姿も、どこにも確認できない。[%p]"
 
 msgid "900:……敏感になりすぎてるだけだろうか。[%p]"
-msgstr "900:Was I just being over-sensitive?[%p]"
+msgstr "900:……敏感になりすぎてるだけだろうか。[%p]"
 
 msgid "1000:いや、そうは思わない。[linebreak]例のエスパー騒動で僕は日本中に醜態をさらしたんだ。[linebreak]面白がって僕を撮ってくるヤツがいてもおかしくない。[%p]"
-msgstr "1000:No, probably not. I'd humiliated myself in front of the entire country at the O-FRONT building. It wouldn't be surprising at all if somebody decided to take a photo of me.[%p]"
+msgstr "1000:いや、そうは思わない。[linebreak]例のエスパー騒動で僕は日本中に醜態をさらしたんだ。[linebreak]面白がって僕を撮ってくるヤツがいてもおかしくない。[%p]"
 
 msgid "1100:道を歩く、たくさんの人たち。[linebreak]今は誰も、僕を見ていないけど。[%p]"
-msgstr "1100:There were so many people out on the street. None of them were looking at me, but...[%p]"
+msgstr "1100:道を歩く、たくさんの人たち。[linebreak]今は誰も、僕を見ていないけど。[%p]"
 
 msgid "1200:[margin top="266"][center]――僕を見るな。[unk19 index="30"]"
-msgstr "1200:[margin top="266"][center]—Don't look at me.[unk19 index="30"]"
+msgstr "1200:[margin top="266"][center]――僕を見るな。[unk19 index="30"]"
 
 msgid "1300:唇を噛んで、僕は歩き出した。[linebreak]顔はうなだれて。なるべく誰にも気付かれないように。[%p]"
-msgstr "1300:I bit my lip and started to walk. I kept my head down, so that nobody would notice me.[%p]"
+msgstr "1300:唇を噛んで、僕は歩き出した。[linebreak]顔はうなだれて。なるべく誰にも気付かれないように。[%p]"
 
 msgid "1400:[name]拓巳[line]「……っ！」[%p]"
-msgstr "1400:[name]拓巳[line]...![%p]"
+msgstr "1400:[name]拓巳[line]「……っ！」[%p]"
 
 msgid "1500:まただ……！[%p]"
-msgstr "1500:Again![%p]"
+msgstr "1500:まただ……！[%p]"
 
 msgid "1600:また誰かが僕を撮った。[linebreak]今度ははっきりした視線も感じた。[%p]"
-msgstr "1600:Somebody had taken a photo of me again. I could feel them looking at me, too.[%p]"
+msgstr "1600:また誰かが僕を撮った。[linebreak]今度ははっきりした視線も感じた。[%p]"
 
 msgid "1700:いつもの“神の視線”じゃなくて、すぐ近くからの、悪意に満ちた視線。[%p]"
-msgstr "1700:It wasn't the Gaze of God, it was a gaze filled with malice. And it was close, too.[%p]"
+msgstr "1700:いつもの“神の視線”じゃなくて、すぐ近くからの、悪意に満ちた視線。[%p]"
 
 msgid "1800:周囲を見回した。[linebreak]でもやっぱり、僕を見ている人はいない。[%p]"
-msgstr "1800:I looked around. But nobody was looking at me.[%p]"
+msgstr "1800:周囲を見回した。[linebreak]でもやっぱり、僕を見ている人はいない。[%p]"
 
 msgid "1900:誰だよ……。[linebreak]こそこそ盗撮しやがって。[linebreak]肖像権の侵害で訴えるぞ。[%p]"
-msgstr "1900:Who was it? Stop taking pictures of me! I'll sue you for violating my personality rights![%p]"
+msgstr "1900:誰だよ……。[linebreak]こそこそ盗撮しやがって。[linebreak]肖像権の侵害で訴えるぞ。[%p]"
 
 msgid "2000:心の中でどれだけ悪態をついたって、誰にも届かない。[linebreak]その悪態を口に出す勇気はない。そんなことをすればますます注目を浴びてしまう。[%p]"
-msgstr "2000:But no matter what I said inside my head, nobody was going to hear me. And I certainly didn't have the courage to say it out loud. That'd only attract more attention.[%p]"
+msgstr "2000:心の中でどれだけ悪態をついたって、誰にも届かない。[linebreak]その悪態を口に出す勇気はない。そんなことをすればますます注目を浴びてしまう。[%p]"
 
 msgid "2100:再び歩き出した。今度は少し駆け足気味で、人波の間をすり抜けていく。[%p]"
-msgstr "2100:I started to walk again. This time I went at a faster pace, trying to slip through the crowd.[%p]"
+msgstr "2100:再び歩き出した。今度は少し駆け足気味で、人波の間をすり抜けていく。[%p]"
 
 msgid "2200:音が、増えた。[%p]"
-msgstr "2200:More sounds.[%p]"
+msgstr "2200:音が、増えた。[%p]"
 
 msgid "2300:シャッター音が、僕を追いかけてくる。[linebreak]クスクスという笑い声も聞こえる気がする。[%p]"
-msgstr "2300:The shutter sounds were following me. I could hear what sounded like somebody snickering, too.[%p]"
+msgstr "2300:シャッター音が、僕を追いかけてくる。[linebreak]クスクスという笑い声も聞こえる気がする。[%p]"
 
 msgid "2400:周囲を見る。[%p]"
-msgstr "2400:I looked around.[%p]"
+msgstr "2400:周囲を見る。[%p]"
 
 msgid "2500:ケータイを目の高さに掲げているヤツらが何人かいる。[linebreak]サラリーマンの中年男だったり、スーツを着た女だったり、男子高校生だったり、ＤＱＮっぽい女だったり、まちまちだけど。[%p]"
-msgstr "2500:Several people were holding up phones at eye-level. A middle-aged salaryman. A woman in a suit. A teenage boy. A DQN-looking girl. They all seemed to have nothing in common.[%p]"
+msgstr "2500:ケータイを目の高さに掲げているヤツらが何人かいる。[linebreak]サラリーマンの中年男だったり、スーツを着た女だったり、男子高校生だったり、ＤＱＮっぽい女だったり、まちまちだけど。[%p]"
 
 msgid "2600:そいつらが、僕の姿を追いかけるようにケータイを向けていた。[%p]"
-msgstr "2600:But they were all pointing their phones at me.[%p]"
+msgstr "2600:そいつらが、僕の姿を追いかけるようにケータイを向けていた。[%p]"
 
 msgid "2700:[margin top="266"][center]――僕を見るな。僕を撮るな。[unk19 index="30"]"
-msgstr "2700:[margin top="266"][center]—Don't look at me. Don't look at me.[unk19 index="30"]"
+msgstr "2700:[margin top="266"][center]――僕を見るな。僕を撮るな。[unk19 index="30"]"
 
 msgid "2800:耐えきれなくなって、走り出す。[%p]"
-msgstr "2800:I started to run. I couldn't take it anymore.[%p]"
+msgstr "2800:耐えきれなくなって、走り出す。[%p]"
 
 msgid "2900:どれだけ走っても。[linebreak]どれだけ逃げ回っても。[linebreak]どれだけ人の間を縫うように走り抜けても。[%p]"
-msgstr "2900:But no matter how much I ran... No matter how much I tried to flee... No matter how much I tried to slip through the gaps in the crowd and get out of there...[%p]"
+msgstr "2900:どれだけ走っても。[linebreak]どれだけ逃げ回っても。[linebreak]どれだけ人の間を縫うように走り抜けても。[%p]"
 
 msgid "3000:音は僕を逃してくれない。[linebreak]視線が、追いかけてくる。[%p]"
-msgstr "3000:The sounds wouldn't let me go. The gazes followed me.[%p]"
+msgstr "3000:音は僕を逃してくれない。[linebreak]視線が、追いかけてくる。[%p]"
 
 msgid "3100:いくつかの音を引き離したと思ったら、別の、でも同じ音が前や横から現れて。[%p]"
-msgstr "3100:I'd escape from some, only to have the same sounds come at me from the front or the side.[%p]"
+msgstr "3100:いくつかの音を引き離したと思ったら、別の、でも同じ音が前や横から現れて。[%p]"
 
 msgid "3200:まるで無限に敵が増殖しているかのような錯覚を覚える。[%p]"
-msgstr "3200:It was like facing an infinitely spawning enemy.[%p]"
+msgstr "3200:まるで無限に敵が増殖しているかのような錯覚を覚える。[%p]"
 
 msgid "3300:信号が赤だと立ち止まるしかない。[%p]"
-msgstr "3300:When the light was red, I had to stop.[%p]"
+msgstr "3300:信号が赤だと立ち止まるしかない。[%p]"
 
 msgid "3400:膝に手を突き息を整えている間にも、シャッター音はしつこく聞こえてくる。[%p]"
-msgstr "3400:I put my hands on my knees and tried to catch my breath. The shutter sounds were still following me.[%p]"
+msgstr "3400:膝に手を突き息を整えている間にも、シャッター音はしつこく聞こえてくる。[%p]"
 
 msgid "3500:視線は伏せ、拳をギュッと握りしめて、辱めに耐えるしかない。[%p]"
-msgstr "3500:I lowered my gaze and clenched my fists. There was nothing I could do but endure the humiliation.[%p]"
+msgstr "3500:視線は伏せ、拳をギュッと握りしめて、辱めに耐えるしかない。[%p]"
 
 msgid "3600:そこで、ふと疑問に思う。[%p]"
-msgstr "3600:And then I started to wonder.[%p]"
+msgstr "3600:そこで、ふと疑問に思う。[%p]"
 
 msgid "3700:ホントに、この音は、不特定多数の人々によるものなの？[linebreak]いくらなんでもみんな、撮りすぎじゃないか？[%p]"
-msgstr "3700:Was it really just random chance that so many people were taking my photo? Could that many people want pictures of me?[%p]"
+msgstr "3700:ホントに、この音は、不特定多数の人々によるものなの？[linebreak]いくらなんでもみんな、撮りすぎじゃないか？[%p]"
 
 msgid "3800:確かに僕は今や有名人だ。[linebreak]でもそれはネガティブな意味であって、写真に撮られる価値なんてない。[%p]"
-msgstr "3800:Sure, I was famous. But only in a negative sense. I wasn't the kind of person whose photo you'd want.[%p]"
+msgstr "3800:確かに僕は今や有名人だ。[linebreak]でもそれはネガティブな意味であって、写真に撮られる価値なんてない。[%p]"
 
 msgid "3900:っていうかほとんどの人は僕をキモいと思ってるはずだ。[linebreak]そんな僕を、今日に限ってみんなあからさまに撮ってくるなんて、おかしい。[%p]"
-msgstr "3900:Most people probably thought I was creepy. Why would they want to take so many photos of me? And in such an obvious way? And why only now?[%p]"
+msgstr "3900:っていうかほとんどの人は僕をキモいと思ってるはずだ。[linebreak]そんな僕を、今日に限ってみんなあからさまに撮ってくるなんて、おかしい。[%p]"
 
 msgid "4000:『将軍』か……？[linebreak]あいつが、また攻撃を仕掛けてきてるのか？[%p]"
-msgstr "4000:Was this Shogun's doing? Another one of his attacks?[%p]"
+msgstr "4000:『将軍』か……？[linebreak]あいつが、また攻撃を仕掛けてきてるのか？[%p]"
 
 msgid "4100:うぅ、もう勘弁してよ……。[linebreak]あいつ、なんなんだよ、僕がお前になにをしたって言うんだ……！[%p]"
-msgstr "4100:Please... just leave me alone. What was his problem? What did I ever do to him?[%p]"
+msgstr "4100:うぅ、もう勘弁してよ……。[linebreak]あいつ、なんなんだよ、僕がお前になにをしたって言うんだ……！[%p]"
 
 msgid "4200:[margin top="266"][center]――殺してやりたい。[unk19 index="30"]"
-msgstr "4200:[margin top="266"][center]—I wanted to kill him.[unk19 index="30"]"
+msgstr "4200:[margin top="266"][center]――殺してやりたい。[unk19 index="30"]"
 
 msgid "4300:こんな陰湿な方法で僕を追い詰めて、いつも監視して、そして最後に殺しに来るんだろ。僕をニュージェネの被害者にするつもりだろ。猟奇的に殺すつもりだろ。[%p]"
-msgstr "4300:He was doing this to break me down. He was constantly watching me, so that someday he could come kill me. He was going to make me out to be the NewGen killer. He was going to kill me in some horrible way.[%p]"
+msgstr "4300:こんな陰湿な方法で僕を追い詰めて、いつも監視して、そして最後に殺しに来るんだろ。僕をニュージェネの被害者にするつもりだろ。猟奇的に殺すつもりだろ。[%p]"
 
 msgid "4400:――だから、殺される前に殺してやりたい。[%p]"
-msgstr "4400:—I wanted to kill him first.[%p]"
+msgstr "4400:――だから、殺される前に殺してやりたい。[%p]"
 
 msgid "4500:僕は頭を抱えた。[linebreak]頭痛がする。[%p]"
-msgstr "4500:I put my hands to my head. I had a bad headache.[%p]"
+msgstr "4500:僕は頭を抱えた。[linebreak]頭痛がする。[%p]"
 
 msgid "4600:だけど“神の視線”はやっぱり感じない。[linebreak]ケータイで周囲からこれだけ撮られているのに、『将軍』のいつもの視線だけがない。[%p]"
-msgstr "4600:But I couldn't feel the Gaze of God. All these people were taking my photo, but Shogun's gaze wasn't here.[%p]"
+msgstr "4600:だけど“神の視線”はやっぱり感じない。[linebreak]ケータイで周囲からこれだけ撮られているのに、『将軍』のいつもの視線だけがない。[%p]"
 
 msgid "4700:[margin top="266"][center]――殺してやりたい。[unk19 index="50"]"
-msgstr "4700:[margin top="266"][center]—I wanted to kill him.[unk19 index="50"]"
+msgstr "4700:[margin top="266"][center]――殺してやりたい。[unk19 index="50"]"
 
 msgid "4800:……唐突に訪れる静けさ。[linebreak]あんなにパシャパシャ鳴っていたシャッター音が、示し合わせたように一斉に消えた。[%p]"
-msgstr "4800:Sudden silence. All the clicking shutters stopped, as if somebody had given them all an order.[%p]"
+msgstr "4800:……唐突に訪れる静けさ。[linebreak]あんなにパシャパシャ鳴っていたシャッター音が、示し合わせたように一斉に消えた。[%p]"
 
 msgid "4900:ハッとして顔を上げようとして――[%p]"
-msgstr "4900:I looked up,[%p]"
+msgstr "4900:ハッとして顔を上げようとして――[%p]"
 
 msgid "5000:今度こそ聞き覚えのある音が、すぐ背後から聞こえた。[linebreak]静寂の中で、決して大きくはないその軋んだ音が聞こえる。[%p]"
-msgstr "5000:and then heard a sound I recognized, this time from right behind me. It wasn't a loud sound. If it had been silent, I would've missed it.[%p]"
+msgstr "5000:今度こそ聞き覚えのある音が、すぐ背後から聞こえた。[linebreak]静寂の中で、決して大きくはないその軋んだ音が聞こえる。[%p]"
 
 msgid "5100:気配を感じる。[linebreak]車椅子に乗った誰かが、僕の真後ろにいる……！[%p]"
-msgstr "5100:I could sense him. Somebody in a wheelchair was right behind me![%p]"
+msgstr "5100:気配を感じる。[linebreak]車椅子に乗った誰かが、僕の真後ろにいる……！[%p]"
 
 msgid "5200:誰か、だって？[linebreak]僕は自分のおめでたい思考に笑ってしまった。[linebreak]誰なのかなんて、はっきりしてる。[%p]"
-msgstr "5200:Somebody? I laughed at myself. I knew exactly who it was.[%p]"
+msgstr "5200:誰か、だって？[linebreak]僕は自分のおめでたい思考に笑ってしまった。[linebreak]誰なのかなんて、はっきりしてる。[%p]"
 
 msgid "5300:あいつだ！\u3000『将軍』だ！[%p]"
-msgstr "5300:It was him! Shogun![%p]"
+msgstr "5300:あいつだ！\u3000『将軍』だ！[%p]"
 
 msgid "5400:[name]拓巳[line]「うわあああ！」[%p]"
-msgstr "5400:[name]拓巳[line]Uwah![%p]"
+msgstr "5400:[name]拓巳[line]「うわあああ！」[%p]"
 
 msgid "5500:赤信号を無視して横断歩道に飛び出した。[%p]"
-msgstr "5500:I ran across the street even though the light was still red.[%p]"
+msgstr "5500:赤信号を無視して横断歩道に飛び出した。[%p]"
 
 msgid "5600:クラクションを鳴らされたけど、轢かれる寸前で車は止まってくれて。[linebreak]僕は後ろを振り返ることができず、とにかく全力で走った――[%p]"
-msgstr "5600:A car honked loudly at me, but it stopped just before impact. I ran as fast as I could, not even looking behind me.[%p]"
+msgstr "5600:クラクションを鳴らされたけど、轢かれる寸前で車は止まってくれて。[linebreak]僕は後ろを振り返ることができず、とにかく全力で走った――[%p]"
 

@@ -10,230 +10,230 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:西條くんの言うことは、もっともだった。[%p]"
-msgstr "0:Everything Nishijo said made perfect sense.[%p]"
+msgstr "0:西條くんの言うことは、もっともだった。[%p]"
 
 msgid "100:不思議だけど。[linebreak]感じるのは、寂しさ。[linebreak]胸の奥が、切なくうずく。[%p]"
-msgstr "100:It was strange. But what I felt was loneliness, a sad ache in the bottom of my heart.[%p]"
+msgstr "100:不思議だけど。[linebreak]感じるのは、寂しさ。[linebreak]胸の奥が、切なくうずく。[%p]"
 
 msgid "200:結局、わたしは彼が『将軍』だということを最後までこの目で確かめられなかった。[linebreak]彼の言う通り、間違っていたのはわたしなのかも。[%p]"
-msgstr "200:In the end, I was never able to prove for myself that he was Shogun. Maybe he was right, and I was wrong.[%p]"
+msgstr "200:結局、わたしは彼が『将軍』だということを最後までこの目で確かめられなかった。[linebreak]彼の言う通り、間違っていたのはわたしなのかも。[%p]"
 
 msgid "300:どっちにしても、彼を恨むのはわたしの中でもう無意味。[%p]"
-msgstr "300:Either way, there was no point in hating him anymore.[%p]"
+msgstr "300:どっちにしても、彼を恨むのはわたしの中でもう無意味。[%p]"
 
 msgid "400:わたしがあのとき優愛ちゃんに、代わりにオフ会へ出るよう頼まなければ、優愛ちゃんは死ななかった。[%p]"
-msgstr "400:If I hadn't asked Yua to take my place at the meetup, she wouldn't have died.[%p]"
+msgstr "400:わたしがあのとき優愛ちゃんに、代わりにオフ会へ出るよう頼まなければ、優愛ちゃんは死ななかった。[%p]"
 
 msgid "500:優愛ちゃんは、死んじゃいけなかったんだ。[linebreak]友達も多くて、両親からも愛されていて、頭もよくて、美人で。[%p]"
-msgstr "500:She shouldn't have been the one to die. She was smart. Pretty. She had lots of friends, and her parents loved her.[%p]"
+msgstr "500:優愛ちゃんは、死んじゃいけなかったんだ。[linebreak]友達も多くて、両親からも愛されていて、頭もよくて、美人で。[%p]"
 
 msgid "600:でも、死んだ。[linebreak]楠優愛は、死んだ。[%p]"
-msgstr "600:But she'd died. Yua Kusunoki had died.[%p]"
+msgstr "600:でも、死んだ。[linebreak]楠優愛は、死んだ。[%p]"
 
 msgid "700:そして同時に、楠美愛は、消えた。幽霊みたいな存在になった。わたしが、そうなることを選んだ。[%p]"
-msgstr "700:And at the same time, Mia Kusunoki had disappeared. She'd become like a ghost. That was the choice I'd made.[%p]"
+msgstr "700:そして同時に、楠美愛は、消えた。幽霊みたいな存在になった。わたしが、そうなることを選んだ。[%p]"
 
 msgid "800:生きているのか、死んでいるのか、分からないわたし。[linebreak]もう、優愛ちゃんもいないから。[linebreak]死んだ方がマシ。[%p]"
-msgstr "800:I didn't know if I was alive or dead anymore. Yua was gone, too. I'd be better off dead.[%p]"
+msgstr "800:生きているのか、死んでいるのか、分からないわたし。[linebreak]もう、優愛ちゃんもいないから。[linebreak]死んだ方がマシ。[%p]"
 
 msgid "900:ヘリポートの縁に立つ。[%p]"
-msgstr "900:I stood on the edge of the heliport.[%p]"
+msgstr "900:ヘリポートの縁に立つ。[%p]"
 
 msgid "1000:そこは、優愛ちゃんたち５人が飛び降りた、その場所。[%p]"
-msgstr "1000:This was where Yua and the other four had leapt to their deaths.[%p]"
+msgstr "1000:そこは、優愛ちゃんたち５人が飛び降りた、その場所。[%p]"
 
 msgid "1100:下を見て、目がくらんだ。[linebreak]眼下の光はほとんど消えていて真っ暗だとは言え、それでもものすごい高さだと肌で感じる。[%p]"
-msgstr "1100:I looked down and suddenly felt dizzy. There was barely any light below me, but still, I could feel just how high up I was.[%p]"
+msgstr "1100:下を見て、目がくらんだ。[linebreak]眼下の光はほとんど消えていて真っ暗だとは言え、それでもものすごい高さだと肌で感じる。[%p]"
 
 msgid "1200:優愛ちゃんは、ここから飛んだとき、どんな気持ちだったんだろう。[linebreak]怖かったんだろうか。[%p]"
-msgstr "1200:How had Yua felt when she'd jumped from this height? Was she scared?[%p]"
+msgstr "1200:優愛ちゃんは、ここから飛んだとき、どんな気持ちだったんだろう。[linebreak]怖かったんだろうか。[%p]"
 
 msgid "1300:ごめんね、怖い思いさせて。[%p]"
-msgstr "1300:I'm sorry for making you scared.[%p]"
+msgstr "1300:ごめんね、怖い思いさせて。[%p]"
 
 msgid "1400:――わたしも、今から行くから。[%p]"
-msgstr "1400:I'm going to be with you now.[%p]"
+msgstr "1400:――わたしも、今から行くから。[%p]"
 
 msgid "1500:本来、わたしが味わうはずだった苦痛を、優愛ちゃんと同じ痛みを、この身に刻もう。[%p]"
-msgstr "1500:I'm going to suffer the same pain that you suffered. The pain I was supposed to suffer.[%p]"
+msgstr "1500:本来、わたしが味わうはずだった苦痛を、優愛ちゃんと同じ痛みを、この身に刻もう。[%p]"
 
 msgid "1600:大きく息を吸う。[linebreak]心は穏やか。[linebreak]死ぬことは怖くない。[%p]"
-msgstr "1600:I took a deep breath. My heart was at peace. I wasn't afraid to die.[%p]"
+msgstr "1600:大きく息を吸う。[linebreak]心は穏やか。[linebreak]死ぬことは怖くない。[%p]"
 
 msgid "1700:両手を、翼のように左右に広げて。[linebreak]目を閉じて。[%p]"
-msgstr "1700:I spread out my hands like wings. I closed my eyes.[%p]"
+msgstr "1700:両手を、翼のように左右に広げて。[linebreak]目を閉じて。[%p]"
 
 msgid "1800:わたしは、なにもない空間に、自分の足を踏み出した。[%p]"
-msgstr "1800:I stepped out into empty air.[%p]"
+msgstr "1800:わたしは、なにもない空間に、自分の足を踏み出した。[%p]"
 
 msgid "1900:自分を支えるものが消え失せて――[%p]"
-msgstr "1900:The ground beneath me vanished...[%p]"
+msgstr "1900:自分を支えるものが消え失せて――[%p]"
 
 msgid "2000:墜落する。[%p]"
-msgstr "2000:I fell.[%p]"
+msgstr "2000:墜落する。[%p]"
 
 msgid "2100:世界が逆さまになる。[%p]"
-msgstr "2100:The world turned upside-down.[%p]"
+msgstr "2100:世界が逆さまになる。[%p]"
 
 msgid "2200:わたしを縛るものはなにもなくなる。[%p]"
-msgstr "2200:There was nothing left to hold me back.[%p]"
+msgstr "2200:わたしを縛るものはなにもなくなる。[%p]"
 
 msgid "2300:落ちているのに、身体が浮き上がるような錯覚。[%p]"
-msgstr "2300:I was falling, but it felt like my body was rising.[%p]"
+msgstr "2300:落ちているのに、身体が浮き上がるような錯覚。[%p]"
 
 msgid "2400:轟々という風の音の中。[%p]"
-msgstr "2400:I could hear the roar of the wind.[%p]"
+msgstr "2400:轟々という風の音の中。[%p]"
 
 msgid "2500:地面が迫ってくる。[linebreak]２ヶ月前、優愛ちゃんが墜落し、全身の骨を砕き、内臓を破裂させ、血と脳漿を散乱させた、アスファルトが、迫ってくる。[%p]"
-msgstr "2500:The ground was getting closer. I could see the asphalt below me, where Yua had hit the ground. Where she'd landed. Where every bone in her body had shattered. Where her organs had exploded. Her blood and brain matter had scattered everywhere.[%p]"
+msgstr "2500:地面が迫ってくる。[linebreak]２ヶ月前、優愛ちゃんが墜落し、全身の骨を砕き、内臓を破裂させ、血と脳漿を散乱させた、アスファルトが、迫ってくる。[%p]"
 
 msgid "2600:――死にたくない！[%p]"
-msgstr "2600:—I don't want to die![%p]"
+msgstr "2600:――死にたくない！[%p]"
 
 msgid "2700:ついさっきまで、死は怖くなかったはずなのに。[linebreak]いざ自分の身体の自由が効かなくなった瞬間に、すさまじい恐怖が襲ってきた。[%p]"
-msgstr "2700:Just a few moments ago, I'd thought I wasn't scared of death at all. But now that I couldn't move, I felt terrified.[%p]"
+msgstr "2700:ついさっきまで、死は怖くなかったはずなのに。[linebreak]いざ自分の身体の自由が効かなくなった瞬間に、すさまじい恐怖が襲ってきた。[%p]"
 
 msgid "2800:――死にたくない！[%p]"
-msgstr "2800:—I don't want to die![%p]"
+msgstr "2800:――死にたくない！[%p]"
 
 msgid "2900:優愛ちゃんは死んだのに、自分は生きたいと願っている。[%p]"
-msgstr "2900:Yua had died, but I still wanted to live.[%p]"
+msgstr "2900:優愛ちゃんは死んだのに、自分は生きたいと願っている。[%p]"
 
 msgid "3000:ただ生存の本能に支配されて。[%p]"
-msgstr "3000:My survival instincts took over completely.[%p]"
+msgstr "3000:ただ生存の本能に支配されて。[%p]"
 
 msgid "3100:絶叫する。[%p]"
-msgstr "3100:I screamed.[%p]"
+msgstr "3100:絶叫する。[%p]"
 
 msgid "3200:心の底から悲鳴を上げる。[%p]"
-msgstr "3200:The scream came up from the bottom of my heart.[%p]"
+msgstr "3200:心の底から悲鳴を上げる。[%p]"
 
 msgid "3300:わたしは、遠ざかっていく夜空へと、必死で手を伸ばす。[linebreak]誰もその手をつかんでくれるはずがないって、分かっていながら。[%p]"
-msgstr "3300:I reached out frantically to the rapidly receding night sky. I knew that nobody was going to grab it.[%p]"
+msgstr "3300:わたしは、遠ざかっていく夜空へと、必死で手を伸ばす。[linebreak]誰もその手をつかんでくれるはずがないって、分かっていながら。[%p]"
 
 msgid "3400:それでも手を伸ばして。[%p]"
-msgstr "3400:But still, I reached out.[%p]"
+msgstr "3400:それでも手を伸ばして。[%p]"
 
 msgid "3500:願う。ひたすら叫ぶ。[%p]"
-msgstr "3500:I wished. I kept screaming.[%p]"
+msgstr "3500:願う。ひたすら叫ぶ。[%p]"
 
 msgid "3600:――死にたくないよ！[%p]"
-msgstr "3600:—I don't want to die![%p]"
+msgstr "3600:――死にたくないよ！[%p]"
 
 msgid "3700:けれど、願いは届かなくて。[linebreak]誰も、わたしの手を握ってなんかくれなくて。[%p]"
-msgstr "3700:But nobody heard my cry. Nobody was there to offer me a hand.[%p]"
+msgstr "3700:けれど、願いは届かなくて。[linebreak]誰も、わたしの手を握ってなんかくれなくて。[%p]"
 
 msgid "3800:地面が、落ちてきた――[%p]"
-msgstr "3800:The ground was right there.[%p]"
+msgstr "3800:地面が、落ちてきた――[%p]"
 
 msgid "3900:[name]優愛[line]「いやあああぁぁぁぁっ――！」[%p]"
-msgstr "3900:[name]優愛[line]NO![%p]"
+msgstr "3900:[name]優愛[line]「いやあああぁぁぁぁっ――！」[%p]"
 
 msgid "4000:[name]優愛[line]「あ……ああ……。え……？」[%p]"
-msgstr "4000:[name]優愛[line]Ah... Aah... Huh...?[%p]"
+msgstr "4000:[name]優愛[line]「あ……ああ……。え……？」[%p]"
 
 msgid "4100:全身が粉々に砕けたかのような感覚があって。[linebreak]でもその感覚はすぐに消え。[%p]"
-msgstr "4100:I could feel the sensation of every bone in my body shattering. But it quickly disappeared.[%p]"
+msgstr "4100:全身が粉々に砕けたかのような感覚があって。[linebreak]でもその感覚はすぐに消え。[%p]"
 
 msgid "4200:我に返ると、わたしはコーネリアスタワーの屋上にへたり込んでいた。[%p]"
-msgstr "4200:I found myself back on the roof of Cornelius Tower once more.[%p]"
+msgstr "4200:我に返ると、わたしはコーネリアスタワーの屋上にへたり込んでいた。[%p]"
 
 msgid "4300:目の前には、西條くん。[linebreak]わたしの方は見ないまま。[linebreak]手を、差し伸べていた。[%p]"
-msgstr "4300:Nishijo was right in front of me. He wasn't looking at me. But he was offering me a hand.[%p]"
+msgstr "4300:目の前には、西條くん。[linebreak]わたしの方は見ないまま。[linebreak]手を、差し伸べていた。[%p]"
 
 msgid "4400:[name]優愛[line]「な……んで……」[%p]"
-msgstr "4400:[name]優愛[line]How...?[%p]"
+msgstr "4400:[name]優愛[line]「な……んで……」[%p]"
 
 msgid "4500:わたしは、飛び降りたはずなのに。[linebreak]１８０メートル近く墜落して、地面に叩きつけられたはずなのに。[%p]"
-msgstr "4500:I jumped. I jumped, and fell 180 meters, smashing my body against the ground.[%p]"
+msgstr "4500:わたしは、飛び降りたはずなのに。[linebreak]１８０メートル近く墜落して、地面に叩きつけられたはずなのに。[%p]"
 
 msgid "4600:涙を拭うことも忘れて、わたしは呆然と西條くんの手を見つめる。[%p]"
-msgstr "4600:I stared at his hand, too stunned to even wipe away my tears.[%p]"
+msgstr "4600:涙を拭うことも忘れて、わたしは呆然と西條くんの手を見つめる。[%p]"
 
 msgid "4700:[name]拓巳[line]「気が……す、済んだ……？」[%p]"
-msgstr "4700:[name]拓巳[line]A-Are you satisfied?[%p]"
+msgstr "4700:[name]拓巳[line]「気が……す、済んだ……？」[%p]"
 
 msgid "4800:彼の声は、素っ気ない。[%p]"
-msgstr "4800:His voice was cold.[%p]"
+msgstr "4800:彼の声は、素っ気ない。[%p]"
 
 msgid "4900:[name]拓巳[line]「き、き、君に、死なれるのは、こ、困るんだ……」[%p]"
-msgstr "4900:[name]拓巳[line]I-I can't have you d-dying on me.[%p]"
+msgstr "4900:[name]拓巳[line]「き、き、君に、死なれるのは、こ、困るんだ……」[%p]"
 
 msgid "5000:[name]拓巳[line]「まるで僕が、つ、突き落とした、みたいじゃないか。ぼ、ぼ、僕は、殺人犯扱い、されたくないね……」[%p]"
-msgstr "5000:[name]拓巳[line]It w-would be like I p-pushed you, right? I-I don't want people to think I'm a m-murderer.[%p]"
+msgstr "5000:[name]拓巳[line]「まるで僕が、つ、突き落とした、みたいじゃないか。ぼ、ぼ、僕は、殺人犯扱い、されたくないね……」[%p]"
 
 msgid "5100:[name]優愛[line]「わたし……落ちたのに……。自分で、飛び降りたのに……」[%p]"
-msgstr "5100:[name]優愛[line]I fell... I jumped...[%p]"
+msgstr "5100:[name]優愛[line]「わたし……落ちたのに……。自分で、飛び降りたのに……」[%p]"
 
 msgid "5200:[name]拓巳[line]「も、妄想でも、見てたんじゃ、ない？」[%p]"
-msgstr "5200:[name]拓巳[line]M-Maybe it was just a delusion?[%p]"
+msgstr "5200:[name]拓巳[line]「も、妄想でも、見てたんじゃ、ない？」[%p]"
 
 msgid "5300:妄想……？[linebreak]あんなリアルな感覚や痛みが、妄想だったなんて、信じられない……。[%p]"
-msgstr "5300:A delusion? I couldn't believe a delusion could have pain and sensations that felt so real.[%p]"
+msgstr "5300:妄想……？[linebreak]あんなリアルな感覚や痛みが、妄想だったなんて、信じられない……。[%p]"
 
 msgid "5400:[name]優愛[line]「ねえ、西條くん……」[%p]"
-msgstr "5400:[name]優愛[line]Um, Nishijo...[%p]"
+msgstr "5400:[name]優愛[line]「ねえ、西條くん……」[%p]"
 
 msgid "5500:[name]優愛[line]「優愛ちゃんは……あんな、痛い思いをして、死んだんだね……」[%p]"
-msgstr "5500:[name]優愛[line]Yua suffered like that... when she died, right?[%p]"
+msgstr "5500:[name]優愛[line]「優愛ちゃんは……あんな、痛い思いをして、死んだんだね……」[%p]"
 
 msgid "5600:[name]優愛[line]「なのに、わたし……」[%p]"
-msgstr "5600:[name]優愛[line]But I...[%p]"
+msgstr "5600:[name]優愛[line]「なのに、わたし……」[%p]"
 
 msgid "5700:[name]優愛[line]「優愛ちゃんと、同じ痛みを味わおうとしたのに……わたしは……！」[%p]"
-msgstr "5700:[name]優愛[line]I tried to suffer the same pain she did, but I...[%p]"
+msgstr "5700:[name]優愛[line]「優愛ちゃんと、同じ痛みを味わおうとしたのに……わたしは……！」[%p]"
 
 msgid "5800:[name]優愛[line]「死にたくないって、思っちゃったの……！」[%p]"
-msgstr "5800:[name]優愛[line]I didn't want to die![%p]"
+msgstr "5800:[name]優愛[line]「死にたくないって、思っちゃったの……！」[%p]"
 
 msgid "5900:[name]優愛[line]「本来死ぬのは、わたしだったのに、死にたくないって……！」[%p]"
-msgstr "5900:[name]優愛[line]I was the one who was supposed to die. But I didn't want to![%p]"
+msgstr "5900:[name]優愛[line]「本来死ぬのは、わたしだったのに、死にたくないって……！」[%p]"
 
 msgid "6000:[name]優愛[line]「もう、飛べない……」[%p]"
-msgstr "6000:[name]優愛[line]I can't jump like that again.[%p]"
+msgstr "6000:[name]優愛[line]「もう、飛べない……」[%p]"
 
 msgid "6100:[name]優愛[line]「あの痛みを知ってしまったら、もう、怖くて、飛べない……」[%p]"
-msgstr "6100:[name]優愛[line]After knowing that pain... I'm too scared.[%p]"
+msgstr "6100:[name]優愛[line]「あの痛みを知ってしまったら、もう、怖くて、飛べない……」[%p]"
 
 msgid "6200:[name]優愛[line]「わたし、どうすればいいのか……」[%p]"
-msgstr "6200:[name]優愛[line]What do I do?[%p]"
+msgstr "6200:[name]優愛[line]「わたし、どうすればいいのか……」[%p]"
 
 msgid "6300:[name]拓巳[line]「い、今ので、き、君は、一度死んだ」[%p]"
-msgstr "6300:[name]拓巳[line]Y-You just died, right now, when you jumped.[%p]"
+msgstr "6300:[name]拓巳[line]「い、今ので、き、君は、一度死んだ」[%p]"
 
 msgid "6400:[name]優愛[line]「え……？」[%p]"
-msgstr "6400:[name]優愛[line]Huh?[%p]"
+msgstr "6400:[name]優愛[line]「え……？」[%p]"
 
 msgid "6500:[name]拓巳[line]「ゆ、優愛の、痛みを知ったなら、[linebreak]もう、そ、それでいいじゃないか……」[%p]"
-msgstr "6500:[name]拓巳[line]Y-You know the pain Yua went through. I-Isn't that enough?[%p]"
+msgstr "6500:[name]拓巳[line]「ゆ、優愛の、痛みを知ったなら、[linebreak]もう、そ、それでいいじゃないか……」[%p]"
 
 msgid "6600:[name]拓巳[line]「こ、これからは、も、もう一度、楠美愛として、い、一から、生きていけば、いいと思う……」[%p]"
-msgstr "6600:[name]拓巳[line]From n-now on, you can start over as Mia Kusunoki.[%p]"
+msgstr "6600:[name]拓巳[line]「こ、これからは、も、もう一度、楠美愛として、い、一から、生きていけば、いいと思う……」[%p]"
 
 msgid "6700:[name]拓巳[line]「優愛の、ぶ、分まで……」[%p]"
-msgstr "6700:[name]拓巳[line]For Y-Yua's sake, too.[%p]"
+msgstr "6700:[name]拓巳[line]「優愛の、ぶ、分まで……」[%p]"
 
 msgid "6800:[name]優愛[line]「あ、ああ……」[%p]"
-msgstr "6800:[name]優愛[line]A-Aah...[%p]"
+msgstr "6800:[name]優愛[line]「あ、ああ……」[%p]"
 
 msgid "6900:[name]優愛[line]「あ、りがとう……」[%p]"
-msgstr "6900:[name]優愛[line]T-Thank you.[%p]"
+msgstr "6900:[name]優愛[line]「あ、りがとう……」[%p]"
 
 msgid "7000:[name]優愛[line]「ありが、とう……」[%p]"
-msgstr "7000:[name]優愛[line]Thank you.[%p]"
+msgstr "7000:[name]優愛[line]「ありが、とう……」[%p]"
 
 msgid "7100:わたしは、伸ばした手で、彼の手を握った。[%p]"
-msgstr "7100:I reached out and took his hand.[%p]"
+msgstr "7100:わたしは、伸ばした手で、彼の手を握った。[%p]"
 
 msgid "7200:その手は、とても――[%p]"
-msgstr "7200:It was so very...[%p]"
+msgstr "7200:その手は、とても――[%p]"
 
 msgid "7300:とても、温かくて――[%p]"
-msgstr "7300:very warm.[%p]"
+msgstr "7300:とても、温かくて――[%p]"
 
 msgid "7400:彼の体温が、肌を通して、伝わってきて――[%p]"
-msgstr "7400:I could feel the warmth of his body through his skin.[%p]"
+msgstr "7400:彼の体温が、肌を通して、伝わってきて――[%p]"
 
 msgid "7500:わたしの手は、温もりとともに、震えが収まって――[%p]"
-msgstr "7500:The warmth made me stop shivering.[%p]"
+msgstr "7500:わたしの手は、温もりとともに、震えが収まって――[%p]"
 

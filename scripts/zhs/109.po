@@ -10,89 +10,89 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:学校へ向かう途中、松濤公園に寄った。[%p]"
-msgstr "0:I stopped at Shoto Park on my way to school.[%p]"
+msgstr "0:学校へ向かう途中、松濤公園に寄った。[%p]"
 
 msgid "100:優愛とのことがあってから、学校へ行く前にここで朝食を食べる習慣はやめていた。[%p]"
-msgstr "100:Ever since the incident with Yua, I'd quit my habit of eating breakfast here.[%p]"
+msgstr "100:優愛とのことがあってから、学校へ行く前にここで朝食を食べる習慣はやめていた。[%p]"
 
 msgid "200:どこからか優愛に“見られている”かもしれないと思うと、あまり気持ちいいものじゃなかったからだ。[%p]"
-msgstr "200:The idea that Yua could be out there somewhere watching me made it impossible to enjoy my meal.[%p]"
+msgstr "200:どこからか優愛に“見られている”かもしれないと思うと、あまり気持ちいいものじゃなかったからだ。[%p]"
 
 msgid "300:ましてや、向こうから話しかけられたりなんかしたら、またムカつく妄想デンパ話を垂れ流される。[%p]"
-msgstr "300:And even worse, if she came to talk to me, I'd have to listen to a bunch more delusional nonsense.[%p]"
+msgstr "300:ましてや、向こうから話しかけられたりなんかしたら、またムカつく妄想デンパ話を垂れ流される。[%p]"
 
 msgid "400:あんな女に付き合っていられない。[%p]"
-msgstr "400:I didn't have time to deal with her.[%p]"
+msgstr "400:あんな女に付き合っていられない。[%p]"
 
 msgid "500:“優愛は梨深の手下”[%p]"
-msgstr "500:“Yua works for Rimi.”[%p]"
+msgstr "500:“優愛は梨深の手下”[%p]"
 
 msgid "600:元々僕が考えていたその推測はハズレだったかもしれない。[%p]"
-msgstr "600:That was my original idea, but it may have been wrong.[%p]"
+msgstr "600:元々僕が考えていたその推測はハズレだったかもしれない。[%p]"
 
 msgid "700:でも、だからって優愛が“敵”じゃないっていうことにはならない。[linebreak]もしかしたら『将軍』が大ボスで、優愛はその手下っていう可能性もある。[%p]"
-msgstr "700:That didn't mean that Yua wasn't an enemy, though. Maybe Shogun was the big boss, and Yua was working for him.[%p]"
+msgstr "700:でも、だからって優愛が“敵”じゃないっていうことにはならない。[linebreak]もしかしたら『将軍』が大ボスで、優愛はその手下っていう可能性もある。[%p]"
 
 msgid "800:とにかくあの女には近づかない方がいいんだ。[%p]"
-msgstr "800:Whatever the case, it'd be best if I stayed away from her.[%p]"
+msgstr "800:とにかくあの女には近づかない方がいいんだ。[%p]"
 
 msgid "900:ただ、今日はなんとなくここに来てしまった。[%p]"
-msgstr "900:But today... I'd come here for some reason, anyway.[%p]"
+msgstr "900:ただ、今日はなんとなくここに来てしまった。[%p]"
 
 msgid "1000:周囲を慎重に見回して優愛の姿がないのを確認してから、[linebreak]"
-msgstr "1000:I looked around carefully to make sure Yua was nowhere to be seen.[linebreak]"
+msgstr "1000:周囲を慎重に見回して優愛の姿がないのを確認してから、[linebreak]"
 
 msgid "1100:ゆっくりといつものベンチに腰を下ろす。[%p]"
-msgstr "1100:Then I slowly sat down on my bench.[%p]"
+msgstr "1100:ゆっくりといつものベンチに腰を下ろす。[%p]"
 
 msgid "1200:周囲を慎重に見回して優愛の姿がないのを確認してから、ゆっくりといつものベンチに腰を下ろす。"
-msgstr "1200:I looked around carefully to make sure Yua was nowhere to be seen. Then I slowly sat down on my bench."
+msgstr "1200:周囲を慎重に見回して優愛の姿がないのを確認してから、ゆっくりといつものベンチに腰を下ろす。"
 
 msgid "1300:さっきコンビニで買ってきたチョコパンを頬張りつつ、池へと目をやる。[%p]"
-msgstr "1300:I took a bite out of the chocolate pastry I'd bought at the convenience store and looked out at the lake.[%p]"
+msgstr "1300:さっきコンビニで買ってきたチョコパンを頬張りつつ、池へと目をやる。[%p]"
 
 msgid "1400:風はほとんどなく、水面は穏やかに凪いでいた。[linebreak]たまに鯉らしき魚の影が、濁った水の中を滑るように動いているのが見える。[%p]"
-msgstr "1400:There was barely any wind, and the water's surface was still and calm. Once in a while, I could see what might be a carp moving through the cloudy water.[%p]"
+msgstr "1400:風はほとんどなく、水面は穏やかに凪いでいた。[linebreak]たまに鯉らしき魚の影が、濁った水の中を滑るように動いているのが見える。[%p]"
 
 msgid "1500:今日は珍しく公園内に人影もなかった。[linebreak]とても静かな空間。[%p]"
-msgstr "1500:There was nobody in the park today, which was rare. It was a very quiet space.[%p]"
+msgstr "1500:今日は珍しく公園内に人影もなかった。[linebreak]とても静かな空間。[%p]"
 
 msgid "1600:そんな公園内へと視線を泳がせながらも、僕が考えるのはやっぱり梨深のことだった。[%p]"
-msgstr "1600:As I looked around the park, I found myself thinking about Rimi again.[%p]"
+msgstr "1600:そんな公園内へと視線を泳がせながらも、僕が考えるのはやっぱり梨深のことだった。[%p]"
 
 msgid "1700:正直なところ、彼女と顔を合わせなくちゃいけないっていうことで、今日学校に行くのが億劫だった。[linebreak]それでこうして公園で時間稼ぎをしているんだ。[%p]"
-msgstr "1700:To be honest, I'd almost decided not to go to school today just to avoid facing her again. That's why I'd come here to the park to buy some time.[%p]"
+msgstr "1700:正直なところ、彼女と顔を合わせなくちゃいけないっていうことで、今日学校に行くのが億劫だった。[linebreak]それでこうして公園で時間稼ぎをしているんだ。[%p]"
 
 msgid "1800:僕は彼女に、いろいろとひどいことを言ってしまったような気がする。[%p]"
-msgstr "1800:It felt like I'd said all kinds of awful things to her.[%p]"
+msgstr "1800:僕は彼女に、いろいろとひどいことを言ってしまったような気がする。[%p]"
 
 msgid "1900:それなのに梨深は絶えず笑顔を浮かべて、僕に親しそうに接してきてくれた。[%p]"
-msgstr "1900:But she'd always smiled and been kind to me.[%p]"
+msgstr "1900:それなのに梨深は絶えず笑顔を浮かべて、僕に親しそうに接してきてくれた。[%p]"
 
 msgid "2000:そしてきっと、今日これから学校に行ったら、またいつもみたいに話しかけてくるだろう。[%p]"
-msgstr "2000:And I was sure if I went to school again, she'd come up to talk to me like she always had.[%p]"
+msgstr "2000:そしてきっと、今日これから学校に行ったら、またいつもみたいに話しかけてくるだろう。[%p]"
 
 msgid "2100:あの１０７前での一件なんてまったくなにも気にしていない素振りで、笑顔を浮かべて、僕に友達として声をかけてくれるだろう。[%p]"
-msgstr "2100:She'd pretend that what we'd experienced in front of the 107 had never happened. She'd smile and treat me like a friend.[%p]"
+msgstr "2100:あの１０７前での一件なんてまったくなにも気にしていない素振りで、笑顔を浮かべて、僕に友達として声をかけてくれるだろう。[%p]"
 
 msgid "2200:なんだかいつも楽しそうなその態度には、ちょっとだけ鬱陶しさも感じるけど、でも一緒にいるとこっちまで明るい気分になってきそうな、そんな雰囲気があった。[%p]"
-msgstr "2200:Part of her constantly-cheerful nature did seem a little obnoxious, but it also felt like if I stayed with her, I might start to feel cheerful, too.[%p]"
+msgstr "2200:なんだかいつも楽しそうなその態度には、ちょっとだけ鬱陶しさも感じるけど、でも一緒にいるとこっちまで明るい気分になってきそうな、そんな雰囲気があった。[%p]"
 
 msgid "2300:僕は、どんな顔をして会えばいいんだ……。[%p]"
-msgstr "2300:What should I say when I meet her?[%p]"
+msgstr "2300:僕は、どんな顔をして会えばいいんだ……。[%p]"
 
 msgid "2400:確かにもう梨深のことを悪魔だとは思ってない。[%p]"
-msgstr "2400:I didn't think of her as a demon anymore.[%p]"
+msgstr "2400:確かにもう梨深のことを悪魔だとは思ってない。[%p]"
 
 msgid "2500:だけど友達とも思えないっていうのが正直なところだ。[%p]"
-msgstr "2500:But it was also true that I didn't think of her as a friend.[%p]"
+msgstr "2500:だけど友達とも思えないっていうのが正直なところだ。[%p]"
 
 msgid "2600:僕と梨深はこの１年半、同じクラスメイトとして仲がよかったって三住くんが言ってたけど……そんな記憶は僕にはまったくない。[%p]"
-msgstr "2600:Misumi had said that she and I had been friends and classmates for over a year and a half, but I had no memories of that at all.[%p]"
+msgstr "2600:僕と梨深はこの１年半、同じクラスメイトとして仲がよかったって三住くんが言ってたけど……そんな記憶は僕にはまったくない。[%p]"
 
 msgid "2700:やっぱり僕の中の人がどうにかなっちゃったせいなのかなあ。[%p]"
-msgstr "2700:Maybe something had broken within me after all.[%p]"
+msgstr "2700:やっぱり僕の中の人がどうにかなっちゃったせいなのかなあ。[%p]"
 
 msgid "2800:でも梨深の記憶だけがピンポイントで消えちゃうなんて、[linebreak]あり得るんだろうか……。[%p]"
-msgstr "2800:But could my memories of Rimi disappear while everything else remained intact? Was that possible?[%p]"
+msgstr "2800:でも梨深の記憶だけがピンポイントで消えちゃうなんて、[linebreak]あり得るんだろうか……。[%p]"
 

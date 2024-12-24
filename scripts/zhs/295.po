@@ -10,164 +10,164 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:[name]キャスターＡ[line]「２８日未明、渋谷区松濤の路上で、男性の変死体が発見されました」[%p]"
-msgstr "0:[name]キャスターＡ[line]A man's body was found early in the morning on the 28th on a road in the Shoto area of Shibuya Ward.[%p]"
+msgstr "0:[name]キャスターＡ[line]「２８日未明、渋谷区松濤の路上で、男性の変死体が発見されました」[%p]"
 
 msgid "100:[name]キャスターＡ[line]「被害者は練馬区に住む橋屋泰行さん、３１歳で、死因は異物をのどに詰まらせたことによる窒息死と見られています」[%p]"
-msgstr "100:[name]キャスターＡ[line]The body belonged to thirty-one-year-old Yasuyuki Hashiya, who appeared to have died of suffocation.[%p]"
+msgstr "100:[name]キャスターＡ[line]「被害者は練馬区に住む橋屋泰行さん、３１歳で、死因は異物をのどに詰まらせたことによる窒息死と見られています」[%p]"
 
 msgid "200:[name]キャスターＡ[line]「被害者の口には、ハサミで細かく切り刻まれた大量の布が詰め込まれており、また、胃の中からも同様の布が多数、見つかりました」[%p]"
-msgstr "200:[name]キャスターＡ[line]The victim's mouth was stuffed with pieces of cloth cut apart by scissors, and similar pieces were found in his stomach.[%p]"
+msgstr "200:[name]キャスターＡ[line]「被害者の口には、ハサミで細かく切り刻まれた大量の布が詰め込まれており、また、胃の中からも同様の布が多数、見つかりました」[%p]"
 
 msgid "300:[name]キャスターＡ[line]「警察の発表によりますと、布は渋谷区にある私立翠明学園の女子冬用制服である可能性が高いとのことです」[%p]"
-msgstr "300:[name]キャスターＡ[line]The police have stated that the cloth likely belongs to a girl's winter uniform from Suimei Academy, a private academy in the Shibuya ward.[%p]"
+msgstr "300:[name]キャスターＡ[line]「警察の発表によりますと、布は渋谷区にある私立翠明学園の女子冬用制服である可能性が高いとのことです」[%p]"
 
 msgid "400:[name]キャスターＡ[line]「翠明学園は現場から徒歩で３分ほどの距離にあり、警察では事件との関連を調べています」[%p]"
-msgstr "400:[name]キャスターＡ[line]Suimei Academy is just a three-minute walk from where the body is found, and the police are investigating a potential connection.[%p]"
+msgstr "400:[name]キャスターＡ[line]「翠明学園は現場から徒歩で３分ほどの距離にあり、警察では事件との関連を調べています」[%p]"
 
 msgid "500:[name]拓巳[line]「う、う……」[%p]"
-msgstr "500:[name]拓巳[line]Urgh...[%p]"
+msgstr "500:[name]拓巳[line]「う、う……」[%p]"
 
 msgid "600:また、新しい事件だ……。[linebreak]しかも、ハサミで切り刻まれた翠明の女子冬用制服が、口に詰め込まれたことによる窒息死だって……？[%p]"
-msgstr "600:Another new murder. And they'd died from having chopped-up pieces of a Suimei girls' uniform stuffed in their mouth?[%p]"
+msgstr "600:また、新しい事件だ……。[linebreak]しかも、ハサミで切り刻まれた翠明の女子冬用制服が、口に詰め込まれたことによる窒息死だって……？[%p]"
 
 msgid "700:まさかその制服って、七海の……？[linebreak]そうだ、こんな偶然、あるわけがない。タイミングがよすぎる。[%p]"
-msgstr "700:Could that uniform be Nanami's? Yeah. No way it was a coincidence. The timing was too good.[%p]"
+msgstr "700:まさかその制服って、七海の……？[linebreak]そうだ、こんな偶然、あるわけがない。タイミングがよすぎる。[%p]"
 
 msgid "800:やっぱり、『将軍』だ！\u3000あいつはこれが目的で、きっと七海を誘拐して、制服だけ剥ぎ取っていったんだ！[%p]"
-msgstr "800:It had to be Shogun! He must've kidnapped her as part of the murder, and then taken her uniform![%p]"
+msgstr "800:やっぱり、『将軍』だ！\u3000あいつはこれが目的で、きっと七海を誘拐して、制服だけ剥ぎ取っていったんだ！[%p]"
 
 msgid "900:絶対に、あいつは僕を挑発してる！[linebreak]次は、今度こそ、僕だ……。僕が、殺されるんだ……。[%p]"
-msgstr "900:Shogun was taunting me! I would be next. It was finally my turn to be killed.[%p]"
+msgstr "900:絶対に、あいつは僕を挑発してる！[linebreak]次は、今度こそ、僕だ……。僕が、殺されるんだ……。[%p]"
 
 msgid "1000:[name]七海[line]「おにぃ？\u3000どしたの？」[%p]"
-msgstr "1000:[name]七海[line]Brother... What's wrong?[%p]"
+msgstr "1000:[name]七海[line]「おにぃ？\u3000どしたの？」[%p]"
 
 msgid "1100:背後から七海が声をかけてきて、僕はたまらずイスから転げ落ちそうになった。[%p]"
-msgstr "1100:I almost fell out of my chair when I heard Nanami's voice behind me.[%p]"
+msgstr "1100:背後から七海が声をかけてきて、僕はたまらずイスから転げ落ちそうになった。[%p]"
 
 msgid "1200:[name]七海[line]「顔色、悪いみたいだけど……」[%p]"
-msgstr "1200:[name]七海[line]You don't look so good.[%p]"
+msgstr "1200:[name]七海[line]「顔色、悪いみたいだけど……」[%p]"
 
 msgid "1300:[name]拓巳[line]「あ、な、七海……」[%p]"
-msgstr "1300:[name]拓巳[line]Oh, N-Nanami...[%p]"
+msgstr "1300:[name]拓巳[line]「あ、な、七海……」[%p]"
 
 msgid "1400:七海に、手を伸ばす。[%p]"
-msgstr "1400:I reached out a hand towards Nanami.[%p]"
+msgstr "1400:七海に、手を伸ばす。[%p]"
 
 msgid "1500:[name]拓巳[line]「ぼ、僕は、殺される……」[%p]"
-msgstr "1500:[name]拓巳[line]H-He's going to kill me.[%p]"
+msgstr "1500:[name]拓巳[line]「ぼ、僕は、殺される……」[%p]"
 
 msgid "1600:[name]七海[line]「殺されるって……そ、そんな冗談やめてよー」[%p]"
-msgstr "1600:[name]七海[line]Kill you? W-What are you talking about?[%p]"
+msgstr "1600:[name]七海[line]「殺されるって……そ、そんな冗談やめてよー」[%p]"
 
 msgid "1700:[name]拓巳[line]「ホ、ホントなんだっ！\u3000間違いないあいつは次こそ僕を狙ってくる七海ごめん僕のせいであいつはお前のこと誘拐して……あああ、僕は、ど、どうすれば……、うう、怖い……怖いよ……」[%p]"
-msgstr "1700:[name]拓巳[line]I-It's true! He's coming after me next! Nanami, I'm sorry, he kidnapped you because of me... Oh, what do I do? I'm scared... I'm so scared![%p]"
+msgstr "1700:[name]拓巳[line]「ホ、ホントなんだっ！\u3000間違いないあいつは次こそ僕を狙ってくる七海ごめん僕のせいであいつはお前のこと誘拐して……あああ、僕は、ど、どうすれば……、うう、怖い……怖いよ……」[%p]"
 
 msgid "1800:妹の前で情けないとは思うけど、もう心の余裕なんてなかった。[%p]"
-msgstr "1800:I didn't want to look like a wimp in front of my little sister, but I didn't have the strength to keep it together any longer.[%p]"
+msgstr "1800:妹の前で情けないとは思うけど、もう心の余裕なんてなかった。[%p]"
 
 msgid "1900:誰かにすがりたい。守ってほしい。[linebreak]梨深はここ最近、まったく連絡はない。[linebreak]あやせは病院で入院中。[%p]"
-msgstr "1900:I wanted to turn to someone for help. I wanted someone to protect me. Rimi hadn't contacted me at all lately. Ayase was in the hospital.[%p]"
+msgstr "1900:誰かにすがりたい。守ってほしい。[linebreak]梨深はここ最近、まったく連絡はない。[linebreak]あやせは病院で入院中。[%p]"
 
 msgid "2000:他に僕を守ってくれそうな人なんて誰もいない……。[%p]"
-msgstr "2000:There wasn't anybody else I could count on to protect me.[%p]"
+msgstr "2000:他に僕を守ってくれそうな人なんて誰もいない……。[%p]"
 
 msgid "2100:と、伸ばした僕の手を、七海がそっと握ってきた。[%p]"
-msgstr "2100:Nanami gently grabbed my outstretched hand.[%p]"
+msgstr "2100:と、伸ばした僕の手を、七海がそっと握ってきた。[%p]"
 
 msgid "2200:[name]七海[line]「もう、ホント、おにぃはダメダメだなぁ。１人じゃなんにもできないんだから」[%p]"
-msgstr "2200:[name]七海[line]Aw, you're such a loser, Brother. You can't do anything on your own.[%p]"
+msgstr "2200:[name]七海[line]「もう、ホント、おにぃはダメダメだなぁ。１人じゃなんにもできないんだから」[%p]"
 
 msgid "2300:[name]七海[line]「きっとゲームのやり過ぎで疲れてるんだよ。今日はパソコンはやらずに、ソファで横になってた方がいいよ」[%p]"
-msgstr "2300:[name]七海[line]You're probably just tired from playing too many video games. You should skip the computer today and lie down on the sofa.[%p]"
+msgstr "2300:[name]七海[line]「きっとゲームのやり過ぎで疲れてるんだよ。今日はパソコンはやらずに、ソファで横になってた方がいいよ」[%p]"
 
 msgid "2400:[name]拓巳[line]「僕を……１人にしないで……」[%p]"
-msgstr "2400:[name]拓巳[line]Don't leave me...[%p]"
+msgstr "2400:[name]拓巳[line]「僕を……１人にしないで……」[%p]"
 
 msgid "2500:[name]七海[line]「分かった、分かったから」[%p]"
-msgstr "2500:[name]七海[line]Fine, fine.[%p]"
+msgstr "2500:[name]七海[line]「分かった、分かったから」[%p]"
 
 msgid "2600:[name]七海[line]「おにぃを１人になんかしないよ」[%p]"
-msgstr "2600:[name]七海[line]I won't leave you by yourself.[%p]"
+msgstr "2600:[name]七海[line]「おにぃを１人になんかしないよ」[%p]"
 
 msgid "2700:[name]拓巳[line]「ホ、ホント……？」[%p]"
-msgstr "2700:[name]拓巳[line]R-Really？[%p]"
+msgstr "2700:[name]拓巳[line]「ホ、ホント……？」[%p]"
 
 msgid "2800:[name]七海[line]「ホント。昨日はナナがおにぃに優しくしてもらったから、そのお礼」[%p]"
-msgstr "2800:[name]七海[line]Really. You were nice to me last night. So, this is my way of saying thank you.[%p]"
+msgstr "2800:[name]七海[line]「ホント。昨日はナナがおにぃに優しくしてもらったから、そのお礼」[%p]"
 
 msgid "2900:[name]拓巳[line]「七海……うう……」[%p]"
-msgstr "2900:[name]拓巳[line]Nanami... Wah...[%p]"
+msgstr "2900:[name]拓巳[line]「七海……うう……」[%p]"
 
 msgid "3000:やっぱり、持つべきものは家族だ。[linebreak]赤の他人なんか、いざというときにはちっとも役に立たない。[linebreak]心の底から僕の支えになってくれるのは、家族だけなんだ……。[%p]"
-msgstr "3000:Family was so important to have. I couldn't rely on strangers when it really counted. My family were the only people I could really, truly rely on.[%p]"
+msgstr "3000:やっぱり、持つべきものは家族だ。[linebreak]赤の他人なんか、いざというときにはちっとも役に立たない。[linebreak]心の底から僕の支えになってくれるのは、家族だけなんだ……。[%p]"
 
 msgid "3100:七海から救いの手を差し伸べられたことにホッとして、たまらず涙が溢れそうになった。[%p]"
-msgstr "3100:I felt so relieved that she'd offered me her hand that I almost cried.[%p]"
+msgstr "3100:七海から救いの手を差し伸べられたことにホッとして、たまらず涙が溢れそうになった。[%p]"
 
 msgid "3200:七海の手にすがりつく。[%p]"
-msgstr "3200:I clung tightly to her hand.[%p]"
+msgstr "3200:七海の手にすがりつく。[%p]"
 
 msgid "3300:[name]七海[line]「甘えん坊だね、おにぃって。これじゃ、ナナがお姉さんで、おにぃが弟みたいだよ」[%p]"
-msgstr "3300:[name]七海[line]Brother, you're such a spoiled brat. It's like I'm the big sister, and you're the little brother.[%p]"
+msgstr "3300:[name]七海[line]「甘えん坊だね、おにぃって。これじゃ、ナナがお姉さんで、おにぃが弟みたいだよ」[%p]"
 
 msgid "3400:[name]拓巳[line]「う、うるさいな……」[%p]"
-msgstr "3400:[name]拓巳[line]S-Shut up.[%p]"
+msgstr "3400:[name]拓巳[line]「う、うるさいな……」[%p]"
 
 msgid "3500:[name]七海[line]「はいはい、よしよし」[%p]"
-msgstr "3500:[name]七海[line]Right, right. There, there.[%p]"
+msgstr "3500:[name]七海[line]「はいはい、よしよし」[%p]"
 
 msgid "3600:七海が、冗談めかして僕の頭を撫でてくれる。[%p]"
-msgstr "3600:She patted my head jokingly.[%p]"
+msgstr "3600:七海が、冗談めかして僕の頭を撫でてくれる。[%p]"
 
 msgid "3700:七海にとっては単なる冗談かもしれないけど、今の僕にとっては、その感触がとても心地よかった。[%p]"
-msgstr "3700:To her, it might be just a joke, but right now, having somebody touch me made me feel so much better.[%p]"
+msgstr "3700:七海にとっては単なる冗談かもしれないけど、今の僕にとっては、その感触がとても心地よかった。[%p]"
 
 msgid "3800:[name]拓巳[line]「な、七海、あの……頼みが、ある……」[%p]"
-msgstr "3800:[name]拓巳[line]N-Nanami... I need you to do something for me.[%p]"
+msgstr "3800:[name]拓巳[line]「な、七海、あの……頼みが、ある……」[%p]"
 
 msgid "3900:[name]七海[line]「なに？」[%p]"
-msgstr "3900:[name]七海[line]What?[%p]"
+msgstr "3900:[name]七海[line]「なに？」[%p]"
 
 msgid "4000:[name]拓巳[line]「その……」[%p]"
-msgstr "4000:[name]拓巳[line]Um...[%p]"
+msgstr "4000:[name]拓巳[line]「その……」[%p]"
 
 msgid "4100:普段、七海とはケンカばっかりなだけに、こんなことを頼むのはかなり恥ずかしいんだけど……なりふり構っていられないよな……。[%p]"
-msgstr "4100:Since all we usually did was fight, it was embarrassing to ask this... but I couldn't afford to be embarrassed right now.[%p]"
+msgstr "4100:普段、七海とはケンカばっかりなだけに、こんなことを頼むのはかなり恥ずかしいんだけど……なりふり構っていられないよな……。[%p]"
 
 msgid "4200:[name]拓巳[line]「き、今日も、と、と、と……」[%p]"
-msgstr "4200:[name]拓巳[line]C-Can you... s-s-s-s...[%p]"
+msgstr "4200:[name]拓巳[line]「き、今日も、と、と、と……」[%p]"
 
 msgid "4300:[name]拓巳[line]「…………」[%p]"
-msgstr "4300:[name]拓巳[line]...[%p]"
+msgstr "4300:[name]拓巳[line]「…………」[%p]"
 
 msgid "4400:[name]七海[line]「なんでそこで黙っちゃうかなぁ。ちゃんと言ってくれなきゃ、分かんないってば」[%p]"
-msgstr "4400:[name]七海[line]Why can't you finish your sentence? If you don't tell me, I won't know what it is you want.[%p]"
+msgstr "4400:[name]七海[line]「なんでそこで黙っちゃうかなぁ。ちゃんと言ってくれなきゃ、分かんないってば」[%p]"
 
 msgid "4500:[name]拓巳[line]「……き、今日も、と、泊まっていって、くれ……」[%p]"
-msgstr "4500:[name]拓巳[line]S-Stay here tonight, too.[%p]"
+msgstr "4500:[name]拓巳[line]「……き、今日も、と、泊まっていって、くれ……」[%p]"
 
 msgid "4600:そうすれば、少しは安心できる……。１人でこの部屋で『将軍』の影に怯えているなんて、耐えられない。[%p]"
-msgstr "4600:I'd feel better if she did. I couldn't handle the thought of spending the night alone, terrified Shogun would come for me.[%p]"
+msgstr "4600:そうすれば、少しは安心できる……。１人でこの部屋で『将軍』の影に怯えているなんて、耐えられない。[%p]"
 
 msgid "4700:でも、七海は嫌がりそうだな……。下手をすると、ヘンタイ呼ばわりされるかも……。[linebreak]七海のリアクションを予想して、僕はおずおずと七海を見た。[%p]"
-msgstr "4700:Nanami probably wouldn't like it, though. She might call me a pervert if I wasn't lucky. I looked up at her, scared of what she might say.[%p]"
+msgstr "4700:でも、七海は嫌がりそうだな……。下手をすると、ヘンタイ呼ばわりされるかも……。[linebreak]七海のリアクションを予想して、僕はおずおずと七海を見た。[%p]"
 
 msgid "4800:[name]七海[line]「なぁんだ、そんなことかー。別に何泊したっていいよ」[%p]"
-msgstr "4800:[name]七海[line]Oh, is that all? Sure, I can stay as many nights as you want.[%p]"
+msgstr "4800:[name]七海[line]「なぁんだ、そんなことかー。別に何泊したっていいよ」[%p]"
 
 msgid "4900:[name]拓巳[line]「ホント……！？」[%p]"
-msgstr "4900:[name]拓巳[line]Really?![%p]"
+msgstr "4900:[name]拓巳[line]「ホント……！？」[%p]"
 
 msgid "5000:[name]七海[line]「い、一応、ナナだっておにぃの心配はしてるんだからねっ。さすがに、今のおにぃを放っておけないよ」[%p]"
-msgstr "5000:[name]七海[line]I-I'm worried about you, too, you know! I can't leave you here alone.[%p]"
+msgstr "5000:[name]七海[line]「い、一応、ナナだっておにぃの心配はしてるんだからねっ。さすがに、今のおにぃを放っておけないよ」[%p]"
 
 msgid "5100:[name]拓巳[line]「あ、ありがとう……助かる……」[%p]"
-msgstr "5100:[name]拓巳[line]T-Thank you. That helps so much.[%p]"
+msgstr "5100:[name]拓巳[line]「あ、ありがとう……助かる……」[%p]"
 
 msgid "5200:よかった……。[linebreak]やっぱり家族が一番だ。いや、実妹が、一番だ……。[linebreak]七海が実妹で、ホントによかった……。[%p]"
-msgstr "5200:Whew... Family really was what mattered most. No, having a real little sister was what mattered most. And I was so glad to have a little sister named Nanami.[%p]"
+msgstr "5200:よかった……。[linebreak]やっぱり家族が一番だ。いや、実妹が、一番だ……。[linebreak]七海が実妹で、ホントによかった……。[%p]"
 
 msgid "5300:これで後は、生意気なところさえ直してくれれば、理想の妹なんだけどな。[%p]"
-msgstr "5300:Now, all she had to do was stop being such a brat, and she'd be the perfect sibling.[%p]"
+msgstr "5300:これで後は、生意気なところさえ直してくれれば、理想の妹なんだけどな。[%p]"
 

@@ -10,152 +10,152 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:咲畑梨深は、薄暗い部屋の真ん中で、うなだれ、立ち尽くしていた。[%p]"
-msgstr "0:Rimi Sakihata was standing alone in a dark room, head slumped.[%p]"
+msgstr "0:咲畑梨深は、薄暗い部屋の真ん中で、うなだれ、立ち尽くしていた。[%p]"
 
 msgid "100:部屋の主である西條拓巳――タクは、今はここにはいない。"
-msgstr "100:The room's owner, Takumi Nishijo, was nowhere to be seen."
+msgstr "100:部屋の主である西條拓巳――タクは、今はここにはいない。"
 
 msgid "200:[linebreak]扉の鍵はかかっていなくて、簡単に侵入できた。[%p]"
-msgstr "200:[linebreak]The door hadn't been locked, so she'd been able to walk right in.[%p]"
+msgstr "200:[linebreak]扉の鍵はかかっていなくて、簡単に侵入できた。[%p]"
 
 msgid "300:部屋の主である西條拓巳――タクは、今はここにはいない。扉の鍵はかかっていなくて、簡単に侵入できた。"
-msgstr "300:The room's owner, Takumi Nishijo, was nowhere to be seen. The door hadn't been locked, so she'd been able to walk right in."
+msgstr "300:部屋の主である西條拓巳――タクは、今はここにはいない。扉の鍵はかかっていなくて、簡単に侵入できた。"
 
 msgid "400:梨深はケータイで時間を確かめる。午後１０時少し前。[%p]"
-msgstr "400:Rimi looked at the time on her phone. It was a little before 10:00 PM.[%p]"
+msgstr "400:梨深はケータイで時間を確かめる。午後１０時少し前。[%p]"
 
 msgid "500:――まだタクは、スクランブル交差点にいるのかな。[%p]"
-msgstr "500:She wondered if Taku was still at Scramble Crossing.[%p]"
+msgstr "500:――まだタクは、スクランブル交差点にいるのかな。[%p]"
 
 msgid "600:できれば助けに行きたかった。実際に助けに行こうとした。[%p]"
-msgstr "600:She'd wanted to go to help him. She'd tried, in fact.[%p]"
+msgstr "600:できれば助けに行きたかった。実際に助けに行こうとした。[%p]"
 
 msgid "700:だがスクランブル交差点に近づこうとすればするほど、人の数は多くなっていって、ついにはほとんど身動きが取れないような状況になった。[%p]"
-msgstr "700:But the crush of people in Scramble Crossing was so intense that she'd barely been able to move.[%p]"
+msgstr "700:だがスクランブル交差点に近づこうとすればするほど、人の数は多くなっていって、ついにはほとんど身動きが取れないような状況になった。[%p]"
 
 msgid "800:結局、Ｏ－ＦＲＯＮＴにたどり着く前に“エスパー少年のショー”は終わってしまい、それと時を同じくして、タクミからの声が聞こえてきたのだ。[%p]"
-msgstr "800:The “Boy Psychic Show” ended before she could get to O-FRONT, and just as it had ended, she'd heard Takumi's voice.[%p]"
+msgstr "800:結局、Ｏ－ＦＲＯＮＴにたどり着く前に“エスパー少年のショー”は終わってしまい、それと時を同じくして、タクミからの声が聞こえてきたのだ。[%p]"
 
 msgid "900:七海の手首を取り戻してきてほしい、という懇願。[%p]"
-msgstr "900:He wanted her to get Nanami's hand back.[%p]"
+msgstr "900:七海の手首を取り戻してきてほしい、という懇願。[%p]"
 
 msgid "1000:タクミが梨深になにかを頼んでくるなんて、珍しいことだった。[linebreak]七海は今、ＮＯＺＯＭＩに連れ去られて酷い目に遭わされている。タクミは思考盗撮の末に、その事実を突き止めていた。[%p]"
-msgstr "1000:It was rare for Takumi to ask Rimi for something. Nanami had been kidnapped by NOZOMI, and right now, they were doing horrible things to her. Takumi's mind-reading had shown him that much.[%p]"
+msgstr "1000:タクミが梨深になにかを頼んでくるなんて、珍しいことだった。[linebreak]七海は今、ＮＯＺＯＭＩに連れ去られて酷い目に遭わされている。タクミは思考盗撮の末に、その事実を突き止めていた。[%p]"
 
 msgid "1100:梨深も七海とは過去に面識があったから、それを知ったときには胸が張り裂けそうな想いだった。[%p]"
-msgstr "1100:Rimi had known Nanami in the past, and hearing this made her heart feel like it would burst.[%p]"
+msgstr "1100:梨深も七海とは過去に面識があったから、それを知ったときには胸が張り裂けそうな想いだった。[%p]"
 
 msgid "1200:ソファの上に置かれた段ボール。その中に収められている、手首と、七海のケータイと、かわいらしいバングル。[linebreak]それを見て、梨深は言葉を失ってしまった。[%p]"
-msgstr "1200:There was a cardboard box on the sofa. Inside was a human hand, Nanami's phone, and a cute little bangle. When she saw it, Rimi fell speechless.[%p]"
+msgstr "1200:ソファの上に置かれた段ボール。その中に収められている、手首と、七海のケータイと、かわいらしいバングル。[linebreak]それを見て、梨深は言葉を失ってしまった。[%p]"
 
 msgid "1300:悔しくて、悲しくて、七海が心配で。[%p]"
-msgstr "1300:She was sad, frustrated, and worried about Nanami.[%p]"
+msgstr "1300:悔しくて、悲しくて、七海が心配で。[%p]"
 
 msgid "1400:そして同時に、かつて自分が味わった苦しみの記憶が、頭の中でフラッシュバックしてきて。[%p]"
-msgstr "1400:And at the same time, the memories of what she'd suffered in the past came flashing back to her.[%p]"
+msgstr "1400:そして同時に、かつて自分が味わった苦しみの記憶が、頭の中でフラッシュバックしてきて。[%p]"
 
 msgid "1500:梨深はきつく唇を噛み、その手首をしばらくの間、見つめ続けた。[%p]"
-msgstr "1500:She bit her lip and spent a while staring at the severed hand.[%p]"
+msgstr "1500:梨深はきつく唇を噛み、その手首をしばらくの間、見つめ続けた。[%p]"
 
 msgid "1600:一度深く深呼吸して、なんとか落ち着きを取り戻すと、段ボールのふたをそっと閉める。ガムテープでしっかりと封をしてから、脇に抱えて部屋を出た。[%p]"
-msgstr "1600:She took a single deep breath to calm herself down, and then closed the box's lid. After resealing it tightly with masking tape, she put it under her arm and left the room.[%p]"
+msgstr "1600:一度深く深呼吸して、なんとか落ち着きを取り戻すと、段ボールのふたをそっと閉める。ガムテープでしっかりと封をしてから、脇に抱えて部屋を出た。[%p]"
 
 msgid "1700:ケータイを取り出し、ワンセグでテレビに繋ぐ。[linebreak]ついさっきまで、スクランブル交差点からの生中継をやっていた。それを確認したかった。[%p]"
-msgstr "1700:She took out her phone and used its built-in TV tuner. A moment ago, they'd been doing a live broadcast from Scramble Crossing. She'd wanted to see it.[%p]"
+msgstr "1700:ケータイを取り出し、ワンセグでテレビに繋ぐ。[linebreak]ついさっきまで、スクランブル交差点からの生中継をやっていた。それを確認したかった。[%p]"
 
 msgid "1800:けれど、該当するチャンネルに合わせても、延々とＣＭが流れ続けるだけ。[%p]"
-msgstr "1800:But all the channels were showing nothing but commercials.[%p]"
+msgstr "1800:けれど、該当するチャンネルに合わせても、延々とＣＭが流れ続けるだけ。[%p]"
 
 msgid "1900:どうやら生中継は終わってしまったらしい。[%p]"
-msgstr "1900:The live broadcast must have ended.[%p]"
+msgstr "1900:どうやら生中継は終わってしまったらしい。[%p]"
 
 msgid "2000:ということは、タクはもうあのスクランブル交差点にはいないだろう。[linebreak]やむなく梨深はタクミのいる、いつもの病室へ戻るしかなかった。[%p]"
-msgstr "2000:Taku probably wasn't at Scramble Crossing anymore, then. With nothing else to do, Rimi headed back to the room where Takumi waited.[%p]"
+msgstr "2000:ということは、タクはもうあのスクランブル交差点にはいないだろう。[linebreak]やむなく梨深はタクミのいる、いつもの病室へ戻るしかなかった。[%p]"
 
 msgid "2100:明かりが消されて、暗いままの病室。[linebreak]タクミはいつものように、ベッドではなく車イスに腰掛けていた。[%p]"
-msgstr "2100:The lights were off, and the room was dark. Like always, Takumi was in his wheelchair, not his bed.[%p]"
+msgstr "2100:明かりが消されて、暗いままの病室。[linebreak]タクミはいつものように、ベッドではなく車イスに腰掛けていた。[%p]"
 
 msgid "2200:[name]タクミ[line]「七海の腕は……？」[%p]"
-msgstr "2200:[name]タクミ[line]Do you have Nanami's hand?[%p]"
+msgstr "2200:[name]タクミ[line]「七海の腕は……？」[%p]"
 
 msgid "2300:[name]梨深[line]「うん。持ってきた」[%p]"
-msgstr "2300:[name]梨深[line]Yeah. I brought it.[%p]"
+msgstr "2300:[name]梨深[line]「うん。持ってきた」[%p]"
 
 msgid "2400:梨深はそれが入った段ボールを、タクミに差し出す。[%p]"
-msgstr "2400:She handed him the box.[%p]"
+msgstr "2400:梨深はそれが入った段ボールを、タクミに差し出す。[%p]"
 
 msgid "2500:[name]タクミ[line]「ありがとう」[%p]"
-msgstr "2500:[name]タクミ[line]Thank you.[%p]"
+msgstr "2500:[name]タクミ[line]「ありがとう」[%p]"
 
 msgid "2600:[name]梨深[line]「治せるかな？\u3000治せるよね？」[%p]"
-msgstr "2600:[name]梨深[line]Can they reattach it? They can, right?[%p]"
+msgstr "2600:[name]梨深[line]「治せるかな？\u3000治せるよね？」[%p]"
 
 msgid "2700:[name]タクミ[line]「分からない……。でもこの病院なら、冷凍保存しておける設備がある」[%p]"
-msgstr "2700:[name]タクミ[line]I don't know, but this hospital has a cold storage system.[%p]"
+msgstr "2700:[name]タクミ[line]「分からない……。でもこの病院なら、冷凍保存しておける設備がある」[%p]"
 
 msgid "2800:ただ放置しておくよりは、冷凍保存する方がずっとマシだろう。[linebreak]それでも治る保証なんてまったくない。[linebreak]“彼”が暗にそう言っているように思えて――[%p]"
-msgstr "2800:It would be a lot better to keep it cold, rather than just leave it to rot, but there was no guarantee they could ever reattach it. She felt like that's what he was trying to tell her.[%p]"
+msgstr "2800:ただ放置しておくよりは、冷凍保存する方がずっとマシだろう。[linebreak]それでも治る保証なんてまったくない。[linebreak]“彼”が暗にそう言っているように思えて――[%p]"
 
 msgid "2900:[name]梨深[line]「大丈夫。きっと、治るよ」[%p]"
-msgstr "2900:[name]梨深[line]Don't worry. They'll be able to fix it.[%p]"
+msgstr "2900:[name]梨深[line]「大丈夫。きっと、治るよ」[%p]"
 
 msgid "3000:梨深はあえて、前向きなことを口にした。[%p]"
-msgstr "3000:Rimi decided to be optimistic.[%p]"
+msgstr "3000:梨深はあえて、前向きなことを口にした。[%p]"
 
 msgid "3100:[name]梨深[line]「きっと治るって、信じる」[%p]"
-msgstr "3100:[name]梨深[line]She'll be okay. I believe it.[%p]"
+msgstr "3100:[name]梨深[line]「きっと治るって、信じる」[%p]"
 
 msgid "3200:[name]梨深[line]「もっとも、その前に、七海ちゃんを助け出さなきゃいけないけど」[%p]"
-msgstr "3200:[name]梨深[line]Of course, we have to get her back, first.[%p]"
+msgstr "3200:[name]梨深[line]「もっとも、その前に、七海ちゃんを助け出さなきゃいけないけど」[%p]"
 
 msgid "3300:[name]タクミ[line]「……七海は殺されることはないと思う。焦って動くことはないよ」[%p]"
-msgstr "3300:[name]タクミ[line]I don't think she'll be killed. We don't need to rush.[%p]"
+msgstr "3300:[name]タクミ[line]「……七海は殺されることはないと思う。焦って動くことはないよ」[%p]"
 
 msgid "3400:[name]梨深[line]「冷静なんだね」[%p]"
-msgstr "3400:[name]梨深[line]You're pretty calm right now.[%p]"
+msgstr "3400:[name]梨深[line]「冷静なんだね」[%p]"
 
 msgid "3500:[name]タクミ[line]「…………」[%p]"
-msgstr "3500:[name]タクミ[line]...[%p]"
+msgstr "3500:[name]タクミ[line]「…………」[%p]"
 
 msgid "3600:[name]梨深[line]「……ごめん。今言った言葉は、忘れて」[%p]"
-msgstr "3600:[name]梨深[line]Sorry. Just forget I said that.[%p]"
+msgstr "3600:[name]梨深[line]「……ごめん。今言った言葉は、忘れて」[%p]"
 
 msgid "3700:[name]梨深[line]「それより、タクは今どこにいるか、分かる？」[%p]"
-msgstr "3700:[name]梨深[line]Anyway, do you know where Taku is?[%p]"
+msgstr "3700:[name]梨深[line]「それより、タクは今どこにいるか、分かる？」[%p]"
 
 msgid "3800:[name]タクミ[line]「この病院に搬送されてきたよ。精神科の病室で眠ってる」[%p]"
-msgstr "3800:[name]タクミ[line]He was brought to this hospital. He's asleep in the psych ward.[%p]"
+msgstr "3800:[name]タクミ[line]「この病院に搬送されてきたよ。精神科の病室で眠ってる」[%p]"
 
 msgid "3900:[name]梨深[line]「そうなの！？」[%p]"
-msgstr "3900:[name]梨深[line]Really?[%p]"
+msgstr "3900:[name]梨深[line]「そうなの！？」[%p]"
 
 msgid "4000:梨深は目を丸くすると、すぐさま病室を飛び出していた。[%p]"
-msgstr "4000:Rimi's eyes went wide, and she ran out of the room.[%p]"
+msgstr "4000:梨深は目を丸くすると、すぐさま病室を飛び出していた。[%p]"
 
 msgid "4100:すでに面会時間が過ぎて照明が落とされた廊下を、足音を忍ばせて歩く。[%p]"
-msgstr "4100:The hospital was closed to visitors, and the lights were turned down. She walked softly down the hallways as she went.[%p]"
+msgstr "4100:すでに面会時間が過ぎて照明が落とされた廊下を、足音を忍ばせて歩く。[%p]"
 
 msgid "4200:この病院のスタッフに、ＮＯＺＯＭＩや天成神光会の関係者がいることは、すでに知っていた。だから目立つ行動はできない。[%p]"
-msgstr "4200:She already knew that people from NOZOMI and the Cosmic Church of the Divine Light had infiltrated the hospital's staff. She couldn't do anything that would attract attention.[%p]"
+msgstr "4200:この病院のスタッフに、ＮＯＺＯＭＩや天成神光会の関係者がいることは、すでに知っていた。だから目立つ行動はできない。[%p]"
 
 msgid "4300:タクミから教えてもらった病室にたどり着くと、周囲に誰もいないことを確かめてから、梨深はゆっくりとドアを開いた。[%p]"
-msgstr "4300:When she got to the room Takumi had told her about, she made sure there was nobody inside before slowly opening the door.[%p]"
+msgstr "4300:タクミから教えてもらった病室にたどり着くと、周囲に誰もいないことを確かめてから、梨深はゆっくりとドアを開いた。[%p]"
 
 msgid "4400:そこは内装が白で統一された、温かみがこれっぽっちもない部屋だった。[%p]"
-msgstr "4400:The room's furnishings and walls were a solid white, without a trace of warmth to them.[%p]"
+msgstr "4400:そこは内装が白で統一された、温かみがこれっぽっちもない部屋だった。[%p]"
 
 msgid "4500:梨深は音もなく、中央のベッドに歩み寄った。[%p]"
-msgstr "4500:Rimi soundlessly walked over to the bed.[%p]"
+msgstr "4500:梨深は音もなく、中央のベッドに歩み寄った。[%p]"
 
 msgid "4600:そこで、タクが眠っていた。苦しげに眉根を寄せ、たまにうめき声を漏らしている。額は汗でびっしょりだ。[%p]"
-msgstr "4600:Taku was sleeping there. His brow was furrowed as if he was in pain, and occasionally he would moan. His forehead was damp with sweat.[%p]"
+msgstr "4600:そこで、タクが眠っていた。苦しげに眉根を寄せ、たまにうめき声を漏らしている。額は汗でびっしょりだ。[%p]"
 
 msgid "4700:梨深はそんなタクの頬を、そっと撫でて――[%p]"
-msgstr "4700:Rimi softly stroked his cheek.[%p]"
+msgstr "4700:梨深はそんなタクの頬を、そっと撫でて――[%p]"
 
 msgid "4800:[name]梨深[line]「ごめんね、あなたを、守ってあげられなくて」[%p]"
-msgstr "4800:[name]梨深[line]I'm sorry I couldn't protect you.[%p]"
+msgstr "4800:[name]梨深[line]「ごめんね、あなたを、守ってあげられなくて」[%p]"
 
 msgid "4900:いたたまれない気持ちで、そうつぶやいていた。[%p]"
-msgstr "4900:She whispered sadly.[%p]"
+msgstr "4900:いたたまれない気持ちで、そうつぶやいていた。[%p]"
 

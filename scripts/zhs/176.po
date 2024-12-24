@@ -10,68 +10,68 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:幻聴はあれきり聞こえなくなったけど、それ以上教室にいることに耐えきれなくて、午後の授業が終わるまでほぼ半日、トイレの個室に籠もっていた。[%p]"
-msgstr "0:The strange voice had stopped, but I couldn't take being in the classroom anymore. I stayed in the bathroom for hours until afternoon classes were over.[%p]"
+msgstr "0:幻聴はあれきり聞こえなくなったけど、それ以上教室にいることに耐えきれなくて、午後の授業が終わるまでほぼ半日、トイレの個室に籠もっていた。[%p]"
 
 msgid "100:すぐにベースに帰らなかったのは、まだ未練たらしく、梨深と会えないかなって期待してたから。[%p]"
-msgstr "100:The only reason I didn't go straight home was that I was still hopeful I might see Rimi.[%p]"
+msgstr "100:すぐにベースに帰らなかったのは、まだ未練たらしく、梨深と会えないかなって期待してたから。[%p]"
 
 msgid "200:だから放課後になってみんなが帰った後、僕はこっそりと無人の教室に戻った。[%p]"
-msgstr "200:So, after school ended and everyone had gone home, I went back into the empty classroom.[%p]"
+msgstr "200:だから放課後になってみんなが帰った後、僕はこっそりと無人の教室に戻った。[%p]"
 
 msgid "300:そこに梨深がひとりで待っていて、僕を見て微笑んで、[%p]"
-msgstr "300:Rimi was waiting there. She turned to me and smiled.[%p]"
+msgstr "300:そこに梨深がひとりで待っていて、僕を見て微笑んで、[%p]"
 
 msgid "400:[name]梨深[line]「ビシィッ！\u3000どこ行ってたの？\u3000待ってたんだよ」[%p]"
-msgstr "400:[name]梨深[line]Snap! Where have you been? I've been waiting for you.[%p]"
+msgstr "400:[name]梨深[line]「ビシィッ！\u3000どこ行ってたの？\u3000待ってたんだよ」[%p]"
 
 msgid "500:[name]梨深[line]「一緒に帰ろっか、タク」[%p]"
-msgstr "500:[name]梨深[line]Let's walk home together, Taku.[%p]"
+msgstr "500:[name]梨深[line]「一緒に帰ろっか、タク」[%p]"
 
 msgid "600:そう言ってくれるんじゃないかって。[linebreak]ちょっとだけ、そんな展開を望んでた。[%p]"
-msgstr "600:I thought maybe she'd be there to say that to me. I hoped that maybe, somehow, that would happen.[%p]"
+msgstr "600:そう言ってくれるんじゃないかって。[linebreak]ちょっとだけ、そんな展開を望んでた。[%p]"
 
 msgid "700:でも――[%p]"
-msgstr "700:But...[%p]"
+msgstr "700:でも――[%p]"
 
 msgid "800:教室には、誰もいなかった。[linebreak]僕を待ってる人なんて、いるわけがなかった。[%p]"
-msgstr "800:The classroom was empty. Nobody was waiting for me.[%p]"
+msgstr "800:教室には、誰もいなかった。[linebreak]僕を待ってる人なんて、いるわけがなかった。[%p]"
 
 msgid "900:中庭にも行ってみた。[%p]"
-msgstr "900:I tried going to the courtyard.[%p]"
+msgstr "900:中庭にも行ってみた。[%p]"
 
 msgid "1000:ここで、梨深は僕に“一緒にいてあげる”と言ってくれたんだ。[%p]"
-msgstr "1000:This was where Rimi had said she'd be with me.[%p]"
+msgstr "1000:ここで、梨深は僕に“一緒にいてあげる”と言ってくれたんだ。[%p]"
 
 msgid "1100:でも今は、誰もいなかった。[%p]"
-msgstr "1100:But now there was nobody here.[%p]"
+msgstr "1100:でも今は、誰もいなかった。[%p]"
 
 msgid "1200:花壇に咲く紫色の花だけが、秋の風に吹かれて寂しく揺れていた。[%p]"
-msgstr "1200:Nothing moved but the lonely purple blooms in the flowerbeds, which swayed in the cold autumn wind.[%p]"
+msgstr "1200:花壇に咲く紫色の花だけが、秋の風に吹かれて寂しく揺れていた。[%p]"
 
 msgid "1300:カバンの中から、朱色のハンカチを取り出してみる。[linebreak]それは以前に梨深からもらったものだ。[%p]"
-msgstr "1300:I took out the red handkerchief from my bag. It was the one Rimi had given me.[%p]"
+msgstr "1300:カバンの中から、朱色のハンカチを取り出してみる。[linebreak]それは以前に梨深からもらったものだ。[%p]"
 
 msgid "1400:試しに匂いを嗅いでみたけど、一度洗ったせいか、フローラルな香りはしなかった。[%p]"
-msgstr "1400:I tried sniffing it, but the floral smell was gone. Maybe it had disappeared when I'd washed it that one time.[%p]"
+msgstr "1400:試しに匂いを嗅いでみたけど、一度洗ったせいか、フローラルな香りはしなかった。[%p]"
 
 msgid "1500:ハンカチはあるのに、香りはしない。[linebreak]記憶はあるのに、梨深はいない。[%p]"
-msgstr "1500:I had the handkerchief, but the scent was gone. I had the memories, but Rimi was gone.[%p]"
+msgstr "1500:ハンカチはあるのに、香りはしない。[linebreak]記憶はあるのに、梨深はいない。[%p]"
 
 msgid "1600:脳内女子に会いたいと願って、[%p]"
-msgstr "1600:I was out here, wishing to meet a girl who maybe only existed in my head.[%p]"
+msgstr "1600:脳内女子に会いたいと願って、[%p]"
 
 msgid "1700:[name]拓巳[line]「なんて――」[%p]"
-msgstr "1700:[name]拓巳[line]I'm so...[%p]"
+msgstr "1700:[name]拓巳[line]「なんて――」[%p]"
 
 msgid "1800:放課後の校内を徘徊し、[%p]"
-msgstr "1800:I was wandering the school after classes were over...[%p]"
+msgstr "1800:放課後の校内を徘徊し、[%p]"
 
 msgid "1900:[name]拓巳[line]「なんて、救いようがないんだ、僕って……」[%p]"
-msgstr "1900:[name]拓巳[line]I'm so pathetic.[%p]"
+msgstr "1900:[name]拓巳[line]「なんて、救いようがないんだ、僕って……」[%p]"
 
 msgid "2000:女物のハンカチを口許に添えている、僕。[%p]"
-msgstr "2000:... with a girl's handkerchief up against my lips.[%p]"
+msgstr "2000:女物のハンカチを口許に添えている、僕。[%p]"
 
 msgid "2100:キモすぎて、反吐が出そうだよ……。[%p]"
-msgstr "2100:I was so creepy, I wanted to throw up.[%p]"
+msgstr "2100:キモすぎて、反吐が出そうだよ……。[%p]"
 

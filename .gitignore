@@ -3,3 +3,6 @@
 dist
 Release.zip
 *.mo
+.DS_Store
+__pycache__
+*.pyc

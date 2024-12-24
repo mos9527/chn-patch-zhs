@@ -10,395 +10,395 @@
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "0:エンスーに潜ってみると、グリムがいた。[%p]"
-msgstr "0:When I logged into ESO, Grimm was there.[%p]"
+msgstr "0:エンスーに潜ってみると、グリムがいた。[%p]"
 
 msgid "100:ナイトハルト＞最近の＠ちゃんニュース板はつまらなくなったな"
-msgstr "100:KnightHeart: @chan's news boards have been boring as hell [alt-linebreak]lately."
+msgstr "100:ナイトハルト＞最近の＠ちゃんニュース板はつまらなくなったな"
 
 msgid "200:ナイトハルト＞どこもニュージェネの話ばっかりだ"
-msgstr "200:KnightHeart: It's all NewGen crap."
+msgstr "200:ナイトハルト＞どこもニュージェネの話ばっかりだ"
 
 msgid "300:グリム＞そりゃ、今一番注目されてる事件だからな"
-msgstr "300:Grimm: Well, it's the biggest story right now."
+msgstr "300:グリム＞そりゃ、今一番注目されてる事件だからな"
 
 msgid "400:グリム＞新しい事件が起きるたびに祭りになってるおｗ"
-msgstr "400:Grimm: Every time there's a new case it's a big festival. [alt-linebreak]Everybody goes crazy."
+msgstr "400:グリム＞新しい事件が起きるたびに祭りになってるおｗ"
 
 msgid "500:ナイトハルト＞犯人はまだ捕まってないの？"
-msgstr "500:KnightHeart: They haven't caught the killer yet?"
+msgstr "500:ナイトハルト＞犯人はまだ捕まってないの？"
 
 msgid "600:グリム＞だってほら、警察無能だしｗ"
-msgstr "600:Grimm: Well, you know. The cops are morons, lol."
+msgstr "600:グリム＞だってほら、警察無能だしｗ"
 
 msgid "700:グリム＞ネットの一部には犯人を萌え美少女設定しちゃってるバカもいるおｗ"
-msgstr "700:Grimm: Some idiots have even decided that it's actually a [alt-linebreak]cute moe girl."
+msgstr "700:グリム＞ネットの一部には犯人を萌え美少女設定しちゃってるバカもいるおｗ"
 
 msgid "800:ナイトハルト＞あの悪魔女……"
-msgstr "800:KnightHeart: That demon girl..."
+msgstr "800:ナイトハルト＞あの悪魔女……"
 
 msgid "900:張り付け殺人事件のとき、現場で見かけた女の仄暗い瞳が脳裏をかすめ、僕はゾッとした。[%p]"
-msgstr "900:Visions of the dark eyes of the girl I'd seen during the crucifixion killing came back to me, and I shivered.[%p]"
+msgstr "900:張り付け殺人事件のとき、現場で見かけた女の仄暗い瞳が脳裏をかすめ、僕はゾッとした。[%p]"
 
 msgid "1000:もう思い出したくないのに、ちょっとした気の緩みで忌まわしい記憶がよみがえってしまう。[%p]"
-msgstr "1000:I didn't want to remember it at all, but the slightest little thing and the memories came flooding back.[%p]"
+msgstr "1000:もう思い出したくないのに、ちょっとした気の緩みで忌まわしい記憶がよみがえってしまう。[%p]"
 
 msgid "1100:そう、僕は犯人の顔を見ている。犯人を、知っている。[linebreak]警察に通報すべきなんだろうか。でも巻き込まれたくないし……。[%p]"
-msgstr "1100:I'd seen the killer's face. I knew who she was. Should I have told the cops? But I didn't want to get involved.[%p]"
+msgstr "1100:そう、僕は犯人の顔を見ている。犯人を、知っている。[linebreak]警察に通報すべきなんだろうか。でも巻き込まれたくないし……。[%p]"
 
 msgid "1200:グリム＞悪魔女？\u3000ついにそんなバージョンまで出たのか"
-msgstr "1200:Grimm: Demon girl? Is that the latest variation?"
+msgstr "1200:グリム＞悪魔女？\u3000ついにそんなバージョンまで出たのか"
 
 msgid "1300:グリム＞ま、さすがにそりゃ悪ふざけしすぎだけどな"
-msgstr "1300:Grimm: Eh, that's going a little too far."
+msgstr "1300:グリム＞ま、さすがにそりゃ悪ふざけしすぎだけどな"
 
 msgid "1400:グリム＞とにかくニュージェネ事件ってマジ面白いんだって"
-msgstr "1400:Grimm: Anyway, NewGen is just fascinating stuff."
+msgstr "1400:グリム＞とにかくニュージェネ事件ってマジ面白いんだって"
 
 msgid "1500:グリム＞漏れ、フレパラのニュージェネコミュ入ったお"
-msgstr "1500:Grimm: I joined a NewGen community on Furepara."
+msgstr "1500:グリム＞漏れ、フレパラのニュージェネコミュ入ったお"
 
 msgid "1600:ナイトハルト＞はまりすぎ"
-msgstr "1600:KnightHeart: You're getting too into it."
+msgstr "1600:ナイトハルト＞はまりすぎ"
 
 msgid "1700:グリム＞漏れらのギルドで入ってないの、ナイトハルトとゲジ姉だけなんだぜ？"
-msgstr "1700:Grimm: The only ones in our guild who aren't into it are you and Big Sis Geji."
+msgstr "1700:グリム＞漏れらのギルドで入ってないの、ナイトハルトとゲジ姉だけなんだぜ？"
 
 msgid "1800:げげ、マジか……。[linebreak]それじゃギルドのみんなとのチャットで話題に入っていけない。[%p]"
-msgstr "1800:Geh... seriously? If that was true, then I wouldn't be able to keep up with the discussion in our chat channel.[%p]"
+msgstr "1800:げげ、マジか……。[linebreak]それじゃギルドのみんなとのチャットで話題に入っていけない。[%p]"
 
 msgid "1900:グリム＞ニュージェネは普通じゃない"
-msgstr "1900:Grimm: NewGen's just really messed up stuff."
+msgstr "1900:グリム＞ニュージェネは普通じゃない"
 
 msgid "2000:グリム＞ゾクゾクするお"
-msgstr "2000:Grimm: It's crazy to read about."
+msgstr "2000:グリム＞ゾクゾクするお"
 
 msgid "2100:ナイトハルト＞グリムがそういうグロ趣味だってのは知ってたが"
-msgstr "2100:KnightHeart: I knew you were into guro stuff,"
+msgstr "2100:ナイトハルト＞グリムがそういうグロ趣味だってのは知ってたが"
 
 msgid "2200:ナイトハルト＞まさか殺人事件に芸術性とか求めるタイプ？"
-msgstr "2200:KnightHeart: but don't tell me you're the kind of guy who [alt-linebreak]wants to see art in his murders?"
+msgstr "2200:ナイトハルト＞まさか殺人事件に芸術性とか求めるタイプ？"
 
 msgid "2300:確かにあの張り付け死体は、オブジェと勘違いしたくらいだから、芸術性はあると言えばあるのかもしれない。[%p]"
-msgstr "2300:That crucified corpse was such a mess, I'd thought it was some kind of art piece for a minute. If you wanted to call it artwork, I guess you could.[%p]"
+msgstr "2300:確かにあの張り付け死体は、オブジェと勘違いしたくらいだから、芸術性はあると言えばあるのかもしれない。[%p]"
 
 msgid "2400:グリム＞いや、むしろ求めるべきはいかに変態かじゃね？"
-msgstr "2400:Grimm: Nah, it'd be better if they had some perverted sexual element to them, right?"
+msgstr "2400:グリム＞いや、むしろ求めるべきはいかに変態かじゃね？"
 
 msgid "2500:グリム＞究極のＳＭの形みたいな"
-msgstr "2500:Grimm: It's like the ultimate kind of S&M!"
+msgstr "2500:グリム＞究極のＳＭの形みたいな"
 
 msgid "2600:ナイトハルト＞ダメだこいつ……早くなんとかしないと……"
-msgstr "2600:KnightHeart: This guy's a goner. Somebody needs to do [alt-linebreak]something about him."
+msgstr "2600:ナイトハルト＞ダメだこいつ……早くなんとかしないと……"
 
 msgid "2700:グリム＞ナイトハルトたんも脱童貞すれば分かるようになるお"
-msgstr "2700:Grimm: Once you lose your virginity, you'll understand."
+msgstr "2700:グリム＞ナイトハルトたんも脱童貞すれば分かるようになるお"
 
 msgid "2800:ナイトハルト＞そういう貴様は童貞じゃないと言うのかー"
-msgstr "2800:KnightHeart: So, you're telling me you're not a virgin?"
+msgstr "2800:ナイトハルト＞そういう貴様は童貞じゃないと言うのかー"
 
 msgid "2900:グリム＞(`･ω･´)"
-msgstr "2900:Grimm: (`･ω･´)"
+msgstr "2900:グリム＞(`･ω･´)"
 
 msgid "3000:ナイトハルト＞Σ(ﾟДﾟ;）"
-msgstr "3000:KnightHeart: Σ (ﾟДﾟ;）"
+msgstr "3000:ナイトハルト＞Σ(ﾟДﾟ;）"
 
 msgid "3100:ナイトハルト＞この裏切り者めｏｒｚ"
-msgstr "3100:KnightHeart: You traitor orz"
+msgstr "3100:ナイトハルト＞この裏切り者めｏｒｚ"
 
 msgid "3200:グリム＞それはともかく"
-msgstr "3200:Grimm: Anyway..."
+msgstr "3200:グリム＞それはともかく"
 
 msgid "3300:グリム＞まとめサイトはマジ充実してるから、目を通してみろＹＯ！"
-msgstr "3300:Grimm: There's all kinds of stuff on the aggregator sites. [alt-linebreak]Take a look sometime!"
+msgstr "3300:グリム＞まとめサイトはマジ充実してるから、目を通してみろＹＯ！"
 
 msgid "3400:うう……。怖いから見たくないのに。[%p]"
-msgstr "3400:Ugh… I didn't want to look at them. They scared me.[%p]"
+msgstr "3400:うう……。怖いから見たくないのに。[%p]"
 
 msgid "3500:事件現場を目撃した、っていう現実から逃れたい……その一心で、ずっとニュージェネに関するすべての情報を遮断してた。[%p]"
-msgstr "3500:I wanted to run away from the fact that I'd been at the murder scene. That's why I'd cut myself off from all information about NewGen.[%p]"
+msgstr "3500:事件現場を目撃した、っていう現実から逃れたい……その一心で、ずっとニュージェネに関するすべての情報を遮断してた。[%p]"
 
 msgid "3600:そうすることで、僕が見たあの凄惨な光景は妄想だったって思い込みたかった。[linebreak]でも……[%p]"
-msgstr "3600:That was how I'd hoped I could convince myself that it was all just a delusion. But...[%p]"
+msgstr "3600:そうすることで、僕が見たあの凄惨な光景は妄想だったって思い込みたかった。[linebreak]でも……[%p]"
 
 msgid "3700:エンスーでの僕は神に等しい存在だ。[linebreak]強いだけじゃなく、なんでも知ってなくちゃいけない。[%p]"
-msgstr "3700:In ESO, I was practically a god. It wasn't enough to be strong. I had to know everything.[%p]"
+msgstr "3700:エンスーでの僕は神に等しい存在だ。[linebreak]強いだけじゃなく、なんでも知ってなくちゃいけない。[%p]"
 
 msgid "3800:まして僕はギルドのリーダー的存在だ。みんなのまとめ役なのに話題についていけないなんて恥ずかしすぎる。[%p]"
-msgstr "3800:Especially since I was kind of a leader in the guild. If I was supposed to be the leader, but I couldn't even keep up with whatever everyone was talking about, it would just be embarrassing.[%p]"
+msgstr "3800:まして僕はギルドのリーダー的存在だ。みんなのまとめ役なのに話題についていけないなんて恥ずかしすぎる。[%p]"
 
 msgid "3900:それは、避けなくちゃ……。[%p]"
-msgstr "3900:I had to avoid that.[%p]"
+msgstr "3900:それは、避けなくちゃ……。[%p]"
 
 msgid "4000:グリムに教えてもらったまとめサイトのアドレスに飛ぶ。[%p]"
-msgstr "4000:I went to the address that Grimm gave me.[%p]"
+msgstr "4000:グリムに教えてもらったまとめサイトのアドレスに飛ぶ。[%p]"
 
 msgid "4100:トップには大きく『ニュージェネまとめ』とそのまんまのタイトルが表示されている。[%p]"
-msgstr "4100:The top banner read “NewGen Aggregator” in big letters.[%p]"
+msgstr "4100:トップには大きく『ニュージェネまとめ』とそのまんまのタイトルが表示されている。[%p]"
 
 msgid "4200:まとめサイトってのは、一例としては[color index="A0FF0000"]Ｗｉｋｉ[color index="800000"]を使って不特定多数の人が特定のネタに関する情報を書き込めるサイトのことを言う。[%p]"
-msgstr "4200:Aggregator sites were a kind of [color index="A0FF0000"]wiki[color index="800000"], where any number of people could add information to articles about a certain topic.[%p]"
+msgstr "4200:まとめサイトってのは、一例としては[color index="A0FF0000"]Ｗｉｋｉ[color index="800000"]を使って不特定多数の人が特定のネタに関する情報を書き込めるサイトのことを言う。[%p]"
 
 msgid "4300:ニュージェネのまとめサイトなら、ニュージェネに関する情報をいろんな人が書き込んで随時更新していく。[%p]"
-msgstr "4300:A NewGen aggregator site would have information about NewGen, constantly updated by different users.[%p]"
+msgstr "4300:ニュージェネのまとめサイトなら、ニュージェネに関する情報をいろんな人が書き込んで随時更新していく。[%p]"
 
 msgid "4400:信憑性の薄い情報も混じってるし、荒らしもいるけど、簡単に事件の全体像を理解するには便利だ。[%p]"
-msgstr "4400:Some of that information wasn't trustworthy in the slightest, and sometimes there were trolls, but if you wanted an easy way to get a handle on the basic facts of something, it was good.[%p]"
+msgstr "4400:信憑性の薄い情報も混じってるし、荒らしもいるけど、簡単に事件の全体像を理解するには便利だ。[%p]"
 
 msgid "4500:リンクもたくさん貼ってあるし。[%p]"
-msgstr "4500:There were always tons of links, for one thing.[%p]"
+msgstr "4500:リンクもたくさん貼ってあるし。[%p]"
 
 msgid "4600:さっそく、『ここまでの流れ』というのを読んでみる。[linebreak]自然と鼓動が速くなった。まとめサイトを読むだけなのに緊張していた。手の平がじっとりと汗ばむ。[%p]"
-msgstr "4600:I decided to start with an article called “The Case So Far.” My pulse started to quicken. Just reading the site was enough to make me nervous. I could feel the sweat forming on my hands.[%p]"
+msgstr "4600:さっそく、『ここまでの流れ』というのを読んでみる。[linebreak]自然と鼓動が速くなった。まとめサイトを読むだけなのに緊張していた。手の平がじっとりと汗ばむ。[%p]"
 
 msgid "4700:第１の事件――通称『集団ダイブ』は、高校生の男女５人による集団飛び降り自殺だ。[%p]"
-msgstr "4700:The first case, the one they called “Group Dive,” was when a group of five boys and girls from a high school had all jumped off a building.[%p]"
+msgstr "4700:第１の事件――通称『集団ダイブ』は、高校生の男女５人による集団飛び降り自殺だ。[%p]"
 
 msgid "4800:９月７日――今から約１ヶ月前の深夜、渋谷コーネリアスタワー。[linebreak]屋上のヘリポートから墜落した５人はもちろん即死だった。[%p]"
-msgstr "4800:It happened on September 7th, about a month ago. It was in the middle of the night, at a place called Shibuya Cornelius Tower. The five had jumped off the building's helipad and died instantly on impact.[%p]"
+msgstr "4800:９月７日――今から約１ヶ月前の深夜、渋谷コーネリアスタワー。[linebreak]屋上のヘリポートから墜落した５人はもちろん即死だった。[%p]"
 
 msgid "4900:司法解剖の結果、５人それぞれの手の爪には本人以外の肉片が残されており、同時に引っ掻き傷も見つかった。[%p]"
-msgstr "4900:The autopsy showed that each of them had DNA belonging to someone else under their nails, and there were scratch marks found, too.[%p]"
+msgstr "4900:司法解剖の結果、５人それぞれの手の爪には本人以外の肉片が残されており、同時に引っ掻き傷も見つかった。[%p]"
 
 msgid "5000:そこから、５人がどうやら手を繋いだまま飛び降りたのだと推測されている。[%p]"
-msgstr "5000:It was theorized from this that the five of them must've jumped off while holding hands.[%p]"
+msgstr "5000:そこから、５人がどうやら手を繋いだまま飛び降りたのだと推測されている。[%p]"
 
 msgid "5100:屋上には遺書らしきものはなにもなかった。[%p]"
-msgstr "5100:There was no sign of any kind of suicide note left on the roof.[%p]"
+msgstr "5100:屋上には遺書らしきものはなにもなかった。[%p]"
 
 msgid "5200:以下はネットの有志（通称[color index="A0FF0000"]スネーク[color index="800000"]）が実際にコーネリアスタワーに行って確かめたことだけど。[%p]"
-msgstr "5200:Below the summary was some information added by some internet detective (these types were often referred to as “[color index="A0FF0000"]snakes[color index="800000"]”) who'd actually gone to Cornelius Tower.[%p]"
+msgstr "5200:以下はネットの有志（通称[color index="A0FF0000"]スネーク[color index="800000"]）が実際にコーネリアスタワーに行って確かめたことだけど。[%p]"
 
 msgid "5300:屋上は関係者以外立ち入り禁止であり、そこへ通じる扉はほぼ常時、施錠されたままだという。[%p]"
-msgstr "5300:According to him, the roof was off limits to visitors, and the door to it was kept locked at all times.[%p]"
+msgstr "5300:屋上は関係者以外立ち入り禁止であり、そこへ通じる扉はほぼ常時、施錠されたままだという。[%p]"
 
 msgid "5400:当然ながら事件当時も、鍵はかけられていた。５人の遺品からその扉の鍵は見つからなかった。[%p]"
-msgstr "5400:Of course, it was locked at the time of the jump, too. None of the deceased had a key on their bodies when they'd been found.[%p]"
+msgstr "5400:当然ながら事件当時も、鍵はかけられていた。５人の遺品からその扉の鍵は見つからなかった。[%p]"
 
 msgid "5500:つまり屋上ヘリポートは事実上“密室”状態であり、５人がどうやって屋上のヘリポートに侵入したのか、一切不明である。[%p]"
-msgstr "5500:This meant that the helipad was, in a way, a “locked room,” like you saw in murder mysteries. There was nothing to suggest how the five of them had gotten up there.[%p]"
+msgstr "5500:つまり屋上ヘリポートは事実上“密室”状態であり、５人がどうやって屋上のヘリポートに侵入したのか、一切不明である。[%p]"
 
 msgid "5600:もしかすると５人以外の“誰か”が事件当時そこにいた可能性が高い。[%p]"
-msgstr "5600:It was entirely likely that someone else had been there as well.[%p]"
+msgstr "5600:もしかすると５人以外の“誰か”が事件当時そこにいた可能性が高い。[%p]"
 
 msgid "5700:第２の事件――通称『妊娠男』殺人事件は、９月１９日、第１の事件から１２日後に起こった。[%p]"
-msgstr "5700:The second case, the “Pregnant Man,” happened on September 19th, around twelve days after the first.[%p]"
+msgstr "5700:第２の事件――通称『妊娠男』殺人事件は、９月１９日、第１の事件から１２日後に起こった。[%p]"
 
 msgid "5800:早朝、渋谷駅のガード下付近にて、カラオケ帰りの大学生が、血まみれで倒れている男性を発見した。[%p]"
-msgstr "5800:Early in the morning, near a Shibuya Station underpass, a college student was walking home from karaoke when they'd found a bloodstained man collapsed on the ground.[%p]"
+msgstr "5800:早朝、渋谷駅のガード下付近にて、カラオケ帰りの大学生が、血まみれで倒れている男性を発見した。[%p]"
 
 msgid "5900:この男性は渋谷区在住の大学生、近衛千鶴男（２１）で、発見されたときにはすでに死亡していたが、腹部が不自然に大きく腫れ上がっていた。[%p]"
-msgstr "5900:The collapsed man was a university student who lived in Shibuya Ward named Chizuo Konoe (Age 21). He was dead when he was found, but he had an unnatural bulge in his stomach.[%p]"
+msgstr "5900:この男性は渋谷区在住の大学生、近衛千鶴男（２１）で、発見されたときにはすでに死亡していたが、腹部が不自然に大きく腫れ上がっていた。[%p]"
 
 msgid "6000:司法解剖したところ、男性は何者かによって腹部を切開され、胃の中に生まれたての胎児を閉じこめたまま縫合されたらしい。[%p]"
-msgstr "6000:The autopsy showed that someone had opened up his chest, shoved a newborn baby into his stomach, and then sewn him back up.[%p]"
+msgstr "6000:司法解剖したところ、男性は何者かによって腹部を切開され、胃の中に生まれたての胎児を閉じこめたまま縫合されたらしい。[%p]"
 
 msgid "6100:なお、ＤＮＡ鑑定によって胎児と被害者に血縁関係はないことが判明している。被害者は独身であり、また交際していた女性もいなかったとのこと。[%p]"
-msgstr "6100:In addition, DNA analysis had shown that there was no relation between the baby and the man. He was, according to reports, unmarried and had no girlfriend.[%p]"
+msgstr "6100:なお、ＤＮＡ鑑定によって胎児と被害者に血縁関係はないことが判明している。被害者は独身であり、また交際していた女性もいなかったとのこと。[%p]"
 
 msgid "6200:ここからはネット上の憶測になるけど、胎児はだいたい妊娠３２週目ぐらいの状態で、そうだとすると母親の身体から帝王切開をして取り上げられたと思われる。[%p]"
-msgstr "6200:The rest of it was internet speculation, but the baby appeared to be in the 32nd week of pregnancy, which would mean it was probably removed from the mother by c-section.[%p]"
+msgstr "6200:ここからはネット上の憶測になるけど、胎児はだいたい妊娠３２週目ぐらいの状態で、そうだとすると母親の身体から帝王切開をして取り上げられたと思われる。[%p]"
 
 msgid "6300:でもその母親がいったい誰なのか、そして今現在どこでなにをしているのか、そもそも生きているのか死んでいるのかについては、一切不明らしい。[%p]"
-msgstr "6300:Who the mother was, though, or where she was or what she was doing, or even if she was alive or dead... None of that was known.[%p]"
+msgstr "6300:でもその母親がいったい誰なのか、そして今現在どこでなにをしているのか、そもそも生きているのか死んでいるのかについては、一切不明らしい。[%p]"
 
 msgid "6400:警察はもしかすると行方をつかんでるかもしれないけど、少なくとも世間には公表されてない。[%p]"
-msgstr "6400:It was possible that the cops knew, but if they did, they weren't talking.[%p]"
+msgstr "6400:警察はもしかすると行方をつかんでるかもしれないけど、少なくとも世間には公表されてない。[%p]"
 
 msgid "6500:[name]拓巳[line]「うっえ……」[%p]"
-msgstr "6500:[name]拓巳[line]Ugh...[%p]"
+msgstr "6500:[name]拓巳[line]「うっえ……」[%p]"
 
 msgid "6600:吐きそうになって、僕はモニタから目をそらした。[%p]"
-msgstr "6600:I looked away from the monitor, feeling like I was about to throw up.[%p]"
+msgstr "6600:吐きそうになって、僕はモニタから目をそらした。[%p]"
 
 msgid "6700:なんておぞましいんだ……。犯人は絶対に狂ってる。[linebreak]しかも……もしかしたらこの凄惨な殺人を……[%p]"
-msgstr "6700:This was disgusting. The killer was insane. I knew that for sure. And... it was also possible...[%p]"
+msgstr "6700:なんておぞましいんだ……。犯人は絶対に狂ってる。[linebreak]しかも……もしかしたらこの凄惨な殺人を……[%p]"
 
 msgid "6800:あの女がやったかもしれないなんて……[%p]"
-msgstr "6800:That girl had been behind these horrible murders.[%p]"
+msgstr "6800:あの女がやったかもしれないなんて……[%p]"
 
 msgid "6900:日本ｵﾜﾀ＼(^o^)／[%p]"
-msgstr "6900:Welp, Japan's screwed! ＼(^o^)／[%p]"
+msgstr "6900:日本ｵﾜﾀ＼(^o^)／[%p]"
 
 msgid "7000:星来たんをじっと見つめて、目の保養。[%p]"
-msgstr "7000:I took a moment to gaze at my beautiful Seira-tan.[%p]"
+msgstr "7000:星来たんをじっと見つめて、目の保養。[%p]"
 
 msgid "7100:なんとか精神状態を安定させる。先生にもらった薬を飲むことも考えたけど、まだ星来たんだけでなんとかなった。[%p]"
-msgstr "7100:Looking at her helped calm me down. I thought about taking the sedatives the doctor had given me, but for now, Seira-tan was good enough.[%p]"
+msgstr "7100:なんとか精神状態を安定させる。先生にもらった薬を飲むことも考えたけど、まだ星来たんだけでなんとかなった。[%p]"
 
 msgid "7200:それでも、ナイトハルトとしての面子を保つためとはいえ、こんなグロいものを読むのはやっぱり辛いよ……。[%p]"
-msgstr "7200:Still, though... I had to do it to keep up KnightHeart's reputation as a leader, but reading these... hurt.[%p]"
+msgstr "7200:それでも、ナイトハルトとしての面子を保つためとはいえ、こんなグロいものを読むのはやっぱり辛いよ……。[%p]"
 
 msgid "7300:[name]星来[line]「そんなに辛いならさ、読まなくていいってぇ」[%p]"
-msgstr "7300:[name]星来[line]If it hurts that much, don't read them![%p]"
+msgstr "7300:[name]星来[line]「そんなに辛いならさ、読まなくていいってぇ」[%p]"
 
 msgid "7400:[name]星来[line]「タッキーがドＭってんなら別に止めないけど」[%p]"
-msgstr "7400:[name]星来[line]I mean, if you're a masochist, I won't stop you.[%p]"
+msgstr "7400:[name]星来[line]「タッキーがドＭってんなら別に止めないけど」[%p]"
 
 msgid "7500:[name]星来[line]「辛そうなタッキーは見てられないんさ」[%p]"
-msgstr "7500:[name]星来[line]But seeing you suffer hurts![%p]"
+msgstr "7500:[name]星来[line]「辛そうなタッキーは見てられないんさ」[%p]"
 
 msgid "7600:[name]星来[line]「もうやめよ？\u3000楽しいことだけしてようよ」[%p]"
-msgstr "7600:[name]星来[line]Forget about this. Just do something fun![%p]"
+msgstr "7600:[name]星来[line]「もうやめよ？\u3000楽しいことだけしてようよ」[%p]"
 
 msgid "7700:[name]星来[line]「いつもみたく、あたしにハァハァしてもいいからさ」[%p]"
-msgstr "7700:[name]星来[line]You can use me to jerk off like you usually do, if you want![%p]"
+msgstr "7700:[name]星来[line]「いつもみたく、あたしにハァハァしてもいいからさ」[%p]"
 
 msgid "7800:うう、星来たんはなんて優しいんだ……。[%p]"
-msgstr "7800:Seira-tan was such a nice girl.[%p]"
+msgstr "7800:うう、星来たんはなんて優しいんだ……。[%p]"
 
 msgid "7900:僕の味方でいてくれるのは星来たんだけだよ。[linebreak]さすが僕の嫁。[%p]"
-msgstr "7900:She was my only true ally. My wife.[%p]"
+msgstr "7900:僕の味方でいてくれるのは星来たんだけだよ。[linebreak]さすが僕の嫁。[%p]"
 
 msgid "8000:テーブルの上に頬杖をついて、僕は深呼吸しつつ星来たんの笑顔を見つめる。はぁ、癒される……。[%p]"
-msgstr "8000:I put my elbow on the table and rested my head in my hand, taking deep breaths as I stared at Seira-tan's smile. Whew... I felt so much better.[%p]"
+msgstr "8000:テーブルの上に頬杖をついて、僕は深呼吸しつつ星来たんの笑顔を見つめる。はぁ、癒される……。[%p]"
 
 msgid "8100:星来たんをチラ見しつつ読んでいけば、もう少しは耐えられるかもしれない。[linebreak]ということで早速実践してみることにした。[%p]"
-msgstr "8100:Maybe I could read a little more if I took breaks to glance over at Seira-tan. I decided to give it a try.[%p]"
+msgstr "8100:星来たんをチラ見しつつ読んでいけば、もう少しは耐えられるかもしれない。[linebreak]ということで早速実践してみることにした。[%p]"
 
 msgid "8200:そもそもどうして、関連性がまったくないこのふたつの事件が『ニュージェネ』とひとくくりにされるようになったんだろう。[%p]"
-msgstr "8200:Why had these two seemingly separate incidents both been given the label New Generation Madness?[%p]"
+msgstr "8200:そもそもどうして、関連性がまったくないこのふたつの事件が『ニュージェネ』とひとくくりにされるようになったんだろう。[%p]"
 
 msgid "8300:『集団ダイブ』は、最初あくまで自殺として扱われたらしい。[%p]"
-msgstr "8300:The Group Dive was treated as just a suicide at first.[%p]"
+msgstr "8300:『集団ダイブ』は、最初あくまで自殺として扱われたらしい。[%p]"
 
 msgid "8400:だけど『妊娠男』事件後に『集団ダイブ』の再検証がネット上で行われて、現場の不自然な状況が発覚し――[%p]"
-msgstr "8400:But after the Pregnant Man case, the net started taking another look at the Group Dive, and found out how many strange elements there were to the case.[%p]"
+msgstr "8400:だけど『妊娠男』事件後に『集団ダイブ』の再検証がネット上で行われて、現場の不自然な状況が発覚し――[%p]"
 
 msgid "8500:“５人は自殺に見せかけて殺されたのではないか”との説がささやかれ始めた。[%p]"
-msgstr "8500:Speculation began that it was actually a murder, not a suicide.[%p]"
+msgstr "8500:“５人は自殺に見せかけて殺されたのではないか”との説がささやかれ始めた。[%p]"
 
 msgid "8600:『集団ダイブ』で亡くなった５人の親たちや、５人をよく知る友人たちも口々に、彼女たちが自殺をするなどあり得ないと語ったらしい。[%p]"
-msgstr "8600:Supposedly, the parents of the dead kids, and their friends, all said there was no way they could've killed themselves.[%p]"
+msgstr "8600:『集団ダイブ』で亡くなった５人の親たちや、５人をよく知る友人たちも口々に、彼女たちが自殺をするなどあり得ないと語ったらしい。[%p]"
 
 msgid "8700:そこに至って、マスコミは事件現場が同じ“渋谷”という点から[%p]"
-msgstr "8700:Since both the cases were in Shibuya, a traditional center for young people,[%p]"
+msgstr "8700:そこに至って、マスコミは事件現場が同じ“渋谷”という点から[%p]"
 
 msgid "8800:『新世代の若者達が生み出した狂気』[linebreak]『ニュージェネレーションの狂気』[%p]"
-msgstr "8800:the news started calling it “The Madness Created by the New Generation of Youth,” and then simply, “The New Generation Madness.”[%p]"
+msgstr "8800:『新世代の若者達が生み出した狂気』[linebreak]『ニュージェネレーションの狂気』[%p]"
 
 msgid "8900:というセンセーショナルな見出しを使い始めた……ということなんだそうだ。[%p]"
-msgstr "8900:The name stuck.[%p]"
+msgstr "8900:というセンセーショナルな見出しを使い始めた……ということなんだそうだ。[%p]"
 
 msgid "9000:そして、第３の事件……。[linebreak]僕が目撃した、通称『張り付け』殺人事件だ。[%p]"
-msgstr "9000:And then there was the third case... The “Crucified” murder, they were calling it. That was the one I'd seen.[%p]"
+msgstr "9000:そして、第３の事件……。[linebreak]僕が目撃した、通称『張り付け』殺人事件だ。[%p]"
 
 msgid "9100:まとめサイトには、まだ事件発生から日が浅いせいか、それほど多くの情報は出ていなかった。[%p]"
-msgstr "9100:The Aggregator site didn't have much information on the case because it was so new.[%p]"
+msgstr "9100:まとめサイトには、まだ事件発生から日が浅いせいか、それほど多くの情報は出ていなかった。[%p]"
 
 msgid "9200:被害者が太田久という５６歳の大学教授であること、杭で空き家のコンクリート壁に遺体が張り付けにされていたことぐらいしか公表されてないらしい。[%p]"
-msgstr "9200:The murdered man was Hisa Ota, a 56-year-old college professor. He'd been nailed with stakes to the concrete wall of an empty house.[%p]"
+msgstr "9200:被害者が太田久という５６歳の大学教授であること、杭で空き家のコンクリート壁に遺体が張り付けにされていたことぐらいしか公表されてないらしい。[%p]"
 
 msgid "9300:現場付近では、犯行が行われたとされる午後８時ぐらいから１時間以上にわたって、“釘を打ち付けるかのような音”を聞いた住民が何人かいるらしい。[%p]"
-msgstr "9300:Starting at 8:00 PM, the estimated time of the crime, neighbors heard what sounded like “something hammering a nail.” The sound lasted for approximately an hour.[%p]"
+msgstr "9300:現場付近では、犯行が行われたとされる午後８時ぐらいから１時間以上にわたって、“釘を打ち付けるかのような音”を聞いた住民が何人かいるらしい。[%p]"
 
 msgid "9400:その音は僕も聞いた。今も耳にこびりついている。イヤな音だった。[%p]"
-msgstr "9400:I'd heard that sound, too. I could still hear it. It was an awful sound.[%p]"
+msgstr "9400:その音は僕も聞いた。今も耳にこびりついている。イヤな音だった。[%p]"
 
 msgid "9500:ちなみに『集団ダイブ』『妊娠男』いずれとの関連性も今のところ見つかっていない。[%p]"
-msgstr "9500:For what it was worth, no connection had been found between it and the Group Dive or the Pregnant Man.[%p]"
+msgstr "9500:ちなみに『集団ダイブ』『妊娠男』いずれとの関連性も今のところ見つかっていない。[%p]"
 
 msgid "9600:けど、同じ渋谷でこれだけ異常な事件が立て続けに三度も起こったことにより、当然のようにこの『張り付け』殺人事件もニュージェネのひとつとして扱われることになった。[%p]"
-msgstr "9600:But after three bizarre incidents in the same city of Shibuya, everyone naturally treated the Crucified murder as the third part of the New Generation Madness.[%p]"
+msgstr "9600:けど、同じ渋谷でこれだけ異常な事件が立て続けに三度も起こったことにより、当然のようにこの『張り付け』殺人事件もニュージェネのひとつとして扱われることになった。[%p]"
 
 msgid "9700:警察やマスコミでは３つの事件はすべて別々の人間による犯行だと見ているけど――[%p]"
-msgstr "9700:The media and police were saying that all three were committed by different individuals, but...[%p]"
+msgstr "9700:警察やマスコミでは３つの事件はすべて別々の人間による犯行だと見ているけど――[%p]"
 
 msgid "9800:ネットでの論調――というより期待――としては、同一犯、あるいは同一グループによる犯行という説が主流だ。[%p]"
-msgstr "9800:The position, or rather hope, of most people online was that it was a single person, or failing that, a single group.[%p]"
+msgstr "9800:ネットでの論調――というより期待――としては、同一犯、あるいは同一グループによる犯行という説が主流だ。[%p]"
 
 msgid "9900:他にはオカルト説なんかもネットではよくささやかれているみたいで、すべての始まりは２ヶ月前の地震に起因するという意見もあった。[%p]"
-msgstr "9900:There were some bizarre theories involving the occult going around too, and some people were saying NewGen got its start in the earthquake two months ago.[%p]"
+msgstr "9900:他にはオカルト説なんかもネットではよくささやかれているみたいで、すべての始まりは２ヶ月前の地震に起因するという意見もあった。[%p]"
 
 msgid "10000:２ヶ月前、渋谷を震源地にして起きた震度３の地震。[linebreak]規模は大したことがなかったにもかかわらず、[linebreak]８人もの死者が出たって言って話題になったやつだ。[%p]"
-msgstr "10000:Two months ago, there'd been an intensity 3 earthquake in Shibuya. An intensity 3 quake was small enough that you could be walking down the street and not feel it. But despite the small size of the quake, it had made the news because eight people had died.[%p]"
+msgstr "10000:２ヶ月前、渋谷を震源地にして起きた震度３の地震。[linebreak]規模は大したことがなかったにもかかわらず、[linebreak]８人もの死者が出たって言って話題になったやつだ。[%p]"
 
 msgid "10100:言われてみれば確かに、ニュージェネ事件が始まったのはその地震以降だ。[%p]"
-msgstr "10100:Looking back, it was true that the NewGen incidents had started after the earthquake.[%p]"
+msgstr "10100:言われてみれば確かに、ニュージェネ事件が始まったのはその地震以降だ。[%p]"
 
 msgid "10200:だから“ニュージェネ・オカルト派”は、その地震で８人が亡くなったことこそニュージェネ第１の事件としてカウントすべき、みたいに主張して――[%p]"
-msgstr "10200:So, the proponents of the “occult theory” were saying that the eight deaths in the earthquake could be counted as the first NewGen case.[%p]"
+msgstr "10200:だから“ニュージェネ・オカルト派”は、その地震で８人が亡くなったことこそニュージェネ第１の事件としてカウントすべき、みたいに主張して――[%p]"
 
 msgid "10300:“ニュージェネ・主流派”との間に論争が起きていたりする。[%p]"
-msgstr "10300:Sometimes they'd get into arguments with the more “mainstream” NewGen theorists.[%p]"
+msgstr "10300:“ニュージェネ・主流派”との間に論争が起きていたりする。[%p]"
 
 msgid "10400:いずれにせよ、これだけの凶悪事件が連続で三件も起きたにもかかわらず、すべての事件で犯人の手がかりすら見つけられないというのは異常事態だ。[%p]"
-msgstr "10400:No matter who was behind it, it was bizarre that three such incidents could happen without a single clue as to who was behind it.[%p]"
+msgstr "10400:いずれにせよ、これだけの凶悪事件が連続で三件も起きたにもかかわらず、すべての事件で犯人の手がかりすら見つけられないというのは異常事態だ。[%p]"
 
 msgid "10500:そしてネットでは、第４の事件を待ち望む声が多い。[%p]"
-msgstr "10500:A lot of people online were eagerly awaiting a fourth incident, too.[%p]"
+msgstr "10500:そしてネットでは、第４の事件を待ち望む声が多い。[%p]"
 
 msgid "10600:きっと僕も、当事者じゃなかったらこの“祭り”に参加していたかもしれない。そして第４の事件をワクテカして待っていたかもしれない。[%p]"
-msgstr "10600:If I wasn't directly involved, I might've been all wktk myself, participating in the festival and eagerly waiting for a fourth incident, too.[%p]"
+msgstr "10600:きっと僕も、当事者じゃなかったらこの“祭り”に参加していたかもしれない。そして第４の事件をワクテカして待っていたかもしれない。[%p]"
 
 msgid "10700:くそっ、どいつもこいつもいい気なもんだ……。[%p]"
-msgstr "10700:Damn it. They were all having so much fun when I was feeling miserable.[%p]"
+msgstr "10700:くそっ、どいつもこいつもいい気なもんだ……。[%p]"
 
 msgid "10800:[name]拓巳[line]「犯人を早く捕まえてくれよ……」[%p]"
-msgstr "10800:[name]拓巳[line]Why can't you just catch the guy already?[%p]"
+msgstr "10800:[name]拓巳[line]「犯人を早く捕まえてくれよ……」[%p]"
 
 msgid "10900:『張り付け』から１週間以上になるけど、あの悪魔女も警察もなんの動きも見せない。[%p]"
-msgstr "10900:It'd been over a week since Crucified, and there'd been nothing from the demon girl or the police.[%p]"
+msgstr "10900:『張り付け』から１週間以上になるけど、あの悪魔女も警察もなんの動きも見せない。[%p]"
 
 msgid "11000:もし僕があの場に居合わせたって知られているなら、少なくとも警察は話を聞きに来るはずだ。でも今のところその気配はない。[%p]"
-msgstr "11000:If they knew I was there, at a minimum the police would've come to talk to me. But there was no sign of them.[%p]"
+msgstr "11000:もし僕があの場に居合わせたって知られているなら、少なくとも警察は話を聞きに来るはずだ。でも今のところその気配はない。[%p]"
 
 msgid "11100:よ、よかった。[linebreak]僕が巻き込まれることはなさそうだぞ――[%p]"
-msgstr "11100:W-Whew... It looked like I was going to be able to stay out of this... to not get involved.[%p]"
+msgstr "11100:よ、よかった。[linebreak]僕が巻き込まれることはなさそうだぞ――[%p]"
 
 msgid "11200:[name]優愛[line]「あなたには、予知能力がありますか？」[%p]"
-msgstr "11200:[name]優愛[line]Can you see the future?[%p]"
+msgstr "11200:[name]優愛[line]「あなたには、予知能力がありますか？」[%p]"
 
 msgid "11300:優愛が僕に突きつけた言葉が脳裏をよぎった。[%p]"
-msgstr "11300:Yua's words flashed through my mind.[%p]"
+msgstr "11300:優愛が僕に突きつけた言葉が脳裏をよぎった。[%p]"
 
 msgid "11400:[name]優愛[line]「予知能力があるって思わなきゃ、納得できないような画像データを、あなたが持っていたから」[%p]"
-msgstr "11400:[name]優愛[line]If you can't see the future, I don't know how to explain how you'd have these images.[%p]"
+msgstr "11400:[name]優愛[line]「予知能力があるって思わなきゃ、納得できないような画像データを、あなたが持っていたから」[%p]"
 
 msgid "11500:安心しかけたのに、一瞬にして鬱な気分に逆戻りしてしまう。[%p]"
-msgstr "11500:Just when I was about to finally relax, I suddenly found myself feeling awful again.[%p]"
+msgstr "11500:安心しかけたのに、一瞬にして鬱な気分に逆戻りしてしまう。[%p]"
 
 msgid "11600:『将軍』から送信されてきた画像。[linebreak]それは今も僕のＰＣの中にデータとして残ってる。[%p]"
-msgstr "11600:The photos that Shogun had sent me... They were still stored on my computer.[%p]"
+msgstr "11600:『将軍』から送信されてきた画像。[linebreak]それは今も僕のＰＣの中にデータとして残ってる。[%p]"
 
 msgid "11700:優愛の言ったことはあいつの妄想でしかないんだ。[linebreak]支離滅裂すぎて推理として破綻してる。[%p]"
-msgstr "11700:Everything Yua had said was just a figment of her own delusions. It was crazy. It wasn't even a real theory.[%p]"
+msgstr "11700:優愛の言ったことはあいつの妄想でしかないんだ。[linebreak]支離滅裂すぎて推理として破綻してる。[%p]"
 
 msgid "11800:結局今日は病院でそのことについて聞けなかったけど、僕が記憶を失ってる間に別の行動をしてたなんて、そんなのあり得ない。[%p]"
-msgstr "11800:I hadn't been able to ask about it at the hospital, but there was no way I could have been someplace else while I was awake, doing something I didn't remember. It was impossible.[%p]"
+msgstr "11800:結局今日は病院でそのことについて聞けなかったけど、僕が記憶を失ってる間に別の行動をしてたなんて、そんなのあり得ない。[%p]"
 
 msgid "11900:今までそんなこと一度もなかったんだし。[%p]"
-msgstr "11900:It had never happened before, for one thing.[%p]"
+msgstr "11900:今までそんなこと一度もなかったんだし。[%p]"
 
 msgid "12000:だからあのグロ画像は、合成に決まってる。[%p]"
-msgstr "12000:Those guro photos had to be fake.[%p]"
+msgstr "12000:だからあのグロ画像は、合成に決まってる。[%p]"
 
 msgid "12100:[name]星来[line]「だったらさ――」[%p]"
-msgstr "12100:[name]星来[line]If you think they are...[%p]"
+msgstr "12100:[name]星来[line]「だったらさ――」[%p]"
 
 msgid "12200:[name]星来[line]「合成だって証拠を見つけちゃえばいいんさ」[%p]"
-msgstr "12200:[name]星来[line]Then prove it![%p]"
+msgstr "12200:[name]星来[line]「合成だって証拠を見つけちゃえばいいんさ」[%p]"
 
 msgid "12300:[name]星来[line]「あの画像、解析しちゃおうよ」[%p]"
-msgstr "12300:[name]星来[line]Let's analyze those images![%p]"
+msgstr "12300:[name]星来[line]「あの画像、解析しちゃおうよ」[%p]"
 
 msgid "12400:で、でも、気持ち悪いからあんまり見たくないんだけど。[%p]"
-msgstr "12400:B-But they're creepy, and I don't really want to look at them.[%p]"
+msgstr "12400:で、でも、気持ち悪いからあんまり見たくないんだけど。[%p]"
 
 msgid "12500:[name]星来[line]「あの女を論破しちゃえば、タッキーはもう怯えることなく平穏な生活に戻れるんだよ？」[%p]"
-msgstr "12500:[name]星来[line]If you can prove that they're fake to that woman, you'll be able to go back to your normal life, and have nothing to be afraid of![%p]"
+msgstr "12500:[name]星来[line]「あの女を論破しちゃえば、タッキーはもう怯えることなく平穏な生活に戻れるんだよ？」[%p]"
 
 msgid "12600:[name]星来[line]「やるしかないっしょ！」[%p]"
-msgstr "12600:[name]星来[line]You've gotta do it![%p]"
+msgstr "12600:[name]星来[line]「やるしかないっしょ！」[%p]"
 
 msgid "12700:だよね……。その通りだよ……。[%p]"
-msgstr "12700:Yeah... That's right.[%p]"
+msgstr "12700:だよね……。その通りだよ……。[%p]"
 
 msgid "12800:優愛はまるで僕が『張り付け』の犯人であるかのような言い方だったけど、そんなわけがないんだ。[%p]"
-msgstr "12800:Yua seemed convinced that I was the one behind Crucified. But that was impossible.[%p]"
+msgstr "12800:優愛はまるで僕が『張り付け』の犯人であるかのような言い方だったけど、そんなわけがないんだ。[%p]"
 
 msgid "12900:だって僕自身が、犯人の顔を見てるんだから。[linebreak]罪をなすりつけられてたまるか……。[%p]"
-msgstr "12900:I'd seen the person who'd actually done it. I couldn't let her blame me for the crime.[%p]"
+msgstr "12900:だって僕自身が、犯人の顔を見てるんだから。[linebreak]罪をなすりつけられてたまるか……。[%p]"
 
 msgid "13000:僕はゴクリと息を呑むと、画像のキャッシュがあるはずのフォルダをダブルクリックした――[%p]"
-msgstr "13000:I gulped and double clicked to open the folder where my cache was stored.[%p]"
+msgstr "13000:僕はゴクリと息を呑むと、画像のキャッシュがあるはずのフォルダをダブルクリックした――[%p]"
 
