@@ -372,8 +372,8 @@ msgstr "11900:百瀬はお茶をすすりながら、左手だけでノートＰ
 msgid "12000:液晶モニタにドキュメントファイルが展開される。[linebreak]そこには、彼女が個人的に調べた情報が書き連ねられていた。[%p]"
 msgstr "12000:液晶モニタにドキュメントファイルが展開される。[linebreak]そこには、彼女が個人的に調べた情報が書き連ねられていた。[%p]"
 
-msgid "12100:[name]百瀬[line]「[color index="A0FF0000"]明和党[color index="800000"]」[%p]"
-msgstr "12100:[name]百瀬[line]「[color index="A0FF0000"]明和党[color index="800000"]」[%p]"
+msgid "12100:[name]百瀬[line]「[color index=\"A0FF0000\"]明和党[color index=\"800000\"]」[%p]"
+msgstr "12100:[name]百瀬[line]「[color index=\"A0FF0000\"]明和党[color index=\"800000\"]」[%p]"
 
 msgid "12200:[name]判[line]「……モモちゃん、勘弁してくれ。俺はてっきり野党の名前が出てくると思ってたんだがな、よりによって……」[%p]"
 msgstr "12200:[name]判[line]「……モモちゃん、勘弁してくれ。俺はてっきり野党の名前が出てくると思ってたんだがな、よりによって……」[%p]"

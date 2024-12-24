@@ -147,8 +147,8 @@ msgstr "4400:[name]拓巳[line]「わ、分かった。おごる」[%p]"
 msgid "4500:[name]七海[line]「えっ、ホント！？\u3000今日のおにぃ、いつもと違うね！」[%p]"
 msgstr "4500:[name]七海[line]「えっ、ホント！？\u3000今日のおにぃ、いつもと違うね！」[%p]"
 
-msgid "4600:ま、嘘ですけどね！[linebreak]ふひひ、嘘つきで[color index="A0FF0000"]サーセン[color index="800000"]ｗｗｗ[%p]"
-msgstr "4600:ま、嘘ですけどね！[linebreak]ふひひ、嘘つきで[color index="A0FF0000"]サーセン[color index="800000"]ｗｗｗ[%p]"
+msgid "4600:ま、嘘ですけどね！[linebreak]ふひひ、嘘つきで[color index=\"A0FF0000\"]サーセン[color index=\"800000\"]ｗｗｗ[%p]"
+msgstr "4600:ま、嘘ですけどね！[linebreak]ふひひ、嘘つきで[color index=\"A0FF0000\"]サーセン[color index=\"800000\"]ｗｗｗ[%p]"
 
 msgid "4700:というわけで、七海に僕のケータイを手渡した。[%p]"
 msgstr "4700:というわけで、七海に僕のケータイを手渡した。[%p]"

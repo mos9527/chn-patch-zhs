@@ -9,8 +9,8 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:[name]梨深[line][margin top="266"][center]「あなたは……妄想の存在なんだよ」[%e]"
-msgstr "0:[name]梨深[line][margin top="266"][center]「あなたは……妄想の存在なんだよ」[%e]"
+msgid "0:[name]梨深[line][margin top=\"266\"][center]「あなたは……妄想の存在なんだよ」[%e]"
+msgstr "0:[name]梨深[line][margin top=\"266\"][center]「あなたは……妄想の存在なんだよ」[%e]"
 
 msgid "100:梨深が、意味不明な言葉をつぶやく。[%p]"
 msgstr "100:梨深が、意味不明な言葉をつぶやく。[%p]"

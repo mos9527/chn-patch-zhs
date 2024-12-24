@@ -153,8 +153,8 @@ msgstr "4600:[name]梨深[line]「なのに、あたしの心には――もっ�
 msgid "4700:[name]梨深[line]「この気持ちって、なんなのかな？」[%p]"
 msgstr "4700:[name]梨深[line]「この気持ちって、なんなのかな？」[%p]"
 
-msgid "4800:[name]タクミ[line]「[color index="A0FF0000"]インプリンティング[color index="800000"]のようなもの、かもしれないね」[%p]"
-msgstr "4800:[name]タクミ[line]「[color index="A0FF0000"]インプリンティング[color index="800000"]のようなもの、かもしれないね」[%p]"
+msgid "4800:[name]タクミ[line]「[color index=\"A0FF0000\"]インプリンティング[color index=\"800000\"]のようなもの、かもしれないね」[%p]"
+msgstr "4800:[name]タクミ[line]「[color index=\"A0FF0000\"]インプリンティング[color index=\"800000\"]のようなもの、かもしれないね」[%p]"
 
 msgid "4900:[name]梨深[line]「本能、っていうことかな。それって意外とロマンチックかも」[%p]"
 msgstr "4900:[name]梨深[line]「本能、っていうことかな。それって意外とロマンチックかも」[%p]"

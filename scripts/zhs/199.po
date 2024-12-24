@@ -264,8 +264,8 @@ msgstr "8300:だけど、必死に読もうとしている自分がいて。[%p]
 msgid "8400:よく見れば、[linebreak]そこに描かれた文字は、[%p]"
 msgstr "8400:よく見れば、[linebreak]そこに描かれた文字は、[%p]"
 
-msgid "8500:[margin top="266"][center]――その目だれの目？[unk19 index="30"]"
-msgstr "8500:[margin top="266"][center]――その目だれの目？[unk19 index="30"]"
+msgid "8500:[margin top=\"266\"][center]――その目だれの目？[unk19 index=\"30\"]"
+msgstr "8500:[margin top=\"266\"][center]――その目だれの目？[unk19 index=\"30\"]"
 
 msgid "8600:言葉を失った。[linebreak]目を離せなかった。[%p]"
 msgstr "8600:言葉を失った。[linebreak]目を離せなかった。[%p]"

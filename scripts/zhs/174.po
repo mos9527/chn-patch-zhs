@@ -483,8 +483,8 @@ msgstr "15600:……もう、やめてくれ。[%p]"
 msgid "15700:僕は自分の席にうずくまって、頭を抱えた。[%p]"
 msgstr "15700:僕は自分の席にうずくまって、頭を抱えた。[%p]"
 
-msgid "15800:世界はリセットされることもなくて。[linebreak]梨深がいる[color index="A0FF0000"]並行世界[color index="800000"]に戻ることもなくて。[%p]"
-msgstr "15800:世界はリセットされることもなくて。[linebreak]梨深がいる[color index="A0FF0000"]並行世界[color index="800000"]に戻ることもなくて。[%p]"
+msgid "15800:世界はリセットされることもなくて。[linebreak]梨深がいる[color index=\"A0FF0000\"]並行世界[color index=\"800000\"]に戻ることもなくて。[%p]"
+msgstr "15800:世界はリセットされることもなくて。[linebreak]梨深がいる[color index=\"A0FF0000\"]並行世界[color index=\"800000\"]に戻ることもなくて。[%p]"
 
 msgid "15900:どうやら、僕は、[linebreak]完全に、おかしくなっちゃったみたいだ。[%p]"
 msgstr "15900:どうやら、僕は、[linebreak]完全に、おかしくなっちゃったみたいだ。[%p]"

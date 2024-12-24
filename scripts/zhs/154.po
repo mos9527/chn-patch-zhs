@@ -153,8 +153,8 @@ msgstr "4600:まだ状況が整理できないでいるのに、セナはお構�
 msgid "4700:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 msgstr "4700:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 
-msgid "4800:[name]セナ[line]「[color index="A0FF0000"]天成神光会[color index="800000"]とは関係あるのか、ないのか！」[%p]"
-msgstr "4800:[name]セナ[line]「[color index="A0FF0000"]天成神光会[color index="800000"]とは関係あるのか、ないのか！」[%p]"
+msgid "4800:[name]セナ[line]「[color index=\"A0FF0000\"]天成神光会[color index=\"800000\"]とは関係あるのか、ないのか！」[%p]"
+msgstr "4800:[name]セナ[line]「[color index=\"A0FF0000\"]天成神光会[color index=\"800000\"]とは関係あるのか、ないのか！」[%p]"
 
 msgid "4900:な、なんだよその天成なんとかって……。[linebreak]僕は反射的に首を左右に振っていた。[%p]"
 msgstr "4900:な、なんだよその天成なんとかって……。[linebreak]僕は反射的に首を左右に振っていた。[%p]"
@@ -366,8 +366,8 @@ msgstr "11700:まだ状況が整理できないでいるのに、セナは僕の
 msgid "11800:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 msgstr "11800:[name]セナ[line]「誰からだ！\u3000答えろ！」[%p]"
 
-msgid "11900:[name]セナ[line]「[color index="A0FF0000"]天成神光会[color index="800000"]とは関係あるのか、ないのか！」[%p]"
-msgstr "11900:[name]セナ[line]「[color index="A0FF0000"]天成神光会[color index="800000"]とは関係あるのか、ないのか！」[%p]"
+msgid "11900:[name]セナ[line]「[color index=\"A0FF0000\"]天成神光会[color index=\"800000\"]とは関係あるのか、ないのか！」[%p]"
+msgstr "11900:[name]セナ[line]「[color index=\"A0FF0000\"]天成神光会[color index=\"800000\"]とは関係あるのか、ないのか！」[%p]"
 
 msgid "12000:な、なんだよその天成なんとかって……。[linebreak]僕は反射的に首を左右に振っていた。[%p]"
 msgstr "12000:な、なんだよその天成なんとかって……。[linebreak]僕は反射的に首を左右に振っていた。[%p]"
@@ -411,8 +411,8 @@ msgstr "13200:なんでこの女は……こんなに乱暴で……怖いんだ
 msgid "13300:助けて……誰か助けて……[%p]"
 msgstr "13300:助けて……誰か助けて……[%p]"
 
-msgid "13400:[name]セナ[line]「お前は[color index="A0FF0000"]天成神光会[color index="800000"]と関係があるのか？」[%p]"
-msgstr "13400:[name]セナ[line]「お前は[color index="A0FF0000"]天成神光会[color index="800000"]と関係があるのか？」[%p]"
+msgid "13400:[name]セナ[line]「お前は[color index=\"A0FF0000\"]天成神光会[color index=\"800000\"]と関係があるのか？」[%p]"
+msgstr "13400:[name]セナ[line]「お前は[color index=\"A0FF0000\"]天成神光会[color index=\"800000\"]と関係があるのか？」[%p]"
 
 msgid "13500:[name]拓巳[line]「がはっ……え……？」[%p]"
 msgstr "13500:[name]拓巳[line]「がはっ……え……？」[%p]"

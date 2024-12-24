@@ -57,8 +57,8 @@ msgstr "1400:下半分がいかにも難しそうな学術書や、ＰＣ関係�
 msgid "1500:優愛はもう一度ため息をつき、身体を仰向けにして天井を見つめた。[%p]"
 msgstr "1500:優愛はもう一度ため息をつき、身体を仰向けにして天井を見つめた。[%p]"
 
-msgid "1600:[name]優愛[line]「[color index="A0FF0000"]ＤＩＤ[color index="800000"]……」[%p]"
-msgstr "1600:[name]優愛[line]「[color index="A0FF0000"]ＤＩＤ[color index="800000"]……」[%p]"
+msgid "1600:[name]優愛[line]「[color index=\"A0FF0000\"]ＤＩＤ[color index=\"800000\"]……」[%p]"
+msgstr "1600:[name]優愛[line]「[color index=\"A0FF0000\"]ＤＩＤ[color index=\"800000\"]……」[%p]"
 
 msgid "1700:つぶやいたのは、さっきまでＰＣで調べていた、心の病の名。[%p]"
 msgstr "1700:つぶやいたのは、さっきまでＰＣで調べていた、心の病の名。[%p]"

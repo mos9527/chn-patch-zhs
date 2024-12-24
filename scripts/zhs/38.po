@@ -105,8 +105,8 @@ msgstr "3000:うう、こんな理不尽なことったらないよ……。[%p]
 msgid "3100:[name]？？？[line]「おーーーにーーー！」[%p]"
 msgstr "3100:[name]？？？[line]「おーーーにーーー！」[%p]"
 
-msgid "3200:[color index="A0FF0000"]ｕｚｅｅｅｅｅｅｅｅｅｅｅ！[color index="800000"][%p]"
-msgstr "3200:[color index="A0FF0000"]ｕｚｅｅｅｅｅｅｅｅｅｅｅ！[color index="800000"][%p]"
+msgid "3200:[color index=\"A0FF0000\"]ｕｚｅｅｅｅｅｅｅｅｅｅｅ！[color index=\"800000\"][%p]"
+msgstr "3200:[color index=\"A0FF0000\"]ｕｚｅｅｅｅｅｅｅｅｅｅｅ！[color index=\"800000\"][%p]"
 
 msgid "3300:そんな大声でわめき散らすなよ……。[%p]"
 msgstr "3300:そんな大声でわめき散らすなよ……。[%p]"

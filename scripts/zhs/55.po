@@ -660,8 +660,8 @@ msgstr "21500:“まだ”ってどういう意味だ！？[%p]"
 msgid "21600:[name]優愛[line]「それじゃ、もうひとつ確認させてください」[%p]"
 msgstr "21600:[name]優愛[line]「それじゃ、もうひとつ確認させてください」[%p]"
 
-msgid "21700:[name]優愛[line]「あなたには、[color index="A0FF0000"]予知能力[color index="800000"]がありますか？」[%p]"
-msgstr "21700:[name]優愛[line]「あなたには、[color index="A0FF0000"]予知能力[color index="800000"]がありますか？」[%p]"
+msgid "21700:[name]優愛[line]「あなたには、[color index=\"A0FF0000\"]予知能力[color index=\"800000\"]がありますか？」[%p]"
+msgstr "21700:[name]優愛[line]「あなたには、[color index=\"A0FF0000\"]予知能力[color index=\"800000\"]がありますか？」[%p]"
 
 msgid "21800:[name]拓巳[line]「は……？」[%p]"
 msgstr "21800:[name]拓巳[line]「は……？」[%p]"
@@ -840,14 +840,14 @@ msgstr "27500:やがて視線をまっすぐに僕へと見据え、残酷な事
 msgid "27600:[name]優愛[line]「あなたひとりの自作自演……」[%p]"
 msgstr "27600:[name]優愛[line]「あなたひとりの自作自演……」[%p]"
 
-msgid "27700:[margin top="266"][center]――僕を、見るな。[unk19 index="30"]"
-msgstr "27700:[margin top="266"][center]――僕を、見るな。[unk19 index="30"]"
+msgid "27700:[margin top=\"266\"][center]――僕を、見るな。[unk19 index=\"30\"]"
+msgstr "27700:[margin top=\"266\"][center]――僕を、見るな。[unk19 index=\"30\"]"
 
 msgid "27800:[name]優愛[line]「『将軍』は――」[%p]"
 msgstr "27800:[name]優愛[line]「『将軍』は――」[%p]"
 
-msgid "27900:[margin top="266"][center]――僕を、見るな！[unk19 index="30"]"
-msgstr "27900:[margin top="266"][center]――僕を、見るな！[unk19 index="30"]"
+msgid "27900:[margin top=\"266\"][center]――僕を、見るな！[unk19 index=\"30\"]"
+msgstr "27900:[margin top=\"266\"][center]――僕を、見るな！[unk19 index=\"30\"]"
 
 msgid "28000:[name]優愛[line]「あなた自身」[%p]"
 msgstr "28000:[name]優愛[line]「あなた自身」[%p]"

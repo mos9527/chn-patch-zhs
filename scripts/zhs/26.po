@@ -9,44 +9,44 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:[margin top="266"][center]“視線”は見えない。[%e]"
-msgstr "0:[margin top="266"][center]“視線”は見えない。[%e]"
+msgid "0:[margin top=\"266\"][center]“視線”は見えない。[%e]"
+msgstr "0:[margin top=\"266\"][center]“視線”は見えない。[%e]"
 
-msgid "100:[margin top="266"][center]見えているのに見えないなんて、変な話だ。[%e]"
-msgstr "100:[margin top="266"][center]見えているのに見えないなんて、変な話だ。[%e]"
+msgid "100:[margin top=\"266\"][center]見えているのに見えないなんて、変な話だ。[%e]"
+msgstr "100:[margin top=\"266\"][center]見えているのに見えないなんて、変な話だ。[%e]"
 
-msgid "200:[margin top="266"][center]物心ついた頃から、[linebreak]僕はどこからかの“視線”を感じることが何度かあった。[%e]"
-msgstr "200:[margin top="266"][center]物心ついた頃から、[linebreak]僕はどこからかの“視線”を感じることが何度かあった。[%e]"
+msgid "200:[margin top=\"266\"][center]物心ついた頃から、[linebreak]僕はどこからかの“視線”を感じることが何度かあった。[%e]"
+msgstr "200:[margin top=\"266\"][center]物心ついた頃から、[linebreak]僕はどこからかの“視線”を感じることが何度かあった。[%e]"
 
-msgid "300:[margin top="266"][center]振り返っても、誰もいない。[linebreak][unk07 unk="60"]でも見られていたっていう確信があった。[%e]"
-msgstr "300:[margin top="266"][center]振り返っても、誰もいない。[linebreak][unk07 unk="60"]でも見られていたっていう確信があった。[%e]"
+msgid "300:[margin top=\"266\"][center]振り返っても、誰もいない。[linebreak][unk07 unk=\"60\"]でも見られていたっていう確信があった。[%e]"
+msgstr "300:[margin top=\"266\"][center]振り返っても、誰もいない。[linebreak][unk07 unk=\"60\"]でも見られていたっていう確信があった。[%e]"
 
-msgid "400:[margin top="266"][center]首筋あたりが、ゾワゾワとするような感覚。[%e]"
-msgstr "400:[margin top="266"][center]首筋あたりが、ゾワゾワとするような感覚。[%e]"
+msgid "400:[margin top=\"266\"][center]首筋あたりが、ゾワゾワとするような感覚。[%e]"
+msgstr "400:[margin top=\"266\"][center]首筋あたりが、ゾワゾワとするような感覚。[%e]"
 
-msgid "500:[margin top="266"][center]それって、ただの自意識過剰？[%e]"
-msgstr "500:[margin top="266"][center]それって、ただの自意識過剰？[%e]"
+msgid "500:[margin top=\"266\"][center]それって、ただの自意識過剰？[%e]"
+msgstr "500:[margin top=\"266\"][center]それって、ただの自意識過剰？[%e]"
 
-msgid "600:[margin top="266"][center]それとも、視線恐怖症？[%e]"
-msgstr "600:[margin top="266"][center]それとも、視線恐怖症？[%e]"
+msgid "600:[margin top=\"266\"][center]それとも、視線恐怖症？[%e]"
+msgstr "600:[margin top=\"266\"][center]それとも、視線恐怖症？[%e]"
 
-msgid "700:[margin top="228"][center]小学生くらいまで[linebreak][unk07 unk="60"]“きっと神様が僕の事を見つめてくれているんだろう”[linebreak][unk07 unk="60"]なんて本気で思ってた。[%e]"
-msgstr "700:[margin top="228"][center]小学生くらいまで[linebreak][unk07 unk="60"]“きっと神様が僕の事を見つめてくれているんだろう”[linebreak][unk07 unk="60"]なんて本気で思ってた。[%e]"
+msgid "700:[margin top=\"228\"][center]小学生くらいまで[linebreak][unk07 unk=\"60\"]“きっと神様が僕の事を見つめてくれているんだろう”[linebreak][unk07 unk=\"60\"]なんて本気で思ってた。[%e]"
+msgstr "700:[margin top=\"228\"][center]小学生くらいまで[linebreak][unk07 unk=\"60\"]“きっと神様が僕の事を見つめてくれているんだろう”[linebreak][unk07 unk=\"60\"]なんて本気で思ってた。[%e]"
 
-msgid "800:[margin top="266"][center]その頃書いた作文でも、そんなようなことをテーマにしてた。[%e]"
-msgstr "800:[margin top="266"][center]その頃書いた作文でも、そんなようなことをテーマにしてた。[%e]"
+msgid "800:[margin top=\"266\"][center]その頃書いた作文でも、そんなようなことをテーマにしてた。[%e]"
+msgstr "800:[margin top=\"266\"][center]その頃書いた作文でも、そんなようなことをテーマにしてた。[%e]"
 
-msgid "900:[margin top="266"][center]もちろん今思えばそんなの、どう考えても中２病だ。[linebreak][unk07 unk="60"]イタいったらないよ。[%e]"
-msgstr "900:[margin top="266"][center]もちろん今思えばそんなの、どう考えても中２病だ。[linebreak][unk07 unk="60"]イタいったらないよ。[%e]"
+msgid "900:[margin top=\"266\"][center]もちろん今思えばそんなの、どう考えても中２病だ。[linebreak][unk07 unk=\"60\"]イタいったらないよ。[%e]"
+msgstr "900:[margin top=\"266\"][center]もちろん今思えばそんなの、どう考えても中２病だ。[linebreak][unk07 unk=\"60\"]イタいったらないよ。[%e]"
 
-msgid "1000:[margin top="266"][center]今誰かに読まれるなんてことになったら、[linebreak]僕は一生引きこもるね。[%e]"
-msgstr "1000:[margin top="266"][center]今誰かに読まれるなんてことになったら、[linebreak]僕は一生引きこもるね。[%e]"
+msgid "1000:[margin top=\"266\"][center]今誰かに読まれるなんてことになったら、[linebreak]僕は一生引きこもるね。[%e]"
+msgstr "1000:[margin top=\"266\"][center]今誰かに読まれるなんてことになったら、[linebreak]僕は一生引きこもるね。[%e]"
 
-msgid "1100:[margin top="266"][center]ふひひ。[%e]"
-msgstr "1100:[margin top="266"][center]ふひひ。[%e]"
+msgid "1100:[margin top=\"266\"][center]ふひひ。[%e]"
+msgstr "1100:[margin top=\"266\"][center]ふひひ。[%e]"
 
-msgid "1200:[margin top="266"][center]あの作文のタイトルは、今でもよく覚えてる。[%e]"
-msgstr "1200:[margin top="266"][center]あの作文のタイトルは、今でもよく覚えてる。[%e]"
+msgid "1200:[margin top=\"266\"][center]あの作文のタイトルは、今でもよく覚えてる。[%e]"
+msgstr "1200:[margin top=\"266\"][center]あの作文のタイトルは、今でもよく覚えてる。[%e]"
 
 msgid "1300:背中を預けていたイスの背もたれが、しわがれた声みたいな音をたてて軋んだ。[%p]"
 msgstr "1300:背中を預けていたイスの背もたれが、しわがれた声みたいな音をたてて軋んだ。[%p]"
@@ -141,8 +141,8 @@ msgstr "4200:[name]拓巳[line]「ここがアキバなら最高だったのに�
 msgid "4300:[name]拓巳[line]「ホント、渋谷ってひどい街だ。『エンスー』で言うとディーンズヴァレーくらいひどい」[%p]"
 msgstr "4300:[name]拓巳[line]「ホント、渋谷ってひどい街だ。『エンスー』で言うとディーンズヴァレーくらいひどい」[%p]"
 
-msgid "4400:エンスーっていうのは、僕がライフワークにしてる[color index="A0FF0000"]ＭＭＯＲＰＧ[color index="800000"]の略称。[%p]"
-msgstr "4400:エンスーっていうのは、僕がライフワークにしてる[color index="A0FF0000"]ＭＭＯＲＰＧ[color index="800000"]の略称。[%p]"
+msgid "4400:エンスーっていうのは、僕がライフワークにしてる[color index=\"A0FF0000\"]ＭＭＯＲＰＧ[color index=\"800000\"]の略称。[%p]"
+msgstr "4400:エンスーっていうのは、僕がライフワークにしてる[color index=\"A0FF0000\"]ＭＭＯＲＰＧ[color index=\"800000\"]の略称。[%p]"
 
 msgid "4500:正式なタイトルは『エンパイア・スウィーパー・オンライン』。[%p]"
 msgstr "4500:正式なタイトルは『エンパイア・スウィーパー・オンライン』。[%p]"
@@ -165,8 +165,8 @@ msgstr "5000:上級者ならあんなところはすぐに見限って隣のリ�
 msgid "5100:もちろん僕もそうした。[%p]"
 msgstr "5100:もちろん僕もそうした。[%p]"
 
-msgid "5200:[name]拓巳[line]「というわけで、[color index="A0FF0000"]ＤＱＮ[color index="800000"]と恋愛資本主義者が集まるこんな街は、即刻滅ぶべきだね」[%p]"
-msgstr "5200:[name]拓巳[line]「というわけで、[color index="A0FF0000"]ＤＱＮ[color index="800000"]と恋愛資本主義者が集まるこんな街は、即刻滅ぶべきだね」[%p]"
+msgid "5200:[name]拓巳[line]「というわけで、[color index=\"A0FF0000\"]ＤＱＮ[color index=\"800000\"]と恋愛資本主義者が集まるこんな街は、即刻滅ぶべきだね」[%p]"
+msgstr "5200:[name]拓巳[line]「というわけで、[color index=\"A0FF0000\"]ＤＱＮ[color index=\"800000\"]と恋愛資本主義者が集まるこんな街は、即刻滅ぶべきだね」[%p]"
 
 msgid "5300:[name]拓巳[line]「でもこの部屋の住み心地はまあまあ我慢できるレベル。[%p]"
 msgstr "5300:[name]拓巳[line]「でもこの部屋の住み心地はまあまあ我慢できるレベル。[%p]"
@@ -228,8 +228,8 @@ msgstr "7100:僕はホッと息をついてから、空のペットボトルを�
 msgid "7200:部屋の一番奥に鎮座しているのが僕のマイＰＣ。[%p]"
 msgstr "7200:部屋の一番奥に鎮座しているのが僕のマイＰＣ。[%p]"
 
-msgid "7300:モニタの横にいるのは、今一番お気に入りのアニメ、[linebreak]ブラチュー――『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』の[linebreak][color index="A0FF0000"][ruby-base]星来[ruby-text-start]せいら[ruby-text-end]たん（１／８スケール・覚醒前ｖｅｒ）[color index="800000"]だ。[%p]"
-msgstr "7300:モニタの横にいるのは、今一番お気に入りのアニメ、[linebreak]ブラチュー――『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』の[linebreak][color index="A0FF0000"][ruby-base]星来[ruby-text-start]せいら[ruby-text-end]たん（１／８スケール・覚醒前ｖｅｒ）[color index="800000"]だ。[%p]"
+msgid "7300:モニタの横にいるのは、今一番お気に入りのアニメ、[linebreak]ブラチュー――『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』の[linebreak][color index=\"A0FF0000\"][ruby-base]星来[ruby-text-start]せいら[ruby-text-end]たん（１／８スケール・覚醒前ｖｅｒ）[color index=\"800000\"]だ。[%p]"
+msgstr "7300:モニタの横にいるのは、今一番お気に入りのアニメ、[linebreak]ブラチュー――『ブラッドチューン\u3000ＴＨＥ ＡＮＩＭＡＴＩＯＮ』の[linebreak][color index=\"A0FF0000\"][ruby-base]星来[ruby-text-start]せいら[ruby-text-end]たん（１／８スケール・覚醒前ｖｅｒ）[color index=\"800000\"]だ。[%p]"
 
 msgid "7400:萌えるポーズを取って僕に微笑みかけてくれている。[%p]"
 msgstr "7400:萌えるポーズを取って僕に微笑みかけてくれている。[%p]"
@@ -249,8 +249,8 @@ msgstr "7800:[name]拓巳[line]「さてと、エンスらないと」[%p]"
 msgid "7900:イスに腰を落ち着けて、キーボードに両手を添えた。[linebreak]こうするだけで気分が落ち着く。[%p]"
 msgstr "7900:イスに腰を落ち着けて、キーボードに両手を添えた。[linebreak]こうするだけで気分が落ち着く。[%p]"
 
-msgid "8000:エンスーでの僕のキャラである『ナイトハルト』は、すでに２回転生済みの[color index="A0FF0000"]パラディン[color index="800000"]。[%p]"
-msgstr "8000:エンスーでの僕のキャラである『ナイトハルト』は、すでに２回転生済みの[color index="A0FF0000"]パラディン[color index="800000"]。[%p]"
+msgid "8000:エンスーでの僕のキャラである『ナイトハルト』は、すでに２回転生済みの[color index=\"A0FF0000\"]パラディン[color index=\"800000\"]。[%p]"
+msgstr "8000:エンスーでの僕のキャラである『ナイトハルト』は、すでに２回転生済みの[color index=\"A0FF0000\"]パラディン[color index=\"800000\"]。[%p]"
 
 msgid "8100:レベルは当然マックスの５０。これは稼働中のサーバ内でも最高ランクだ。[%p]"
 msgstr "8100:レベルは当然マックスの５０。これは稼働中のサーバ内でも最高ランクだ。[%p]"
@@ -264,8 +264,8 @@ msgstr "8300:みんなは僕を神扱いだ。[%p]"
 msgid "8400:レア武器、レア防具、レア魔法についてはコンプリート。[linebreak]レアアイテムのコンプ率は９５％……まぁ、ちと苦戦中。[%p]"
 msgstr "8400:レア武器、レア防具、レア魔法についてはコンプリート。[linebreak]レアアイテムのコンプ率は９５％……まぁ、ちと苦戦中。[%p]"
 
-msgid "8500:マネーポイントは使い切れないほどある。[linebreak][color index="A0FF0000"]ＲＭＴ[color index="800000"]――リアルマネートレードで小遣い稼ぎもしてるからバイトしなくても半年は生きていける。[%p]"
-msgstr "8500:マネーポイントは使い切れないほどある。[linebreak][color index="A0FF0000"]ＲＭＴ[color index="800000"]――リアルマネートレードで小遣い稼ぎもしてるからバイトしなくても半年は生きていける。[%p]"
+msgid "8500:マネーポイントは使い切れないほどある。[linebreak][color index=\"A0FF0000\"]ＲＭＴ[color index=\"800000\"]――リアルマネートレードで小遣い稼ぎもしてるからバイトしなくても半年は生きていける。[%p]"
+msgstr "8500:マネーポイントは使い切れないほどある。[linebreak][color index=\"A0FF0000\"]ＲＭＴ[color index=\"800000\"]――リアルマネートレードで小遣い稼ぎもしてるからバイトしなくても半年は生きていける。[%p]"
 
 msgid "8600:チャットは大得意だ。[%p]"
 msgstr "8600:チャットは大得意だ。[%p]"
@@ -276,17 +276,17 @@ msgstr "8700:基本的なコミュニケーションは全部これで済ます�
 msgid "8800:巨大匿名掲示板『＠ちゃんねる』で人助けしたことだってある。祭にもよく参加する。[%p]"
 msgstr "8800:巨大匿名掲示板『＠ちゃんねる』で人助けしたことだってある。祭にもよく参加する。[%p]"
 
-msgid "8900:あ、そうそう、『フレパラ』――[color index="A0FF0000"]ＳＮＳ[color index="800000"]のことだね――のマイフレンドリストも、とっくに１００人を超えた。[%p]"
-msgstr "8900:あ、そうそう、『フレパラ』――[color index="A0FF0000"]ＳＮＳ[color index="800000"]のことだね――のマイフレンドリストも、とっくに１００人を超えた。[%p]"
+msgid "8900:あ、そうそう、『フレパラ』――[color index=\"A0FF0000\"]ＳＮＳ[color index=\"800000\"]のことだね――のマイフレンドリストも、とっくに１００人を超えた。[%p]"
+msgstr "8900:あ、そうそう、『フレパラ』――[color index=\"A0FF0000\"]ＳＮＳ[color index=\"800000\"]のことだね――のマイフレンドリストも、とっくに１００人を超えた。[%p]"
 
-msgid "9000:[margin top="190"][margin left="380"]尊敬も、[linebreak]"
-msgstr "9000:[margin top="190"][margin left="380"]尊敬も、[linebreak]"
+msgid "9000:[margin top=\"190\"][margin left=\"380\"]尊敬も、[linebreak]"
+msgstr "9000:[margin top=\"190\"][margin left=\"380\"]尊敬も、[linebreak]"
 
-msgid "9100:[margin left="380"]信頼も、[linebreak]"
-msgstr "9100:[margin left="380"]信頼も、[linebreak]"
+msgid "9100:[margin left=\"380\"]信頼も、[linebreak]"
+msgstr "9100:[margin left=\"380\"]信頼も、[linebreak]"
 
-msgid "9200:[margin left="380"]全部ここにある。[%18]"
-msgstr "9200:[margin left="380"]全部ここにある。[%18]"
+msgid "9200:[margin left=\"380\"]全部ここにある。[%18]"
+msgstr "9200:[margin left=\"380\"]全部ここにある。[%18]"
 
 msgid "9300:僕は学校には行かない。[%p]"
 msgstr "9300:僕は学校には行かない。[%p]"

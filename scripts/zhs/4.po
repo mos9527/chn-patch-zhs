@@ -15,60 +15,60 @@ msgstr "0:"
 msgid "100:"
 msgstr "100:"
 
-msgid "200:[color index="800000"]【 ＥＸＴＲＡ 】の"
-msgstr "200:[color index="800000"]【 ＥＸＴＲＡ 】の"
+msgid "200:[color index=\"800000\"]【 ＥＸＴＲＡ 】の"
+msgstr "200:[color index=\"800000\"]【 ＥＸＴＲＡ 】の"
 
-msgid "300:[color index="800000"]【 ＣＯＮＴＩＮＵＥ 】の"
-msgstr "300:[color index="800000"]【 ＣＯＮＴＩＮＵＥ 】の"
+msgid "300:[color index=\"800000\"]【 ＣＯＮＴＩＮＵＥ 】の"
+msgstr "300:[color index=\"800000\"]【 ＣＯＮＴＩＮＵＥ 】の"
 
-msgid "400:[color index="A01F0000"]【 Ｃｌｅａｒ Ｌｉｓｔ 】"
-msgstr "400:[color index="A01F0000"]【 Ｃｌｅａｒ Ｌｉｓｔ 】"
+msgid "400:[color index=\"A01F0000\"]【 Ｃｌｅａｒ Ｌｉｓｔ 】"
+msgstr "400:[color index=\"A01F0000\"]【 Ｃｌｅａｒ Ｌｉｓｔ 】"
 
-msgid "500:[color index="A01F0000"]【 ＣＧ ＬＩＢＲＡＲＹ 】"
-msgstr "500:[color index="A01F0000"]【 ＣＧ ＬＩＢＲＡＲＹ 】"
+msgid "500:[color index=\"A01F0000\"]【 ＣＧ ＬＩＢＲＡＲＹ 】"
+msgstr "500:[color index=\"A01F0000\"]【 ＣＧ ＬＩＢＲＡＲＹ 】"
 
-msgid "600:[color index="A01F0000"]【 ＳＯＵＮＤ ＬＩＢＲＡＲＹ 】"
-msgstr "600:[color index="A01F0000"]【 ＳＯＵＮＤ ＬＩＢＲＡＲＹ 】"
+msgid "600:[color index=\"A01F0000\"]【 ＳＯＵＮＤ ＬＩＢＲＡＲＹ 】"
+msgstr "600:[color index=\"A01F0000\"]【 ＳＯＵＮＤ ＬＩＢＲＡＲＹ 】"
 
-msgid "700:[color index="A01F0000"]【 ＭＯＶＩＥ ＬＩＢＲＡＲＹ 】"
-msgstr "700:[color index="A01F0000"]【 ＭＯＶＩＥ ＬＩＢＲＡＲＹ 】"
+msgid "700:[color index=\"A01F0000\"]【 ＭＯＶＩＥ ＬＩＢＲＡＲＹ 】"
+msgstr "700:[color index=\"A01F0000\"]【 ＭＯＶＩＥ ＬＩＢＲＡＲＹ 】"
 
-msgid "800:[color index="A01F0000"]【 メッセージ既読率 】"
-msgstr "800:[color index="A01F0000"]【 メッセージ既読率 】"
+msgid "800:[color index=\"A01F0000\"]【 メッセージ既読率 】"
+msgstr "800:[color index=\"A01F0000\"]【 メッセージ既読率 】"
 
-msgid "900:[color index="A01F0000"]【 ＳＨＯＲＴＣＵＴ 】"
-msgstr "900:[color index="A01F0000"]【 ＳＨＯＲＴＣＵＴ 】"
+msgid "900:[color index=\"A01F0000\"]【 ＳＨＯＲＴＣＵＴ 】"
+msgstr "900:[color index=\"A01F0000\"]【 ＳＨＯＲＴＣＵＴ 】"
 
-msgid "1000:[color index="800000"]が使用可能になりました。"
-msgstr "1000:[color index="800000"]が使用可能になりました。"
+msgid "1000:[color index=\"800000\"]が使用可能になりました。"
+msgstr "1000:[color index=\"800000\"]が使用可能になりました。"
 
-msgid "1100:[color index="800000"]が追加されました。"
-msgstr "1100:[color index="800000"]が追加されました。"
+msgid "1100:[color index=\"800000\"]が追加されました。"
+msgstr "1100:[color index=\"800000\"]が追加されました。"
 
-msgid "1200:[color index="A0FF0000"]【 ｓｉｌｅｎｔ ｓｋｙ 】エンド"
-msgstr "1200:[color index="A0FF0000"]【 ｓｉｌｅｎｔ ｓｋｙ 】エンド"
+msgid "1200:[color index=\"A0FF0000\"]【 ｓｉｌｅｎｔ ｓｋｙ 】エンド"
+msgstr "1200:[color index=\"A0FF0000\"]【 ｓｉｌｅｎｔ ｓｋｙ 】エンド"
 
-msgid "1300:[color index="A0FF0000"]【 ｃｒｙｉｎｇ ｓｋｙ 】エンド"
-msgstr "1300:[color index="A0FF0000"]【 ｃｒｙｉｎｇ ｓｋｙ 】エンド"
+msgid "1300:[color index=\"A0FF0000\"]【 ｃｒｙｉｎｇ ｓｋｙ 】エンド"
+msgstr "1300:[color index=\"A0FF0000\"]【 ｃｒｙｉｎｇ ｓｋｙ 】エンド"
 
-msgid "1400:[color index="A0FF0000"]【 アニマの像 】エンド"
-msgstr "1400:[color index="A0FF0000"]【 アニマの像 】エンド"
+msgid "1400:[color index=\"A0FF0000\"]【 アニマの像 】エンド"
+msgstr "1400:[color index=\"A0FF0000\"]【 アニマの像 】エンド"
 
-msgid "1500:[color index="A0FF0000"]【 ｄａｙｄｒｅａｍ 】エンド"
-msgstr "1500:[color index="A0FF0000"]【 ｄａｙｄｒｅａｍ 】エンド"
+msgid "1500:[color index=\"A0FF0000\"]【 ｄａｙｄｒｅａｍ 】エンド"
+msgstr "1500:[color index=\"A0FF0000\"]【 ｄａｙｄｒｅａｍ 】エンド"
 
-msgid "1600:[color index="A0FF0000"]【 月と太陽 】エンド"
-msgstr "1600:[color index="A0FF0000"]【 月と太陽 】エンド"
+msgid "1600:[color index=\"A0FF0000\"]【 月と太陽 】エンド"
+msgstr "1600:[color index=\"A0FF0000\"]【 月と太陽 】エンド"
 
-msgid "1700:[color index="A0FF0000"]【 罪過に契約の血を 】エンド"
-msgstr "1700:[color index="A0FF0000"]【 罪過に契約の血を 】エンド"
+msgid "1700:[color index=\"A0FF0000\"]【 罪過に契約の血を 】エンド"
+msgstr "1700:[color index=\"A0FF0000\"]【 罪過に契約の血を 】エンド"
 
-msgid "1800:[color index="A0FF0000"]【 デウス・エクス・マキナ 】エンド"
-msgstr "1800:[color index="A0FF0000"]【 デウス・エクス・マキナ 】エンド"
+msgid "1800:[color index=\"A0FF0000\"]【 デウス・エクス・マキナ 】エンド"
+msgstr "1800:[color index=\"A0FF0000\"]【 デウス・エクス・マキナ 】エンド"
 
-msgid "1900:[color index="A0FF0000"]【 殺戮に至る病 】エンド"
-msgstr "1900:[color index="A0FF0000"]【 殺戮に至る病 】エンド"
+msgid "1900:[color index=\"A0FF0000\"]【 殺戮に至る病 】エンド"
+msgstr "1900:[color index=\"A0FF0000\"]【 殺戮に至る病 】エンド"
 
-msgid "2000:[color index="A0FF0000"]【 ｂｌｕｅ ｓｋｙ 】エンド"
-msgstr "2000:[color index="A0FF0000"]【 ｂｌｕｅ ｓｋｙ 】エンド"
+msgid "2000:[color index=\"A0FF0000\"]【 ｂｌｕｅ ｓｋｙ 】エンド"
+msgstr "2000:[color index=\"A0FF0000\"]【 ｂｌｕｅ ｓｋｙ 】エンド"
 

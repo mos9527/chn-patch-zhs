@@ -33,8 +33,8 @@ msgstr "600:暗闇の中にいると、醜い自分を意識しなくてもよ�
 msgid "700:なにも見えず、とても静かなせいもあって、さっき梨深に言われたあの残酷な言葉が頭の中で延々とリピートされる。[%p]"
 msgstr "700:なにも見えず、とても静かなせいもあって、さっき梨深に言われたあの残酷な言葉が頭の中で延々とリピートされる。[%p]"
 
-msgid "800:[name]梨深[line][margin top="266"][center]「あなたは……妄想の存在なんだよ」[%e]"
-msgstr "800:[name]梨深[line][margin top="266"][center]「あなたは……妄想の存在なんだよ」[%e]"
+msgid "800:[name]梨深[line][margin top=\"266\"][center]「あなたは……妄想の存在なんだよ」[%e]"
+msgstr "800:[name]梨深[line][margin top=\"266\"][center]「あなたは……妄想の存在なんだよ」[%e]"
 
 msgid "900:[name]拓巳[line]「うぅぅ……」[%p]"
 msgstr "900:[name]拓巳[line]「うぅぅ……」[%p]"

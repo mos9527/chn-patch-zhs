@@ -198,8 +198,8 @@ msgstr "6100:いかなるものをも、触れるだけで自己崩壊させる�
 msgid "6200:あまりにもどん欲な、破壊の噴流。[%p]"
 msgstr "6200:あまりにもどん欲な、破壊の噴流。[%p]"
 
-msgid "6300:[name]拓巳[line]「[color index="A0FF0000"]触手ゲー[color index="800000"]は、あんまり好みじゃないけど」[%p]"
-msgstr "6300:[name]拓巳[line]「[color index="A0FF0000"]触手ゲー[color index="800000"]は、あんまり好みじゃないけど」[%p]"
+msgid "6300:[name]拓巳[line]「[color index=\"A0FF0000\"]触手ゲー[color index=\"800000\"]は、あんまり好みじゃないけど」[%p]"
+msgstr "6300:[name]拓巳[line]「[color index=\"A0FF0000\"]触手ゲー[color index=\"800000\"]は、あんまり好みじゃないけど」[%p]"
 
 msgid "6400:拓巳はその場でディソードを振り。[linebreak]切っ先を、野呂瀬へと固定した。[%p]"
 msgstr "6400:拓巳はその場でディソードを振り。[linebreak]切っ先を、野呂瀬へと固定した。[%p]"
@@ -237,8 +237,8 @@ msgstr "7400:野呂瀬は死は恐れていない。[linebreak]彼の目指し�
 msgid "7500:[name]野呂瀬[line]「私を殺しても、ノアⅡには誰も近づけない」[%p]"
 msgstr "7500:[name]野呂瀬[line]「私を殺しても、ノアⅡには誰も近づけない」[%p]"
 
-msgid "7600:[name]野呂瀬[line]「[color index="A0FF0000"]永久機関[color index="800000"]なんですよ、それは」[%p]"
-msgstr "7600:[name]野呂瀬[line]「[color index="A0FF0000"]永久機関[color index="800000"]なんですよ、それは」[%p]"
+msgid "7600:[name]野呂瀬[line]「[color index=\"A0FF0000\"]永久機関[color index=\"800000\"]なんですよ、それは」[%p]"
+msgstr "7600:[name]野呂瀬[line]「[color index=\"A0FF0000\"]永久機関[color index=\"800000\"]なんですよ、それは」[%p]"
 
 msgid "7700:[name]野呂瀬[line]「人類を、未来永劫に渡って管理し続ける」[%p]"
 msgstr "7700:[name]野呂瀬[line]「人類を、未来永劫に渡って管理し続ける」[%p]"

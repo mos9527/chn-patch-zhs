@@ -183,14 +183,14 @@ msgstr "5600:ちなみにこれは『通りゃんせ』っていう童謡だ。[
 msgid "5700:メロディは知っている人が多くても、歌詞まで知ってる人は少ないだろう。あ、ちなみに僕は知ってるよ。小学生のときに習ったからね。まあ、完璧に覚えてる、ってわけじゃないけど。[%p]"
 msgstr "5700:メロディは知っている人が多くても、歌詞まで知ってる人は少ないだろう。あ、ちなみに僕は知ってるよ。小学生のときに習ったからね。まあ、完璧に覚えてる、ってわけじゃないけど。[%p]"
 
-msgid "5800:[margin top="190"][margin left="340"]通りゃんせ\u3000通りゃんせ[linebreak][margin left="340"]ここはどこの\u3000細道じゃ[linebreak][margin left="340"]天神さまの\u3000細道じゃ[unk19 index="0"]"
-msgstr "5800:[margin top="190"][margin left="340"]通りゃんせ\u3000通りゃんせ[linebreak][margin left="340"]ここはどこの\u3000細道じゃ[linebreak][margin left="340"]天神さまの\u3000細道じゃ[unk19 index="0"]"
+msgid "5800:[margin top=\"190\"][margin left=\"340\"]通りゃんせ\u3000通りゃんせ[linebreak][margin left=\"340\"]ここはどこの\u3000細道じゃ[linebreak][margin left=\"340\"]天神さまの\u3000細道じゃ[unk19 index=\"0\"]"
+msgstr "5800:[margin top=\"190\"][margin left=\"340\"]通りゃんせ\u3000通りゃんせ[linebreak][margin left=\"340\"]ここはどこの\u3000細道じゃ[linebreak][margin left=\"340\"]天神さまの\u3000細道じゃ[unk19 index=\"0\"]"
 
-msgid "5900:[margin top="190"][margin left="340"]ちょっと通して\u3000くだしゃんせ[linebreak][margin left="340"]御用のないもの\u3000通しゃせぬ[linebreak][margin left="340"]この子の七つの\u3000お祝いに[unk19 index="0"]"
-msgstr "5900:[margin top="190"][margin left="340"]ちょっと通して\u3000くだしゃんせ[linebreak][margin left="340"]御用のないもの\u3000通しゃせぬ[linebreak][margin left="340"]この子の七つの\u3000お祝いに[unk19 index="0"]"
+msgid "5900:[margin top=\"190\"][margin left=\"340\"]ちょっと通して\u3000くだしゃんせ[linebreak][margin left=\"340\"]御用のないもの\u3000通しゃせぬ[linebreak][margin left=\"340\"]この子の七つの\u3000お祝いに[unk19 index=\"0\"]"
+msgstr "5900:[margin top=\"190\"][margin left=\"340\"]ちょっと通して\u3000くだしゃんせ[linebreak][margin left=\"340\"]御用のないもの\u3000通しゃせぬ[linebreak][margin left=\"340\"]この子の七つの\u3000お祝いに[unk19 index=\"0\"]"
 
-msgid "6000:[margin top="228"][margin left="340"]お札を納めに\u3000参ります[linebreak][margin left="340"]行きはよいよい\u3000帰りは――[unk19 index="0"]"
-msgstr "6000:[margin top="228"][margin left="340"]お札を納めに\u3000参ります[linebreak][margin left="340"]行きはよいよい\u3000帰りは――[unk19 index="0"]"
+msgid "6000:[margin top=\"228\"][margin left=\"340\"]お札を納めに\u3000参ります[linebreak][margin left=\"340\"]行きはよいよい\u3000帰りは――[unk19 index=\"0\"]"
+msgstr "6000:[margin top=\"228\"][margin left=\"340\"]お札を納めに\u3000参ります[linebreak][margin left=\"340\"]行きはよいよい\u3000帰りは――[unk19 index=\"0\"]"
 
 msgid "6100:[name]拓巳[line]「ちょ！」[%p]"
 msgstr "6100:[name]拓巳[line]「ちょ！」[%p]"

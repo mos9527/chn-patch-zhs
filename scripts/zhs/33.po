@@ -66,8 +66,8 @@ msgstr "1700:[name]拓巳[line]「いや、ちょっと待った……」[%p]"
 msgid "1800:――“また”って、いつのことだ？[%p]"
 msgstr "1800:――“また”って、いつのことだ？[%p]"
 
-msgid "1900:以前に[color index="A0FF0000"][ruby-base]未視感[ruby-text-start]ジャメヴュ[ruby-text-end][color index="800000"]を感じたのは、いつだった？[%p]"
-msgstr "1900:以前に[color index="A0FF0000"][ruby-base]未視感[ruby-text-start]ジャメヴュ[ruby-text-end][color index="800000"]を感じたのは、いつだった？[%p]"
+msgid "1900:以前に[color index=\"A0FF0000\"][ruby-base]未視感[ruby-text-start]ジャメヴュ[ruby-text-end][color index=\"800000\"]を感じたのは、いつだった？[%p]"
+msgstr "1900:以前に[color index=\"A0FF0000\"][ruby-base]未視感[ruby-text-start]ジャメヴュ[ruby-text-end][color index=\"800000\"]を感じたのは、いつだった？[%p]"
 
 msgid "2000:くそぅ、現実と妄想がごっちゃになってる。[linebreak]これじゃテレビのワイドショーに出てくる、うさんくさそうな専門家のステレオタイプな分析みたいじゃないか。[%p]"
 msgstr "2000:くそぅ、現実と妄想がごっちゃになってる。[linebreak]これじゃテレビのワイドショーに出てくる、うさんくさそうな専門家のステレオタイプな分析みたいじゃないか。[%p]"

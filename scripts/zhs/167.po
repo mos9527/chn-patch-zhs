@@ -219,8 +219,8 @@ msgstr "6800:[name]拓巳[line]「ぼ、ぼ、僕は、殺してない……！�
 msgid "6900:[name]葉月[line]「そう主張してるらしいですね。意味不明なことばかり言ってて話にならないって、刑事さんがぼやいてました」[%p]"
 msgstr "6900:[name]葉月[line]「そう主張してるらしいですね。意味不明なことばかり言ってて話にならないって、刑事さんがぼやいてました」[%p]"
 
-msgid "7000:[name]葉月[line]「[color index="A0FF0000"]心神喪失[color index="800000"]で無罪……っていうのを狙ってるんですか？」[%p]"
-msgstr "7000:[name]葉月[line]「[color index="A0FF0000"]心神喪失[color index="800000"]で無罪……っていうのを狙ってるんですか？」[%p]"
+msgid "7000:[name]葉月[line]「[color index=\"A0FF0000\"]心神喪失[color index=\"800000\"]で無罪……っていうのを狙ってるんですか？」[%p]"
+msgstr "7000:[name]葉月[line]「[color index=\"A0FF0000\"]心神喪失[color index=\"800000\"]で無罪……っていうのを狙ってるんですか？」[%p]"
 
 msgid "7100:[name]葉月[line]「でもみんな思ってますよ」[%p]"
 msgstr "7100:[name]葉月[line]「でもみんな思ってますよ」[%p]"

@@ -300,8 +300,8 @@ msgstr "9500:少なくとも僕は自主的にここにいるんだけど……�
 msgid "9600:[name]女子[line]「エラーを見たことがあるか？」[%p]"
 msgstr "9600:[name]女子[line]「エラーを見たことがあるか？」[%p]"
 
-msgid "9700:[color index="A0FF0000"]日本語でおｋ[color index="800000"]。[%p]"
-msgstr "9700:[color index="A0FF0000"]日本語でおｋ[color index="800000"]。[%p]"
+msgid "9700:[color index=\"A0FF0000\"]日本語でおｋ[color index=\"800000\"]。[%p]"
+msgstr "9700:[color index=\"A0FF0000\"]日本語でおｋ[color index=\"800000\"]。[%p]"
 
 msgid "9800:と言いそうになったけどさすがにその勇気はなかった。[linebreak]だってヘタなこと言うと刺されそうなんだもん……。[%p]"
 msgstr "9800:と言いそうになったけどさすがにその勇気はなかった。[linebreak]だってヘタなこと言うと刺されそうなんだもん……。[%p]"

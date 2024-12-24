@@ -519,48 +519,48 @@ msgstr "21400:はい"
 msgid "21500:いいえ"
 msgstr "21500:いいえ"
 
-msgid "30000:[color index="A01B0000"]フラグ・ワークエディタ"
-msgstr "30000:[color index="A01B0000"]フラグ・ワークエディタ"
+msgid "30000:[color index=\"A01B0000\"]フラグ・ワークエディタ"
+msgstr "30000:[color index=\"A01B0000\"]フラグ・ワークエディタ"
 
-msgid "30001:[color index="A01B0000"]スクリプトデバッグ"
-msgstr "30001:[color index="A01B0000"]スクリプトデバッグ"
+msgid "30001:[color index=\"A01B0000\"]スクリプトデバッグ"
+msgstr "30001:[color index=\"A01B0000\"]スクリプトデバッグ"
 
-msgid "30002:[color index="A01B0000"]ヒント表示"
-msgstr "30002:[color index="A01B0000"]ヒント表示"
+msgid "30002:[color index=\"A01B0000\"]ヒント表示"
+msgstr "30002:[color index=\"A01B0000\"]ヒント表示"
 
-msgid "30003:[color index="A01B0000"]Ｔｉｐｓ開放"
-msgstr "30003:[color index="A01B0000"]Ｔｉｐｓ開放"
+msgid "30003:[color index=\"A01B0000\"]Ｔｉｐｓ開放"
+msgstr "30003:[color index=\"A01B0000\"]Ｔｉｐｓ開放"
 
-msgid "30004:[color index="A01B0000"]クリアフラグ開放"
-msgstr "30004:[color index="A01B0000"]クリアフラグ開放"
+msgid "30004:[color index=\"A01B0000\"]クリアフラグ開放"
+msgstr "30004:[color index=\"A01B0000\"]クリアフラグ開放"
 
-msgid "30005:[color index="A01B0000"]ＣＧコンプリート"
-msgstr "30005:[color index="A01B0000"]ＣＧコンプリート"
+msgid "30005:[color index=\"A01B0000\"]ＣＧコンプリート"
+msgstr "30005:[color index=\"A01B0000\"]ＣＧコンプリート"
 
-msgid "30006:[color index="A01B0000"]ＣＧランダムオープン"
-msgstr "30006:[color index="A01B0000"]ＣＧランダムオープン"
+msgid "30006:[color index=\"A01B0000\"]ＣＧランダムオープン"
+msgstr "30006:[color index=\"A01B0000\"]ＣＧランダムオープン"
 
-msgid "30007:[color index="A01B0000"]既読全開放"
-msgstr "30007:[color index="A01B0000"]既読全開放"
+msgid "30007:[color index=\"A01B0000\"]既読全開放"
+msgstr "30007:[color index=\"A01B0000\"]既読全開放"
 
-msgid "30008:[color index="A01B0000"]ムービー全開放"
-msgstr "30008:[color index="A01B0000"]ムービー全開放"
+msgid "30008:[color index=\"A01B0000\"]ムービー全開放"
+msgstr "30008:[color index=\"A01B0000\"]ムービー全開放"
 
-msgid "30009:[color index="A01B0000"]メール全開放"
-msgstr "30009:[color index="A01B0000"]メール全開放"
+msgid "30009:[color index=\"A01B0000\"]メール全開放"
+msgstr "30009:[color index=\"A01B0000\"]メール全開放"
 
-msgid "30010:[color index="A01B0000"]メールツリー全開放"
-msgstr "30010:[color index="A01B0000"]メールツリー全開放"
+msgid "30010:[color index=\"A01B0000\"]メールツリー全開放"
+msgstr "30010:[color index=\"A01B0000\"]メールツリー全開放"
 
-msgid "30011:[color index="A01B0000"]ＭＵＳＩＣ全開放"
-msgstr "30011:[color index="A01B0000"]ＭＵＳＩＣ全開放"
+msgid "30011:[color index=\"A01B0000\"]ＭＵＳＩＣ全開放"
+msgstr "30011:[color index=\"A01B0000\"]ＭＵＳＩＣ全開放"
 
-msgid "30012:[color index="A01B0000"]実績初期化 for Steam"
-msgstr "30012:[color index="A01B0000"]実績初期化 for Steam"
+msgid "30012:[color index=\"A01B0000\"]実績初期化 for Steam"
+msgstr "30012:[color index=\"A01B0000\"]実績初期化 for Steam"
 
-msgid "30013:[color index="A0160000"]戻る"
-msgstr "30013:[color index="A0160000"]戻る"
+msgid "30013:[color index=\"A0160000\"]戻る"
+msgstr "30013:[color index=\"A0160000\"]戻る"
 
-msgid "30014:[color index="850000"]終了"
-msgstr "30014:[color index="850000"]終了"
+msgid "30014:[color index=\"850000\"]終了"
+msgstr "30014:[color index=\"850000\"]終了"
 

@@ -195,8 +195,8 @@ msgstr "6000:[name]リュック男[line]「例え知ってても、教えない�
 msgid "6100:[name]セナ[line]「…………」[%p]"
 msgstr "6100:[name]セナ[line]「…………」[%p]"
 
-msgid "6200:セナは押し黙ると、持っている大剣を両手で軽々と振り回し、[color index="A0FF0000"]霞の構え[color index="800000"]を取った。[linebreak]グッと腰を落とし、上半身を前のめりにする。[%p]"
-msgstr "6200:セナは押し黙ると、持っている大剣を両手で軽々と振り回し、[color index="A0FF0000"]霞の構え[color index="800000"]を取った。[linebreak]グッと腰を落とし、上半身を前のめりにする。[%p]"
+msgid "6200:セナは押し黙ると、持っている大剣を両手で軽々と振り回し、[color index=\"A0FF0000\"]霞の構え[color index=\"800000\"]を取った。[linebreak]グッと腰を落とし、上半身を前のめりにする。[%p]"
+msgstr "6200:セナは押し黙ると、持っている大剣を両手で軽々と振り回し、[color index=\"A0FF0000\"]霞の構え[color index=\"800000\"]を取った。[linebreak]グッと腰を落とし、上半身を前のめりにする。[%p]"
 
 msgid "6300:[name]セナ[line]「誤解するな」[%p]"
 msgstr "6300:[name]セナ[line]「誤解するな」[%p]"

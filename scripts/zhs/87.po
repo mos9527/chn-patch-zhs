@@ -795,8 +795,8 @@ msgstr "26000:[name]三住[line]「はあああ〜〜〜〜」[%p]"
 msgid "26100:と、次に聞こえてきたのは盛大なため息だった。[%p]"
 msgstr "26100:と、次に聞こえてきたのは盛大なため息だった。[%p]"
 
-msgid "26200:[name]三住[line]「お前さぁ、[color index="A0FF0000"]ゲーム脳[color index="800000"]じゃねえの？」[%p]"
-msgstr "26200:[name]三住[line]「お前さぁ、[color index="A0FF0000"]ゲーム脳[color index="800000"]じゃねえの？」[%p]"
+msgid "26200:[name]三住[line]「お前さぁ、[color index=\"A0FF0000\"]ゲーム脳[color index=\"800000\"]じゃねえの？」[%p]"
+msgstr "26200:[name]三住[line]「お前さぁ、[color index=\"A0FF0000\"]ゲーム脳[color index=\"800000\"]じゃねえの？」[%p]"
 
 msgid "26300:[name]拓巳[line]「ちょ……」[%p]"
 msgstr "26300:[name]拓巳[line]「ちょ……」[%p]"
@@ -1767,8 +1767,8 @@ msgstr "58400:[name]三住[line]「はあああ〜〜〜〜」[%p]"
 msgid "58500:と、次に聞こえてきたのは盛大なため息だった。[%p]"
 msgstr "58500:と、次に聞こえてきたのは盛大なため息だった。[%p]"
 
-msgid "58600:[name]三住[line]「お前さぁ、[color index="A0FF0000"]ゲーム脳[color index="800000"]じゃねえの？」[%p]"
-msgstr "58600:[name]三住[line]「お前さぁ、[color index="A0FF0000"]ゲーム脳[color index="800000"]じゃねえの？」[%p]"
+msgid "58600:[name]三住[line]「お前さぁ、[color index=\"A0FF0000\"]ゲーム脳[color index=\"800000\"]じゃねえの？」[%p]"
+msgstr "58600:[name]三住[line]「お前さぁ、[color index=\"A0FF0000\"]ゲーム脳[color index=\"800000\"]じゃねえの？」[%p]"
 
 msgid "58700:[name]拓巳[line]「ちょ……」[%p]"
 msgstr "58700:[name]拓巳[line]「ちょ……」[%p]"
@@ -2799,8 +2799,8 @@ msgstr "92800:[name]三住[line]「はあああ〜〜〜〜」[%p]"
 msgid "92900:と、次に聞こえてきたのは盛大なため息だった。[%p]"
 msgstr "92900:と、次に聞こえてきたのは盛大なため息だった。[%p]"
 
-msgid "93000:[name]三住[line]「お前さぁ、[color index="A0FF0000"]ゲーム脳[color index="800000"]じゃねえの？」[%p]"
-msgstr "93000:[name]三住[line]「お前さぁ、[color index="A0FF0000"]ゲーム脳[color index="800000"]じゃねえの？」[%p]"
+msgid "93000:[name]三住[line]「お前さぁ、[color index=\"A0FF0000\"]ゲーム脳[color index=\"800000\"]じゃねえの？」[%p]"
+msgstr "93000:[name]三住[line]「お前さぁ、[color index=\"A0FF0000\"]ゲーム脳[color index=\"800000\"]じゃねえの？」[%p]"
 
 msgid "93100:[name]拓巳[line]「ちょ……」[%p]"
 msgstr "93100:[name]拓巳[line]「ちょ……」[%p]"

@@ -36,372 +36,372 @@ msgstr "700:すでに次の杭が諏訪の手の中にある。[linebreak]繰り
 msgid "800:[name]拓巳[line]「う……ぐ……！」[%e]"
 msgstr "800:[name]拓巳[line]「う……ぐ……！」[%e]"
 
-msgid "850:[margin top="228"][margin left="13"]「う……ぐ……！」[%e]"
-msgstr "850:[margin top="228"][margin left="13"]「う……ぐ……！」[%e]"
+msgid "850:[margin top=\"228\"][margin left=\"13\"]「う……ぐ……！」[%e]"
+msgstr "850:[margin top=\"228\"][margin left=\"13\"]「う……ぐ……！」[%e]"
 
 msgid "900:[name]諏訪[line]「自分が万能の神になったような気がするんだよ」[%e]"
 msgstr "900:[name]諏訪[line]「自分が万能の神になったような気がするんだよ」[%e]"
 
-msgid "950:[margin top="228"][margin left="13"]「自分が万能の神になったような気がするんだよ」[%e]"
-msgstr "950:[margin top="228"][margin left="13"]「自分が万能の神になったような気がするんだよ」[%e]"
+msgid "950:[margin top=\"228\"][margin left=\"13\"]「自分が万能の神になったような気がするんだよ」[%e]"
+msgstr "950:[margin top=\"228\"][margin left=\"13\"]「自分が万能の神になったような気がするんだよ」[%e]"
 
 msgid "1000:どうせ聞こえていないだろうと、諏訪は思う。[%e]"
 msgstr "1000:どうせ聞こえていないだろうと、諏訪は思う。[%e]"
 
-msgid "1100:[margin top="228"][margin left="13"]すごく不思議な感覚だ。僕はそう思う。[%e]"
-msgstr "1100:[margin top="228"][margin left="13"]すごく不思議な感覚だ。僕はそう思う。[%e]"
+msgid "1100:[margin top=\"228\"][margin left=\"13\"]すごく不思議な感覚だ。僕はそう思う。[%e]"
+msgstr "1100:[margin top=\"228\"][margin left=\"13\"]すごく不思議な感覚だ。僕はそう思う。[%e]"
 
 msgid "1200:うなだれ、為すがままになっている拓巳に向かって、諏訪はまた杭を投げた。[%e]"
 msgstr "1200:うなだれ、為すがままになっている拓巳に向かって、諏訪はまた杭を投げた。[%e]"
 
-msgid "1300:[margin top="228"][margin left="13"]こうして刻まれる痛みのひとつひとつが、僕に生を実感させる。[%e]"
-msgstr "1300:[margin top="228"][margin left="13"]こうして刻まれる痛みのひとつひとつが、僕に生を実感させる。[%e]"
+msgid "1300:[margin top=\"228\"][margin left=\"13\"]こうして刻まれる痛みのひとつひとつが、僕に生を実感させる。[%e]"
+msgstr "1300:[margin top=\"228\"][margin left=\"13\"]こうして刻まれる痛みのひとつひとつが、僕に生を実感させる。[%e]"
 
 msgid "1400:[name]諏訪[line]「オレはただの人間だけどな、お前らと同等の力を手に入れた」[%e]"
 msgstr "1400:[name]諏訪[line]「オレはただの人間だけどな、お前らと同等の力を手に入れた」[%e]"
 
-msgid "1450:[margin top="228"][margin left="13"]「オレはただの人間だけどな、お前らと同等の力を手に入れた」[%e]"
-msgstr "1450:[margin top="228"][margin left="13"]「オレはただの人間だけどな、お前らと同等の力を手に入れた」[%e]"
+msgid "1450:[margin top=\"228\"][margin left=\"13\"]「オレはただの人間だけどな、お前らと同等の力を手に入れた」[%e]"
+msgstr "1450:[margin top=\"228\"][margin left=\"13\"]「オレはただの人間だけどな、お前らと同等の力を手に入れた」[%e]"
 
 msgid "1500:すべては、諏訪が背負ったリュックの中にある、ノアⅡの端末のおかげだった。[%e]"
 msgstr "1500:すべては、諏訪が背負ったリュックの中にある、ノアⅡの端末のおかげだった。[%e]"
 
-msgid "1600:[margin top="228"][margin left="13"]すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。[%e]"
-msgstr "1600:[margin top="228"][margin left="13"]すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。[%e]"
+msgid "1600:[margin top=\"228\"][margin left=\"13\"]すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。[%e]"
+msgstr "1600:[margin top=\"228\"][margin left=\"13\"]すべては、あいつが背負ったリュックの中にある、ノアⅡの端末の仕業だ。[%e]"
 
 msgid "1700:これを持っていれば、ノアⅡの近くにいなくてもその力の恩恵を受ける。[%e]"
 msgstr "1700:これを持っていれば、ノアⅡの近くにいなくてもその力の恩恵を受ける。[%e]"
 
-msgid "1800:[margin top="228"][margin left="13"]あれを持っていれば、ノアⅡの近くにいなくてもその力の恩恵を受ける。[%e]"
-msgstr "1800:[margin top="228"][margin left="13"]あれを持っていれば、ノアⅡの近くにいなくてもその力の恩恵を受ける。[%e]"
+msgid "1800:[margin top=\"228\"][margin left=\"13\"]あれを持っていれば、ノアⅡの近くにいなくてもその力の恩恵を受ける。[%e]"
+msgstr "1800:[margin top=\"228\"][margin left=\"13\"]あれを持っていれば、ノアⅡの近くにいなくてもその力の恩恵を受ける。[%e]"
 
 msgid "1900:人工のギガロマニアックスになれるのだ。[%e]"
 msgstr "1900:人工のギガロマニアックスになれるのだ。[%e]"
 
-msgid "2000:[margin top="228"][margin left="13"]人工のギガロマニアックスになるんだ。[%e]"
-msgstr "2000:[margin top="228"][margin left="13"]人工のギガロマニアックスになるんだ。[%e]"
+msgid "2000:[margin top=\"228\"][margin left=\"13\"]人工のギガロマニアックスになるんだ。[%e]"
+msgstr "2000:[margin top=\"228\"][margin left=\"13\"]人工のギガロマニアックスになるんだ。[%e]"
 
 msgid "2100:諏訪は、力に完全に魅入られていた。[%e]"
 msgstr "2100:諏訪は、力に完全に魅入られていた。[%e]"
 
-msgid "2200:[margin top="228"][margin left="13"]諏訪は、力に完全に魅入られてしまっている。[%e]"
-msgstr "2200:[margin top="228"][margin left="13"]諏訪は、力に完全に魅入られてしまっている。[%e]"
+msgid "2200:[margin top=\"228\"][margin left=\"13\"]諏訪は、力に完全に魅入られてしまっている。[%e]"
+msgstr "2200:[margin top=\"228\"][margin left=\"13\"]諏訪は、力に完全に魅入られてしまっている。[%e]"
 
 msgid "2300:信奉すべき教えと教祖のために、どんな汚いことでもする、尖兵。[%e]"
 msgstr "2300:信奉すべき教えと教祖のために、どんな汚いことでもする、尖兵。[%e]"
 
-msgid "2400:[margin top="228"][margin left="13"]信奉すべき教えと教祖のために、どんな汚いことでもする、狂信者。[%e]"
-msgstr "2400:[margin top="228"][margin left="13"]信奉すべき教えと教祖のために、どんな汚いことでもする、狂信者。[%e]"
+msgid "2400:[margin top=\"228\"][margin left=\"13\"]信奉すべき教えと教祖のために、どんな汚いことでもする、狂信者。[%e]"
+msgstr "2400:[margin top=\"228\"][margin left=\"13\"]信奉すべき教えと教祖のために、どんな汚いことでもする、狂信者。[%e]"
 
 msgid "2500:[name]諏訪[line]「この力は、神からの贈り物だ」[%e]"
 msgstr "2500:[name]諏訪[line]「この力は、神からの贈り物だ」[%e]"
 
-msgid "2550:[margin top="228"][margin left="13"]「この力は、神からの贈り物だ」[%e]"
-msgstr "2550:[margin top="228"][margin left="13"]「この力は、神からの贈り物だ」[%e]"
+msgid "2550:[margin top=\"228\"][margin left=\"13\"]「この力は、神からの贈り物だ」[%e]"
+msgstr "2550:[margin top=\"228\"][margin left=\"13\"]「この力は、神からの贈り物だ」[%e]"
 
 msgid "2600:[name]諏訪[line]「神光のため、信じるもののために戦えるんだからな」[%e]"
 msgstr "2600:[name]諏訪[line]「神光のため、信じるもののために戦えるんだからな」[%e]"
 
-msgid "2650:[margin top="228"][margin left="13"]「神光のため、信じるもののために戦えるんだからな」[%e]"
-msgstr "2650:[margin top="228"][margin left="13"]「神光のため、信じるもののために戦えるんだからな」[%e]"
+msgid "2650:[margin top=\"228\"][margin left=\"13\"]「神光のため、信じるもののために戦えるんだからな」[%e]"
+msgstr "2650:[margin top=\"228\"][margin left=\"13\"]「神光のため、信じるもののために戦えるんだからな」[%e]"
 
 msgid "2700:またも諏訪は杭を投げつけ。[%e]"
 msgstr "2700:またも諏訪は杭を投げつけ。[%e]"
 
-msgid "2800:[margin top="228"][margin left="13"]またも諏訪が杭を投げつけ。[%e]"
-msgstr "2800:[margin top="228"][margin left="13"]またも諏訪が杭を投げつけ。[%e]"
+msgid "2800:[margin top=\"228\"][margin left=\"13\"]またも諏訪が杭を投げつけ。[%e]"
+msgstr "2800:[margin top=\"228\"][margin left=\"13\"]またも諏訪が杭を投げつけ。[%e]"
 
 msgid "2900:それは拓巳の首筋を貫く。[%e]"
 msgstr "2900:それは拓巳の首筋を貫く。[%e]"
 
-msgid "3000:[margin top="228"][margin left="13"]それは僕の首筋を貫く。[%e]"
-msgstr "3000:[margin top="228"][margin left="13"]それは僕の首筋を貫く。[%e]"
+msgid "3000:[margin top=\"228\"][margin left=\"13\"]それは僕の首筋を貫く。[%e]"
+msgstr "3000:[margin top=\"228\"][margin left=\"13\"]それは僕の首筋を貫く。[%e]"
 
 msgid "3100:どこまで痛みに耐えきれるかと、諏訪の心は残忍さで沸き立つ。[%e]"
 msgstr "3100:どこまで痛みに耐えきれるかと、諏訪の心は残忍さで沸き立つ。[%e]"
 
-msgid "3200:[margin top="228"][margin left="13"]全身が千切れそうなほどの激痛。気が狂いそうな痛み。[%e]"
-msgstr "3200:[margin top="228"][margin left="13"]全身が千切れそうなほどの激痛。気が狂いそうな痛み。[%e]"
+msgid "3200:[margin top=\"228\"][margin left=\"13\"]全身が千切れそうなほどの激痛。気が狂いそうな痛み。[%e]"
+msgstr "3200:[margin top=\"228\"][margin left=\"13\"]全身が千切れそうなほどの激痛。気が狂いそうな痛み。[%e]"
 
 msgid "3300:拷問のように、徐々に死へと近づかせてやる。[%e]"
 msgstr "3300:拷問のように、徐々に死へと近づかせてやる。[%e]"
 
-msgid "3400:[margin top="228"][margin left="13"]拷問のように、徐々に死へと近づいている。[%e]"
-msgstr "3400:[margin top="228"][margin left="13"]拷問のように、徐々に死へと近づいている。[%e]"
+msgid "3400:[margin top=\"228\"][margin left=\"13\"]拷問のように、徐々に死へと近づいている。[%e]"
+msgstr "3400:[margin top=\"228\"][margin left=\"13\"]拷問のように、徐々に死へと近づいている。[%e]"
 
 msgid "3500:[name]拓巳[line]「はぁ……はぁ……はぁ……」[%e]"
 msgstr "3500:[name]拓巳[line]「はぁ……はぁ……はぁ……」[%e]"
 
-msgid "3550:[margin top="228"][margin left="13"]「はぁ……はぁ……はぁ……」[%e]"
-msgstr "3550:[margin top="228"][margin left="13"]「はぁ……はぁ……はぁ……」[%e]"
+msgid "3550:[margin top=\"228\"][margin left=\"13\"]「はぁ……はぁ……はぁ……」[%e]"
+msgstr "3550:[margin top=\"228\"][margin left=\"13\"]「はぁ……はぁ……はぁ……」[%e]"
 
 msgid "3600:拓巳は抵抗もできず、しかし倒れることもせず、[%e]"
 msgstr "3600:拓巳は抵抗もできず、しかし倒れることもせず、[%e]"
 
-msgid "3700:[margin top="228"][margin left="13"]僕は抵抗もできず、しかし倒れないように足に力を込め、[%e]"
-msgstr "3700:[margin top="228"][margin left="13"]僕は抵抗もできず、しかし倒れないように足に力を込め、[%e]"
+msgid "3700:[margin top=\"228\"][margin left=\"13\"]僕は抵抗もできず、しかし倒れないように足に力を込め、[%e]"
+msgstr "3700:[margin top=\"228\"][margin left=\"13\"]僕は抵抗もできず、しかし倒れないように足に力を込め、[%e]"
 
 msgid "3800:その身体に杭を受け続ける。[%e]"
 msgstr "3800:その身体に杭を受け続ける。[%e]"
 
-msgid "3900:[margin top="228"][margin left="13"]身体に杭を受け続ける。[%e]"
-msgstr "3900:[margin top="228"][margin left="13"]身体に杭を受け続ける。[%e]"
+msgid "3900:[margin top=\"228\"][margin left=\"13\"]身体に杭を受け続ける。[%e]"
+msgstr "3900:[margin top=\"228\"][margin left=\"13\"]身体に杭を受け続ける。[%e]"
 
 msgid "4000:拓巳の胸。腹。爪先。全身の至るところへと。[%e]"
 msgstr "4000:拓巳の胸。腹。爪先。全身の至るところへと。[%e]"
 
-msgid "4100:[margin top="228"][margin left="13"]僕の胸。腹。爪先。全身の至るところへと。[%e]"
-msgstr "4100:[margin top="228"][margin left="13"]僕の胸。腹。爪先。全身の至るところへと。[%e]"
+msgid "4100:[margin top=\"228\"][margin left=\"13\"]僕の胸。腹。爪先。全身の至るところへと。[%e]"
+msgstr "4100:[margin top=\"228\"][margin left=\"13\"]僕の胸。腹。爪先。全身の至るところへと。[%e]"
 
 msgid "4200:太く鋭い杭を容赦なく打ち込み続ける。[%e]"
 msgstr "4200:太く鋭い杭を容赦なく打ち込み続ける。[%e]"
 
-msgid "4300:[margin top="228"][margin left="13"]太く鋭い杭が容赦なく打ち込まれ続ける。[%e]"
-msgstr "4300:[margin top="228"][margin left="13"]太く鋭い杭が容赦なく打ち込まれ続ける。[%e]"
+msgid "4300:[margin top=\"228\"][margin left=\"13\"]太く鋭い杭が容赦なく打ち込まれ続ける。[%e]"
+msgstr "4300:[margin top=\"228\"][margin left=\"13\"]太く鋭い杭が容赦なく打ち込まれ続ける。[%e]"
 
 msgid "4400:[name]諏訪[line]「虫ピンで標本にされた昆虫みたいだな」[%e]"
 msgstr "4400:[name]諏訪[line]「虫ピンで標本にされた昆虫みたいだな」[%e]"
 
-msgid "4450:[margin top="228"][margin left="13"]「虫ピンで標本にされた昆虫みたいだな」[%e]"
-msgstr "4450:[margin top="228"][margin left="13"]「虫ピンで標本にされた昆虫みたいだな」[%e]"
+msgid "4450:[margin top=\"228\"][margin left=\"13\"]「虫ピンで標本にされた昆虫みたいだな」[%e]"
+msgstr "4450:[margin top=\"228\"][margin left=\"13\"]「虫ピンで標本にされた昆虫みたいだな」[%e]"
 
 msgid "4500:[name]諏訪[line]「しかもカブトムシとか蝶とかじゃない」[%e]"
 msgstr "4500:[name]諏訪[line]「しかもカブトムシとか蝶とかじゃない」[%e]"
 
-msgid "4550:[margin top="228"][margin left="13"]「しかもカブトムシとか蝶とかじゃない」[%e]"
-msgstr "4550:[margin top="228"][margin left="13"]「しかもカブトムシとか蝶とかじゃない」[%e]"
+msgid "4550:[margin top=\"228\"][margin left=\"13\"]「しかもカブトムシとか蝶とかじゃない」[%e]"
+msgstr "4550:[margin top=\"228\"][margin left=\"13\"]「しかもカブトムシとか蝶とかじゃない」[%e]"
 
 msgid "4600:[name]諏訪[line]「お前みたいなガキには、コガネムシあたりがお似合いだ」[%e]"
 msgstr "4600:[name]諏訪[line]「お前みたいなガキには、コガネムシあたりがお似合いだ」[%e]"
 
-msgid "4650:[margin top="228"][margin left="13"]「お前みたいなガキには、コガネムシあたりがお似合いだ」[%e]"
-msgstr "4650:[margin top="228"][margin left="13"]「お前みたいなガキには、コガネムシあたりがお似合いだ」[%e]"
+msgid "4650:[margin top=\"228\"][margin left=\"13\"]「お前みたいなガキには、コガネムシあたりがお似合いだ」[%e]"
+msgstr "4650:[margin top=\"228\"][margin left=\"13\"]「お前みたいなガキには、コガネムシあたりがお似合いだ」[%e]"
 
 msgid "4700:拓巳はもはや立っているのも無理な状態だった。[%e]"
 msgstr "4700:拓巳はもはや立っているのも無理な状態だった。[%e]"
 
-msgid "4800:[margin top="228"][margin left="13"]僕はもう立っているのも無理な状態だった。[%e]"
-msgstr "4800:[margin top="228"][margin left="13"]僕はもう立っているのも無理な状態だった。[%e]"
+msgid "4800:[margin top=\"228\"][margin left=\"13\"]僕はもう立っているのも無理な状態だった。[%e]"
+msgstr "4800:[margin top=\"228\"][margin left=\"13\"]僕はもう立っているのも無理な状態だった。[%e]"
 
 msgid "4900:なぜ倒れないのか、諏訪には不思議でならない。[%e]"
 msgstr "4900:なぜ倒れないのか、諏訪には不思議でならない。[%e]"
 
-msgid "5000:[margin top="228"][margin left="13"]ただ気力だけで、僕は倒れずにいる。[%e]"
-msgstr "5000:[margin top="228"][margin left="13"]ただ気力だけで、僕は倒れずにいる。[%e]"
+msgid "5000:[margin top=\"228\"][margin left=\"13\"]ただ気力だけで、僕は倒れずにいる。[%e]"
+msgstr "5000:[margin top=\"228\"][margin left=\"13\"]ただ気力だけで、僕は倒れずにいる。[%e]"
 
 msgid "5100:だが、そろそろ限界のはず。[%e]"
 msgstr "5100:だが、そろそろ限界のはず。[%e]"
 
-msgid "5200:[margin top="228"][margin left="13"]でも、そろそろ限界だ……。[%e]"
-msgstr "5200:[margin top="228"][margin left="13"]でも、そろそろ限界だ……。[%e]"
+msgid "5200:[margin top=\"228\"][margin left=\"13\"]でも、そろそろ限界だ……。[%e]"
+msgstr "5200:[margin top=\"228\"][margin left=\"13\"]でも、そろそろ限界だ……。[%e]"
 
 msgid "5300:その目は虚ろで、おそらくもうなにも見えていない。[%e]"
 msgstr "5300:その目は虚ろで、おそらくもうなにも見えていない。[%e]"
 
-msgid "5400:[margin top="228"][margin left="13"]視界にモザイクがかかったようで、はっきり見えない。[%e]"
-msgstr "5400:[margin top="228"][margin left="13"]視界にモザイクがかかったようで、はっきり見えない。[%e]"
+msgid "5400:[margin top=\"228\"][margin left=\"13\"]視界にモザイクがかかったようで、はっきり見えない。[%e]"
+msgstr "5400:[margin top=\"228\"][margin left=\"13\"]視界にモザイクがかかったようで、はっきり見えない。[%e]"
 
 msgid "5500:[name]諏訪[line]「遺言があるなら言いな。ただし２０字以内だ」[%e]"
 msgstr "5500:[name]諏訪[line]「遺言があるなら言いな。ただし２０字以内だ」[%e]"
 
-msgid "5550:[margin top="228"][margin left="13"]「遺言があるなら言いな。ただし２０字以内だ」[%e]"
-msgstr "5550:[margin top="228"][margin left="13"]「遺言があるなら言いな。ただし２０字以内だ」[%e]"
+msgid "5550:[margin top=\"228\"][margin left=\"13\"]「遺言があるなら言いな。ただし２０字以内だ」[%e]"
+msgstr "5550:[margin top=\"228\"][margin left=\"13\"]「遺言があるなら言いな。ただし２０字以内だ」[%e]"
 
 msgid "5600:手に次なる杭を握りしめ、諏訪は、拓巳に勝ち誇ったようにつぶやく。[%e]"
 msgstr "5600:手に次なる杭を握りしめ、諏訪は、拓巳に勝ち誇ったようにつぶやく。[%e]"
 
-msgid "5700:[margin top="228"][margin left="13"]手に次なる杭を握りしめ、諏訪が、僕に勝ち誇ったようにつぶやく。[%e]"
-msgstr "5700:[margin top="228"][margin left="13"]手に次なる杭を握りしめ、諏訪が、僕に勝ち誇ったようにつぶやく。[%e]"
+msgid "5700:[margin top=\"228\"][margin left=\"13\"]手に次なる杭を握りしめ、諏訪が、僕に勝ち誇ったようにつぶやく。[%e]"
+msgstr "5700:[margin top=\"228\"][margin left=\"13\"]手に次なる杭を握りしめ、諏訪が、僕に勝ち誇ったようにつぶやく。[%e]"
 
 msgid "5800:[name]拓巳[line]「は……あ……は、あ……は……あ……」[%e]"
 msgstr "5800:[name]拓巳[line]「は……あ……は、あ……は……あ……」[%e]"
 
-msgid "5850:[margin top="228"][margin left="13"]「は……あ……は、あ……は……あ……」[%e]"
-msgstr "5850:[margin top="228"][margin left="13"]「は……あ……は、あ……は……あ……」[%e]"
+msgid "5850:[margin top=\"228\"][margin left=\"13\"]「は……あ……は、あ……は……あ……」[%e]"
+msgstr "5850:[margin top=\"228\"][margin left=\"13\"]「は……あ……は、あ……は……あ……」[%e]"
 
 msgid "5900:次で殺してやる。[%e]"
 msgstr "5900:次で殺してやる。[%e]"
 
-msgid "6000:[margin top="228"][margin left="13"]次で殺される。[%e]"
-msgstr "6000:[margin top="228"][margin left="13"]次で殺される。[%e]"
+msgid "6000:[margin top=\"228\"][margin left=\"13\"]次で殺される。[%e]"
+msgstr "6000:[margin top=\"228\"][margin left=\"13\"]次で殺される。[%e]"
 
 msgid "6100:[name]拓巳[line]「さっき……童貞野郎、って、言った……」[%e]"
 msgstr "6100:[name]拓巳[line]「さっき……童貞野郎、って、言った……」[%e]"
 
-msgid "6150:[margin top="228"][margin left="13"]「さっき……童貞野郎、って、言った……」[%e]"
-msgstr "6150:[margin top="228"][margin left="13"]「さっき……童貞野郎、って、言った……」[%e]"
+msgid "6150:[margin top=\"228\"][margin left=\"13\"]「さっき……童貞野郎、って、言った……」[%e]"
+msgstr "6150:[margin top=\"228\"][margin left=\"13\"]「さっき……童貞野郎、って、言った……」[%e]"
 
 msgid "6200:[name]諏訪[line]「傷ついたのか？」[%e]"
 msgstr "6200:[name]諏訪[line]「傷ついたのか？」[%e]"
 
-msgid "6250:[margin top="228"][margin left="13"]「傷ついたのか？」[%e]"
-msgstr "6250:[margin top="228"][margin left="13"]「傷ついたのか？」[%e]"
+msgid "6250:[margin top=\"228\"][margin left=\"13\"]「傷ついたのか？」[%e]"
+msgstr "6250:[margin top=\"228\"][margin left=\"13\"]「傷ついたのか？」[%e]"
 
 msgid "6300:拓巳の、光が消えかけた瞳が、諏訪をにらみつけ。[%e]"
 msgstr "6300:拓巳の、光が消えかけた瞳が、諏訪をにらみつけ。[%e]"
 
-msgid "6400:[margin top="228"][margin left="13"]僕は、遠くから聞こえてくる声を頼りに、諏訪をにらみつけ。[%e]"
-msgstr "6400:[margin top="228"][margin left="13"]僕は、遠くから聞こえてくる声を頼りに、諏訪をにらみつけ。[%e]"
+msgid "6400:[margin top=\"228\"][margin left=\"13\"]僕は、遠くから聞こえてくる声を頼りに、諏訪をにらみつけ。[%e]"
+msgstr "6400:[margin top=\"228\"][margin left=\"13\"]僕は、遠くから聞こえてくる声を頼りに、諏訪をにらみつけ。[%e]"
 
 msgid "6500:[name]諏訪[line]「これが最後の１本」[%e]"
 msgstr "6500:[name]諏訪[line]「これが最後の１本」[%e]"
 
-msgid "6550:[margin top="228"][margin left="13"]「これが最後の１本」[%e]"
-msgstr "6550:[margin top="228"][margin left="13"]「これが最後の１本」[%e]"
+msgid "6550:[margin top=\"228\"][margin left=\"13\"]「これが最後の１本」[%e]"
+msgstr "6550:[margin top=\"228\"][margin left=\"13\"]「これが最後の１本」[%e]"
 
 msgid "6600:[name]諏訪[line]「神光の救いは……お前にはやらねえよ！」[%e]"
 msgstr "6600:[name]諏訪[line]「神光の救いは……お前にはやらねえよ！」[%e]"
 
-msgid "6650:[margin top="228"][margin left="13"]「神光の救いは……お前にはやらねえよ！」[%e]"
-msgstr "6650:[margin top="228"][margin left="13"]「神光の救いは……お前にはやらねえよ！」[%e]"
+msgid "6650:[margin top=\"228\"][margin left=\"13\"]「神光の救いは……お前にはやらねえよ！」[%e]"
+msgstr "6650:[margin top=\"228\"][margin left=\"13\"]「神光の救いは……お前にはやらねえよ！」[%e]"
 
 msgid "6700:諏訪は、手許の杭を投げた。[%e]"
 msgstr "6700:諏訪は、手許の杭を投げた。[%e]"
 
-msgid "6800:[margin top="228"][margin left="13"]諏訪が投げた杭の、空気を切り裂く気配を感じる。[%e]"
-msgstr "6800:[margin top="228"][margin left="13"]諏訪が投げた杭の、空気を切り裂く気配を感じる。[%e]"
+msgid "6800:[margin top=\"228\"][margin left=\"13\"]諏訪が投げた杭の、空気を切り裂く気配を感じる。[%e]"
+msgstr "6800:[margin top=\"228\"][margin left=\"13\"]諏訪が投げた杭の、空気を切り裂く気配を感じる。[%e]"
 
 msgid "6900:[name]拓巳[line]「……知ってる？」[%e]"
 msgstr "6900:[name]拓巳[line]「……知ってる？」[%e]"
 
-msgid "6950:[margin top="228"][margin left="13"]「……知ってる？」[%e]"
-msgstr "6950:[margin top="228"][margin left="13"]「……知ってる？」[%e]"
+msgid "6950:[margin top=\"228\"][margin left=\"13\"]「……知ってる？」[%e]"
+msgstr "6950:[margin top=\"228\"][margin left=\"13\"]「……知ってる？」[%e]"
 
 msgid "7000:それは必殺の杭。約束された福音をもたらす十字架。[%e]"
 msgstr "7000:それは必殺の杭。約束された福音をもたらす十字架。[%e]"
 
-msgid "7100:[margin top="228"][margin left="13"]それは必殺の杭。約束された福音をもたらす十字架。[%e]"
-msgstr "7100:[margin top="228"][margin left="13"]それは必殺の杭。約束された福音をもたらす十字架。[%e]"
+msgid "7100:[margin top=\"228\"][margin left=\"13\"]それは必殺の杭。約束された福音をもたらす十字架。[%e]"
+msgstr "7100:[margin top=\"228\"][margin left=\"13\"]それは必殺の杭。約束された福音をもたらす十字架。[%e]"
 
 msgid "7200:この一撃で、死ぬのは――[%e]"
 msgstr "7200:この一撃で、死ぬのは――[%e]"
 
-msgid "7300:[margin top="228"][margin left="13"]この一撃で、死ぬのは――[%e]"
-msgstr "7300:[margin top="228"][margin left="13"]この一撃で、死ぬのは――[%e]"
+msgid "7300:[margin top=\"228\"][margin left=\"13\"]この一撃で、死ぬのは――[%e]"
+msgstr "7300:[margin top=\"228\"][margin left=\"13\"]この一撃で、死ぬのは――[%e]"
 
 msgid "7400:[name]拓巳[line]「童貞の妄想力は、凄いんだ――」[%e]"
 msgstr "7400:[name]拓巳[line]「童貞の妄想力は、凄いんだ――」[%e]"
 
-msgid "7450:[margin top="228"][margin left="13"]「童貞の妄想力は、凄いんだ――」[%e]"
-msgstr "7450:[margin top="228"][margin left="13"]「童貞の妄想力は、凄いんだ――」[%e]"
+msgid "7450:[margin top=\"228\"][margin left=\"13\"]「童貞の妄想力は、凄いんだ――」[%e]"
+msgstr "7450:[margin top=\"228\"][margin left=\"13\"]「童貞の妄想力は、凄いんだ――」[%e]"
 
 msgid "7500:鈍い音を立てて。[%e]"
 msgstr "7500:鈍い音を立てて。[%e]"
 
-msgid "7600:[margin top="228"][margin left="13"]鈍い音を立てて。[%e]"
-msgstr "7600:[margin top="228"][margin left="13"]鈍い音を立てて。[%e]"
+msgid "7600:[margin top=\"228\"][margin left=\"13\"]鈍い音を立てて。[%e]"
+msgstr "7600:[margin top=\"228\"][margin left=\"13\"]鈍い音を立てて。[%e]"
 
 msgid "7700:杭は、額に深々と突き刺さった。[%e]"
 msgstr "7700:杭は、額に深々と突き刺さった。[%e]"
 
-msgid "7800:[margin top="228"][margin left="13"]杭は、額に深々と突き刺さった。[%e]"
-msgstr "7800:[margin top="228"][margin left="13"]杭は、額に深々と突き刺さった。[%e]"
+msgid "7800:[margin top=\"228\"][margin left=\"13\"]杭は、額に深々と突き刺さった。[%e]"
+msgstr "7800:[margin top=\"228\"][margin left=\"13\"]杭は、額に深々と突き刺さった。[%e]"
 
 msgid "7900:僕の全身を蝕んでいた激痛が、まるで幻だったかのようにすべて消え去る。[%e]"
 msgstr "7900:僕の全身を蝕んでいた激痛が、まるで幻だったかのようにすべて消え去る。[%e]"
 
-msgid "8000:[margin top="228"][margin left="13"]諏訪の全身――その体内から、湧き出るように激痛が発生した。[%e]"
-msgstr "8000:[margin top="228"][margin left="13"]諏訪の全身――その体内から、湧き出るように激痛が発生した。[%e]"
+msgid "8000:[margin top=\"228\"][margin left=\"13\"]諏訪の全身――その体内から、湧き出るように激痛が発生した。[%e]"
+msgstr "8000:[margin top=\"228\"][margin left=\"13\"]諏訪の全身――その体内から、湧き出るように激痛が発生した。[%e]"
 
 msgid "8100:僕は深く息をつき、渇いた唇をそっと舐めた。[%e]"
 msgstr "8100:僕は深く息をつき、渇いた唇をそっと舐めた。[%e]"
 
-msgid "8200:[margin top="228"][margin left="13"]諏訪は声にならない悲鳴を上げ、あえぐ。[%e]"
-msgstr "8200:[margin top="228"][margin left="13"]諏訪は声にならない悲鳴を上げ、あえぐ。[%e]"
+msgid "8200:[margin top=\"228\"][margin left=\"13\"]諏訪は声にならない悲鳴を上げ、あえぐ。[%e]"
+msgstr "8200:[margin top=\"228\"][margin left=\"13\"]諏訪は声にならない悲鳴を上げ、あえぐ。[%e]"
 
 msgid "8300:僕の手には、十字架型の杭がひとつ。[%e]"
 msgstr "8300:僕の手には、十字架型の杭がひとつ。[%e]"
 
-msgid "8400:[margin top="228"][margin left="13"]諏訪の全身には、十字架型の杭が突き刺さっている。[%e]"
-msgstr "8400:[margin top="228"][margin left="13"]諏訪の全身には、十字架型の杭が突き刺さっている。[%e]"
+msgid "8400:[margin top=\"228\"][margin left=\"13\"]諏訪の全身には、十字架型の杭が突き刺さっている。[%e]"
+msgstr "8400:[margin top=\"228\"][margin left=\"13\"]諏訪の全身には、十字架型の杭が突き刺さっている。[%e]"
 
 msgid "8500:空を見上げれば、どんよりとした雲。[%e]"
 msgstr "8500:空を見上げれば、どんよりとした雲。[%e]"
 
-msgid "8600:[margin top="228"][margin left="13"]上を見上げれば、額に突き刺さった十字架。[%e]"
-msgstr "8600:[margin top="228"][margin left="13"]上を見上げれば、額に突き刺さった十字架。[%e]"
+msgid "8600:[margin top=\"228\"][margin left=\"13\"]上を見上げれば、額に突き刺さった十字架。[%e]"
+msgstr "8600:[margin top=\"228\"][margin left=\"13\"]上を見上げれば、額に突き刺さった十字架。[%e]"
 
 msgid "8700:[name]拓巳[line]「復活の奇跡は物語で、妄想なんだ」[%e]"
 msgstr "8700:[name]拓巳[line]「復活の奇跡は物語で、妄想なんだ」[%e]"
 
-msgid "8750:[margin top="228"][margin left="13"]「復活の奇跡は物語で、妄想なんだ」[%e]"
-msgstr "8750:[margin top="228"][margin left="13"]「復活の奇跡は物語で、妄想なんだ」[%e]"
+msgid "8750:[margin top=\"228\"][margin left=\"13\"]「復活の奇跡は物語で、妄想なんだ」[%e]"
+msgstr "8750:[margin top=\"228\"][margin left=\"13\"]「復活の奇跡は物語で、妄想なんだ」[%e]"
 
 msgid "8800:[name]諏訪[line]「なに……を、し、た……？」[%e]"
 msgstr "8800:[name]諏訪[line]「なに……を、し、た……？」[%e]"
 
-msgid "8850:[margin top="228"][margin left="13"]「なに……を、し、た……？」[%e]"
-msgstr "8850:[margin top="228"][margin left="13"]「なに……を、し、た……？」[%e]"
+msgid "8850:[margin top=\"228\"][margin left=\"13\"]「なに……を、し、た……？」[%e]"
+msgstr "8850:[margin top=\"228\"][margin left=\"13\"]「なに……を、し、た……？」[%e]"
 
 msgid "8900:[name]拓巳[line]「妄想シンクロ」[%e]"
 msgstr "8900:[name]拓巳[line]「妄想シンクロ」[%e]"
 
-msgid "8950:[margin top="228"][margin left="13"]「妄想シンクロ」[%e]"
-msgstr "8950:[margin top="228"][margin left="13"]「妄想シンクロ」[%e]"
+msgid "8950:[margin top=\"228\"][margin left=\"13\"]「妄想シンクロ」[%e]"
+msgstr "8950:[margin top=\"228\"][margin left=\"13\"]「妄想シンクロ」[%e]"
 
 msgid "9000:心への侵食。[%e]"
 msgstr "9000:心への侵食。[%e]"
 
-msgid "9100:[margin top="228"][margin left="13"]妄想への同化。[%e]"
-msgstr "9100:[margin top="228"][margin left="13"]妄想への同化。[%e]"
+msgid "9100:[margin top=\"228\"][margin left=\"13\"]妄想への同化。[%e]"
+msgstr "9100:[margin top=\"228\"][margin left=\"13\"]妄想への同化。[%e]"
 
 msgid "9200:ふたつの波長が共鳴するように。[%e]"
 msgstr "9200:ふたつの波長が共鳴するように。[%e]"
 
-msgid "9300:[margin top="228"][margin left="13"]ふたつの波紋が打ち消し合うように。[%e]"
-msgstr "9300:[margin top="228"][margin left="13"]ふたつの波紋が打ち消し合うように。[%e]"
+msgid "9300:[margin top=\"228\"][margin left=\"13\"]ふたつの波紋が打ち消し合うように。[%e]"
+msgstr "9300:[margin top=\"228\"][margin left=\"13\"]ふたつの波紋が打ち消し合うように。[%e]"
 
 msgid "9400:溶け合い。[%e]"
 msgstr "9400:溶け合い。[%e]"
 
-msgid "9500:[margin top="228"][margin left="13"]絡まり合い。[%e]"
-msgstr "9500:[margin top="228"][margin left="13"]絡まり合い。[%e]"
+msgid "9500:[margin top=\"228\"][margin left=\"13\"]絡まり合い。[%e]"
+msgstr "9500:[margin top=\"228\"][margin left=\"13\"]絡まり合い。[%e]"
 
 msgid "9600:他人が作り出した因果を歪ませて。[%e]"
 msgstr "9600:他人が作り出した因果を歪ませて。[%e]"
 
-msgid "9700:[margin top="228"][margin left="13"]自分が作り出した因果が歪まされ。[%e]"
-msgstr "9700:[margin top="228"][margin left="13"]自分が作り出した因果が歪まされ。[%e]"
+msgid "9700:[margin top=\"228\"][margin left=\"13\"]自分が作り出した因果が歪まされ。[%e]"
+msgstr "9700:[margin top=\"228\"][margin left=\"13\"]自分が作り出した因果が歪まされ。[%e]"
 
 msgid "9800:入れ替えた。[%e]"
 msgstr "9800:入れ替えた。[%e]"
 
-msgid "9900:[margin top="228"][margin left="13"]入れ替えられた。[%e]"
-msgstr "9900:[margin top="228"][margin left="13"]入れ替えられた。[%e]"
+msgid "9900:[margin top=\"228\"][margin left=\"13\"]入れ替えられた。[%e]"
+msgstr "9900:[margin top=\"228\"][margin left=\"13\"]入れ替えられた。[%e]"
 
 msgid "10000:そんなことできるわけがない、と諏訪の表情は語っていた。[%e]"
 msgstr "10000:そんなことできるわけがない、と諏訪の表情は語っていた。[%e]"
 
-msgid "10100:[margin top="228"][margin left="13"]そんなことできるわけがない、と諏訪は信じられない思いだった。[%e]"
-msgstr "10100:[margin top="228"][margin left="13"]そんなことできるわけがない、と諏訪は信じられない思いだった。[%e]"
+msgid "10100:[margin top=\"228\"][margin left=\"13\"]そんなことできるわけがない、と諏訪は信じられない思いだった。[%e]"
+msgstr "10100:[margin top=\"228\"][margin left=\"13\"]そんなことできるわけがない、と諏訪は信じられない思いだった。[%e]"
 
-msgid "10200:[name]拓巳[line]「神の尖兵なら、[color index="A0FF0000"]メシア[color index="800000"]と同じように、朽ち果てろ」[%e]"
-msgstr "10200:[name]拓巳[line]「神の尖兵なら、[color index="A0FF0000"]メシア[color index="800000"]と同じように、朽ち果てろ」[%e]"
+msgid "10200:[name]拓巳[line]「神の尖兵なら、[color index=\"A0FF0000\"]メシア[color index=\"800000\"]と同じように、朽ち果てろ」[%e]"
+msgstr "10200:[name]拓巳[line]「神の尖兵なら、[color index=\"A0FF0000\"]メシア[color index=\"800000\"]と同じように、朽ち果てろ」[%e]"
 
-msgid "10250:[margin top="228"][margin left="13"]「神の尖兵なら、メシアと同じように、朽ち果てろ」[%e]"
-msgstr "10250:[margin top="228"][margin left="13"]「神の尖兵なら、メシアと同じように、朽ち果てろ」[%e]"
+msgid "10250:[margin top=\"228\"][margin left=\"13\"]「神の尖兵なら、メシアと同じように、朽ち果てろ」[%e]"
+msgstr "10250:[margin top=\"228\"][margin left=\"13\"]「神の尖兵なら、メシアと同じように、朽ち果てろ」[%e]"
 
 msgid "10300:僕は、杭を放り捨てる。[%e]"
 msgstr "10300:僕は、杭を放り捨てる。[%e]"
 
-msgid "10400:[margin top="228"][margin left="13"]拓巳が、杭を放り捨てる。[%e]"
-msgstr "10400:[margin top="228"][margin left="13"]拓巳が、杭を放り捨てる。[%e]"
+msgid "10400:[margin top=\"228\"][margin left=\"13\"]拓巳が、杭を放り捨てる。[%e]"
+msgstr "10400:[margin top=\"228\"][margin left=\"13\"]拓巳が、杭を放り捨てる。[%e]"
 
 msgid "10500:諏訪の瞳から、急速に輝きが失われていく。[%e]"
 msgstr "10500:諏訪の瞳から、急速に輝きが失われていく。[%e]"
 
-msgid "10600:[margin top="228"][margin left="13"]諏訪の視界から、急速に色が失われていく。[%e]"
-msgstr "10600:[margin top="228"][margin left="13"]諏訪の視界から、急速に色が失われていく。[%e]"
+msgid "10600:[margin top=\"228\"][margin left=\"13\"]諏訪の視界から、急速に色が失われていく。[%e]"
+msgstr "10600:[margin top=\"228\"][margin left=\"13\"]諏訪の視界から、急速に色が失われていく。[%e]"
 
 msgid "10700:[name]拓巳[line]「それと」[%e]"
 msgstr "10700:[name]拓巳[line]「それと」[%e]"
 
-msgid "10750:[margin top="228"][margin left="13"]「それと」[%e]"
-msgstr "10750:[margin top="228"][margin left="13"]「それと」[%e]"
+msgid "10750:[margin top=\"228\"][margin left=\"13\"]「それと」[%e]"
+msgstr "10750:[margin top=\"228\"][margin left=\"13\"]「それと」[%e]"
 
 msgid "10800:[name]拓巳[line]「僕は、救いなんか、いらないよ」[%e]"
 msgstr "10800:[name]拓巳[line]「僕は、救いなんか、いらないよ」[%e]"
 
-msgid "10850:[margin top="228"][margin left="13"]「僕は、救いなんか、いらないよ」[%e]"
-msgstr "10850:[margin top="228"][margin left="13"]「僕は、救いなんか、いらないよ」[%e]"
+msgid "10850:[margin top=\"228\"][margin left=\"13\"]「僕は、救いなんか、いらないよ」[%e]"
+msgstr "10850:[margin top=\"228\"][margin left=\"13\"]「僕は、救いなんか、いらないよ」[%e]"
 

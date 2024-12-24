@@ -210,8 +210,8 @@ msgstr "6500:諏訪の口振りは嘆きに近い。[%p]"
 msgid "6600:これまでにも何度も判には振り回されてきたが、今回ばかりはさすがの諏訪も呆れ返ったようだった。[%p]"
 msgstr "6600:これまでにも何度も判には振り回されてきたが、今回ばかりはさすがの諏訪も呆れ返ったようだった。[%p]"
 
-msgid "6700:[name]諏訪[line]「サイキック捜査とか？\u3000[color index="A0FF0000"]ダウジング[color index="800000"]とか？」[%p]"
-msgstr "6700:[name]諏訪[line]「サイキック捜査とか？\u3000[color index="A0FF0000"]ダウジング[color index="800000"]とか？」[%p]"
+msgid "6700:[name]諏訪[line]「サイキック捜査とか？\u3000[color index=\"A0FF0000\"]ダウジング[color index=\"800000\"]とか？」[%p]"
+msgstr "6700:[name]諏訪[line]「サイキック捜査とか？\u3000[color index=\"A0FF0000\"]ダウジング[color index=\"800000\"]とか？」[%p]"
 
 msgid "6800:[name]諏訪[line]「その手のテレビでも見て影響受けたんスね、先輩……」[%p]"
 msgstr "6800:[name]諏訪[line]「その手のテレビでも見て影響受けたんスね、先輩……」[%p]"
@@ -225,8 +225,8 @@ msgstr "7000:[name]諏訪[line]「いや、まあ自分も見たは見たッス�
 msgid "7100:[name]判[line]「ユーリ・ブラ……？」[%p]"
 msgstr "7100:[name]判[line]「ユーリ・ブラ……？」[%p]"
 
-msgid "7200:[name]諏訪[line]「ユーリ・ブライトマンッスよ。今話題になってる、アメリカの[color index="A0FF0000"]超能力捜査官[color index="800000"]ッス」[%p]"
-msgstr "7200:[name]諏訪[line]「ユーリ・ブライトマンッスよ。今話題になってる、アメリカの[color index="A0FF0000"]超能力捜査官[color index="800000"]ッス」[%p]"
+msgid "7200:[name]諏訪[line]「ユーリ・ブライトマンッスよ。今話題になってる、アメリカの[color index=\"A0FF0000\"]超能力捜査官[color index=\"800000\"]ッス」[%p]"
+msgstr "7200:[name]諏訪[line]「ユーリ・ブライトマンッスよ。今話題になってる、アメリカの[color index=\"A0FF0000\"]超能力捜査官[color index=\"800000\"]ッス」[%p]"
 
 msgid "7300:[name]判[line]「俺が見たのはそんなチャラチャラしたもんじゃねえよ」[%p]"
 msgstr "7300:[name]判[line]「俺が見たのはそんなチャラチャラしたもんじゃねえよ」[%p]"

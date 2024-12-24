@@ -579,8 +579,8 @@ msgstr "18800:[name]梢[line]「剣が見える人だよ」[%p]"
 msgid "18900:いや、もっと詳しく、えっと、原理とか……[%p]"
 msgstr "18900:いや、もっと詳しく、えっと、原理とか……[%p]"
 
-msgid "19000:[name]セナ[line]「“[color index="A0FF0000"]ディラックの海[color index="800000"]”に干渉できる力を持つ者」[%p]"
-msgstr "19000:[name]セナ[line]「“[color index="A0FF0000"]ディラックの海[color index="800000"]”に干渉できる力を持つ者」[%p]"
+msgid "19000:[name]セナ[line]「“[color index=\"A0FF0000\"]ディラックの海[color index=\"800000\"]”に干渉できる力を持つ者」[%p]"
+msgstr "19000:[name]セナ[line]「“[color index=\"A0FF0000\"]ディラックの海[color index=\"800000\"]”に干渉できる力を持つ者」[%p]"
 
 msgid "19100:[name]セナ[line]「それが、ギガロマニアックスだ」[%p]"
 msgstr "19100:[name]セナ[line]「それが、ギガロマニアックスだ」[%p]"
@@ -612,8 +612,8 @@ msgstr "19900:[name]セナ[line]「大ざっぱに言えばそんなようなも
 msgid "20000:[name]セナ[line]「そしてそこに干渉するための端末が、ディソード。ディラックの海に突っ込んだパイプの先端と考えればいい」[%p]"
 msgstr "20000:[name]セナ[line]「そしてそこに干渉するための端末が、ディソード。ディラックの海に突っ込んだパイプの先端と考えればいい」[%p]"
 
-msgid "20100:[name]セナ[line]「ディラックの海と繋がっているから、ディソードも[color index="A0FF0000"]負の物質[color index="800000"]で構成されている。無限に崩壊している存在なんだ」[%p]"
-msgstr "20100:[name]セナ[line]「ディラックの海と繋がっているから、ディソードも[color index="A0FF0000"]負の物質[color index="800000"]で構成されている。無限に崩壊している存在なんだ」[%p]"
+msgid "20100:[name]セナ[line]「ディラックの海と繋がっているから、ディソードも[color index=\"A0FF0000\"]負の物質[color index=\"800000\"]で構成されている。無限に崩壊している存在なんだ」[%p]"
+msgstr "20100:[name]セナ[line]「ディラックの海と繋がっているから、ディソードも[color index=\"A0FF0000\"]負の物質[color index=\"800000\"]で構成されている。無限に崩壊している存在なんだ」[%p]"
 
 msgid "20200:[name]セナ[line]「だから普段は普通の人間には触れることも見ることもできない、妄想のようなものでしかない」[%p]"
 msgstr "20200:[name]セナ[line]「だから普段は普通の人間には触れることも見ることもできない、妄想のようなものでしかない」[%p]"
@@ -624,8 +624,8 @@ msgstr "20300:[name]セナ[line]「このディソードこそ、あらゆるリ
 msgid "20400:[name]セナ[line]「ディソードとディラックの海とのチャネルを大きくすることで――」[%p]"
 msgstr "20400:[name]セナ[line]「ディソードとディラックの海とのチャネルを大きくすることで――」[%p]"
 
-msgid "20500:[name]セナ[line]「ディラック方程式の[color index="A0FF0000"]空孔理論[color index="800000"]によって[color index="A0FE0000"]対生成[color index="800000"]が起き、[color index="A0FD0000"]粒子[color index="800000"]と反粒子を作り出せる」[%p]"
-msgstr "20500:[name]セナ[line]「ディラック方程式の[color index="A0FF0000"]空孔理論[color index="800000"]によって[color index="A0FE0000"]対生成[color index="800000"]が起き、[color index="A0FD0000"]粒子[color index="800000"]と反粒子を作り出せる」[%p]"
+msgid "20500:[name]セナ[line]「ディラック方程式の[color index=\"A0FF0000\"]空孔理論[color index=\"800000\"]によって[color index=\"A0FE0000\"]対生成[color index=\"800000\"]が起き、[color index=\"A0FD0000\"]粒子[color index=\"800000\"]と反粒子を作り出せる」[%p]"
+msgstr "20500:[name]セナ[line]「ディラック方程式の[color index=\"A0FF0000\"]空孔理論[color index=\"800000\"]によって[color index=\"A0FE0000\"]対生成[color index=\"800000\"]が起き、[color index=\"A0FD0000\"]粒子[color index=\"800000\"]と反粒子を作り出せる」[%p]"
 
 msgid "20600:[name]セナ[line]「この粒子が、ギガロマニアックスが生み出す妄想、世界にとってのエラー」[%p]"
 msgstr "20600:[name]セナ[line]「この粒子が、ギガロマニアックスが生み出す妄想、世界にとってのエラー」[%p]"
@@ -819,8 +819,8 @@ msgstr "26800:[name]梢[line]「えーと、どうやって手に入れるかっ
 msgid "26900:こずぴぃが指をくわえてセナを見る。[linebreak]セナはまたため息をついた。[%p]"
 msgstr "26900:こずぴぃが指をくわえてセナを見る。[linebreak]セナはまたため息をついた。[%p]"
 
-msgid "27000:[name]セナ[line]「バイオリズムの上昇によって、中脳辺縁系[color index="A0FF0000"]ニューロン[color index="800000"]のドーパミンが過剰分泌されたとき、ディソードは現れる」[%p]"
-msgstr "27000:[name]セナ[line]「バイオリズムの上昇によって、中脳辺縁系[color index="A0FF0000"]ニューロン[color index="800000"]のドーパミンが過剰分泌されたとき、ディソードは現れる」[%p]"
+msgid "27000:[name]セナ[line]「バイオリズムの上昇によって、中脳辺縁系[color index=\"A0FF0000\"]ニューロン[color index=\"800000\"]のドーパミンが過剰分泌されたとき、ディソードは現れる」[%p]"
+msgstr "27000:[name]セナ[line]「バイオリズムの上昇によって、中脳辺縁系[color index=\"A0FF0000\"]ニューロン[color index=\"800000\"]のドーパミンが過剰分泌されたとき、ディソードは現れる」[%p]"
 
 msgid "27100:[name]セナ[line]「それは危機的な状況や、興奮、悲しみ、憎しみ、笑いなど人それぞれだ」[%p]"
 msgstr "27100:[name]セナ[line]「それは危機的な状況や、興奮、悲しみ、憎しみ、笑いなど人それぞれだ」[%p]"

@@ -270,8 +270,8 @@ msgstr "8500:[name]セナ[line]「こんなの……っ」[%p]"
 msgid "8600:[name]梨深[line]「あなたが、望んだ妄想だよ」[%e]"
 msgstr "8600:[name]梨深[line]「あなたが、望んだ妄想だよ」[%e]"
 
-msgid "8700:[name]男[line][margin top="266"][margin left="350"]「お前が、望んだ妄想だ」[%e]"
-msgstr "8700:[name]男[line][margin top="266"][margin left="350"]「お前が、望んだ妄想だ」[%e]"
+msgid "8700:[name]男[line][margin top=\"266\"][margin left=\"350\"]「お前が、望んだ妄想だ」[%e]"
+msgstr "8700:[name]男[line][margin top=\"266\"][margin left=\"350\"]「お前が、望んだ妄想だ」[%e]"
 
 msgid "8800:[name]セナ[line]「――――っ」[%p]"
 msgstr "8800:[name]セナ[line]「――――っ」[%p]"

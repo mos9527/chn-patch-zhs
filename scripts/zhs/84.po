@@ -105,8 +105,8 @@ msgstr "3000:[name]三住[line]「自信なくすぜ……くそぅ」[%p]"
 msgid "3100:完全無視された三住くんが、ふてくされている。[%p]"
 msgstr "3100:完全無視された三住くんが、ふてくされている。[%p]"
 
-msgid "3200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index="A0FF0000"]百合属性[color index="800000"]なのかもしれない。[%p]"
-msgstr "3200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index="A0FF0000"]百合属性[color index="800000"]なのかもしれない。[%p]"
+msgid "3200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index=\"A0FF0000\"]百合属性[color index=\"800000\"]なのかもしれない。[%p]"
+msgstr "3200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index=\"A0FF0000\"]百合属性[color index=\"800000\"]なのかもしれない。[%p]"
 
 msgid "3300:[name]拓巳[line]「……そ、それは……すごく、いいスールです。ふひひ」[%p]"
 msgstr "3300:[name]拓巳[line]「……そ、それは……すごく、いいスールです。ふひひ」[%p]"
@@ -315,8 +315,8 @@ msgstr "10000:[name]三住[line]「自信なくすぜ……くそぅ」[%p]"
 msgid "10100:完全無視された三住くんが、ふてくされている。[%p]"
 msgstr "10100:完全無視された三住くんが、ふてくされている。[%p]"
 
-msgid "10200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index="A0FF0000"]百合属性[color index="800000"]なのかもしれない。[%p]"
-msgstr "10200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index="A0FF0000"]百合属性[color index="800000"]なのかもしれない。[%p]"
+msgid "10200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index=\"A0FF0000\"]百合属性[color index=\"800000\"]なのかもしれない。[%p]"
+msgstr "10200:彼ほどのイケメンの誘いをあそこまで華麗にスルーするっていうことは、ＦＥＳはもしかすると[color index=\"A0FF0000\"]百合属性[color index=\"800000\"]なのかもしれない。[%p]"
 
 msgid "10300:[name]拓巳[line]「……そ、それは……すごく、いいスールです。ふひひ」[%p]"
 msgstr "10300:[name]拓巳[line]「……そ、それは……すごく、いいスールです。ふひひ」[%p]"
@@ -435,23 +435,23 @@ msgstr "14000:あの女が持っていた剣も、形は違うけど、ＦＥＳ
 msgid "14100:分からない……。[linebreak]分からないことだらけだ。[%p]"
 msgstr "14100:分からない……。[linebreak]分からないことだらけだ。[%p]"
 
-msgid "14200:[margin top="114"][margin left="440"]・将軍[linebreak]"
-msgstr "14200:[margin top="114"][margin left="440"]・将軍[linebreak]"
+msgid "14200:[margin top=\"114\"][margin left=\"440\"]・将軍[linebreak]"
+msgstr "14200:[margin top=\"114\"][margin left=\"440\"]・将軍[linebreak]"
 
-msgid "14300:[margin left="440"]・悪魔女[linebreak]"
-msgstr "14300:[margin left="440"]・悪魔女[linebreak]"
+msgid "14300:[margin left=\"440\"]・悪魔女[linebreak]"
+msgstr "14300:[margin left=\"440\"]・悪魔女[linebreak]"
 
-msgid "14400:[margin left="440"]・優愛[linebreak]"
-msgstr "14400:[margin left="440"]・優愛[linebreak]"
+msgid "14400:[margin left=\"440\"]・優愛[linebreak]"
+msgstr "14400:[margin left=\"440\"]・優愛[linebreak]"
 
-msgid "14500:[margin left="440"]・ＦＥＳ[linebreak]"
-msgstr "14500:[margin left="440"]・ＦＥＳ[linebreak]"
+msgid "14500:[margin left=\"440\"]・ＦＥＳ[linebreak]"
+msgstr "14500:[margin left=\"440\"]・ＦＥＳ[linebreak]"
 
-msgid "14600:[margin left="440"]・セナ[linebreak]"
-msgstr "14600:[margin left="440"]・セナ[linebreak]"
+msgid "14600:[margin left=\"440\"]・セナ[linebreak]"
+msgstr "14600:[margin left=\"440\"]・セナ[linebreak]"
 
-msgid "14700:[margin left="440"]・剣[%e]"
-msgstr "14700:[margin left="440"]・剣[%e]"
+msgid "14700:[margin left=\"440\"]・剣[%e]"
+msgstr "14700:[margin left=\"440\"]・剣[%e]"
 
 msgid "14800:・将軍[linebreak]・悪魔女[linebreak]・優愛[linebreak]・ＦＥＳ[linebreak]・セナ[linebreak]・剣"
 msgstr "14800:・将軍[linebreak]・悪魔女[linebreak]・優愛[linebreak]・ＦＥＳ[linebreak]・セナ[linebreak]・剣"

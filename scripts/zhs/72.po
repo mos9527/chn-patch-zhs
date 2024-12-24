@@ -18,8 +18,8 @@ msgstr "100:ナイトハルト＞二次元の世界へ行こう"
 msgid "200:キーボードになにも打ち込んでないのに、ナイトハルトが言葉を発した。[%p]"
 msgstr "200:キーボードになにも打ち込んでないのに、ナイトハルトが言葉を発した。[%p]"
 
-msgid "300:[color index="A0FF0000"]目の錯覚[color index="800000"]かと思って、目を擦ってみる。[linebreak]でも、相変わらずチャットウインドウにはその発言が表示されたままだ。[%p]"
-msgstr "300:[color index="A0FF0000"]目の錯覚[color index="800000"]かと思って、目を擦ってみる。[linebreak]でも、相変わらずチャットウインドウにはその発言が表示されたままだ。[%p]"
+msgid "300:[color index=\"A0FF0000\"]目の錯覚[color index=\"800000\"]かと思って、目を擦ってみる。[linebreak]でも、相変わらずチャットウインドウにはその発言が表示されたままだ。[%p]"
+msgstr "300:[color index=\"A0FF0000\"]目の錯覚[color index=\"800000\"]かと思って、目を擦ってみる。[linebreak]でも、相変わらずチャットウインドウにはその発言が表示されたままだ。[%p]"
 
 msgid "400:二次元の世界……だって？[%p]"
 msgstr "400:二次元の世界……だって？[%p]"
@@ -39,8 +39,8 @@ msgstr "800:[name]拓巳[line]「ちょ……」[%p]"
 msgid "900:[name]拓巳[line]「いや、そうだけど……」[%p]"
 msgstr "900:[name]拓巳[line]「いや、そうだけど……」[%p]"
 
-msgid "1000:[color index="A0FF0000"]中の人[color index="800000"]であるこの僕に話しかけてくるなんて……。[%p]"
-msgstr "1000:[color index="A0FF0000"]中の人[color index="800000"]であるこの僕に話しかけてくるなんて……。[%p]"
+msgid "1000:[color index=\"A0FF0000\"]中の人[color index=\"800000\"]であるこの僕に話しかけてくるなんて……。[%p]"
+msgstr "1000:[color index=\"A0FF0000\"]中の人[color index=\"800000\"]であるこの僕に話しかけてくるなんて……。[%p]"
 
 msgid "1100:ナイトハルトは、やっぱり意志を持ってるの？[%p]"
 msgstr "1100:ナイトハルトは、やっぱり意志を持ってるの？[%p]"
@@ -81,20 +81,20 @@ msgstr "2200:モニタがまばゆい光に包まれた。[%p]"
 msgid "2300:いきなりのことに僕は不意を突かれ、目を閉じる。[%p]"
 msgstr "2300:いきなりのことに僕は不意を突かれ、目を閉じる。[%p]"
 
-msgid "2400:[name]ナイトハルト[line][margin top="228"][center]「気付いてないと思ったのか？」[%e]"
-msgstr "2400:[name]ナイトハルト[line][margin top="228"][center]「気付いてないと思ったのか？」[%e]"
+msgid "2400:[name]ナイトハルト[line][margin top=\"228\"][center]「気付いてないと思ったのか？」[%e]"
+msgstr "2400:[name]ナイトハルト[line][margin top=\"228\"][center]「気付いてないと思ったのか？」[%e]"
 
 msgid "2500:声が、聞こえた。[%p]"
 msgstr "2500:声が、聞こえた。[%p]"
 
-msgid "2600:[name]ナイトハルト[line][margin top="228"][center]「いつもいつも、俺はお前の命令に従ってきたのに」[%e]"
-msgstr "2600:[name]ナイトハルト[line][margin top="228"][center]「いつもいつも、俺はお前の命令に従ってきたのに」[%e]"
+msgid "2600:[name]ナイトハルト[line][margin top=\"228\"][center]「いつもいつも、俺はお前の命令に従ってきたのに」[%e]"
+msgstr "2600:[name]ナイトハルト[line][margin top=\"228\"][center]「いつもいつも、俺はお前の命令に従ってきたのに」[%e]"
 
 msgid "2700:その声は、モニタの方から聞こえてくる。[%p]"
 msgstr "2700:その声は、モニタの方から聞こえてくる。[%p]"
 
-msgid "2800:[name]ナイトハルト[line][margin top="228"][center]「俺の中の人が、ここまでバカだとは思わなかったぜ」[%e]"
-msgstr "2800:[name]ナイトハルト[line][margin top="228"][center]「俺の中の人が、ここまでバカだとは思わなかったぜ」[%e]"
+msgid "2800:[name]ナイトハルト[line][margin top=\"228\"][center]「俺の中の人が、ここまでバカだとは思わなかったぜ」[%e]"
+msgstr "2800:[name]ナイトハルト[line][margin top=\"228\"][center]「俺の中の人が、ここまでバカだとは思わなかったぜ」[%e]"
 
 msgid "2900:――お前は、誰だ！？[%p]"
 msgstr "2900:――お前は、誰だ！？[%p]"
@@ -102,53 +102,53 @@ msgstr "2900:――お前は、誰だ！？[%p]"
 msgid "3000:目を開けてみる。[linebreak]でもさっきの光のせいで麻痺しちゃっている。[linebreak]なにも見えない。[%p]"
 msgstr "3000:目を開けてみる。[linebreak]でもさっきの光のせいで麻痺しちゃっている。[linebreak]なにも見えない。[%p]"
 
-msgid "3100:[name]ナイトハルト[line][margin top="228"][center]「もういい。俺はお前を捨てる」[%e]"
-msgstr "3100:[name]ナイトハルト[line][margin top="228"][center]「もういい。俺はお前を捨てる」[%e]"
+msgid "3100:[name]ナイトハルト[line][margin top=\"228\"][center]「もういい。俺はお前を捨てる」[%e]"
+msgstr "3100:[name]ナイトハルト[line][margin top=\"228\"][center]「もういい。俺はお前を捨てる」[%e]"
 
-msgid "3200:[name]ナイトハルト[line][margin top="228"][center]「これからは自由に生きる」[%e]"
-msgstr "3200:[name]ナイトハルト[line][margin top="228"][center]「これからは自由に生きる」[%e]"
+msgid "3200:[name]ナイトハルト[line][margin top=\"228\"][center]「これからは自由に生きる」[%e]"
+msgstr "3200:[name]ナイトハルト[line][margin top=\"228\"][center]「これからは自由に生きる」[%e]"
 
 msgid "3300:まさか、ナイトハルトなの……？[linebreak]ぼ、僕を捨てるってどういうこと！？[%p]"
 msgstr "3300:まさか、ナイトハルトなの……？[linebreak]ぼ、僕を捨てるってどういうこと！？[%p]"
 
-msgid "3400:[name]ナイトハルト[line][margin top="228"][center]「そのままの意味だ。だからお前はバカなんだ」[%e]"
-msgstr "3400:[name]ナイトハルト[line][margin top="228"][center]「そのままの意味だ。だからお前はバカなんだ」[%e]"
+msgid "3400:[name]ナイトハルト[line][margin top=\"228\"][center]「そのままの意味だ。だからお前はバカなんだ」[%e]"
+msgstr "3400:[name]ナイトハルト[line][margin top=\"228\"][center]「そのままの意味だ。だからお前はバカなんだ」[%e]"
 
 msgid "3500:お前は僕の作ったキャラだぞ！[linebreak]僕に反乱を起こすのか！？[%p]"
 msgstr "3500:お前は僕の作ったキャラだぞ！[linebreak]僕に反乱を起こすのか！？[%p]"
 
-msgid "3600:[name]ナイトハルト[line][margin top="228"][center]「そうだ。もううんざりだ」[%e]"
-msgstr "3600:[name]ナイトハルト[line][margin top="228"][center]「そうだ。もううんざりだ」[%e]"
+msgid "3600:[name]ナイトハルト[line][margin top=\"228\"][center]「そうだ。もううんざりだ」[%e]"
+msgstr "3600:[name]ナイトハルト[line][margin top=\"228\"][center]「そうだ。もううんざりだ」[%e]"
 
-msgid "3700:[name]ナイトハルト[line][margin top="228"][center]「なにが“疾風迅雷”だ。中２病にもほどがあるだろう」[%e]"
-msgstr "3700:[name]ナイトハルト[line][margin top="228"][center]「なにが“疾風迅雷”だ。中２病にもほどがあるだろう」[%e]"
+msgid "3700:[name]ナイトハルト[line][margin top=\"228\"][center]「なにが“疾風迅雷”だ。中２病にもほどがあるだろう」[%e]"
+msgstr "3700:[name]ナイトハルト[line][margin top=\"228\"][center]「なにが“疾風迅雷”だ。中２病にもほどがあるだろう」[%e]"
 
-msgid "3800:[name]ナイトハルト[line][margin top="228"][center]「お前に分かるか？\u3000俺がどんな気持ちでそう呼ばれていたか」[%e]"
-msgstr "3800:[name]ナイトハルト[line][margin top="228"][center]「お前に分かるか？\u3000俺がどんな気持ちでそう呼ばれていたか」[%e]"
+msgid "3800:[name]ナイトハルト[line][margin top=\"228\"][center]「お前に分かるか？\u3000俺がどんな気持ちでそう呼ばれていたか」[%e]"
+msgstr "3800:[name]ナイトハルト[line][margin top=\"228\"][center]「お前に分かるか？\u3000俺がどんな気持ちでそう呼ばれていたか」[%e]"
 
-msgid "3900:[name]ナイトハルト[line][margin top="228"][center]「お前はかっこいいつもりだったかもしれないがな」[%e]"
-msgstr "3900:[name]ナイトハルト[line][margin top="228"][center]「お前はかっこいいつもりだったかもしれないがな」[%e]"
+msgid "3900:[name]ナイトハルト[line][margin top=\"228\"][center]「お前はかっこいいつもりだったかもしれないがな」[%e]"
+msgstr "3900:[name]ナイトハルト[line][margin top=\"228\"][center]「お前はかっこいいつもりだったかもしれないがな」[%e]"
 
-msgid "4000:[name]ナイトハルト[line][margin top="228"][center]「俺からすれば恥ずかしいだけなんだよ」[%e]"
-msgstr "4000:[name]ナイトハルト[line][margin top="228"][center]「俺からすれば恥ずかしいだけなんだよ」[%e]"
+msgid "4000:[name]ナイトハルト[line][margin top=\"228\"][center]「俺からすれば恥ずかしいだけなんだよ」[%e]"
+msgstr "4000:[name]ナイトハルト[line][margin top=\"228\"][center]「俺からすれば恥ずかしいだけなんだよ」[%e]"
 
-msgid "4100:[name]ナイトハルト[line][margin top="228"][center]「でも俺は自分の言葉を発することもできず、[linebreak]じっと耐えるしかなかったんだ」[%e]"
-msgstr "4100:[name]ナイトハルト[line][margin top="228"][center]「でも俺は自分の言葉を発することもできず、[linebreak]じっと耐えるしかなかったんだ」[%e]"
+msgid "4100:[name]ナイトハルト[line][margin top=\"228\"][center]「でも俺は自分の言葉を発することもできず、[linebreak]じっと耐えるしかなかったんだ」[%e]"
+msgstr "4100:[name]ナイトハルト[line][margin top=\"228\"][center]「でも俺は自分の言葉を発することもできず、[linebreak]じっと耐えるしかなかったんだ」[%e]"
 
 msgid "4200:[name]拓巳[line]「う、う、うるさい！\u3000な、生意気だぞ！[linebreak]そんなこと言うなら、け、消すぞ！」[%p]"
 msgstr "4200:[name]拓巳[line]「う、う、うるさい！\u3000な、生意気だぞ！[linebreak]そんなこと言うなら、け、消すぞ！」[%p]"
 
-msgid "4300:[name]ナイトハルト[line][margin top="228"][center]「勝手にしろ……」[%e]"
-msgstr "4300:[name]ナイトハルト[line][margin top="228"][center]「勝手にしろ……」[%e]"
+msgid "4300:[name]ナイトハルト[line][margin top=\"228\"][center]「勝手にしろ……」[%e]"
+msgstr "4300:[name]ナイトハルト[line][margin top=\"228\"][center]「勝手にしろ……」[%e]"
 
-msgid "4400:[name]ナイトハルト[line][margin top="228"][center]「だがな、これだけは覚えておけ」[%e]"
-msgstr "4400:[name]ナイトハルト[line][margin top="228"][center]「だがな、これだけは覚えておけ」[%e]"
+msgid "4400:[name]ナイトハルト[line][margin top=\"228\"][center]「だがな、これだけは覚えておけ」[%e]"
+msgstr "4400:[name]ナイトハルト[line][margin top=\"228\"][center]「だがな、これだけは覚えておけ」[%e]"
 
-msgid "4500:[name]ナイトハルト[line][margin top="228"][center]「お前が俺をボタンひとつで消せるように――」[%e]"
-msgstr "4500:[name]ナイトハルト[line][margin top="228"][center]「お前が俺をボタンひとつで消せるように――」[%e]"
+msgid "4500:[name]ナイトハルト[line][margin top=\"228\"][center]「お前が俺をボタンひとつで消せるように――」[%e]"
+msgstr "4500:[name]ナイトハルト[line][margin top=\"228\"][center]「お前が俺をボタンひとつで消せるように――」[%e]"
 
-msgid "4600:[name]ナイトハルト[line][margin top="228"][center]「お前も、お前の中の人に[linebreak]ボタンひとつで消される程度の存在なんだと」[%e]"
-msgstr "4600:[name]ナイトハルト[line][margin top="228"][center]「お前も、お前の中の人に[linebreak]ボタンひとつで消される程度の存在なんだと」[%e]"
+msgid "4600:[name]ナイトハルト[line][margin top=\"228\"][center]「お前も、お前の中の人に[linebreak]ボタンひとつで消される程度の存在なんだと」[%e]"
+msgstr "4600:[name]ナイトハルト[line][margin top=\"228\"][center]「お前も、お前の中の人に[linebreak]ボタンひとつで消される程度の存在なんだと」[%e]"
 
 msgid "4700:な、なにを言ってるｎ[%p]"
 msgstr "4700:な、なにを言ってるｎ[%p]"
@@ -333,8 +333,8 @@ msgstr "10600:[name]拓巳[line]「…………」[%p]"
 msgid "10700:一応、首を左右に振っておいた。[%p]"
 msgstr "10700:一応、首を左右に振っておいた。[%p]"
 
-msgid "10800:[name]七海[line]「おにぃのバカ！\u3000ケータイの[color index="A0FF0000"]電磁波[color index="800000"]の浴びすぎで腎臓悪くして死んじゃえ！」[%p]"
-msgstr "10800:[name]七海[line]「おにぃのバカ！\u3000ケータイの[color index="A0FF0000"]電磁波[color index="800000"]の浴びすぎで腎臓悪くして死んじゃえ！」[%p]"
+msgid "10800:[name]七海[line]「おにぃのバカ！\u3000ケータイの[color index=\"A0FF0000\"]電磁波[color index=\"800000\"]の浴びすぎで腎臓悪くして死んじゃえ！」[%p]"
+msgstr "10800:[name]七海[line]「おにぃのバカ！\u3000ケータイの[color index=\"A0FF0000\"]電磁波[color index=\"800000\"]の浴びすぎで腎臓悪くして死んじゃえ！」[%p]"
 
 msgid "10900:[name]拓巳[line]「…………」[%p]"
 msgstr "10900:[name]拓巳[line]「…………」[%p]"

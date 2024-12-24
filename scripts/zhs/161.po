@@ -861,8 +861,8 @@ msgstr "28200:それを読んで、ようやく理解した。[%p]"
 msgid "28300:スクランブル交差点に集まっているマスコミや[linebreak]野次馬が見ているのは……僕だ……。[%p]"
 msgstr "28300:スクランブル交差点に集まっているマスコミや[linebreak]野次馬が見ているのは……僕だ……。[%p]"
 
-msgid "28400:[margin top="266"][center]――僕を、見るな。[unk19 index="0"]"
-msgstr "28400:[margin top="266"][center]――僕を、見るな。[unk19 index="0"]"
+msgid "28400:[margin top=\"266\"][center]――僕を、見るな。[unk19 index=\"0\"]"
+msgstr "28400:[margin top=\"266\"][center]――僕を、見るな。[unk19 index=\"0\"]"
 
 msgid "28500:なんで、僕なんかに注目するんだ。[linebreak]エスパー少年？\u3000なんだよそれ。[%p]"
 msgstr "28500:なんで、僕なんかに注目するんだ。[linebreak]エスパー少年？\u3000なんだよそれ。[%p]"

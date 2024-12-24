@@ -318,14 +318,14 @@ msgstr "10100:[name]男Ｂ[line]「オレらのこと恨まないでねぇ。ひ
 msgid "10200:ごめんなさい……ごめんなさい……。[%p]"
 msgstr "10200:ごめんなさい……ごめんなさい……。[%p]"
 
-msgid "10300:[margin top="266"][center]――殺してやりたい。[%e]"
-msgstr "10300:[margin top="266"][center]――殺してやりたい。[%e]"
+msgid "10300:[margin top=\"266\"][center]――殺してやりたい。[%e]"
+msgstr "10300:[margin top=\"266\"][center]――殺してやりたい。[%e]"
 
 msgid "10400:ごめんなさい……ごめ、んなさい……っ。[%p]"
 msgstr "10400:ごめんなさい……ごめ、んなさい……っ。[%p]"
 
-msgid "10500:[margin top="266"][center]――殺してやりたい。[%e]"
-msgstr "10500:[margin top="266"][center]――殺してやりたい。[%e]"
+msgid "10500:[margin top=\"266\"][center]――殺してやりたい。[%e]"
+msgstr "10500:[margin top=\"266\"][center]――殺してやりたい。[%e]"
 
 msgid "10600:[name]男Ｃ[line]「ぐえっ！」[%p]"
 msgstr "10600:[name]男Ｃ[line]「ぐえっ！」[%p]"

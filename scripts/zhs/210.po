@@ -15,8 +15,8 @@ msgstr "0:[name]野呂瀬[line]「ノアⅡに搭載されている中で最も�
 msgid "100:[name]野呂瀬[line]「これは人類史上、いまだ解答が見つかっていないとされているもの」[%p]"
 msgstr "100:[name]野呂瀬[line]「これは人類史上、いまだ解答が見つかっていないとされているもの」[%p]"
 
-msgid "200:[name]男Ｂ[line]「[color index="A0FF0000"]ミレニアム７[color index="800000"]のうちのひとつかね？」[%p]"
-msgstr "200:[name]男Ｂ[line]「[color index="A0FF0000"]ミレニアム７[color index="800000"]のうちのひとつかね？」[%p]"
+msgid "200:[name]男Ｂ[line]「[color index=\"A0FF0000\"]ミレニアム７[color index=\"800000\"]のうちのひとつかね？」[%p]"
+msgstr "200:[name]男Ｂ[line]「[color index=\"A0FF0000\"]ミレニアム７[color index=\"800000\"]のうちのひとつかね？」[%p]"
 
 msgid "300:[name]男Ｃ[line]「億単位の懸賞金がかけられているという、数学界で未だ未解決の、７つの問題か」[%p]"
 msgstr "300:[name]男Ｃ[line]「億単位の懸賞金がかけられているという、数学界で未だ未解決の、７つの問題か」[%p]"
@@ -39,8 +39,8 @@ msgstr "800:[name]野呂瀬[line]「世界に災厄を撒き散らす可能性�
 msgid "900:[name]男Ｃ[line]「いったいどのような数式なのだ」[%p]"
 msgstr "900:[name]男Ｃ[line]「いったいどのような数式なのだ」[%p]"
 
-msgid "1000:[name]野呂瀬[line]「『[color index="A0FF0000"]基本相互作用[color index="800000"]』における電磁気力を想定した共鳴現象。それを現す計算式です」[%p]"
-msgstr "1000:[name]野呂瀬[line]「『[color index="A0FF0000"]基本相互作用[color index="800000"]』における電磁気力を想定した共鳴現象。それを現す計算式です」[%p]"
+msgid "1000:[name]野呂瀬[line]「『[color index=\"A0FF0000\"]基本相互作用[color index=\"800000\"]』における電磁気力を想定した共鳴現象。それを現す計算式です」[%p]"
+msgstr "1000:[name]野呂瀬[line]「『[color index=\"A0FF0000\"]基本相互作用[color index=\"800000\"]』における電磁気力を想定した共鳴現象。それを現す計算式です」[%p]"
 
 msgid "1100:[name]野呂瀬[line]「これにより、特定の電磁パルスと受容体とが近接作用することで発現する、未知の力が解明されました」[%p]"
 msgstr "1100:[name]野呂瀬[line]「これにより、特定の電磁パルスと受容体とが近接作用することで発現する、未知の力が解明されました」[%p]"

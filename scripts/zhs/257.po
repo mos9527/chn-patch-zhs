@@ -9,8 +9,8 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:[margin top="266"][center]２ヶ月後――[%18]"
-msgstr "0:[margin top="266"][center]２ヶ月後――[%18]"
+msgid "0:[margin top=\"266\"][center]２ヶ月後――[%18]"
+msgstr "0:[margin top=\"266\"][center]２ヶ月後――[%18]"
 
 msgid "100:冬の空は、青さが少ない。[linebreak]その代わり、夏の空と違って凛とした透明感がある。[%p]"
 msgstr "100:冬の空は、青さが少ない。[linebreak]その代わり、夏の空と違って凛とした透明感がある。[%p]"

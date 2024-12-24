@@ -144,8 +144,8 @@ msgstr "4300:だってこの画像が『将軍』から送られてきたのは�
 msgid "4400:この画像が、２９日の現場を撮ったものだとしたら、つまりこれは“未来を写した写真”っていうことになるじゃないか！[%p]"
 msgstr "4400:この画像が、２９日の現場を撮ったものだとしたら、つまりこれは“未来を写した写真”っていうことになるじゃないか！[%p]"
 
-msgid "4500:[name]優愛[line][margin top="266"][center]「あなたには、予知能力がありますか？」[%e]"
-msgstr "4500:[name]優愛[line][margin top="266"][center]「あなたには、予知能力がありますか？」[%e]"
+msgid "4500:[name]優愛[line][margin top=\"266\"][center]「あなたには、予知能力がありますか？」[%e]"
+msgstr "4500:[name]優愛[line][margin top=\"266\"][center]「あなたには、予知能力がありますか？」[%e]"
 
 msgid "4600:[name]拓巳[line]「うるさい！\u3000そんなはずはないんだ！」[%p]"
 msgstr "4600:[name]拓巳[line]「うるさい！\u3000そんなはずはないんだ！」[%p]"
@@ -204,8 +204,8 @@ msgstr "6300:首筋が、チリチリとする。[linebreak]またあの“視�
 msgid "6400:見られている。何者かに。[%p]"
 msgstr "6400:見られている。何者かに。[%p]"
 
-msgid "6500:[margin top="266"][center]――僕を、見るな。[unk19 index="30"]"
-msgstr "6500:[margin top="266"][center]――僕を、見るな。[unk19 index="30"]"
+msgid "6500:[margin top=\"266\"][center]――僕を、見るな。[unk19 index=\"30\"]"
+msgstr "6500:[margin top=\"266\"][center]――僕を、見るな。[unk19 index=\"30\"]"
 
 msgid "6600:振り返るもんか。[linebreak]“ちょっとやそっとじゃ振り向かないぞゲーム”だ。[%p]"
 msgstr "6600:振り返るもんか。[linebreak]“ちょっとやそっとじゃ振り向かないぞゲーム”だ。[%p]"

@@ -216,8 +216,8 @@ msgstr "6700:[name]優愛[line]「星来ちゃんがお好きなんですね。�
 msgid "6800:声が弾んでる。お世辞で言ってるわけじゃなさそう。[linebreak]意外だ。もしかして優愛って……[%p]"
 msgstr "6800:声が弾んでる。お世辞で言ってるわけじゃなさそう。[linebreak]意外だ。もしかして優愛って……[%p]"
 
-msgid "6900:[name]拓巳[line]「[color index="A0FF0000"]腐……女子[color index="800000"]？」[%p]"
-msgstr "6900:[name]拓巳[line]「[color index="A0FF0000"]腐……女子[color index="800000"]？」[%p]"
+msgid "6900:[name]拓巳[line]「[color index=\"A0FF0000\"]腐……女子[color index=\"800000\"]？」[%p]"
+msgstr "6900:[name]拓巳[line]「[color index=\"A0FF0000\"]腐……女子[color index=\"800000\"]？」[%p]"
 
 msgid "7000:[name]優愛[line]「？？？」[%p]"
 msgstr "7000:[name]優愛[line]「？？？」[%p]"
@@ -258,8 +258,8 @@ msgstr "8100:[name]優愛[line]「へえ……」[%p]"
 msgid "8200:[name]拓巳[line]「あんまりクオリティは高くないよ。顔とか、微妙に崩れてるし。ポーズも平凡すぎてあんまりエロくないし……」[%p]"
 msgstr "8200:[name]拓巳[line]「あんまりクオリティは高くないよ。顔とか、微妙に崩れてるし。ポーズも平凡すぎてあんまりエロくないし……」[%p]"
 
-msgid "8300:[name]拓巳[line]「でも服の胸元部分を[color index="A0FF0000"]キャストオフ[color index="800000"]できるのは、い、今のところそれだけなんだ」[%p]"
-msgstr "8300:[name]拓巳[line]「でも服の胸元部分を[color index="A0FF0000"]キャストオフ[color index="800000"]できるのは、い、今のところそれだけなんだ」[%p]"
+msgid "8300:[name]拓巳[line]「でも服の胸元部分を[color index=\"A0FF0000\"]キャストオフ[color index=\"800000\"]できるのは、い、今のところそれだけなんだ」[%p]"
+msgstr "8300:[name]拓巳[line]「でも服の胸元部分を[color index=\"A0FF0000\"]キャストオフ[color index=\"800000\"]できるのは、い、今のところそれだけなんだ」[%p]"
 
 msgid "8400:[name]優愛[line]「む、胸元……」[%p]"
 msgstr "8400:[name]優愛[line]「む、胸元……」[%p]"
@@ -441,8 +441,8 @@ msgstr "14200:[name]拓巳[line]「…………」[%p]"
 msgid "14300:やばい、今の萌え仕草にはクラッと来そうになった。[%p]"
 msgstr "14300:やばい、今の萌え仕草にはクラッと来そうになった。[%p]"
 
-msgid "14400:優愛って“おっとりお姉さん”[color index="A0FF0000"]属性[color index="800000"]か？[linebreak]僕を誘惑するなんて、この女危険だ。絶対なにか企んでる！[%p]"
-msgstr "14400:優愛って“おっとりお姉さん”[color index="A0FF0000"]属性[color index="800000"]か？[linebreak]僕を誘惑するなんて、この女危険だ。絶対なにか企んでる！[%p]"
+msgid "14400:優愛って“おっとりお姉さん”[color index=\"A0FF0000\"]属性[color index=\"800000\"]か？[linebreak]僕を誘惑するなんて、この女危険だ。絶対なにか企んでる！[%p]"
+msgstr "14400:優愛って“おっとりお姉さん”[color index=\"A0FF0000\"]属性[color index=\"800000\"]か？[linebreak]僕を誘惑するなんて、この女危険だ。絶対なにか企んでる！[%p]"
 
 msgid "14500:[name]優愛[line]「それであの、西條くんに、お願いがあるんです……」[%p]"
 msgstr "14500:[name]優愛[line]「それであの、西條くんに、お願いがあるんです……」[%p]"

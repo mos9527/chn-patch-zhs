@@ -9,279 +9,279 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:[margin top="228"]いつの間に、雨が降り出したんだろう。[unk19 index="150"]"
-msgstr "0:[margin top="228"]いつの間に、雨が降り出したんだろう。[unk19 index="150"]"
+msgid "0:[margin top=\"228\"]いつの間に、雨が降り出したんだろう。[unk19 index=\"150\"]"
+msgstr "0:[margin top=\"228\"]いつの間に、雨が降り出したんだろう。[unk19 index=\"150\"]"
 
-msgid "100:あるいは、ノアⅡによって作り出された雨かもしれない。[unk19 index="180"]"
-msgstr "100:あるいは、ノアⅡによって作り出された雨かもしれない。[unk19 index="180"]"
+msgid "100:あるいは、ノアⅡによって作り出された雨かもしれない。[unk19 index=\"180\"]"
+msgstr "100:あるいは、ノアⅡによって作り出された雨かもしれない。[unk19 index=\"180\"]"
 
-msgid "200:[margin top="228"]視線が、空から降ってくる。[unk19 index="210"]"
-msgstr "200:[margin top="228"]視線が、空から降ってくる。[unk19 index="210"]"
+msgid "200:[margin top=\"228\"]視線が、空から降ってくる。[unk19 index=\"210\"]"
+msgstr "200:[margin top=\"228\"]視線が、空から降ってくる。[unk19 index=\"210\"]"
 
-msgid "300:[margin top="228"]眼差しは、厚くて真っ黒な雨雲を突き抜けて。[unk19 index="120"]"
-msgstr "300:[margin top="228"]眼差しは、厚くて真っ黒な雨雲を突き抜けて。[unk19 index="120"]"
+msgid "300:[margin top=\"228\"]眼差しは、厚くて真っ黒な雨雲を突き抜けて。[unk19 index=\"120\"]"
+msgstr "300:[margin top=\"228\"]眼差しは、厚くて真っ黒な雨雲を突き抜けて。[unk19 index=\"120\"]"
 
-msgid "400:雨のように降り注ぐ。[unk19 index="210"]"
-msgstr "400:雨のように降り注ぐ。[unk19 index="210"]"
+msgid "400:雨のように降り注ぐ。[unk19 index=\"210\"]"
+msgstr "400:雨のように降り注ぐ。[unk19 index=\"210\"]"
 
-msgid "500:[margin top="228"]――彼は、もうダメだよ。[unk19 index="180"]"
-msgstr "500:[margin top="228"]――彼は、もうダメだよ。[unk19 index="180"]"
+msgid "500:[margin top=\"228\"]――彼は、もうダメだよ。[unk19 index=\"180\"]"
+msgstr "500:[margin top=\"228\"]――彼は、もうダメだよ。[unk19 index=\"180\"]"
 
-msgid "600:[margin top="228"]視線の主に向けて、あたしは心の中でつぶやく。[unk19 index="180"]"
-msgstr "600:[margin top="228"]視線の主に向けて、あたしは心の中でつぶやく。[unk19 index="180"]"
+msgid "600:[margin top=\"228\"]視線の主に向けて、あたしは心の中でつぶやく。[unk19 index=\"180\"]"
+msgstr "600:[margin top=\"228\"]視線の主に向けて、あたしは心の中でつぶやく。[unk19 index=\"180\"]"
 
-msgid "700:[margin top="228"]雨の冷たさは感じない。[unk19 index="150"]"
-msgstr "700:[margin top="228"]雨の冷たさは感じない。[unk19 index="150"]"
+msgid "700:[margin top=\"228\"]雨の冷たさは感じない。[unk19 index=\"150\"]"
+msgstr "700:[margin top=\"228\"]雨の冷たさは感じない。[unk19 index=\"150\"]"
 
-msgid "800:[margin top="228"]むしろ頬にかかるその雫は、温かささえ感じる。[unk19 index="120"]"
-msgstr "800:[margin top="228"]むしろ頬にかかるその雫は、温かささえ感じる。[unk19 index="120"]"
+msgid "800:[margin top=\"228\"]むしろ頬にかかるその雫は、温かささえ感じる。[unk19 index=\"120\"]"
+msgstr "800:[margin top=\"228\"]むしろ頬にかかるその雫は、温かささえ感じる。[unk19 index=\"120\"]"
 
-msgid "900:雨を温かいと思ったのは初めてだった。[unk19 index="180"]"
-msgstr "900:雨を温かいと思ったのは初めてだった。[unk19 index="180"]"
+msgid "900:雨を温かいと思ったのは初めてだった。[unk19 index=\"180\"]"
+msgstr "900:雨を温かいと思ったのは初めてだった。[unk19 index=\"180\"]"
 
-msgid "1000:[margin top="228"]ノアⅡのあるあのドームが、[linebreak]背筋が凍るくらいの冷気に包まれていたせいだろうか。[unk19 index="300"]"
-msgstr "1000:[margin top="228"]ノアⅡのあるあのドームが、[linebreak]背筋が凍るくらいの冷気に包まれていたせいだろうか。[unk19 index="300"]"
+msgid "1000:[margin top=\"228\"]ノアⅡのあるあのドームが、[linebreak]背筋が凍るくらいの冷気に包まれていたせいだろうか。[unk19 index=\"300\"]"
+msgstr "1000:[margin top=\"228\"]ノアⅡのあるあのドームが、[linebreak]背筋が凍るくらいの冷気に包まれていたせいだろうか。[unk19 index=\"300\"]"
 
-msgid "1100:[margin top="228"]あたしの目に映るのは、崩壊した街――[unk19 index="120"]"
-msgstr "1100:[margin top="228"]あたしの目に映るのは、崩壊した街――[unk19 index="120"]"
+msgid "1100:[margin top=\"228\"]あたしの目に映るのは、崩壊した街――[unk19 index=\"120\"]"
+msgstr "1100:[margin top=\"228\"]あたしの目に映るのは、崩壊した街――[unk19 index=\"120\"]"
 
-msgid "1200:あたしの目に映るのは、絶望――[unk19 index="120"]"
-msgstr "1200:あたしの目に映るのは、絶望――[unk19 index="120"]"
+msgid "1200:あたしの目に映るのは、絶望――[unk19 index=\"120\"]"
+msgstr "1200:あたしの目に映るのは、絶望――[unk19 index=\"120\"]"
 
-msgid "1300:[margin top="228"]あたしの目に映るのは、死――[unk19 index="120"]"
-msgstr "1300:[margin top="228"]あたしの目に映るのは、死――[unk19 index="120"]"
+msgid "1300:[margin top=\"228\"]あたしの目に映るのは、死――[unk19 index=\"120\"]"
+msgstr "1300:[margin top=\"228\"]あたしの目に映るのは、死――[unk19 index=\"120\"]"
 
-msgid "1400:あたしの目に映るのは、無――[unk19 index="240"]"
-msgstr "1400:あたしの目に映るのは、無――[unk19 index="240"]"
+msgid "1400:あたしの目に映るのは、無――[unk19 index=\"240\"]"
+msgstr "1400:あたしの目に映るのは、無――[unk19 index=\"240\"]"
 
-msgid "1500:[margin top="228"]誰もいない。[unk07 unk="150"]誰も動いてない。[unk07 unk="150"]誰も、生きていない。[unk19 index="150"]"
-msgstr "1500:[margin top="228"]誰もいない。[unk07 unk="150"]誰も動いてない。[unk07 unk="150"]誰も、生きていない。[unk19 index="150"]"
+msgid "1500:[margin top=\"228\"]誰もいない。[unk07 unk=\"150\"]誰も動いてない。[unk07 unk=\"150\"]誰も、生きていない。[unk19 index=\"150\"]"
+msgstr "1500:[margin top=\"228\"]誰もいない。[unk07 unk=\"150\"]誰も動いてない。[unk07 unk=\"150\"]誰も、生きていない。[unk19 index=\"150\"]"
 
-msgid "1600:聞こえるのはただ、降り続ける雨の音だけ。[unk19 index="270"]"
-msgstr "1600:聞こえるのはただ、降り続ける雨の音だけ。[unk19 index="270"]"
+msgid "1600:聞こえるのはただ、降り続ける雨の音だけ。[unk19 index=\"270\"]"
+msgstr "1600:聞こえるのはただ、降り続ける雨の音だけ。[unk19 index=\"270\"]"
 
-msgid "1700:[margin top="228"]方舟はすでに動き出してしまった。[unk19 index="150"]"
-msgstr "1700:[margin top="228"]方舟はすでに動き出してしまった。[unk19 index="150"]"
+msgid "1700:[margin top=\"228\"]方舟はすでに動き出してしまった。[unk19 index=\"150\"]"
+msgstr "1700:[margin top=\"228\"]方舟はすでに動き出してしまった。[unk19 index=\"150\"]"
 
-msgid "1800:それを止めることは叶わなかった。未来には、絶望しかない。[unk19 index="180"]"
-msgstr "1800:それを止めることは叶わなかった。未来には、絶望しかない。[unk19 index="180"]"
+msgid "1800:それを止めることは叶わなかった。未来には、絶望しかない。[unk19 index=\"180\"]"
+msgstr "1800:それを止めることは叶わなかった。未来には、絶望しかない。[unk19 index=\"180\"]"
 
-msgid "1900:[margin top="228"]このまますべてを――[unk19 index="120"]"
-msgstr "1900:[margin top="228"]このまますべてを――[unk19 index="120"]"
+msgid "1900:[margin top=\"228\"]このまますべてを――[unk19 index=\"120\"]"
+msgstr "1900:[margin top=\"228\"]このまますべてを――[unk19 index=\"120\"]"
 
-msgid "2000:生きているものも、死んでいるものも、[unk19 index="120"]"
-msgstr "2000:生きているものも、死んでいるものも、[unk19 index="120"]"
+msgid "2000:生きているものも、死んでいるものも、[unk19 index=\"120\"]"
+msgstr "2000:生きているものも、死んでいるものも、[unk19 index=\"120\"]"
 
-msgid "2100:すべてを優しく包み込んで洗い流してしまうんだろうか。[unk19 index="240"]"
-msgstr "2100:すべてを優しく包み込んで洗い流してしまうんだろうか。[unk19 index="240"]"
+msgid "2100:すべてを優しく包み込んで洗い流してしまうんだろうか。[unk19 index=\"240\"]"
+msgstr "2100:すべてを優しく包み込んで洗い流してしまうんだろうか。[unk19 index=\"240\"]"
 
-msgid "2200:[margin top="228"]そんな、彼の心のつぶやきが、あたしにも聞こえた。[unk19 index="150"]"
-msgstr "2200:[margin top="228"]そんな、彼の心のつぶやきが、あたしにも聞こえた。[unk19 index="150"]"
+msgid "2200:[margin top=\"228\"]そんな、彼の心のつぶやきが、あたしにも聞こえた。[unk19 index=\"150\"]"
+msgstr "2200:[margin top=\"228\"]そんな、彼の心のつぶやきが、あたしにも聞こえた。[unk19 index=\"150\"]"
 
-msgid "2300:[margin top="228"]――なんて、キレイな、心。[unk19 index="150"]"
-msgstr "2300:[margin top="228"]――なんて、キレイな、心。[unk19 index="150"]"
+msgid "2300:[margin top=\"228\"]――なんて、キレイな、心。[unk19 index=\"150\"]"
+msgstr "2300:[margin top=\"228\"]――なんて、キレイな、心。[unk19 index=\"150\"]"
 
-msgid "2400:[margin top="228"]歩み寄る。[unk19 index="120"]"
-msgstr "2400:[margin top="228"]歩み寄る。[unk19 index="120"]"
+msgid "2400:[margin top=\"228\"]歩み寄る。[unk19 index=\"120\"]"
+msgstr "2400:[margin top=\"228\"]歩み寄る。[unk19 index=\"120\"]"
 
-msgid "2500:瓦礫の中に力なく横たわる、彼の元へ。[unk19 index="150"]"
-msgstr "2500:瓦礫の中に力なく横たわる、彼の元へ。[unk19 index="150"]"
+msgid "2500:瓦礫の中に力なく横たわる、彼の元へ。[unk19 index=\"150\"]"
+msgstr "2500:瓦礫の中に力なく横たわる、彼の元へ。[unk19 index=\"150\"]"
 
-msgid "2600:[margin top="228"]彼がこうなってしまったのはあたしのせい。[unk19 index="150"]"
-msgstr "2600:[margin top="228"]彼がこうなってしまったのはあたしのせい。[unk19 index="150"]"
+msgid "2600:[margin top=\"228\"]彼がこうなってしまったのはあたしのせい。[unk19 index=\"150\"]"
+msgstr "2600:[margin top=\"228\"]彼がこうなってしまったのはあたしのせい。[unk19 index=\"150\"]"
 
-msgid "2700:あたしがもっとうまくやっていれば、彼を巻き込まずに済んだんだ。[unk19 index="240"]"
-msgstr "2700:あたしがもっとうまくやっていれば、彼を巻き込まずに済んだんだ。[unk19 index="240"]"
+msgid "2700:あたしがもっとうまくやっていれば、彼を巻き込まずに済んだんだ。[unk19 index=\"240\"]"
+msgstr "2700:あたしがもっとうまくやっていれば、彼を巻き込まずに済んだんだ。[unk19 index=\"240\"]"
 
-msgid "2800:[margin top="228"]罪悪感に苛まれる。[unk19 index="150"]"
-msgstr "2800:[margin top="228"]罪悪感に苛まれる。[unk19 index="150"]"
+msgid "2800:[margin top=\"228\"]罪悪感に苛まれる。[unk19 index=\"150\"]"
+msgstr "2800:[margin top=\"228\"]罪悪感に苛まれる。[unk19 index=\"150\"]"
 
-msgid "2900:自分を責める。[unk19 index="150"]"
-msgstr "2900:自分を責める。[unk19 index="150"]"
+msgid "2900:自分を責める。[unk19 index=\"150\"]"
+msgstr "2900:自分を責める。[unk19 index=\"150\"]"
 
-msgid "3000:[margin top="228"]許して、今、楽にしてあげるから――[unk19 index="270"]"
-msgstr "3000:[margin top="228"]許して、今、楽にしてあげるから――[unk19 index="270"]"
+msgid "3000:[margin top=\"228\"]許して、今、楽にしてあげるから――[unk19 index=\"270\"]"
+msgstr "3000:[margin top=\"228\"]許して、今、楽にしてあげるから――[unk19 index=\"270\"]"
 
-msgid "3100:[margin top="228"]あまりにも悲しい生まれ方をして。[unk19 index="150"]"
-msgstr "3100:[margin top="228"]あまりにも悲しい生まれ方をして。[unk19 index="150"]"
+msgid "3100:[margin top=\"228\"]あまりにも悲しい生まれ方をして。[unk19 index=\"150\"]"
+msgstr "3100:[margin top=\"228\"]あまりにも悲しい生まれ方をして。[unk19 index=\"150\"]"
 
-msgid "3200:あまりにも悲しく死んでいこうとしている。[unk19 index="180"]"
-msgstr "3200:あまりにも悲しく死んでいこうとしている。[unk19 index="180"]"
+msgid "3200:あまりにも悲しく死んでいこうとしている。[unk19 index=\"180\"]"
+msgstr "3200:あまりにも悲しく死んでいこうとしている。[unk19 index=\"180\"]"
 
-msgid "3300:[margin top="228"]このとても臆病で、"
-msgstr "3300:[margin top="228"]このとても臆病で、"
+msgid "3300:[margin top=\"228\"]このとても臆病で、"
+msgstr "3300:[margin top=\"228\"]このとても臆病で、"
 
-msgid "3400:ガラスのように繊細で、[unk19 index="150"]"
-msgstr "3400:ガラスのように繊細で、[unk19 index="150"]"
+msgid "3400:ガラスのように繊細で、[unk19 index=\"150\"]"
+msgstr "3400:ガラスのように繊細で、[unk19 index=\"150\"]"
 
 msgid "3500:このとても臆病で、ガラスのように繊細で、"
 msgstr "3500:このとても臆病で、ガラスのように繊細で、"
 
-msgid "3600:そして純粋すぎたが故に壊れてしまった、心の持ち主を。[unk19 index="240"]"
-msgstr "3600:そして純粋すぎたが故に壊れてしまった、心の持ち主を。[unk19 index="240"]"
+msgid "3600:そして純粋すぎたが故に壊れてしまった、心の持ち主を。[unk19 index=\"240\"]"
+msgstr "3600:そして純粋すぎたが故に壊れてしまった、心の持ち主を。[unk19 index=\"240\"]"
 
-msgid "3700:[margin top="228"]せめて最後ぐらい、苦しませたくなかった。[unk19 index="180"]"
-msgstr "3700:[margin top="228"]せめて最後ぐらい、苦しませたくなかった。[unk19 index="180"]"
+msgid "3700:[margin top=\"228\"]せめて最後ぐらい、苦しませたくなかった。[unk19 index=\"180\"]"
+msgstr "3700:[margin top=\"228\"]せめて最後ぐらい、苦しませたくなかった。[unk19 index=\"180\"]"
 
-msgid "3800:[margin top="228"]横たわる彼の虚ろな瞳が、あたしを見上げていた。[unk19 index="180"]"
-msgstr "3800:[margin top="228"]横たわる彼の虚ろな瞳が、あたしを見上げていた。[unk19 index="180"]"
+msgid "3800:[margin top=\"228\"]横たわる彼の虚ろな瞳が、あたしを見上げていた。[unk19 index=\"180\"]"
+msgstr "3800:[margin top=\"228\"]横たわる彼の虚ろな瞳が、あたしを見上げていた。[unk19 index=\"180\"]"
 
-msgid "3900:[margin top="228"]あたしは自分の感情を排する。[unk19 index="150"]"
-msgstr "3900:[margin top="228"]あたしは自分の感情を排する。[unk19 index="150"]"
+msgid "3900:[margin top=\"228\"]あたしは自分の感情を排する。[unk19 index=\"150\"]"
+msgstr "3900:[margin top=\"228\"]あたしは自分の感情を排する。[unk19 index=\"150\"]"
 
-msgid "4000:この場で泣き出さないために、見ているけど、見ないようにする。[unk19 index="300"]"
-msgstr "4000:この場で泣き出さないために、見ているけど、見ないようにする。[unk19 index="300"]"
+msgid "4000:この場で泣き出さないために、見ているけど、見ないようにする。[unk19 index=\"300\"]"
+msgstr "4000:この場で泣き出さないために、見ているけど、見ないようにする。[unk19 index=\"300\"]"
 
-msgid "4100:[margin top="228"]もしも――[unk19 index="150"]"
-msgstr "4100:[margin top="228"]もしも――[unk19 index="150"]"
+msgid "4100:[margin top=\"228\"]もしも――[unk19 index=\"150\"]"
+msgstr "4100:[margin top=\"228\"]もしも――[unk19 index=\"150\"]"
 
-msgid "4200:[margin top="228"]世界にはあたしとあなたの２人だけしかいなくて。[unk19 index="150"]"
-msgstr "4200:[margin top="228"]世界にはあたしとあなたの２人だけしかいなくて。[unk19 index="150"]"
+msgid "4200:[margin top=\"228\"]世界にはあたしとあなたの２人だけしかいなくて。[unk19 index=\"150\"]"
+msgstr "4200:[margin top=\"228\"]世界にはあたしとあなたの２人だけしかいなくて。[unk19 index=\"150\"]"
 
-msgid "4300:こうしてお互いだけを永遠に見つめ合っていたら――[unk19 index="330"]"
-msgstr "4300:こうしてお互いだけを永遠に見つめ合っていたら――[unk19 index="330"]"
+msgid "4300:こうしてお互いだけを永遠に見つめ合っていたら――[unk19 index=\"330\"]"
+msgstr "4300:こうしてお互いだけを永遠に見つめ合っていたら――[unk19 index=\"330\"]"
 
-msgid "4400:[margin top="228"]あたしの世界はあなたの瞳に映るものだけになるのかな？[unk19 index="180"]"
-msgstr "4400:[margin top="228"]あたしの世界はあなたの瞳に映るものだけになるのかな？[unk19 index="180"]"
+msgid "4400:[margin top=\"228\"]あたしの世界はあなたの瞳に映るものだけになるのかな？[unk19 index=\"180\"]"
+msgstr "4400:[margin top=\"228\"]あたしの世界はあなたの瞳に映るものだけになるのかな？[unk19 index=\"180\"]"
 
-msgid "4500:あなたの世界は、あたしの瞳に映るものだけになるのかな？[unk19 index="240"]"
-msgstr "4500:あなたの世界は、あたしの瞳に映るものだけになるのかな？[unk19 index="240"]"
+msgid "4500:あなたの世界は、あたしの瞳に映るものだけになるのかな？[unk19 index=\"240\"]"
+msgstr "4500:あなたの世界は、あたしの瞳に映るものだけになるのかな？[unk19 index=\"240\"]"
 
-msgid "4600:[margin top="228"]あたしの瞳に映るものは、あなた。[unk19 index="150"]"
-msgstr "4600:[margin top="228"]あたしの瞳に映るものは、あなた。[unk19 index="150"]"
+msgid "4600:[margin top=\"228\"]あたしの瞳に映るものは、あなた。[unk19 index=\"150\"]"
+msgstr "4600:[margin top=\"228\"]あたしの瞳に映るものは、あなた。[unk19 index=\"150\"]"
 
-msgid "4700:あなたの瞳に映るものは、あたし。[unk19 index="150"]"
-msgstr "4700:あなたの瞳に映るものは、あたし。[unk19 index="150"]"
+msgid "4700:あなたの瞳に映るものは、あたし。[unk19 index=\"150\"]"
+msgstr "4700:あなたの瞳に映るものは、あたし。[unk19 index=\"150\"]"
 
-msgid "4800:そう考えると、世界は途端に矮小化する。[unk19 index="240"]"
-msgstr "4800:そう考えると、世界は途端に矮小化する。[unk19 index="240"]"
+msgid "4800:そう考えると、世界は途端に矮小化する。[unk19 index=\"240\"]"
+msgstr "4800:そう考えると、世界は途端に矮小化する。[unk19 index=\"240\"]"
 
-msgid "4900:[margin top="228"]あなたに残された時間だけは、せめて。[unk19 index="150"]"
-msgstr "4900:[margin top="228"]あなたに残された時間だけは、せめて。[unk19 index="150"]"
+msgid "4900:[margin top=\"228\"]あなたに残された時間だけは、せめて。[unk19 index=\"150\"]"
+msgstr "4900:[margin top=\"228\"]あなたに残された時間だけは、せめて。[unk19 index=\"150\"]"
 
-msgid "5000:あたしが、あなたの世界になってあげる。[unk19 index="210"]"
-msgstr "5000:あたしが、あなたの世界になってあげる。[unk19 index="210"]"
+msgid "5000:あたしが、あなたの世界になってあげる。[unk19 index=\"210\"]"
+msgstr "5000:あたしが、あなたの世界になってあげる。[unk19 index=\"210\"]"
 
-msgid "5100:[margin top="228"]もう、苦しい世界も、[unk07 unk="120"]辛い世界も、[unk07 unk="120"]悲しい世界も、[unk19 index="120"]"
-msgstr "5100:[margin top="228"]もう、苦しい世界も、[unk07 unk="120"]辛い世界も、[unk07 unk="120"]悲しい世界も、[unk19 index="120"]"
+msgid "5100:[margin top=\"228\"]もう、苦しい世界も、[unk07 unk=\"120\"]辛い世界も、[unk07 unk=\"120\"]悲しい世界も、[unk19 index=\"120\"]"
+msgstr "5100:[margin top=\"228\"]もう、苦しい世界も、[unk07 unk=\"120\"]辛い世界も、[unk07 unk=\"120\"]悲しい世界も、[unk19 index=\"120\"]"
 
-msgid "5200:見なくていいようにしてあげる。[unk19 index="240"]"
-msgstr "5200:見なくていいようにしてあげる。[unk19 index="240"]"
+msgid "5200:見なくていいようにしてあげる。[unk19 index=\"240\"]"
+msgstr "5200:見なくていいようにしてあげる。[unk19 index=\"240\"]"
 
-msgid "5300:[name]梨深[line][margin top="228"]「ねえ――」[unk19 index="0"]"
-msgstr "5300:[name]梨深[line][margin top="228"]「ねえ――」[unk19 index="0"]"
+msgid "5300:[name]梨深[line][margin top=\"228\"]「ねえ――」[unk19 index=\"0\"]"
+msgstr "5300:[name]梨深[line][margin top=\"228\"]「ねえ――」[unk19 index=\"0\"]"
 
-msgid "5400:[margin top="228"]覚悟を決めて、つぶやく。[unk19 index="240"]"
-msgstr "5400:[margin top="228"]覚悟を決めて、つぶやく。[unk19 index="240"]"
+msgid "5400:[margin top=\"228\"]覚悟を決めて、つぶやく。[unk19 index=\"240\"]"
+msgstr "5400:[margin top=\"228\"]覚悟を決めて、つぶやく。[unk19 index=\"240\"]"
 
-msgid "5500:[margin top="228"]うなだれて――[linebreak]両手を、左右に広げる――[unk19 index="240"]"
-msgstr "5500:[margin top="228"]うなだれて――[linebreak]両手を、左右に広げる――[unk19 index="240"]"
+msgid "5500:[margin top=\"228\"]うなだれて――[linebreak]両手を、左右に広げる――[unk19 index=\"240\"]"
+msgstr "5500:[margin top=\"228\"]うなだれて――[linebreak]両手を、左右に広げる――[unk19 index=\"240\"]"
 
-msgid "5600:[margin top="228"]あの雨雲の上へ向けて、飛び立つように。[unk19 index="240"]"
-msgstr "5600:[margin top="228"]あの雨雲の上へ向けて、飛び立つように。[unk19 index="240"]"
+msgid "5600:[margin top=\"228\"]あの雨雲の上へ向けて、飛び立つように。[unk19 index=\"240\"]"
+msgstr "5600:[margin top=\"228\"]あの雨雲の上へ向けて、飛び立つように。[unk19 index=\"240\"]"
 
-msgid "5700:[margin top="228"]この雨すべてを、受け止めるように。[unk19 index="240"]"
-msgstr "5700:[margin top="228"]この雨すべてを、受け止めるように。[unk19 index="240"]"
+msgid "5700:[margin top=\"228\"]この雨すべてを、受け止めるように。[unk19 index=\"240\"]"
+msgstr "5700:[margin top=\"228\"]この雨すべてを、受け止めるように。[unk19 index=\"240\"]"
 
-msgid "5800:[name]梨深[line][margin top="228"]「あなたを見つめる――」[unk19 index="0"]"
-msgstr "5800:[name]梨深[line][margin top="228"]「あなたを見つめる――」[unk19 index="0"]"
+msgid "5800:[name]梨深[line][margin top=\"228\"]「あなたを見つめる――」[unk19 index=\"0\"]"
+msgstr "5800:[name]梨深[line][margin top=\"228\"]「あなたを見つめる――」[unk19 index=\"0\"]"
 
-msgid "5900:[name]梨深[line][margin top="228"]「妄想――」[unk19 index="0"]"
-msgstr "5900:[name]梨深[line][margin top="228"]「妄想――」[unk19 index="0"]"
+msgid "5900:[name]梨深[line][margin top=\"228\"]「妄想――」[unk19 index=\"0\"]"
+msgstr "5900:[name]梨深[line][margin top=\"228\"]「妄想――」[unk19 index=\"0\"]"
 
-msgid "6000:[margin top="228"]光の羽が乱舞する。[unk07 unk="180"][linebreak]まるで葬送するために空が与えてくれた贈り物。[unk19 index="240"]"
-msgstr "6000:[margin top="228"]光の羽が乱舞する。[unk07 unk="180"][linebreak]まるで葬送するために空が与えてくれた贈り物。[unk19 index="240"]"
+msgid "6000:[margin top=\"228\"]光の羽が乱舞する。[unk07 unk=\"180\"][linebreak]まるで葬送するために空が与えてくれた贈り物。[unk19 index=\"240\"]"
+msgstr "6000:[margin top=\"228\"]光の羽が乱舞する。[unk07 unk=\"180\"][linebreak]まるで葬送するために空が与えてくれた贈り物。[unk19 index=\"240\"]"
 
-msgid "6100:[margin top="228"]ゆっくりと、倒れている彼の前にあたしは膝をついた。[unk19 index="240"]"
-msgstr "6100:[margin top="228"]ゆっくりと、倒れている彼の前にあたしは膝をついた。[unk19 index="240"]"
+msgid "6100:[margin top=\"228\"]ゆっくりと、倒れている彼の前にあたしは膝をついた。[unk19 index=\"240\"]"
+msgstr "6100:[margin top=\"228\"]ゆっくりと、倒れている彼の前にあたしは膝をついた。[unk19 index=\"240\"]"
 
-msgid "6200:[margin top="228"]今、あなたの目を見たら、泣いちゃうから。[unk19 index="180"]"
-msgstr "6200:[margin top="228"]今、あなたの目を見たら、泣いちゃうから。[unk19 index="180"]"
+msgid "6200:[margin top=\"228\"]今、あなたの目を見たら、泣いちゃうから。[unk19 index=\"180\"]"
+msgstr "6200:[margin top=\"228\"]今、あなたの目を見たら、泣いちゃうから。[unk19 index=\"180\"]"
 
-msgid "6300:だからゴメンね。目を、合わせられなくて。[unk19 index="240"]"
-msgstr "6300:だからゴメンね。目を、合わせられなくて。[unk19 index="240"]"
+msgid "6300:だからゴメンね。目を、合わせられなくて。[unk19 index=\"240\"]"
+msgstr "6300:だからゴメンね。目を、合わせられなくて。[unk19 index=\"240\"]"
 
-msgid "6400:[margin top="228"]あたしは彼の頭をそっと抱える。[unk19 index="180"]"
-msgstr "6400:[margin top="228"]あたしは彼の頭をそっと抱える。[unk19 index="180"]"
+msgid "6400:[margin top=\"228\"]あたしは彼の頭をそっと抱える。[unk19 index=\"180\"]"
+msgstr "6400:[margin top=\"228\"]あたしは彼の頭をそっと抱える。[unk19 index=\"180\"]"
 
-msgid "6500:彼の身体には力が入っていなくて。[unk19 index="180"]"
-msgstr "6500:彼の身体には力が入っていなくて。[unk19 index="180"]"
+msgid "6500:彼の身体には力が入っていなくて。[unk19 index=\"180\"]"
+msgstr "6500:彼の身体には力が入っていなくて。[unk19 index=\"180\"]"
 
-msgid "6600:まるで死を覚悟しているかのよう。[unk19 index="240"]"
-msgstr "6600:まるで死を覚悟しているかのよう。[unk19 index="240"]"
+msgid "6600:まるで死を覚悟しているかのよう。[unk19 index=\"240\"]"
+msgstr "6600:まるで死を覚悟しているかのよう。[unk19 index=\"240\"]"
 
-msgid "6700:[name]梨深[line][margin top="228"]「辛いよね……」[unk19 index="300"]"
-msgstr "6700:[name]梨深[line][margin top="228"]「辛いよね……」[unk19 index="300"]"
+msgid "6700:[name]梨深[line][margin top=\"228\"]「辛いよね……」[unk19 index=\"300\"]"
+msgstr "6700:[name]梨深[line][margin top=\"228\"]「辛いよね……」[unk19 index=\"300\"]"
 
-msgid "6800:[name]梨深[line][margin top="228"]「ごめん……ごめんね……」[unk19 index="360"]"
-msgstr "6800:[name]梨深[line][margin top="228"]「ごめん……ごめんね……」[unk19 index="360"]"
+msgid "6800:[name]梨深[line][margin top=\"228\"]「ごめん……ごめんね……」[unk19 index=\"360\"]"
+msgstr "6800:[name]梨深[line][margin top=\"228\"]「ごめん……ごめんね……」[unk19 index=\"360\"]"
 
-msgid "6900:[name]梨深[line][margin top="228"]「今、楽にしてあげるからね……」[unk19 index="360"]"
-msgstr "6900:[name]梨深[line][margin top="228"]「今、楽にしてあげるからね……」[unk19 index="360"]"
+msgid "6900:[name]梨深[line][margin top=\"228\"]「今、楽にしてあげるからね……」[unk19 index=\"360\"]"
+msgstr "6900:[name]梨深[line][margin top=\"228\"]「今、楽にしてあげるからね……」[unk19 index=\"360\"]"
 
-msgid "7000:[margin top="228"]それが独りよがりじゃないことは、彼の態度で分かった。[unk19 index="240"]"
-msgstr "7000:[margin top="228"]それが独りよがりじゃないことは、彼の態度で分かった。[unk19 index="240"]"
+msgid "7000:[margin top=\"228\"]それが独りよがりじゃないことは、彼の態度で分かった。[unk19 index=\"240\"]"
+msgstr "7000:[margin top=\"228\"]それが独りよがりじゃないことは、彼の態度で分かった。[unk19 index=\"240\"]"
 
-msgid "7100:[margin top="228"]――彼は、とても安らかな笑みを浮かべていた。[unk19 index="240"]"
-msgstr "7100:[margin top="228"]――彼は、とても安らかな笑みを浮かべていた。[unk19 index="240"]"
+msgid "7100:[margin top=\"228\"]――彼は、とても安らかな笑みを浮かべていた。[unk19 index=\"240\"]"
+msgstr "7100:[margin top=\"228\"]――彼は、とても安らかな笑みを浮かべていた。[unk19 index=\"240\"]"
 
-msgid "7200:[margin top="228"]その笑顔が悲しくて。[unk19 index="180"]"
-msgstr "7200:[margin top="228"]その笑顔が悲しくて。[unk19 index="180"]"
+msgid "7200:[margin top=\"228\"]その笑顔が悲しくて。[unk19 index=\"180\"]"
+msgstr "7200:[margin top=\"228\"]その笑顔が悲しくて。[unk19 index=\"180\"]"
 
-msgid "7300:ずっと我慢していたのに。[unk19 index="180"]"
-msgstr "7300:ずっと我慢していたのに。[unk19 index="180"]"
+msgid "7300:ずっと我慢していたのに。[unk19 index=\"180\"]"
+msgstr "7300:ずっと我慢していたのに。[unk19 index=\"180\"]"
 
-msgid "7400:涙がにじんで。[unk19 index="240"]"
-msgstr "7400:涙がにじんで。[unk19 index="240"]"
+msgid "7400:涙がにじんで。[unk19 index=\"240\"]"
+msgstr "7400:涙がにじんで。[unk19 index=\"240\"]"
 
-msgid "7500:[margin top="228"]それを彼に見られたくなかったから。[unk19 index="240"]"
-msgstr "7500:[margin top="228"]それを彼に見られたくなかったから。[unk19 index="240"]"
+msgid "7500:[margin top=\"228\"]それを彼に見られたくなかったから。[unk19 index=\"240\"]"
+msgstr "7500:[margin top=\"228\"]それを彼に見られたくなかったから。[unk19 index=\"240\"]"
 
-msgid "7600:[margin top="228"]ようやく安息を手に入れた彼に、[unk07 unk="180"]これ以上心配させたくなかったから。[unk19 index="240"]"
-msgstr "7600:[margin top="228"]ようやく安息を手に入れた彼に、[unk07 unk="180"]これ以上心配させたくなかったから。[unk19 index="240"]"
+msgid "7600:[margin top=\"228\"]ようやく安息を手に入れた彼に、[unk07 unk=\"180\"]これ以上心配させたくなかったから。[unk19 index=\"240\"]"
+msgstr "7600:[margin top=\"228\"]ようやく安息を手に入れた彼に、[unk07 unk=\"180\"]これ以上心配させたくなかったから。[unk19 index=\"240\"]"
 
-msgid "7700:[name]梨深[line][margin top="228"]「ん……っ」[unk19 index="0"]"
-msgstr "7700:[name]梨深[line][margin top="228"]「ん……っ」[unk19 index="0"]"
+msgid "7700:[name]梨深[line][margin top=\"228\"]「ん……っ」[unk19 index=\"0\"]"
+msgstr "7700:[name]梨深[line][margin top=\"228\"]「ん……っ」[unk19 index=\"0\"]"
 
-msgid "7800:[margin top="228"]彼の唇に、キスをしていた。[unk19 index="180"]"
-msgstr "7800:[margin top="228"]彼の唇に、キスをしていた。[unk19 index="180"]"
+msgid "7800:[margin top=\"228\"]彼の唇に、キスをしていた。[unk19 index=\"180\"]"
+msgstr "7800:[margin top=\"228\"]彼の唇に、キスをしていた。[unk19 index=\"180\"]"
 
-msgid "7900:冷たくて、カサカサで、ますます悲しくなってしまう感触。[unk19 index="180"]"
-msgstr "7900:冷たくて、カサカサで、ますます悲しくなってしまう感触。[unk19 index="180"]"
+msgid "7900:冷たくて、カサカサで、ますます悲しくなってしまう感触。[unk19 index=\"180\"]"
+msgstr "7900:冷たくて、カサカサで、ますます悲しくなってしまう感触。[unk19 index=\"180\"]"
 
-msgid "8000:[margin top="228"]でも、キスしたことで、彼の震えが止まって。[unk19 index="180"]"
-msgstr "8000:[margin top="228"]でも、キスしたことで、彼の震えが止まって。[unk19 index="180"]"
+msgid "8000:[margin top=\"228\"]でも、キスしたことで、彼の震えが止まって。[unk19 index=\"180\"]"
+msgstr "8000:[margin top=\"228\"]でも、キスしたことで、彼の震えが止まって。[unk19 index=\"180\"]"
 
-msgid "8100:あたしの温もりが彼の役に立てたんだって、愛おしく思えた。[unk19 index="300"]"
-msgstr "8100:あたしの温もりが彼の役に立てたんだって、愛おしく思えた。[unk19 index="300"]"
+msgid "8100:あたしの温もりが彼の役に立てたんだって、愛おしく思えた。[unk19 index=\"300\"]"
+msgstr "8100:あたしの温もりが彼の役に立てたんだって、愛おしく思えた。[unk19 index=\"300\"]"
 
-msgid "8200:[margin top="228"]唇を離せば、泣き顔を見られちゃうから。[unk19 index="180"]"
-msgstr "8200:[margin top="228"]唇を離せば、泣き顔を見られちゃうから。[unk19 index="180"]"
+msgid "8200:[margin top=\"228\"]唇を離せば、泣き顔を見られちゃうから。[unk19 index=\"180\"]"
+msgstr "8200:[margin top=\"228\"]唇を離せば、泣き顔を見られちゃうから。[unk19 index=\"180\"]"
 
-msgid "8300:唇を離せば、もう一度キスをしたくなるから。[unk19 index="270"]"
-msgstr "8300:唇を離せば、もう一度キスをしたくなるから。[unk19 index="270"]"
+msgid "8300:唇を離せば、もう一度キスをしたくなるから。[unk19 index=\"270\"]"
+msgstr "8300:唇を離せば、もう一度キスをしたくなるから。[unk19 index=\"270\"]"
 
-msgid "8400:[margin top="228"]唇を離せば、[unk07 unk="180"]あたしはワガママになって、殺せなくなってしまうから。[unk19 index="270"]"
-msgstr "8400:[margin top="228"]唇を離せば、[unk07 unk="180"]あたしはワガママになって、殺せなくなってしまうから。[unk19 index="270"]"
+msgid "8400:[margin top=\"228\"]唇を離せば、[unk07 unk=\"180\"]あたしはワガママになって、殺せなくなってしまうから。[unk19 index=\"270\"]"
+msgstr "8400:[margin top=\"228\"]唇を離せば、[unk07 unk=\"180\"]あたしはワガママになって、殺せなくなってしまうから。[unk19 index=\"270\"]"
 
-msgid "8500:[margin top="228"]キスをしたまま、あたしはディソードを彼の胸に突き刺した。[unk19 index="300"]"
-msgstr "8500:[margin top="228"]キスをしたまま、あたしはディソードを彼の胸に突き刺した。[unk19 index="300"]"
+msgid "8500:[margin top=\"228\"]キスをしたまま、あたしはディソードを彼の胸に突き刺した。[unk19 index=\"300\"]"
+msgstr "8500:[margin top=\"228\"]キスをしたまま、あたしはディソードを彼の胸に突き刺した。[unk19 index=\"300\"]"
 
-msgid "8600:[margin top="228"]彼の胸の皮膚を裂き、[unk07 unk="120"]肉をえぐり、[unk07 unk="120"]骨の間を縫い、[unk19 index="240"]"
-msgstr "8600:[margin top="228"]彼の胸の皮膚を裂き、[unk07 unk="120"]肉をえぐり、[unk07 unk="120"]骨の間を縫い、[unk19 index="240"]"
+msgid "8600:[margin top=\"228\"]彼の胸の皮膚を裂き、[unk07 unk=\"120\"]肉をえぐり、[unk07 unk=\"120\"]骨の間を縫い、[unk19 index=\"240\"]"
+msgstr "8600:[margin top=\"228\"]彼の胸の皮膚を裂き、[unk07 unk=\"120\"]肉をえぐり、[unk07 unk=\"120\"]骨の間を縫い、[unk19 index=\"240\"]"
 
-msgid "8700:ゆっくりと身体の中に沈み込んでいく感触が、[unk19 index="180"]"
-msgstr "8700:ゆっくりと身体の中に沈み込んでいく感触が、[unk19 index="180"]"
+msgid "8700:ゆっくりと身体の中に沈み込んでいく感触が、[unk19 index=\"180\"]"
+msgstr "8700:ゆっくりと身体の中に沈み込んでいく感触が、[unk19 index=\"180\"]"
 
-msgid "8800:剣を通してあたしの手に伝わってくる。[unk19 index="300"]"
-msgstr "8800:剣を通してあたしの手に伝わってくる。[unk19 index="300"]"
+msgid "8800:剣を通してあたしの手に伝わってくる。[unk19 index=\"300\"]"
+msgstr "8800:剣を通してあたしの手に伝わってくる。[unk19 index=\"300\"]"
 
-msgid "8900:[margin top="228"]ごめんね――[unk19 index="180"]"
-msgstr "8900:[margin top="228"]ごめんね――[unk19 index="180"]"
+msgid "8900:[margin top=\"228\"]ごめんね――[unk19 index=\"180\"]"
+msgstr "8900:[margin top=\"228\"]ごめんね――[unk19 index=\"180\"]"
 
-msgid "9000:[margin top="228"]もう、ゆっくりと眠っていいんだよ――[unk19 index="210"]"
-msgstr "9000:[margin top="228"]もう、ゆっくりと眠っていいんだよ――[unk19 index="210"]"
+msgid "9000:[margin top=\"228\"]もう、ゆっくりと眠っていいんだよ――[unk19 index=\"210\"]"
+msgstr "9000:[margin top=\"228\"]もう、ゆっくりと眠っていいんだよ――[unk19 index=\"210\"]"
 
-msgid "9100:[margin top="228"]さようなら――[unk19 index="300"]"
-msgstr "9100:[margin top="228"]さようなら――[unk19 index="300"]"
+msgid "9100:[margin top=\"228\"]さようなら――[unk19 index=\"300\"]"
+msgstr "9100:[margin top=\"228\"]さようなら――[unk19 index=\"300\"]"
 

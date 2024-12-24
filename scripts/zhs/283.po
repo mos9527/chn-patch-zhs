@@ -135,8 +135,8 @@ msgstr "4000:どうしてこういうときに限って、すぐに見つから�
 msgid "4100:まだ、僕ののどはゼイゼイという荒い呼吸を繰り返している。[linebreak]その僕を見て、廊下を歩く生徒たちがギョッとして振り返ってくる。[%p]"
 msgstr "4100:まだ、僕ののどはゼイゼイという荒い呼吸を繰り返している。[linebreak]その僕を見て、廊下を歩く生徒たちがギョッとして振り返ってくる。[%p]"
 
-msgid "4200:[margin top="266"][center]――僕を見るな。[unk19 index="30"]"
-msgstr "4200:[margin top="266"][center]――僕を見るな。[unk19 index="30"]"
+msgid "4200:[margin top=\"266\"][center]――僕を見るな。[unk19 index=\"30\"]"
+msgstr "4200:[margin top=\"266\"][center]――僕を見るな。[unk19 index=\"30\"]"
 
 msgid "4300:また音。[%p]"
 msgstr "4300:また音。[%p]"

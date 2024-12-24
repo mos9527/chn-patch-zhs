@@ -234,8 +234,8 @@ msgstr "7300:[name]判[line]「ま、考えすぎだろうが。俺みたいな�
 msgid "7400:[name]優愛[line]「…………」[%p]"
 msgstr "7400:[name]優愛[line]「…………」[%p]"
 
-msgid "7500:[name]判[line]「ただ、[color index="A0FF0000"]集団ストーカー[color index="800000"]ってのは確かに存在するんだよな」[%p]"
-msgstr "7500:[name]判[line]「ただ、[color index="A0FF0000"]集団ストーカー[color index="800000"]ってのは確かに存在するんだよな」[%p]"
+msgid "7500:[name]判[line]「ただ、[color index=\"A0FF0000\"]集団ストーカー[color index=\"800000\"]ってのは確かに存在するんだよな」[%p]"
+msgstr "7500:[name]判[line]「ただ、[color index=\"A0FF0000\"]集団ストーカー[color index=\"800000\"]ってのは確かに存在するんだよな」[%p]"
 
 msgid "7600:[name]優愛[line]「普通のストーカー行為とは、なにが違うんですか？」[%p]"
 msgstr "7600:[name]優愛[line]「普通のストーカー行為とは、なにが違うんですか？」[%p]"

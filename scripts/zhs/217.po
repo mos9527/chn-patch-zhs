@@ -9,14 +9,14 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "0:[name]梨深[line][margin top="266"][center]「これ以上、妄想しちゃダメ」[%e]"
-msgstr "0:[name]梨深[line][margin top="266"][center]「これ以上、妄想しちゃダメ」[%e]"
+msgid "0:[name]梨深[line][margin top=\"266\"][center]「これ以上、妄想しちゃダメ」[%e]"
+msgstr "0:[name]梨深[line][margin top=\"266\"][center]「これ以上、妄想しちゃダメ」[%e]"
 
 msgid "100:妄想に逃げ込もうとする僕の心は、梨深の声によって強制的に引き戻される。[%p]"
 msgstr "100:妄想に逃げ込もうとする僕の心は、梨深の声によって強制的に引き戻される。[%p]"
 
-msgid "200:[name]梨深[line][margin top="266"][center]「これ以上、妄想しちゃダメ」[%e]"
-msgstr "200:[name]梨深[line][margin top="266"][center]「これ以上、妄想しちゃダメ」[%e]"
+msgid "200:[name]梨深[line][margin top=\"266\"][center]「これ以上、妄想しちゃダメ」[%e]"
+msgstr "200:[name]梨深[line][margin top=\"266\"][center]「これ以上、妄想しちゃダメ」[%e]"
 
 msgid "300:妄想に逃げ込もうとする僕の心は、梨深の声によって強制的に引き戻される。[%p]"
 msgstr "300:妄想に逃げ込もうとする僕の心は、梨深の声によって強制的に引き戻される。[%p]"
