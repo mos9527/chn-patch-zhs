@@ -29,17 +29,24 @@ cd chn-patch-zhs
 
 ## 翻译进度
 **注:** 文本源来自官方**日语**脚本，CG源来自官方**日语**脚本
+### 文本
+初步中文脚本由日语脚本经[ollama_translate.py](https://github.com/mos9527/chn-patch-zhs/blob/master/scripts/ollama_translate.py)完成，使用模型及参数为：
+| 模型 | 参数 |
+| --- | --- |
+| SakuraLLM/Sakura-7B-Qwen2.5-v1.0-GGUF | {'temperature': 0.1, 'top_p': 0.3, 'max_tokens': 512,'frequency_penalty':0.1} |
 
+对文本LLM翻译已完全进行。
+### CG
+暂无相关计划
+
+## 校对进度
+### 文本
+TBD
+### CG
+TBD
 ### 参加人员
 - [mos9527](https://github.com/mos9527)
 - *(没了)*
-
-### 专有名词
-| 日语 | 中文 | 注释 |
-| --- | --- | --- |
-| ギガロマニアックス | GIGA-LO-MANIAC | 词源来自 megalomaniac，世界观内指可以把妄想成现实的人 |
-| リアルブート | REAL BOOT | 透过盲点让周围的人认知妄想，把这妄想变成现实 |
-| その目だれの目？ | 那视线是谁的视线 | |
 
 ### 贡献翻译
 #### 准备工作

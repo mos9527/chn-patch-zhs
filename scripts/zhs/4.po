@@ -18,59 +18,59 @@ msgid "100:"
 msgstr "100:"
 
 msgid "200:[color index=\"800000\"]【 ＥＸＴＲＡ 】の"
-msgstr "200:[color index=\"800000\"]【 ＥＸＴＲＡ 】の"
+msgstr "200:[color index=\"800000\"]【EXTRA】"
 
 msgid "300:[color index=\"800000\"]【 ＣＯＮＴＩＮＵＥ 】の"
-msgstr "300:[color index=\"800000\"]【 ＣＯＮＴＩＮＵＥ 】の"
+msgstr "300:[color index=\"800000\"]【CONTINUE】"
 
 msgid "400:[color index=\"A01F0000\"]【 Ｃｌｅａｒ Ｌｉｓｔ 】"
-msgstr "400:[color index=\"A01F0000\"]【 Ｃｌｅａｒ Ｌｉｓｔ 】"
+msgstr "400:[color index=\"A01F0000\"]【CLEAR　LISIT 】"
 
 msgid "500:[color index=\"A01F0000\"]【 ＣＧ ＬＩＢＲＡＲＹ 】"
-msgstr "500:[color index=\"A01F0000\"]【 ＣＧ ＬＩＢＲＡＲＹ 】"
+msgstr "500:[color index=\"A01F0000\"]【CG　LIBRARY】"
 
 msgid "600:[color index=\"A01F0000\"]【 ＳＯＵＮＤ ＬＩＢＲＡＲＹ 】"
-msgstr "600:[color index=\"A01F0000\"]【 ＳＯＵＮＤ ＬＩＢＲＡＲＹ 】"
+msgstr "600:[color index=\"A01F0000\"]【SOUND　LIBRARY】"
 
 msgid "700:[color index=\"A01F0000\"]【 ＭＯＶＩＥ ＬＩＢＲＡＲＹ 】"
-msgstr "700:[color index=\"A01F0000\"]【 ＭＯＶＩＥ ＬＩＢＲＡＲＹ 】"
+msgstr "700:[color index=\"A01F0000\"]【MOVIE　LIBRARY】"
 
 msgid "800:[color index=\"A01F0000\"]【 メッセージ既読率 】"
-msgstr "800:[color index=\"A01F0000\"]【 メッセージ既読率 】"
+msgstr "800:[color index=\"A01F0000\"]【信息已读率】"
 
 msgid "900:[color index=\"A01F0000\"]【 ＳＨＯＲＴＣＵＴ 】"
-msgstr "900:[color index=\"A01F0000\"]【 ＳＨＯＲＴＣＵＴ 】"
+msgstr "900:[color index=\"A01F0000\"]【捷径】"
 
 msgid "1000:[color index=\"800000\"]が使用可能になりました。"
-msgstr "1000:[color index=\"800000\"]が使用可能になりました。"
+msgstr "1000:[color index=\"800000\"]【短　　切　　键】"
 
 msgid "1100:[color index=\"800000\"]が追加されました。"
-msgstr "1100:[color index=\"800000\"]が追加されました。"
+msgstr "1100:[color index=\"800000\"]【已开放新功能】"
 
 msgid "1200:[color index=\"A0FF0000\"]【 ｓｉｌｅｎｔ ｓｋｙ 】エンド"
-msgstr "1200:[color index=\"A0FF0000\"]【 ｓｉｌｅｎｔ ｓｋｙ 】エンド"
+msgstr "1200:[color index=\"A0FF0000\"]【Silent Sky】End"
 
 msgid "1300:[color index=\"A0FF0000\"]【 ｃｒｙｉｎｇ ｓｋｙ 】エンド"
-msgstr "1300:[color index=\"A0FF0000\"]【 ｃｒｙｉｎｇ ｓｋｙ 】エンド"
+msgstr "1300:[color index=\"A0FF0000\"]【Crying Sky】End"
 
 msgid "1400:[color index=\"A0FF0000\"]【 アニマの像 】エンド"
-msgstr "1400:[color index=\"A0FF0000\"]【 アニマの像 】エンド"
+msgstr "1400:[color index=\"A0FF0000\"]【Animato animato】End"
 
 msgid "1500:[color index=\"A0FF0000\"]【 ｄａｙｄｒｅａｍ 】エンド"
-msgstr "1500:[color index=\"A0FF0000\"]【 ｄａｙｄｒｅａｍ 】エンド"
+msgstr "1500:[color index=\"A0FF0000\"]【Daydream】End"
 
 msgid "1600:[color index=\"A0FF0000\"]【 月と太陽 】エンド"
-msgstr "1600:[color index=\"A0FF0000\"]【 月と太陽 】エンド"
+msgstr "1600:[color index=\"A0FF0000\"]【Moon and Sun】End"
 
 msgid "1700:[color index=\"A0FF0000\"]【 罪過に契約の血を 】エンド"
-msgstr "1700:[color index=\"A0FF0000\"]【 罪過に契約の血を 】エンド"
+msgstr "1700:[color index=\"A0FF0000\"]【罪过与契约之血】End"
 
 msgid "1800:[color index=\"A0FF0000\"]【 デウス・エクス・マキナ 】エンド"
-msgstr "1800:[color index=\"A0FF0000\"]【 デウス・エクス・マキナ 】エンド"
+msgstr "1800:[color index=\"A0FF0000\"]【Deus ex machina】End"
 
 msgid "1900:[color index=\"A0FF0000\"]【 殺戮に至る病 】エンド"
-msgstr "1900:[color index=\"A0FF0000\"]【 殺戮に至る病 】エンド"
+msgstr "1900:[color index=\"A0FF0000\"]【杀戮之病末期症候群】End"
 
 msgid "2000:[color index=\"A0FF0000\"]【 ｂｌｕｅ ｓｋｙ 】エンド"
-msgstr "2000:[color index=\"A0FF0000\"]【 ｂｌｕｅ ｓｋｙ 】エンド"
+msgstr "2000:[color index=\"A0FF0000\"]【蓝空】End"
 
